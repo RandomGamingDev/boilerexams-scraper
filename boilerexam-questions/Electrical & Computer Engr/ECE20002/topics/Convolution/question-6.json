@@ -1,0 +1,173 @@
+{
+  "id": "ef972832-3e52-4a20-9332-743df8f6f269",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $u(t)$ be the unit step, $v(t) := u(t-T)$ be a delayed unit step, x(t) be any (well behaved) function of time, and $y(t)$ be\n\n$y(t) := (xu * v)(t)$,\n\nwhere * indicates convolution. Which of the following is another expression for y(t)?",
+    "solution": [
+      6
+    ],
+    "answerChoices": [
+      {
+        "id": "7103c98c-cb27-47e3-b2e1-ac08665c712d",
+        "index": 0,
+        "body": "$\\int _0^{t-T}\\:x\\left(\\tau \\right)d\\tau \\ u\\left(t\\right)-\\int _0^{t-T}\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(T\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "abe61eb1-4850-4ecc-89bd-5481e17e1c91",
+        "index": 1,
+        "body": "$\\int _0^T\\:x\\left(\\tau \\right)d\\tau \\:u\\left(t\\right)-\\int _0^t\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(T\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "df9e768b-1658-4f3f-9476-96e323b26881",
+        "index": 2,
+        "body": "$\\int _{-\\infty }^0\\:x\\left(\\tau \\right)d\\tau \\:u\\left(t\\right)-\\int _0^t\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(T\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "e107a178-a17f-44d4-b62d-4fcd6c69b56b",
+        "index": 3,
+        "body": "$\\int _{-\\infty }^0\\:x\\left(\\tau \\right)d\\tau \\:u\\left(t\\right)-\\int _0^T\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(t\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "af8a6324-6c0b-45b6-a638-32fbb5c11338",
+        "index": 4,
+        "body": "$\\int _{-\\infty }^0\\:x\\left(\\tau \\right)d\\tau\\:-\\int _0^T\\:x\\left(\\tau\\right)d\\tau $",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "f2130940-35b2-4a68-890a-546e05b6952a",
+        "index": 5,
+        "body": "$\\int _0^T\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(t\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "fe05503f-493d-4784-96e2-e4dd1db795db",
+        "index": 6,
+        "body": "$\\int _0^{t-T}\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(t-T\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 495
+        },
+        "resources": []
+      },
+      {
+        "id": "aac90b7a-c71b-443b-9b56-67421f1e8edb",
+        "index": 7,
+        "body": "$\\int _0^{t}\\:x\\left(\\tau \\:\\right)d\\tau \\:u\\left(t-T\\right)$",
+        "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "203827566",
+    "timeSpentVideo": "56397102",
+    "submissions": 852,
+    "submissionsCorrect": 495,
+    "accuracy": 0.5809859154929577,
+    "difficulty": 0.6775210084033614
+  },
+  "resources": [],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "d7bdb8ed-db95-44cf-8fe4-b8e7a79dc7e0",
+    "body": "",
+    "questionId": "ef972832-3e52-4a20-9332-743df8f6f269",
+    "resources": [
+      {
+        "id": "e4be717d-191a-4a9e-9a2d-ee2a95565045",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=3900s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d7bdb8ed-db95-44cf-8fe4-b8e7a79dc7e0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6369bae1-2840-445e-bf7b-1415661ca24d",
+      "name": "Convolution",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2428564325",
+        "timeSpentVideo": "328872390",
+        "submissions": 3720,
+        "submissionsCorrect": 1766,
+        "questions": 5,
+        "accuracy": 0.4747311827956989,
+        "difficulty": 0.7746073298429319
+      }
+    }
+  ],
+  "children": []
+}

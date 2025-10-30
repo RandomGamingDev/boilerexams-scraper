@@ -1,0 +1,143 @@
+{
+  "id": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the surface area of the solid obtained by rotating the curve $y=\\frac{1}{3} x^{3}, 0 \\leq x \\leq 1$, about the $\\mathrm{x}$-axis. Express your answer as a definite integral.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "6ba0e3d2-ec9d-4cf4-9642-7034aa4228ad",
+        "index": 0,
+        "body": "$\\frac{\\pi}{3} \\int_{0}^{1} x^{3} \\sqrt{x^{4}+1} d x$",
+        "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+        "stats": {
+          "count": 220
+        },
+        "resources": []
+      },
+      {
+        "id": "fe9206ab-0f03-43f8-b3a4-af5d724ea1f9",
+        "index": 1,
+        "body": "$\\frac{4 \\pi}{3} \\int_{0}^{1} x^{3} \\sqrt{x^{4}+1} d x$",
+        "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "1d2aaf6b-13f6-4f0a-a2ab-a1ea26302231",
+        "index": 2,
+        "body": "$\\frac{2 \\pi}{3} \\int_{0}^{1} x^{3} \\sqrt{x^{4}+1} d x$",
+        "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+        "stats": {
+          "count": 2164
+        },
+        "resources": []
+      },
+      {
+        "id": "b29ded7e-60b7-4cb6-babf-cf14ac57ebf6",
+        "index": 3,
+        "body": "$\\frac{8 \\pi}{3} \\int_{0}^{1} x^{3} \\sqrt{x^{4}+1} d x$",
+        "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "23e1c07f-f77d-48f6-92e7-1a2a45f7de8c",
+        "index": 4,
+        "body": "$\\frac{16 \\pi}{3} \\int_{0}^{1} x^{3} \\sqrt{x^{4}+1} d x$",
+        "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "457623526",
+    "timeSpentVideo": "15384719",
+    "submissions": 2744,
+    "submissionsCorrect": 2164,
+    "accuracy": 0.7886297376093294,
+    "difficulty": 0.4715189873417721
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "39c5b5a6-49f5-4420-bbb6-5848a0bc62bb",
+    "body": "",
+    "questionId": "099311bd-cf63-4bb4-8621-ead33be9c3c8",
+    "resources": [
+      {
+        "id": "7317953e-884e-44a5-bbc6-d7f0583937ff",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/E9OXgxHncdE?t=1758\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "39c5b5a6-49f5-4420-bbb6-5848a0bc62bb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5e1d381f-93d4-4aaa-94c0-8bd2e7425845",
+      "name": "Surface Area of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5731747357",
+        "timeSpentVideo": "214919653",
+        "submissions": 12287,
+        "submissionsCorrect": 7775,
+        "questions": 4,
+        "accuracy": 0.632782615772768,
+        "difficulty": 0.6182893355937676
+      }
+    }
+  ],
+  "children": []
+}

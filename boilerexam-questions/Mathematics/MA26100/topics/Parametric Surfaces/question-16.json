@@ -1,0 +1,158 @@
+{
+  "id": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the surface area of the parametric surface\n\n\n\\[\n\\mathbf{r}(u, v)=\\langle 2 u+3 v, 3 u+v, 2\\rangle, \\quad 0 \\leq u \\leq 2,0 \\leq v \\leq 1\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "af46dc60-1d5c-422e-92fa-e4b50fd3f13a",
+        "index": 0,
+        "body": "$3 \\sqrt{2}$",
+        "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "4dc3ca35-1e67-479b-80ef-e4b8d6d4bee0",
+        "index": 1,
+        "body": "$14$",
+        "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+        "stats": {
+          "count": 2985
+        },
+        "resources": []
+      },
+      {
+        "id": "2762be42-2150-493b-8a70-56ea2540f0aa",
+        "index": 2,
+        "body": "$4$",
+        "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "f9ef7317-f22c-4245-be55-01e8e0a4f1b2",
+        "index": 3,
+        "body": "$12$",
+        "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "c34acb08-e949-4844-a2c2-3dc3be42a625",
+        "index": 4,
+        "body": "$4 \\sqrt{2}$",
+        "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "579946240",
+    "timeSpentVideo": "63127285",
+    "submissions": 3686,
+    "submissionsCorrect": 2985,
+    "accuracy": 0.8098209441128594,
+    "difficulty": 0.44836238774432113
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "ca99763e-c369-410e-914e-ca9d37f4ddfc",
+    "body": "",
+    "questionId": "ceb8bfd4-3b22-4d6b-9570-65cc52c83746",
+    "resources": [
+      {
+        "id": "c5d5fb50-185a-4f63-9ce2-113d7420ebdb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=sKi8WoccwOHy40kz&t=3184"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ca99763e-c369-410e-914e-ca9d37f4ddfc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "23d62d20-7d47-423e-9d59-d4ad3f2b0aa7",
+      "name": "Surface Area Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8833138800",
+        "timeSpentVideo": "1393283254",
+        "submissions": 23967,
+        "submissionsCorrect": 13781,
+        "questions": 8,
+        "accuracy": 0.5749989568990695,
+        "difficulty": 0.6753126687996012
+      }
+    },
+    {
+      "id": "97ffbc5d-0b8f-4f1e-9ea8-2b8d08bc5dfe",
+      "name": "Parametric Surfaces",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5741546073",
+        "timeSpentVideo": "672689639",
+        "submissions": 14261,
+        "submissionsCorrect": 8523,
+        "questions": 4,
+        "accuracy": 0.5976439239885001,
+        "difficulty": 0.6530360002785321
+      }
+    }
+  ],
+  "children": []
+}

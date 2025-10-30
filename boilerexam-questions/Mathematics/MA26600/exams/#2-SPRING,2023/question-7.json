@@ -1,0 +1,143 @@
+{
+  "id": "23292a9d-6304-4a48-afc3-f6378232123d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find $e^{\\mathbf{A}t}$ for the following matrix\n\n$$A = \\left[ \\begin{matrix} -4 & 0 \\\\ -1 & -4 \\end{matrix} \\right].$$\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "74978d10-c5f0-402d-961c-aa49e075ad4c",
+        "index": 0,
+        "body": "$e^{-4t}\\left[ \\begin{matrix} 4t & 0 \\\\ -t & 4t \\end{matrix} \\right]$",
+        "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "405a8ddd-c898-4de1-b0b1-1f7ab2206425",
+        "index": 1,
+        "body": "$e^{-4t}\\left[ \\begin{matrix} 1 & 0 \\\\ -t & 1 \\end{matrix} \\right]$",
+        "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+        "stats": {
+          "count": 344
+        },
+        "resources": []
+      },
+      {
+        "id": "f7424fbe-a760-4ea6-8edd-57a96b07fcbc",
+        "index": 2,
+        "body": "$e^{-4t}\\left[ \\begin{matrix} 1 +4t & 0 \\\\ -t & 1 + 4t \\end{matrix} \\right]$",
+        "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "46fdb67e-3762-4766-93e4-73db719c80d0",
+        "index": 3,
+        "body": "$\\left[ \\begin{matrix} e^{-4t} & e^{0} \\\\ e^{-t} & e^{-4t} \\end{matrix} \\right]$",
+        "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "5a5dc280-5338-40ff-98c8-6f96ec2cf8ca",
+        "index": 4,
+        "body": "$\\left[ \\begin{matrix} e^{-4t} & 0\\\\ e^{-t} & e^{-4t} \\end{matrix} \\right]$",
+        "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "202745855",
+    "timeSpentVideo": "58380104",
+    "submissions": 828,
+    "submissionsCorrect": 344,
+    "accuracy": 0.41545893719806765,
+    "difficulty": 0.8254310344827587
+  },
+  "resources": [],
+  "exam": {
+    "id": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1365441067",
+      "timeSpentVideo": "306856488",
+      "submissions": 6299,
+      "submissionsCorrect": 3282,
+      "questions": 10,
+      "accuracy": 0.5210350849341165,
+      "difficulty": 0.7292936396311924
+    }
+  },
+  "explanation": {
+    "id": "d99d7ed6-4488-4a1b-b9f4-d7b59f6a3c6a",
+    "body": null,
+    "questionId": "23292a9d-6304-4a48-afc3-f6378232123d",
+    "resources": [
+      {
+        "id": "52edd8ea-d4b1-47fb-86f9-4efc0328aa59",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lizUKYezcSc?si=i2vzcbqjUDVW_-1W&t=2107"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d99d7ed6-4488-4a1b-b9f4-d7b59f6a3c6a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

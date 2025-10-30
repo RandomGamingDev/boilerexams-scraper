@@ -1,0 +1,143 @@
+{
+  "id": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{rr}2 & 3 \\\\ -1 & 1\\end{array}\\right]$ and $B=\\left[\\begin{array}{rr}2 & 9 \\\\ -3 & k\\end{array}\\right]$. What value of $k$, if any, will make $A B=B A$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "629c0719-9680-4e69-9af7-f7d26c9f4ad5",
+        "index": 0,
+        "body": "$k=-1$.",
+        "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+        "stats": {
+          "count": 734
+        },
+        "resources": []
+      },
+      {
+        "id": "7479cb07-f345-4f8b-acba-d44400e82aac",
+        "index": 1,
+        "body": "$k=0$.",
+        "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "ae7dc577-31f2-46e6-afc1-8d1592aaf372",
+        "index": 2,
+        "body": "$k=1$.",
+        "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "0c7c4ce2-a0b9-461c-a8a7-9821e9f8c1a5",
+        "index": 3,
+        "body": "$k=2$.",
+        "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "4bb4edb8-371e-4f66-97f5-9625334e54f7",
+        "index": 4,
+        "body": "No value of $k$ will make $A B=B A$.",
+        "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "189759997",
+    "timeSpentVideo": "13121180",
+    "submissions": 1159,
+    "submissionsCorrect": 734,
+    "accuracy": 0.633304572907679,
+    "difficulty": 0.6272835583796664
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "d8e7057e-391c-4f05-a426-068037e3ee10",
+    "body": "",
+    "questionId": "b9ed7cdd-0d96-4f54-b82b-2a1af534560f",
+    "resources": [
+      {
+        "id": "4788037e-5d4b-4091-af40-ac482f1bd108",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4718"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d8e7057e-391c-4f05-a426-068037e3ee10",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c0dc3367-8625-4d57-85eb-90ac0c8f2323",
+      "name": "Matrix Addition and Multiplication",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8162413508",
+        "timeSpentVideo": "815735998",
+        "submissions": 16260,
+        "submissionsCorrect": 9237,
+        "questions": 9,
+        "accuracy": 0.5680811808118081,
+        "difficulty": 0.6823349633251834
+      }
+    }
+  ],
+  "children": []
+}

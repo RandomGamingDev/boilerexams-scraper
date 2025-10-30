@@ -1,0 +1,158 @@
+{
+  "id": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following improper integrals converge? \n\nI. $\\int_{2}^{\\infty} \\frac{dx}{x}$\n\nII. $\\int_{0}^{1} \\frac{dx}{x^2}$\n\nIII.$\\int_{3}^{5} \\frac{dx}{(x - 3)^{1/2}}$\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f2f4ad2e-6ffe-49dd-94d5-3b170ab93f01",
+        "index": 0,
+        "body": "I and II only",
+        "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+        "stats": {
+          "count": 336
+        },
+        "resources": []
+      },
+      {
+        "id": "0834948f-c89d-4150-8047-1c41fa097e9b",
+        "index": 1,
+        "body": "I and III only",
+        "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+        "stats": {
+          "count": 577
+        },
+        "resources": []
+      },
+      {
+        "id": "73403240-9391-4b30-bdde-85df3f77c505",
+        "index": 2,
+        "body": "II only",
+        "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+        "stats": {
+          "count": 515
+        },
+        "resources": []
+      },
+      {
+        "id": "c1e60709-1f9b-46ce-825f-663b177e89ce",
+        "index": 3,
+        "body": "II and III only",
+        "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+        "stats": {
+          "count": 953
+        },
+        "resources": []
+      },
+      {
+        "id": "ecbcaf4d-aadc-4c78-8be1-e34bcb9dc405",
+        "index": 4,
+        "body": "III only",
+        "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+        "stats": {
+          "count": 3845
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "854348258",
+    "timeSpentVideo": "143311655",
+    "submissions": 6683,
+    "submissionsCorrect": 3845,
+    "accuracy": 0.575340415980847,
+    "difficulty": 0.6757703081232493
+  },
+  "resources": [],
+  "exam": {
+    "id": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8244103510",
+      "timeSpentVideo": "1068074029",
+      "submissions": 46306,
+      "submissionsCorrect": 27622,
+      "questions": 12,
+      "accuracy": 0.5965101714680603,
+      "difficulty": 0.6536977976985735
+    }
+  },
+  "explanation": {
+    "id": "6068e295-ba2c-4d91-b8f8-0d4c0e97cc2a",
+    "body": "",
+    "questionId": "41b8654c-22bf-4ae1-ada9-a4c3d1705a0e",
+    "resources": [
+      {
+        "id": "4103195f-d086-45e4-8b5a-3e2204af95b6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ezJ9t_oy2s0?t=1035\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6068e295-ba2c-4d91-b8f8-0d4c0e97cc2a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0f35fb89-57ce-4c77-8e90-dfcc55f1c6ce",
+      "name": "Improper Integral",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14329891277",
+        "timeSpentVideo": "894017817",
+        "submissions": 35492,
+        "submissionsCorrect": 21862,
+        "questions": 9,
+        "accuracy": 0.6159697960103685,
+        "difficulty": 0.6343560350640594
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    }
+  ],
+  "children": []
+}

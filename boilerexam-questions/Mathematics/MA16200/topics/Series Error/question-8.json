@@ -1,0 +1,143 @@
+{
+  "id": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the minimum number of terms to add in $\\sum_{k=0}^{\\infty} \\frac{(-1)^{k}}{k+1}$ to ensure that the partial sum is no more than $0.1$ away from the sum of the infinity series?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b41d2170-6993-46d9-a220-f0ffc2cb5c47",
+        "index": 0,
+        "body": "$8$",
+        "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+        "stats": {
+          "count": 785
+        },
+        "resources": []
+      },
+      {
+        "id": "539c51f8-4499-47e6-b102-048667ef7a8e",
+        "index": 1,
+        "body": "$9$",
+        "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+        "stats": {
+          "count": 1876
+        },
+        "resources": []
+      },
+      {
+        "id": "00ace857-c266-49f7-9477-0c3a1cf995eb",
+        "index": 2,
+        "body": "$10$",
+        "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+        "stats": {
+          "count": 253
+        },
+        "resources": []
+      },
+      {
+        "id": "1881f588-5964-4977-b5a9-76033950d088",
+        "index": 3,
+        "body": "$11$",
+        "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "f1a73368-21b4-4bab-b565-cfad6cad7144",
+        "index": 4,
+        "body": "$12$",
+        "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "378479434",
+    "timeSpentVideo": "238641878",
+    "submissions": 3473,
+    "submissionsCorrect": 1876,
+    "accuracy": 0.5401670025914195,
+    "difficulty": 0.7109571788413098
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6066023335",
+      "timeSpentVideo": "2648915964",
+      "submissions": 43310,
+      "submissionsCorrect": 26203,
+      "questions": 12,
+      "accuracy": 0.6050103902101132,
+      "difficulty": 0.6452315134761576
+    }
+  },
+  "explanation": {
+    "id": "d2112443-325a-40c3-b9a1-f6854370d514",
+    "body": "",
+    "questionId": "5f04a681-8fd9-41d7-8307-88578605a4b4",
+    "resources": [
+      {
+        "id": "c5ea9a0d-7c61-496b-a111-505574cb3a57",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=1426\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d2112443-325a-40c3-b9a1-f6854370d514",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c350521d-3d0d-4ed6-8870-2a41ca6b21c1",
+      "name": "Series Error",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1002405131",
+        "timeSpentVideo": "322259848",
+        "submissions": 3473,
+        "submissionsCorrect": 1876,
+        "questions": 1,
+        "accuracy": 0.5401670025914195,
+        "difficulty": 0.7109571788413098
+      }
+    }
+  ],
+  "children": []
+}

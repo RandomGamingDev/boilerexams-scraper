@@ -1,0 +1,143 @@
+{
+  "id": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find an equation of the plane \n$\\left\\{\n\\begin{aligned}\n&\\textrm{passing through the point } P(2,1,5), \\textrm{and}\\\\\n&\\textrm{perpendicular to the planes } 3x+y-5z = 2 \\textrm{and} -x+2y+z = 7\n\\end{aligned}\n\\right.$\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "de6b5beb-c15d-4aa8-bca2-eb909ca0fe85",
+        "index": 0,
+        "body": "$2x+y+5z =3 \\cdot( -1)+1 \\cdot2+( -5) \\cdot1$",
+        "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "c29f6152-b495-4d87-b153-827122682723",
+        "index": 1,
+        "body": "$11x+2y +7z =0$",
+        "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "0292ec97-c2b1-44e3-aa8f-4d87a0c01c6b",
+        "index": 2,
+        "body": "$11(x - 2)+2(y - 1)+7(z - 5)=0$",
+        "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "74414758-1f35-4d51-9701-f5c1e0c3ac0d",
+        "index": 3,
+        "body": "$11(x - 2)-2(y - 1)+7(z - 5)=0$",
+        "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "c63ec121-1367-4328-8cbe-ecf0ff6a0243",
+        "index": 4,
+        "body": "$(3 \\cdot( -1))x+(1 \\cdot 2)y+(( -5) \\cdot 1)z =2+1+5$",
+        "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "8693659",
+    "timeSpentVideo": "1060790",
+    "submissions": 45,
+    "submissionsCorrect": 27,
+    "accuracy": 0.6,
+    "difficulty": 0.7189655172413794
+  },
+  "resources": [],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "a91f9182-5e47-4e40-8e76-c4d4e482e65c",
+    "body": null,
+    "questionId": "78d168fe-d69f-4b62-9219-73bf99f4488a",
+    "resources": [
+      {
+        "id": "a8595585-fe50-40de-af5e-c6c9f2dc5f71",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=8hp9iQp1HmCcagbV&t=584"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a91f9182-5e47-4e40-8e76-c4d4e482e65c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3cbd83e1-bdcf-4a9c-b6a6-2e54384964bb",
+      "name": "Planes ",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "48830298",
+        "timeSpentVideo": "1060790",
+        "submissions": 45,
+        "submissionsCorrect": 27,
+        "questions": 1,
+        "accuracy": 0.6,
+        "difficulty": 0.7189655172413794
+      }
+    }
+  ],
+  "children": []
+}

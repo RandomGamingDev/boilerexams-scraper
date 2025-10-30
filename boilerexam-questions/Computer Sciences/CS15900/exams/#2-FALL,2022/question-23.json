@@ -1,0 +1,118 @@
+{
+  "id": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding arrays in the C programming language is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ba0ec08a-a4c9-41af-816c-0fa2e1dd7551",
+        "index": 0,
+        "body": "Individual elements of an array can be passed by address through the use of the address operator.",
+        "questionId": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+        "stats": {
+          "count": 439
+        },
+        "resources": []
+      },
+      {
+        "id": "a9659bff-0f28-4c78-bad6-7994e0b092a9",
+        "index": 1,
+        "body": "If more than one element of an array is passed to a function as separate parameters in a single function call (for example: <font style=\"font-family:'Courier New'\">fx(x[1], x[2])</font>), then those elements are passed by address.",
+        "questionId": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+        "stats": {
+          "count": 2600
+        },
+        "resources": []
+      },
+      {
+        "id": "c464f0fb-b580-416f-b026-2083f9d2f9bc",
+        "index": 2,
+        "body": "In order to prevent a function from making changes to an entire array that is passed in as a parameter, the calling function must manually make a copy of the array to provide to the called function.",
+        "questionId": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+        "stats": {
+          "count": 921
+        },
+        "resources": []
+      },
+      {
+        "id": "6b8b1619-953e-4fef-a03e-8f57daf08fa4",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "251552549",
+    "timeSpentVideo": "0",
+    "submissions": 4381,
+    "submissionsCorrect": 2600,
+    "accuracy": 0.5934718100890207,
+    "difficulty": 0.6586141486275385
+  },
+  "resources": [],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "a4900127-cced-4a56-aee8-5e0d5a78ac5f",
+    "body": "",
+    "questionId": "80823ec4-3bd5-4484-beca-6ed6fbcbbb50",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

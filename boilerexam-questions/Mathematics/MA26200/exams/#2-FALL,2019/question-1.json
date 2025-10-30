@@ -1,0 +1,143 @@
+{
+  "id": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{A}$ be an $n \\times n$ nonsingular matrix. Which of the following statements must be true?\n\n(i) $\\operatorname{det} \\mathbf{A}=0$.\n(ii) $\\operatorname{rank}(\\mathbf{A})=n$.\n(iii) $\\mathbf{A x}=\\mathbf{0}$ has infinitely many solutions.\n(iv) $\\mathbf{A} \\mathbf{x}=\\mathbf{b}$ has a unique solution for every vector $\\mathbf{b} \\in \\mathbb{R}^{n}$.\n(v) A must be row equivalent to the $n \\times n$ identity matrix $\\mathbf{I}_{n}$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "32e59525-edaf-4b1d-968d-c3f070e8c31d",
+        "index": 0,
+        "body": "(i) and (iii) only",
+        "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "22f546cc-1f19-47e4-8c6b-3230ecac7f95",
+        "index": 1,
+        "body": "(ii) and (iv) only",
+        "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+        "stats": {
+          "count": 226
+        },
+        "resources": []
+      },
+      {
+        "id": "8f51775f-9a60-4bb4-8d31-fcc000256749",
+        "index": 2,
+        "body": "(i), (iv) and (v)",
+        "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "e6b59cf2-24cf-473f-9637-1ab96f2d6105",
+        "index": 3,
+        "body": "(i), (iii) and (v)",
+        "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "bacc8fa5-f3f2-4973-9adf-307498a81a8e",
+        "index": 4,
+        "body": "(ii), (iv) and (v)",
+        "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+        "stats": {
+          "count": 694
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "267683561",
+    "timeSpentVideo": "158219390",
+    "submissions": 1333,
+    "submissionsCorrect": 694,
+    "accuracy": 0.5206301575393848,
+    "difficulty": 0.7308094905792044
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "9e06181c-d33a-4b82-9ee0-6a96b4f70c57",
+    "body": "",
+    "questionId": "8ff7c2e3-807a-468a-a0be-3bfca7824834",
+    "resources": [
+      {
+        "id": "d69ebb54-606d-4f81-a93c-661323e7cf7b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=m_Jans6pQe0oLWiD\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9e06181c-d33a-4b82-9ee0-6a96b4f70c57",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

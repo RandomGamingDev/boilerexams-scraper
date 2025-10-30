@@ -1,0 +1,153 @@
+{
+  "id": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the length of the curve $y=\\ln (\\sec x)$ from $(0,0)$ to $\\left(\\frac{\\pi}{4}, \\frac{\\ln 2}{2}\\right)$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "321159cb-d661-43fe-98e8-965f1d735c42",
+        "index": 0,
+        "body": "$\\ln (1+\\sqrt{2})$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 1301
+        },
+        "resources": []
+      },
+      {
+        "id": "18f21ec0-a4aa-467b-aaea-c84474980946",
+        "index": 1,
+        "body": "$\\sqrt{4-2 \\sqrt{2}}$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "69787dda-c925-47dc-9858-74bb87cc946c",
+        "index": 2,
+        "body": "$\\sqrt{2}$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "fec52ef5-1909-4843-a099-bca665d28d4f",
+        "index": 3,
+        "body": "$\\frac{\\pi}{6}+\\frac{1}{2} \\ln \\left(\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\right)$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "8de80358-1be6-4929-9c3b-c10430d62183",
+        "index": 4,
+        "body": "$\\frac{\\pi+\\ln 4}{4}$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "8082d8b1-0ecf-4963-9b39-e225f58fb0b7",
+        "index": 5,
+        "body": "$\\frac{\\pi+4}{4}$",
+        "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "606750932",
+    "timeSpentVideo": "63263679",
+    "submissions": 2512,
+    "submissionsCorrect": 1301,
+    "accuracy": 0.5179140127388535,
+    "difficulty": 0.7327718223583461
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444048911",
+      "timeSpentVideo": "2335774508",
+      "submissions": 74336,
+      "submissionsCorrect": 39139,
+      "questions": 25,
+      "accuracy": 0.526514743865691,
+      "difficulty": 0.7235208769950024
+    }
+  },
+  "explanation": {
+    "id": "3ef53429-8964-42c1-9acb-8050376366a0",
+    "body": "",
+    "questionId": "ff39f6e5-16db-48b9-b175-d4d71bf58d75",
+    "resources": [
+      {
+        "id": "02efce9f-74bd-456a-b1f3-287cdbc6511d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3cm65JbMGM8?t=127\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3ef53429-8964-42c1-9acb-8050376366a0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a73d585a-5c9f-43ad-b5fd-3789a6c57ffb",
+      "name": "Length of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3229460147",
+        "timeSpentVideo": "167552642",
+        "submissions": 8852,
+        "submissionsCorrect": 5162,
+        "questions": 3,
+        "accuracy": 0.5831450519656575,
+        "difficulty": 0.6677837354781054
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "55913969-9f36-48de-9607-ffbbfd0560ff",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the fourth term of the Taylor series representation of the function $f(x)=\\ln x$ centered at $a=2$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "e87f9419-d213-40c8-b870-5204764a9843",
+        "index": 0,
+        "body": "$\\frac{1}{6}(x-2)^{3}$",
+        "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      },
+      {
+        "id": "b83b37ba-5ff9-4f5e-8a57-ae87042ee098",
+        "index": 1,
+        "body": "$\\frac{1}{12}(x-2)^{3}$",
+        "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+        "stats": {
+          "count": 203
+        },
+        "resources": []
+      },
+      {
+        "id": "df62540e-1b68-41dd-8c63-18111ad4c56e",
+        "index": 2,
+        "body": "$\\frac{1}{24}(x-2)^{3}$",
+        "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+        "stats": {
+          "count": 2393
+        },
+        "resources": []
+      },
+      {
+        "id": "ad02cb92-e478-4f15-ac0a-e2b9dbfc2a89",
+        "index": 3,
+        "body": "$-\\frac{1}{3}(x-2)^{3}$",
+        "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+        "stats": {
+          "count": 157
+        },
+        "resources": []
+      },
+      {
+        "id": "5faa18ea-db88-44d3-bfff-21d332906b17",
+        "index": 4,
+        "body": "$-(x-2)^{3}$",
+        "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "600170733",
+    "timeSpentVideo": "55801259",
+    "submissions": 3194,
+    "submissionsCorrect": 2393,
+    "accuracy": 0.7492172824045085,
+    "difficulty": 0.5083485124468731
+  },
+  "resources": [],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838346198",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83620,
+      "submissionsCorrect": 49984,
+      "questions": 25,
+      "accuracy": 0.5977517340349199,
+      "difficulty": 0.6523650262780698
+    }
+  },
+  "explanation": {
+    "id": "7508cae3-6202-400d-b3d8-ec9c0fb527b4",
+    "body": "",
+    "questionId": "55913969-9f36-48de-9607-ffbbfd0560ff",
+    "resources": [
+      {
+        "id": "9a2c7017-4bca-48ce-9b42-d6b64cd4c1a5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/dqI7VYbGoVc?t=975\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7508cae3-6202-400d-b3d8-ec9c0fb527b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "58e98ebf-e8a1-4bf5-8c67-d568da7b5f65",
+      "name": "Taylor Polynomial",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7926557724",
+        "timeSpentVideo": "579629183",
+        "submissions": 19196,
+        "submissionsCorrect": 12410,
+        "questions": 8,
+        "accuracy": 0.6464888518441342,
+        "difficulty": 0.6042703150912107
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statement(s) is/are TRUE?\n\n\n(I) The vector $\\mathbf{v}=\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$ is an eigenvector for $A=\\left[\\begin{array}{rr}1 & 3 \\\\ -3 & -5\\end{array}\\right]$.\n\n(II) The origin is a saddle point for the linear system $\\mathbf{x}^{\\prime}=\\left[\\begin{array}{ll}2 & 4 \\\\ 4 & 2\\end{array}\\right] \\mathbf{x}$.\n\n(III) Given that the general solution to the linear system $\\mathbf{x}^{\\prime}=\\left[\\begin{array}{ll}5 & 2 \\\\ 1 & 4\\end{array}\\right] \\mathbf{x}$ is\n\n\\[\n\\mathbf{x}(t)=C_{1} e^{3 t}\\left[\\begin{array}{r}\n-1 \\\\\n1\n\\end{array}\\right]+C_{2} e^{6 t}\\left[\\begin{array}{l}\n2 \\\\\n1\n\\end{array}\\right]\n\\]\n\nthe origin is a nodal source.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "840d3f78-0fa3-45d7-b377-ed26bf2f2f17",
+        "index": 0,
+        "body": "Only (II)",
+        "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "23b3d44c-82bd-4b94-a4db-f364f16c5103",
+        "index": 1,
+        "body": "Only (I) and (III)",
+        "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "9c178677-154f-4fcd-8cce-6ac5a8f0cac9",
+        "index": 2,
+        "body": "Only (III)",
+        "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "7bb81474-bd61-4d13-86ce-1d61770ce660",
+        "index": 3,
+        "body": "Only (II) and (III)",
+        "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+        "stats": {
+          "count": 259
+        },
+        "resources": []
+      },
+      {
+        "id": "59f6d40d-5cfe-43b9-a492-22caa91bfc27",
+        "index": 4,
+        "body": "All are TRUE",
+        "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "133135924",
+    "timeSpentVideo": "0",
+    "submissions": 373,
+    "submissionsCorrect": 259,
+    "accuracy": 0.6943699731903485,
+    "difficulty": 0.596723044397463
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "02ca8d69-ede4-4991-82f8-a6b3f3cc6f8d",
+    "body": "",
+    "questionId": "ff0e7452-78ec-4251-a8fc-0ff46babd6ee",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4a0dc780-9f5c-4a97-9f9c-82f56b841b3a",
+      "name": "Phase Portrait",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "674446336",
+        "timeSpentVideo": "0",
+        "submissions": 915,
+        "submissionsCorrect": 656,
+        "questions": 3,
+        "accuracy": 0.7169398907103826,
+        "difficulty": 0.5544334975369458
+      }
+    },
+    {
+      "id": "5e4387fc-2000-4da7-bb38-ec017f8d7870",
+      "name": "Eigenvalues",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2488615864",
+        "timeSpentVideo": "230395100",
+        "submissions": 6150,
+        "submissionsCorrect": 3469,
+        "questions": 9,
+        "accuracy": 0.5640650406504065,
+        "difficulty": 0.68696
+      }
+    }
+  ],
+  "children": []
+}

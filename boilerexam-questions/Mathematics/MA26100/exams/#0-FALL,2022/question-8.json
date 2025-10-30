@@ -1,0 +1,143 @@
+{
+  "id": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Choose the triple integral in spherical coordinates that represents the volume of the solid bounded by the cone $z=-\\sqrt{x^{2}+y^{2}}$ and the sphere $x^{2}+y^{2}+z^{2}=16$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "4c8b454b-e8ed-40e7-a021-189afbb6a85c",
+        "index": 0,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{\\frac{3 \\pi}{4}}^{\\pi} \\int_{0}^{4} \\rho^{2} \\sin \\phi d \\rho d \\phi d \\theta$",
+        "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+        "stats": {
+          "count": 2855
+        },
+        "resources": []
+      },
+      {
+        "id": "3e7b4a84-2b49-4ad9-b691-fcb04042b25e",
+        "index": 1,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{\\frac{3 \\pi}{4}}^{\\pi} \\int_{0}^{4} \\rho \\sin \\phi d \\rho d \\phi d \\theta$",
+        "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+        "stats": {
+          "count": 202
+        },
+        "resources": []
+      },
+      {
+        "id": "d472c295-637c-44ce-b1cd-d7cafb837aee",
+        "index": 2,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{\\frac{\\pi}{4}} \\int_{0}^{4} \\rho \\sin ^{2} \\phi d \\rho d \\phi d \\theta$",
+        "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "0f782107-47d8-4052-8020-0feaab08184d",
+        "index": 3,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{\\frac{\\pi}{4}} \\int_{0}^{4} \\rho^{2} \\sin \\phi d \\rho d \\phi d \\theta$",
+        "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+        "stats": {
+          "count": 904
+        },
+        "resources": []
+      },
+      {
+        "id": "37c4e681-3445-4f77-8dde-889a5db58d82",
+        "index": 4,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{\\frac{\\pi}{4}}^{\\frac{3 \\pi}{4}} \\int_{0}^{4} \\rho^{2} \\sin \\phi d \\rho d \\phi d \\theta$",
+        "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+        "stats": {
+          "count": 749
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "967908843",
+    "timeSpentVideo": "272852624",
+    "submissions": 5402,
+    "submissionsCorrect": 2855,
+    "accuracy": 0.5285079600148094,
+    "difficulty": 0.7220101781170484
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "55c0390c-2ae8-4f33-8a4d-6b6934323921",
+    "body": "",
+    "questionId": "e12cf220-79eb-4f8a-8685-4ce644eb83dd",
+    "resources": [
+      {
+        "id": "c883c47c-097c-4a70-93fe-c1fb2dc4ba8f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=GItDLjQynXXU_iVH&t=1475"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "55c0390c-2ae8-4f33-8a4d-6b6934323921",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    }
+  ],
+  "children": []
+}

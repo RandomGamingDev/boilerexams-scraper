@@ -1,0 +1,143 @@
+{
+  "id": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Differentiate $y=\\sqrt{3-2 x}$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5841c99c-133a-40d7-9509-aad28358559b",
+        "index": 0,
+        "body": "$y^{\\prime}=\\frac{1}{2 \\sqrt{3-2 x}}$",
+        "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "acc04bfd-a2ac-48cf-aee3-26ca76a24762",
+        "index": 1,
+        "body": "$y^{\\prime}=\\frac{-1}{\\sqrt{3-2 x}}$",
+        "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+        "stats": {
+          "count": 627
+        },
+        "resources": []
+      },
+      {
+        "id": "c17a7d33-517f-4550-8e2e-6b34fbdbd0ef",
+        "index": 2,
+        "body": "$y^{\\prime}=\\frac{-(3-2 x)^{3 / 2}}{3}$",
+        "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "e07ff2b3-5f38-4c07-94a6-6d63b8a1b550",
+        "index": 3,
+        "body": "$y^{\\prime}=\\frac{-1}{3-2 x}$",
+        "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "daa9d2dd-9667-4183-a9bc-e15475cfc441",
+        "index": 4,
+        "body": "$y^{\\prime}=\\frac{2}{3}(3-2 x)^{3 / 2}$",
+        "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "82548086",
+    "timeSpentVideo": "4017135",
+    "submissions": 822,
+    "submissionsCorrect": 627,
+    "accuracy": 0.7627737226277372,
+    "difficulty": 0.5157266811279827
+  },
+  "resources": [],
+  "exam": {
+    "id": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1770975501",
+      "timeSpentVideo": "298645152",
+      "submissions": 11631,
+      "submissionsCorrect": 7465,
+      "questions": 12,
+      "accuracy": 0.6418192760725647,
+      "difficulty": 0.609389651351121
+    }
+  },
+  "explanation": {
+    "id": "8728f716-b472-4884-8653-3f516ef20780",
+    "body": "",
+    "questionId": "ef46a5bd-1933-4451-bb09-c2787c3f7b4a",
+    "resources": [
+      {
+        "id": "8d924956-261c-4284-82f8-4b9838c4e916",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/clRJJDp2Mg0?t=1648"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8728f716-b472-4884-8653-3f516ef20780",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6421ce7e-e094-46dc-986c-6f30f78597a8",
+      "name": "Derivatives of Roots",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1377431738",
+        "timeSpentVideo": "61671027",
+        "submissions": 3055,
+        "submissionsCorrect": 2152,
+        "questions": 3,
+        "accuracy": 0.7044189852700491,
+        "difficulty": 0.5520602218700476
+      }
+    }
+  ],
+  "children": []
+}

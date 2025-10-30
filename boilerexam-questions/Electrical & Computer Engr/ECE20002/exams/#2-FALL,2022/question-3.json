@@ -1,0 +1,190 @@
+{
+  "id": "96387d7d-907b-445f-913d-240c97ed971b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, find an expression (in amperes) for the inductor current labelled, $i_L(t)$, for all times $t\\geq 0$. Assume that $i_L(0^-)$ = 0 A. $i'_L(0^+)$ = 0 A/s, and that the particular solution is $5e^{-2t}$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "12305eb0-664e-4422-8d63-f2793240f29f",
+        "index": 0,
+        "body": "$5e^{-2t}-5\\cos\\left(10t\\right)+\\sin\\left(10t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 427
+        },
+        "resources": []
+      },
+      {
+        "id": "5b575bc1-e6d2-436e-8d78-d22ef40de6f1",
+        "index": 1,
+        "body": "$5e^{-2t}+5\\cos\\left(10t\\right)-\\sin\\left(10t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "cc4d4a0c-a06f-4793-8de4-6362901fd63f",
+        "index": 2,
+        "body": "$5e^{-2t}-4\\cos\\left(100t\\right)+2\\sin\\left(100t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "c53d57b4-b10b-49f7-9485-9659a5ea7f16",
+        "index": 3,
+        "body": "$5e^{-2t}+4\\cos\\left(100t\\right)-2\\sin\\left(100t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "368b8e39-95cf-4005-99de-a14ffb3bd57a",
+        "index": 4,
+        "body": "$5e^{-2t}-4\\cos\\left(10t\\right)+\\sin\\left(10t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "df40ecd5-08ac-4f5b-929a-fe6dafc86a73",
+        "index": 5,
+        "body": "$5e^{-2t}+4\\cos\\left(10t\\right)-\\sin\\left(10t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "eabe0154-dba8-4cba-b857-595055689a9d",
+        "index": 6,
+        "body": "$5e^{-2t}-2\\cos\\left(100t\\right)+5\\sin\\left(100t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "906f6b25-2f47-4d4d-b525-f419068e5510",
+        "index": 7,
+        "body": "$5e^{-2t}+2\\cos\\left(100t\\right)-5\\sin\\left(100t\\right)$",
+        "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "310967796",
+    "timeSpentVideo": "32774704",
+    "submissions": 762,
+    "submissionsCorrect": 427,
+    "accuracy": 0.5603674540682415,
+    "difficulty": 0.6966357308584686
+  },
+  "resources": [
+    {
+      "id": "c089022a-e93e-46e5-9126-7d1c3765a192",
+      "type": "IMAGE",
+      "data": {
+        "key": "qnJ5G2UYlSrwjUbWq_3oi",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/qnJ5G2UYlSrwjUbWq_3oi",
+        "altText": "Circuit"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "f94ba6fe-1537-49fb-a6c6-e04dedf3bb41",
+    "body": "",
+    "questionId": "96387d7d-907b-445f-913d-240c97ed971b",
+    "resources": [
+      {
+        "id": "6b8e2228-d5b6-4ef3-ad05-b9b2e54572ce",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=1174s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f94ba6fe-1537-49fb-a6c6-e04dedf3bb41",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ab365390-08c6-481a-8b28-0eb8f62b378e",
+      "name": "2nd Order Circuits",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1303159622",
+        "timeSpentVideo": "76340924",
+        "submissions": 1551,
+        "submissionsCorrect": 824,
+        "questions": 2,
+        "accuracy": 0.5312701482914249,
+        "difficulty": 0.7206238643246518
+      }
+    }
+  ],
+  "children": []
+}

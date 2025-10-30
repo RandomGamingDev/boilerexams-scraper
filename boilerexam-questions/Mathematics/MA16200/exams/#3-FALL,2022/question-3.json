@@ -1,0 +1,143 @@
+{
+  "id": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all $p$ such that the series $\\sum_{k=1}^{\\infty} \\sqrt{\\frac{k^{3}+2 k^{2}}{k^{p}+1}}$ converges.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "20a8cc38-c8b6-4db7-a6b9-937fee090fbb",
+        "index": 0,
+        "body": "$p>1$",
+        "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "f75edadf-b293-40bd-8504-2ad0ab322577",
+        "index": 1,
+        "body": "$p>6$",
+        "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+        "stats": {
+          "count": 386
+        },
+        "resources": []
+      },
+      {
+        "id": "d1c86c08-fbe7-4a56-b802-f564306a43ed",
+        "index": 2,
+        "body": "$p>5$",
+        "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+        "stats": {
+          "count": 2290
+        },
+        "resources": []
+      },
+      {
+        "id": "689c63f4-4b26-4290-a438-501a527cf083",
+        "index": 3,
+        "body": "$p \\geq 5$",
+        "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+        "stats": {
+          "count": 376
+        },
+        "resources": []
+      },
+      {
+        "id": "3bbc6502-b2d6-4923-9072-9a9496a8dc71",
+        "index": 4,
+        "body": "$p>7$",
+        "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "328460608",
+    "timeSpentVideo": "133032674",
+    "submissions": 3491,
+    "submissionsCorrect": 2290,
+    "accuracy": 0.6559725007161272,
+    "difficulty": 0.5983709273182958
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6065469905",
+      "timeSpentVideo": "2648907055",
+      "submissions": 43308,
+      "submissionsCorrect": 26202,
+      "questions": 12,
+      "accuracy": 0.6050152396785813,
+      "difficulty": 0.6452266863251014
+    }
+  },
+  "explanation": {
+    "id": "c357d366-e4b0-438e-b47b-c30026a4c8c1",
+    "body": "",
+    "questionId": "8576691f-1893-4d2c-bd09-55ad9b4dca7a",
+    "resources": [
+      {
+        "id": "63c2f632-35f0-4a55-bbd2-949963be1a16",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=433\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c357d366-e4b0-438e-b47b-c30026a4c8c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

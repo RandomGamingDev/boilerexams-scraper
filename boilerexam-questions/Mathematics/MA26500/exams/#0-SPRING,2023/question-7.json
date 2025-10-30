@@ -1,0 +1,158 @@
+{
+  "id": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $L: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{2}$ be a linear transformation whose standard matrix is $\\left[\\begin{array}{cc}t-2 & -1 \\\\ 2 t+6 & t+3\\end{array}\\right]$ where $t$ is a real number. Find ALL values of $t$ such that $L$ is one-to-one.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d7b234f3-30eb-452f-8da7-cbe8eaeff5b1",
+        "index": 0,
+        "body": "$t=1$",
+        "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+        "stats": {
+          "count": 156
+        },
+        "resources": []
+      },
+      {
+        "id": "2250eabb-846f-4110-8768-7156cd3f966b",
+        "index": 1,
+        "body": "$t=-3$",
+        "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "562ea7fd-dcd9-47c9-9b60-515819515359",
+        "index": 2,
+        "body": "$t \\neq-1$ and $t \\neq-3$",
+        "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+        "stats": {
+          "count": 250
+        },
+        "resources": []
+      },
+      {
+        "id": "5813cfc9-08bf-4f15-8508-154c4f22e021",
+        "index": 3,
+        "body": "$t \\neq 0$ and $t \\neq-3$",
+        "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+        "stats": {
+          "count": 2293
+        },
+        "resources": []
+      },
+      {
+        "id": "a0d57172-c976-4740-a610-997673986592",
+        "index": 4,
+        "body": "$t \\neq 1$",
+        "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "670752368",
+    "timeSpentVideo": "84285250",
+    "submissions": 3337,
+    "submissionsCorrect": 2293,
+    "accuracy": 0.6871441414444112,
+    "difficulty": 0.5683008437590922
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "e8fe7dd0-fee3-4dac-aaaa-067b37c3562a",
+    "body": "",
+    "questionId": "190118d7-8df1-49ee-a7cc-09ecb9ca1f34",
+    "resources": [
+      {
+        "id": "c857d8d4-f901-4e4f-9421-9e62254bd206",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=2090\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e8fe7dd0-fee3-4dac-aaaa-067b37c3562a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7399288103",
+        "timeSpentVideo": "847747211",
+        "submissions": 14733,
+        "submissionsCorrect": 8390,
+        "questions": 7,
+        "accuracy": 0.5694698975089935,
+        "difficulty": 0.6809984494033574
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Rewrite the iterated integral\n\n\n\n\\[\n\\int_{0}^{1} \\int_{0}^{1-x} \\int_{0}^{2-2 y} f(x, y, z) d z d y d x\n\\]\n\nso that the order of integration is $d x d y d z$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d43a7e10-4dcc-4736-9dd6-90e48b4b7ad6",
+        "index": 0,
+        "body": "$\\int_{0}^{2} \\int_{0}^{2-2 x} \\int_{0}^{y-1} f(x, y, z) d x d y d z$",
+        "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "037b0b50-4de0-4641-8f7c-8a97f36b48b1",
+        "index": 1,
+        "body": "$\\int_{0}^{2} \\int_{0}^{1-z / 2} \\int_{0}^{y-1} f(x, y, z) d x d y d z$",
+        "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "fa046f53-8281-43fc-9396-c8e0f4596b76",
+        "index": 2,
+        "body": "$\\int_{0}^{2} \\int_{0}^{1-x} \\int_{0}^{1-y} f(x, y, z) d x d y d z$",
+        "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+        "stats": {
+          "count": 132
+        },
+        "resources": []
+      },
+      {
+        "id": "ecf08f67-2cbb-4030-9248-fd0d7933428d",
+        "index": 3,
+        "body": "$\\int_{0}^{2} \\int_{0}^{2-2 x} \\int_{0}^{1-y} f(x, y, z) d x d y d z$",
+        "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "bf79aa33-94e7-4a37-8d57-469eebd68270",
+        "index": 4,
+        "body": "$\\int_{0}^{2} \\int_{0}^{1-z / 2} \\int_{0}^{1-y} f(x, y, z) d x d y d z$",
+        "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+        "stats": {
+          "count": 1406
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "432341540",
+    "timeSpentVideo": "70031536",
+    "submissions": 1963,
+    "submissionsCorrect": 1406,
+    "accuracy": 0.7162506367804381,
+    "difficulty": 0.5442317014057199
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+    "number": 2,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9009337690",
+      "timeSpentVideo": "2108033112",
+      "submissions": 39483,
+      "submissionsCorrect": 21279,
+      "questions": 11,
+      "accuracy": 0.5389408099688473,
+      "difficulty": 0.7111575676426749
+    }
+  },
+  "explanation": {
+    "id": "1d478c8d-dc4a-4eff-b1a4-f3728d0b95cc",
+    "body": "",
+    "questionId": "846e656a-717b-49ec-adfc-ed5c3bcdedfd",
+    "resources": [
+      {
+        "id": "13d544e1-4f38-4ac0-b861-257cd4695ac6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tE3sxPzvjrQ?t=570\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1d478c8d-dc4a-4eff-b1a4-f3728d0b95cc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

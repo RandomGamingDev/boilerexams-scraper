@@ -1,0 +1,133 @@
+{
+  "id": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following correctly describes why the compiler warns that the <font style=\"font-family:'Courier New'\">gets</font> function is dangerous and should never be used?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2916379e-b851-4aca-b9d7-416a16a6752c",
+        "index": 0,
+        "body": "The user of the program may input an integer where string data is expected.",
+        "questionId": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      },
+      {
+        "id": "a0653a09-7aa9-45d8-be77-6ce1ad4ca84d",
+        "index": 1,
+        "body": "The programmer often fails to remember whether the character array is the parameter of the <font style=\"font-family:'Courier New'\">gets</font> function or whether it is the value returned from the <font style=\"font-family:'Courier New'\">gets</font> function that is assigned to the character array.",
+        "questionId": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+        "stats": {
+          "count": 560
+        },
+        "resources": []
+      },
+      {
+        "id": "e50bc9a3-e175-49bd-aa59-d952c80e85f3",
+        "index": 2,
+        "body": "The <font style=\"font-family:'Courier New'\">gets</font> function may overwrite data in the input with the delimiter when the capacity of the character array is reached.",
+        "questionId": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+        "stats": {
+          "count": 1260
+        },
+        "resources": []
+      },
+      {
+        "id": "96deab3e-d44b-401b-afa8-ab678af60754",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+        "stats": {
+          "count": 1257
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "This question includes content that may no longer be covered in this course.",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "291753389",
+    "timeSpentVideo": "0",
+    "submissions": 3546,
+    "submissionsCorrect": 1257,
+    "accuracy": 0.3544839255499154,
+    "difficulty": 0.8915249588590236
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "72745676-dc3c-44fd-aa0c-2fe6866b6dbb",
+    "body": "",
+    "questionId": "e5a72d9d-4a13-4ba6-b046-6c6bf1ed998f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "fad16a8a-4b31-410a-a0d0-85692ae1666d",
+      "name": "Strings",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3696901024",
+        "timeSpentVideo": "0",
+        "submissions": 12342,
+        "submissionsCorrect": 5528,
+        "questions": 13,
+        "accuracy": 0.4479014746394426,
+        "difficulty": 0.8016797942452982
+      }
+    }
+  ],
+  "children": []
+}

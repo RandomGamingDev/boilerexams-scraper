@@ -1,0 +1,134 @@
+{
+  "id": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements about the usage of the <font style=\"font-family:'Courier New'\">%c</font> placeholder on line #8 is TRUE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b1a5551d-45fd-41f9-840f-c5273119648e",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">A space should be placed BEFORE the</font> %c <font style=\"font-family:'Times New Roman'\">placeholder in the format string to ignore whitespace input.</font>",
+        "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+        "stats": {
+          "count": 2292
+        },
+        "resources": []
+      },
+      {
+        "id": "f2ccf15b-e182-4352-8528-bf6d1abff2de",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">\\n</font> should be placed BEFORE the</font> %c <font style=\"font-family:'Times New Roman'\">placeholder in the format string to ignore whitespace input.</font>",
+        "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+        "stats": {
+          "count": 225
+        },
+        "resources": []
+      },
+      {
+        "id": "7347ec4f-60bb-451c-9e30-d543c09bf0f2",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">No change to the format string is necessary - the</font> %c <font style=\"font-family:'Times New Roman'\">placeholder ALWAYS ignores whitespace input.</font>",
+        "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+        "stats": {
+          "count": 1644
+        },
+        "resources": []
+      },
+      {
+        "id": "4e05b1e2-8277-48c2-abd9-43e0862505e7",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+        "stats": {
+          "count": 220
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 36,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "370227808",
+    "timeSpentVideo": "0",
+    "submissions": 4416,
+    "submissionsCorrect": 2292,
+    "accuracy": 0.5190217391304348,
+    "difficulty": 0.7313994685562445
+  },
+  "resources": [
+    {
+      "id": "aa718d9f-6d03-49a3-be77-35c136526346",
+      "type": "CODE",
+      "data": {
+        "content": "char getGrade(void)\n{\n  char grade;\n\n  do \n  {\n    printf(\"Enter letter grade -> \");\n    scanf(\"%c\", &grade);\t// Question #36\n\n    if (/*Question #34 */)\n    {\n      printf(\"\\n\\nError! Letter grade must be A, B, C, D, or F!\\n\");\n    }\n  } while (/*Question #35 */);\n\n  return grade;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "a80c1a7e-acb4-4f06-b42a-2cabc46f8ce6",
+    "body": "",
+    "questionId": "6a25fa92-3052-4b4c-b194-ae19486cb1cc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

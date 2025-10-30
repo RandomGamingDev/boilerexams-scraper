@@ -1,0 +1,118 @@
+{
+  "id": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding type conversions is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "464096e5-8984-42a0-b8d2-4b5ffc6dfeaa",
+        "index": 0,
+        "body": "When the data types of two operands for the division operator are different, the lower-ranked type is promoted to the rank of the higher type.",
+        "questionId": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+        "stats": {
+          "count": 449
+        },
+        "resources": []
+      },
+      {
+        "id": "2987b813-fbf7-4236-a06e-cd75056c78f5",
+        "index": 1,
+        "body": "In an assignment statement, promotion occurs if the right expression has a lower rank than the variable on the left and demotion occurs if the right expression has a higher rank.",
+        "questionId": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+        "stats": {
+          "count": 1217
+        },
+        "resources": []
+      },
+      {
+        "id": "de586e0a-ad5a-494b-b72e-e4edcd07e2bc",
+        "index": 2,
+        "body": "An explicit type conversion is the programmer taking control and specifying the data type of an operand in an expression.",
+        "questionId": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+        "stats": {
+          "count": 173
+        },
+        "resources": []
+      },
+      {
+        "id": "0bcebc15-3ab0-4a39-b7b6-87b105b6ac0b",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+        "stats": {
+          "count": 2917
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 30,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "469402018",
+    "timeSpentVideo": "0",
+    "submissions": 4788,
+    "submissionsCorrect": 2917,
+    "accuracy": 0.6092314118629908,
+    "difficulty": 0.6430032733224222
+  },
+  "resources": [],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "a7050665-8c03-4676-b2bd-f8c530ce0b61",
+    "body": "",
+    "questionId": "493a3751-7a5e-4652-8d73-23eee8fa676d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

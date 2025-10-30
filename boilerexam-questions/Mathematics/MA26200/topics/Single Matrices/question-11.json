@@ -1,0 +1,143 @@
+{
+  "id": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be an $6 \\times 5$ matrix, and let $B$ denote the reduced row echelon matrix of $A$. Which of the following statements are true?\n\n(i) If $B$ has $5$ pivot columns, then the column vectors of $A$ are always linearly independent.\n\n(ii) If $B$ has only $4$ pivot columns, then the column vectors of $A$ are always linearly dependent.\n\n(iii) If $B$ has only $2$ leading 1's, then $A \\mathbf{x}=\\mathbf{b}$ always has infinitely many solutions, where b is any vector in $\\mathbb{R}^{6}$.\n\n(iv) If the entries of the last row of $B$ are all zero, then $A \\mathbf{x}=\\mathbf{0}$ always has some nontrivial solution.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a3debe98-8745-47b2-9071-d7f21c3cecd7",
+        "index": 0,
+        "body": "(ii) and (iv) only",
+        "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "06f65e59-1d5d-4a29-8b90-7ba0af536f2b",
+        "index": 1,
+        "body": "(i) and (ii) only",
+        "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "e9ad7283-51fe-4a92-a429-e7db38a04905",
+        "index": 2,
+        "body": "(i) and (iv) only",
+        "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "5d828c2a-a551-4bbd-80f4-4e07425df58a",
+        "index": 3,
+        "body": "(i), (ii) and (iii)",
+        "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "cf60cc58-20d5-4013-9973-b14868e208a5",
+        "index": 4,
+        "body": "(i), (ii) and (iv)",
+        "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "75603107",
+    "timeSpentVideo": "35860974",
+    "submissions": 510,
+    "submissionsCorrect": 169,
+    "accuracy": 0.33137254901960783,
+    "difficulty": 0.8909836065573771
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "4a283b31-de53-4862-ac26-79df66913a9e",
+    "body": "",
+    "questionId": "b92a1335-6507-42b8-a4cf-9768b30379e7",
+    "resources": [
+      {
+        "id": "6e9e028f-44c2-4c12-86d6-872cccf760e0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=2168\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a283b31-de53-4862-ac26-79df66913a9e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80795669-53c2-4ed7-bd3a-641c7dc5832b",
+      "name": "Single Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "301047965",
+        "timeSpentVideo": "39610713",
+        "submissions": 510,
+        "submissionsCorrect": 169,
+        "questions": 1,
+        "accuracy": 0.33137254901960783,
+        "difficulty": 0.8909836065573771
+      }
+    }
+  ],
+  "children": []
+}

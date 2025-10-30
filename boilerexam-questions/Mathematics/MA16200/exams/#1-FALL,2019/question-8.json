@@ -1,0 +1,143 @@
+{
+  "id": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The region bounded by $y=e^{x}, y=1$, and $x=2$ is revolved about the $x$-axis. If the washer method is used, the volume of the solid generated is given by the integral",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "fddc9cea-cf20-4072-8e0f-0961a9ee4f47",
+        "index": 0,
+        "body": "$\\pi \\int_{0}^{2} e^{2 x} d x$",
+        "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "91ce9be1-02df-4b61-9aa0-758677defbcb",
+        "index": 1,
+        "body": "$2 \\pi \\int_{1}^{e^{2}}(2-\\ln y)(y-1) d y$",
+        "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "381e2d59-8498-4df7-8653-444cb59475f3",
+        "index": 2,
+        "body": "$\\pi \\int_{0}^{2}\\left(e^{2 x}-1\\right) d x$",
+        "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+        "stats": {
+          "count": 1380
+        },
+        "resources": []
+      },
+      {
+        "id": "c056774e-b436-4fe6-9736-25465ca73a6c",
+        "index": 3,
+        "body": "$2 \\pi \\int_{0}^{e^{2}} y(2-\\ln y) d y$",
+        "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "61b2a98f-ae9a-4e59-ad03-2990d0068807",
+        "index": 4,
+        "body": "$\\pi \\int_{0}^{2}\\left(e^{x}-1\\right)^{2} d x$",
+        "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+        "stats": {
+          "count": 264
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "b98fd85b-be05-402b-891f-407e8f86823e",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "393649309",
+    "timeSpentVideo": "29653841",
+    "submissions": 2029,
+    "submissionsCorrect": 1380,
+    "accuracy": 0.6801379990142927,
+    "difficulty": 0.5783231564114608
+  },
+  "resources": [],
+  "exam": {
+    "id": "b98fd85b-be05-402b-891f-407e8f86823e",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5186785462",
+      "timeSpentVideo": "516995816",
+      "submissions": 27916,
+      "submissionsCorrect": 18065,
+      "questions": 12,
+      "accuracy": 0.6471199312222381,
+      "difficulty": 0.6034051970302684
+    }
+  },
+  "explanation": {
+    "id": "ba142145-72ef-4e8b-b91d-ce23c0d534ca",
+    "body": "",
+    "questionId": "311e1382-c7e7-4a89-a2b3-dafbb2ffdb02",
+    "resources": [
+      {
+        "id": "c91c2df6-a5c3-4c50-99e5-122736ef19fa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_NKnH4CvO7g?t=810"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ba142145-72ef-4e8b-b91d-ce23c0d534ca",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79755eab-93f7-44ec-9e79-cedd45a22d1a",
+      "name": "Volume of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23308108625",
+        "timeSpentVideo": "1117444870",
+        "submissions": 50426,
+        "submissionsCorrect": 30657,
+        "questions": 16,
+        "accuracy": 0.6079601792725975,
+        "difficulty": 0.6422534932509995
+      }
+    }
+  ],
+  "children": []
+}

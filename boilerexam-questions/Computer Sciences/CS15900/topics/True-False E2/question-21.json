@@ -1,0 +1,133 @@
+{
+  "id": "d53bca75-28b1-4359-9c7d-832008869f47",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding good user-defined function design is <b>FALSE</b>?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "43dd7999-db0a-4a09-be7a-36ecc37b3e4d",
+        "index": 0,
+        "body": "Common logic should not be replicated in multiple user-defined functions.",
+        "questionId": "d53bca75-28b1-4359-9c7d-832008869f47",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "32173807-dc41-4a3e-93b3-9ca64285f261",
+        "index": 1,
+        "body": "Well designed user-defined functions will be testable apart from the rest of the program.",
+        "questionId": "d53bca75-28b1-4359-9c7d-832008869f47",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "88aea282-41f4-4cbc-9e24-0f4317f424b3",
+        "index": 2,
+        "body": "User-defined functions should have a single point of termination.",
+        "questionId": "d53bca75-28b1-4359-9c7d-832008869f47",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "ff37b283-0d00-4be3-9443-c371f4bf9914",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d53bca75-28b1-4359-9c7d-832008869f47",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "37217",
+    "timeSpentVideo": "0",
+    "submissions": 3,
+    "submissionsCorrect": 3,
+    "accuracy": 1,
+    "difficulty": 0.7354368932038835
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "8a0f5189-4b36-4393-8404-c368eaa511fb",
+    "body": null,
+    "questionId": "d53bca75-28b1-4359-9c7d-832008869f47",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    },
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

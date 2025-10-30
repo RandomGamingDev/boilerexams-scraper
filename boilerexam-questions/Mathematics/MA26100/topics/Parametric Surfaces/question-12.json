@@ -1,0 +1,143 @@
+{
+  "id": "eabe9437-035d-4544-914b-e4090dd54262",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be a parameterized surface given by\n\n$r(u,v)=\\langle x(u,v),y(u,v),z(u,v)\\rangle,$\n$x=uv,$\n$y=u^{2}-v^{2},$\n$z=u+2v$\n\nWhich of the following is an upward pointing normal to $S$ at $~r(1, 2)$?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "38547080-65af-4708-be9b-cd5eb237405c",
+        "index": 0,
+        "body": "$\\langle 8,-3,-10\\rangle$",
+        "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+        "stats": {
+          "count": 702
+        },
+        "resources": []
+      },
+      {
+        "id": "73939b98-ca3f-4207-b430-aac04a6a755f",
+        "index": 1,
+        "body": "$\\langle-8,3,10\\rangle$",
+        "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+        "stats": {
+          "count": 1855
+        },
+        "resources": []
+      },
+      {
+        "id": "b3f5ae5d-ec82-43aa-ab8c-18c12b709f18",
+        "index": 2,
+        "body": "$\\langle 4,1,-8\\rangle$",
+        "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "bdaddd55-b726-4f53-9dd4-8b6e7d5a61f9",
+        "index": 3,
+        "body": "$\\langle-4,-1,8\\rangle$",
+        "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "81801d0b-c402-492b-90d5-34b5b56d57aa",
+        "index": 4,
+        "body": "$\\langle 4,1,0\\rangle$",
+        "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1056184636",
+    "timeSpentVideo": "155645444",
+    "submissions": 4550,
+    "submissionsCorrect": 1855,
+    "accuracy": 0.4076923076923077,
+    "difficulty": 0.8403225806451613
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "2f2cd901-a2e5-47f5-9b7f-207085f2fe92",
+    "body": "",
+    "questionId": "eabe9437-035d-4544-914b-e4090dd54262",
+    "resources": [
+      {
+        "id": "be9c0143-408a-4495-a72c-c4506bfbb1ca",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=KXy2LYnwfB-uLV20&t=1676\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2f2cd901-a2e5-47f5-9b7f-207085f2fe92",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "97ffbc5d-0b8f-4f1e-9ea8-2b8d08bc5dfe",
+      "name": "Parametric Surfaces",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5741546073",
+        "timeSpentVideo": "672689639",
+        "submissions": 14261,
+        "submissionsCorrect": 8523,
+        "questions": 4,
+        "accuracy": 0.5976439239885001,
+        "difficulty": 0.6530360002785321
+      }
+    }
+  ],
+  "children": []
+}

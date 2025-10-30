@@ -1,0 +1,158 @@
+{
+  "id": "db2dc579-0992-4612-bf9a-26ca87823992",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the matrix exponential $e^{At}$ for the matrix $A=\\begin{bmatrix}1&2\\\\2&1\\end{bmatrix}.$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2a79679d-082c-46c2-8dd8-840f8a34c59d",
+        "index": 0,
+        "body": "$\\begin{bmatrix}e^{2t}&e^{-t}\\\\e^{2t}&-e^{-t}\\end{bmatrix}\\begin{bmatrix}-1/2&-1/2\\\\-1/2&1/2\\end{bmatrix}$",
+        "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "6db02ce4-19e5-4e19-b33f-abb8978bc9ed",
+        "index": 1,
+        "body": "$\\begin{bmatrix}e^{3t}&e^{-t}\\\\e^{3t}&-e^{-t}\\end{bmatrix}\\begin{bmatrix}1/2&1/2\\\\1/2&-1/2\\end{bmatrix}$",
+        "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+        "stats": {
+          "count": 440
+        },
+        "resources": []
+      },
+      {
+        "id": "e8b51349-090a-443e-a259-b79fac0dbc6f",
+        "index": 2,
+        "body": "$\\begin{bmatrix}e^{3t}&e^{-t}\\\\e^{3t}&-e^{-t}\\end{bmatrix}\\begin{bmatrix}1/2&-1/2\\\\-1/2&-1/2\\end{bmatrix}$",
+        "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "a8d92cf0-08d6-4066-9bf6-a7f5d5b562a6",
+        "index": 3,
+        "body": "$\\begin{bmatrix}1/2&1/2\\\\1/2&-1/2\\end{bmatrix}\\begin{bmatrix}e^{3t}&e^{-t}\\\\e^{3t}&-e^{-t}\\end{bmatrix}$",
+        "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "bd57a17c-e6d6-4225-b251-28d9b06a51b8",
+        "index": 4,
+        "body": "$\\begin{bmatrix}-1/2&1/2\\\\1/2&1/2\\end{bmatrix}\\begin{bmatrix}e^{3t}&e^{-t}\\\\e^{3t}&-e^{-t}\\end{bmatrix}$",
+        "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "231082689",
+    "timeSpentVideo": "37889904",
+    "submissions": 832,
+    "submissionsCorrect": 440,
+    "accuracy": 0.5288461538461539,
+    "difficulty": 0.7242489270386266
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "0df9bb11-ab4c-4ec9-88a0-911ae3e9f489",
+    "body": "Go to 1:26:36 if you want to skip the eigenvalue and eigenvector computations and go straight into the matrix exponential computation.\n\nThe matrix exponential $e^{At}$ can be found using the following formula: $e^{At}=\\Phi(t)\\Phi^{-1}(0)$ where $\\Phi(t)$ is a fundamental matrix combining the 2 linearly independent solutions of A into a single matrix. And $\\Phi^{-1}(0)$ is the inverse of the fundamental matrix at 0.\n\nNote: matrix multiplication is not commutative the way scalar multiplication is. So answer choice D is not equivalent to answer choice B (if you do the matrix multiplication for both answers you will end up with a different result). In other words, $\\Phi(t)\\Phi^{-1}(0)\\neq\\Phi^{-1}(0)\\Phi(t)$",
+    "questionId": "db2dc579-0992-4612-bf9a-26ca87823992",
+    "resources": [
+      {
+        "id": "2c059998-3358-4d1a-b9c5-65a769eaf1e9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=4889s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0df9bb11-ab4c-4ec9-88a0-911ae3e9f489",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "28a13499-27ab-4755-b65d-ba79d32dea14",
+      "name": "Fundamental Matrix",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1051629389",
+        "timeSpentVideo": "96964919",
+        "submissions": 1624,
+        "submissionsCorrect": 665,
+        "questions": 2,
+        "accuracy": 0.40948275862068967,
+        "difficulty": 0.8352668213457077
+      }
+    },
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

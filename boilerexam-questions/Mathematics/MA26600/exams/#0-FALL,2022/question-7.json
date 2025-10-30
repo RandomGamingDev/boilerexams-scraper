@@ -1,0 +1,112 @@
+{
+  "id": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all values of $k$ for which the general solution to\n\n\n\\[\ny^{\\prime \\prime}+2(1-k) y^{\\prime}+k^{2} y=0\n\\]\n\nhas the form $y=C_{1} e^{a x} \\cos b x+C_{2} e^{a x} \\sin b x$, where $b \\neq 0$. (Note: $a$ is allowed to be $0$.)",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b3e81512-bd77-441e-9af6-15a1c1801c7b",
+        "index": 0,
+        "body": "$k>1$",
+        "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "b99a7e06-d05f-4b5e-b2f0-6bff1eaf9229",
+        "index": 1,
+        "body": "$k=b$",
+        "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "5cb73dea-d228-4ca3-957e-fd5c115d8af3",
+        "index": 2,
+        "body": "$0<k<1$",
+        "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "736eaab5-e2d3-4049-a7e6-6916a7db2b09",
+        "index": 3,
+        "body": "$k<\\frac{1}{4}$",
+        "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "2eab0f16-41c2-495f-adb3-37149a91366c",
+        "index": 4,
+        "body": "$k>\\frac{1}{2}$",
+        "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+        "stats": {
+          "count": 163
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "42524431",
+    "timeSpentVideo": "0",
+    "submissions": 214,
+    "submissionsCorrect": 163,
+    "accuracy": 0.7616822429906542,
+    "difficulty": 0.571656050955414
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "543a3585-d88a-489a-890b-a94397c8320b",
+    "body": "",
+    "questionId": "e94164d6-29d9-4a40-9daf-7198a1a30bbe",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

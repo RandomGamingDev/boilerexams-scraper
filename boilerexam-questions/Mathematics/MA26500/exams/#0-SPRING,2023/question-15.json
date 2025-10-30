@@ -1,0 +1,158 @@
+{
+  "id": "63dad70c-d643-47f9-8825-5db6adca111f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{R}^{2} \\longrightarrow \\mathbb{R}^{2}$ be a linear transformation such that\n\n\\[\nT\\left(\\mathbf{e}_{\\mathbf{1}}\\right)=\\left[\\begin{array}{c}\n-4 \\\\\n2\n\\end{array}\\right] \\text { and } T\\left(\\mathbf{e}_{\\mathbf{2}}\\right)=\\left[\\begin{array}{c}\n-5 \\\\\n3\n\\end{array}\\right]\n\\]\n\nWhich of the following is a basis $\\mathcal{B}$ for $\\mathbb{R}^{2}$ such that the matrix $[T]_{\\mathcal{B}}$ for $T$ relative to the basis $\\mathcal{B}$ is a diagonal matrix?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d7cead62-39ff-4ddb-a4d2-9874f05c5091",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 5\\end{array}\\right]\\right\\}$",
+        "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "130f8d55-5671-474e-9319-0e9e80a114c5",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{c}5 \\\\ -2\\end{array}\\right]\\right\\}$",
+        "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+        "stats": {
+          "count": 1670
+        },
+        "resources": []
+      },
+      {
+        "id": "94a79c76-56ef-43fe-b8d4-7cc3a3e344a7",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{c}5 \\\\ -2\\end{array}\\right]\\right\\}$",
+        "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "86e4ee7f-858d-442f-9aa4-890669cdb887",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{c}-2 \\\\ 5\\end{array}\\right]\\right\\}$",
+        "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "d754a873-e412-4892-a070-87384d5b61f7",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{c}-5 \\\\ 3\\end{array}\\right],\\left[\\begin{array}{c}-4 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+        "stats": {
+          "count": 274
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "717406747",
+    "timeSpentVideo": "154852428",
+    "submissions": 3462,
+    "submissionsCorrect": 1670,
+    "accuracy": 0.4823801270941652,
+    "difficulty": 0.7671252105558675
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "ee167a3d-4b99-43c0-98e0-d87747d36b65",
+    "body": "",
+    "questionId": "63dad70c-d643-47f9-8825-5db6adca111f",
+    "resources": [
+      {
+        "id": "d55621ce-a372-4ec9-9984-af442d34f074",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=4878\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ee167a3d-4b99-43c0-98e0-d87747d36b65",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

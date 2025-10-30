@@ -1,0 +1,90 @@
+{
+  "id": "0a1cee8f-4df1-47f4-8567-3a2ff6f93436",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Write the components (T,U,R,S) of a Context_Free Grammar that generates strings of the form $a^nb^m$ where n is a positive integer and $m=\\lfloor\\frac{n}{2}\\rfloor$",
+    "solution": "$T=[X,Y]$\n$U=[a,b]$\n$R=[X\\rightarrow aY, X\\rightarrow Y, Y\\rightarrow aaYb, Y\\rightarrow \\varepsilon]$\n$S=X$",
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": "This is not currently taught in CS251 curriculum. If you don't recognize the concept, ignore it and move on.",
+  "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2097264",
+    "timeSpentVideo": "590936",
+    "submissions": 80,
+    "submissionsCorrect": 58,
+    "accuracy": 0.725,
+    "difficulty": 0.65
+  },
+  "resources": [],
+  "exam": {
+    "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1370169375",
+      "timeSpentVideo": "255011060",
+      "submissions": 3968,
+      "submissionsCorrect": 2614,
+      "questions": 11,
+      "accuracy": 0.6587701612903226,
+      "difficulty": 0.5951327433628318
+    }
+  },
+  "explanation": {
+    "id": "96739457-485a-4d01-ad22-3dba4819ce33",
+    "body": null,
+    "questionId": "0a1cee8f-4df1-47f4-8567-3a2ff6f93436",
+    "resources": [
+      {
+        "id": "4a9f4d3b-09e3-4aa8-8cc0-78494efb0d26",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/5uU8q5Ec3yU?t=4857"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "96739457-485a-4d01-ad22-3dba4819ce33",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ac5b8c03-18f0-4a5a-8dd1-a7c44af8ec61",
+      "name": "Context-Free Grammar",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5953401",
+        "timeSpentVideo": "590936",
+        "submissions": 80,
+        "submissionsCorrect": 58,
+        "questions": 1,
+        "accuracy": 0.725,
+        "difficulty": 0.65
+      }
+    }
+  ],
+  "children": []
+}

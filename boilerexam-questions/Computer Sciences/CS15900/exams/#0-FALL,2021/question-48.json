@@ -1,0 +1,133 @@
+{
+  "id": "08230691-4033-418e-8983-7baa1e9172ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding user-defined functions in the C programming language is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "70eac0b0-fe53-44f6-8728-6a0c6ee9bdc1",
+        "index": 0,
+        "body": "A variable declared in the local declaration section of a function can have the same identifier as one of the parameters of the same function.",
+        "questionId": "08230691-4033-418e-8983-7baa1e9172ee",
+        "stats": {
+          "count": 3512
+        },
+        "resources": []
+      },
+      {
+        "id": "9a345187-f111-41b4-8217-dc7ac887a214",
+        "index": 1,
+        "body": "Parameters are defined as local variables in the first line of the function definition and should not be re-defined\nwithin the local declaration section of the function.",
+        "questionId": "08230691-4033-418e-8983-7baa1e9172ee",
+        "stats": {
+          "count": 392
+        },
+        "resources": []
+      },
+      {
+        "id": "783b3e3d-6247-4859-8709-9c647db1ccc4",
+        "index": 2,
+        "body": "Data sent from the calling function to the function being called will be received in the same order in which it was passed without regard to the identifiers being used.",
+        "questionId": "08230691-4033-418e-8983-7baa1e9172ee",
+        "stats": {
+          "count": 224
+        },
+        "resources": []
+      },
+      {
+        "id": "e3e1ca0a-3191-4bda-b395-cb861a01e4cc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "08230691-4033-418e-8983-7baa1e9172ee",
+        "stats": {
+          "count": 290
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 48,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "455247912",
+    "timeSpentVideo": "0",
+    "submissions": 4438,
+    "submissionsCorrect": 3512,
+    "accuracy": 0.7913474538080216,
+    "difficulty": 0.4650727192595857
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "2962e900-6600-4f01-8e97-43bba643cf58",
+    "body": "",
+    "questionId": "08230691-4033-418e-8983-7baa1e9172ee",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution $y(x)$ to\n\n\n\\[\nx^{2} y^{\\prime}+5 x y=\\frac{e^{4 x}}{x^{3}}, \\quad x>0\n\\]\nis",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cc95c4f1-27dd-4f58-9810-6d548486e9e5",
+        "index": 0,
+        "body": "$y(x)=\\frac{e^{4 x}}{x^{3}}+C$",
+        "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "bdf9617c-e34e-43ab-970f-791770885cda",
+        "index": 1,
+        "body": "$y(x)=\\frac{e^{4 x}}{4 x^{5}}+\\frac{C}{x^{5}}$",
+        "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+        "stats": {
+          "count": 476
+        },
+        "resources": []
+      },
+      {
+        "id": "aab64feb-ba7f-4d22-adf9-7ad0f4e0a953",
+        "index": 2,
+        "body": "$y(x)=\\frac{e^{x}}{x^{3}}+\\frac{C}{x^{2}}$",
+        "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "6cdf719e-1215-4ccf-a146-3cfb1cec293d",
+        "index": 3,
+        "body": "$y(x)=C x^{-5}$",
+        "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "5348674e-c979-411f-80ff-8553424e38ef",
+        "index": 4,
+        "body": "$y(x)=\\frac{C e^{4 x}}{4}$",
+        "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "101501865",
+    "timeSpentVideo": "0",
+    "submissions": 499,
+    "submissionsCorrect": 476,
+    "accuracy": 0.9539078156312625,
+    "difficulty": 0.3718697829716193
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "92cfe0b2-5515-4fe8-bbe0-2b201cd030dd",
+    "body": "",
+    "questionId": "1f657fb2-ce45-48b4-b4e0-b14980a29a61",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

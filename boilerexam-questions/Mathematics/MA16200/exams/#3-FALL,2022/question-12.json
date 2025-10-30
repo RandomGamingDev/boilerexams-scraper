@@ -1,0 +1,143 @@
+{
+  "id": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If a second-order Taylor serjes of $f(x)=e^{-x}$ centered at $x=a=0$ is used to estimate $e^{-0.1}$, what is the maximum absolute error according to Taylor's Estimation Theorem?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "944d811a-e2de-4f99-bbb1-4b0e8755f8c5",
+        "index": 0,
+        "body": "$\\frac{1}{6000}$",
+        "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+        "stats": {
+          "count": 1483
+        },
+        "resources": []
+      },
+      {
+        "id": "464066f0-58cd-4e45-9774-83f806d15315",
+        "index": 1,
+        "body": "$\\frac{1}{20 \\times 10}$",
+        "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "8122c29c-41f1-4382-b702-c9d933e394ff",
+        "index": 2,
+        "body": "$\\frac{1}{200}$",
+        "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "d0fc02ee-237e-492f-bf37-90a88aa66d0f",
+        "index": 3,
+        "body": "$\\frac{1}{600}$",
+        "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "6434e58d-03e8-43d0-b8bc-e0f905d7e177",
+        "index": 4,
+        "body": "$\\frac{1}{1000}$",
+        "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+        "stats": {
+          "count": 146
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "609604482",
+    "timeSpentVideo": "180354150",
+    "submissions": 2617,
+    "submissionsCorrect": 1483,
+    "accuracy": 0.5666794038975926,
+    "difficulty": 0.6857747515642253
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6065469905",
+      "timeSpentVideo": "2648907055",
+      "submissions": 43308,
+      "submissionsCorrect": 26202,
+      "questions": 12,
+      "accuracy": 0.6050152396785813,
+      "difficulty": 0.6452266863251014
+    }
+  },
+  "explanation": {
+    "id": "5f8dafb9-09c3-41b6-8ae6-9e89c983185e",
+    "body": "",
+    "questionId": "078905c8-b1b0-40f2-ae12-0966cd2a4089",
+    "resources": [
+      {
+        "id": "6c7db0ed-5fac-4cd0-b8d3-1c2f9d88f441",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=2416"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5f8dafb9-09c3-41b6-8ae6-9e89c983185e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32476b5a-bc62-4e25-8035-144ddf59e1db",
+      "name": "Taylor Estimation Theorem",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1582828724",
+        "timeSpentVideo": "192648595",
+        "submissions": 2617,
+        "submissionsCorrect": 1483,
+        "questions": 1,
+        "accuracy": 0.5666794038975926,
+        "difficulty": 0.6857747515642253
+      }
+    }
+  ],
+  "children": []
+}

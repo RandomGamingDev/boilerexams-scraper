@@ -1,0 +1,118 @@
+{
+  "id": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following expressions will evaluate as TRUE for all leap years and FALSE otherwise?\n<br><i>Note:</i> A year is a leap year if:<br><ul><li>it IS divisible by 4 AND NOT divisible by 100</li><li>OR it is divisible by 400</li></ul>",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "3c77452f-10d0-46c0-b596-527c7f488176",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\"> year % 4 != 0 && year % 100 == 0 || year % 400 != 0</font>",
+        "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+        "stats": {
+          "count": 297
+        },
+        "resources": []
+      },
+      {
+        "id": "0fa9997e-4e5b-49a4-b63a-adcdc1ff0288",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">year % 4 == 0 && year % 100 != 0 || year % 400 == 0</font>",
+        "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+        "stats": {
+          "count": 4781
+        },
+        "resources": []
+      },
+      {
+        "id": "82ae0410-4ae8-4aa3-b9b0-56ab4004929d",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">year % 4 == 0 && (year % 100 != 0 || year % 400 != 0)</font>",
+        "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+        "stats": {
+          "count": 646
+        },
+        "resources": []
+      },
+      {
+        "id": "a4b5b86a-b67f-434d-b824-51cd8f63aaa2",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+        "stats": {
+          "count": 345
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "670224893",
+    "timeSpentVideo": "0",
+    "submissions": 6098,
+    "submissionsCorrect": 4781,
+    "accuracy": 0.7840275500163988,
+    "difficulty": 0.4705550177476605
+  },
+  "resources": [],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "211703b8-48a8-4601-80d3-c9849443fb7b",
+    "body": "",
+    "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

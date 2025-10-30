@@ -1,0 +1,158 @@
+{
+  "id": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ccc}1 & 0 & 1 \\\\ 1 & 0 & 2 \\\\ -1 & 3 & 1\\end{array}\\right]$ and $B=A^{-1}$. Find $b_{12}$, the $(1,2)$-entry of $B$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9b1e1855-e109-443b-b1d7-7621b2e9ba15",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+        "stats": {
+          "count": 213
+        },
+        "resources": []
+      },
+      {
+        "id": "a0f47096-17e5-40ed-a269-1a9a3cf90886",
+        "index": 1,
+        "body": "$2$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "81a000b5-09d3-4b16-b613-4b4b05c7a5c0",
+        "index": 2,
+        "body": "$-2$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "5055788e-2e30-49d3-9f70-005c4bf0c1d7",
+        "index": 3,
+        "body": "$-1$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+        "stats": {
+          "count": 2013
+        },
+        "resources": []
+      },
+      {
+        "id": "e5274b10-4d36-4a8d-9dfb-3fcb7ee1a350",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+        "stats": {
+          "count": 633
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "618768101",
+    "timeSpentVideo": "85042084",
+    "submissions": 3621,
+    "submissionsCorrect": 2013,
+    "accuracy": 0.555923777961889,
+    "difficulty": 0.695579145391024
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "464fe77e-75d2-4619-952a-f1f6d845ced9",
+    "body": "",
+    "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
+    "resources": [
+      {
+        "id": "9f66cd53-ff24-49a0-801f-4c89eda87c26",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=2495\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "464fe77e-75d2-4619-952a-f1f6d845ced9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "c7d3bdb4-2317-449d-bec3-6f564b949d37",
+      "name": "Cramers Rule",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7622482732",
+        "timeSpentVideo": "637127207",
+        "submissions": 19277,
+        "submissionsCorrect": 10356,
+        "questions": 7,
+        "accuracy": 0.5372205218654355,
+        "difficulty": 0.7129715642256284
+      }
+    }
+  ],
+  "children": []
+}

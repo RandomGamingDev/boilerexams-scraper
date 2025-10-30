@@ -1,0 +1,143 @@
+{
+  "id": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $y(x)=\\int_{3}^{\\tan (x)} \\sqrt{\\sqrt{t}+6 t} d t$, use Part $1$ of the Fundamental Theorem of Calculus to find $y^{\\prime}\\left(\\frac{\\pi}{4}\\right)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2a2d68af-2d19-4a6e-9fa5-e4d6429056ce",
+        "index": 0,
+        "body": "$\\sqrt{7}$",
+        "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "6588779b-5edf-4817-8f6a-ae393d8ebd64",
+        "index": 1,
+        "body": "$2 \\sqrt{7}$",
+        "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+        "stats": {
+          "count": 408
+        },
+        "resources": []
+      },
+      {
+        "id": "877d61f2-4e70-43c8-90a9-19fe564346c6",
+        "index": 2,
+        "body": "$\\sqrt{\\frac{3 \\pi}{2}+\\sqrt{\\frac{\\pi}{4}}}$",
+        "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "6ffebf4b-d2d8-444a-a6de-0404a85acb08",
+        "index": 3,
+        "body": "$2 \\sqrt{\\frac{3 \\pi}{2}+\\sqrt{\\frac{\\pi}{4}}}$",
+        "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "21c27f3b-da76-49ef-bcc0-a915e3267775",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "117947316",
+    "timeSpentVideo": "23819081",
+    "submissions": 827,
+    "submissionsCorrect": 404,
+    "accuracy": 0.48851269649334944,
+    "difficulty": 0.7602481121898598
+  },
+  "resources": [],
+  "exam": {
+    "id": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641708348",
+      "timeSpentVideo": "633377339",
+      "submissions": 26255,
+      "submissionsCorrect": 14833,
+      "questions": 25,
+      "accuracy": 0.5649590554180156,
+      "difficulty": 0.6852874217416051
+    }
+  },
+  "explanation": {
+    "id": "fee8321f-eb8b-4eda-a2dc-0f4c1ff823d4",
+    "body": "",
+    "questionId": "7431b4fc-5866-4a90-94e0-148f296dcfe9",
+    "resources": [
+      {
+        "id": "c26ee2c7-5c8f-426a-a573-2fc802edc054",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pvOu-KB28uk?t=3640"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fee8321f-eb8b-4eda-a2dc-0f4c1ff823d4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5cc7a336-38bc-4a2e-b0da-cf0ea91c5e7d",
+      "name": "Fundamental Theorem of Calculus",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "600679445",
+        "timeSpentVideo": "60134787",
+        "submissions": 1825,
+        "submissionsCorrect": 909,
+        "questions": 2,
+        "accuracy": 0.4980821917808219,
+        "difficulty": 0.7518181818181818
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\overrightarrow{\\boldsymbol{v}}=\\langle-1,-2\\rangle$ and $\\overrightarrow{\\boldsymbol{w}}=\\langle 2,3\\rangle$. Find $\\operatorname{proj}_{\\overrightarrow{\\boldsymbol{v}}} \\overrightarrow{\\boldsymbol{w}}$, the vector projection of $\\overrightarrow{\\boldsymbol{w}}$ onto $\\overrightarrow{\\boldsymbol{v}}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a65ce6d2-6ace-4256-a9b2-a876bdd6ac34",
+        "index": 0,
+        "body": "$\\left\\langle\\frac{8}{13}, \\frac{16}{13}\\right\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      },
+      {
+        "id": "84bb16e5-b88f-47ed-8552-87c743019324",
+        "index": 1,
+        "body": "$\\left\\langle\\frac{8}{5}, \\frac{16}{5}\\right\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 2119
+        },
+        "resources": []
+      },
+      {
+        "id": "9303d72d-cf22-4e11-9959-4104feb014a0",
+        "index": 2,
+        "body": "$\\langle-2,-6\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "83e15a62-f47d-47e1-8a53-74fc3421aacf",
+        "index": 3,
+        "body": "$\\left\\langle\\frac{4}{5}, \\frac{8}{5}\\right\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "d982c1f5-a070-4aae-9fa4-756d66b01cd0",
+        "index": 4,
+        "body": "$\\left\\langle\\frac{4}{13}, \\frac{8}{13}\\right\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "953678b6-aadf-40c1-aae5-314ca82d7b6d",
+        "index": 5,
+        "body": "$\\left\\langle-\\frac{16}{\\sqrt{13}},-\\frac{24}{\\sqrt{13}}\\right\\rangle$",
+        "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "fd7fa488-b09e-424a-8d14-666f46174e55",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "430886735",
+    "timeSpentVideo": "14205211",
+    "submissions": 2598,
+    "submissionsCorrect": 2119,
+    "accuracy": 0.8156274056966898,
+    "difficulty": 0.4460711638250556
+  },
+  "resources": [],
+  "exam": {
+    "id": "fd7fa488-b09e-424a-8d14-666f46174e55",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7484783483",
+      "timeSpentVideo": "775932840",
+      "submissions": 38477,
+      "submissionsCorrect": 23785,
+      "questions": 12,
+      "accuracy": 0.618161499077371,
+      "difficulty": 0.632144801306478
+    }
+  },
+  "explanation": {
+    "id": "4ab9f115-e413-4530-97ea-01cc708f656d",
+    "body": "",
+    "questionId": "43daec65-fc68-4956-8e76-2a3620ed52c7",
+    "resources": [
+      {
+        "id": "ebf43056-2cf0-40ea-bdce-65920b9264f0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/raWrDy_ILgY?t=296 "
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4ab9f115-e413-4530-97ea-01cc708f656d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "50106ba3-c344-48c9-8105-1c9bff1901bf",
+      "name": "Vector Projections",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2608025803",
+        "timeSpentVideo": "80440012",
+        "submissions": 8873,
+        "submissionsCorrect": 6425,
+        "questions": 3,
+        "accuracy": 0.7241068409782486,
+        "difficulty": 0.5283907277387718
+      }
+    }
+  ],
+  "children": []
+}

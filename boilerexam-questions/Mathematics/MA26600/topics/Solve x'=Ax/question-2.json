@@ -1,0 +1,143 @@
+{
+  "id": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "2. Solve the initial value problem:\n\\[\n    \\begin{cases}\n        x'(t) = x(t) - 4y(t) \\\\\n        y'(t) = -2x(t) + 8y(t),\n    \\end{cases}\n\\]\nwhere $x(0) = 5$ and $y(0) = -1$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "993bd4e2-10b1-4248-b78f-799d21670f24",
+        "index": 0,
+        "body": "$\\begin{bmatrix} x(t) \\\\ y(t) \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 2 \\end{bmatrix} e^{9t} + \\begin{bmatrix} 4 \\\\ 1 \\end{bmatrix} e^t$",
+        "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "35af8040-b004-4c4b-92f9-08a657f78106",
+        "index": 1,
+        "body": "$\\begin{bmatrix} x(t) \\\\ y(t) \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ -2 \\end{bmatrix} e^{9t} + \\begin{bmatrix} 4 \\\\ 1 \\end{bmatrix} e^t$",
+        "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "71c7b186-3262-48f0-8385-e53943d43a12",
+        "index": 2,
+        "body": "$\\begin{bmatrix} x(t) \\\\ y(t) \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ -2 \\end{bmatrix} e^{9t} + \\begin{bmatrix} 4 \\\\ 1 \\end{bmatrix}$",
+        "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+        "stats": {
+          "count": 376
+        },
+        "resources": []
+      },
+      {
+        "id": "6d2bcfe8-b9c4-49c7-9066-4fc69aac1ee9",
+        "index": 3,
+        "body": "$\\begin{bmatrix} x(t) \\\\ y(t) \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 2 \\end{bmatrix} + \\begin{bmatrix} 4 \\\\ 1 \\end{bmatrix} e^{9t}$",
+        "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "c3802c3f-c8b7-43f3-81a9-68ca788f39c7",
+        "index": 4,
+        "body": "$\\begin{bmatrix} x(t) \\\\ y(t) \\end{bmatrix} = \\begin{bmatrix} -1 \\\\ 2 \\end{bmatrix} e^{9t} + \\begin{bmatrix} 4 \\\\ 1 \\end{bmatrix}$",
+        "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "148752763",
+    "timeSpentVideo": "10986221",
+    "submissions": 555,
+    "submissionsCorrect": 376,
+    "accuracy": 0.6774774774774774,
+    "difficulty": 0.599618320610687
+  },
+  "resources": [],
+  "exam": {
+    "id": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1199070678",
+      "timeSpentVideo": "191535939",
+      "submissions": 5888,
+      "submissionsCorrect": 3542,
+      "questions": 10,
+      "accuracy": 0.6015625,
+      "difficulty": 0.6501336005344022
+    }
+  },
+  "explanation": {
+    "id": "bcf51e24-307a-4ef2-95be-e9b65b0d57b4",
+    "body": null,
+    "questionId": "b9ced44f-6f55-4009-a980-6de4bc6221cb",
+    "resources": [
+      {
+        "id": "000796f9-92c9-40b5-90f0-e4f6dee370f7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UkUn64QYxRg?si=zbIjyjBukIVsFdgM&t=223"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bcf51e24-307a-4ef2-95be-e9b65b0d57b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

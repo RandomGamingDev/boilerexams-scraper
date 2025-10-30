@@ -1,0 +1,143 @@
+{
+  "id": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": " A large value of the coefficient of determination in a least-squares regression analysis indicates:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "227aaa5b-3aec-4ac0-bb6c-1542f40b6e8e",
+        "index": 0,
+        "body": "The model can produce accurate and reliable predictions for any value of the explanatory variable.",
+        "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "a370425b-2d69-40b7-af21-618ea203e327",
+        "index": 1,
+        "body": "The model's explained variation is smaller than the unexplained (error) variation.",
+        "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "c7ff5176-e0da-423f-b522-347ffa0851d0",
+        "index": 2,
+        "body": "The relationship between the explanatory variable and the response is linear.",
+        "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "abf67607-118e-4b78-a9f5-20d658540378",
+        "index": 3,
+        "body": "The majority of the variation in the response has been explained by the regression line.",
+        "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "bd65786a-854d-44fe-80cf-bd32aee4d6a6",
+        "index": 4,
+        "body": "The total variation is equal to the unexplained (error) variation.",
+        "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13449301",
+    "timeSpentVideo": "745747",
+    "submissions": 142,
+    "submissionsCorrect": 106,
+    "accuracy": 0.7464788732394366,
+    "difficulty": 0.6053719008264463
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "8c2a2371-7788-4989-ae6a-28bf20ab8223",
+    "body": null,
+    "questionId": "5dc0b22c-fedb-4f2a-80ae-5d04fcc4b83d",
+    "resources": [
+      {
+        "id": "d36753b2-0607-4a0f-90a1-71d000cc45f7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=479"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8c2a2371-7788-4989-ae6a-28bf20ab8223",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "bc4a566b-21b0-4def-afe8-4fb12bc4afb6",
+      "name": "Regression",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "116413066",
+        "timeSpentVideo": "20828947",
+        "submissions": 861,
+        "submissionsCorrect": 457,
+        "questions": 5,
+        "accuracy": 0.5307781649245064,
+        "difficulty": 0.7224245577523413
+      }
+    }
+  ],
+  "children": []
+}

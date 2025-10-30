@@ -1,0 +1,143 @@
+{
+  "id": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{lll}1 & 1 & 1 \\\\ 2 & 2 & 2\\end{array}\\right]$, which of the following set is a basis of the null space of $A$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "33ba13e1-3870-449f-a815-da49490b448c",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{c}-1 \\\\ 0 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{c}-1 \\\\ 1 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+        "stats": {
+          "count": 731
+        },
+        "resources": []
+      },
+      {
+        "id": "ec7d9197-982d-4eaf-9322-3fea679677ab",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ 0 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{c}3 \\\\ 0 \\\\ -3\\end{array}\\right]\\right\\}$",
+        "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "c194e3dd-b31e-4816-be98-5a0051055e20",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{c}3 \\\\ 0 \\\\ -3\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "37f125bf-cfd1-4609-aaa5-c6722f91b335",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{c}0 \\\\ -1 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 5\\end{array}\\right]\\right\\}$",
+        "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "44a7909c-5a1e-40ca-8a15-23cc2e238930",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ 0 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "149852764",
+    "timeSpentVideo": "79736319",
+    "submissions": 1053,
+    "submissionsCorrect": 731,
+    "accuracy": 0.6942070275403609,
+    "difficulty": 0.5726366001734605
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "f350820d-f50d-4813-a2bd-9f4010cb735d",
+    "body": "",
+    "questionId": "354a9cd2-b7fc-422a-9558-d9b00fb43b93",
+    "resources": [
+      {
+        "id": "cfd965c6-5871-43e3-aba3-f14cd0f24be9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=vMLwHOubdRj4u_a0&t=1092\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f350820d-f50d-4813-a2bd-9f4010cb735d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

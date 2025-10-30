@@ -1,0 +1,128 @@
+{
+  "id": "73748736-3920-4aad-a024-9c7c0737f67d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use Euler's method with step size $h=1$ to find the approximate value of $y(3)$, where $y(x)$ solves the initial value problem\n\n\n\\[\ny^{\\prime}=x+\\frac{y}{2}, \\quad y(0)=-8\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8d150a13-5860-4557-8156-82fb29a6133d",
+        "index": 0,
+        "body": "$-17$",
+        "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "d0e3f953-a3e7-4e7c-a6fd-103b49955bcc",
+        "index": 1,
+        "body": "$-22.5$",
+        "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      },
+      {
+        "id": "75bcdde2-d5e5-4f77-af39-d7c9ca260dd9",
+        "index": 2,
+        "body": "$-23.5$",
+        "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+        "stats": {
+          "count": 1541
+        },
+        "resources": []
+      },
+      {
+        "id": "3bb4a24f-f846-4c7f-b554-273834242e04",
+        "index": 3,
+        "body": "$-24.5$",
+        "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "dff92a3f-26ec-4b63-bb22-d07bc0bdc6fa",
+        "index": 4,
+        "body": "$-27$",
+        "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "37557567-8a85-44f8-a17f-f33e7ca60855",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "599453917",
+    "timeSpentVideo": "0",
+    "submissions": 1828,
+    "submissionsCorrect": 1540,
+    "accuracy": 0.8424507658643327,
+    "difficulty": 0.4253112033195021
+  },
+  "resources": [],
+  "exam": {
+    "id": "37557567-8a85-44f8-a17f-f33e7ca60855",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4210380123",
+      "timeSpentVideo": "0",
+      "submissions": 14075,
+      "submissionsCorrect": 10924,
+      "questions": 7,
+      "accuracy": 0.7761278863232682,
+      "difficulty": 0.4758201058201058
+    }
+  },
+  "explanation": {
+    "id": "63a619c8-7ad4-436a-9850-461aa04805fa",
+    "body": "",
+    "questionId": "73748736-3920-4aad-a024-9c7c0737f67d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "581ba71e-2ec0-47ae-aba4-2436e968c5c1",
+      "name": "Euler's Method",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4816796605",
+        "timeSpentVideo": "91964031",
+        "submissions": 10171,
+        "submissionsCorrect": 8188,
+        "questions": 8,
+        "accuracy": 0.805033919968538,
+        "difficulty": 0.4479359361308538
+      }
+    }
+  ],
+  "children": []
+}

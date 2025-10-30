@@ -1,0 +1,153 @@
+{
+  "id": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A spherical balloon is inflated so that its surface area $S$ is increasing at a rate of $4 \\mathrm{~m}^{2} / \\mathrm{s}$. Express the balloon's radius in meters as a function of time $t$ in seconds.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "34205e03-b5ce-41c1-9468-f758d2d1ce18",
+        "index": 0,
+        "body": "$r(S)=\\sqrt{\\frac{S}{4 \\pi}}$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "f2a04ef9-c31f-4f55-acef-e04af8213c28",
+        "index": 1,
+        "body": "$r(t)=4 \\pi t^{2}$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 237
+        },
+        "resources": []
+      },
+      {
+        "id": "28e4728e-484f-445f-b882-7f830f2e8b7b",
+        "index": 2,
+        "body": "$r(t)=\\sqrt{\\frac{t}{\\pi}}$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 366
+        },
+        "resources": []
+      },
+      {
+        "id": "7b6ad7d2-b7b4-4083-b4b2-228c5cd61821",
+        "index": 3,
+        "body": "$r(t)=t$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "12d6a544-00dd-4025-8850-6bd58b3924a6",
+        "index": 4,
+        "body": "$r(t)=S$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "161d9241-91a4-40c7-a231-7f5db7463a99",
+        "index": 5,
+        "body": "$r(t)=4 t$",
+        "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "126a578f-fc99-407b-9500-a9c789986e11",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "130258955",
+    "timeSpentVideo": "26029614",
+    "submissions": 895,
+    "submissionsCorrect": 366,
+    "accuracy": 0.40893854748603353,
+    "difficulty": 0.8319095477386935
+  },
+  "resources": [],
+  "exam": {
+    "id": "126a578f-fc99-407b-9500-a9c789986e11",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2342204807",
+      "timeSpentVideo": "271512339",
+      "submissions": 15537,
+      "submissionsCorrect": 10046,
+      "questions": 15,
+      "accuracy": 0.6465855699298448,
+      "difficulty": 0.6043518577732302
+    }
+  },
+  "explanation": {
+    "id": "0f1f50c4-9124-4967-a7bd-80dd97b06e0c",
+    "body": "",
+    "questionId": "e966ed79-4ec9-4002-82db-16398c54dbdd",
+    "resources": [
+      {
+        "id": "8eea5645-dab9-4afe-a139-d308e844c11f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SDiQ2DqPZ10?si=ubiKjCAPjr62zmcp&t=1261\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0f1f50c4-9124-4967-a7bd-80dd97b06e0c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "286c8939-fe8c-4813-807d-f7c5cca7d1d3",
+      "name": "Applications of Functions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2022763104",
+        "timeSpentVideo": "40360555",
+        "submissions": 3784,
+        "submissionsCorrect": 2265,
+        "questions": 5,
+        "accuracy": 0.5985729386892178,
+        "difficulty": 0.6539649845520082
+      }
+    }
+  ],
+  "children": []
+}

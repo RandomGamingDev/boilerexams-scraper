@@ -1,0 +1,158 @@
+{
+  "id": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Reverse the order of integration and eval $\\displaystyle \\int_0^1 \\int_{x^{1/3}}^1 \\frac{1}{1+y^4} \\, dy\\,dx$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "9137b4a8-3209-4f8b-b023-01e8e0bc5000",
+        "index": 0,
+        "body": "$\\frac{\\ln2}{4}$",
+        "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+        "stats": {
+          "count": 3602
+        },
+        "resources": []
+      },
+      {
+        "id": "a9e14e97-a478-4723-8359-1634d385cedc",
+        "index": 1,
+        "body": "$\\ln2$",
+        "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+        "stats": {
+          "count": 203
+        },
+        "resources": []
+      },
+      {
+        "id": "6c00498d-0914-42b9-bb93-b981f359b314",
+        "index": 2,
+        "body": "$4\\ln2$",
+        "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      },
+      {
+        "id": "ff5a0afe-50e8-410c-9e03-36e5d01d3f14",
+        "index": 3,
+        "body": "$4(\\ln2-1)$",
+        "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+        "stats": {
+          "count": 206
+        },
+        "resources": []
+      },
+      {
+        "id": "6677191e-b834-43bc-a431-b72e5899d1f3",
+        "index": 4,
+        "body": "$\\ln2-1$",
+        "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1321796474",
+    "timeSpentVideo": "145418877",
+    "submissions": 5456,
+    "submissionsCorrect": 3602,
+    "accuracy": 0.6601906158357771,
+    "difficulty": 0.5926925845932326
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "b50884e1-d068-407d-b361-8106b42e015e",
+    "body": "",
+    "questionId": "3ec737ce-758b-4d8e-b833-8ee7468ff5bc",
+    "resources": [
+      {
+        "id": "81111689-8971-4adf-851b-3fdef3af09eb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=AH7LeHqKlUd8ryzd&t=3026"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b50884e1-d068-407d-b361-8106b42e015e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    },
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

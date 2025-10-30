@@ -1,0 +1,128 @@
+{
+  "id": "ed690782-185b-40ce-aa57-66de99351af4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine $k$ such that $\\left|\\begin{array}{rrrr}2 & 1 & 0 & 2 \\\\ 0 & 1 & 0 & 2 \\\\ 2 & 1 & 1 & -1 \\\\ 4 & 2 & 2 & 2\\end{array}\\right|+\\left|\\begin{array}{rrr}k & 0 & 0 \\\\ 0 & 2 & -1 \\\\ 0 & 0 & 1\\end{array}\\right|=0$. (Recall that if $A$ is a square matrix $|A|$ denotes the determinant of $A$. So this is the sum of the determinants of the two matrices.)",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "1756de21-f5e0-41ee-bf2d-3274cd9541d9",
+        "index": 0,
+        "body": "$k=2$",
+        "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "e2d30ca9-6765-4919-83a0-00ccd2cfef33",
+        "index": 1,
+        "body": "$k=-2$",
+        "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "9150eaa4-aeaf-4f92-a606-a0a4daedeb55",
+        "index": 2,
+        "body": "$k=8$",
+        "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "ecadcd1b-0f47-429a-811a-176234aaa6c4",
+        "index": 3,
+        "body": "$k=0$",
+        "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "23cc3b24-3fd2-4c9d-8f8d-8b67f406846a",
+        "index": 4,
+        "body": "$k=-4$",
+        "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+        "stats": {
+          "count": 877
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "362702185",
+    "timeSpentVideo": "0",
+    "submissions": 1193,
+    "submissionsCorrect": 877,
+    "accuracy": 0.7351215423302598,
+    "difficulty": 0.5330626450116009
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "19ef5c6f-1bf6-4e27-8ad9-df018358a0a8",
+    "body": "",
+    "questionId": "ed690782-185b-40ce-aa57-66de99351af4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    }
+  ],
+  "children": []
+}

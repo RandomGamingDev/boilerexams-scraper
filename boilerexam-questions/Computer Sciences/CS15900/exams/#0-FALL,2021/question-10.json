@@ -1,0 +1,134 @@
+{
+  "id": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the LOCATION of the SMALLEST element in the array after the for loop in the main function of the program above terminates?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "99ea5116-24c5-45c0-8303-9283dfc59828",
+        "index": 0,
+        "body": "Index 0",
+        "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+        "stats": {
+          "count": 1890
+        },
+        "resources": []
+      },
+      {
+        "id": "9867b5ad-161a-4dad-9c74-3c03bdb29e54",
+        "index": 1,
+        "body": "Index 3",
+        "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+        "stats": {
+          "count": 490
+        },
+        "resources": []
+      },
+      {
+        "id": "2c621615-ecf8-4766-8960-bdd45da1c5e7",
+        "index": 2,
+        "body": "Index 4",
+        "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+        "stats": {
+          "count": 224
+        },
+        "resources": []
+      },
+      {
+        "id": "bf9b6aba-9288-4784-9f24-a633edebc62d",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "369719540",
+    "timeSpentVideo": "0",
+    "submissions": 2706,
+    "submissionsCorrect": 1890,
+    "accuracy": 0.6984478935698448,
+    "difficulty": 0.5586243763364219
+  },
+  "resources": [
+    {
+      "id": "e770afca-72de-49af-b197-8aaafb8de39c",
+      "type": "CODE",
+      "data": {
+        "content": "#define SIZE 7\nvoid changeData(int[], int);\n\nint main()\n{\n  int x[SIZE] = { 3, 4, 2, 0, 1, 3, 2 };\n  int i;\n\n  for (i = 0; i < SIZE; i++)\n  {\n    changeData(x, x[i] % 3 + 1);\n  }\n\n  return (0);\n}\n\nvoid changeData(int y[], int chg)\n{\n  int i;\n\n  for (i = chg; i < SIZE; i += chg)\n  {\n    y[i] += 1;\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "215d1eed-c2d0-4276-807c-470150bba4c7",
+    "body": "",
+    "questionId": "caca856e-aaba-4e3c-b090-ff5089f7b6a4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

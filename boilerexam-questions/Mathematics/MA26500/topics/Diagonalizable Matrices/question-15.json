@@ -1,0 +1,158 @@
+{
+  "id": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ll}0 & i \\\\ i & 0\\end{array}\\right]$, where $i=\\sqrt{-1}$. Then $A^{32}$ equals",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "5db4de50-35a5-46da-88ba-70194a4173ab",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{ll}1 & i \\\\ 1 & i\\end{array}\\right]$",
+        "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "4d57bb16-cc19-450b-89e4-2096d1a937aa",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{ll}i & 0 \\\\ 0 & i\\end{array}\\right]$",
+        "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "01016fb5-2aef-4d4b-9d46-9f47d0d040c3",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right]$",
+        "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+        "stats": {
+          "count": 973
+        },
+        "resources": []
+      },
+      {
+        "id": "51b305bf-71f6-4092-bf2f-c8ede5ed9fef",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{ll}0 & i \\\\ i & 0\\end{array}\\right]$",
+        "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+        "stats": {
+          "count": 211
+        },
+        "resources": []
+      },
+      {
+        "id": "5ac18f4b-e5b8-465c-99e4-d81da6d8cd72",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{cc}-i & 0 \\\\ 0 & -i\\end{array}\\right]$",
+        "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "254760438",
+    "timeSpentVideo": "66293926",
+    "submissions": 1527,
+    "submissionsCorrect": 973,
+    "accuracy": 0.6371971185330714,
+    "difficulty": 0.6212354025814383
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "c6821a2a-de83-4504-98a1-f928a29d2bee",
+    "body": "",
+    "questionId": "59236514-f56b-4f94-9a4f-eaa8dd1a51a3",
+    "resources": [
+      {
+        "id": "d465a940-9b21-4421-b54c-bc20bf8e9a72",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=2738\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c6821a2a-de83-4504-98a1-f928a29d2bee",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "c0dc3367-8625-4d57-85eb-90ac0c8f2323",
+      "name": "Matrix Addition and Multiplication",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8162413508",
+        "timeSpentVideo": "815735998",
+        "submissions": 16260,
+        "submissionsCorrect": 9237,
+        "questions": 9,
+        "accuracy": 0.5680811808118081,
+        "difficulty": 0.6823349633251834
+      }
+    }
+  ],
+  "children": []
+}

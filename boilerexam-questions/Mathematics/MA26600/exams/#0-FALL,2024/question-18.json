@@ -1,0 +1,128 @@
+{
+  "id": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following functions solves the initial value problem\n\\[\ny''' = f(t),\\quad y(0)=y'(0)=y''(0)=0\n\\]\n[Hint: Use the Laplace Transform.]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f7a211c8-2203-4386-8964-69ea5f945d98",
+        "index": 0,
+        "body": "$y(t) = \\tfrac{1}{2}\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
+        "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "a440e914-0595-4038-9832-352f36330557",
+        "index": 1,
+        "body": "$y(t) = \\tfrac{1}{6}\\int_0^t \\tau^3 f(t-\\tau)\\,d\\tau$",
+        "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "8651ee21-f83f-4c4f-87da-9e67b88e2a8b",
+        "index": 2,
+        "body": "$y(t) = \\tfrac{1}{6}\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
+        "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c99ebc86-223d-43b8-8d1a-c1f0a7d385c1",
+        "index": 3,
+        "body": "$y(t) = 2\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
+        "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "dacc990e-fbef-43f2-be51-3c0b3cf7652d",
+        "index": 4,
+        "body": "$y(t) = 6\\int_0^t \\tau^3 f(t-\\tau)\\,d\\tau$",
+        "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "188153",
+    "timeSpentVideo": "0",
+    "submissions": 1,
+    "submissionsCorrect": 1,
+    "accuracy": 1,
+    "difficulty": 0.745049504950495
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "66ebd350-66a7-47f9-96d2-c286656b0f89",
+    "body": null,
+    "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

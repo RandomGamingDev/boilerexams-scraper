@@ -1,0 +1,133 @@
+{
+  "id": "324deecf-d877-487b-b755-a824bd23eefa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding prefix and post-fix operators is <b>FALSE</b>?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "8a8b6c29-24dd-4065-b8f9-c585a612bdb2",
+        "index": 0,
+        "body": "The operand for a prefix or post-fix operator may be a variable or a constant.",
+        "questionId": "324deecf-d877-487b-b755-a824bd23eefa",
+        "stats": {
+          "count": 645
+        },
+        "resources": []
+      },
+      {
+        "id": "d580b7b2-555a-4fda-822b-065500c0493a",
+        "index": 1,
+        "body": "The same variable cannot serve as an operand for both a prefix and post-fix operator in a single arithmetic expression.",
+        "questionId": "324deecf-d877-487b-b755-a824bd23eefa",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "d5331736-483f-417f-a5a4-7705acee3f80",
+        "index": 2,
+        "body": "When used in a statement without any other operator, a post-fix increment operator can be changed to a prefix increment operator without changing the behavior of the program.",
+        "questionId": "324deecf-d877-487b-b755-a824bd23eefa",
+        "stats": {
+          "count": 146
+        },
+        "resources": []
+      },
+      {
+        "id": "49c96339-bfbb-47bc-ba34-8ed33b6f0942",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "324deecf-d877-487b-b755-a824bd23eefa",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "94377653",
+    "timeSpentVideo": "0",
+    "submissions": 970,
+    "submissionsCorrect": 645,
+    "accuracy": 0.6649484536082474,
+    "difficulty": 0.6004672897196262
+  },
+  "resources": [],
+  "exam": {
+    "id": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2606890576",
+      "timeSpentVideo": "0",
+      "submissions": 28393,
+      "submissionsCorrect": 18576,
+      "questions": 42,
+      "accuracy": 0.6542457648011833,
+      "difficulty": 0.596295581370863
+    }
+  },
+  "explanation": {
+    "id": "842ca3b5-dc73-4232-858c-3045ba69aaeb",
+    "body": null,
+    "questionId": "324deecf-d877-487b-b755-a824bd23eefa",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6b1bf06e-48bc-4aae-a77a-a2dc6a88ec60",
+      "name": "Prefix-Postfix",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2124376241",
+        "timeSpentVideo": "0",
+        "submissions": 4968,
+        "submissionsCorrect": 2952,
+        "questions": 9,
+        "accuracy": 0.5942028985507246,
+        "difficulty": 0.6576558800315706
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

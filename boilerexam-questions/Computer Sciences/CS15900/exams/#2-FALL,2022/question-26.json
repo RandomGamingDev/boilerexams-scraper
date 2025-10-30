@@ -1,0 +1,118 @@
+{
+  "id": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements would correctly initialize the random number generator using the integer variable <font style=\"font-family:'Courier New'\">seed</font>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a59ccf66-af8d-48a3-8aff-4ae163a1d7bd",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">seed = srand();</font>",
+        "questionId": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+        "stats": {
+          "count": 454
+        },
+        "resources": []
+      },
+      {
+        "id": "5a33903d-8bec-46bc-a993-54e0aac1e49e",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">srand(seed);</font>",
+        "questionId": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+        "stats": {
+          "count": 3252
+        },
+        "resources": []
+      },
+      {
+        "id": "dbd9b64b-3733-4bb9-a5c9-3cfdd0aee0ef",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">seed = rand(seed);</font>",
+        "questionId": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+        "stats": {
+          "count": 281
+        },
+        "resources": []
+      },
+      {
+        "id": "7e0c9d53-68ae-4d2b-8d83-2377d7ce01c5",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 26,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "100887588",
+    "timeSpentVideo": "0",
+    "submissions": 4071,
+    "submissionsCorrect": 3252,
+    "accuracy": 0.7988209285187915,
+    "difficulty": 0.45834332294413804
+  },
+  "resources": [],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "2cbde9d7-4cca-413f-9c4c-7b3d33116ab6",
+    "body": "",
+    "questionId": "fb0088fd-07de-4ea9-bb0d-54f16174bcc4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

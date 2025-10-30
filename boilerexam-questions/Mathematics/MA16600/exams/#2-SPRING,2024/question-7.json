@@ -1,0 +1,143 @@
+{
+  "id": "694f570f-889b-432f-854b-b47c7a5ab345",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the partial fraction decomposition form of $$\\frac{x^3}{(x^2+4)(x-4)^2}?$$ Note: The letters $A, B, C, D, E$ in the partial fractions below represent some appropriate constants. ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2821fad7-cdc3-4905-af2c-0867f6900f3b",
+        "index": 0,
+        "body": "$\\frac{A}{(x-4)^2}+\\frac{B}{x^2+4}$",
+        "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "995d5cd0-af40-4d8c-a15c-5d2f36836fe7",
+        "index": 1,
+        "body": "$\\frac{Ax+B}{(x-4)^2} + \\frac{Cx}{x^2+4}$",
+        "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "6b7021a8-ffd9-4973-8e94-19df5188613e",
+        "index": 2,
+        "body": "$\\frac{Ax^2+Bx+C}{(x-4)^2}+\\frac{Dx+E}{x^2+4}$",
+        "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "44cb5ad0-e1af-423e-bb41-7d2cdf536a65",
+        "index": 3,
+        "body": "$\\frac{A}{x-4}+\\frac{B}{(x-4)^2}+\\frac{Cx+D}{x^2+4}$",
+        "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "ce3dc328-d882-4494-99ca-8df6d0549054",
+        "index": 4,
+        "body": "$\\frac{A}{x-4}+\\frac{B}{(x-4)^2}+\\frac{C}{x^2+4}$",
+        "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "25928221",
+    "timeSpentVideo": "1083230",
+    "submissions": 225,
+    "submissionsCorrect": 162,
+    "accuracy": 0.72,
+    "difficulty": 0.5976923076923077
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "23851986-fd93-4f12-a23f-6a2e9ce01875",
+    "body": null,
+    "questionId": "694f570f-889b-432f-854b-b47c7a5ab345",
+    "resources": [
+      {
+        "id": "f61cc1d9-d51b-427f-b7c1-1503be0d9891",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=NaqnkoBDU_eYUORV&t=2708"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "23851986-fd93-4f12-a23f-6a2e9ce01875",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "379288288",
+        "timeSpentVideo": "11959782",
+        "submissions": 821,
+        "submissionsCorrect": 489,
+        "questions": 4,
+        "accuracy": 0.5956151035322778,
+        "difficulty": 0.6647665580890336
+      }
+    }
+  ],
+  "children": []
+}

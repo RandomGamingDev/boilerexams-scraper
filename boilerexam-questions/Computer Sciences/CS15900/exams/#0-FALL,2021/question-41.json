@@ -1,0 +1,134 @@
+{
+  "id": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What kind of data type conversion is performed by the (double) operator on line #16?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8fb79430-ca8e-4aa8-b127-b02c5c9d02ec",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">IMPLICIT type conversion.</font>",
+        "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "67794321-a572-4315-984c-28469d2eba47",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">EXPLICIT type conversion.</font>",
+        "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+        "stats": {
+          "count": 1892
+        },
+        "resources": []
+      },
+      {
+        "id": "3023caa3-4881-4197-b07c-289c061fafd6",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">ASSIGNMENT type conversion.</font>",
+        "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      },
+      {
+        "id": "f6559fb7-6f37-4749-a0d3-26e0f0863663",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 41,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "131026555",
+    "timeSpentVideo": "0",
+    "submissions": 2202,
+    "submissionsCorrect": 1892,
+    "accuracy": 0.8592188919164396,
+    "difficulty": 0.406385751520417
+  },
+  "resources": [
+    {
+      "id": "8e02f9c2-0a82-451c-9c24-7219f5414b98",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main()\n{\n  int select;\n  char unit1 = 'F';\n  char unit2;\n  double temp1 = 77;\n  double temp2;\n\n  select = unit1 / 'F';\n  \n  unit2 = select * 'C';\n  unit2 += (1 - select) * 'F';\n  \n  temp2 = (select) * ((double) (5 / 9) * (temp1 - 32)); // Question #41\n  temp2 += (1 - select) * (9.0 / 5.0 * temp1 + 32);\n\n  printf(\"=-=-=-=-=-=-=-=-=-=-=-=\\n\");\n  printf(\"Temperature #2: %5.2lf %c\\n\", temp2, unit2);\t// Question #40\n  printf(\"=-=-=-=-=-=-=-=-=-=-=-=\\n\");\n\n  return (0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "2b6cf73c-a1d8-487f-890e-0aee9cb6f21b",
+    "body": "",
+    "questionId": "500ae5d1-4b14-46ac-b8ce-e2dc3e571c01",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

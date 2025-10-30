@@ -1,0 +1,128 @@
+{
+  "id": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank of total volume 100 L initially contains 30 L of pure water. A brine solution containing 0.5 kg/L of salt is pumped into the tank at a rate of 10 L/min, and the well-mixed solution in the tank is pumped out at a constant rate. The tank is full after 10 minutes. Let $x(t)$ be the amount of salt (in kg) at time $t$ (in min) before the tank is full.\nWhich differential equation does $x(t)$ satisfy?\n[$Hint$: Find the flow out rate first.]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "366d0dab-5068-4bcc-93bb-d61f5ad70170",
+        "index": 0,
+        "body": "$\\frac{dx}{dt} = 5 - \\tfrac{3x}{70+3t}$",
+        "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "2137c6d1-6c76-4946-a7aa-475e90f12d98",
+        "index": 1,
+        "body": "$\\frac{dx}{dt} = \\tfrac{50-x}{30+7t}$",
+        "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "00bdca1c-613b-42da-af55-570b5618d6b4",
+        "index": 2,
+        "body": "$\\frac{dx}{dt} = 5 + \\tfrac{30x}{100}$",
+        "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "4a0ddf97-edca-4d78-957e-bed5a4fdba02",
+        "index": 3,
+        "body": "$\\frac{dx}{dt} = 0.5 + \\tfrac{3x}{100-3t}$",
+        "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "cc7c9c87-55a5-49c3-9c67-21cab2066ced",
+        "index": 4,
+        "body": "$\\frac{dx}{dt} = 5 - \\tfrac{3x}{30+7t}$",
+        "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "38875400",
+    "timeSpentVideo": "0",
+    "submissions": 146,
+    "submissionsCorrect": 105,
+    "accuracy": 0.7191780821917808,
+    "difficulty": 0.6199186991869918
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "8e006a23-a56b-4bda-b1ce-5d7334051e25",
+    "body": null,
+    "questionId": "762b5bd1-39d7-43e9-8004-82fc752f6d81",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

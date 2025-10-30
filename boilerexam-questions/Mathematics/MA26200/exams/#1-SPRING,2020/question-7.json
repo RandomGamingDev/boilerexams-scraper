@@ -1,0 +1,143 @@
+{
+  "id": "29603b35-920a-427a-9823-3da4efdba5c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\\[\nA=\\left[\\begin{array}{lll}\n1 & 0& c \\\\\n1 & 2 & 0 \n\\end{array}\\right], \\quad \\mathbf{B}=\\left[\\begin{array}{ll}\n2 & 0\\\\\n2 & 4 \\\\\n1 & 0\n\\end{array}\\right].\n\\]\n\nWhich of the following statements is true?\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "63612c50-5320-40f3-b9f0-404d69c4b9df",
+        "index": 0,
+        "body": "$ A+B^{T}=A^{T}+B$",
+        "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "dd9abd9c-7abb-4b05-ba40-08a38393a954",
+        "index": 1,
+        "body": "$AB=BA $",
+        "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "3f74b0c3-ad80-4850-916b-ef63ae31ac2e",
+        "index": 2,
+        "body": "$(AB)^{T}=A^{T}B^{T} $",
+        "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "ed596973-e0d7-4ffc-8f04-07c9351b186d",
+        "index": 3,
+        "body": "If the $(1,1)$-entry of $AB$ is $1$, then $c=-1$",
+        "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+        "stats": {
+          "count": 306
+        },
+        "resources": []
+      },
+      {
+        "id": "f5229423-4979-455d-a433-fd6242f49056",
+        "index": 4,
+        "body": "If the $(1,1)$-entry of $AB$ is $1$, then $c=1$",
+        "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "88734213",
+    "timeSpentVideo": "24161536",
+    "submissions": 556,
+    "submissionsCorrect": 306,
+    "accuracy": 0.5503597122302158,
+    "difficulty": 0.7073170731707317
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "526a1e75-63ac-485f-a924-837491c98aa0",
+    "body": "",
+    "questionId": "29603b35-920a-427a-9823-3da4efdba5c0",
+    "resources": [
+      {
+        "id": "d752f0c3-7f16-46f0-92fc-089f9cfe4ce9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=Lk0GtkMpv5d_8MpO&t=993\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "526a1e75-63ac-485f-a924-837491c98aa0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4dd15d64-bfea-4fc5-999e-fef40b910386",
+      "name": "Transposed Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "303033654",
+        "timeSpentVideo": "44581449",
+        "submissions": 1031,
+        "submissionsCorrect": 566,
+        "questions": 2,
+        "accuracy": 0.5489815712900097,
+        "difficulty": 0.7053492484526968
+      }
+    }
+  ],
+  "children": []
+}

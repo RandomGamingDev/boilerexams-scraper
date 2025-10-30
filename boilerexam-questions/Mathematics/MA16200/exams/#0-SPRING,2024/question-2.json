@@ -1,0 +1,173 @@
+{
+  "id": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the radius of convergence of the power series \\[\\sum_{k=1}^\\infty(1+\\frac{2}{k})^kx^k\\text{ ?}\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5370b8af-2216-41ad-9861-6bb7e469405b",
+        "index": 0,
+        "body": "1",
+        "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+        "stats": {
+          "count": 374
+        },
+        "resources": []
+      },
+      {
+        "id": "348ade4b-6ea0-450d-bb3d-65579227fe9f",
+        "index": 1,
+        "body": "$e^2$",
+        "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "fa29a2ab-c0f4-434b-9058-1f2999c8f719",
+        "index": 2,
+        "body": "2",
+        "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "d0a5d0ca-968d-486a-a6ba-133590b9d32d",
+        "index": 3,
+        "body": "$e^{-2}$",
+        "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "780be8b3-3a7d-4258-ba27-d38fc8fdbea8",
+        "index": 4,
+        "body": "0",
+        "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "There is an error in the explanation for this question. Refer to the text explanation and Image below the video to see the correction.",
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "107182271",
+    "timeSpentVideo": "16307581",
+    "submissions": 746,
+    "submissionsCorrect": 374,
+    "accuracy": 0.5013404825737265,
+    "difficulty": 0.7488179669030733
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "e523bc1f-4505-40cc-a48c-e465bac3846a",
+    "body": "I made a mistake in this explanation. While the final answer is correct, the process of getting there has an error. \n\nThe process of using a root test to find the radius of convergence is correct. However I made an error in the definition of a root test. I said that to take a root test you would need to compute $\\lim_{k\\to\\infty}\\sqrt[k]{a_k}$ when I meant to say $\\lim_{k\\to\\infty}\\sqrt[k]{|a_k|}$. \n\nAfter computing the limit you should end up with an inequality of $|x|<1$ rather than $x<1$. Including the absolute value in the inequality would translate to $-1<x<1$ which would mean that x has to be somewhere between 0 and 1 in order for the series to converge rather than strictly less than 1. This is what ultimately results in a radius of convergence of 1. ",
+    "questionId": "1d0a75b1-8067-4d57-b1c5-40dfd2a2560e",
+    "resources": [
+      {
+        "id": "1fa6a90a-706d-44da-b9d9-b2f1e2248a17",
+        "type": "IMAGE",
+        "data": {
+          "key": "CvpKBRvi0W_YKqwWR3ni4",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/CvpKBRvi0W_YKqwWR3ni4"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e523bc1f-4505-40cc-a48c-e465bac3846a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "9f8d0bc5-e397-460b-afba-f725b8e7d7d2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=660s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e523bc1f-4505-40cc-a48c-e465bac3846a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    },
+    {
+      "id": "d811d117-988e-4d83-b478-5bbe42e4b600",
+      "name": "Radius of Convergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2642845522",
+        "timeSpentVideo": "372375429",
+        "submissions": 6850,
+        "submissionsCorrect": 3931,
+        "questions": 4,
+        "accuracy": 0.5738686131386861,
+        "difficulty": 0.6771942446043165
+      }
+    }
+  ],
+  "children": []
+}

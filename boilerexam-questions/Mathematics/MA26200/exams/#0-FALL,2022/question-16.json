@@ -1,0 +1,128 @@
+{
+  "id": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $\\lambda=1$ is a defective eigenvalue of the matrix $\\left[\\begin{array}{rr}2 & -1 \\\\ 1 & 0\\end{array}\\right]$, which of the following is the solution of the initial value problem:\n\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{rr}\n2 & -1 \\\\\n1 & 0\n\\end{array}\\right] \\mathbf{x} \\quad \\mathbf{x}(0)=\\left[\\begin{array}{l}\n4 \\\\\n2\n\\end{array}\\right] ?\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c41abb6e-228f-4b50-84c3-6cad1e1b0a3f",
+        "index": 0,
+        "body": "$\\mathbf{x}(t)=2 e^{t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+e^{t}\\left\\{t\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+\\left[\\begin{array}{l}2 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "270c9ad9-7a0a-432f-a493-95490203ac57",
+        "index": 1,
+        "body": "$\\mathbf{x}(t)=2 e^{t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+2 t e^{t}\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right]$",
+        "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "fe3964f0-f508-4a66-a6e2-615ff9fc1547",
+        "index": 2,
+        "body": "$\\mathbf{x}(t)=2 e^{t}\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]+2 e^{t}\\left\\{t\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]+\\left[\\begin{array}{l}1 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "ec5979a0-2766-46be-bd81-828dabb7c96a",
+        "index": 3,
+        "body": "$\\mathbf{x}(t)=2 e^{t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+2 e^{t}\\left\\{t\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "1df4677f-9b33-4746-b9ae-c377536e331b",
+        "index": 4,
+        "body": "$\\mathbf{x}(t)=e^{t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+e^{t}\\left\\{t\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+\\left[\\begin{array}{l}3 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "81582535",
+    "timeSpentVideo": "0",
+    "submissions": 247,
+    "submissionsCorrect": 201,
+    "accuracy": 0.8137651821862348,
+    "difficulty": 0.526657060518732
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "6885518c-5d90-4b15-8b25-894e58f0bcc2",
+    "body": "",
+    "questionId": "efb8addb-85f5-4da7-90c3-0140f6e607ae",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9ac2c30c-1366-47fa-9e41-85ba124887ec",
+      "name": "System of Diff. Equations",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "932820903",
+        "timeSpentVideo": "0",
+        "submissions": 1661,
+        "submissionsCorrect": 1306,
+        "questions": 6,
+        "accuracy": 0.786273329319687,
+        "difficulty": 0.4799829642248722
+      }
+    }
+  ],
+  "children": []
+}

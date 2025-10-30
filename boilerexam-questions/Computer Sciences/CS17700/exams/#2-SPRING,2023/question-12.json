@@ -1,0 +1,129 @@
+{
+  "id": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The company\u2019s system can generate charts to display some of the data. Since the company is new, it is important to know how many customers per type it has. Here\u2019s the code that generate the plots\n\nFor the code above, \\verb|types| is a dictionary. Executing \\verb|print(types)| shows in console the following: \n\\verb|{'subscribed': 6, 'casual': 8, 'loyal': 4, 'diamond': 2}|",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ca6ebc28-686e-4c42-b702-5f25dac67aa2",
+        "index": 0,
+        "body": "Yes",
+        "questionId": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+        "stats": {
+          "count": 351
+        },
+        "resources": []
+      },
+      {
+        "id": "71d1c5cd-6c69-421e-91b5-abcca40240fe",
+        "index": 1,
+        "body": "No",
+        "questionId": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "29974113",
+    "timeSpentVideo": "7779905",
+    "submissions": 460,
+    "submissionsCorrect": 351,
+    "accuracy": 0.7630434782608696,
+    "difficulty": 0.5339285714285714
+  },
+  "resources": [
+    {
+      "id": "8f262e6d-6d84-46b4-bd0a-3e0e0199ec4f",
+      "type": "CODE",
+      "data": {
+        "content": "import matplotlib.pyplot as plt\ncounts = [types[type] for type in types]\nemphasis = [0.3 if type == \"diamond\" else 0 for type in types.keys()]\nplt.pie(counts, labels=types.keys(), startangle=230, explode=emphasis)\nplt.show()\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "0d964408-9004-4a12-9f6f-c3f126035093",
+      "type": "IMAGE",
+      "data": {
+        "key": "edNaKJSn8CQLS2F5Qigrh",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/edNaKJSn8CQLS2F5Qigrh",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "0c66f146-b0c5-42bd-b6a9-2a15ba4a429e",
+    "body": "",
+    "questionId": "d0b6ba78-c957-436b-80af-94b09e47ceb0",
+    "resources": [
+      {
+        "id": "2a88550b-f06a-4e4b-afda-358be610f656",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=dsWNaP0AO3s9Go6a&t=5075"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0c66f146-b0c5-42bd-b6a9-2a15ba4a429e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

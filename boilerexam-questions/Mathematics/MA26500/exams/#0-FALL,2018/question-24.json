@@ -1,0 +1,203 @@
+{
+  "id": "84091147-7d14-4a87-967a-9216b8fecb21",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements are/is true?\n\n\n\n(i) An $n \\times n$ matrix that is orthogonally diagonalized must be symmetric.\n\n(ii) An $n \\times n$ symmetric matrix has $n$ distinct real eigenvalues.\n\n(iii) There are symmetric matrices that are not orthogonally diagonalizable.\n\n(iv) If $B=P D P^{T}$, where $P^{T}=P^{-1}$ and $D$ is a diagonal matrix, then $B$ is a symmetric matrix.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2e2a5b5c-9581-440d-b9da-fed9599ac8d1",
+        "index": 0,
+        "body": "(iii) only",
+        "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "da312910-f9d5-4915-b7a2-ab5ba0d60f45",
+        "index": 1,
+        "body": "(i) and (iv) only",
+        "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+        "stats": {
+          "count": 1028
+        },
+        "resources": []
+      },
+      {
+        "id": "1a02b822-866e-441e-9e5e-bca4411dd3d9",
+        "index": 2,
+        "body": "(i) and (iii) only",
+        "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "b7f65d87-8909-443f-a059-9de3d19ee7f9",
+        "index": 3,
+        "body": "(ii) and (iv) only",
+        "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+        "stats": {
+          "count": 238
+        },
+        "resources": []
+      },
+      {
+        "id": "3b9c4ed9-8c49-45a4-b0d2-6d9ef0ed59ed",
+        "index": 4,
+        "body": "(i), (ii), (iii) and (iv)",
+        "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "186918834",
+    "timeSpentVideo": "28606486",
+    "submissions": 1589,
+    "submissionsCorrect": 1028,
+    "accuracy": 0.6469477658904972,
+    "difficulty": 0.6117525162818236
+  },
+  "resources": [],
+  "exam": {
+    "id": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5256686073",
+      "timeSpentVideo": "817078114",
+      "submissions": 28962,
+      "submissionsCorrect": 18421,
+      "questions": 25,
+      "accuracy": 0.636040328706581,
+      "difficulty": 0.6144277751015071
+    }
+  },
+  "explanation": {
+    "id": "8e7786c0-08d0-4e15-b771-1d0b752fd255",
+    "body": "",
+    "questionId": "84091147-7d14-4a87-967a-9216b8fecb21",
+    "resources": [
+      {
+        "id": "1bb832cd-c312-4e9b-8af0-f807c193affe",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/HumaprXFL5g?t=3461\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8e7786c0-08d0-4e15-b771-1d0b752fd255",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0096a6fd-c9e0-45e5-a558-d8cdbd75301f",
+      "name": "Symmetric Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3208026615",
+        "timeSpentVideo": "442646788",
+        "submissions": 9357,
+        "submissionsCorrect": 5324,
+        "questions": 5,
+        "accuracy": 0.568985786042535,
+        "difficulty": 0.68174368192873
+      }
+    },
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "98f7aa52-6b10-415c-b269-3991425de277",
+      "name": "Orthogonality",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295748992",
+        "timeSpentVideo": "694299197",
+        "submissions": 13140,
+        "submissionsCorrect": 7059,
+        "questions": 6,
+        "accuracy": 0.5372146118721461,
+        "difficulty": 0.7130664652567976
+      }
+    },
+    {
+      "id": "c9a451a0-d781-4e9f-b0e9-809c4eb45b0a",
+      "name": "Diagonal Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1241494165",
+        "timeSpentVideo": "123062353",
+        "submissions": 3842,
+        "submissionsCorrect": 2169,
+        "questions": 4,
+        "accuracy": 0.5645497136907861,
+        "difficulty": 0.6870877727042111
+      }
+    }
+  ],
+  "children": []
+}

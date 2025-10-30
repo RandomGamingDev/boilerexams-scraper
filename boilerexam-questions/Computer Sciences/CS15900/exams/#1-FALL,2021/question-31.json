@@ -1,0 +1,149 @@
+{
+  "id": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following declarations is the best match for the $\\texttt{calcSide}$ function based on the $\\texttt{main}$ function provided in the code segment?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7b75c524-2d27-47e4-9193-2a2517eb4437",
+        "index": 0,
+        "body": "\\texttt{int calcSide(double, int, double);}",
+        "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+        "stats": {
+          "count": 2894
+        },
+        "resources": []
+      },
+      {
+        "id": "def9978a-cdea-4a02-930c-2af49f37ae91",
+        "index": 1,
+        "body": "\\texttt{int calcSide(double, int, int);}",
+        "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+        "stats": {
+          "count": 857
+        },
+        "resources": []
+      },
+      {
+        "id": "8729f333-a7ad-46b2-9667-0936b60f2059",
+        "index": 2,
+        "body": "\\texttt{int calcSide(double, double, double);}",
+        "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+        "stats": {
+          "count": 228
+        },
+        "resources": []
+      },
+      {
+        "id": "e2ceb913-bfe5-4f39-878d-75eb926be1e6",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "299195704",
+    "timeSpentVideo": "9490919",
+    "submissions": 4183,
+    "submissionsCorrect": 2894,
+    "accuracy": 0.6918479560124313,
+    "difficulty": 0.5626313331776792
+  },
+  "resources": [
+    {
+      "id": "3591941a-50ad-4deb-a253-cb65beb9de12",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main() {\n  int angle1;\n  int angle2;\n  double mass;\n  double distance;\n  \n  int side1;\n  int side2;\n  double tension1;\n  double tension2;\n  \n  angle1 = getAngle(1);\n  angle2 = getAngle(2);\n  mass = getMass();\n  distance = getDistance();\n  \n  side1 = calcSide(distance, angle2, 180.0 - angle1 - angle2);\n  side2 = calcSide(distance, angle1, 180.0 - angle1 - angle2);\n  \n  tension1 = calcTension1(angle1, angle2, mass);\n  tension2 = calcTension2(angle1, angle2, tension1);\n  \n  displayResults(1, side1, tension1);\n  displayResults(2, side2, tension2);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "2c7f0ab9-bae0-4215-bffe-5f1612a82d00",
+    "body": "",
+    "questionId": "985495e0-4eb5-485e-a33e-ca0a884f1b7e",
+    "resources": [
+      {
+        "id": "e52bb943-b394-4935-a0d7-4eaf8f05bd0e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=MUXsZD2IBIu-kA2m&t=2927"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2c7f0ab9-bae0-4215-bffe-5f1612a82d00",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

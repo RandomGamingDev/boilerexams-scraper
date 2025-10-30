@@ -1,0 +1,143 @@
+{
+  "id": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system\n\n\\[\n\\begin{aligned}\n& x_{1}^{\\prime}=\\alpha x_{1}+\\beta x_{2} \\\\\n& x_{2}^{\\prime}=\\alpha x_{1}+\\alpha x_{2}\n\\end{aligned}\n\\]\nwhere $\\alpha$ and $\\beta$ are constants. For what values of $\\alpha$ and $\\beta$ is the origin a spiral sink?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "60b76236-0fad-4cfd-bad3-18519713ae19",
+        "index": 0,
+        "body": "$\\alpha=0, \\beta>0$",
+        "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "78aa9d74-0d2d-4115-9595-bf2e3dda2446",
+        "index": 1,
+        "body": "$\\alpha<0, \\beta<0$",
+        "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "c4109808-b0bb-4207-bf16-43b1798a3ebf",
+        "index": 2,
+        "body": "$\\alpha<0, \\beta>0$",
+        "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+        "stats": {
+          "count": 321
+        },
+        "resources": []
+      },
+      {
+        "id": "d31d72c1-0dd6-4bf7-b51f-44a0fa1ed762",
+        "index": 3,
+        "body": "$\\alpha<0, \\beta=0$",
+        "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "273dd242-ff9c-471a-bcee-68cf500254c7",
+        "index": 4,
+        "body": "$\\alpha>0, \\beta<0$",
+        "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "93632217",
+    "timeSpentVideo": "14408138",
+    "submissions": 550,
+    "submissionsCorrect": 321,
+    "accuracy": 0.5836363636363636,
+    "difficulty": 0.6792307692307692
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "894d58b2-5a1f-46eb-8827-7a38aed7ec2d",
+    "body": "",
+    "questionId": "42cf827c-bdff-42d5-a63f-c31ed0496d4e",
+    "resources": [
+      {
+        "id": "c004a08b-aa15-4f50-bedc-be899dce9e80",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=p3BXHyVyfM_ZU9jJ&t=1667"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "894d58b2-5a1f-46eb-8827-7a38aed7ec2d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

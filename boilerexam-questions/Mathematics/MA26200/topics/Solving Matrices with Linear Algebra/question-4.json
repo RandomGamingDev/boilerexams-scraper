@@ -1,0 +1,143 @@
+{
+  "id": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $A$ is a $4 \\times 7$ matrix whose reduced row echelon form is\n\n\n\\[\n\\operatorname{rref}(A)=\\left[\\begin{array}{rrrrrrr}\n1 & 0 & 1 & 0 & -1 & 1 & 0 \\\\\n0 & 0 & 0 & 1 & 2 & -3 & 0 \\\\\n0 & 0 & 0 & 0 & 0 & 0 & 1 \\\\\n0 & 0 & 0 & 0 & 0 & 0 & 0\n\\end{array}\\right]\n\\]\n\nWhich of the following statements are true?\n\n(I) $\\operatorname{rank}(A)=4$\n\n(II) The dimension of the Column Space of $A$ must be $4$.\n\n(III) The dimension of the Solution Space for $A \\mathbf{x}=\\mathbf{0}$ must be $4$.\n\n(IV) A basis for the Row Space of $A$ is\n\n\\[\n\\left\\{\\left[\\begin{array}{lllllll}\n1 & 0 & 1 & 0 & -1 & 1 & 0\n\\end{array}\\right], \\quad\\left[\\begin{array}{lllllll}\n0 & 0 & 0 & 1 & 2 & -3 & 0\n\\end{array}\\right], \\quad\\left[\\begin{array}{lllllll}\n0 & 0 & 0 & 0 & 0 & 0 & 1\n\\end{array}\\right]\\right\\} .\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "78f20228-6632-4da3-a6b1-92d954bc8bfe",
+        "index": 0,
+        "body": "Only (IV) is true",
+        "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+        "stats": {
+          "count": 357
+        },
+        "resources": []
+      },
+      {
+        "id": "24155969-f56e-4d0d-885b-ba6b87129249",
+        "index": 1,
+        "body": "Only (II) and (III) are true",
+        "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "9129c56c-3720-4260-a33f-d6b56c6d685e",
+        "index": 2,
+        "body": "Only (II), (III) and (IV) are true",
+        "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "aa498bff-6dd0-4587-8175-b0f8409c97f8",
+        "index": 3,
+        "body": "Only (III) and (IV) are true",
+        "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+        "stats": {
+          "count": 996
+        },
+        "resources": []
+      },
+      {
+        "id": "6adf7b42-bfb5-4d19-a322-6fa6a4186393",
+        "index": 4,
+        "body": "All four statements are true",
+        "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "207324222",
+    "timeSpentVideo": "0",
+    "submissions": 1610,
+    "submissionsCorrect": 996,
+    "accuracy": 0.6186335403726708,
+    "difficulty": 0.6383040935672515
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "ba1fd59c-dab0-4484-8341-79e2e7d7bc6b",
+    "body": "",
+    "questionId": "f16160bb-40d8-4486-a042-7ead7fbb7125",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    },
+    {
+      "id": "8b9340f6-8688-4b4d-a60c-e1570e6b2ab3",
+      "name": "Solving Matrices with Linear Algebra",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2317658323",
+        "timeSpentVideo": "41629066",
+        "submissions": 6089,
+        "submissionsCorrect": 3668,
+        "questions": 6,
+        "accuracy": 0.6023977664641156,
+        "difficulty": 0.6492567458393925
+      }
+    }
+  ],
+  "children": []
+}

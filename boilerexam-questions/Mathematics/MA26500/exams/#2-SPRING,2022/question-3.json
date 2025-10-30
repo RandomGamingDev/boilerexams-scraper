@@ -1,0 +1,143 @@
+{
+  "id": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For which number(s) $a$ does the matrix $A=\\left[\\begin{array}{cccc}4 & 0 & 0 & 0 \\\\ -2 & -1 & 0 & 0 \\\\ 10 & -9 & 6 & a \\\\ 1 & 5 & a & 3\\end{array}\\right]$ have $2$ as an eigenvalue?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "171e6588-9f29-4e33-9940-fa642cdb2f63",
+        "index": 0,
+        "body": "$a=3$ only",
+        "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "579c3b4c-f3c0-44be-a512-534b00e30241",
+        "index": 1,
+        "body": "$a=3$ and $a=-3$ only",
+        "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "9a6f88ce-babd-4297-98ec-2eba18d629bc",
+        "index": 2,
+        "body": "$a=2$ only",
+        "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+        "stats": {
+          "count": 174
+        },
+        "resources": []
+      },
+      {
+        "id": "2b66e0c3-42e5-4903-8560-a2349ce5a561",
+        "index": 3,
+        "body": "$a=2$ and $a=3$ only",
+        "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "85f84d83-d8ce-4fd3-83eb-9227cdcf2d85",
+        "index": 4,
+        "body": "$a=2$ and $a=-2$ only",
+        "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+        "stats": {
+          "count": 1982
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "582938425",
+    "timeSpentVideo": "127338349",
+    "submissions": 3117,
+    "submissionsCorrect": 1982,
+    "accuracy": 0.6358678216233558,
+    "difficulty": 0.6183556108175319
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "2637a597-3c22-4a23-8d49-2fc516e18838",
+    "body": "",
+    "questionId": "2aad9da7-3626-4f53-88f7-8530128e98b7",
+    "resources": [
+      {
+        "id": "e821ecef-da6d-4904-b717-04f6f7d878bd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?t=666\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2637a597-3c22-4a23-8d49-2fc516e18838",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    }
+  ],
+  "children": []
+}

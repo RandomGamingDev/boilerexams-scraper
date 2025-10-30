@@ -1,0 +1,143 @@
+{
+  "id": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=e^{x}$, which of the following is equal to $f^{\\prime}(e)$ ?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "9adb1732-f25e-4e9e-a6d1-210487863b0f",
+        "index": 0,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{e^{h}}{h}$",
+        "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "43d4d5e1-df06-46ce-9aca-15db0920de5a",
+        "index": 1,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{e^{h}-e^{e}}{h}$",
+        "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "37548ced-9a1e-48a9-b31d-0a2985e84192",
+        "index": 2,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{e^{h}-1}{h}$",
+        "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "2182cfa0-1a87-417d-96bb-595e7b499462",
+        "index": 3,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{e^{x+h}-1}{h}$",
+        "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "5e735864-d638-4382-9098-75a4e11c0739",
+        "index": 4,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{e^{e+h}-e^{e}}{h}$",
+        "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+        "stats": {
+          "count": 897
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "118090406",
+    "timeSpentVideo": "15435680",
+    "submissions": 1362,
+    "submissionsCorrect": 889,
+    "accuracy": 0.6527165932452276,
+    "difficulty": 0.6077291381668947
+  },
+  "resources": [],
+  "exam": {
+    "id": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2204708271",
+      "timeSpentVideo": "411980951",
+      "submissions": 14776,
+      "submissionsCorrect": 9273,
+      "questions": 12,
+      "accuracy": 0.627571737953438,
+      "difficulty": 0.6232858295240656
+    }
+  },
+  "explanation": {
+    "id": "10046a03-b9e1-45e1-aed4-4efefc8dfc6f",
+    "body": "",
+    "questionId": "c9d79d62-edfd-4a8a-aaa8-d7ae31e289cc",
+    "resources": [
+      {
+        "id": "376daf27-278a-423f-bd0f-026a1a9a1d23",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/N-YKg4yIEhU?t=481"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "10046a03-b9e1-45e1-aed4-4efefc8dfc6f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

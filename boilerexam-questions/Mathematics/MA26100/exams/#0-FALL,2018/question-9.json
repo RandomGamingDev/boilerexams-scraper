@@ -1,0 +1,127 @@
+{
+  "id": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following integrals represents the volume of the solid in the first octant that is bounded on the side by the surface $x^{2}+y^{2}=4$ and on the top by the surface $x^{2}+y^{2}+z=4 ?$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c2c96d7e-f98c-4151-a4f3-1d04067f6bdb",
+        "index": 0,
+        "body": "$\\int_{0}^{2} \\int_{0}^{2} \\int_{0}^{4-x^{2}-y^{2}} d z d x d y$",
+        "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "173285c7-c020-4864-9606-0503f3d2ca34",
+        "index": 1,
+        "body": "$\\int_{0}^{4} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{0}^{4-z} d z d y d x$",
+        "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "93c29290-cb22-4703-85a7-5a240cc53a71",
+        "index": 2,
+        "body": "$\\int_{0}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{0}^{4-x^{2}-y^{2}} d z d y d x$",
+        "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+        "stats": {
+          "count": 1694
+        },
+        "resources": []
+      },
+      {
+        "id": "a316d505-f6a8-4c47-b6f5-401d6ca6b2ae",
+        "index": 3,
+        "body": "$\\int_{0}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{0}^{x^{2}+y^{2}} d z d y d x$",
+        "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "b47dd06b-42c4-46e6-853e-52d7807342bb",
+        "index": 4,
+        "body": "$\\int_{0}^{4} \\int_{0}^{4} \\int_{0}^{4-x^{2}-y^{2}} d z d x d y$",
+        "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "6a74658e-ba3b-4ee9-bf88-849cb8b901c0",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "246497154",
+    "timeSpentVideo": "52023146",
+    "submissions": 1939,
+    "submissionsCorrect": 1694,
+    "accuracy": 0.8736462093862816,
+    "difficulty": 0.3946787641000491
+  },
+  "resources": [],
+  "exam": {
+    "id": "6a74658e-ba3b-4ee9-bf88-849cb8b901c0",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7246161963",
+      "timeSpentVideo": "2057907855",
+      "submissions": 40609,
+      "submissionsCorrect": 24006,
+      "questions": 20,
+      "accuracy": 0.5911497451303899,
+      "difficulty": 0.6590741605050481
+    }
+  },
+  "explanation": {
+    "id": "1f216e9b-5ead-483c-89bb-2515e20b0cb8",
+    "body": "",
+    "questionId": "a5158f5b-e9c6-4d23-affa-7736bef01890",
+    "resources": [
+      {
+        "id": "37f08493-d070-4af5-aee7-9f73e66302e1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nwEQ5Bmccww?si=B5ptQvFbptWKZ0E7&t=1619\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1f216e9b-5ead-483c-89bb-2515e20b0cb8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

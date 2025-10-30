@@ -1,0 +1,143 @@
+{
+  "id": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Set up an appropriate form for the particular solution $y_p(x)$, but do not determine the\nvalues of the coefficients. (All derivatives in this problem are with respect to $x$).\n$\\\\  y^{(3)} - y'' - 2y' = x^2 + e^{2x} $\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5c1cc649-53a1-4b54-b096-074dbc6e9e37",
+        "index": 0,
+        "body": "$y_p(x) = Ax^2 + Bx + C + De^{2x}$",
+        "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "ae3f33c4-4339-4ff2-ac17-b1d2f8fd7a1c",
+        "index": 1,
+        "body": "$y_p(x) = Ax^3 + Bx^2 + Cx + Dxe^{2x}$",
+        "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+        "stats": {
+          "count": 494
+        },
+        "resources": []
+      },
+      {
+        "id": "52a5b731-e737-437d-ba35-6a78f96e6c50",
+        "index": 2,
+        "body": "$y_p(x) = Ax^2 + Be^{2x}$",
+        "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "d26b7a23-18d2-4748-baca-bcf996d094f7",
+        "index": 3,
+        "body": "$y_p(x) = A + Be^{2x} + Ce^{-x}$",
+        "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "91d0a495-23c6-44c6-bc10-241cde65d008",
+        "index": 4,
+        "body": "$y_p(x) = Ax^2 + Bx + C + (Dx + E)e^{2x}$",
+        "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "158517065",
+    "timeSpentVideo": "54604740",
+    "submissions": 819,
+    "submissionsCorrect": 494,
+    "accuracy": 0.6031746031746031,
+    "difficulty": 0.6580522306855278
+  },
+  "resources": [],
+  "exam": {
+    "id": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1199070678",
+      "timeSpentVideo": "191535939",
+      "submissions": 5888,
+      "submissionsCorrect": 3542,
+      "questions": 10,
+      "accuracy": 0.6015625,
+      "difficulty": 0.6501336005344022
+    }
+  },
+  "explanation": {
+    "id": "03090693-0aa1-4294-b746-60aa006c5496",
+    "body": null,
+    "questionId": "48332e5a-7d2d-49e0-ac19-85af1dec3a78",
+    "resources": [
+      {
+        "id": "83f00ae5-8fac-49d0-b1dd-a8b95f898fb4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkUn64QYxRg"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "03090693-0aa1-4294-b746-60aa006c5496",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,173 @@
+{
+  "id": "8d972214-367d-44ac-a09c-691fbca5a536",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{u}=\\left[\\begin{array}{l}2 \\\\ 0 \\\\ 1\\end{array}\\right], \\mathbf{v}=\\left[\\begin{array}{l}3 \\\\ 1 \\\\ 0\\end{array}\\right]$, and $\\mathbf{w}=\\left[\\begin{array}{c}1 \\\\ -1 \\\\ c\\end{array}\\right]$ where $c$ is a real number. The set $\\{\\mathbf{u}, \\mathbf{v}, \\mathbf{w}\\}$ is a basis for $\\mathbb{R}^{3}$ provided that $c$ is not equal",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2310ff3b-b412-4758-83e9-164927323c7f",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+        "stats": {
+          "count": 215
+        },
+        "resources": []
+      },
+      {
+        "id": "6643ed10-3f6b-45f7-8b91-6759f01483e8",
+        "index": 1,
+        "body": "$2$",
+        "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+        "stats": {
+          "count": 3440
+        },
+        "resources": []
+      },
+      {
+        "id": "f0a17a0e-4648-447b-a12b-a9b9a171a1e5",
+        "index": 2,
+        "body": "$-3$",
+        "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "c1763fb5-4d68-4845-8360-80d6f0f030fa",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "23cec5b6-cbaa-4958-9462-8800c44041ab",
+        "index": 4,
+        "body": "$-1$",
+        "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+        "stats": {
+          "count": 496
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "870786147",
+    "timeSpentVideo": "170837968",
+    "submissions": 5097,
+    "submissionsCorrect": 3440,
+    "accuracy": 0.6749068079262311,
+    "difficulty": 0.5784587261881855
+  },
+  "resources": [],
+  "exam": {
+    "id": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3858235430",
+      "timeSpentVideo": "1767207244",
+      "submissions": 26747,
+      "submissionsCorrect": 15288,
+      "questions": 10,
+      "accuracy": 0.5715781209107563,
+      "difficulty": 0.6786884940589265
+    }
+  },
+  "explanation": {
+    "id": "8fbfbf27-b05f-4182-bcfa-08134cfc6f64",
+    "body": "",
+    "questionId": "8d972214-367d-44ac-a09c-691fbca5a536",
+    "resources": [
+      {
+        "id": "e59f6f0c-e283-4735-801a-b137ef784486",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/eSWeX98Q0fE?t=184\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8fbfbf27-b05f-4182-bcfa-08134cfc6f64",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

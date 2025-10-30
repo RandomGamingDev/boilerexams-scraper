@@ -1,0 +1,143 @@
+{
+  "id": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{F}=\\langle a x, c z-a x, c z+b y\\rangle$ be a vector field, where $a, b, c \\in \\mathbb{R}$. Find conditions on $a, b$ and $c$ so that $\\mathbf{F}$ is not conservative and such that $\\operatorname{curl}(\\mathbf{F})$ is parallel to $\\mathbf{k}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "685088f0-4809-49db-abc5-1c56f3ae7e25",
+        "index": 0,
+        "body": "$b=c$",
+        "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+        "stats": {
+          "count": 191
+        },
+        "resources": []
+      },
+      {
+        "id": "a4670ca0-62f8-4e9a-8a94-047c9ef3c87f",
+        "index": 1,
+        "body": "$a=c$",
+        "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+        "stats": {
+          "count": 186
+        },
+        "resources": []
+      },
+      {
+        "id": "8a7f1d8a-dd3a-4be6-ac76-7d29b856c887",
+        "index": 2,
+        "body": "$b=c$ and $a=0$",
+        "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+        "stats": {
+          "count": 563
+        },
+        "resources": []
+      },
+      {
+        "id": "41daf536-ae15-4bc0-aa83-d9c9690cc92e",
+        "index": 3,
+        "body": "$b=c$ and $a \\neq 0$",
+        "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+        "stats": {
+          "count": 2724
+        },
+        "resources": []
+      },
+      {
+        "id": "36dc84d5-13bf-4f24-8582-c34d3ca20834",
+        "index": 4,
+        "body": "$a=b=c=0$",
+        "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+        "stats": {
+          "count": 1638
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "962013830",
+    "timeSpentVideo": "261217952",
+    "submissions": 6347,
+    "submissionsCorrect": 2724,
+    "accuracy": 0.4291791397510635,
+    "difficulty": 0.8197223514813091
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "8a607fea-3732-4a0b-95aa-0c1d7dcab350",
+    "body": "",
+    "questionId": "ddb15a48-1f80-4c6b-b5a5-bb21725b7698",
+    "resources": [
+      {
+        "id": "5b8b39a3-926d-4873-b127-2137f8533cef",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=SoQIasqXRiLwklFB&t=4473"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8a607fea-3732-4a0b-95aa-0c1d7dcab350",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12211665531",
+        "timeSpentVideo": "1608395474",
+        "submissions": 32383,
+        "submissionsCorrect": 17165,
+        "questions": 8,
+        "accuracy": 0.530062069604422,
+        "difficulty": 0.7200304774805283
+      }
+    }
+  ],
+  "children": []
+}

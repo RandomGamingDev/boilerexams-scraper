@@ -1,0 +1,143 @@
+{
+  "id": "ea6a633e-f130-442b-939a-63a42693017d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a least-squares solution for $A \\mathbf{x}=\\mathbf{b}$ where $A=\\left[\\begin{array}{cc}1 & 0 \\\\ -1 & 1 \\\\ 2 & 2\\end{array}\\right]$ and $\\mathbf{b}=\\left[\\begin{array}{c}-5 \\\\ 0 \\\\ 1\\end{array}\\right]$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c3d795ac-8e97-45fb-84ef-1cf114304afb",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{l}-2 \\\\ -1\\end{array}\\right]$",
+        "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "0ec478ad-c862-4f44-8f21-22ee77f48438",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 2\\end{array}\\right]$",
+        "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "a2fbdd2f-4876-4e8f-b263-786e118ef4ae",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{c}-1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+        "stats": {
+          "count": 1501
+        },
+        "resources": []
+      },
+      {
+        "id": "071ea96c-25b8-4c4e-a6f9-03deb893e4cf",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right]$",
+        "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "f457687a-eb21-466d-b0bb-833dfb5d6bd2",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+        "stats": {
+          "count": 138
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "622105388",
+    "timeSpentVideo": "73739112",
+    "submissions": 2409,
+    "submissionsCorrect": 1501,
+    "accuracy": 0.6230801162308012,
+    "difficulty": 0.6318254284575529
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "98236bce-b8eb-425d-8bc8-4b8c96781464",
+    "body": "",
+    "questionId": "ea6a633e-f130-442b-939a-63a42693017d",
+    "resources": [
+      {
+        "id": "e23251cb-3643-4217-be54-3a7914451fe9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=6245\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "98236bce-b8eb-425d-8bc8-4b8c96781464",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "57e73f87-9387-4fc0-8283-5c7603e277e0",
+      "name": "Least Squares",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5384896206",
+        "timeSpentVideo": "450818907",
+        "submissions": 12394,
+        "submissionsCorrect": 6990,
+        "questions": 8,
+        "accuracy": 0.5639825722123608,
+        "difficulty": 0.6865295341764047
+      }
+    }
+  ],
+  "children": []
+}

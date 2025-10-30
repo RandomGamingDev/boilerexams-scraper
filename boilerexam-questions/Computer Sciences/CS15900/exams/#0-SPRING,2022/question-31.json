@@ -1,0 +1,118 @@
+{
+  "id": "983df68b-0e31-49a7-829a-e579e0ad2232",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The formula given below can be used to approximate the factorial of $\\texttt{x}$:\n\n\\[x^xe^{-x}\\sqrt{(2x+\\frac{1}{3})\\pi}\\]\n\nWhich of the following is an expression that correctly represents the formula above?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0e2051bd-0d9b-4ca3-b653-494f9e78ddf2",
+        "index": 0,
+        "body": "\\texttt{pow(x, x) * pow(M_E, -x) * pow((2 * x + 1 / 3) * M_PI, 1 / 2)}",
+        "questionId": "983df68b-0e31-49a7-829a-e579e0ad2232",
+        "stats": {
+          "count": 245
+        },
+        "resources": []
+      },
+      {
+        "id": "8720b70d-f38a-4dbe-87f8-ed393a25ecc5",
+        "index": 1,
+        "body": "\\texttt{pow(x, x) * pow(M_E, -x) * sqrt((2 * x + (double)(1 / 3)) * M_PI)}",
+        "questionId": "983df68b-0e31-49a7-829a-e579e0ad2232",
+        "stats": {
+          "count": 642
+        },
+        "resources": []
+      },
+      {
+        "id": "1562b9e5-c2ce-472a-8237-d21366ee2d5d",
+        "index": 2,
+        "body": "\\texttt{pow(x, x) * pow(M_E, -x) * sqrt((2 * x + 1.0 / 3.0) * M_PI)}",
+        "questionId": "983df68b-0e31-49a7-829a-e579e0ad2232",
+        "stats": {
+          "count": 2468
+        },
+        "resources": []
+      },
+      {
+        "id": "e28a5519-9718-4bd8-aa88-d97bff45c333",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "983df68b-0e31-49a7-829a-e579e0ad2232",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "296428550",
+    "timeSpentVideo": "0",
+    "submissions": 3487,
+    "submissionsCorrect": 2468,
+    "accuracy": 0.7077717235445942,
+    "difficulty": 0.5480206300529691
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "6aa3b61f-88ab-4dc0-adc8-5808a643f6f3",
+    "body": "",
+    "questionId": "983df68b-0e31-49a7-829a-e579e0ad2232",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

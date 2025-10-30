@@ -1,0 +1,134 @@
+{
+  "id": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is NOT a line of output generated within the <font style=\"font-family:'Courier New'\">moreCalculations</font> function in the program?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5a0d034f-677f-4e02-bf85-1bfc80119a0e",
+        "index": 0,
+        "body": "n: 4",
+        "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+        "stats": {
+          "count": 2391
+        },
+        "resources": []
+      },
+      {
+        "id": "a1040159-f903-4839-a1b1-b2a5d8fb21da",
+        "index": 1,
+        "body": "n: 3",
+        "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+        "stats": {
+          "count": 173
+        },
+        "resources": []
+      },
+      {
+        "id": "49167944-d5ce-4dd0-98cb-87e903d6f1db",
+        "index": 2,
+        "body": "n: 5",
+        "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "929577f5-c105-403a-8b0f-897f233b4718",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "208630461",
+    "timeSpentVideo": "0",
+    "submissions": 3255,
+    "submissionsCorrect": 2391,
+    "accuracy": 0.7345622119815668,
+    "difficulty": 0.5224292101341281
+  },
+  "resources": [
+    {
+      "id": "41c06761-7580-4f49-a363-839280afe7e1",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\n\nint moreCalculations(int, int);\n\nint main(void)\n{\n  int result;\n  \n  result = moreCalculations(47, 2);\n  \n  printf(\"result: %d\\n\", result);\n  \n  return(0);\n}\n\nint moreCalculations(int x, int n)\n{\n  int result = 0;\n  printf(\"n: %d\\n\", n);\n  \n  if(x % n)\n  {\n    if(n < sqrt(x))\n    {\n      n += n % 2 + 1;\n      result += moreCalculations(x, n);\n    }\n    else\n    {\n      result = 1;\n    }\n  }\n  \n  return(result);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "df3c2b73-c830-4a8c-9704-dcade43f276c",
+    "body": "",
+    "questionId": "b4c325e8-80c6-4e76-9f55-2d28795a2163",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "159fdad5-f22e-4728-bac7-6952d8c569ac",
+      "name": "Recursion",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7354252330",
+        "timeSpentVideo": "203712680",
+        "submissions": 24127,
+        "submissionsCorrect": 15897,
+        "questions": 9,
+        "accuracy": 0.6588883823102748,
+        "difficulty": 0.5917674495397697
+      }
+    }
+  ],
+  "children": []
+}

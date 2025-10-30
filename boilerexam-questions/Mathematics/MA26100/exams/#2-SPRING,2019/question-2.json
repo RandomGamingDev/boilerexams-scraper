@@ -1,0 +1,143 @@
+{
+  "id": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Reverse the order of integration and evaluate the double integral\n\n\n\\[\n\\int_{0}^{1} \\int_{x^{2}}^{1} 6 \\sqrt{y} \\cos y^{2} \\mathrm{dydx} .\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "73f3ac4b-8229-40dc-a0da-286007402d2b",
+        "index": 0,
+        "body": "$\\sin 1$",
+        "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "2b0b39a3-30da-4b00-9040-b1e8ca2bb9d7",
+        "index": 1,
+        "body": "$2 \\sin 1$",
+        "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "cb167dad-f943-46db-864b-213cc64de727",
+        "index": 2,
+        "body": "$3 \\sin 1$",
+        "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+        "stats": {
+          "count": 2808
+        },
+        "resources": []
+      },
+      {
+        "id": "f473d79d-ae97-405f-bcf3-799344874099",
+        "index": 3,
+        "body": "$3 \\cos 1$",
+        "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "48cda0ec-bcda-4a8c-a9c2-7225f996de4b",
+        "index": 4,
+        "body": "$2 \\cos 1-2$",
+        "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "835972462",
+    "timeSpentVideo": "160981762",
+    "submissions": 3915,
+    "submissionsCorrect": 2808,
+    "accuracy": 0.7172413793103448,
+    "difficulty": 0.5381693648816936
+  },
+  "resources": [],
+  "exam": {
+    "id": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10604032967",
+      "timeSpentVideo": "2972029862",
+      "submissions": 47734,
+      "submissionsCorrect": 27532,
+      "questions": 10,
+      "accuracy": 0.576779653915448,
+      "difficulty": 0.6733808588033616
+    }
+  },
+  "explanation": {
+    "id": "3b0a1a66-de67-437e-8ad9-c7f5bb6338e3",
+    "body": "",
+    "questionId": "6ab84eba-3a99-42fc-80ed-f270e94f3229",
+    "resources": [
+      {
+        "id": "d7455ed8-563f-4fa5-a10a-baff8a7c61d8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/xQFS-kwpzfo?t=299"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3b0a1a66-de67-437e-8ad9-c7f5bb6338e3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

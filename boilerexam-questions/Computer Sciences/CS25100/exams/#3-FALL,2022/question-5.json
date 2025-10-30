@@ -1,0 +1,119 @@
+{
+  "id": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Show the steps of Kosaraju's algorithm to find the Strongly Connected Components of the graph below.\n\nFor the answer to this question, choose the correct list of strongly connected components.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7cbcab72-44a2-463a-a3b9-7592367eb63c",
+        "index": 0,
+        "body": "[{2,9,8,7}, {10}, {11}, {3}, {5}]",
+        "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "c7aed7ea-80d4-4cda-9584-a3474eb6cd89",
+        "index": 1,
+        "body": "[{2,7,11}, {5}, {9}, {8}, {10}]\n",
+        "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "fd6b72a6-471f-440d-9417-d86fe28a29fc",
+        "index": 2,
+        "body": "[{5}, {3}, {2,9,8,7,11}, {10}]\n",
+        "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+        "stats": {
+          "count": 445
+        },
+        "resources": []
+      },
+      {
+        "id": "c45d3939-854f-42b6-b178-247182a67a50",
+        "index": 3,
+        "body": "[{2,3,5,7,8,9,10,11}]",
+        "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "160749303",
+    "timeSpentVideo": "0",
+    "submissions": 594,
+    "submissionsCorrect": 445,
+    "accuracy": 0.7491582491582491,
+    "difficulty": 0.5367435158501441
+  },
+  "resources": [
+    {
+      "id": "9a5b9fa8-64d5-4776-999f-5e6b1855d5e3",
+      "type": "IMAGE",
+      "data": {
+        "key": "qJr-y5-DrtMZgeBGc7v8C",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/qJr-y5-DrtMZgeBGc7v8C",
+        "altText": " "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "6f64b667-3431-4303-9cdc-1b3a9f33d2e1",
+    "body": "",
+    "questionId": "b975b512-c42b-46c7-8ccf-949ea783ae56",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

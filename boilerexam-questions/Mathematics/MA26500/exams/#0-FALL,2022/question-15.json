@@ -1,0 +1,143 @@
+{
+  "id": "7e00d184-5499-4009-b386-81de3813632a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let the transformation $T: \\mathbf{x} \\rightarrow A \\mathbf{x}$ be the composition of a rotation by angle $\\theta \\in(-\\pi, \\pi]$, followed by a scaling by the factor $r>0$. If $A=\\left[\\begin{array}{cc}-9 \\sqrt{3} & 9 \\\\ -9 & -9 \\sqrt{3}\\end{array}\\right]$, find $\\theta$ and $r$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "72be092c-237c-4d2c-bb39-98e5e5e5d876",
+        "index": 0,
+        "body": "$\\theta=-5 \\pi / 6, \\quad r=18$",
+        "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+        "stats": {
+          "count": 939
+        },
+        "resources": []
+      },
+      {
+        "id": "c5ea1042-7824-483e-8308-dcd2118f1254",
+        "index": 1,
+        "body": "$\\theta=\\pi / 3, \\quad r=9$",
+        "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "ef3aba14-0de5-44b7-81d5-26321e98cf15",
+        "index": 2,
+        "body": "$\\theta=5 \\pi / 6, \\quad r=18$",
+        "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+        "stats": {
+          "count": 264
+        },
+        "resources": []
+      },
+      {
+        "id": "59a9f70f-7354-4260-80ed-27249d0e354f",
+        "index": 3,
+        "body": "$\\theta=\\pi / 6, \\quad r=18$",
+        "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "d28d967e-2aa6-4c2b-be32-59865e91553f",
+        "index": 4,
+        "body": "$\\theta=-\\pi / 6, \\quad r=18$",
+        "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "348530487",
+    "timeSpentVideo": "122993027",
+    "submissions": 2143,
+    "submissionsCorrect": 939,
+    "accuracy": 0.4381707886140924,
+    "difficulty": 0.8090726705305394
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "b1db770e-c58c-4747-beb8-2f6d3ec400a2",
+    "body": "",
+    "questionId": "7e00d184-5499-4009-b386-81de3813632a",
+    "resources": [
+      {
+        "id": "7fb2da46-91ad-41a8-b0ef-b69c8b46811a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=4267\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b1db770e-c58c-4747-beb8-2f6d3ec400a2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "764c8ecd-ad53-4694-945b-7a7e4a09e231",
+      "name": "Rotation Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "859680483",
+        "timeSpentVideo": "122993027",
+        "submissions": 2143,
+        "submissionsCorrect": 939,
+        "questions": 1,
+        "accuracy": 0.4381707886140924,
+        "difficulty": 0.8090726705305394
+      }
+    }
+  ],
+  "children": []
+}

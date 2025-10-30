@@ -1,0 +1,143 @@
+{
+  "id": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all real numbers $k$ such that the parallelogram with vertices\n\n\n\\[\n\\left[\\begin{array}{l}\n0 \\\\\n0\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n2 \\\\\nk\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n4 \\\\\n5\n\\end{array}\\right], \\quad\\left[\\begin{array}{c}\n6 \\\\\nk+5\n\\end{array}\\right]\n\\]\n\nhas area $6$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b47368ac-79f5-495e-8338-b821aa1fa98a",
+        "index": 0,
+        "body": "$k=-1$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "1fa6adc9-b46d-4d8d-b66a-5c32f028361b",
+        "index": 1,
+        "body": "$k=-1$ or $4$",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "ab5f26a7-796b-4f4c-9ddd-8619351b1fe6",
+        "index": 2,
+        "body": "$k=1$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+        "stats": {
+          "count": 355
+        },
+        "resources": []
+      },
+      {
+        "id": "e972b494-bc43-436b-9251-9a604fa0794f",
+        "index": 3,
+        "body": "$k=4$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "92b61841-7e72-44fa-bc52-a6c758f2cd2d",
+        "index": 4,
+        "body": "$k=1$ or $4$",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+        "stats": {
+          "count": 835
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "255728499",
+    "timeSpentVideo": "77429254",
+    "submissions": 1769,
+    "submissionsCorrect": 835,
+    "accuracy": 0.47201808931599776,
+    "difficulty": 0.7764847512038524
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "61b892dd-f24a-4843-8744-22e4d39ddba9",
+    "body": "",
+    "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
+    "resources": [
+      {
+        "id": "dca294bd-436f-415e-9d9c-a56d4fc6ca74",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1476"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "61b892dd-f24a-4843-8744-22e4d39ddba9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "80c1d562-2606-4769-b784-168b6b995e6f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Do NOT evaluate. Rewrite the integral in cylindrical coordinates.\n\n\\[\n\\int_{0}^{2} \\int_{0}^{\\sqrt{4-y^{2}}} \\int_{\\sqrt{x^{2}+y^{2}}}^{\\sqrt{8-x^{2}-y^{2}}} \\sqrt{x^{2}+y^{2}} d z d x d y\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "22f65a86-cfed-405a-8d8e-36f8659c1211",
+        "index": 0,
+        "body": "$\\int_{0}^{\\pi / 2} \\int_{0}^{2} \\int_{r}^{\\sqrt{8-r^{2}}} r^{2} d z d r d \\theta$",
+        "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+        "stats": {
+          "count": 1589
+        },
+        "resources": []
+      },
+      {
+        "id": "93e79f6b-c67d-49ab-9294-bdfb2a604559",
+        "index": 1,
+        "body": "$\\int_{0}^{\\pi / 2} \\int_{0}^{2} \\int_{r}^{\\sqrt{8-r^{2}}} r d z d r d \\theta$",
+        "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "c295dbb4-d5d1-4baa-aef9-a8035e671ce0",
+        "index": 2,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{2} \\int_{r}^{\\sqrt{8-r^{2}}} r^{2} d z d r d \\theta$",
+        "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+        "stats": {
+          "count": 524
+        },
+        "resources": []
+      },
+      {
+        "id": "3b9af7e9-591b-4940-84a5-d7ff9187f19d",
+        "index": 3,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{2} \\int_{r}^{\\sqrt{8-r^{2}}} r d z d r d \\theta$",
+        "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "5b75fa4a-7b18-43af-8e12-809517845b74",
+        "index": 4,
+        "body": "None of the above.",
+        "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "280350366",
+    "timeSpentVideo": "69423083",
+    "submissions": 2391,
+    "submissionsCorrect": 1589,
+    "accuracy": 0.6645754914261816,
+    "difficulty": 0.5920313127258129
+  },
+  "resources": [],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "1e6923e8-af17-4746-a9e9-f1c47eae32e8",
+    "body": "",
+    "questionId": "80c1d562-2606-4769-b784-168b6b995e6f",
+    "resources": [
+      {
+        "id": "6312ad87-596f-4b9c-a2d9-0873a46e6ebf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=664"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1e6923e8-af17-4746-a9e9-f1c47eae32e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "87ae231c-a4a0-4a4f-8668-5f9031f21aee",
+      "name": "Rectangular to Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1377803230",
+        "timeSpentVideo": "182939434",
+        "submissions": 6190,
+        "submissionsCorrect": 4741,
+        "questions": 2,
+        "accuracy": 0.7659127625201939,
+        "difficulty": 0.48831478537360895
+      }
+    }
+  ],
+  "children": []
+}

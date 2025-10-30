@@ -1,0 +1,213 @@
+{
+  "id": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Student 4 confidently asserts, \"Actually, line 7 can be a simple if statement because adding 0 to sum does nothing.\" Which of the following code snippets is equivalent to line 7 according to Student 4's understanding?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1787b357-b704-4b9e-9e86-813e59b10877",
+        "index": 0,
+        "body": "$ $",
+        "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+        "stats": {
+          "count": 442
+        },
+        "resources": [
+          {
+            "id": "db446daa-7673-445b-998b-7776b0812cb1",
+            "type": "CODE",
+            "data": {
+              "content": "if n % i == 0:\n   sum += i \n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "1787b357-b704-4b9e-9e86-813e59b10877",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "fce3e24a-d7c4-43ee-9c46-b619072152ad",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+        "stats": {
+          "count": 14
+        },
+        "resources": [
+          {
+            "id": "3d5219cf-8448-4fe0-96bd-0857bf7d0d99",
+            "type": "CODE",
+            "data": {
+              "content": "if n % i == 0:\n   sum = i \n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "fce3e24a-d7c4-43ee-9c46-b619072152ad",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "6a219801-850e-46fd-b3c6-2ba720b41aa9",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+        "stats": {
+          "count": 3
+        },
+        "resources": [
+          {
+            "id": "9730eab5-5e2c-4156-81f5-bd6a6ae0a29e",
+            "type": "CODE",
+            "data": {
+              "content": "if n % i = 0:\n   sum = i \n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "6a219801-850e-46fd-b3c6-2ba720b41aa9",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "cf7024e0-3595-4165-bc95-e5205d1296bc",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+        "stats": {
+          "count": 16
+        },
+        "resources": [
+          {
+            "id": "e296db80-acfa-49f4-83c8-39a1ea722d8f",
+            "type": "CODE",
+            "data": {
+              "content": "if n % i = 0:\n   sum += i \n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "cf7024e0-3595-4165-bc95-e5205d1296bc",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "27868997",
+    "timeSpentVideo": "0",
+    "submissions": 478,
+    "submissionsCorrect": 442,
+    "accuracy": 0.9246861924686193,
+    "difficulty": 0.3987889273356401
+  },
+  "resources": [
+    {
+      "id": "eb032313-8df3-4649-b819-7196acb99b85",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nn = int(input(\"Type a positive integer number: \"))\nsum = 0\ni = 1\n\nwhile i < n:\n\tsum += i if n % i == 0 else 0\n\ti += 1\n\nprint(sum)\n\n# For example, for the numbers (one at a time) 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, the respective output is 0, 0, 1, 1, 3, 1, 6, 1, 7, 4, 8.",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "67477dd0-426e-4fb7-9a95-740e8277b693",
+    "body": "",
+    "questionId": "6271aa7f-5ffa-47ad-a443-b202ef7bab1a",
+    "resources": [
+      {
+        "id": "5ae9eecc-9792-49cc-8f25-a8478b0d7d7d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=8qNF8KL8dOJZFU9g&t=3154"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "67477dd0-426e-4fb7-9a95-740e8277b693",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5dd2c18e-1e6a-4a97-913e-99553b0e5795",
+      "name": "If Else",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "666246128",
+        "timeSpentVideo": "4774481",
+        "submissions": 3051,
+        "submissionsCorrect": 2261,
+        "questions": 4,
+        "accuracy": 0.7410685021304491,
+        "difficulty": 0.5165820374484291
+      }
+    }
+  ],
+  "children": []
+}

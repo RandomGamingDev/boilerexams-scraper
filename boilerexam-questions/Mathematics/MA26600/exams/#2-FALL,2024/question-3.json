@@ -1,0 +1,157 @@
+{
+  "id": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a general solution of the system\n\\[\nx' = \\begin{bmatrix} 4 & -1 \\\\ 1 & 2 \\end{bmatrix} x.\n\\]\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a4417e5d-dea9-4321-a0f7-8f2424dabefe",
+        "index": 0,
+        "body": "$x(t) = c_1 \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} e^{3t} + c_2 \\begin{bmatrix} t+1 \\\\ 1 \\end{bmatrix} e^{3t}$",
+        "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "f579eb64-f165-469f-a45f-25f2a378a148",
+        "index": 1,
+        "body": "$x(t) = c_1 \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} e^{3t} + c_2 \\begin{bmatrix} t+1 \\\\ t \\end{bmatrix} e^{3t}$",
+        "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "e72857b6-9071-49a0-adb7-b8aa53661150",
+        "index": 2,
+        "body": "$x(t) = c_1 \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} e^{3t} + c_2 \\begin{bmatrix} t-1 \\\\ t+1 \\end{bmatrix} e^{3t}$",
+        "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "899ac439-ed4a-40dc-b624-43205fdc4b6e",
+        "index": 3,
+        "body": "$x(t) = c_1 \\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix} e^{3t} + c_2 \\begin{bmatrix} -t+1 \\\\ t+1 \\end{bmatrix} e^{3t}$",
+        "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "39da1c8c-5be2-46be-a906-b70927c5fb82",
+        "index": 4,
+        "body": "$x(t) = c_1 \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} e^{3t} + c_2 \\begin{bmatrix} t \\\\ t+1 \\end{bmatrix} e^{3t}$",
+        "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3101352",
+    "timeSpentVideo": "645876",
+    "submissions": 14,
+    "submissionsCorrect": 5,
+    "accuracy": 0.35714285714285715,
+    "difficulty": 0.7675438596491229
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "5463c85e-824a-4a74-be4a-b67bc311af30",
+    "body": null,
+    "questionId": "12e383e3-ea8a-4a86-8f81-ac0ce8242320",
+    "resources": [
+      {
+        "id": "aabd9126-a3f9-42fa-abb7-0f3c502bb618",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=0CS9zcd2nkzb_K-K&t=525"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5463c85e-824a-4a74-be4a-b67bc311af30",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "849c3907-078a-4cb1-b10d-8ee982ea1674",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=0CS9zcd2nkzb_K-K&t=525"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5463c85e-824a-4a74-be4a-b67bc311af30",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

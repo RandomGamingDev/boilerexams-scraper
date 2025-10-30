@@ -1,0 +1,127 @@
+{
+  "id": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of\n\n\n\\[\nf(t)= \\begin{cases}0, & t<1 \\\\ t^{2} e^{2 t}, & t \\geq 1\\end{cases}\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "691c9273-33f8-445d-b6f9-c34b3020bd8c",
+        "index": 0,
+        "body": "$e^{-s-2}\\left(\\frac{2}{(s-2)^{3}}-\\frac{2}{(s-2)^{2}}+\\frac{1}{s-2}\\right)$",
+        "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "2d1b2493-6869-49fc-8b17-268e87bc5c4d",
+        "index": 1,
+        "body": "$e^{-s+2}\\left(\\frac{2}{(s-2)^{3}}+\\frac{2}{(s-2)^{2}}+\\frac{1}{s-2}\\right)$",
+        "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "8f4003b4-3806-4e04-b72d-8ebc24bd280c",
+        "index": 2,
+        "body": "$e^{-s+2}\\left(\\frac{2}{(s-1)^{3}}+\\frac{4}{(s-1)^{2}}+\\frac{4}{s-1}\\right)$",
+        "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "215b5f13-960d-46e2-aae4-2da93d295d8c",
+        "index": 3,
+        "body": "$\\frac{2 e^{-s}}{(s-2)^{3}}$",
+        "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "659a2da4-24c9-4ead-8551-88c12046f090",
+        "index": 4,
+        "body": "$e^{-2s+1}\\left(\\frac{2}{(s-1)^{3}}+\\frac{2}{(s-1)^{2}}+\\frac{1}{s-1}\\right)$",
+        "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "56933682",
+    "timeSpentVideo": "5567346",
+    "submissions": 236,
+    "submissionsCorrect": 136,
+    "accuracy": 0.576271186440678,
+    "difficulty": 0.6964285714285714
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "9da6f095-aaaf-4a52-944b-a026b3b99c6a",
+    "body": "",
+    "questionId": "533dd76b-5ecd-4da7-9e84-07f5b9a0acae",
+    "resources": [
+      {
+        "id": "63e8ec6a-5af6-4b2b-a335-0f75f8c9b7f1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?t=3544"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9da6f095-aaaf-4a52-944b-a026b3b99c6a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

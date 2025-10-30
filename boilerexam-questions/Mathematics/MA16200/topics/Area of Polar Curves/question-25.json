@@ -1,0 +1,160 @@
+{
+  "id": "54dcd22c-f750-4f00-8746-54e716aee285",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The area of the shaded region is\n\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "32fd96a3-b964-416d-9c0d-4e0c8a423335",
+        "index": 0,
+        "body": "$\\frac{1}{2} \\int_{\\pi / 2}^{\\pi}\\left[1-(1+\\cos \\theta)^{2}\\right] d \\theta$",
+        "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+        "stats": {
+          "count": 829
+        },
+        "resources": []
+      },
+      {
+        "id": "68f5c932-8219-4723-87b9-2b61101f8034",
+        "index": 1,
+        "body": "$\\int_{\\pi / 2}^{\\pi}(1+\\cos \\theta)^{2} d \\theta$",
+        "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      },
+      {
+        "id": "f02e220b-aae7-4cbb-bf0e-48de61652749",
+        "index": 2,
+        "body": "$\\frac{\\pi}{4}-\\frac{1}{2} \\int_{\\pi / 2}^{\\pi}(1+\\cos \\theta)^{2} d \\theta$",
+        "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "d0b40c3f-88b0-46ee-bf22-5b61079f3533",
+        "index": 3,
+        "body": "$\\frac{\\pi}{2}-\\int_{\\pi / 2}^{\\pi}(1+\\cos \\theta)^{2} d \\theta$",
+        "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+        "stats": {
+          "count": 1583
+        },
+        "resources": []
+      },
+      {
+        "id": "6aec48c8-773a-4fdb-9d14-899154ddb00e",
+        "index": 4,
+        "body": "$\\frac{\\pi}{2}-\\int_{0}^{\\pi}(1+\\cos \\theta)^{2} d \\theta$",
+        "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "535566538",
+    "timeSpentVideo": "139606711",
+    "submissions": 3341,
+    "submissionsCorrect": 1583,
+    "accuracy": 0.47381023645615084,
+    "difficulty": 0.7754286544609126
+  },
+  "resources": [
+    {
+      "id": "95de8a95-abcb-4903-ae65-8add0216eaa6",
+      "type": "IMAGE",
+      "data": {
+        "key": "zpHY9vWOVTGAorF5wbeMK",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/zpHY9vWOVTGAorF5wbeMK",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838494299",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83621,
+      "submissionsCorrect": 49985,
+      "questions": 25,
+      "accuracy": 0.5977565444087012,
+      "difficulty": 0.652360220255372
+    }
+  },
+  "explanation": {
+    "id": "5e990665-339b-47e8-83c4-da7dc11559ba",
+    "body": "",
+    "questionId": "54dcd22c-f750-4f00-8746-54e716aee285",
+    "resources": [
+      {
+        "id": "2895b57c-c6d8-4e35-88f1-fa73daeafdcc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/dqI7VYbGoVc?t=2433"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e990665-339b-47e8-83c4-da7dc11559ba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "681ff12b-6d73-448b-bea0-2b82805337a9",
+      "name": "Area of Polar Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4146470115",
+        "timeSpentVideo": "354656077",
+        "submissions": 9942,
+        "submissionsCorrect": 5167,
+        "questions": 4,
+        "accuracy": 0.5197143431905049,
+        "difficulty": 0.7304819757020514
+      }
+    }
+  ],
+  "children": []
+}

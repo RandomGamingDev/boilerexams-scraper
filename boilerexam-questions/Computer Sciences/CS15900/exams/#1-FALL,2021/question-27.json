@@ -1,0 +1,133 @@
+{
+  "id": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding control of a program and function calls is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "22db924e-828a-4221-a107-b4429fb45def",
+        "index": 0,
+        "body": "The sequence in which the statements are executed in a program can be altered through the use of functions and function calls.",
+        "questionId": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "6a967a16-7571-4e23-b49c-1fe8f6c189da",
+        "index": 1,
+        "body": "The declaration of user-defined functions in the global declaration section of the program will permit any function to call any other function in the program.",
+        "questionId": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+        "stats": {
+          "count": 744
+        },
+        "resources": []
+      },
+      {
+        "id": "05951b4d-debd-403f-bfa0-9e539e9ee240",
+        "index": 2,
+        "body": "The control of the program always returns from the called function to the <font style=\\\"font-family:'Courier New'\\\">main</font> function.",
+        "questionId": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+        "stats": {
+          "count": 5772
+        },
+        "resources": []
+      },
+      {
+        "id": "45be458f-d832-4322-9277-ed292656d626",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+        "stats": {
+          "count": 860
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "775512885",
+    "timeSpentVideo": "15004517",
+    "submissions": 7886,
+    "submissionsCorrect": 5772,
+    "accuracy": 0.73193000253614,
+    "difficulty": 0.5209742048585024
+  },
+  "resources": [],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "8fa785d6-fc42-42d1-853d-a4c6288d3b45",
+    "body": "",
+    "questionId": "1bba354c-1929-40aa-a73f-1eb6d9f28eb1",
+    "resources": [
+      {
+        "id": "18ba09f4-ff37-4db0-b5f2-0c33ec00cad8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=EzvNhJb9j09podtI&t=2638"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8fa785d6-fc42-42d1-853d-a4c6288d3b45",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

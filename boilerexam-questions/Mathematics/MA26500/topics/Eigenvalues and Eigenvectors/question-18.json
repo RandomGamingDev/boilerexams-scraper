@@ -1,0 +1,158 @@
+{
+  "id": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the real solution to the initial value problem\n\n\n\\[\n\\left\\{\\begin{array}{l}\n\\mathbf{x}^{\\prime}(t)=A \\mathbf{x}(t) \\\\\n\\mathbf{x}(0)=\\mathbf{x}_{0}\n\\end{array}\\right.\n\\]\n\nwhere $\\mathbf{x}(t)=\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t)\\end{array}\\right], A=\\left[\\begin{array}{cc}0 & 2 \\\\ -8 & 0\\end{array}\\right]$, and $\\mathbf{x}_{0}=\\left[\\begin{array}{l}1 \\\\ 2\\end{array}\\right]$. Then $x_{1}\\left(\\frac{\\pi}{4}\\right)$ is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4e05776d-bef3-4547-87ca-28da6a5e9f9c",
+        "index": 0,
+        "body": "$2$",
+        "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "83d593e4-c8d0-49a7-b54f-968bf3e21860",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "8e1b686d-f314-4240-bd37-c15a656ca9c8",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "37845ba5-f734-471f-9d0d-de9365f40d47",
+        "index": 3,
+        "body": "$-1$",
+        "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+        "stats": {
+          "count": 660
+        },
+        "resources": []
+      },
+      {
+        "id": "2b746abd-52b1-4de7-9770-e7025667bd99",
+        "index": 4,
+        "body": "$-2$ ",
+        "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "656854850",
+    "timeSpentVideo": "152541271",
+    "submissions": 2091,
+    "submissionsCorrect": 660,
+    "accuracy": 0.31563845050215206,
+    "difficulty": 0.9259470561387495
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "d03eeb5e-1bf3-424b-bd21-c62dd1f35957",
+    "body": "",
+    "questionId": "2bbe29bb-bb70-4074-a220-5df1d14ce71b",
+    "resources": [
+      {
+        "id": "ceb9a930-9c72-423a-b2c9-b7122012486f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=5066\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d03eeb5e-1bf3-424b-bd21-c62dd1f35957",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "99a7ff97-9f32-46ad-9af5-54bbdf4250dd",
+      "name": "Differential Equations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16253734334",
+        "timeSpentVideo": "1861609104",
+        "submissions": 38354,
+        "submissionsCorrect": 23397,
+        "questions": 20,
+        "accuracy": 0.6100276372738176,
+        "difficulty": 0.6402584906641702
+      }
+    }
+  ],
+  "children": []
+}

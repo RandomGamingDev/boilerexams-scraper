@@ -1,0 +1,173 @@
+{
+  "id": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Performing the Gram-Schmidt process on the vectors $\\left\\{\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{c}2 \\\\ 1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}3 \\\\ 2 \\\\ 2\\end{array}\\right]\\right\\}$ yields an orthonormal basis $\\left\\{\\mathbf{u}_{1}, \\mathbf{u}_{2}, \\mathbf{u}_{3}\\right\\}$ of $\\mathbb{R}^{3}$. What is $\\mathbf{u}_{3}$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "87c78556-1d84-4805-a757-598934ff9703",
+        "index": 0,
+        "body": "$\\frac{1}{\\sqrt{2}}\\left[\\begin{array}{c}1 \\\\ 0 \\\\ -1\\end{array}\\right]$",
+        "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "16acec68-b64f-4d5a-99bf-1c09eafe5ddb",
+        "index": 1,
+        "body": "$\\frac{1}{\\sqrt{26}}\\left[\\begin{array}{c}-1 \\\\ -4 \\\\ 3\\end{array}\\right]$",
+        "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "878fb4c6-1c3e-4eec-815c-be3d57d8ed08",
+        "index": 2,
+        "body": "$\\frac{1}{\\sqrt{3}}\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+        "stats": {
+          "count": 859
+        },
+        "resources": []
+      },
+      {
+        "id": "f43d921e-9c4e-47f4-9006-9983b2ee4eac",
+        "index": 3,
+        "body": "$\\frac{1}{\\sqrt{14}}\\left[\\begin{array}{c}3 \\\\ -2 \\\\ 1\\end{array}\\right]$",
+        "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      },
+      {
+        "id": "78db5398-e80c-49a4-8935-5201dfa6b0f6",
+        "index": 4,
+        "body": "$\\frac{1}{\\sqrt{17}}\\left[\\begin{array}{l}3 \\\\ 2 \\\\ 2\\end{array}\\right]$",
+        "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "725969332",
+    "timeSpentVideo": "140796210",
+    "submissions": 2133,
+    "submissionsCorrect": 859,
+    "accuracy": 0.4027191748710736,
+    "difficulty": 0.842924317062248
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "4f23c143-efbf-4f6c-a156-7cf2bb07eb6a",
+    "body": "",
+    "questionId": "9222c78b-32e2-4f74-8522-0f31cd004a7f",
+    "resources": [
+      {
+        "id": "e5563738-53a8-4a75-b078-ddc84d97bd33",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3616\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f23c143-efbf-4f6c-a156-7cf2bb07eb6a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "bccec053-b32d-4e1a-b3b5-3a71a7dacc4d",
+      "name": "Gram-Schmidt Process",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7187618615",
+        "timeSpentVideo": "632639584",
+        "submissions": 15198,
+        "submissionsCorrect": 8467,
+        "questions": 8,
+        "accuracy": 0.5571127779971049,
+        "difficulty": 0.6932605569355471
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    }
+  ],
+  "children": []
+}

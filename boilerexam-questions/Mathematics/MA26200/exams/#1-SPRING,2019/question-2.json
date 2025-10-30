@@ -1,0 +1,143 @@
+{
+  "id": "884b6631-b08c-4584-b2a1-5af881a67c14",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For $x>0$, the solution to the equation\n\n\n\\[\n\\left(\\frac{2 y}{x}+2 x\\right)+(2 \\ln (x)-3) y^{\\prime}=0\n\\]\n\nis given implicitly by",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5ab555ff-1f9f-4027-850b-21c16a91c693",
+        "index": 0,
+        "body": "$y(2 \\ln (x)-3)+x^{2}=c$",
+        "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+        "stats": {
+          "count": 645
+        },
+        "resources": []
+      },
+      {
+        "id": "5d58613e-86f6-46a4-bb64-88857d87f9ef",
+        "index": 1,
+        "body": "$y(2 \\ln (x)+3)-3 x^{2}=c$",
+        "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "cae5af83-ea2d-4943-8a79-5646f555620d",
+        "index": 2,
+        "body": "$\\ln (x)-x^{3}-3 y+c=0$",
+        "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "988a5c69-06a1-4d44-926a-766c01abde5d",
+        "index": 3,
+        "body": "$y\\left(\\frac{2}{x}+\\frac{3}{2}\\right)+x^{2}+c=0$",
+        "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "12cd0eda-0e5a-4b9d-8e2c-0ff4146009b8",
+        "index": 4,
+        "body": "$\\frac{1}{x}+x^{2}-y^{2}+c=0$",
+        "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "239513240",
+    "timeSpentVideo": "25377289",
+    "submissions": 960,
+    "submissionsCorrect": 645,
+    "accuracy": 0.671875,
+    "difficulty": 0.5943396226415094
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "d86ca3cb-dffc-419a-9522-fa628352a0ec",
+    "body": "",
+    "questionId": "884b6631-b08c-4584-b2a1-5af881a67c14",
+    "resources": [
+      {
+        "id": "ed063dd3-a5b3-4ec4-bb55-8e1d25641534",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=207\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d86ca3cb-dffc-419a-9522-fa628352a0ec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

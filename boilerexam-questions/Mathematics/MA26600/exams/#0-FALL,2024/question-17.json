@@ -1,0 +1,128 @@
+{
+  "id": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "After applying the Laplace Transform to the differential equation:\n\\[\nx'' + 4x' + 3x = 2e^{-3t},\\quad x(0)=a,\\ x'(0)=b,\n\\]\none obtains that $X(s)=\\mathcal{L}\\{{x(t)}\\}$ is given by the algebraic formula:\n\\[\nX(s) = \\frac{2}{(s+1)(s+3)^2} + \\frac{3s+8}{(s+1)(s+3)}.\n\\]\nFind the values of $a$ and $b$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "58064d7e-6298-4ab4-a48a-51f5a671df31",
+        "index": 0,
+        "body": "$a=0, \\; b=3$",
+        "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "62e0f782-aa40-4be0-a24e-384b8d98e13b",
+        "index": 1,
+        "body": "$a=1, \\; b=-1$",
+        "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "0ae7a617-1a12-4ce3-9105-c858ce09bdc6",
+        "index": 2,
+        "body": "$a=3, \\; b=-8$",
+        "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "d33661ab-139a-41e3-ad99-042fb4ede87f",
+        "index": 3,
+        "body": "$a=1, \\;b=-9$",
+        "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "89479b2f-b589-4e54-9bfc-8f6b0c2927da",
+        "index": 4,
+        "body": "$a=3, \\; b=-4$",
+        "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "886038",
+    "timeSpentVideo": "0",
+    "submissions": 3,
+    "submissionsCorrect": 3,
+    "accuracy": 1,
+    "difficulty": 0.7354368932038835
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "6b939654-cf23-4d9b-aeaf-0f052f02e9db",
+    "body": null,
+    "questionId": "3a0b4fe4-a534-4ccd-ad6b-efc207022c4d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "cc0a67d9-6c8c-4c30-85b9-e97901f376ea",
+      "name": "Inverse Laplace",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2255453095",
+        "timeSpentVideo": "157741451",
+        "submissions": 3548,
+        "submissionsCorrect": 2145,
+        "questions": 6,
+        "accuracy": 0.60456595264938,
+        "difficulty": 0.6483004385964912
+      }
+    }
+  ],
+  "children": []
+}

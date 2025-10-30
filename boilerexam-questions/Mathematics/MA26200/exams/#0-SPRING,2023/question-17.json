@@ -1,0 +1,128 @@
+{
+  "id": "00e97d42-7c62-411b-899a-5787b49e3770",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that the matrix $A=\\left[\\begin{array}{ll}1 & 2 \\\\ 2 & 1\\end{array}\\right]$ has eigenvalues $\\lambda_{1}=-1$ and $\\lambda_{2}=3$, the general solution to $\\mathrm{x}^{\\prime}=A \\mathrm{x}$ is",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f895edb9-3887-4a60-a3aa-8b3a887f8e11",
+        "index": 0,
+        "body": "$\\mathbf{x}(t)=C_{1} e^{-t}\\left[\\begin{array}{r}-1 \\\\ 1\\end{array}\\right]+C_{2} e^{3 t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+        "stats": {
+          "count": 263
+        },
+        "resources": []
+      },
+      {
+        "id": "69173d3e-5bfb-490c-aa91-0d042cb179b2",
+        "index": 1,
+        "body": "$\\mathbf{x}(t)=C_{1} e^{-t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+C_{2} e^{3 t}\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "e4c9071d-6d34-4245-b1dd-531e09898f81",
+        "index": 2,
+        "body": "$\\mathbf{x}(t)=C_{1} e^{t}\\left[\\begin{array}{r}-1 \\\\ 1\\end{array}\\right]+C_{2} e^{-3 t}\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "7dc0ebd3-d51a-45ed-bccb-478687c5ea36",
+        "index": 3,
+        "body": "$\\mathbf{x}(t)=C_{1} e^{-t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+C_{2} e^{3 t}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "2445e852-7d75-4cce-8b38-64a5a7225bc2",
+        "index": 4,
+        "body": "$\\mathbf{x}(t)=C_{1}\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]+C_{2} e^{3 t}\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "52212403",
+    "timeSpentVideo": "0",
+    "submissions": 305,
+    "submissionsCorrect": 261,
+    "accuracy": 0.8557377049180328,
+    "difficulty": 0.48209876543209873
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "74a67158-e42d-4d91-b274-ee925167dee6",
+    "body": "",
+    "questionId": "00e97d42-7c62-411b-899a-5787b49e3770",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9ac2c30c-1366-47fa-9e41-85ba124887ec",
+      "name": "System of Diff. Equations",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "932820903",
+        "timeSpentVideo": "0",
+        "submissions": 1661,
+        "submissionsCorrect": 1306,
+        "questions": 6,
+        "accuracy": 0.786273329319687,
+        "difficulty": 0.4799829642248722
+      }
+    }
+  ],
+  "children": []
+}

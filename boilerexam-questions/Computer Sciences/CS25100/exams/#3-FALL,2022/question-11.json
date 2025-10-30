@@ -1,0 +1,115 @@
+{
+  "id": "217caa86-bfe4-4279-8dbd-b3ae13fe6586",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following graph $G(V,E)$\n\nLet $K$ be the graph after $G(V,E)$ by adding the directed edge $(2,1)$ with weight -11. Does Bellman-Ford($K$,0) return a tree of shortest paths? Explain.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "703bf3da-c613-4193-ba62-169ce19b635b",
+        "index": 0,
+        "body": "Yes, it returns the same tree of shortest paths. (Make sure you can explain)",
+        "questionId": "217caa86-bfe4-4279-8dbd-b3ae13fe6586",
+        "stats": {
+          "count": 249
+        },
+        "resources": []
+      },
+      {
+        "id": "7b7e3f4b-5374-4864-89e6-e76bdc7f7876",
+        "index": 1,
+        "body": "No, it will not return the same tree of shortest paths. (Make sure you can explain)",
+        "questionId": "217caa86-bfe4-4279-8dbd-b3ae13fe6586",
+        "stats": {
+          "count": 758
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "151462880",
+    "timeSpentVideo": "0",
+    "submissions": 1027,
+    "submissionsCorrect": 758,
+    "accuracy": 0.7380720545277507,
+    "difficulty": 0.5330523513753327
+  },
+  "resources": [
+    {
+      "id": "20865b4e-1fed-412f-9c0a-4a8c16a01786",
+      "type": "IMAGE",
+      "data": {
+        "key": "vUudmDFxJmjrW0XURsVb7",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/vUudmDFxJmjrW0XURsVb7",
+        "altText": " "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "217caa86-bfe4-4279-8dbd-b3ae13fe6586",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "04c119d0-e282-48c2-9e7b-d0d6d589ef0a",
+    "body": "",
+    "questionId": "217caa86-bfe4-4279-8dbd-b3ae13fe6586",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

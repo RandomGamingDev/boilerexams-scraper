@@ -1,0 +1,158 @@
+{
+  "id": "e1e64b01-9501-40ca-a92c-e0231752695c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\\[\nA=\\left[\\begin{array}{ccccc}\n1 & 0 & 2 & 0 & -1 \\\\\n1 & 2 & 4 & -2 & -1 \\\\\n2 & 3 & 7 & -3 & -2\n\\end{array}\\right]\n\\]\n\nLet $a$ be the rank of $A$ and $b$ be the nullity of $A$, find $5 b-3 a$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "fcd6289d-1d06-4edd-8c62-f01966bbc0ac",
+        "index": 0,
+        "body": "$25$",
+        "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "878a902e-9482-4297-be6b-a69f4492791c",
+        "index": 1,
+        "body": "$17$",
+        "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "532bc0e1-8a19-4358-8c49-66e4c9dc2192",
+        "index": 2,
+        "body": "9",
+        "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+        "stats": {
+          "count": 2403
+        },
+        "resources": []
+      },
+      {
+        "id": "3d7a6e02-d557-4a94-96d0-ef9f6a97704d",
+        "index": 3,
+        "body": "$1$",
+        "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+        "stats": {
+          "count": 701
+        },
+        "resources": []
+      },
+      {
+        "id": "64f76094-9d2f-4727-99d9-c74293d0327f",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "606095910",
+    "timeSpentVideo": "254775895",
+    "submissions": 3931,
+    "submissionsCorrect": 2403,
+    "accuracy": 0.6112948359196133,
+    "difficulty": 0.6414661374348797
+  },
+  "resources": [],
+  "exam": {
+    "id": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3858235430",
+      "timeSpentVideo": "1767207244",
+      "submissions": 26747,
+      "submissionsCorrect": 15288,
+      "questions": 10,
+      "accuracy": 0.5715781209107563,
+      "difficulty": 0.6786884940589265
+    }
+  },
+  "explanation": {
+    "id": "2d46e310-b4a0-4752-9c4b-fa90b37399d1",
+    "body": "",
+    "questionId": "e1e64b01-9501-40ca-a92c-e0231752695c",
+    "resources": [
+      {
+        "id": "25c4ef64-9c27-42c9-903a-2de73dbb1041",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eSWeX98Q0fE"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2d46e310-b4a0-4752-9c4b-fa90b37399d1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "68f7e308-95fe-41c8-9410-cc4b40d9b519",
+      "name": "Nullity",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8372451403",
+        "timeSpentVideo": "1247678872",
+        "submissions": 19960,
+        "submissionsCorrect": 11815,
+        "questions": 5,
+        "accuracy": 0.591933867735471,
+        "difficulty": 0.6585244267198405
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    }
+  ],
+  "children": []
+}

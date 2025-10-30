@@ -1,0 +1,143 @@
+{
+  "id": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform F(s) of $f(t)=2t\\sin{(3t)}$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "aa289e67-c771-43d7-b4f0-98fd3349279f",
+        "index": 0,
+        "body": "$F(s)=\\frac{12s}{(s^2+9)^2}$",
+        "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+        "stats": {
+          "count": 425
+        },
+        "resources": []
+      },
+      {
+        "id": "929b9f26-6c4b-4bb7-9026-05130d8c46e6",
+        "index": 1,
+        "body": "$F(s)=\\frac{-12s}{(s^2+9)^2}$",
+        "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "e0fda903-9726-4b24-9930-4b5c156ab9bd",
+        "index": 2,
+        "body": "$F(s)=\\frac{6}{s^2(s^2+9)}$",
+        "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "ac2e702b-1aa9-4b16-8cab-ab87251dc4f7",
+        "index": 3,
+        "body": "$F(s)=\\frac{12}{(s+1)^2+9}$",
+        "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "8499f192-79eb-44a7-b2d2-8db5790efecc",
+        "index": 4,
+        "body": "$F(s)=\\frac{12}{(s^2+9)^2}$",
+        "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "168513737",
+    "timeSpentVideo": "55368844",
+    "submissions": 860,
+    "submissionsCorrect": 425,
+    "accuracy": 0.4941860465116279,
+    "difficulty": 0.7552083333333333
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "121ffe71-faca-4d49-9a90-b7adbd9c4034",
+    "body": null,
+    "questionId": "af44bdfa-a08e-4302-ade8-5e0655d0f441",
+    "resources": [
+      {
+        "id": "58a913b0-e626-437f-b0dc-c58ac1ac6355",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=8820s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "121ffe71-faca-4d49-9a90-b7adbd9c4034",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

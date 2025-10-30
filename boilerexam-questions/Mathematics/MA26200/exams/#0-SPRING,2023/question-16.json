@@ -1,0 +1,128 @@
+{
+  "id": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The differential equation $y^{\\prime \\prime}+(\\tan x) y^{\\prime}=0$ has two linearly independent solutions $y_{1}(x)=\\sin x$ and $y_{2}(x)=1$. If we use the method of Variation of Parameters to find a particular solution $y_{p}(x)=u_{1}(x) y_{1}(x)+u_{2}(x) y_{2}(x)$ for the corresponding nonhomogeneous equation\n\n\n\n\\[\ny^{\\prime \\prime}+(\\tan x) y^{\\prime}=\\cos ^{2} x\n\\]\n\nthen which of the following is a possible function $u_{1}(x)$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a7638576-0471-4dab-a9b8-fca9b3d431ff",
+        "index": 0,
+        "body": "$u_{1}(x)=\\sin x$",
+        "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "0c11dcb2-d034-4a02-99d0-b29611516570",
+        "index": 1,
+        "body": "$u_{1}(x)=-\\frac{1}{2} \\sin ^{2} x$",
+        "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "03f867f0-4055-4f2f-8cf1-021edea8181d",
+        "index": 2,
+        "body": "$u_{1}(x)=\\cos ^{2} x$",
+        "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "64406cfa-6745-48f8-a9ae-48a495a61f1e",
+        "index": 3,
+        "body": "$u_{1}(x)=\\frac{1}{2} \\cos ^{2} x$",
+        "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "ce1a5d27-1149-4ff2-9245-b690264ca397",
+        "index": 4,
+        "body": "$u_{1}(x)=\\cos x$",
+        "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "84666620",
+    "timeSpentVideo": "0",
+    "submissions": 326,
+    "submissionsCorrect": 251,
+    "accuracy": 0.7699386503067485,
+    "difficulty": 0.5434272300469484
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "b9171171-bd8e-4643-a935-d844b49f61af",
+    "body": "",
+    "questionId": "51313d81-7fd8-4fe7-94fa-64e872be4e38",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

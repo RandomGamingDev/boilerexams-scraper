@@ -1,0 +1,213 @@
+{
+  "id": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "S4 learned about Perfect Numbers. A number is perfect if the sum of its divisors, excluding itself, is equal to said number. For instance, 6 is a perfect number because its divisors (excluding 6) are 1, 2, and 3, and 1 + 2 + 3 = 6. The first five perfect numbers are 6, 28, 496, 8128, and 33550336. Which of the following loops will print these five perfect numbers?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0b8c590f-f9de-471b-af16-9690ce006bab",
+        "index": 0,
+        "body": "",
+        "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+        "stats": {
+          "count": 107
+        },
+        "resources": [
+          {
+            "id": "50573e0a-03c6-4f16-80cc-250ea5abf1cc",
+            "type": "CODE",
+            "data": {
+              "content": "for i in range(1, 33550337):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "0b8c590f-f9de-471b-af16-9690ce006bab",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "d853db6f-51de-478a-93a2-b4017afa035b",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+        "stats": {
+          "count": 101
+        },
+        "resources": [
+          {
+            "id": "0449c80c-e4ac-4cba-97d7-dceb7a0bf9dd",
+            "type": "CODE",
+            "data": {
+              "content": "for i in range(1, 33550336):\n   if sumDivisorsExcludingItself(i) == i:\n      print(i)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "d853db6f-51de-478a-93a2-b4017afa035b",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "248b1fdf-d9e4-4a4b-95c2-2618bf0fe4a6",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+        "stats": {
+          "count": 23
+        },
+        "resources": [
+          {
+            "id": "d12c3560-9f7c-49ef-822d-0126e8b8e719",
+            "type": "CODE",
+            "data": {
+              "content": "for i in range(1, 33550336):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "248b1fdf-d9e4-4a4b-95c2-2618bf0fe4a6",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "1b02d079-6b58-42dd-8545-88ba56b0c8d8",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+        "stats": {
+          "count": 639
+        },
+        "resources": [
+          {
+            "id": "19b1f77f-2d48-4fbc-8639-74314d75783e",
+            "type": "CODE",
+            "data": {
+              "content": "for i in range(1, 33550337):\n   if sumDivisorsExcludingItself(i) == i:\n      print(i)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "1b02d079-6b58-42dd-8545-88ba56b0c8d8",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "116262400",
+    "timeSpentVideo": "943933",
+    "submissions": 881,
+    "submissionsCorrect": 639,
+    "accuracy": 0.7253121452894438,
+    "difficulty": 0.5476554536187563
+  },
+  "resources": [
+    {
+      "id": "cc3e6f04-4a8d-470f-a83f-052d4bae5768",
+      "type": "CODE",
+      "data": {
+        "content": "def sumDivisorsExcludingItself(n):\n\n    sum = 0\n    i = 1\n\n    while i < n:\n    \n        sum += i if n % i == 0 else 0\n\n        i += 1\n\n    return sum\n   \nfor i in range(0, 11):\n   print(\"Sum of the divisors of\", i, \"is\", sumDivisorsExcludingItself(i))\n\n# Prints:\n# Sum of the divisors of 0 is 0\n# Sum of the divisors of 1 is 0\n# Sum of the divisors of 2 is 1\n# Sum of the divisors of 3 is 1\n# Sum of the divisors of 4 is 3\n# Sum of the divisors of 5 is 1\n# Sum of the divisors of 6 is 6\n# Sum of the divisors of 7 is 1\n# Sum of the divisors of 8 is 7\n# Sum of the divisors of 9 is 4\n# Sum of the divisors of 10 is 8\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1663379579",
+      "timeSpentVideo": "70548358",
+      "submissions": 16006,
+      "submissionsCorrect": 11041,
+      "questions": 15,
+      "accuracy": 0.6898038235661627,
+      "difficulty": 0.56137464299019
+    }
+  },
+  "explanation": {
+    "id": "9b82075a-9f1e-45a5-b758-811399c49c90",
+    "body": "",
+    "questionId": "2a1fa092-6deb-4b5f-a5ad-dc0a307ae662",
+    "resources": [
+      {
+        "id": "24ed0657-7481-4afb-ad97-5719c0b92347",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=ov551_ggz8_NtCJS&t=3971"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9b82075a-9f1e-45a5-b758-811399c49c90",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "475f182a-61e2-42f1-976b-b580db31aced",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int \\frac{3 x^{2}+2 x+3}{x^{4}+2 x^{2}+1} d x$",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "e0e9718c-ade3-4ba0-a319-7520c127536a",
+        "index": 0,
+        "body": "$\\tan ^{-1}\\left(\\frac{1}{x^{2}+1}\\right)+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "ddcbbfb5-4dc7-4642-b054-9be73ecc9dae",
+        "index": 1,
+        "body": "$\\frac{3 \\tan ^{-1} x}{x^{2}+1}+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "521c8162-33b1-4d9d-a9df-a2f52f05e193",
+        "index": 2,
+        "body": "$\\frac{\\tan ^{-1} x}{x^{2}+1}+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "917de5fd-7834-4ced-8502-905d6cdd43c5",
+        "index": 3,
+        "body": "$3 \\tan ^{-1}\\left(\\frac{1}{x^{2}+1}\\right)+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "dd4bb2f2-3002-4803-88f3-39ff02e69efc",
+        "index": 4,
+        "body": "$\\tan ^{-1} x-\\frac{3}{x^{2}+1}+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "a6bd6c33-8621-48eb-babe-7514fcf521a4",
+        "index": 5,
+        "body": "$3 \\tan ^{-1} x-\\frac{1}{x^{2}+1}+C$",
+        "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+        "stats": {
+          "count": 1000
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "533056470",
+    "timeSpentVideo": "70037367",
+    "submissions": 1947,
+    "submissionsCorrect": 1000,
+    "accuracy": 0.5136106831022085,
+    "difficulty": 0.7370542256961407
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444364132",
+      "timeSpentVideo": "2335838174",
+      "submissions": 74342,
+      "submissionsCorrect": 39141,
+      "questions": 25,
+      "accuracy": 0.5264991525651718,
+      "difficulty": 0.7235364444802665
+    }
+  },
+  "explanation": {
+    "id": "aef84b70-16a9-442e-9e55-ea2a4001b1df",
+    "body": "",
+    "questionId": "475f182a-61e2-42f1-976b-b580db31aced",
+    "resources": [
+      {
+        "id": "263ff01e-3de7-4e7a-b858-a35610e3fa4b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3cm65JbMGM8?t=1480\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aef84b70-16a9-442e-9e55-ea2a4001b1df",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182485144",
+        "timeSpentVideo": "951958617",
+        "submissions": 36369,
+        "submissionsCorrect": 22499,
+        "questions": 15,
+        "accuracy": 0.6186312518903462,
+        "difficulty": 0.6316940415147111
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the value(s) of $c$ that satisfy the equation $\\frac{f(b)-f(a)}{b-a}=f^{\\prime}(c)$ in the conclusion of the Mean Value Theorem for the function $f(x)=x^{2}+5 x+4$ on the interval $[2,3]$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "6853c4d5-4d43-4fc9-a975-82cc0133fb6c",
+        "index": 0,
+        "body": "$0, \\frac{5}{2}$",
+        "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "b4d23aec-c1f8-462d-b0fc-16f1795ab950",
+        "index": 1,
+        "body": "$-\\frac{5}{2}, \\frac{5}{2}$",
+        "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "a2655b9d-60c0-4852-b210-d86a67fdf7c0",
+        "index": 2,
+        "body": "$\\frac{5}{2}$",
+        "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+        "stats": {
+          "count": 640
+        },
+        "resources": []
+      },
+      {
+        "id": "f0d6aa3d-d12c-4f39-91fd-2c95e77eeac7",
+        "index": 3,
+        "body": "$2$",
+        "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "95aae326-f0e6-4779-85d0-bdc9e8258df9",
+        "index": 4,
+        "body": "$2,3$",
+        "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "6d1215ed-14c7-4689-857d-2799befb98e1",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "119828015",
+    "timeSpentVideo": "18512650",
+    "submissions": 826,
+    "submissionsCorrect": 640,
+    "accuracy": 0.774818401937046,
+    "difficulty": 0.5048596112311015
+  },
+  "resources": [],
+  "exam": {
+    "id": "6d1215ed-14c7-4689-857d-2799befb98e1",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1787802580",
+      "timeSpentVideo": "384188691",
+      "submissions": 11829,
+      "submissionsCorrect": 7580,
+      "questions": 12,
+      "accuracy": 0.6407980387184039,
+      "difficulty": 0.610382261715148
+    }
+  },
+  "explanation": {
+    "id": "b44ae126-af06-4735-8ec9-37fc071b2907",
+    "body": "",
+    "questionId": "b92e5e0f-34e7-461b-988e-4aa914ec7172",
+    "resources": [
+      {
+        "id": "699e4edd-ed8d-4f1f-9a52-3df8dbce0f3e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pylbivuLRNY?t=1198"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b44ae126-af06-4735-8ec9-37fc071b2907",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cd781bf0-83b9-4aef-b279-fd6dff9beb54",
+      "name": "Mean Value Theorem",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1496297678",
+        "timeSpentVideo": "141015084",
+        "submissions": 4784,
+        "submissionsCorrect": 2511,
+        "questions": 4,
+        "accuracy": 0.5248745819397993,
+        "difficulty": 0.7256347256347256
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,138 @@
+{
+  "id": "425ef734-29f3-4b4f-9f1e-5c3617849e47",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A company exclusively employs 22-inch cube-shaped boxes for its shipping requirements. To negotiate a favorable shipping rate, it is crucial for the company to ascertain the average weight of the filled boxes. There was a prevailing belief that the mean weight of these boxes was approximately 50 pounds. However, the executive responsible for negotiating the shipping rates held the opinion that the mean weight was greater than 50 pounds. To further investigate this matter, the executive selected a sample of 45 boxes. The sample yielded a mean weight of 50.0381 pounds and a sample standard deviation of 0.1083 pounds. The results of various statistical tests are provided in the R output on the last page.\n\nDoes the data offer any evidence supporting the claim made by the executive?\nUsing the above information and the information contained on the last page of the exam perform a four-step hypothesis test with a significance level \ud835\udf36 = \ud835\udfce. \ud835\udfce\ud835\udfd7.  \n\n(A) Specify which output from the last page of the exam was used to obtain to obtain your conclusions. \n\n(B) Calculate an appropriate confidence interval or bound that corresponds to the hypothesis test conducted in part (A). State if you are using a confidence interval or bound and be sure to mention the confidence level used for this interval or bound. Clearly specify which output from the last page of the exam was used to obtain to obtain your conclusions.\n\n(C) Interpret the result obtained in part (B) within the context of the problem.",
+    "solution": "(A) Output 6\n Let \ud835\udf41\ud835\udc01\ud835\udc28\ud835\udc31 denote the mean weight of boxes filled at this company for shipping. \ud835\udc6f\ud835\udfce:\ud835\udf41\ud835\udc01\ud835\udc28\ud835\udc31 \u2264 \ud835\udfd3\ud835\udfce  \ud835\udc6f\ud835\udc82:\ud835\udf41\ud835\udc01\ud835\udc28\ud835\udc31 > \ud835\udfd3\ud835\udfce \ud835\udc1d\ud835\udc1f = \ud835\udfd2\ud835\udfd3\u2212\ud835\udfcf=\ud835\udfd2\ud835\udfd2 \ud835\udc13\ud835\udc13\ud835\udc12 = \ud835\udfd0.\ud835\udfd1\ud835\udfd3\ud835\udfd7\ud835\udfd3 \ud835\udc91-value = \ud835\udfce.\ud835\udfce\ud835\udfcf\ud835\udfcf\ud835\udfd2 . Decision: \ud835\udc91-value = \ud835\udfce.\ud835\udfce\ud835\udfcf\ud835\udfcf\ud835\udfd2 < \ud835\udfce.\ud835\udfce\ud835\udfd7 reject the null hypothesis. Conclusion: The data does provide some evidence (\ud835\udc91-value = \ud835\udfce.\ud835\udfce\ud835\udfcf\ud835\udfcf\ud835\udfd2) to the claim that the population average weight of the filled boxes is greater than 50 pounds at this company. \n\n(B) Confidence lower bound is appropriate since the alternative hypothesis is \u201c>\u201d.  Appropriate confidence level is \ud835\udfcf\ud835\udfce\ud835\udfce\u00d7(\ud835\udfcf\u2212\ud835\udf36)%=\ud835\udfd7\ud835\udfcf%.   Critical Value: > qt(0.09, df, lower.tail = FALSE) [1] 1.362417    Lower Confidence Bound:  \ud835\udc99 \u0305\u2212\ud835\udc95\u2217 \ud835\udc94 \u221a\ud835\udc8f =\ud835\udfd3\ud835\udfce.\ud835\udfce\ud835\udfd1\ud835\udfd6\ud835\udfcf\u2212\ud835\udfcf.\ud835\udfd1\ud835\udfd4\ud835\udfd0\ud835\udfd2\ud835\udfcf\ud835\udfd5\u00d7\ud835\udfce.\ud835\udfcf\ud835\udfce\ud835\udfd6\ud835\udfd1 \u221a\ud835\udfd2\ud835\udfd3 =\ud835\udfd3\ud835\udfce.\ud835\udfce\ud835\udfcf\ud835\udfd4\ud835\udfcf \n\n(C) We are 91% confident that the true mean weight of boxes is more than the 91% confidence lower bound of 50.0161. ",
+    "answerChoices": []
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "30217529",
+    "timeSpentVideo": "7410548",
+    "submissions": 77,
+    "submissionsCorrect": 3,
+    "accuracy": 0.03896103896103896,
+    "difficulty": 0.9505649717514124
+  },
+  "resources": [
+    {
+      "id": "d3e52e4f-2c65-48d3-9828-b5838235f74d",
+      "type": "IMAGE",
+      "data": {
+        "key": "HOpZMG7JwTX4njLMltdGR",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/HOpZMG7JwTX4njLMltdGR",
+        "altText": "Part A outputs "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "425ef734-29f3-4b4f-9f1e-5c3617849e47",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "03ff4b33-4a45-4a5c-b237-a8a77ef093d9",
+      "type": "IMAGE",
+      "data": {
+        "key": "wuJEPqjf7suyXseGhWsjl",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/wuJEPqjf7suyXseGhWsjl",
+        "altText": "Part B output"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "425ef734-29f3-4b4f-9f1e-5c3617849e47",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "fb858eea-6b1e-4c5a-a6a5-607b0c57883e",
+    "body": "",
+    "questionId": "425ef734-29f3-4b4f-9f1e-5c3617849e47",
+    "resources": [
+      {
+        "id": "83700cc5-0d59-4952-9375-ebd5d4f9073b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=1095"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fb858eea-6b1e-4c5a-a6a5-607b0c57883e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6156c8d5-08cc-438f-b2cf-2399869445c0",
+      "name": "p-value",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "313349612",
+        "timeSpentVideo": "66966288",
+        "submissions": 655,
+        "submissionsCorrect": 221,
+        "questions": 5,
+        "accuracy": 0.3374045801526718,
+        "difficulty": 0.8910596026490066
+      }
+    },
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

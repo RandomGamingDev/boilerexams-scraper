@@ -1,0 +1,143 @@
+{
+  "id": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $g(t)=f(v)$ where $v=\\sin t$, then $g^{\\prime}(t)=$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "143ab980-fa8f-440c-9be2-f43f3f1ea9c3",
+        "index": 0,
+        "body": "$f(\\cos t)$",
+        "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      },
+      {
+        "id": "30495ae7-2590-4737-9f79-625eebb31eee",
+        "index": 1,
+        "body": "$f^{\\prime}(\\cos t)$",
+        "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "8368bd01-6219-40d2-a014-05c6b1496079",
+        "index": 2,
+        "body": "$f^{\\prime}(\\sin t)+\\cos t$",
+        "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "4d033741-cb5c-4be8-8d78-3e3e98e2b04f",
+        "index": 3,
+        "body": "$f^{\\prime}(\\sin t) \\cos t$",
+        "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+        "stats": {
+          "count": 711
+        },
+        "resources": []
+      },
+      {
+        "id": "423a7d8f-c96f-4504-b6f4-3f4e88728c76",
+        "index": 4,
+        "body": "$f(\\sin t) \\cos t$",
+        "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "113467051",
+    "timeSpentVideo": "10353536",
+    "submissions": 1221,
+    "submissionsCorrect": 711,
+    "accuracy": 0.5823095823095823,
+    "difficulty": 0.6739212717638153
+  },
+  "resources": [],
+  "exam": {
+    "id": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641708348",
+      "timeSpentVideo": "633377339",
+      "submissions": 26255,
+      "submissionsCorrect": 14833,
+      "questions": 25,
+      "accuracy": 0.5649590554180156,
+      "difficulty": 0.6852874217416051
+    }
+  },
+  "explanation": {
+    "id": "b3da1604-4ba6-42aa-acd1-cb39454f9186",
+    "body": "",
+    "questionId": "a66f2966-5e8c-4579-b2a1-0adb3c4bcd7a",
+    "resources": [
+      {
+        "id": "4c8011d3-ac73-4fde-bfc1-ad8199b1ddeb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pvOu-KB28uk?t=1635"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b3da1604-4ba6-42aa-acd1-cb39454f9186",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "81f2e145-42a0-4ff1-8a93-1ae542f4ec51",
+      "name": "Basic Derivatives",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1779786539",
+        "timeSpentVideo": "144945244",
+        "submissions": 5036,
+        "submissionsCorrect": 3064,
+        "questions": 3,
+        "accuracy": 0.6084193804606831,
+        "difficulty": 0.6436915887850467
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "How many total times is the loop control expression evaluated in the code segment?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "731ccc17-5b78-457f-8842-a33faeeb157f",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Three times.</font>",
+        "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "d1372124-8088-441b-a0da-b55a927f932e",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">Four times.</font>",
+        "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+        "stats": {
+          "count": 1155
+        },
+        "resources": []
+      },
+      {
+        "id": "0b02447f-1a49-4c9f-b8e5-bc24ad3e4505",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Five times.</font>",
+        "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+        "stats": {
+          "count": 2626
+        },
+        "resources": []
+      },
+      {
+        "id": "acaea9b3-05a4-4c33-8f67-4cedc9e6111c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "167502618",
+    "timeSpentVideo": "0",
+    "submissions": 4117,
+    "submissionsCorrect": 2626,
+    "accuracy": 0.6378430896283702,
+    "difficulty": 0.615425658050747
+  },
+  "resources": [
+    {
+      "id": "4cbc0325-5e00-4832-8e1b-6ce953525f5e",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void) \n{\n  int x = 890682;\n  int y = 0;\n\n  while(!(x % 2))\n  {\n    y += x % 10;\n    y %= 3;\n    x /= 10;\n  }\n\n  printf(\"y: %d\\n\", y);\n\n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "82ed2eff-c8fe-46aa-9e2f-904482f36b8b",
+    "body": "",
+    "questionId": "c3d77e8f-48f8-48bf-97ce-5e35d710da7d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "bde2bad7-be86-45cc-8d11-2074e6e29baa",
+      "name": "Operator Precedence",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16867110736",
+        "timeSpentVideo": "177944115",
+        "submissions": 78431,
+        "submissionsCorrect": 56766,
+        "questions": 27,
+        "accuracy": 0.723769937907205,
+        "difficulty": 0.5265150068125963
+      }
+    }
+  ],
+  "children": []
+}

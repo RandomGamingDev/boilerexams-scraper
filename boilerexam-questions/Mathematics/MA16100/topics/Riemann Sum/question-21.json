@@ -1,0 +1,143 @@
+{
+  "id": "8621578f-aa29-4ae6-a88b-efad248205c5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Estimate the area under the graph of $f(x)=\\sin (x)$ from $x=0$ to $x=\\frac{\\pi}{2}$ using three approximating rectangles and left endpoints. In other words, find the left Riemann sum, $L_{3}$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ee313bc7-fee0-43f2-9aad-bbe28e1dcdd2",
+        "index": 0,
+        "body": "$\\frac{\\pi(3+\\sqrt{3})}{12}$",
+        "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "506c14ef-000f-4cc7-9c02-796e148959b8",
+        "index": 1,
+        "body": "$\\frac{\\pi(3+\\sqrt{3})}{2}$",
+        "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "0a488f03-5eac-492f-bd4a-7102e84a8eb9",
+        "index": 2,
+        "body": "$\\frac{\\pi(1+\\sqrt{3})}{12}$",
+        "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+        "stats": {
+          "count": 519
+        },
+        "resources": []
+      },
+      {
+        "id": "d456bc79-b3ee-4984-8933-a1add414751c",
+        "index": 3,
+        "body": "$\\frac{\\pi(1+\\sqrt{3})}{4}$",
+        "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "7d93b922-2764-42a3-be45-1de63b3d40c0",
+        "index": 4,
+        "body": "$\\frac{\\pi(3+\\sqrt{3})}{4}$",
+        "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "174108149",
+    "timeSpentVideo": "26712113",
+    "submissions": 859,
+    "submissionsCorrect": 519,
+    "accuracy": 0.6041909196740396,
+    "difficulty": 0.6566736183524504
+  },
+  "resources": [],
+  "exam": {
+    "id": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5313299544",
+      "timeSpentVideo": "826163148",
+      "submissions": 30063,
+      "submissionsCorrect": 17013,
+      "questions": 25,
+      "accuracy": 0.5659115856700928,
+      "difficulty": 0.6843069323343168
+    }
+  },
+  "explanation": {
+    "id": "f1145b1f-adce-4180-a321-4a523e714cbd",
+    "body": "",
+    "questionId": "8621578f-aa29-4ae6-a88b-efad248205c5",
+    "resources": [
+      {
+        "id": "1765a414-5dc9-4b8b-818d-787abbfdc8b9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/IMxMhKHHFYI?t=2761"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f1145b1f-adce-4180-a321-4a523e714cbd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3a361cfe-1ec8-449e-9734-624e68ff10f5",
+      "name": "Riemann Sum",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "865556643",
+        "timeSpentVideo": "68152975",
+        "submissions": 2874,
+        "submissionsCorrect": 1776,
+        "questions": 3,
+        "accuracy": 0.6179540709812108,
+        "difficulty": 0.6360121049092132
+      }
+    }
+  ],
+  "children": []
+}

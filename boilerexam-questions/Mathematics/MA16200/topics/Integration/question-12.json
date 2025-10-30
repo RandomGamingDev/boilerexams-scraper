@@ -1,0 +1,158 @@
+{
+  "id": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate \\[\\int_{\\frac{1}{2}}^{1}\\frac{1}{x\\sqrt{4x^2-1}}dx\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7daba65a-93b6-4a2b-9b97-bbc755ed1200",
+        "index": 0,
+        "body": "$\\frac{1}{\\sqrt{3}}$",
+        "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "cce25636-f964-476f-b4ac-705b83f51894",
+        "index": 1,
+        "body": "$\\frac{\\pi}{3}$",
+        "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+        "stats": {
+          "count": 756
+        },
+        "resources": []
+      },
+      {
+        "id": "5cf4cf21-e2d4-46a3-b83d-973bf4ea95b5",
+        "index": 2,
+        "body": "$\\frac{\\ln{(3)}}{2}$",
+        "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "d7c292d0-64f4-4eaa-8507-0be0cfa42e06",
+        "index": 3,
+        "body": "$\\frac{\\pi}{6}$",
+        "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "044a960a-9c6a-4e63-b14e-1b8bda627a59",
+        "index": 4,
+        "body": "The integral does not converge.",
+        "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "425897810",
+    "timeSpentVideo": "88645354",
+    "submissions": 1663,
+    "submissionsCorrect": 756,
+    "accuracy": 0.4546001202645821,
+    "difficulty": 0.792824730572887
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "fff027d5-0055-4c42-9bcf-38536ac651a4",
+    "body": "Skip from 1:16:32 to 1:19:51 if you want to skip the trigonometric substitution derivation and view the solution. ",
+    "questionId": "b80484cc-25cb-4b5d-b9eb-23d62c80b403",
+    "resources": [
+      {
+        "id": "11eacaa6-4107-4cd1-8bd4-ba8008a180ee",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=4505"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fff027d5-0055-4c42-9bcf-38536ac651a4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

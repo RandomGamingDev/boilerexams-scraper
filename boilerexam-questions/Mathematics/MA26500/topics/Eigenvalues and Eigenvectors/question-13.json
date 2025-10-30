@@ -1,0 +1,143 @@
+{
+  "id": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{cc}-1 & -5 \\\\ 2 & 1\\end{array}\\right]$. Then $\\left[\\begin{array}{c}3 i-1 \\\\ 2\\end{array}\\right]$ is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7f48f891-cc54-4ca2-8c5c-ed3129337b5b",
+        "index": 0,
+        "body": "an eigenvector of $A$ corresponding to eigenvalue $3$.",
+        "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "6b98eed0-f938-47eb-bc7f-817c50ee9909",
+        "index": 1,
+        "body": "an eigenvector of $A$ corresponding to eigenvalue $-3$.",
+        "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "e73b0985-24dc-42e9-a33a-3b29168f5764",
+        "index": 2,
+        "body": "an eigenvector of $A$ corresponding to eigenvalue $3 i$.",
+        "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+        "stats": {
+          "count": 1855
+        },
+        "resources": []
+      },
+      {
+        "id": "d01d77df-1249-4895-8150-222c5b492a1d",
+        "index": 3,
+        "body": "an eigenvector of $A$ corresponding to eigenvalue $-3 i$.",
+        "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+        "stats": {
+          "count": 627
+        },
+        "resources": []
+      },
+      {
+        "id": "4feb5fb0-a8c0-411f-87b4-cc092d80e569",
+        "index": 4,
+        "body": "an eigenvector of $A$ corresponding to eigenvalue $0$.",
+        "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "615237936",
+    "timeSpentVideo": "107902323",
+    "submissions": 2956,
+    "submissionsCorrect": 1855,
+    "accuracy": 0.6275372124492558,
+    "difficulty": 0.6266361256544503
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "240134e5-2100-43ec-9a20-48ab1eeeb6bd",
+    "body": "",
+    "questionId": "096b3180-56ab-492f-a6f4-dc37b3dfe76d",
+    "resources": [
+      {
+        "id": "aa7acae3-043e-4752-ae10-0ab38a7d7c3f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=4294\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "240134e5-2100-43ec-9a20-48ab1eeeb6bd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    }
+  ],
+  "children": []
+}

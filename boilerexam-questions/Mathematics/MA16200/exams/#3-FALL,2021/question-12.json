@@ -1,0 +1,153 @@
+{
+  "id": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use a limit comparison test to draw an appropriate conclusion about\n\n\n\n\\[\n\\sum_{k=1}^{\\infty} \\frac{1+k}{\\sqrt{3+3 k+k^{3}}}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "e81c16b6-cd64-4ce6-8c0a-4fea99048e7e",
+        "index": 0,
+        "body": "The series converges by considering comparison series $\\sum \\frac{1}{k^{2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "7d87c211-0e52-4388-8280-d7820548f7dd",
+        "index": 1,
+        "body": "The series converges by considering comparison series $\\sum \\frac{1}{k^{1 / 2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 275
+        },
+        "resources": []
+      },
+      {
+        "id": "aa59fd91-91bb-4237-a83f-e291c5bd01f8",
+        "index": 2,
+        "body": "The series diverges by considering comparison series $\\sum \\frac{1}{k^{1 / 2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 1731
+        },
+        "resources": []
+      },
+      {
+        "id": "bbc8c64b-5c62-4862-bb2c-0b1ba604cf33",
+        "index": 3,
+        "body": "The series diverges by considering comparison series $\\sum \\frac{1}{k^{3 / 2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "9fbcbba8-2085-4c3a-8668-fc3b89f1a7a4",
+        "index": 4,
+        "body": "The series diverges by considering comparison series $\\sum \\frac{1}{k^{2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "8c6688ff-4c67-4c5e-a1ec-8293ccb9852a",
+        "index": 5,
+        "body": "The series converges by considering comparison series $\\sum \\frac{1}{k^{3 / 2}}$",
+        "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+        "stats": {
+          "count": 337
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "7036f41b-5805-452b-baaf-0193db73eeda",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "322640485",
+    "timeSpentVideo": "132576883",
+    "submissions": 2779,
+    "submissionsCorrect": 1731,
+    "accuracy": 0.622885930190716,
+    "difficulty": 0.631382424452935
+  },
+  "resources": [],
+  "exam": {
+    "id": "7036f41b-5805-452b-baaf-0193db73eeda",
+    "number": 3,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5928094961",
+      "timeSpentVideo": "1683952161",
+      "submissions": 36694,
+      "submissionsCorrect": 22035,
+      "questions": 12,
+      "accuracy": 0.6005068948601952,
+      "difficulty": 0.6497662662390608
+    }
+  },
+  "explanation": {
+    "id": "7a81cb2c-a433-4c81-a383-40f77d9de0e9",
+    "body": "",
+    "questionId": "41ca781f-9e6e-4505-b8da-21d149b02ad3",
+    "resources": [
+      {
+        "id": "677f0e86-2d53-4af4-a340-59fa228302bf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ivT2sj6CbnA?t=2227"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7a81cb2c-a433-4c81-a383-40f77d9de0e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

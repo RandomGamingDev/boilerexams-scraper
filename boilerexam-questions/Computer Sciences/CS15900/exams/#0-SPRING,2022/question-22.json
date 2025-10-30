@@ -1,0 +1,134 @@
+{
+  "id": "62074031-be01-468a-b01f-967eafd7bdb3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What are the FIRST TWO lines of output generated?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "eed683f9-73fb-425b-987b-ef7532e3ce68",
+        "index": 0,
+        "body": "$\\texttt{=-=-=-=-=-=-=-+}$<br>$\\texttt{Latitude:\\ \\ \\ \\ 9/}$",
+        "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+        "stats": {
+          "count": 2712
+        },
+        "resources": []
+      },
+      {
+        "id": "ed4a47cb-9b7b-4c78-b0d5-2efba0f225ab",
+        "index": 1,
+        "body": "$\\texttt{=-=-=-=-=-=-=-+}$<br>$\\texttt{Latitude:\\ \\ \\ 10/}$",
+        "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+        "stats": {
+          "count": 184
+        },
+        "resources": []
+      },
+      {
+        "id": "b4febb9c-7b3c-45bc-98e6-5e4ab1c25478",
+        "index": 2,
+        "body": "$\\texttt{=-=-=-=-=-=-=-+}$<br>$\\texttt{Latitude:\\ \\ \\ 9/}$",
+        "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+        "stats": {
+          "count": 1139
+        },
+        "resources": []
+      },
+      {
+        "id": "a20cf0ed-d8a7-459e-afc9-880e780c940a",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "344020606",
+    "timeSpentVideo": "0",
+    "submissions": 4177,
+    "submissionsCorrect": 2712,
+    "accuracy": 0.6492698108690448,
+    "difficulty": 0.6042202478372691
+  },
+  "resources": [
+    {
+      "id": "ba0d43d6-f869-4c8f-8da5-181c15233794",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void)\n{\n  int latitude = 9.6;\n  double longitude = 42.8;\n  \n  printf(\"=-=-=-=-=-=-=-+\\n\");\n  printf(\"Latitude: %4d/\\n\", latitude);\n  printf(\"Longitude: %-3.0lf/\\n\", longitude);\n  printf(\"=-=-=-=-=-=-=-+\\n\");\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "f44b184c-6e77-4941-8a16-0803964e68b8",
+    "body": "",
+    "questionId": "62074031-be01-468a-b01f-967eafd7bdb3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

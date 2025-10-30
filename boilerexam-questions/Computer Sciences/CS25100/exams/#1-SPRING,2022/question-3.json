@@ -1,0 +1,128 @@
+{
+  "id": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The dominant term for a runtime expression is $\\frac{1}{32} n^2$. The runtime expression that fits with such a notation is:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6160cee2-0112-43c8-bdab-73d059aaf082",
+        "index": 0,
+        "body": "$T(n)=\\frac{1}{32}n^2\\log{(n)} + \\frac{1}{32}n^2-\\frac{1}{32}\\log{(n)}$",
+        "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "f00c0372-e930-49ad-8656-0bd842e91ce6",
+        "index": 1,
+        "body": "$T(n)=\\frac{1}{32}n + \\frac{1}{16} n^2 - \\frac{1}{32}n\\log{(n)}$\n",
+        "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "e6d533d3-df16-41c8-84e2-7d0ff3a0a23d",
+        "index": 2,
+        "body": "$T(n)=\\frac{1}{32}n + \\frac{1}{4}n^2 - \\frac{1}{32}\\log{(n)}$",
+        "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "0d56a7fc-70e7-4787-b6ab-14cc74621aa0",
+        "index": 3,
+        "body": "$T(n)=\\frac{1}{32} n\\log{(n)} + \\frac{1}{32} n^2 - 4 \\log{(n)}$",
+        "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      },
+      {
+        "id": "d9186c12-8159-4a63-bc80-e3c383f9d488",
+        "index": 4,
+        "body": "$T(n) = \\frac{1}{32}n ^2 \\log^2{(n)} - \\frac{1}{16}\\log{(n)} + \\frac{1}{32}n^2$",
+        "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "34350903",
+    "timeSpentVideo": "0",
+    "submissions": 900,
+    "submissionsCorrect": 838,
+    "accuracy": 0.9311111111111111,
+    "difficulty": 0.362
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "15b34dff-7eba-467f-ada2-511696348a38",
+    "body": "Any runtime expression where $\\frac{1}{32} n^2$ is the term that grows the fastest with respect to n. Examples include:\n$T(n)=\\frac{1}{32} n^2+3n+4$\n$T(n)=\\frac{1}{32} n^2+25n\\log{{n}}+1$\n$T(n)=\\frac{1}{32} n^2+\\frac{8}{n}$",
+    "questionId": "1f5a3db0-4498-4de3-b536-726af4a3123e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

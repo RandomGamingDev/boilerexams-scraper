@@ -1,0 +1,158 @@
+{
+  "id": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral $$\\int_3^4 \\frac{3-2x}{x^2-4x+4} dx.$$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "02743eb1-1bd4-4c9c-8534-aa7e0fee57f4",
+        "index": 0,
+        "body": "$-2\\ln(4)-\\frac{3}{2}$",
+        "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "6d5c87d5-702f-46a6-8a51-61461dd22a47",
+        "index": 1,
+        "body": "$-\\ln(2) +\\frac{5}{3}$",
+        "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "b041ff40-710d-47a9-a101-d5aea1f81bf2",
+        "index": 2,
+        "body": "$-\\ln(2) -1$",
+        "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "ae50e312-30c8-4153-a9e8-3350af89add4",
+        "index": 3,
+        "body": "$-2\\ln(2)-\\frac{1}{2}$",
+        "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "1b22b461-0dfe-4d61-a08c-6920b7e79c9d",
+        "index": 4,
+        "body": "$-2\\ln(4)+2\\ln(3)-\\frac{3}{2}$",
+        "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "71692207",
+    "timeSpentVideo": "6221377",
+    "submissions": 245,
+    "submissionsCorrect": 135,
+    "accuracy": 0.5510204081632653,
+    "difficulty": 0.7137681159420289
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "7d86ff5b-0ae6-4fc3-aad0-2742ad3983e0",
+    "body": null,
+    "questionId": "2fccaeb1-2f38-473e-a4f5-360a0570f42e",
+    "resources": [
+      {
+        "id": "366f2e37-a8b2-4927-bdbc-1a60699e1f33",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=5UoHyey4CrVA6IPE&t=2824"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7d86ff5b-0ae6-4fc3-aad0-2742ad3983e0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "379288288",
+        "timeSpentVideo": "11959782",
+        "submissions": 821,
+        "submissionsCorrect": 489,
+        "questions": 4,
+        "accuracy": 0.5956151035322778,
+        "difficulty": 0.6647665580890336
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \n\n\\[\nx(t) =\n\\begin{bmatrix}\nx_1 \\\\\nx_2\n\\end{bmatrix}\n\\]\n\nbe the particular solution to the initial value problem\n\n\\[\nx'(t) =\n\\begin{bmatrix}\n1 & 2 \\\\\n2 & 1\n\\end{bmatrix}\nx(t), \\quad x(0) =\n\\begin{bmatrix}\n-1 \\\\\n2\n\\end{bmatrix}.\n\\]\n\nFind \\( x_1(1) \\).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "147cf4d5-571a-40f8-bbbf-73d79f5bba8b",
+        "index": 0,
+        "body": "\\( -\\frac{3}{2}e^{-1} + \\frac{1}{2}e^3 \\)",
+        "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+        "stats": {
+          "count": 467
+        },
+        "resources": []
+      },
+      {
+        "id": "89222d13-4ac4-49cf-b562-792b5e0a34ef",
+        "index": 1,
+        "body": "\\( -e \\cos(2) + 2e \\sin(2) \\)",
+        "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "4722d2ec-1fbc-4c42-bdba-2ae4832d5541",
+        "index": 2,
+        "body": "\\( \\frac{1}{2}e^{-1} - \\frac{3}{2}e^3 \\)",
+        "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "f0415183-0732-430d-9e29-07848ca7c3fb",
+        "index": 3,
+        "body": "\\( 2e \\cos(2) - e \\sin(2) \\)",
+        "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "994d325d-70b4-40d7-873a-464e6ff61069",
+        "index": 4,
+        "body": "\\( \\frac{5}{2}e^{-2} \\)",
+        "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "201269994",
+    "timeSpentVideo": "17338700",
+    "submissions": 644,
+    "submissionsCorrect": 467,
+    "accuracy": 0.7251552795031055,
+    "difficulty": 0.5551075268817204
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "911a1b62-9c38-436e-a2ba-bee047bb3aa2",
+    "body": null,
+    "questionId": "2b28279b-04e6-4869-a0d1-7a8d7187d0fb",
+    "resources": [
+      {
+        "id": "93b17f49-f2e7-49a5-9a8d-b8c740ed6257",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/r3C5y0jwPno?si=ZOKImLog6lefnJMB&t=1717"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "911a1b62-9c38-436e-a2ba-bee047bb3aa2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

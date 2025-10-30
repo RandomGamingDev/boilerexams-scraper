@@ -1,0 +1,143 @@
+{
+  "id": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The maximum $(\\mathrm{M})$ and minimum $(\\mathrm{m})$ values of $f(x, y)=2 x+6 y$ subject to the constraint $x^{2}+y^{2}=10$ are",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "649e693a-cdd7-481e-9993-a8f4a73762eb",
+        "index": 0,
+        "body": "$M=12$ and $m=-12$",
+        "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "fa78ddf7-9943-43f1-badb-21a0a8c39f6d",
+        "index": 1,
+        "body": "$M=20$ and $m=-20$",
+        "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+        "stats": {
+          "count": 3410
+        },
+        "resources": []
+      },
+      {
+        "id": "b76b7bb4-c00c-4a10-b2e3-1c352227e0f1",
+        "index": 2,
+        "body": "$M=20$ and $m=-12$",
+        "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "05eeeaeb-d4b2-49ca-ac92-47322047b8f7",
+        "index": 3,
+        "body": "$M=12$ and $m=-20$",
+        "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "ad1a35c8-ebef-4ec6-8e64-3b0ce7c0a7ba",
+        "index": 4,
+        "body": "$M=20$ and no minimum value.",
+        "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "786663020",
+    "timeSpentVideo": "54972236",
+    "submissions": 4017,
+    "submissionsCorrect": 3410,
+    "accuracy": 0.8488922081155091,
+    "difficulty": 0.4095822200631528
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "dc9904ab-4fcb-43f7-9962-2498ada5a1dd",
+    "body": "",
+    "questionId": "aa16a3d8-4042-423e-8daf-c1ae46a4fd3b",
+    "resources": [
+      {
+        "id": "95b285a1-62ee-409e-885b-7faee04cdfc9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=253"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dc9904ab-4fcb-43f7-9962-2498ada5a1dd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3ff61fda-168d-4685-9596-9c9cbd9f36c6",
+      "name": "Lagrange Multipliers",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23687011243",
+        "timeSpentVideo": "2391172133",
+        "submissions": 47469,
+        "submissionsCorrect": 30167,
+        "questions": 10,
+        "accuracy": 0.6355094904042639,
+        "difficulty": 0.6147753789232483
+      }
+    }
+  ],
+  "children": []
+}

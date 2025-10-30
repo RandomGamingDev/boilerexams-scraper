@@ -1,0 +1,128 @@
+{
+  "id": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution of the linear homogeneous equation\n\n\n\n\\[\n\\left(D^{2}-9\\right)^{2}\\left(D^{2}+9\\right)^{2} y=0\n\\]\n\n(this means that its characteristic polynomial is $\\left.\\left(r^{2}-9\\right)^{2}\\left(r^{2}+9\\right)^{2}\\right)$ is given by",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "74517e3f-0191-4653-aead-4f7fe465bff9",
+        "index": 0,
+        "body": "$y=C_{1} e^{3 x}+C_{2} e^{-3 x}+C_{4} \\cos 3 x+C_{5} \\sin 3 x$",
+        "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "ad48299d-73f9-47f9-bdeb-73bb30b1d7c9",
+        "index": 1,
+        "body": "$y=\\left(C_{1}+C_{2} x\\right) e^{3 x}+\\left(C_{3}+C_{4} x\\right) e^{-3 x}+C_{5} \\cos 3 x+C_{6} \\sin 3 x$",
+        "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "d8ee46d8-f791-4c9d-bd12-0b8782ee9be6",
+        "index": 2,
+        "body": "$y=x\\left(C_{1}+C_{2} x\\right) e^{3 x}+x\\left(C_{3}+C_{4} x\\right) e^{-3 x}+\\left(C_{5}+C_{6} x\\right) \\cos 3 x+\\left(C_{7}+x C_{8}\\right) \\sin 3 x$",
+        "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "da2593c8-c8c9-44cd-937e-17861076639d",
+        "index": 3,
+        "body": "$y=\\left(C_{1}+C_{2} x\\right) e^{3 x}+\\left(C_{3}+C_{4} x\\right) e^{-3 x}+\\left(C_{5}+C_{6} x\\right) \\cos 3 x+\\left(C_{7}+C_{8} x\\right) \\sin 3 x$",
+        "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      },
+      {
+        "id": "4fe7ccac-a7a8-4c35-9586-b394f1bb98a7",
+        "index": 4,
+        "body": "$y=x\\left(C_{1}+C_{2} x\\right) e^{3 x}+x\\left(C_{3}+C_{4} x\\right) e^{-x}+x\\left(C_{5}+C_{6} x\\right) \\cos 3 x+x\\left(C_{7}+C_{8} x\\right) \\sin 3 x$",
+        "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "39792438",
+    "timeSpentVideo": "0",
+    "submissions": 281,
+    "submissionsCorrect": 221,
+    "accuracy": 0.7864768683274022,
+    "difficulty": 0.5387139107611548
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "55c4237c-0097-4785-930f-98f524edd30d",
+    "body": "",
+    "questionId": "abe7764a-e214-4a17-be65-3ea885e5e3a8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0319c3c3-8269-4637-9189-12380f165495",
+      "name": "Characterization",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1198107393",
+        "timeSpentVideo": "69856422",
+        "submissions": 3254,
+        "submissionsCorrect": 2223,
+        "questions": 6,
+        "accuracy": 0.683159188690842,
+        "difficulty": 0.5723017292784734
+      }
+    }
+  ],
+  "children": []
+}

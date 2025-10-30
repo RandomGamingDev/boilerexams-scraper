@@ -1,0 +1,133 @@
+{
+  "id": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which index of the array stores the largest value after the end of the loop in the program above?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "263bc521-d188-47c9-bceb-f515c88a6759",
+        "index": 0,
+        "body": "3",
+        "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "b53dc7ab-ba57-41bd-a2d0-572418529df1",
+        "index": 1,
+        "body": "4",
+        "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "f1d06029-a128-4a90-9386-ed23150dc267",
+        "index": 2,
+        "body": "6",
+        "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+        "stats": {
+          "count": 183
+        },
+        "resources": []
+      },
+      {
+        "id": "e3cffe8d-d706-4fe6-b267-a04254d604eb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "41545930",
+    "timeSpentVideo": "5887060",
+    "submissions": 358,
+    "submissionsCorrect": 183,
+    "accuracy": 0.5111731843575419,
+    "difficulty": 0.7412663755458515
+  },
+  "resources": [
+    {
+      "id": "ec5918d1-b67f-4245-a063-61271736ea3b",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 7\n\nint main()\n{\n  int i;\n  int x[SIZE] = {12, 17, 8, 13, 10, 4, 11};\n  \n  for(i = 0; i < SIZE; i++)\n  {\n    x[i] += x[SIZE - i - 1];\n  }\n  \n  /*********************************************\n   * If you want to print array after solving problem, uncomment this for loop.\n   * NOTE: this was not included in original question\n  */\n  //for(i = 0; i < SIZE; i++)\n  //{\n  //  printf(\" %d\", x[i]);\n  //}\n  //printf(\"\\n\");\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "1bd50001-cecb-49ff-96fd-0b70e1f4f56a",
+    "body": "",
+    "questionId": "15d35d3c-cf52-49ff-b502-061ffed115ff",
+    "resources": [
+      {
+        "id": "22c98b5e-78a9-40a4-8993-e58faf83b1cf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=2727"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1bd50001-cecb-49ff-96fd-0b70e1f4f56a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

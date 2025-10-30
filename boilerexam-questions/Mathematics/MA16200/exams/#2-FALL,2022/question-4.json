@@ -1,0 +1,143 @@
+{
+  "id": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the most appropriate substitution or procedure to compute\n\n\n\n\\[\n\\int \\sin ^{5} x \\cos ^{4} x d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "36cae2fc-20de-4b78-b4eb-5d7175a60654",
+        "index": 0,
+        "body": "substitution with $u=\\cos x$",
+        "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+        "stats": {
+          "count": 2256
+        },
+        "resources": []
+      },
+      {
+        "id": "5517ba0b-7c96-4e64-9138-dc442ec5f3ad",
+        "index": 1,
+        "body": "substitution with $u=\\sin x$",
+        "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+        "stats": {
+          "count": 336
+        },
+        "resources": []
+      },
+      {
+        "id": "def85c67-eda0-4ce1-a17f-c237e88e1b59",
+        "index": 2,
+        "body": "substitution with $u=\\sin ^{4} x$",
+        "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "e2031598-29df-4cff-a38c-ba3807cfc2af",
+        "index": 3,
+        "body": "substitution with $u=\\cos ^{5} x$",
+        "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "c7849569-032f-456b-9955-75408f6ed1b8",
+        "index": 4,
+        "body": "use the identities $\\sin ^{2} x=\\frac{1-\\cos 2 x}{2}$ and $\\cos ^{2} x=\\frac{1+\\cos 2 x}{2}$",
+        "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "195525000",
+    "timeSpentVideo": "37184842",
+    "submissions": 2903,
+    "submissionsCorrect": 2256,
+    "accuracy": 0.7771271098863245,
+    "difficulty": 0.4821012321012321
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "dc179efb-62da-435e-b44c-55eaabf533a4",
+    "body": "",
+    "questionId": "1008983c-d644-43f5-8cd9-e645ae5f13a9",
+    "resources": [
+      {
+        "id": "d81af314-6df4-4600-92c8-4c0c28a61fa1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=577\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dc179efb-62da-435e-b44c-55eaabf533a4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

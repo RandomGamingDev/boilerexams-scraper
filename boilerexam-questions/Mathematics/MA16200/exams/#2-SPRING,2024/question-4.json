@@ -1,0 +1,158 @@
+{
+  "id": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which one of the following is the most appropriate substitution for the integral \\[\\int{}{}\\frac{1}{\\sqrt{x^2-4x+13}}\\,dx ?\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c9b3a860-70bd-401b-a7a8-93f7044734e2",
+        "index": 0,
+        "body": "$x=3\\tan{(\\theta)}-2$",
+        "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+        "stats": {
+          "count": 116
+        },
+        "resources": []
+      },
+      {
+        "id": "c998bc46-f5cf-4324-b3a6-d652bfc20940",
+        "index": 1,
+        "body": "$x=3\\tan{(\\theta)}+2$",
+        "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+        "stats": {
+          "count": 1103
+        },
+        "resources": []
+      },
+      {
+        "id": "3daf315f-4641-4a69-95a5-5912202fc8fc",
+        "index": 2,
+        "body": "$x=2\\tan{(\\theta)}-2$",
+        "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "8878bdc0-b80e-4b56-b6cf-30115e028e73",
+        "index": 3,
+        "body": "$x=2\\tan{(\\theta)}+3$",
+        "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "1aa67268-cfcc-4768-8c95-0c10551e069c",
+        "index": 4,
+        "body": "$x=2\\tan{(\\theta)}-3$",
+        "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "291389617",
+    "timeSpentVideo": "42141724",
+    "submissions": 1659,
+    "submissionsCorrect": 1103,
+    "accuracy": 0.6648583484026522,
+    "difficulty": 0.5945139283683911
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "261e7f13-aeb5-4bbd-89db-2b770548e185",
+    "body": "If you are curious where substitution for this problem comes from, the derivation is at 18:11",
+    "questionId": "78ce94bc-5ec4-4365-ac9c-16e33eea395b",
+    "resources": [
+      {
+        "id": "febb27ef-3281-4685-ba14-405cadd830a1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=809s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "261e7f13-aeb5-4bbd-89db-2b770548e185",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

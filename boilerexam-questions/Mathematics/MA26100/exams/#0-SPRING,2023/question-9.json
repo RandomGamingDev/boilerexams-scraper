@@ -1,0 +1,143 @@
+{
+  "id": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The integral in spherical coordinates\n\\[\n\\int_{0}^{\\frac{\\pi}{2}} \\int_{\\frac{\\pi}{4}}^{\\frac{\\pi}{2}} \\int_{0}^{\\csc \\phi} \\rho^{2} \\sin \\phi \\, d \\rho \\, d \\phi \\, d \\theta\n\\]\nwhen converted into Cartesian coordinates becomes",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "64feaddb-9994-4f6f-a482-6a426b56bc7f",
+        "index": 0,
+        "body": "$\\displaystyle \\int_{0}^{1} \\int_{0}^{1-x^{2}} \\int_{0}^{\\sqrt{x^{2}+y^{2}}} \\, d z \\, d y \\,d x$",
+        "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      },
+      {
+        "id": "f8fa93f5-2c63-4e7c-b5f7-4d575f4f8c6f",
+        "index": 1,
+        "body": "$\\displaystyle \\int_{0}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} \\int_{0}^{\\sqrt{x^{2}+y^{2}}} \\,d z \\,d y \\,d x$",
+        "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+        "stats": {
+          "count": 3169
+        },
+        "resources": []
+      },
+      {
+        "id": "24a0ec74-6164-4271-9ec1-2139d4a7b44b",
+        "index": 2,
+        "body": "$\\displaystyle \\int_{0}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} \\int_{\\sqrt{x^{2}+y^{2}}}^{1} \\, d z \\,d y \\,d x$",
+        "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+        "stats": {
+          "count": 602
+        },
+        "resources": []
+      },
+      {
+        "id": "8a93a966-5f4d-429b-bb8a-fb94a81b9c2a",
+        "index": 3,
+        "body": "$\\displaystyle \\int_{-1}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} \\int_{1}^{\\sqrt{x^{2}+y^{2}}} \\, d z \\, d y \\, d x$",
+        "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+        "stats": {
+          "count": 208
+        },
+        "resources": []
+      },
+      {
+        "id": "a6c6ed77-83ef-4bce-92d4-48268fe21e93",
+        "index": 4,
+        "body": "$\\displaystyle \\int_{0}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} \\int_{0}^{x^{2}+y^{2}} \\, d z \\, d y \\, d x$",
+        "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1107463472",
+    "timeSpentVideo": "385046067",
+    "submissions": 5122,
+    "submissionsCorrect": 3169,
+    "accuracy": 0.6187036313939868,
+    "difficulty": 0.6335695135963233
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "52d3e070-44a5-474b-88ba-8349034c62f0",
+    "body": "",
+    "questionId": "ea2ebd83-40c2-4199-bc9e-04fb69bf4ded",
+    "resources": [
+      {
+        "id": "b3004db8-5b5c-4fc2-a0d1-c50486575c65",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=1138"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "52d3e070-44a5-474b-88ba-8349034c62f0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe98730e-b232-4fb3-95e2-f2a219718e24",
+      "name": "Spherical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16366452649",
+        "timeSpentVideo": "2568706851",
+        "submissions": 35157,
+        "submissionsCorrect": 18862,
+        "questions": 8,
+        "accuracy": 0.5365076656142447,
+        "difficulty": 0.7135958816688884
+      }
+    }
+  ],
+  "children": []
+}

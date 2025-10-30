@@ -1,0 +1,158 @@
+{
+  "id": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose the set $\\left\\{\\left[\\begin{array}{c}-1 \\\\ -3 \\\\ 1\\end{array}\\right]\\left[\\begin{array}{c}-2 \\\\ -2 \\\\ a\\end{array}\\right]\\left[\\begin{array}{c}-1 \\\\ -2 \\\\ 1\\end{array}\\right]\\right\\}$ is linearly dependent. Find $a$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "81a9b34c-50c5-4a1c-b0ff-eb37d8f47eca",
+        "index": 0,
+        "body": "$a=-5$.",
+        "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "64d68c89-e774-4eda-9e63-c35c774c13ab",
+        "index": 1,
+        "body": "$a=-2$.",
+        "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "cb525dc5-431e-42c9-a5be-581051760f84",
+        "index": 2,
+        "body": "$a=2$.",
+        "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+        "stats": {
+          "count": 1355
+        },
+        "resources": []
+      },
+      {
+        "id": "afb5deb1-f5ba-4693-af15-98b4dbd63c01",
+        "index": 3,
+        "body": "$a=1$.",
+        "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "a8483e7e-1055-4d35-9242-b573f7b589d5",
+        "index": 4,
+        "body": "$a=-3$.",
+        "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "248348495",
+    "timeSpentVideo": "26014994",
+    "submissions": 1705,
+    "submissionsCorrect": 1355,
+    "accuracy": 0.7947214076246334,
+    "difficulty": 0.471606648199446
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "efdc7730-4cbf-4225-9e9e-b28ea646cc86",
+    "body": "",
+    "questionId": "10853a5e-47fb-4a7a-868a-caf8488f46fa",
+    "resources": [
+      {
+        "id": "8b5d5075-64d6-4d00-8d7f-0289df5a45be",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=227\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "efdc7730-4cbf-4225-9e9e-b28ea646cc86",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

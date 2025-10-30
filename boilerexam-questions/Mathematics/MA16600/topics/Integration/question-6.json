@@ -1,0 +1,174 @@
+{
+  "id": "c7a07353-9d81-4b8c-9253-340961b249b7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the region \\textbf{in the 3rd quadrant} bounded by the curves $y=3x, y=x^2-4$ and $y=0$.\n(See the picture below.)\nChoose the right formulas to compute the area of the region\n\n(i) in terms of $x$, and\n(ii) in terms of $y$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "6db0a126-5c08-4167-be2c-93fd91562ef6",
+        "index": 0,
+        "body": "(i) $\\int_{-4}^0 \\{(x^2-4)-3x\\} \\, dx$, (ii) $\\int _{-3}^0\\{ \\sqrt{y+4} - \\frac{1}{3}y\\} \\,dy$",
+        "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "c1d2f2d8-f79b-409c-97b6-0d97aa692ae9",
+        "index": 1,
+        "body": "(i) $\\int_{-4}^0 \\{3x-(x^2-4)\\} \\, dx$, (ii) $\\int _{-3}^0\\{ \\frac{1}{3}y-\\sqrt{y+4}\\} \\,dy$",
+        "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "c22e6f06-ed94-444e-9d72-651baaf6dfc8",
+        "index": 2,
+        "body": "(i) $\\int_{-2}^{-1} (-x^2+4) \\, dx + \\int_{-1}^0 (-3x) \\, dx$, (ii) $\\int _{-3}^0\\{ \\frac{1}{3}y+\\sqrt{y+4}\\} \\,dy$",
+        "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "9d985bd5-9968-46ea-9a6e-095949623888",
+        "index": 3,
+        "body": "(i) $\\int_{-2}^{-1} (-x^2+4) \\, dx + \\int_{-1}^0 (-3x) \\, dx$, (ii) $\\int _{-3}^0\\{ \\frac{1}{3}y-\\sqrt{y+4}\\} \\,dy$",
+        "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "e0d207c1-dcd8-41fd-89dd-e461765ce077",
+        "index": 4,
+        "body": "(i) $\\int_{-2}^{-1} (x^2-4) \\, dx + \\int_{-1}^0 (3x) \\, dx$, (ii) $\\int _{-3}^0\\{ \\frac{1}{3}y+\\sqrt{y+4}\\} \\,dy$",
+        "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14255084",
+    "timeSpentVideo": "3115246",
+    "submissions": 83,
+    "submissionsCorrect": 11,
+    "accuracy": 0.13253012048192772,
+    "difficulty": 0.9166666666666667
+  },
+  "resources": [
+    {
+      "id": "76a0c6b7-62b9-4e6e-b369-1ed57debe29c",
+      "type": "IMAGE",
+      "data": {
+        "key": "YoxNjFJKTTSqr3aMPBXGe",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/YoxNjFJKTTSqr3aMPBXGe"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "aaa2546e-b71f-4d9b-bf4d-2863039396cc",
+    "body": null,
+    "questionId": "c7a07353-9d81-4b8c-9253-340961b249b7",
+    "resources": [
+      {
+        "id": "696025aa-680d-4d18-87cd-adc36ff4b76e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=oI4viUGdCCy8XzDQ&t=2257"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aaa2546e-b71f-4d9b-bf4d-2863039396cc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "60c5d08c-2196-4fa8-beaa-1c56f4cc59fc",
+      "name": "Area Between Curves",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "134731177",
+        "timeSpentVideo": "4112269",
+        "submissions": 176,
+        "submissionsCorrect": 64,
+        "questions": 2,
+        "accuracy": 0.36363636363636365,
+        "difficulty": 0.8369565217391304
+      }
+    }
+  ],
+  "children": []
+}

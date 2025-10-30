@@ -1,0 +1,143 @@
+{
+  "id": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "let $f(x, y)=y^{3}-3 y+3 x^{2} y$.\n\nThe absolute minimum value \" $m$ \" and absolute maximum value \" $M$ \" for $f(x, y)$ on\n\n\n\n\\[\nD=\\{(x, y):-2 \\leq x \\leq 2,0 \\leq y \\leq 2\\}\n\\]\n\nsatisfy",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a7cbf9a0-7523-4473-adff-676e0a8b5f26",
+        "index": 0,
+        "body": "$m=-2, M=18$",
+        "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "4f64d5bb-078a-4088-8a8f-f5f36f159b66",
+        "index": 1,
+        "body": "$m=-2, M=2$",
+        "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+        "stats": {
+          "count": 460
+        },
+        "resources": []
+      },
+      {
+        "id": "bfe81feb-c675-4c67-bb2a-07e8ed16c858",
+        "index": 2,
+        "body": "$m=-18, M=18$",
+        "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "a186dfe3-6648-4dca-8f32-d56ec49c3ddc",
+        "index": 3,
+        "body": "$m=-2, M=26$",
+        "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+        "stats": {
+          "count": 1546
+        },
+        "resources": []
+      },
+      {
+        "id": "0122d2e5-f41b-4723-91c0-20cacd582379",
+        "index": 4,
+        "body": "$m=-26, M=26$ ",
+        "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+        "stats": {
+          "count": 127
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "875542808",
+    "timeSpentVideo": "185883891",
+    "submissions": 3303,
+    "submissionsCorrect": 1546,
+    "accuracy": 0.4680593399939449,
+    "difficulty": 0.7810020570085219
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "a4f7f954-7a99-41ea-8ce9-005a2c877735",
+    "body": "",
+    "questionId": "5237ec58-3a35-4a59-a356-4a1cd6c15ea7",
+    "resources": [
+      {
+        "id": "9f5287a5-331a-460f-93b7-ea3796479e97",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=PA28Jav__6Q-F6jG&t=1149\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a4f7f954-7a99-41ea-8ce9-005a2c877735",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7ebf9728-5c70-4eca-bcfc-b664e78b78c8",
+      "name": "Min Max",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28196006115",
+        "timeSpentVideo": "2853105166",
+        "submissions": 55506,
+        "submissionsCorrect": 29731,
+        "questions": 16,
+        "accuracy": 0.5356357871221129,
+        "difficulty": 0.7144282991044132
+      }
+    }
+  ],
+  "children": []
+}

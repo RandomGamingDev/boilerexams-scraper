@@ -1,0 +1,128 @@
+{
+  "id": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be the subspace of $\\mathbb{R}^{3}$ consisting of all the vectors $x$ of the form $x=\\left[\\begin{array}{c}r+s+t \\\\ r-s \\\\ 2 r+2 s+2 t\\end{array}\\right]$, where $r$ and $s$ are real numbers. Which of the following is basis of $S$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7c12c3c7-6faa-4bcd-88f5-bea0f864cbe7",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "e4398f1e-d428-486d-ac26-b469b847be42",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "49d1b0cb-dcdc-4b3a-8713-3a011ebf9e46",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{c}1 \\\\ -2 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "8249a238-d721-4071-bc3f-71ece9156294",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "78f1dcbb-89e4-49b9-9958-4192b94173b2",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{c}0 \\\\ -1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 3\\end{array}\\right]\\right\\}$",
+        "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "49495496",
+    "timeSpentVideo": "0",
+    "submissions": 317,
+    "submissionsCorrect": 192,
+    "accuracy": 0.6056782334384858,
+    "difficulty": 0.669664268585132
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "2b698b5c-8525-48d2-872b-f43dc2ccb5c6",
+    "body": "",
+    "questionId": "929e6d13-769c-4de7-8eae-f53464b2fcd4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6aa3a4e9-0077-46db-a681-526529c3c72e",
+      "name": "Span",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2485112252",
+        "timeSpentVideo": "188769225",
+        "submissions": 5730,
+        "submissionsCorrect": 3585,
+        "questions": 6,
+        "accuracy": 0.6256544502617801,
+        "difficulty": 0.6265008576329331
+      }
+    }
+  ],
+  "children": []
+}

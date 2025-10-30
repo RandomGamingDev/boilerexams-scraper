@@ -1,0 +1,90 @@
+{
+  "id": "e7dca037-f087-45cc-800e-4a31c278398e",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Is it possible to generate a simple, undirected graph with 5 vertices, each of degree 3? If yes, give an example, else explain why not.",
+    "solution": "No it is not possible. In a simple undirected graph with 5 vertices each of degree 3, the total number of degrees will be 15 (5*3). In an undirected graph, there are no in-degrees and out-degrees, instead there are simply undirected edges such that for every edge added, 2 degrees total will be added to the graph (1 on each participating vertex which are not the same because it is a simple graph). If we imagine a graph of 5 vertexes completely unconnected (no edges between them), we see it has 0 degrees and every edge added will increase the total number of degrees by 2. Thus we can only have even numbers of total degrees and will never achieve 15.",
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "73216444",
+    "timeSpentVideo": "7332509",
+    "submissions": 546,
+    "submissionsCorrect": 473,
+    "accuracy": 0.8663003663003663,
+    "difficulty": 0.44040247678018574
+  },
+  "resources": [],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "a1cc954a-6d76-4060-a6bf-d0a2a219871f",
+    "body": null,
+    "questionId": "e7dca037-f087-45cc-800e-4a31c278398e",
+    "resources": [
+      {
+        "id": "6d76d6a2-3c72-4161-830a-4805826ec62d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4xCSOJgJ9V4?t=7422"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a1cc954a-6d76-4060-a6bf-d0a2a219871f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

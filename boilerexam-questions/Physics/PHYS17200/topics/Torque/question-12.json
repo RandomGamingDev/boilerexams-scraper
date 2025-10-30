@@ -1,0 +1,344 @@
+{
+  "id": "dbfc6677-d684-490a-81df-733fa6c421f4",
+  "type": "PARENT",
+  "data": {
+    "body": "$\\textbf{(2 Parts)}$ A uniform rod of mass $\\textbf{M}$ and length $\\textbf{L}$ is held horizontally with one end anchored in the wall by a hinge that allows the rod to rotate freely in the x-y plane. The other end of the rod is attached to the wall with cable that makes angle $\\theta$ with the rod.",
+    "numberingType": "UPPERCASE",
+    "answerChoices": []
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 0,
+    "timeSpent": "0",
+    "timeSpentVideo": "0",
+    "submissions": 0,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.75
+  },
+  "resources": [
+    {
+      "id": "cc2d35aa-29fb-4db7-a14b-aa0fa3219e3a",
+      "type": "IMAGE",
+      "data": {
+        "key": "_hOQ80ob9P3vzVXB9dcXR",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/_hOQ80ob9P3vzVXB9dcXR"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "dbfc6677-d684-490a-81df-733fa6c421f4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "57331224",
+      "timeSpentVideo": "12482322",
+      "submissions": 389,
+      "submissionsCorrect": 190,
+      "questions": 37,
+      "accuracy": 0.4884318766066838,
+      "difficulty": 0.75920245398773
+    }
+  },
+  "explanation": {
+    "id": "640303db-f4bb-4457-835a-a317cddf1551",
+    "body": null,
+    "questionId": "dbfc6677-d684-490a-81df-733fa6c421f4",
+    "resources": [
+      {
+        "id": "b6f4cb90-568e-484b-a213-fc114159b4c0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lc0wYjy5LhA?t=3618"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "640303db-f4bb-4457-835a-a317cddf1551",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cfd0b704-ab90-402e-97c3-9fb689e7e97f",
+      "name": "Static Equilibrium",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2006426",
+        "timeSpentVideo": "2464291",
+        "submissions": 16,
+        "submissionsCorrect": 10,
+        "questions": 6,
+        "accuracy": 0.625,
+        "difficulty": 0.7327586206896551
+      }
+    },
+    {
+      "id": "f52077cb-e91a-4129-bdf2-adc24c6c8d58",
+      "name": "Torque",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15968322",
+        "timeSpentVideo": "5020624",
+        "submissions": 108,
+        "submissionsCorrect": 53,
+        "questions": 12,
+        "accuracy": 0.49074074074074076,
+        "difficulty": 0.7548076923076923
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "ad342352-a816-4b58-83f8-9d769f2060bb",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "What is the $\\textbf{magnitude of tension force}$ $\\boldsymbol{F_{T}}$ in the cable?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "665de77e-434a-437d-bdef-093b113978ee",
+            "index": 0,
+            "body": "$\\frac {Mg} {2cos\\theta}$",
+            "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "b8297606-4380-4fd9-8ff9-c199106ec6db",
+            "index": 1,
+            "body": "$\\frac {Mg} {2sin\\theta}$",
+            "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "c8b73612-b6e1-417b-a70d-30119a361ad2",
+            "index": 2,
+            "body": "$\\frac {Mg} {2}$$sin\\theta$",
+            "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "8efe03ff-050b-45f8-972a-9272efe47a4e",
+            "index": 3,
+            "body": "$\\frac {Mg} {2}$",
+            "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "1598b1df-2933-4d57-95cb-772d2253a3cd",
+            "index": 4,
+            "body": "$\\frac {Mg} {2}$$cos\\theta$",
+            "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "dbfc6677-d684-490a-81df-733fa6c421f4",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+        "number": 0,
+        "year": 2019,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "57331224",
+          "timeSpentVideo": "12482322",
+          "submissions": 389,
+          "submissionsCorrect": 190,
+          "questions": 37,
+          "accuracy": 0.4884318766066838,
+          "difficulty": 0.75920245398773
+        }
+      },
+      "explanation": {
+        "id": "611aa1d0-babb-494e-8805-687c610ddd2a",
+        "body": null,
+        "questionId": "ad342352-a816-4b58-83f8-9d769f2060bb",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "In the previous problem, what is the $\\textbf{magnitude of tension force}$ $\\boldsymbol{F_{T}}$ in the cable?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "3bf29cd2-6785-4328-a6bf-e189a8245e84",
+            "index": 0,
+            "body": "$\\frac {Mg} {2}$$sin\\theta$",
+            "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "bdb8c836-94a1-4f52-8fb9-b4a012c61899",
+            "index": 1,
+            "body": "$\\frac {Mg} {2sin\\theta}$",
+            "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "0b9a519b-a87c-418c-aca1-ccb2a1337177",
+            "index": 2,
+            "body": "$\\frac {Mg} {2}$$cos\\theta$",
+            "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "a2b45a8b-4687-4da0-ae7c-35c4e7de4216",
+            "index": 3,
+            "body": "$\\frac {Mg} {2}$",
+            "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "ac6b2238-d789-4bb9-b7fb-9ac60cda7861",
+            "index": 4,
+            "body": "$\\frac {Mg} {2cos\\theta}$",
+            "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "dbfc6677-d684-490a-81df-733fa6c421f4",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+        "number": 0,
+        "year": 2019,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "57331224",
+          "timeSpentVideo": "12482322",
+          "submissions": 389,
+          "submissionsCorrect": 190,
+          "questions": 37,
+          "accuracy": 0.4884318766066838,
+          "difficulty": 0.75920245398773
+        }
+      },
+      "explanation": {
+        "id": "e26fb962-74c7-45a4-844e-8adba7562419",
+        "body": null,
+        "questionId": "4cd81c0a-e2c3-4fde-b2c1-5d9013bb1520",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the vectors $\\mathbf{v}_{1}=\\left[\\begin{array}{c}-1 \\\\ 4 \\\\ 1\\end{array}\\right], \\mathbf{v}_{2}=\\left[\\begin{array}{l}3 \\\\ 4 \\\\ 5\\end{array}\\right]$, and $\\mathbf{b}=\\left[\\begin{array}{l}1 \\\\ h \\\\ 1\\end{array}\\right]$, for what value of $h$ is $\\mathbf{b}$ in the span of $\\mathbf{v}_{1}$ and $\\mathbf{v}_{2}$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5e03c5c6-6126-479d-8f4e-c1d87269467a",
+        "index": 0,
+        "body": "$h=0$",
+        "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+        "stats": {
+          "count": 246
+        },
+        "resources": []
+      },
+      {
+        "id": "a92b1902-be11-463c-bc79-19fad13f6dab",
+        "index": 1,
+        "body": "$h=1$",
+        "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "4154a3f2-1c3d-4fd2-a97b-294972dba699",
+        "index": 2,
+        "body": "$h=2$",
+        "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "50a253fe-b97c-42da-bf32-6e3ef91172d4",
+        "index": 3,
+        "body": "$h=3$",
+        "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "96353894-57bb-4bd5-95ca-b158f7c56dee",
+        "index": 4,
+        "body": "$h=4$",
+        "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86993554",
+    "timeSpentVideo": "31387300",
+    "submissions": 500,
+    "submissionsCorrect": 246,
+    "accuracy": 0.492,
+    "difficulty": 0.7566666666666666
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "8e172b12-075d-42e4-b8bd-d69e630851f1",
+    "body": "",
+    "questionId": "f9d87e04-047c-4e3d-affc-4ee50a4e750b",
+    "resources": [
+      {
+        "id": "eb838e05-92a4-49ef-aa49-5b1c771e2ba4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=1548\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8e172b12-075d-42e4-b8bd-d69e630851f1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6f06f402-6f8e-4acd-8cce-f070d2189c8f",
+      "name": "Reduction",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1188046832",
+        "timeSpentVideo": "72306688",
+        "submissions": 1773,
+        "submissionsCorrect": 923,
+        "questions": 3,
+        "accuracy": 0.5205865764241399,
+        "difficulty": 0.7305125467164976
+      }
+    }
+  ],
+  "children": []
+}

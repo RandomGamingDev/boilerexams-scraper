@@ -1,0 +1,117 @@
+{
+  "id": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding recursion is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "23c900aa-e1db-4f2b-854f-a01e101043e1",
+        "index": 0,
+        "body": "Recursion should not be used with event-controlled processes as the result may be more function calls than the memory of the computer can accommodate.",
+        "questionId": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+        "stats": {
+          "count": 199
+        },
+        "resources": []
+      },
+      {
+        "id": "2fe9d145-ecb7-409f-938b-9c93ddf67f59",
+        "index": 1,
+        "body": "The condition when a recursive function makes no further function calls is known as the base case.",
+        "questionId": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "322f4e29-0348-4520-97db-de73b6f12a64",
+        "index": 2,
+        "body": "A recursive function is not required to be a\u00a0<font style=\"font-family:'Courier New'\">void</font>\u00a0function.",
+        "questionId": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "4af8acff-f9e0-403a-a1a9-e549bd95b2cc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+        "stats": {
+          "count": 374
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "41949437",
+    "timeSpentVideo": "10011137",
+    "submissions": 808,
+    "submissionsCorrect": 374,
+    "accuracy": 0.4628712871287129,
+    "difficulty": 0.7830396475770924
+  },
+  "resources": [],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "701237b8-0fa6-44fd-98aa-58162c03540f",
+    "body": "",
+    "questionId": "bc00d3d0-1618-46d8-a03e-742731f42c2f",
+    "resources": [
+      {
+        "id": "21f2673d-bbb8-4aa2-bcc0-dcdb48d099f8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=4085"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "701237b8-0fa6-44fd-98aa-58162c03540f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

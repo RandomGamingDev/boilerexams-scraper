@@ -1,0 +1,143 @@
+{
+  "id": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $\\textbf{A}$ is a 2 x 2 real-valued matrix with eigenvalues $\\lambda_1 = -3$ and $\\lambda_2 = 4$ with corresponding eigenvectors $v_1 = \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix}$ and $v_2 = \\begin{bmatrix} 3 \\\\ -2 \\end{bmatrix}$, find the matrix exponential $e^{\\textbf{A}t}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "af40b2bc-53c5-415a-a1d0-c78c8ef4f6c4",
+        "index": 0,
+        "body": "$\\begin{bmatrix} 4 e^{4 t} - 3 e^{-3 t} & 2 e^{4 t} - 2 e^{-3 t} \\\\ 3 e^{-3 t} - 3 e^{4 t} & 4 e^{-3 t} - 4 e^{4 t} \\end{bmatrix}$",
+        "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "29a3565a-7e62-4bc0-971e-a2c9ae9ac72d",
+        "index": 1,
+        "body": "$\\begin{bmatrix} e^{-3 t} & 3 e^{4 t} \\\\ -e^{-3 t} & -2 e^{4 t} \\end{bmatrix}$",
+        "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "820fd2ed-0a05-4be6-9171-8323ca67b791",
+        "index": 2,
+        "body": "$\\begin{bmatrix} e^{-3 t} & 0 \\\\ 0 & e^{4 t} \\end{bmatrix}$",
+        "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "2d9da6f0-faad-4e10-b3be-4f1e2e3dc548",
+        "index": 3,
+        "body": "$\\begin{bmatrix} 3 e^{4 t} - 2 e^{-3 t} & 3 e^{4 t} - 3 e^{-3 t} \\\\ 2 e^{-3 t} - 2 e^{4 t} & 3 e^{-3 t} - 2 e^{4 t} \\end{bmatrix}$",
+        "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+        "stats": {
+          "count": 430
+        },
+        "resources": []
+      },
+      {
+        "id": "27c45812-da4f-4087-a78a-6fe022404d88",
+        "index": 4,
+        "body": "$\\begin{bmatrix} e^{-3 t} & -3 e^{-3 t} \\\\ e^{-3 t} & e^{4 t} \\end{bmatrix}$",
+        "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "154989498",
+    "timeSpentVideo": "8465750",
+    "submissions": 572,
+    "submissionsCorrect": 430,
+    "accuracy": 0.7517482517482518,
+    "difficulty": 0.5357142857142857
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "5921de79-15cc-4172-b197-e17ea0bcb15a",
+    "body": null,
+    "questionId": "a05a9d6b-d304-4ff9-906d-99f2ce5195da",
+    "resources": [
+      {
+        "id": "deaeca92-e0ec-4538-8b1b-35c0b22c48f3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=BdF1pJ7-6__UKXj5&t=2626"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5921de79-15cc-4172-b197-e17ea0bcb15a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

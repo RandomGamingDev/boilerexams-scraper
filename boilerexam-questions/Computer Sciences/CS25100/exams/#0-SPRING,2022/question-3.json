@@ -1,0 +1,106 @@
+{
+  "id": "3dd0f663-42a8-4b06-9ed7-35ef944aa55e",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Find the closed-form runtime expression T(n) (after solving respective summations) for the value of sum in terms of n. Assume all variables are integers. Also no need to use the floor and ceiling functions.",
+    "solution": "This is a cruel question, if you got it wrong please don't feel bad\n$\\frac{log_2(3)}{2}log_3^2(n)+\\frac{log_2(3)}{2}log_3(n)+log_3(n)log_2(n)+log_2(n)$",
+    "answerChoices": []
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "229583598",
+    "timeSpentVideo": "79163376",
+    "submissions": 583,
+    "submissionsCorrect": 188,
+    "accuracy": 0.32246998284734135,
+    "difficulty": 0.9015373352855052
+  },
+  "resources": [
+    {
+      "id": "10bb372d-d36f-45cb-833d-260040370ce5",
+      "type": "CODE",
+      "data": {
+        "content": "let n be a positive integer\nsum = 0\nfor (i = n, i > 0, i = i / 3)\n    for (j = 1, j < i * n, j = j * 2)\n        sum = sum + 1\n    end for\nend for",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3dd0f663-42a8-4b06-9ed7-35ef944aa55e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1370169375",
+      "timeSpentVideo": "255011060",
+      "submissions": 3968,
+      "submissionsCorrect": 2614,
+      "questions": 11,
+      "accuracy": 0.6587701612903226,
+      "difficulty": 0.5951327433628318
+    }
+  },
+  "explanation": {
+    "id": "b20e0a04-0c5f-4f3d-8bca-000d05e00a0a",
+    "body": null,
+    "questionId": "3dd0f663-42a8-4b06-9ed7-35ef944aa55e",
+    "resources": [
+      {
+        "id": "b5a9a5d8-70ac-483b-bbb7-ae858e9a7cbc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/5uU8q5Ec3yU?t=1448"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b20e0a04-0c5f-4f3d-8bca-000d05e00a0a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

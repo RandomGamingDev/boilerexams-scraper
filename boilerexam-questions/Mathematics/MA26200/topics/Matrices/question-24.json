@@ -1,0 +1,143 @@
+{
+  "id": "68f4224b-bbde-4297-800e-43cf98321f9e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t)\\end{array}\\right]$ be the solution of the initial value problem\n\n\n\\[\n\\left[\\begin{array}{l}\nx_{1}^{\\prime}(t) \\\\\nx_{2}^{\\prime}(t)\n\\end{array}\\right]=\\left[\\begin{array}{cc}\n1 & -1 \\\\\n2 & 4\n\\end{array}\\right]\\left[\\begin{array}{l}\nx_{1}(t) \\\\\nx_{2}(t)\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\nx_{1}(0) \\\\\nx_{2}(0)\n\\end{array}\\right]=\\left[\\begin{array}{c}\n-4 \\\\\n1\n\\end{array}\\right]\n\\]\n\nFind $\\left[\\begin{array}{l}x_{1}(1) \\\\ x_{2}(1)\\end{array}\\right]$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "69693470-7eef-4c23-afe0-fc0cafae0a9f",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{c}7 e^{2}-3 e^{3} \\\\ -7 e^{2}+6 e^{3}\\end{array}\\right]$",
+        "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "c70e1e84-6a97-4f8e-bdb2-cc4e61b4f1db",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{c}-7 e^{2}+3 e^{3} \\\\ 7 e^{2}-6 e^{3}\\end{array}\\right]$",
+        "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+        "stats": {
+          "count": 292
+        },
+        "resources": []
+      },
+      {
+        "id": "74900f4d-972a-419f-a658-683d6b92f108",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{c}e^{2}+e^{3} \\\\ -e^{2}-2 e^{3}\\end{array}\\right]$",
+        "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "b5890582-8bcb-4ae5-a0ea-19df29a1093f",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{c}-e^{2}-e^{3} \\\\ e^{2}+2 e^{3}\\end{array}\\right]$",
+        "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "1ceef75a-0f4c-47e0-bfa8-d3e107d37cff",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{c}-2 e^{-4}-3 e \\\\ 2 e^{-4}+6 e\\end{array}\\right]$",
+        "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "191535138",
+    "timeSpentVideo": "37912184",
+    "submissions": 683,
+    "submissionsCorrect": 292,
+    "accuracy": 0.42752562225475843,
+    "difficulty": 0.8132183908045977
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "4f2f519d-b2ac-4bb4-9ec1-5e7b32c47a9c",
+    "body": "",
+    "questionId": "68f4224b-bbde-4297-800e-43cf98321f9e",
+    "resources": [
+      {
+        "id": "86a753e9-a31f-4010-af54-73e2a1545d9b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=O6CCAgAuB2g9Zd44&t=4418\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f2f519d-b2ac-4bb4-9ec1-5e7b32c47a9c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

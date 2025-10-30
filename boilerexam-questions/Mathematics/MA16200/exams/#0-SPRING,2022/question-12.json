@@ -1,0 +1,143 @@
+{
+  "id": "154c59df-1a7a-4947-948b-67b01054d9c6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the improper integral if it converges. If it does not converge, state that it diverges.\n\n\n\n\\[\n\\int_{0}^{\\pi / 2} \\tan (\\theta) d \\theta\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7ba956a7-3664-48ed-aed3-6fc5cfc8c4dc",
+        "index": 0,
+        "body": "$\\pi$",
+        "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "ff587cf1-1461-4878-a977-cad5f594e37e",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+        "stats": {
+          "count": 293
+        },
+        "resources": []
+      },
+      {
+        "id": "f5b98a58-a2a2-4788-bb79-5c7657660b9d",
+        "index": 2,
+        "body": "$\\pi / 2$",
+        "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "47467a21-9518-4582-a0d2-a30946d0c7e7",
+        "index": 3,
+        "body": "The integral diverges.",
+        "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+        "stats": {
+          "count": 3020
+        },
+        "resources": []
+      },
+      {
+        "id": "d406439a-df37-4e56-9961-d6a19627ce23",
+        "index": 4,
+        "body": "$2 \\pi$",
+        "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "510663062",
+    "timeSpentVideo": "34921327",
+    "submissions": 4051,
+    "submissionsCorrect": 3020,
+    "accuracy": 0.7454949395211059,
+    "difficulty": 0.510419176102144
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "590ccb24-8eba-4601-aa02-a14f01496478",
+    "body": "",
+    "questionId": "154c59df-1a7a-4947-948b-67b01054d9c6",
+    "resources": [
+      {
+        "id": "4595fcce-d508-4082-ba73-66dd97580f0f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/E9OXgxHncdE?t=1718\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "590ccb24-8eba-4601-aa02-a14f01496478",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0f35fb89-57ce-4c77-8e90-dfcc55f1c6ce",
+      "name": "Improper Integral",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14329891277",
+        "timeSpentVideo": "894017817",
+        "submissions": 35492,
+        "submissionsCorrect": 21862,
+        "questions": 9,
+        "accuracy": 0.6159697960103685,
+        "difficulty": 0.6343560350640594
+      }
+    }
+  ],
+  "children": []
+}

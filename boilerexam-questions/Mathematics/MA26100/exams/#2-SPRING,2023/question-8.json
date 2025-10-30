@@ -1,0 +1,143 @@
+{
+  "id": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Reverse the order of integration in the following iterated integral and evaluate.\n\\[\n\\int_{0}^{2 \\sqrt{\\ln 3}} \\int_{y / 2}^{\\sqrt{\\ln 3}} e^{x^{2}} \\, dx \\, dy\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "3fee98bf-cc59-43f8-aa7a-2c197c83add6",
+        "index": 0,
+        "body": "$80$",
+        "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "342a6bcd-9932-49bc-83c0-1c8f63a91b39",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+        "stats": {
+          "count": 424
+        },
+        "resources": []
+      },
+      {
+        "id": "09000ef7-5d8a-403c-9777-8d7e0dea27c6",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "de15e9c7-f8df-4c46-8c2a-869aa5a6e143",
+        "index": 3,
+        "body": "$e^{3}$",
+        "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "261d7fb4-a1b8-4fea-9c8e-eac305c97047",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+        "stats": {
+          "count": 2248
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "960672744",
+    "timeSpentVideo": "172618251",
+    "submissions": 4111,
+    "submissionsCorrect": 2248,
+    "accuracy": 0.5468255898808075,
+    "difficulty": 0.7042863927808122
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "1e422d17-2685-4942-a11d-0cbd0f99dff9",
+    "body": "",
+    "questionId": "aca9c59e-5654-47a0-aa4f-3471198a7c3b",
+    "resources": [
+      {
+        "id": "9f814f10-b0cf-4cdd-a10d-049f35cfb106",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=z48Jf9NO2FV3i3HB&t=1543"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1e422d17-2685-4942-a11d-0cbd0f99dff9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

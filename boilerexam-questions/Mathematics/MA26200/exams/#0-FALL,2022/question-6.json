@@ -1,0 +1,128 @@
+{
+  "id": "011349ca-0fad-4039-9975-ae94f3232158",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{lll}a & b & c \\\\ d & e & f \\\\ g & h & i\\end{array}\\right]$. If $\\operatorname{Det} A=10$ and if $B=\\left[\\begin{array}{ccc}2 a & 3 b & (c+5 a) \\\\ 2 d & 3 e & (f+5 d) \\\\ 2 g & 3 h & (i+5 g)\\end{array}\\right]$, then",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e025a39c-8da4-49b6-aef5-166b219677df",
+        "index": 0,
+        "body": "$\\operatorname{Det} B=10$",
+        "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "64ca81d1-53d8-4733-973e-a07b06fe6001",
+        "index": 1,
+        "body": "Det $B=20$",
+        "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "af4315c5-5847-4879-ba3f-9e5956d5dbe9",
+        "index": 2,
+        "body": "$\\operatorname{Det} B=40$",
+        "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "38fd9de6-8d69-4346-9f1b-4ad59bc243e6",
+        "index": 3,
+        "body": "$\\operatorname{Det} B=60$",
+        "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+        "stats": {
+          "count": 239
+        },
+        "resources": []
+      },
+      {
+        "id": "eb96845f-b2dc-4fd8-91dc-29d3f448bdc7",
+        "index": 4,
+        "body": "$\\operatorname{Det} B=80$",
+        "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "53910838",
+    "timeSpentVideo": "0",
+    "submissions": 263,
+    "submissionsCorrect": 237,
+    "accuracy": 0.9011406844106464,
+    "difficulty": 0.459366391184573
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "0c51fb96-276c-4891-91a4-d2ecb6fa8502",
+    "body": "",
+    "questionId": "011349ca-0fad-4039-9975-ae94f3232158",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "a17f45d6-93d0-4d01-833f-b343dddb6836",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Show the steps of Kosaraju\u2019s algorithm to find the Strongly Connected Components of the graph below. You should assume that the adjacency list for each node is given in numerical order e.g., the adjacency list for node 10 is {0, 8} and the adjacency list for node 0 is {3, 5}.",
+    "solution": "Step 1: Perform DFS on Original Graph\nDFS(0)\n  DFS(3)\n    DFS(8)\n      DFS(9)\n        DFS(2)\n          DFS(7)\n            *8 already visited*\n            DFS(11)\n              *2 already visited*\n              *9 already visited*\n    DFS(10)\n      *0 already visited*\n      *8 already visited*\n  DFS(5)\n    *11 already visited*\nConstruct stack in order finishing times such that stack is in the order: 11, 7, 2, 9, 8, 10, 3, 5, 0\nStep 2: Reverse the edge directions for the transposed graph\nStep 3: Perform DFS on transposed graph in reverse order of finish times (from the end of the stack first)\nDFS(0)\n  DFS(10)\n    DFS(3)\n      *0 already visited*\nDFS(5)\n  *0 already visited*\n*3 already visited*\n*10 already visited*\nDFS(8)\n  *3 already visited*\n  DFS(7)\n    DFS(2)\n      DFS(9)\n        *8 already visited*\n        DFS(11)\n          *5 already visited*\n          *7 already visited*\n      *11 already visited*\n  *10 already visited*\n*9 already visited*\n*2 already visited*\n*7 already visited*\n*11 already visited*\nThus the connected components are: (0,3,10), (5), and (2,7,8,9,11)",
+    "answerChoices": []
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "93664453",
+    "timeSpentVideo": "0",
+    "submissions": 384,
+    "submissionsCorrect": 297,
+    "accuracy": 0.7734375,
+    "difficulty": 0.5330578512396694
+  },
+  "resources": [
+    {
+      "id": "3a3c0650-3e97-4141-9f04-12cd505d1b97",
+      "type": "IMAGE",
+      "data": {
+        "key": "BbZS4l4Ra7ZiIQlUc-WcT",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/BbZS4l4Ra7ZiIQlUc-WcT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "a17f45d6-93d0-4d01-833f-b343dddb6836",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "ddff1490-b960-4a79-8e0f-9fd6e8703c94",
+    "body": null,
+    "questionId": "a17f45d6-93d0-4d01-833f-b343dddb6836",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "de8717d8-8db0-46d4-b0c9-e6e19ffa1ec6",
+      "name": "Kosarajus Algorithm",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "148384276",
+        "timeSpentVideo": "0",
+        "submissions": 384,
+        "submissionsCorrect": 297,
+        "questions": 1,
+        "accuracy": 0.7734375,
+        "difficulty": 0.5330578512396694
+      }
+    }
+  ],
+  "children": []
+}

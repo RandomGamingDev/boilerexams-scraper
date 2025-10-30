@@ -1,0 +1,149 @@
+{
+  "id": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the correct way to call <font style=\"font-family:'Courier New'\">udf</font> with the array <font style=\"font-family:'Courier New'\">x</font> as the only argument on line #10?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f1b948b4-5670-4626-87a9-0a81678fe405",
+        "index": 0,
+        "body": "udf(x[5]);",
+        "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+        "stats": {
+          "count": 180
+        },
+        "resources": []
+      },
+      {
+        "id": "b8043d88-b33c-4e01-bb2e-ed8a5579d786",
+        "index": 1,
+        "body": "udf(x[]);",
+        "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "87bb3c03-414a-4e2e-928f-e7c54743ce5b",
+        "index": 2,
+        "body": "udf(x);",
+        "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+        "stats": {
+          "count": 1017
+        },
+        "resources": []
+      },
+      {
+        "id": "8fcaf888-da57-4b95-9ff3-0bf9e905788d",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 32,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "47584210",
+    "timeSpentVideo": "17154919",
+    "submissions": 1722,
+    "submissionsCorrect": 1017,
+    "accuracy": 0.5905923344947736,
+    "difficulty": 0.6643798024149287
+  },
+  "resources": [
+    {
+      "id": "d50d75ea-962e-4a69-9d66-9b6df6ff4d8a",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 7\n\n/* Problem #31 */\n\nint main(void)\n{\n  int x[6] = {6, 5, 4, 3, 2, 1};\n\n  /* Problem #32 */\n\n  printf(\"x[5]: %d\\n\", x[5]);\n\n  return (0);\n}\n\nvoid udf(int y[])\n{\n  int i;\n\n  for (i = 1; i < 6; ++i)\n  {\n    y[i] *= y[i - 1];\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "1a393231-5dbc-4bc9-ab35-8a8897a3a4c9",
+    "body": "",
+    "questionId": "70fdf2b1-3b35-45c9-8626-388ee25b6701",
+    "resources": [
+      {
+        "id": "119ebcbf-9e18-4ba6-8bf3-13e744e505cb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=5421"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1a393231-5dbc-4bc9-ab35-8a8897a3a4c9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

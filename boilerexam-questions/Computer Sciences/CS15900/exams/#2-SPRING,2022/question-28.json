@@ -1,0 +1,133 @@
+{
+  "id": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following <font style=\"font-family:'Courier New'\">for</font> loops will correctly iterate over every element in an array of size 5?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f1565e3f-f617-40be-96d5-52cd8f549a25",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">for (i = 1; i < 5; i++)</font>",
+        "questionId": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+        "stats": {
+          "count": 226
+        },
+        "resources": []
+      },
+      {
+        "id": "6fed3278-7bae-427a-b572-6cd8c98fe94f",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">for (i = 0; i <= 5; i++</font>",
+        "questionId": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+        "stats": {
+          "count": 211
+        },
+        "resources": []
+      },
+      {
+        "id": "e787f3e4-5717-4bd0-90c2-e45c4d6f9dfb",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">for (i = 0; i <= 4; ++i)</font>",
+        "questionId": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+        "stats": {
+          "count": 1607
+        },
+        "resources": []
+      },
+      {
+        "id": "0c832c38-f037-4399-a782-b7624b170238",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 28,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "73615807",
+    "timeSpentVideo": "11786658",
+    "submissions": 2246,
+    "submissionsCorrect": 1607,
+    "accuracy": 0.7154942119323241,
+    "difficulty": 0.543691389599318
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "16c969bb-1617-45da-a315-e2afa1ff0399",
+    "body": "",
+    "questionId": "4678b3ba-f392-4e63-b6dc-c659bd1ac436",
+    "resources": [
+      {
+        "id": "b75d2383-3ff1-4e41-8554-835d7a70f824",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=4935"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "16c969bb-1617-45da-a315-e2afa1ff0399",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

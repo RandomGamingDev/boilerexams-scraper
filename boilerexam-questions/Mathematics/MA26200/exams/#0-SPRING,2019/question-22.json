@@ -1,0 +1,143 @@
+{
+  "id": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If we use the method of undetermined coefficients, the form of a particular solution to\n\n\n\\[\ny^{\\prime \\prime \\prime}-y^{\\prime \\prime}-y^{\\prime}+y=e^{x}+2 x^{2}\n\\]\n\nis:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3980612e-c4ba-4050-81d5-ebb7a7074e48",
+        "index": 0,
+        "body": "$A e^{x}+B x^{2}+C x+D$",
+        "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "faf54adc-b10d-4a02-b0ab-c0f08247646e",
+        "index": 1,
+        "body": "$A x e^{x}+B x^{2}+C x+D$",
+        "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "ae290bae-9a57-4105-a120-162f3d832225",
+        "index": 2,
+        "body": "$A x^{2} e^{x}+B x^{2}+C x+D$",
+        "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "65b09864-8319-4e4c-b899-134a4ac3cb14",
+        "index": 3,
+        "body": "$A x^{2} e^{x}+B x^{2}$",
+        "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "00406656-a9a7-489d-ab3e-1eab328f33db",
+        "index": 4,
+        "body": "$A x e^{x}+B x^{2}$",
+        "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "144633898",
+    "timeSpentVideo": "59317379",
+    "submissions": 853,
+    "submissionsCorrect": 397,
+    "accuracy": 0.4654161781946073,
+    "difficulty": 0.7809548793284364
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "62b6da96-4bfe-43c9-9f63-91c966a83f76",
+    "body": "",
+    "questionId": "fffac4c5-2cbb-4cf0-9945-59e0fa6531b5",
+    "resources": [
+      {
+        "id": "2498573e-104b-465f-960c-3a6800d4c0b9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=kuSJEwTIebH9hAnL&t=3993\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "62b6da96-4bfe-43c9-9f63-91c966a83f76",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a2d7f9e3-6709-45a9-b68e-6a6a3d37fc69",
+      "name": "Method of Undertermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "929177082",
+        "timeSpentVideo": "59317379",
+        "submissions": 1612,
+        "submissionsCorrect": 946,
+        "questions": 3,
+        "accuracy": 0.586848635235732,
+        "difficulty": 0.6682242990654206
+      }
+    }
+  ],
+  "children": []
+}

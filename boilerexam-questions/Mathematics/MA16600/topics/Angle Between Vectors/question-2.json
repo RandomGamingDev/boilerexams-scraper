@@ -1,0 +1,158 @@
+{
+  "id": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $\\lvert \\vec{u} \\rvert$ = 3, $\\lvert \\vec{v} \\rvert$ = 5 and the angle between $\\vec{u}$ and $\\vec{v}$ is $\\pi/3$, find $\\lvert \\vec{u} + \\vec{v} \\rvert$. \n(Hint: You may use $\\lvert \\vec{u} + \\vec{v} \\rvert^2 = (\\vec{u} + \\vec{v}) \\cdot (\\vec{u} + \\vec{v})$.)",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "bab4b651-4c96-4ef4-8b2e-2271b7dff130",
+        "index": 0,
+        "body": "3",
+        "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "06e09942-cf50-4708-992a-204170c57693",
+        "index": 1,
+        "body": "5",
+        "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "494a3de2-d7a1-4a86-89fd-1774090b61aa",
+        "index": 2,
+        "body": "7",
+        "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "b804a328-8024-4e5e-ae84-24c861988b3b",
+        "index": 3,
+        "body": "9",
+        "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "175fbc9c-789a-4355-a832-f874b9cc0cc2",
+        "index": 4,
+        "body": "11",
+        "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "22708990",
+    "timeSpentVideo": "4437307",
+    "submissions": 96,
+    "submissionsCorrect": 48,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "172622659",
+      "timeSpentVideo": "15425885",
+      "submissions": 780,
+      "submissionsCorrect": 456,
+      "questions": 12,
+      "accuracy": 0.5846153846153846,
+      "difficulty": 0.675
+    }
+  },
+  "explanation": {
+    "id": "473256c3-1e29-4c4e-a338-4e6db94bc073",
+    "body": null,
+    "questionId": "ff9b226e-43f8-4d8f-8cbd-71dc8ef6b25c",
+    "resources": [
+      {
+        "id": "0477e489-aed7-4ef4-9303-cbf6840efd29",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/mOcl8_sNs7M?si=I19szpaa0nAkC-qj&t=294"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "473256c3-1e29-4c4e-a338-4e6db94bc073",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "588022af-7a15-406c-9cc2-dfa91a445dc1",
+      "name": "Angle Between Vectors",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "81759540",
+        "timeSpentVideo": "4437307",
+        "submissions": 96,
+        "submissionsCorrect": 48,
+        "questions": 1,
+        "accuracy": 0.5,
+        "difficulty": 0.75
+      }
+    },
+    {
+      "id": "8c85d8e3-db65-4216-9463-a4d4a7f3f7be",
+      "name": "Dot Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "216004070",
+        "timeSpentVideo": "7037827",
+        "submissions": 225,
+        "submissionsCorrect": 124,
+        "questions": 3,
+        "accuracy": 0.5511111111111111,
+        "difficulty": 0.7146153846153847
+      }
+    }
+  ],
+  "children": []
+}

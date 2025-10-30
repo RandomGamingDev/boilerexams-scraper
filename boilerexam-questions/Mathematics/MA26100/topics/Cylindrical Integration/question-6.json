@@ -1,0 +1,143 @@
+{
+  "id": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\displaystyle \\iiint_{D} 2z\\,dV$, where $D$ is the region between $z=\\sqrt{4+x^{2}+y^{2}}$ and $z=\\sqrt{12-x^{2}-y^{2}}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "07ed9eb0-18cf-405c-9b42-adb5564f0b50",
+        "index": 0,
+        "body": "$16 \\pi$",
+        "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+        "stats": {
+          "count": 3119
+        },
+        "resources": []
+      },
+      {
+        "id": "1d63b35d-a833-4e01-bb32-a29eb9a8ba7f",
+        "index": 1,
+        "body": "$8 \\pi$",
+        "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      },
+      {
+        "id": "74dba7ff-2485-4b1c-8c25-4778177e22d2",
+        "index": 2,
+        "body": "$4 \\pi$",
+        "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "0d14f09a-cb96-4b6c-9ccd-3c69fbd1ee87",
+        "index": 3,
+        "body": "$\\frac{16 \\pi}{3}$",
+        "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+        "stats": {
+          "count": 232
+        },
+        "resources": []
+      },
+      {
+        "id": "6aaab816-2761-47f4-b5a7-cfc8488b668e",
+        "index": 4,
+        "body": "$\\frac{32 \\pi}{3}$",
+        "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+        "stats": {
+          "count": 328
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1919233715",
+    "timeSpentVideo": "378434844",
+    "submissions": 6355,
+    "submissionsCorrect": 3119,
+    "accuracy": 0.4907946498819827,
+    "difficulty": 0.7590627420604183
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "f1716659-67c1-4a4f-899e-ff6957e940d4",
+    "body": "",
+    "questionId": "66a1484f-b76d-44ce-bb26-d6fcbbc07d58",
+    "resources": [
+      {
+        "id": "8b601cfe-ac9f-4375-8457-f605bcbc68e8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=508"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f1716659-67c1-4a4f-899e-ff6957e940d4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

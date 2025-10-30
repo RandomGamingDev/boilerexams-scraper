@@ -1,0 +1,143 @@
+{
+  "id": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "( $8$ points) Let $A$ be a $4 \\times 5$ matrix and $B$ be its reduced row echelon form. Which of the following statement(s) must be true?\n\n\n\n(i) The pivot columns of $B$ form a basis for $\\operatorname{Col} A$.\n\n(ii) The nonzero rows of $B$ form a basis for Row $A$.\n\n(iii) Rank $A$ could be any integer from $0$ to $5$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "e18ca377-a74d-4c43-bbe8-0333d1e4649e",
+        "index": 0,
+        "body": "(i) only",
+        "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+        "stats": {
+          "count": 156
+        },
+        "resources": []
+      },
+      {
+        "id": "bbc7fde2-2e47-4af2-b411-7e1729148dd0",
+        "index": 1,
+        "body": "(ii) only",
+        "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+        "stats": {
+          "count": 652
+        },
+        "resources": []
+      },
+      {
+        "id": "12e05320-2d6d-4f09-82aa-a6647e04ba03",
+        "index": 2,
+        "body": "(iii) only",
+        "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "ba76786d-e7d6-4656-95f1-1adcf418906c",
+        "index": 3,
+        "body": "(i), (ii), and (iii)",
+        "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+        "stats": {
+          "count": 198
+        },
+        "resources": []
+      },
+      {
+        "id": "afe08f30-4525-4e42-8b7b-38eea1d4f15f",
+        "index": 4,
+        "body": "none of the above",
+        "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "128020354",
+    "timeSpentVideo": "86983811",
+    "submissions": 1197,
+    "submissionsCorrect": 652,
+    "accuracy": 0.5446950710108605,
+    "difficulty": 0.7087509637625289
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "9e164f79-889e-452a-bad4-386136d81e91",
+    "body": "",
+    "questionId": "8700b9aa-dc44-46e2-8e79-1c04be9f9526",
+    "resources": [
+      {
+        "id": "745a7995-c3d3-41ef-b1b1-485e59e4504b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=Wx1_qeDMxfMKzTuQ&t=519\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9e164f79-889e-452a-bad4-386136d81e91",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

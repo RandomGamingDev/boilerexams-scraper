@@ -1,0 +1,128 @@
+{
+  "id": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution of the differential equation\n\n\n\\[\ny^{\\prime \\prime \\prime}-2 y^{\\prime \\prime}+y^{\\prime}-2 y=2 e^{t}+4\n\\]\n\nis",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d6140b5b-fe74-4bcd-b827-b7c5bce5c6e1",
+        "index": 0,
+        "body": "$e^{2 t}+\\cos t+\\sin t-e^{t}+2$",
+        "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "ec2fed68-cb71-44b0-aca3-1fad8960ef56",
+        "index": 1,
+        "body": "$c_{1} e^{t}+c_{2} \\cos 2 t+c_{3} \\sin 2 t+e^{t}-2$",
+        "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "ceefafef-8596-4713-ba61-00abd76ca4c9",
+        "index": 2,
+        "body": "$c_{1} e^{2 t}+c_{2} \\cos 2 t+c_{3} \\sin 2 t+e^{t}+2$",
+        "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "cd8a13e6-5467-481a-8773-7f21cfb3e595",
+        "index": 3,
+        "body": "$c_{1} e^{2 t}+c_{2} \\cos t+c_{3} \\sin t-e^{t}-2$",
+        "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+        "stats": {
+          "count": 310
+        },
+        "resources": []
+      },
+      {
+        "id": "eb0ed748-d4a9-4885-a445-bfe971e4a7f8",
+        "index": 4,
+        "body": "$c_{1} e^{t}+c_{2} \\cos t+c_{3} \\sin t$",
+        "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "143091212",
+    "timeSpentVideo": "0",
+    "submissions": 425,
+    "submissionsCorrect": 310,
+    "accuracy": 0.7294117647058823,
+    "difficulty": 0.5642857142857143
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "f48a176b-c905-4ba0-90df-c9e6e552c9a8",
+    "body": "",
+    "questionId": "1dff0122-1ee8-4b86-94a4-499332713a3d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "2a7130fc-7d8b-4b3c-9a56-1597eba01cf1",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the following matrix\n\n\\[ A= \\begin{bmatrix}\n1 & 0 & -5 & 1 & 4\\\\\n-2 & 1 & 6 & -2 & -2\\\\\n0 & 2 & -8 & 1 & 9\n\\end{bmatrix}\\]\n\n(1) Find the REDUCED row echelon form for the matrix $A$. \n\n(2) Find a basis for the null space of $A$. \n\n(3) Find a basis for the column space of $A$. ",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "161104085",
+    "timeSpentVideo": "30586565",
+    "submissions": 569,
+    "submissionsCorrect": 229,
+    "accuracy": 0.4024604569420035,
+    "difficulty": 0.8329596412556054
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "acc9bd3e-5b6d-4bd5-bcb2-d70bed674f9c",
+    "body": null,
+    "questionId": "2a7130fc-7d8b-4b3c-9a56-1597eba01cf1",
+    "resources": [
+      {
+        "id": "ac6b3efc-73e3-4db7-973d-8458f6fe9729",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?si=14vA1nuKSw7uUl0L&t=1750"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "acc9bd3e-5b6d-4bd5-bcb2-d70bed674f9c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

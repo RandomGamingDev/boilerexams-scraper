@@ -1,0 +1,153 @@
+{
+  "id": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area of the surface obtained by rotating the curve $y=\\frac{x^{3}}{3}$ about the $x$-axis, for $0 \\leq x \\leq \\sqrt[4]{3}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "05c97fc2-0749-49ae-90ef-c7532aa14e41",
+        "index": 0,
+        "body": "$\\pi \\cdot 3^{-13 / 8}$",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "5e47cdef-b1ba-47ba-80a3-03c595246325",
+        "index": 1,
+        "body": "$\\frac{\\pi}{24}$",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "17e9205f-3fc9-4c76-84d7-ab1cf0497674",
+        "index": 2,
+        "body": "$\\frac{7 \\pi}{9}$",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 1612
+        },
+        "resources": []
+      },
+      {
+        "id": "963b8145-bcf0-42bd-bc59-34f173ea940b",
+        "index": 3,
+        "body": "$\\frac{8 \\pi}{9}$",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 254
+        },
+        "resources": []
+      },
+      {
+        "id": "c1e7849b-4ab1-4781-9069-90786d360f59",
+        "index": 4,
+        "body": "$(\\sqrt[4]{3} \\sqrt{1+\\sqrt{3}}) \\pi$",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "dd854f26-ceb0-4f6f-9eb2-625bdb152dd8",
+        "index": 5,
+        "body": "$[\\sqrt[4]{3} \\sqrt{1+\\sqrt{3}}+\\ln (\\sqrt{1+\\sqrt{3}}+\\sqrt[4]{3})] \\pi$ ",
+        "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "fd7fa488-b09e-424a-8d14-666f46174e55",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "827290604",
+    "timeSpentVideo": "77761502",
+    "submissions": 2896,
+    "submissionsCorrect": 1612,
+    "accuracy": 0.5566298342541437,
+    "difficulty": 0.695260347129506
+  },
+  "resources": [],
+  "exam": {
+    "id": "fd7fa488-b09e-424a-8d14-666f46174e55",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7484783483",
+      "timeSpentVideo": "775932840",
+      "submissions": 38477,
+      "submissionsCorrect": 23785,
+      "questions": 12,
+      "accuracy": 0.618161499077371,
+      "difficulty": 0.632144801306478
+    }
+  },
+  "explanation": {
+    "id": "1c2c45ef-a5e5-483d-bb9c-87ae32d789be",
+    "body": "",
+    "questionId": "37a923b9-75fa-4c40-a03c-2df0dcf410eb",
+    "resources": [
+      {
+        "id": "33d3923f-0a32-4d8d-b59b-50faffdeb128",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/raWrDy_ILgY?t=1053 "
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1c2c45ef-a5e5-483d-bb9c-87ae32d789be",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5e1d381f-93d4-4aaa-94c0-8bd2e7425845",
+      "name": "Surface Area of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5731747357",
+        "timeSpentVideo": "214919653",
+        "submissions": 12287,
+        "submissionsCorrect": 7775,
+        "questions": 4,
+        "accuracy": 0.632782615772768,
+        "difficulty": 0.6182893355937676
+      }
+    }
+  ],
+  "children": []
+}

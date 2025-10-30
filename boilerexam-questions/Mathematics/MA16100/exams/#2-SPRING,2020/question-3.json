@@ -1,0 +1,143 @@
+{
+  "id": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The function\n\n\\[\nG(x)= \\begin{cases}x-5 & x<2 \\\\ -5 & x=2 \\\\ 5x-13 & x>2\\end{cases}\n\\]\n\nis NOT continuous at $x=2$ because",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "84afe116-2bad-4234-af9a-b23e2e71f937",
+        "index": 0,
+        "body": "$G(2)$ is not defined",
+        "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "6c478f23-679b-4104-b890-70c38d03e182",
+        "index": 1,
+        "body": "$\\lim _{x \\rightarrow 2} G(x)$ does not exist",
+        "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+        "stats": {
+          "count": 220
+        },
+        "resources": []
+      },
+      {
+        "id": "cea56090-8a7f-4045-b596-cd6712f4219f",
+        "index": 2,
+        "body": "$\\lim _{x \\rightarrow 2} \\neq G(2)$",
+        "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+        "stats": {
+          "count": 791
+        },
+        "resources": []
+      },
+      {
+        "id": "827ccf3c-68b9-4f85-b179-cdcddf709557",
+        "index": 3,
+        "body": "$G(2) \\neq -5$",
+        "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "95e2ac15-1469-4f69-874b-556bc57d1b71",
+        "index": 4,
+        "body": "There is a vertical asymptote at $x=2$",
+        "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "87903523",
+    "timeSpentVideo": "20664458",
+    "submissions": 1195,
+    "submissionsCorrect": 791,
+    "accuracy": 0.6619246861924686,
+    "difficulty": 0.6005791505791506
+  },
+  "resources": [],
+  "exam": {
+    "id": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1770975501",
+      "timeSpentVideo": "298645152",
+      "submissions": 11631,
+      "submissionsCorrect": 7465,
+      "questions": 12,
+      "accuracy": 0.6418192760725647,
+      "difficulty": 0.609389651351121
+    }
+  },
+  "explanation": {
+    "id": "a5876d47-9740-4a4c-a949-4418980fa40b",
+    "body": "",
+    "questionId": "cfe1209c-2679-4e47-aa72-79ead8165f6e",
+    "resources": [
+      {
+        "id": "6459fc79-acb7-43e6-9f6e-b9664bc287f0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/clRJJDp2Mg0?t=282"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a5876d47-9740-4a4c-a949-4418980fa40b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d593713c-e018-41a9-b461-b2dc9aea4a57",
+      "name": "Continuity",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3633929088",
+        "timeSpentVideo": "270041052",
+        "submissions": 11907,
+        "submissionsCorrect": 8253,
+        "questions": 8,
+        "accuracy": 0.6931216931216931,
+        "difficulty": 0.5584867160822853
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $T: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{2}$ is a linear transformation and $A=\\left[\\begin{array}{ll}1 & 1 \\\\ 0 & 2\\end{array}\\right]$ is the standard matrix for $T$. Let $\\mathbf{u}=\\left[\\begin{array}{c}-1 \\\\ 1\\end{array}\\right], \\mathbf{v}=\\left[\\begin{array}{l}1 \\\\ 2\\end{array}\\right]$. Consider the following statements:\n(i) $T(\\mathbf{u})=\\left[\\begin{array}{c}-1 \\\\ 1\\end{array}\\right]$,\n(ii) $T(2 \\mathbf{u}+\\mathbf{v})=2 T(\\mathbf{u})+T(\\mathbf{v})$,\n(iii) $T(\\mathbf{x})=A \\mathbf{x}$ for any $\\mathbf{x} \\in \\mathbb{R}^{2}$.\n\n\nWhich of the above statements is/are true?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "73b7dad0-437e-4d5d-8354-a320f150e26b",
+        "index": 0,
+        "body": "(i) only",
+        "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "fd0e5950-b11e-48c6-b84b-f3396a5680fd",
+        "index": 1,
+        "body": "(i) and (ii) only",
+        "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "b533a79a-1b86-45ff-abce-1bc68fc600b2",
+        "index": 2,
+        "body": "(ii) and (iii) only",
+        "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      },
+      {
+        "id": "9504b503-6307-43b4-a47c-b15479d79ca8",
+        "index": 3,
+        "body": "(iii) only",
+        "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "5f6292e7-7f91-4f72-acc7-7716518b21b3",
+        "index": 4,
+        "body": "(i), (ii), and (iii)",
+        "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "52414843",
+    "timeSpentVideo": "30958310",
+    "submissions": 406,
+    "submissionsCorrect": 193,
+    "accuracy": 0.4753694581280788,
+    "difficulty": 0.7697628458498024
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "d135c822-764d-4887-813a-8ea37934db20",
+    "body": "",
+    "questionId": "02c9f1cd-2a1a-46b1-897e-72fffb9538a8",
+    "resources": [
+      {
+        "id": "cae62bad-8e74-46fe-84dd-6cc43b87b06e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=BBK800Z5lK7nahg4&t=2070\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d135c822-764d-4887-813a-8ea37934db20",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d73acaab-566a-4ec1-be75-3ce2df6df65f",
+      "name": "Linear Transformation",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1453127788",
+        "timeSpentVideo": "142777332",
+        "submissions": 2940,
+        "submissionsCorrect": 1638,
+        "questions": 4,
+        "accuracy": 0.5571428571428572,
+        "difficulty": 0.6947368421052632
+      }
+    }
+  ],
+  "children": []
+}

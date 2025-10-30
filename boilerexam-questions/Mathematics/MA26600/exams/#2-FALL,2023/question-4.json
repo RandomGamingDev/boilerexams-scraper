@@ -1,0 +1,143 @@
+{
+  "id": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the linear system:\n\\[\n    x' = \\begin{bmatrix} 0 & 1 \\\\ c & -2 \\end{bmatrix} x,\n\\]\nfind all values of the parameter $c$ such that the origin is a spiral sink.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "588c7368-bc65-4d80-a125-2213e376a947",
+        "index": 0,
+        "body": "$c < -1$",
+        "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+        "stats": {
+          "count": 477
+        },
+        "resources": []
+      },
+      {
+        "id": "6826b91f-8866-4d9c-9bc7-42b31a55407a",
+        "index": 1,
+        "body": "$-1 < c < 0$",
+        "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "bedb01c2-db23-4bf0-82a8-28a8cd944470",
+        "index": 2,
+        "body": " $c > 0$",
+        "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "a6c3d61f-14fd-4dc8-baad-1982bbea2d03",
+        "index": 3,
+        "body": "$c = -1$",
+        "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "b932105d-5a63-4405-a17f-9273544c9810",
+        "index": 4,
+        "body": "$c = 0$",
+        "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105716363",
+    "timeSpentVideo": "5337524",
+    "submissions": 648,
+    "submissionsCorrect": 477,
+    "accuracy": 0.7361111111111112,
+    "difficulty": 0.5454545454545454
+  },
+  "resources": [],
+  "exam": {
+    "id": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1199070678",
+      "timeSpentVideo": "191535939",
+      "submissions": 5888,
+      "submissionsCorrect": 3542,
+      "questions": 10,
+      "accuracy": 0.6015625,
+      "difficulty": 0.6501336005344022
+    }
+  },
+  "explanation": {
+    "id": "c2235375-5047-48c4-b71e-50ca910e1dff",
+    "body": null,
+    "questionId": "1fa87e6f-6687-4df7-8320-b328552c5d53",
+    "resources": [
+      {
+        "id": "9009e40c-e47a-4250-9b21-fcb061ac6f3c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UkUn64QYxRg?si=uVUYaqwgskybbPAi&t=1272"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c2235375-5047-48c4-b71e-50ca910e1dff",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

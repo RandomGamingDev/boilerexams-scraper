@@ -1,0 +1,143 @@
+{
+  "id": "ac709dd3-1094-44ce-87a4-81735a551292",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $\\cos (x+y)=y^{2} \\sin (x)$ then $\\frac{d y}{d x}=$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1af309ef-445d-4208-8da4-6f30c1171196",
+        "index": 0,
+        "body": "$\\frac{-y^{2} \\cos (x)}{2 y \\sin (x)+\\sin (x+y)}$",
+        "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+        "stats": {
+          "count": 185
+        },
+        "resources": []
+      },
+      {
+        "id": "455b40be-bf04-4055-ae77-852cbdbb2348",
+        "index": 1,
+        "body": "$\\frac{-y^{2} \\cos (x)-\\sin (x+y)}{2 y \\sin (x)+\\sin (x+y)}$",
+        "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+        "stats": {
+          "count": 606
+        },
+        "resources": []
+      },
+      {
+        "id": "fae773b5-4c24-4f53-8246-a1c56e7517f0",
+        "index": 2,
+        "body": "$\\frac{-y^{2} \\cos (x)-\\sin (x+y)}{2 y \\sin (x)}$",
+        "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "21b4398f-831d-4659-aeca-cc0fe733dafd",
+        "index": 3,
+        "body": "$\\frac{2 y \\sin (x)+y^{2} \\cos (x)}{-\\sin (x+y)}$",
+        "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "fef68f4f-88e6-4677-9b3f-87939ca2ec0c",
+        "index": 4,
+        "body": "Cannot be determined, since one cannot solve for $y$.",
+        "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "277912191",
+    "timeSpentVideo": "37956209",
+    "submissions": 1140,
+    "submissionsCorrect": 606,
+    "accuracy": 0.531578947368421,
+    "difficulty": 0.7209677419354839
+  },
+  "resources": [],
+  "exam": {
+    "id": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5313299544",
+      "timeSpentVideo": "826163148",
+      "submissions": 30063,
+      "submissionsCorrect": 17013,
+      "questions": 25,
+      "accuracy": 0.5659115856700928,
+      "difficulty": 0.6843069323343168
+    }
+  },
+  "explanation": {
+    "id": "d7080050-5b67-4110-a906-a909d65b362a",
+    "body": "",
+    "questionId": "ac709dd3-1094-44ce-87a4-81735a551292",
+    "resources": [
+      {
+        "id": "9206e9ac-763e-4ed9-8466-47731a3e3422",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/IMxMhKHHFYI?t=1405"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d7080050-5b67-4110-a906-a909d65b362a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "30de54c2-572c-40c8-ba04-210aec3be313",
+      "name": "Implicit Differentiation",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2318071358",
+        "timeSpentVideo": "155618798",
+        "submissions": 4807,
+        "submissionsCorrect": 2960,
+        "questions": 4,
+        "accuracy": 0.6157686706885791,
+        "difficulty": 0.6365905848787446
+      }
+    }
+  ],
+  "children": []
+}

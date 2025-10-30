@@ -1,0 +1,143 @@
+{
+  "id": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following recurrence relations will generate a sequence with $a_{3}=-3$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3ce9dbd9-64c9-45ba-8026-ba3d0936ccdc",
+        "index": 0,
+        "body": "$a_{n+1}=1-2 a_{n} ; a_{1}=1$",
+        "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "cdec2429-ad21-4c98-a2ef-2a275dc0f558",
+        "index": 1,
+        "body": "$a_{n+1}=-a_{n} ; a_{1}=1$",
+        "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "8eac4cb0-106b-4216-accc-eed3b358328d",
+        "index": 2,
+        "body": "$a_{n+1}=a_{n}+1 ; a_{1}=-5$",
+        "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+        "stats": {
+          "count": 1082
+        },
+        "resources": []
+      },
+      {
+        "id": "29cdb026-3f94-4512-ac32-283bbbf5f66c",
+        "index": 3,
+        "body": "$a_{n+1}=-3+a_{n} ; a_{1}=0$",
+        "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "e2069226-a1d6-4dd1-bcb4-83e9ac4c1015",
+        "index": 4,
+        "body": "$a_{n+1}=3 a_{n} ; a_{1}=-1$ ",
+        "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "125760148",
+    "timeSpentVideo": "8222617",
+    "submissions": 1390,
+    "submissionsCorrect": 1083,
+    "accuracy": 0.779136690647482,
+    "difficulty": 0.48959731543624163
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340671717",
+      "timeSpentVideo": "804826486",
+      "submissions": 39511,
+      "submissionsCorrect": 24592,
+      "questions": 12,
+      "accuracy": 0.6224089494064944,
+      "difficulty": 0.6279000782610891
+    }
+  },
+  "explanation": {
+    "id": "be3c8957-08c6-4938-bfb5-da965dd0fc9b",
+    "body": "",
+    "questionId": "73992e8a-a3dd-4c7d-aacc-d9353ccbba64",
+    "resources": [
+      {
+        "id": "ba918456-cbd7-4822-b72a-9aa3b878f72a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=1681\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "be3c8957-08c6-4938-bfb5-da965dd0fc9b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "282be469-4d0e-44d6-843e-80e374ce856c",
+      "name": "Sequence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "13468634952",
+        "timeSpentVideo": "1284285593",
+        "submissions": 38700,
+        "submissionsCorrect": 25204,
+        "questions": 12,
+        "accuracy": 0.651266149870801,
+        "difficulty": 0.5991237113402061
+      }
+    }
+  ],
+  "children": []
+}

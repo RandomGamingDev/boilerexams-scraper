@@ -1,0 +1,143 @@
+{
+  "id": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=2 x^{2}+4$, which of the following is $f^{\\prime}(3)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8d028bc5-2b3a-4a31-bdb2-0b916fd4fad0",
+        "index": 0,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{2(3+h)^{2}-10}{h}$",
+        "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "d7fb63c1-30ad-4969-bd2a-c576d0cdae72",
+        "index": 1,
+        "body": "$\\lim _{x \\rightarrow 3} \\frac{2 x^{2}-18}{x-3}$",
+        "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+        "stats": {
+          "count": 552
+        },
+        "resources": []
+      },
+      {
+        "id": "9ebe966c-3940-4c9f-92af-79d1e80f276b",
+        "index": 2,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{2(3+h)^{2}+18}{h}$",
+        "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+        "stats": {
+          "count": 297
+        },
+        "resources": []
+      },
+      {
+        "id": "cb747925-645c-48e9-b0e4-35ba1cfc549f",
+        "index": 3,
+        "body": "$\\lim _{x \\rightarrow 3} \\frac{2 x^{2}+18 x}{x-3}$",
+        "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "505b85ec-30c7-46d9-9038-58f5be44ac12",
+        "index": 4,
+        "body": "$\\lim _{h \\rightarrow 0} \\frac{2 h^{2}-18}{h-3}$",
+        "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "206740090",
+    "timeSpentVideo": "54853186",
+    "submissions": 1247,
+    "submissionsCorrect": 552,
+    "accuracy": 0.44266238973536487,
+    "difficulty": 0.8030809205642168
+  },
+  "resources": [],
+  "exam": {
+    "id": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1770975501",
+      "timeSpentVideo": "298645152",
+      "submissions": 11631,
+      "submissionsCorrect": 7465,
+      "questions": 12,
+      "accuracy": 0.6418192760725647,
+      "difficulty": 0.609389651351121
+    }
+  },
+  "explanation": {
+    "id": "ea518f5f-fa20-4ce7-9e4e-965a68200741",
+    "body": "",
+    "questionId": "9064e852-5f6a-46af-a6ca-2d75a9523d79",
+    "resources": [
+      {
+        "id": "20950af8-6319-49cf-97c4-bfe3e5f13c9c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/clRJJDp2Mg0?t=496"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ea518f5f-fa20-4ce7-9e4e-965a68200741",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "8c1c7517-9828-41d5-8e91-a597a5150535",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding index range checking in arrays is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "eb05b67b-bdd9-4d3a-a6bb-7ff51f3f0e5b",
+        "index": 0,
+        "body": "Attempting to access an index beyond the range of valid index values for an array may cause a run-time\nerror.",
+        "questionId": "8c1c7517-9828-41d5-8e91-a597a5150535",
+        "stats": {
+          "count": 500
+        },
+        "resources": []
+      },
+      {
+        "id": "44660d19-8609-4799-a1eb-7bf37f0d19ac",
+        "index": 1,
+        "body": "It is possible that when attempting to access an index beyond the range of valid index values for an\narray that the output results may not be as expected.",
+        "questionId": "8c1c7517-9828-41d5-8e91-a597a5150535",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "bb4b5aa9-5e60-4307-9465-9a7ee5522c13",
+        "index": 2,
+        "body": "The problem of index range checking is limited to only those values that are greater than the largest\nindex values for an array.",
+        "questionId": "8c1c7517-9828-41d5-8e91-a597a5150535",
+        "stats": {
+          "count": 1504
+        },
+        "resources": []
+      },
+      {
+        "id": "51c35444-0b90-46fd-a7f0-753389f325ca",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "8c1c7517-9828-41d5-8e91-a597a5150535",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 30,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "207853127",
+    "timeSpentVideo": "0",
+    "submissions": 2283,
+    "submissionsCorrect": 1504,
+    "accuracy": 0.6587823039859834,
+    "difficulty": 0.5978808224926563
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "6236ed5e-9a05-4719-a4e3-107692913267",
+    "body": "",
+    "questionId": "8c1c7517-9828-41d5-8e91-a597a5150535",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

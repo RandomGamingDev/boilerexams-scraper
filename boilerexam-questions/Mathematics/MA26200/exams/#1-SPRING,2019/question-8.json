@@ -1,0 +1,143 @@
+{
+  "id": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear system\n\n\n\n\\[\n\\begin{array}{r}\nx_{1}+x_{3}=2 \\\\\nx_{1}+2 x_{2}-x_{3}=4 \\\\\n3 x_{1}+x_{2}+2 x_{3}=7\n\\end{array}\n\\]\n\nWhich of the following gives the solutions of the system in parametric form?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "684ef868-b17d-446e-b651-008d16e2ffec",
+        "index": 0,
+        "body": "$\\mathbf{x}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]+\\mathrm{t}\\left[\\begin{array}{c}-1 \\\\ 1 \\\\ 1\\end{array}\\right]$ with any $t \\in \\mathbb{R}$",
+        "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+        "stats": {
+          "count": 427
+        },
+        "resources": []
+      },
+      {
+        "id": "e0e56ce5-7556-43af-8bb4-369bcf5bf4ed",
+        "index": 1,
+        "body": "$\\mathbf{x}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]+\\mathrm{t}\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 1\\end{array}\\right]$ with any $t \\in \\mathbb{R}$",
+        "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "bd89aa49-f3fc-4491-acc4-054843ac729e",
+        "index": 2,
+        "body": "$\\mathbf{x}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]+\\mathrm{t}\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right]$ with any $t \\in \\mathbb{R}$",
+        "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "2779ef68-42bb-46c1-8ee5-d00053238a2f",
+        "index": 3,
+        "body": "$\\mathrm{x}=\\mathrm{s}\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]+\\mathrm{t}\\left[\\begin{array}{c}-1 \\\\ 1 \\\\ 1\\end{array}\\right]$ with any $s, t \\in \\mathbb{R}$",
+        "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "a9689868-fa67-45a2-8400-98263a2c2623",
+        "index": 4,
+        "body": "$\\mathbf{x}=\\mathrm{s}\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right]+\\mathrm{t}\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 1\\end{array}\\right]$ with any $s, t \\in \\mathbb{R}$",
+        "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "177808122",
+    "timeSpentVideo": "29431591",
+    "submissions": 763,
+    "submissionsCorrect": 427,
+    "accuracy": 0.5596330275229358,
+    "difficulty": 0.6972769409038239
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "aa9f5aae-77c9-449e-bda4-efa6f69f8abc",
+    "body": "",
+    "questionId": "e356ea3a-307b-4474-bdc7-0c2485a05834",
+    "resources": [
+      {
+        "id": "60a4eef7-c2ba-424b-8727-023fe785a6ef",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=1737\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aa9f5aae-77c9-449e-bda4-efa6f69f8abc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

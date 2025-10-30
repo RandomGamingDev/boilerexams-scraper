@@ -1,0 +1,143 @@
+{
+  "id": "7836512f-43a9-4796-9153-6363b8970eec",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $y_1=x$ and $y_2=\\frac{1}{x}$ are two solutions to a second-order linear differential equation \\[y''+P(x)y'+Q(x)y=0,x>0,\\] which one of the following functions is a solution to \\[y''+P(x)y'+Q(x)y=\\frac{2}{x^2},x>0\\]?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8dd0103a-3179-4eb1-b4bb-26c890728f2d",
+        "index": 0,
+        "body": "$y(x)=\\frac{2}{x}$",
+        "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "1429b761-dd19-4ca7-aabe-40a4a1a34244",
+        "index": 1,
+        "body": "$y(x)=-2$",
+        "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+        "stats": {
+          "count": 362
+        },
+        "resources": []
+      },
+      {
+        "id": "f111e95a-646a-4260-855d-de19f7a16035",
+        "index": 2,
+        "body": "$y(x)=-\\frac{2}{x}$",
+        "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "dfa97acf-fb93-4492-b433-de13c5d22660",
+        "index": 3,
+        "body": "$y(x)=-x^2$",
+        "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "0596a0d1-cf31-4a6b-85a2-9b602214e268",
+        "index": 4,
+        "body": "$y(x)=-\\frac{1}{x^2}$",
+        "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "199374849",
+    "timeSpentVideo": "28157342",
+    "submissions": 645,
+    "submissionsCorrect": 362,
+    "accuracy": 0.5612403100775194,
+    "difficulty": 0.696979865771812
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "93e11f95-3490-46b7-98de-41fd5f875d8b",
+    "body": "I said the answer to this question was $y_p(t)$ again. I meant $y_p(x)$ like every other time I made that mistake in this question LOL.",
+    "questionId": "7836512f-43a9-4796-9153-6363b8970eec",
+    "resources": [
+      {
+        "id": "3e9d9945-4454-4830-ad99-763b958ca2d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=2874s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "93e11f95-3490-46b7-98de-41fd5f875d8b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

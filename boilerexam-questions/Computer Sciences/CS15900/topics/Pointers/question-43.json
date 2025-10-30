@@ -1,0 +1,134 @@
+{
+  "id": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the output of the program?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1eb888de-679c-4a53-bcd7-a6fa6e5097de",
+        "index": 0,
+        "body": "2010/01/12",
+        "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+        "stats": {
+          "count": 1661
+        },
+        "resources": []
+      },
+      {
+        "id": "a4352457-444c-4c59-b909-7a1c34254d74",
+        "index": 1,
+        "body": "2010/12/01",
+        "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      },
+      {
+        "id": "8a729d17-ffb2-4650-9dbd-a18ba39a4c68",
+        "index": 2,
+        "body": "2001/12/10",
+        "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "348ee792-574a-4234-a5d7-cc63a14236b9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 43,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "428868835",
+    "timeSpentVideo": "0",
+    "submissions": 2238,
+    "submissionsCorrect": 1661,
+    "accuracy": 0.7421805183199285,
+    "difficulty": 0.5181779298545766
+  },
+  "resources": [
+    {
+      "id": "e7912238-41af-457e-a42e-c6328ae7f160",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n// NOTE: warning until question 44 is done.\n// Code is still valid, however.\n\nint main(void)\n{\n  int mo;\n  int day;\n  int yr;\n\n  splitDate(11210, &mo, &day, &yr);\n  yr += 2000;\n\n  printf(\"%4d/%02d/%02d\", yr, mo, day);\t// Question #43\n  return 0;\n}\n\nvoid splitDate(int date, int *mo, int *day, int *yr)\n{\n  *yr = date % 100;\n  date /= 100;\n\n  *day = date % 100;\n  date /= 100;\n\n  *mo = date;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "34402032-95fe-4c41-a626-a7d808d90f32",
+    "body": "",
+    "questionId": "f1a1326f-8b85-4f54-b419-eb1c314abb04",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2bd450d2-6b6f-4334-9cce-ec32bb051b73",
+      "name": "Pointers",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23135421221",
+        "timeSpentVideo": "108143106",
+        "submissions": 72257,
+        "submissionsCorrect": 45875,
+        "questions": 26,
+        "accuracy": 0.6348865853827311,
+        "difficulty": 0.6152998327736087
+      }
+    }
+  ],
+  "children": []
+}

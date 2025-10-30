@@ -1,0 +1,143 @@
+{
+  "id": "83581965-fa35-4363-87cb-130ad8d4a714",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Rewrite the iterated integral $\\int_{0}^{1} \\int_{0}^{x^{2}} \\int_{0}^{y} f(x, y, z) \\;d z\\; d y\\; d x$ by changing the order of integration to first with respect to $x$, then $z$, and then $y$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "9335ebc9-8551-4d0d-a1e2-907327c245f1",
+        "index": 0,
+        "body": "$\\int_{0}^{1} \\int_{0}^{y} \\int_{\\sqrt{y}}^{1} f(x, y, z) \\;d x\\; d z\\; d y$",
+        "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+        "stats": {
+          "count": 2181
+        },
+        "resources": []
+      },
+      {
+        "id": "b72020d6-29f2-4df1-a10c-d8bde2d9422f",
+        "index": 1,
+        "body": "$\\int_{0}^{x^{2}} \\int_{0}^{y} \\int_{0}^{1} f(x, y, z) \\;d x \\;d z \\;d y$",
+        "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "5e554738-43dc-4360-9c83-36000e683c8a",
+        "index": 2,
+        "body": "$\\int_{0}^{1} \\int_{0}^{y} \\int_{0}^{1} f(x, y, z) \\;d x\\; d z\\; d y$",
+        "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "61d801d4-59bd-4bf5-a0dd-081764d35543",
+        "index": 3,
+        "body": "$\\int_{0}^{1} \\int_{y}^{1} \\int_{\\sqrt{y}}^{1} f(x, y, z)\\; d x\\; d z\\; d y$",
+        "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+        "stats": {
+          "count": 365
+        },
+        "resources": []
+      },
+      {
+        "id": "8101df48-284a-452d-8a6c-9a9ff3f80e3f",
+        "index": 4,
+        "body": "$\\int_{0}^{1} \\int_{y}^{1} \\int_{0}^{\\sqrt{y}} f(x, y, z) \\;d x\\; d z\\; d y$",
+        "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+        "stats": {
+          "count": 693
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "734278795",
+    "timeSpentVideo": "256333042",
+    "submissions": 3904,
+    "submissionsCorrect": 2181,
+    "accuracy": 0.5586577868852459,
+    "difficulty": 0.6928071928071928
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "8615b8dc-0fa2-40c4-a7f2-3df6d2a1d9c5",
+    "body": "",
+    "questionId": "83581965-fa35-4363-87cb-130ad8d4a714",
+    "resources": [
+      {
+        "id": "97d92072-3113-4743-acdb-511b3902ce8c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=1322"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8615b8dc-0fa2-40c4-a7f2-3df6d2a1d9c5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5bc10a65-016f-4dd6-bc16-1e60e7d3dc5e",
+      "name": "Rewrite to Reorder dx dy dz",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1360426162",
+        "timeSpentVideo": "319027191",
+        "submissions": 3904,
+        "submissionsCorrect": 2181,
+        "questions": 1,
+        "accuracy": 0.5586577868852459,
+        "difficulty": 0.6928071928071928
+      }
+    }
+  ],
+  "children": []
+}

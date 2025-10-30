@@ -1,0 +1,143 @@
+{
+  "id": "4457336a-d1db-4c9c-b674-38b93089a716",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the flux integral $\\iint_{S} \\mathbf{F} \\cdot d \\mathbf{S}$, where $\\mathbf{F}(x, y, z)=\\left\\langle 3 x y^{2}, x \\cos (z), z^{3}\\right\\rangle$ and $S$ is the complete boundary surface of the solid region bounded by the cylinder $y^{2}+z^{2}=2$ and the planes $x=1$ and $x=3$. $S$ is oriented by the outward normal.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "aaaeec26-58c0-429b-a2b4-b4db6e29d13b",
+        "index": 0,
+        "body": "$9 \\pi$",
+        "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "9e851471-3dca-4144-b605-6b384dcdb352",
+        "index": 1,
+        "body": "$12 \\pi$",
+        "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+        "stats": {
+          "count": 1920
+        },
+        "resources": []
+      },
+      {
+        "id": "d1e34fa7-b75d-4b49-b67c-962527c87ad9",
+        "index": 2,
+        "body": "$14 \\pi$",
+        "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "7be3b6a0-31dd-4873-a72e-c4fed66d8d9a",
+        "index": 3,
+        "body": "$18 \\pi$",
+        "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "69d7533e-a97b-4b97-8e0d-35a3445f4347",
+        "index": 4,
+        "body": "$24 \\pi$",
+        "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "850407292",
+    "timeSpentVideo": "173098330",
+    "submissions": 3539,
+    "submissionsCorrect": 1920,
+    "accuracy": 0.5425261373269286,
+    "difficulty": 0.7086424841989557
+  },
+  "resources": [],
+  "exam": {
+    "id": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11087296287",
+      "timeSpentVideo": "3285469005",
+      "submissions": 57424,
+      "submissionsCorrect": 31424,
+      "questions": 20,
+      "accuracy": 0.5472276400111452,
+      "difficulty": 0.7028544607468187
+    }
+  },
+  "explanation": {
+    "id": "b07a8f49-c198-4688-a2dc-5cacb4a4749a",
+    "body": "",
+    "questionId": "4457336a-d1db-4c9c-b674-38b93089a716",
+    "resources": [
+      {
+        "id": "27315d25-853c-4e84-afb4-abe87ba3a7e6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YYp45Q6cmLo?si=j2TWnZiRb2rZsGo5&t=3216\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b07a8f49-c198-4688-a2dc-5cacb4a4749a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d788edd-4ff3-42db-9cf5-eff7b76c66b2",
+      "name": "Divergence Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12944208646",
+        "timeSpentVideo": "1457021537",
+        "submissions": 30930,
+        "submissionsCorrect": 16112,
+        "questions": 7,
+        "accuracy": 0.5209182023924992,
+        "difficulty": 0.7291492104415083
+      }
+    }
+  ],
+  "children": []
+}

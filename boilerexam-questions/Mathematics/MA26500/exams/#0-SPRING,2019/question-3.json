@@ -1,0 +1,173 @@
+{
+  "id": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is false?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2e32219c-4445-430f-8054-f72441e63a9c",
+        "index": 0,
+        "body": "If $\\left\\{v_{1}, v_{2}, v_{3}\\right\\}$ is linearly dependent, then $v_{3}$ is a linear combination of $v_{1}$ and $v_{2}$.",
+        "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+        "stats": {
+          "count": 1718
+        },
+        "resources": []
+      },
+      {
+        "id": "8c4b7a5f-f181-4c51-9181-598ae0bb6137",
+        "index": 1,
+        "body": "Suppose that the columns of $A$ are $v_{1}, v_{2}$, and $v_{3}$. Then the matrix equation $A\\left[\\begin{array}{l}x_{1} \\\\ x_{2} \\\\ x_{3}\\end{array}\\right]=b$ is equivalent to the vector equation $x_{1} v_{1}+x_{2} v_{2}+x_{3} v_{3}=b$.",
+        "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      },
+      {
+        "id": "889932ab-8bd8-4b72-be4d-688720a47e47",
+        "index": 2,
+        "body": "Suppose that $X_{0}$ is a solution to the linear system $A X=b$. Then $\\{X \\mid A X=b\\}=$ $X_{0}+\\{X \\mid A X=0\\}$.",
+        "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+        "stats": {
+          "count": 636
+        },
+        "resources": []
+      },
+      {
+        "id": "7693d1b3-a555-4fd8-a822-7e1a066e6891",
+        "index": 3,
+        "body": "The columns of $A$ are linearly independent if and only if $A$ has a pivot position in every column.",
+        "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "37627391-e816-4c5e-9541-1574a26ba104",
+        "index": 4,
+        "body": "A homogeneous linear system has a non-trivial solution if and only if it has at least one free variable.",
+        "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+        "stats": {
+          "count": 392
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "430005930",
+    "timeSpentVideo": "133808068",
+    "submissions": 3241,
+    "submissionsCorrect": 1718,
+    "accuracy": 0.5300833076211046,
+    "difficulty": 0.7208171206225681
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "7a927247-2446-4615-9781-5b7cefc3bc24",
+    "body": "",
+    "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
+    "resources": [
+      {
+        "id": "3f422371-03cd-40af-b7e0-8cb276f97440",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=324\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7a927247-2446-4615-9781-5b7cefc3bc24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "8bf22f1e-a943-45e4-8363-59da2a633241",
+      "name": "Column Spaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12713429394",
+        "timeSpentVideo": "1551352939",
+        "submissions": 29398,
+        "submissionsCorrect": 17069,
+        "questions": 10,
+        "accuracy": 0.5806177290972175,
+        "difficulty": 0.6696555698691437
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

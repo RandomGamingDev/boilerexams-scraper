@@ -1,0 +1,128 @@
+{
+  "id": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that the function $y_{1}(t)=t$ is a solution to the differential equation\n\n\n\n\\[\nt^{2} y^{\\prime \\prime}+2 t y^{\\prime}-2 y=0, \\quad t>0\n\\]\n\nchoose a function $y_{2}$ from the list below so that the pair $\\left\\{y_{1}, y_{2}\\right\\}$ form a fundamental set of solutions to the differential equation above.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b14a4e8b-ca7b-47d0-adcf-d8adbb924d07",
+        "index": 0,
+        "body": "$t-\\ln (t+4)$",
+        "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "9d6cd635-4900-40ba-8815-c89f91771ae1",
+        "index": 1,
+        "body": "$t-\\sin \\left(t^{2}\\right)$",
+        "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "cb6e1314-294c-4a9b-bfb0-f1b9bdf466e0",
+        "index": 2,
+        "body": "$2 t+\\frac{1}{t^{2}}$",
+        "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+        "stats": {
+          "count": 293
+        },
+        "resources": []
+      },
+      {
+        "id": "dd57e984-1b11-425f-8ec9-b826382b8de9",
+        "index": 3,
+        "body": "$t-e^{t}$",
+        "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "55a98dd5-4af1-4847-9b29-38b9978123a7",
+        "index": 4,
+        "body": "$\\frac{4}{t^{4}}$",
+        "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "187637773",
+    "timeSpentVideo": "31158914",
+    "submissions": 666,
+    "submissionsCorrect": 293,
+    "accuracy": 0.43993993993993996,
+    "difficulty": 0.8022193211488251
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "5d7b6b32-b629-40a7-acac-0bf649d2ea90",
+    "body": "",
+    "questionId": "cc621189-c04e-49f1-b2ec-dbe8e9ccf914",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

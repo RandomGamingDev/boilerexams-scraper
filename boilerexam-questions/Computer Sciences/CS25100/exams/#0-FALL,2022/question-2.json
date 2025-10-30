@@ -1,0 +1,133 @@
+{
+  "id": "211821c3-d1cb-4694-90ac-3de537af1298",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Alice, Jane and Elizabeth designed three new algorithms for Mango Enterprises. Let $T_A(n)$ (resp. $T_J(n)$ and $T_E(n)$) denote the worst-case running time of Alice\u2019s (resp. Jane\u2019s and Elizabeth\u2019s) algorithm on any input of size $n$. Mango Enterprises works with very large datasets so they are only able to use algorithms with worst case running time $T(n) \u2208 O(n^2)$.\n\n(b) Bob analyzed Jane's algorithm and claims to have a proof that $T_J(n)\u2208O(g(n))$ for some function $g(n)$ such that $g(n) \\geq n^9$ for all $n \\geq 1$. Assuming that Bob's proof is correct is this a sufficient reason for Mango Enterprises to discard Jane's algorithm? Explain your answer.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2f09641d-6628-4042-8928-76dde3917f1f",
+        "index": 0,
+        "body": "Yes. Jane's algorithm is at best $\\Omega(n^9)$, so we should discard it.",
+        "questionId": "211821c3-d1cb-4694-90ac-3de537af1298",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "cf129950-ca82-4d9f-bb6b-5c5c3ecbb2d4",
+        "index": 1,
+        "body": "Yes. Jane's algorithm has a chance of being too inefficient for Mango Enterprises, so we should definitely discard it.",
+        "questionId": "211821c3-d1cb-4694-90ac-3de537af1298",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "4fa11f6c-2ae1-4d6c-aaaa-c0fc5b0df4f8",
+        "index": 2,
+        "body": "No. The only information we can gather is that Jane's algorithm is $O(n^9)$, which is too ambiguous for us to discard just yet.",
+        "questionId": "211821c3-d1cb-4694-90ac-3de537af1298",
+        "stats": {
+          "count": 744
+        },
+        "resources": []
+      },
+      {
+        "id": "c477ef49-1c49-4362-bf15-f357e823bf0d",
+        "index": 3,
+        "body": "No. Jane's algorithm is guaranteed to be $O(n^2)$, so we definitely shouldn't discard it.",
+        "questionId": "211821c3-d1cb-4694-90ac-3de537af1298",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "98973828",
+    "timeSpentVideo": "0",
+    "submissions": 982,
+    "submissionsCorrect": 744,
+    "accuracy": 0.7576374745417516,
+    "difficulty": 0.5161737523105361
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "244e9750-7f88-4be2-aa35-68f14ec4c464",
+    "body": null,
+    "questionId": "211821c3-d1cb-4694-90ac-3de537af1298",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbb{P}_{3}$ be the vector space of all polynomials of degree at most $3$. Which of the following subsets are subspaces of $\\mathbb{P}_{3}$ ?\n\n(i) A set of polynomials in $\\mathbb{P}_{3}$ satisfying $p(0)=p(1)$.\n(ii) A set of polynomials in $\\mathbb{P}_{3}$ satisfying $p(0) p(1)=0$.\n(iii) A set of polynomials in $\\mathbb{P}_{3}$ with integer coefficients.\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ca5ce32c-9d08-4b80-b712-8173cef3fa57",
+        "index": 0,
+        "body": "(i) only",
+        "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+        "stats": {
+          "count": 1562
+        },
+        "resources": []
+      },
+      {
+        "id": "d1d9d43c-ad31-4a82-a16c-b96c1c61d2e2",
+        "index": 1,
+        "body": "(i) and (ii) only",
+        "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "542ff28d-d00f-4ea4-87ba-94e618ed6ac9",
+        "index": 2,
+        "body": "(i) and (iii) only",
+        "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+        "stats": {
+          "count": 633
+        },
+        "resources": []
+      },
+      {
+        "id": "b241d87a-0321-40df-a80d-046a2d627a10",
+        "index": 3,
+        "body": "(ii) only",
+        "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+        "stats": {
+          "count": 297
+        },
+        "resources": []
+      },
+      {
+        "id": "050c8dc8-6c31-4704-a551-596dd1631f53",
+        "index": 4,
+        "body": "(ii) and (iii) only",
+        "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+        "stats": {
+          "count": 499
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "468364599",
+    "timeSpentVideo": "466533997",
+    "submissions": 3950,
+    "submissionsCorrect": 1562,
+    "accuracy": 0.39544303797468355,
+    "difficulty": 0.8519753086419752
+  },
+  "resources": [],
+  "exam": {
+    "id": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3858235430",
+      "timeSpentVideo": "1767207244",
+      "submissions": 26747,
+      "submissionsCorrect": 15288,
+      "questions": 10,
+      "accuracy": 0.5715781209107563,
+      "difficulty": 0.6786884940589265
+    }
+  },
+  "explanation": {
+    "id": "f436b788-2ca2-4e9a-b422-071799b529c5",
+    "body": "",
+    "questionId": "f7201eb7-724f-474a-b8fc-537afe48ff44",
+    "resources": [
+      {
+        "id": "11067b33-fa28-41a4-a887-6a342971858e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/eSWeX98Q0fE?t=1188\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f436b788-2ca2-4e9a-b422-071799b529c5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    }
+  ],
+  "children": []
+}

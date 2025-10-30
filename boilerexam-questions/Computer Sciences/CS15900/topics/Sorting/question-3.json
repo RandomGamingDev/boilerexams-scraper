@@ -1,0 +1,149 @@
+{
+  "id": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the sorting process in the program is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c96af48c-0c87-4dcc-8dcf-76aee48c3e1c",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The presence of duplicate values in the array will prevent the data from being completely sorted.</font>",
+        "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+        "stats": {
+          "count": 252
+        },
+        "resources": []
+      },
+      {
+        "id": "091fc268-ed67-473b-826f-9246eff9fbfa",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The order of elements in the array is unchanged by the first pass through the sorting algorithm.</font>",
+        "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+        "stats": {
+          "count": 446
+        },
+        "resources": []
+      },
+      {
+        "id": "04cefda4-777f-4890-8f81-ead6777f53bb",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The array will reach a sorted state prior to the final pass through the algorithm.</font>",
+        "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+        "stats": {
+          "count": 722
+        },
+        "resources": []
+      },
+      {
+        "id": "ac1cc631-8bbf-4e3a-9a31-5d939dd6da21",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+        "stats": {
+          "count": 1239
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "287154814",
+    "timeSpentVideo": "0",
+    "submissions": 2689,
+    "submissionsCorrect": 1239,
+    "accuracy": 0.4607660840461138,
+    "difficulty": 0.7878271782000716
+  },
+  "resources": [
+    {
+      "id": "6127aa68-000c-4a7a-b670-3b29cff75e3f",
+      "type": "CODE",
+      "data": {
+        "content": "#define SETSIZE 10\n\nvoid sortPass(int[], int, int);\nint findLocation(int[], int, int);\n\nint main()\n{\n  int x[SETSIZE] = {3, 5, 2, 4, 9, 1, 8, 6, 5, 2};\n  int i;\n  int location;\n  for(i = 1; i < SETSIZE; i++)\n  {\n    location = findLocation(x, i, x[i]);\n    sortPass(x, i, location);\n  }\n  return(0);\n}\n\nvoid sortPass(int x[], int start, int end)\n{\n  int temp = x[start];\n  \n  while(start > end)\n  {\n    x[start] = x[start - 1];\n    start--; \n}\n\n  x[start] = temp;\n}\n\nint findLocation(int x[], int start, int element) \n{\n  while(start > 0 && element > x[start - 1])\n  {\n    start--;\n  }\n\n  return(start);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "b805491b-6188-4205-8b86-7f85ad99e438",
+    "body": "",
+    "questionId": "96e3b0d1-13a9-4dc1-b288-e089b780bac6",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

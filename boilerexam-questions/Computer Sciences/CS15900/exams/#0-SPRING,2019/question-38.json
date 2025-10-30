@@ -1,0 +1,118 @@
+{
+  "id": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the logical expression below:<br><font style=\"font-family:'Courier New'\">x != 0 || y != 0 && z != 0</font><br>Where x, y, and z are integer variables, which of the following logical expressions is a complement?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "368c56de-4e77-4703-8b44-5404c06f8be0",
+        "index": 0,
+        "body": "x && y || z",
+        "questionId": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "06ac497b-69d8-436c-9298-2060819a60dd",
+        "index": 1,
+        "body": "!(x != 0 || y != 0) || z == 0",
+        "questionId": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+        "stats": {
+          "count": 319
+        },
+        "resources": []
+      },
+      {
+        "id": "5211f997-75de-44aa-871c-ea363f813ddc",
+        "index": 2,
+        "body": "x == 0 && y == 0 || z == 0",
+        "questionId": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+        "stats": {
+          "count": 360
+        },
+        "resources": []
+      },
+      {
+        "id": "63b2c937-494a-4d53-8f8c-52b63836083d",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+        "stats": {
+          "count": 869
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 38,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "167381024",
+    "timeSpentVideo": "0",
+    "submissions": 1665,
+    "submissionsCorrect": 869,
+    "accuracy": 0.5219219219219219,
+    "difficulty": 0.7293201133144476
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "f0f59560-c5ea-41dd-8d84-085cf416988e",
+    "body": "",
+    "questionId": "90bdff8e-ab23-41d5-9a60-35d1e8a297f0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    }
+  ],
+  "children": []
+}

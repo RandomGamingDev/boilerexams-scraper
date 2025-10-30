@@ -1,0 +1,128 @@
+{
+  "id": "feefdfb0-8896-4585-a6b1-17178fa03951",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the inverse Laplace transform of\n\n\n\\[\nF(s)=\\frac{4(1+s)}{s^{2}\\left(s^{2}+4\\right)}\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c0b9b408-0a56-409d-868a-0a92ad0dee0f",
+        "index": 0,
+        "body": "$f(t)=t-\\cos (2 t)-\\frac{1}{2} \\sin (2 t)$",
+        "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "9ea5f537-feee-4eba-83b5-38d38ba97ad8",
+        "index": 1,
+        "body": "$f(t)=1+t-\\cos (2 t)-\\sin (2 t)$",
+        "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "7036549a-da5e-4f9a-a074-2c38a12ce891",
+        "index": 2,
+        "body": "$f(t)=t-\\cos (2 t)-\\sin (2 t)$",
+        "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "be84eb49-0353-45dc-bc8a-bd768c1b26a0",
+        "index": 3,
+        "body": "$f(t)=1+t-\\cos (2 t)-\\frac{1}{2} \\sin (2 t)$",
+        "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+        "stats": {
+          "count": 354
+        },
+        "resources": []
+      },
+      {
+        "id": "d02e2a94-d4ee-4505-bdf8-ff35c667d99b",
+        "index": 4,
+        "body": "$f(t)=1+t+\\cos (2 t)+\\frac{1}{2} \\sin (2 t)$",
+        "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "192501405",
+    "timeSpentVideo": "0",
+    "submissions": 457,
+    "submissionsCorrect": 354,
+    "accuracy": 0.774617067833698,
+    "difficulty": 0.524685816876122
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "45e9de3e-ac88-454d-b83f-6deba5745bdb",
+    "body": "",
+    "questionId": "feefdfb0-8896-4585-a6b1-17178fa03951",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "cc0a67d9-6c8c-4c30-85b9-e97901f376ea",
+      "name": "Inverse Laplace",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2255453095",
+        "timeSpentVideo": "157741451",
+        "submissions": 3548,
+        "submissionsCorrect": 2145,
+        "questions": 6,
+        "accuracy": 0.60456595264938,
+        "difficulty": 0.6483004385964912
+      }
+    }
+  ],
+  "children": []
+}

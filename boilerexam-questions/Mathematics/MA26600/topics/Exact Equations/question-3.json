@@ -1,0 +1,128 @@
+{
+  "id": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is an implicit solution to the initial value problem\n\\[\n(\\pi e^{\\pi x} - y + \\sin y)\\,dx + (x \\cos y - x + e^{-y})\\,dy = 0,\\quad y(1) = -\\pi.\n\\]\n\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "38d7d7b1-7ef8-43af-b28a-d0dcd21a56cb",
+        "index": 0,
+        "body": "$x\\sin y - yx + e^{\\pi x} + e^{-y} = \\pi + 2e^\\pi$",
+        "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "06de3a88-7722-407f-b17b-44402224ec49",
+        "index": 1,
+        "body": "$x\\sin y - e^{-y} + e^{\\pi x} - yx = \\pi$",
+        "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "d262a6f4-dfe8-45db-bf0f-8437b705e447",
+        "index": 2,
+        "body": "$x\\cos y - xy - e^{-y} + \\pi e^{\\pi x} = (e^\\pi+1)(\\pi-1)$",
+        "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "8c3258a2-5cb8-4b8c-944e-d1e279f3b6c9",
+        "index": 3,
+        "body": "$e^{\\pi x} - xy + x\\sin y - e^{-y} = -\\pi$",
+        "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "3365a537-61ac-4c57-8112-af1f7eefafcb",
+        "index": 4,
+        "body": "$e^{\\pi x} - xy - x\\cos y - e^{-y} = \\pi+1$",
+        "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "32590805",
+    "timeSpentVideo": "0",
+    "submissions": 93,
+    "submissionsCorrect": 63,
+    "accuracy": 0.6774193548387096,
+    "difficulty": 0.6645077720207254
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "65b225ee-5ab1-46a6-b270-a85355e1252e",
+    "body": null,
+    "questionId": "a774d793-f1c0-4c19-b08f-227fa40d3deb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "22844638-9a38-4c16-98e5-6e5ced2e330b",
+      "name": "Exact Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4092456179",
+        "timeSpentVideo": "374640397",
+        "submissions": 10203,
+        "submissionsCorrect": 6475,
+        "questions": 10,
+        "accuracy": 0.6346172694305596,
+        "difficulty": 0.6166893137920993
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\n\\[\n\\int_{5}^{10} \\frac{\\sqrt{x^{2}-25}}{x} d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "bd07dd77-84fa-45c3-87d3-3e043151bbeb",
+        "index": 0,
+        "body": "$5 \\sqrt{3}-\\frac{5 \\pi}{3}$",
+        "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+        "stats": {
+          "count": 1572
+        },
+        "resources": []
+      },
+      {
+        "id": "b6f06296-ed18-4797-ab60-af0c79d27b8e",
+        "index": 1,
+        "body": "$\\frac{5 \\pi}{6}$",
+        "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "15e6bcb2-8702-4121-89a0-d46558b5a7d0",
+        "index": 2,
+        "body": "$5 \\sqrt{3}$",
+        "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "68899bfa-25eb-4681-bfd8-f531a1458c29",
+        "index": 3,
+        "body": "$\\sqrt{3}+\\frac{\\pi}{3}$",
+        "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "dba6b750-c2cc-4997-9362-ee2d0ff108c2",
+        "index": 4,
+        "body": "$5 \\sqrt{3}+\\frac{5 \\pi}{6}$",
+        "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+        "stats": {
+          "count": 137
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "673649040",
+    "timeSpentVideo": "75122182",
+    "submissions": 2729,
+    "submissionsCorrect": 1572,
+    "accuracy": 0.5760351777207768,
+    "difficulty": 0.6766525273948392
+  },
+  "resources": [],
+  "exam": {
+    "id": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8244103510",
+      "timeSpentVideo": "1068074029",
+      "submissions": 46306,
+      "submissionsCorrect": 27622,
+      "questions": 12,
+      "accuracy": 0.5965101714680603,
+      "difficulty": 0.6536977976985735
+    }
+  },
+  "explanation": {
+    "id": "c8214a97-3598-49d8-96c6-e8c2724f052a",
+    "body": "",
+    "questionId": "34150409-31fd-4adb-be8c-5b368a0b6bfb",
+    "resources": [
+      {
+        "id": "db6e3b9b-3e12-440f-8038-6825211d6ae5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ezJ9t_oy2s0?t=1352\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c8214a97-3598-49d8-96c6-e8c2724f052a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

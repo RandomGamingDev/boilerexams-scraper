@@ -1,0 +1,128 @@
+{
+  "id": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Apply Euler's method to the differential equation\n\n\\[\n\\frac{d y}{d x}=y-2 x\n\\]\n\nwith $y(0)=4$ and step size $h=1$ to find an approximation of $y(3)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a1e502cc-d58f-4603-a25a-45b2df09d3d5",
+        "index": 0,
+        "body": "$24$",
+        "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+        "stats": {
+          "count": 1396
+        },
+        "resources": []
+      },
+      {
+        "id": "4a2a07d9-eb14-4c84-b756-a8012289dd75",
+        "index": 1,
+        "body": "$22$",
+        "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "a88a5a67-4440-48d8-b960-d5de1f43156e",
+        "index": 2,
+        "body": "$14$",
+        "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "9ac16f51-092e-4494-8c85-2d80422894fc",
+        "index": 3,
+        "body": "$-6$",
+        "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "5fc65e9d-d38d-4b85-ab26-cb16aa1850d8",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "334945160",
+    "timeSpentVideo": "0",
+    "submissions": 1530,
+    "submissionsCorrect": 1395,
+    "accuracy": 0.9117647058823529,
+    "difficulty": 0.36349693251533743
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3954427074",
+      "timeSpentVideo": "0",
+      "submissions": 13844,
+      "submissionsCorrect": 11189,
+      "questions": 10,
+      "accuracy": 0.8082201675816238,
+      "difficulty": 0.4439902467010901
+    }
+  },
+  "explanation": {
+    "id": "23133a60-ab2c-45ec-9b8e-d726c1429c98",
+    "body": "",
+    "questionId": "ac1e1f92-39bb-4f12-b5ba-fd1dad979a5f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "581ba71e-2ec0-47ae-aba4-2436e968c5c1",
+      "name": "Euler's Method",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4816796605",
+        "timeSpentVideo": "91964031",
+        "submissions": 10171,
+        "submissionsCorrect": 8188,
+        "questions": 8,
+        "accuracy": 0.805033919968538,
+        "difficulty": 0.4479359361308538
+      }
+    }
+  ],
+  "children": []
+}

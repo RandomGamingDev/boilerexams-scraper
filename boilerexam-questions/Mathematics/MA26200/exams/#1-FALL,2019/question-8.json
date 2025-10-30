@@ -1,0 +1,143 @@
+{
+  "id": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $A=\\left[\\begin{array}{ll}1 & x \\\\ y & 2\\end{array}\\right]$, find all the values of $x$ and $y$ for which $A A^{T}=\\left[\\begin{array}{ll}2 & 4 \\\\ 4 & 8\\end{array}\\right]$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "83ad334b-73a9-4b1e-935c-cf7f06f3d519",
+        "index": 0,
+        "body": "$x=2, \\quad y=2$",
+        "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "4fab8a59-6109-4734-a9e5-98f9530986f4",
+        "index": 1,
+        "body": "$x=1, \\quad y=1$",
+        "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "5a0bd80d-d803-426c-a8d0-dcdf47c42d77",
+        "index": 2,
+        "body": "$x=2, \\quad y=1$",
+        "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "e64cfc7a-2812-4b4b-ba16-3df01d562adb",
+        "index": 3,
+        "body": "$x=1, \\quad y=2$",
+        "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      },
+      {
+        "id": "934714f7-cf4a-4aee-9283-d8001e670de8",
+        "index": 4,
+        "body": "$x= \\pm 1, \\quad y= \\pm 2$",
+        "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "37a9b809-1ed0-4027-940c-334b3253b165",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86284655",
+    "timeSpentVideo": "20419913",
+    "submissions": 475,
+    "submissionsCorrect": 260,
+    "accuracy": 0.5473684210526316,
+    "difficulty": 0.7108695652173913
+  },
+  "resources": [],
+  "exam": {
+    "id": "37a9b809-1ed0-4027-940c-334b3253b165",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2217727037",
+      "timeSpentVideo": "358505559",
+      "submissions": 8725,
+      "submissionsCorrect": 4631,
+      "questions": 11,
+      "accuracy": 0.5307736389684814,
+      "difficulty": 0.7195750708215297
+    }
+  },
+  "explanation": {
+    "id": "d5506aea-8684-45df-86f9-64703bfe6c61",
+    "body": "",
+    "questionId": "fed5ff5e-45fe-4e37-9115-c31bb09301f4",
+    "resources": [
+      {
+        "id": "76b954eb-0014-4561-b3df-a4da4acffc4e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/RcpPdDbJQtQ?si=m1HD39w6uFnQfwJM&t=1448\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d5506aea-8684-45df-86f9-64703bfe6c61",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4dd15d64-bfea-4fc5-999e-fef40b910386",
+      "name": "Transposed Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "303033654",
+        "timeSpentVideo": "44581449",
+        "submissions": 1031,
+        "submissionsCorrect": 566,
+        "questions": 2,
+        "accuracy": 0.5489815712900097,
+        "difficulty": 0.7053492484526968
+      }
+    }
+  ],
+  "children": []
+}

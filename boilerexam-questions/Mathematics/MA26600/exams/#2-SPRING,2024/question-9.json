@@ -1,0 +1,120 @@
+{
+  "id": "15e52192-fb0b-4ff8-af47-cda8fe00dae1",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the linear system x'=Ax, where A = $\\begin{bmatrix}\n-5 & 1 \\\\\n4 & -2\n\\end{bmatrix}$\\[\\](a) Find two linearly independent solutions of the system.\\[\\](b) Use the solutions found in part (a) to calculate the exponential matrix $e^{At}$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "243633880",
+    "timeSpentVideo": "59075015",
+    "submissions": 792,
+    "submissionsCorrect": 225,
+    "accuracy": 0.2840909090909091,
+    "difficulty": 0.9417040358744395
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "694dc6b2-dc2b-4f88-a4a0-2a516024c96f",
+    "body": "Skip to 1:13:56 to go straight to the matrix exponential calculation. While computing the inverse of the fundamental matrix, I forgot to flip a sign. As such the fundamental matrix inverse at 0 is equal to \\[\\begin{bmatrix}\\frac{1}{5}&\\frac{1}{5}\\\\\\frac{4}{5}&\\frac{-1}{5}\\end{bmatrix}\\] The final matrix exponential is still correct. \n\nAdditionally, depending on your Professor, they may only ask you to set up the matrix exponential rather than computing it as well since the computation for a matrix exponential is quite tedious.",
+    "questionId": "15e52192-fb0b-4ff8-af47-cda8fe00dae1",
+    "resources": [
+      {
+        "id": "77384429-e929-41cf-b077-8258ad61bf99",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=r3C5y0jwPno&t=4179s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "694dc6b2-dc2b-4f88-a4a0-2a516024c96f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "28a13499-27ab-4755-b65d-ba79d32dea14",
+      "name": "Fundamental Matrix",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1051629389",
+        "timeSpentVideo": "96964919",
+        "submissions": 1624,
+        "submissionsCorrect": 665,
+        "questions": 2,
+        "accuracy": 0.40948275862068967,
+        "difficulty": 0.8352668213457077
+      }
+    },
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    },
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

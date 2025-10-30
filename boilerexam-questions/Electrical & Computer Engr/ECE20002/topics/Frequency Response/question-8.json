@@ -1,0 +1,190 @@
+{
+  "id": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Shown below are the Bode plots of a transfer function H(s) = $V_{OUT}(s)/V_{IN}(s)$. When $v_{in}(t) = 2cos(0.001t + 15\\degree) + 3cos(1000t + 45\\degree)$, find $v_{out}(t)$ in steady state using the Bode plots.\n\n[Note] In the magnitude plot, the y-axis is in dB scale and the x-axis is in log scale. In the phase plot, the y-axis unit is degree, not radian.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "bb9ffbff-c5fe-41a9-a90c-9a7b8b81c4d2",
+        "index": 0,
+        "body": "$v_{out}(t) = 2cos(0.001t + 15\\degree) + 3cos(1000t + 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "5930b406-6bef-4f27-96be-d9044d294eda",
+        "index": 1,
+        "body": "$v_{out}(t) = 2cos(0.001t + 15\\degree) + 0.003cos(1000t - 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      },
+      {
+        "id": "fb3f2b2b-d6e0-4b76-9d01-c342e790796d",
+        "index": 2,
+        "body": "$v_{out}(t) = 2cos(0.001t + 15\\degree) + 0.003cos(1000t - 90\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "013db33f-40d5-4438-a935-d6c477f58c23",
+        "index": 3,
+        "body": "$v_{out}(t) = 2cos(0.001t + 15\\degree) + 0.003cos(1000t - 135\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "5d0fa726-875b-4c6a-83db-3e444d42a122",
+        "index": 4,
+        "body": "$v_{out}(t) = 0.002cos(0.001t + 15\\degree) + 3cos(1000t + 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "ca2f7598-fbee-4615-9d97-897601699cfa",
+        "index": 5,
+        "body": "$v_{out}(t) = 0.002cos(0.001t - 75\\degree) + 0.003cos(1000t - 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "eb663c8a-50b4-40a4-8713-25785a857716",
+        "index": 6,
+        "body": "$v_{out}(t) = 0.002cos(0.001t - 90\\degree) + 0.003cos(1000t - 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "f81391e8-1d7c-4516-83ae-af51afbb35b5",
+        "index": 7,
+        "body": "$v_{out}(t) = 0.002cos(0.001t - 105\\degree) + 0.003cos(1000t - 45\\degree)$",
+        "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "108204682",
+    "timeSpentVideo": "38119513",
+    "submissions": 417,
+    "submissionsCorrect": 233,
+    "accuracy": 0.5587529976019184,
+    "difficulty": 0.7026112185686654
+  },
+  "resources": [
+    {
+      "id": "0c00ff82-7bd2-4ba5-8542-e57120947690",
+      "type": "IMAGE",
+      "data": {
+        "key": "0LE2WY47glpwW4eJqPc9b",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0LE2WY47glpwW4eJqPc9b",
+        "altText": "sr"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "3eb86f52-e756-45d4-b1a2-1e26de61b69f",
+    "body": "",
+    "questionId": "ccf7e0ab-82bf-4ecb-af5f-0c2fb9582dc2",
+    "resources": [
+      {
+        "id": "a7cd396e-149c-46de-9a35-005d661052ab",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=3436s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3eb86f52-e756-45d4-b1a2-1e26de61b69f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4161f61d-096d-414f-9168-1abdaf8b5844",
+      "name": "Frequency Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "944098654",
+        "timeSpentVideo": "117994650",
+        "submissions": 1358,
+        "submissionsCorrect": 746,
+        "questions": 3,
+        "accuracy": 0.5493372606774669,
+        "difficulty": 0.7040466392318244
+      }
+    }
+  ],
+  "children": []
+}

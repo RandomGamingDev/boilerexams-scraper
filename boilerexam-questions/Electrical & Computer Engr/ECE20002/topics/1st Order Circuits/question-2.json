@@ -1,0 +1,190 @@
+{
+  "id": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the circuit below, find an expression (in volts) for the capacitor voltage, labelled, $v_c(t)$, for times $t \\geq 0$, assuming $v_c(0^-) = 2$ V.",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "f7931d2e-dc2d-49ec-a76a-693e685031f3",
+        "index": 0,
+        "body": "$1-e^{-\\frac{t}{2}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "69c4e679-88a7-4635-9f1c-fda60763ebfc",
+        "index": 1,
+        "body": "$2-e^{-2t}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "c35e6d28-6890-437b-b708-04132ae42611",
+        "index": 2,
+        "body": "$3-2e^{-\\frac{t}{3}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "b8dd31aa-164c-44f4-910e-91f7c62c08c8",
+        "index": 3,
+        "body": "$4-2e^{-\\frac{3t}{4}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "b7f89b93-55c8-4d5e-b415-6e875db8c116",
+        "index": 4,
+        "body": "$5-3e^{-\\frac{4t}{5}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "9202d8ac-4aa8-431f-892c-9a81ac1f04c4",
+        "index": 5,
+        "body": "$6-4e^{-\\frac{5t}{6}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 535
+        },
+        "resources": []
+      },
+      {
+        "id": "97880933-4059-4df5-80e0-9e796549b073",
+        "index": 6,
+        "body": "$7-5e^{-\\frac{6t}{7}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "35c6c4dd-8cf1-4916-86a6-dc8cbe71b5df",
+        "index": 7,
+        "body": "$8-6e^{-\\frac{7t}{8}}$",
+        "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "317185819",
+    "timeSpentVideo": "58257355",
+    "submissions": 883,
+    "submissionsCorrect": 535,
+    "accuracy": 0.6058890147225368,
+    "difficulty": 0.654883011190234
+  },
+  "resources": [
+    {
+      "id": "ae2ae82a-a1fd-4efc-b428-de791a23ed31",
+      "type": "IMAGE",
+      "data": {
+        "key": "X8yszOHA1CGKTt4_YM7kP",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/X8yszOHA1CGKTt4_YM7kP",
+        "altText": "Image"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "24191290-2d77-49b7-96e2-f93bbcc21f3b",
+    "body": "",
+    "questionId": "02229353-f70c-4279-a9d1-cccacd3bdcdc",
+    "resources": [
+      {
+        "id": "c7891ab8-e879-41dd-825b-266712cb1ed3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=555s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "24191290-2d77-49b7-96e2-f93bbcc21f3b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "094727d5-5b44-49f9-988e-7cd27f10d018",
+      "name": "1st Order Circuits",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2801830227",
+        "timeSpentVideo": "319019934",
+        "submissions": 3485,
+        "submissionsCorrect": 1764,
+        "questions": 4,
+        "accuracy": 0.5061692969870876,
+        "difficulty": 0.744002789400279
+      }
+    }
+  ],
+  "children": []
+}

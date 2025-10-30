@@ -1,0 +1,158 @@
+{
+  "id": "4656f671-be5b-4bf3-ba0f-332988e20857",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A spring system with external force is represented by the equation\n\n\\[\ny^{\\prime \\prime}+y^{\\prime}+y=-13 \\sin 2 t .\n\\]\n\nLet $y_{p}(t)$ be a particular solution to the differential equation obtained from the method of undetermined coefficients, find $y_{p}\\left(\\frac{\\pi}{4}\\right)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1f353072-58ad-4621-b038-a3181452f46f",
+        "index": 0,
+        "body": "$2$",
+        "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "976589cc-e7f1-4c08-8a84-a5b77366d219",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+        "stats": {
+          "count": 836
+        },
+        "resources": []
+      },
+      {
+        "id": "300220db-7f7a-44b0-a615-dc688d9a52fe",
+        "index": 2,
+        "body": "$-3$",
+        "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "34c6d8c4-6fdd-4aeb-af8b-b6ee51cdbef9",
+        "index": 3,
+        "body": "$-2$",
+        "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "135c07ef-1aff-4934-9fdd-59aefd27f7d3",
+        "index": 4,
+        "body": "$-1$",
+        "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "459171499",
+    "timeSpentVideo": "55953265",
+    "submissions": 1453,
+    "submissionsCorrect": 836,
+    "accuracy": 0.5753613214039918,
+    "difficulty": 0.6794913071474565
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "ee62e359-beb2-4a51-8bb3-be892f3ed49d",
+    "body": "",
+    "questionId": "4656f671-be5b-4bf3-ba0f-332988e20857",
+    "resources": [
+      {
+        "id": "f02aa796-b24d-49e9-8650-5d5f76dc13ef",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=RvvXEJCY_9M9EKSV&t=1243"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ee62e359-beb2-4a51-8bb3-be892f3ed49d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    },
+    {
+      "id": "285427a7-cd4f-44d6-a9a4-b7f09afdfb95",
+      "name": "Spring-mass system",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4447642016",
+        "timeSpentVideo": "429093904",
+        "submissions": 9099,
+        "submissionsCorrect": 4757,
+        "questions": 12,
+        "accuracy": 0.5228047038136059,
+        "difficulty": 0.7274432003478639
+      }
+    }
+  ],
+  "children": []
+}

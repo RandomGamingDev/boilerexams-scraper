@@ -1,0 +1,133 @@
+{
+  "id": "72678947-d4a4-4598-80df-e4dd34ff430d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A one-sample analysis is performed for the mean \ud835\udf41 where the normality assumption is valid for the sampling distribution of the estimator. An SRS is taken from the population and the test statistic for a <b>one-sided upper tail t-test</b> has a <b>p-value</b> of <b>0.04</b>. If you were to conduct a <b>two-tailed test</b>, what conclusion could you make at a significance level of <b>0.05</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cf72cc90-bdf5-48bb-97f5-c04fd9c3c379",
+        "index": 0,
+        "body": "We have evidence at the 5% significance level that the population mean differs from the null value $\\mu_{0}$.",
+        "questionId": "72678947-d4a4-4598-80df-e4dd34ff430d",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "5e81c80d-2731-4175-a268-680f92af068d",
+        "index": 1,
+        "body": "We do not have evidence at the 5% significance level that the population mean differs from the null value $\\mu_{0}$.",
+        "questionId": "72678947-d4a4-4598-80df-e4dd34ff430d",
+        "stats": {
+          "count": 137
+        },
+        "resources": []
+      },
+      {
+        "id": "ef7809ee-dcda-47e0-b0a8-8cd37f141615",
+        "index": 2,
+        "body": "We have evidence at the 5% significance level that the population mean is less than the null value $\\mu_{0}$.",
+        "questionId": "72678947-d4a4-4598-80df-e4dd34ff430d",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "c6b446a1-dd0b-49af-b5ca-00de36e2f6a6",
+        "index": 3,
+        "body": "We cannot conclude about a two-sided test from a one-sided p-value.",
+        "questionId": "72678947-d4a4-4598-80df-e4dd34ff430d",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "27994168",
+    "timeSpentVideo": "3915982",
+    "submissions": 291,
+    "submissionsCorrect": 137,
+    "accuracy": 0.47079037800687284,
+    "difficulty": 0.7717391304347826
+  },
+  "resources": [],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "499829109",
+      "timeSpentVideo": "154037265",
+      "submissions": 4760,
+      "submissionsCorrect": 2550,
+      "questions": 15,
+      "accuracy": 0.5357142857142857,
+      "difficulty": 0.7150205761316872
+    }
+  },
+  "explanation": {
+    "id": "4b9a2f41-318f-43ac-ac11-0aa58ee6b675",
+    "body": "",
+    "questionId": "72678947-d4a4-4598-80df-e4dd34ff430d",
+    "resources": [
+      {
+        "id": "2bf5a78d-cfa2-48ac-a2a1-6a73d7d140d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/rRDuaKnGF94?t=740"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4b9a2f41-318f-43ac-ac11-0aa58ee6b675",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

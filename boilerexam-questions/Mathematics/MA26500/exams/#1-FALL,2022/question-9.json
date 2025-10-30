@@ -1,0 +1,105 @@
+{
+  "id": "c8183251-00a4-4a97-a2f5-4325e7a3f576",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the linear system \n\n\\[\n\\begin{align*}\n  x+2y+3z &= \\, 2\\\\ \n  y+az &= -4 \\\\ \n  2x+ 5y + a^2z &= \\, a-3\n\\end{align*}\n\\]\n\n(1) Find a row echelon form for the augmented matrix of the system. \n\n(2) For which value(s) of $a$ does this system have an infinite number of solutions?\n\n(3) (2) For which value(s) of $a$ does this system have no solutions?\n\n(4) (2) For which value(s) of $a$ does this system have a unique solution?",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "156341581",
+    "timeSpentVideo": "23267721",
+    "submissions": 503,
+    "submissionsCorrect": 223,
+    "accuracy": 0.4433399602385686,
+    "difficulty": 0.7972636815920398
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "a36dad22-fa38-4020-9898-948c180337f6",
+    "body": null,
+    "questionId": "c8183251-00a4-4a97-a2f5-4325e7a3f576",
+    "resources": [
+      {
+        "id": "766e1da7-f565-4d2d-a28c-fdf834755af1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/d1_WSP0AS6c?si=lIa0yCjoL5MeMW1I&t=3024"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a36dad22-fa38-4020-9898-948c180337f6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

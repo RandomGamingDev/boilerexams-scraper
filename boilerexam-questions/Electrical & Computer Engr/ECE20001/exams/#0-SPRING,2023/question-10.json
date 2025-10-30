@@ -1,0 +1,179 @@
+{
+  "id": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the circuit below, find the Th\u00e9venin voltage \\(\\tilde{V}_{th}\\) (Open circuit voltage).",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "de14448d-caaf-49c3-94a2-013f189fe2ac",
+        "index": 0,
+        "body": "9 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "0111c8a2-8895-467a-8277-712f5484fc5a",
+        "index": 1,
+        "body": "-2 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "8e522e4b-5378-431b-a6f2-c10309d0fc65",
+        "index": 2,
+        "body": "12 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "0ddc23e1-9af2-4efa-a623-f5ea8539449e",
+        "index": 3,
+        "body": "22 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 357
+        },
+        "resources": []
+      },
+      {
+        "id": "e82a958e-bd0e-4f9b-b970-0ce98e4cfa7d",
+        "index": 4,
+        "body": "2 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "1aeba341-15e9-43fe-b99f-d0ce6026cd17",
+        "index": 5,
+        "body": "3 V",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "6d3eca3d-de6c-45f4-bbab-99a2254ed926",
+        "index": 6,
+        "body": "None of the above.",
+        "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "47938ecb-0f8a-4823-9125-517a8e495225",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85027381",
+    "timeSpentVideo": "14853604",
+    "submissions": 515,
+    "submissionsCorrect": 357,
+    "accuracy": 0.6932038834951456,
+    "difficulty": 0.5882113821138212
+  },
+  "resources": [
+    {
+      "id": "3c101667-02d9-4747-a52f-ac7624bd215c",
+      "type": "IMAGE",
+      "data": {
+        "key": "pONnOza4jqL041-FtzqPC",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/pONnOza4jqL041-FtzqPC"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "47938ecb-0f8a-4823-9125-517a8e495225",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2395544564",
+      "timeSpentVideo": "514343691",
+      "submissions": 13650,
+      "submissionsCorrect": 8624,
+      "questions": 24,
+      "accuracy": 0.6317948717948718,
+      "difficulty": 0.6191636363636364
+    }
+  },
+  "explanation": {
+    "id": "89184e56-38a7-495f-9cf5-04fca4fa025b",
+    "body": null,
+    "questionId": "15e00a17-996b-4127-8d3e-9f274cb96cba",
+    "resources": [
+      {
+        "id": "0cc2f397-6836-4286-bb19-d826531a3623",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/554OfdqcTQo?si=zbf6nz1uA0hPgn7k&t=1705"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89184e56-38a7-495f-9cf5-04fca4fa025b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9cc30ffd-d6e2-4601-8c99-833147e68292",
+      "name": "Norton & Thevenin Circuits",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1144750734",
+        "timeSpentVideo": "77987110",
+        "submissions": 2442,
+        "submissionsCorrect": 1622,
+        "questions": 4,
+        "accuracy": 0.6642096642096642,
+        "difficulty": 0.5922501966955154
+      }
+    }
+  ],
+  "children": []
+}

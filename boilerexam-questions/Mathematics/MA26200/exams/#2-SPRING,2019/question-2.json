@@ -1,0 +1,143 @@
+{
+  "id": "a9ad811a-5040-4006-a969-c107558b2b82",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) Find all values of $k$ so that $\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 0 \\\\ 1\\end{array}\\right]$, and $\\left[\\begin{array}{l}1 \\\\ k \\\\ 1\\end{array}\\right]$ form a basis for $\\mathbb{R}^{3}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a79f3771-e266-4cfe-bc1a-a3a8d47b5825",
+        "index": 0,
+        "body": "$k=0$",
+        "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "b9154142-8c7c-4cf0-8464-ab9dbeda685f",
+        "index": 1,
+        "body": "$k=1$",
+        "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      },
+      {
+        "id": "8dcc77db-3194-47a4-8574-6b8d21d211d6",
+        "index": 2,
+        "body": "$k=2$",
+        "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "bf575d21-25e7-4fb5-a2ae-00d0960a4103",
+        "index": 3,
+        "body": "$k \\neq 1$",
+        "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+        "stats": {
+          "count": 827
+        },
+        "resources": []
+      },
+      {
+        "id": "8cc1454d-8418-4725-b01a-ad567aad84f3",
+        "index": 4,
+        "body": "$k \\neq 2$",
+        "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "215488447",
+    "timeSpentVideo": "77737502",
+    "submissions": 1346,
+    "submissionsCorrect": 827,
+    "accuracy": 0.6144130757800892,
+    "difficulty": 0.6434993084370678
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "9385b494-d80b-4b20-8af6-789b2f8e1c4f",
+    "body": "",
+    "questionId": "a9ad811a-5040-4006-a969-c107558b2b82",
+    "resources": [
+      {
+        "id": "5dc9de60-237e-4921-aa95-79332276af22",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=mzVDVNVd2uAx-69V&t=241\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9385b494-d80b-4b20-8af6-789b2f8e1c4f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

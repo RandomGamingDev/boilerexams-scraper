@@ -1,0 +1,153 @@
+{
+  "id": "057849e7-6509-42e1-a972-e2b5bfe54399",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the Taylor polynomial of order $2$ centered at $a=\\frac{\\pi}{6}$,\n\n\n\n\\[\n\\cos \\left(\\frac{\\pi}{5}\\right) \\approx \\frac{\\sqrt{3}}{2}-\\frac{1}{2}\\left(\\frac{\\pi}{30}\\right)-\\frac{\\sqrt{3}}{4}\\left(\\frac{\\pi}{30}\\right)^{2} .\n\\]\n\nAccording to the Taylor Remainder Theorem, this approximation has an error equal to",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "3995c4e7-3e21-4f31-951e-a6cce98004c2",
+        "index": 0,
+        "body": "$\\frac{\\cos (c)}{6} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 207
+        },
+        "resources": []
+      },
+      {
+        "id": "ceeba528-c997-4fc2-860c-1c7ebbc3c49b",
+        "index": 1,
+        "body": "$\\frac{\\sqrt{3} \\sin (c)}{12} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "4b8f670b-3ffc-4a3e-beb0-c8d1e03ed089",
+        "index": 2,
+        "body": "$\\frac{\\sqrt{3} \\cos(c)}{12} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "00a90b55-72c8-4998-872e-6b76fa174429",
+        "index": 3,
+        "body": "$\\frac{\\sin (c)}{12} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      },
+      {
+        "id": "feacc1d3-2058-488e-9fcd-6f0d5b4bba58",
+        "index": 4,
+        "body": "$\\frac{\\cos (c)}{12} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "46fec9f1-ab10-4ee1-aabc-0b5dd1798dbd",
+        "index": 5,
+        "body": "$\\frac{\\sin (c)}{6} \\cdot\\left(\\frac{\\pi}{30}\\right)^{3}$ for some $c$ between $\\frac{\\pi}{6}$ and $\\frac{\\pi}{5}$",
+        "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+        "stats": {
+          "count": 1525
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "7036f41b-5805-452b-baaf-0193db73eeda",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "638020571",
+    "timeSpentVideo": "88217575",
+    "submissions": 2674,
+    "submissionsCorrect": 1525,
+    "accuracy": 0.5703066566940912,
+    "difficulty": 0.6822278298485941
+  },
+  "resources": [],
+  "exam": {
+    "id": "7036f41b-5805-452b-baaf-0193db73eeda",
+    "number": 3,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5928747496",
+      "timeSpentVideo": "1683952161",
+      "submissions": 36701,
+      "submissionsCorrect": 22037,
+      "questions": 12,
+      "accuracy": 0.6004468543091469,
+      "difficulty": 0.6498260916822912
+    }
+  },
+  "explanation": {
+    "id": "b515f4c9-d010-4f03-971e-c28bebb1474e",
+    "body": "",
+    "questionId": "057849e7-6509-42e1-a972-e2b5bfe54399",
+    "resources": [
+      {
+        "id": "e5050200-c6af-4980-8ab8-e546d4e6d9df",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ivT2sj6CbnA?t=866\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b515f4c9-d010-4f03-971e-c28bebb1474e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "58e98ebf-e8a1-4bf5-8c67-d568da7b5f65",
+      "name": "Taylor Polynomial",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7926557724",
+        "timeSpentVideo": "579629183",
+        "submissions": 19196,
+        "submissionsCorrect": 12410,
+        "questions": 8,
+        "accuracy": 0.6464888518441342,
+        "difficulty": 0.6042703150912107
+      }
+    }
+  ],
+  "children": []
+}

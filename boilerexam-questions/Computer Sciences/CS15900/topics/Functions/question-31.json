@@ -1,0 +1,149 @@
+{
+  "id": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is NOT a valid function declaration for the function <font style=\"font-family:'Courier New'\">udf</font> on line #4?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "efe66b6c-ec0f-41fb-9145-cce3ffd7806e",
+        "index": 0,
+        "body": "void udf(int y[5]);",
+        "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+        "stats": {
+          "count": 736
+        },
+        "resources": []
+      },
+      {
+        "id": "f1ef46bc-d463-4259-9d83-7ee78ed1afc0",
+        "index": 1,
+        "body": "void udf(int y[]);",
+        "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "f508c2ad-0c59-4c51-a67e-ef250eaa9bd8",
+        "index": 2,
+        "body": "void udf(int[]);",
+        "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+        "stats": {
+          "count": 434
+        },
+        "resources": []
+      },
+      {
+        "id": "c4a6381d-05b0-4948-a304-35a855f05a26",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+        "stats": {
+          "count": 873
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85098074",
+    "timeSpentVideo": "45782520",
+    "submissions": 2309,
+    "submissionsCorrect": 873,
+    "accuracy": 0.37808575140753575,
+    "difficulty": 0.8668534661685346
+  },
+  "resources": [
+    {
+      "id": "c190dedf-b63b-4ef8-9cc3-e96945c3e73f",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 7\n\n/* Problem #31 */\n\nint main(void)\n{\n  int x[6] = {6, 5, 4, 3, 2, 1};\n\n  /* Problem #32 */\n\n  printf(\"x[5]: %d\\n\", x[5]);\n\n  return (0);\n}\n\nvoid udf(int y[])\n{\n  int i;\n\n  for (i = 1; i < 6; ++i)\n  {\n    y[i] *= y[i - 1];\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "58e49dfa-e504-4509-a2d9-9b792be31eeb",
+    "body": "",
+    "questionId": "4c21ad5f-6f02-43fb-919f-7378824f4b7b",
+    "resources": [
+      {
+        "id": "c7a24c70-98f8-47a2-9a57-373022f5a146",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=5316"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "58e49dfa-e504-4509-a2d9-9b792be31eeb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

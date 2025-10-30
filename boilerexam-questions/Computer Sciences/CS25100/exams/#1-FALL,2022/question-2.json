@@ -1,0 +1,150 @@
+{
+  "id": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Amy developed an algorithm and ran several experiments on it to analyze its runtime. She collected the following data.\n\n(b) Assuming we can use the Power Law $T(n)=an^b$ to propose a runtime expression of the algorithm, what is the value of $b$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "99f2e782-ce10-4fd1-afc4-ddb81d0c0e07",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "06a59612-8a57-4a21-a3b2-e130232972d9",
+        "index": 1,
+        "body": "$\\log_2 3$",
+        "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "7c36ef7f-9f3d-42ae-936c-172ce7344ff3",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+        "stats": {
+          "count": 708
+        },
+        "resources": []
+      },
+      {
+        "id": "b5123be2-5235-4991-9736-b0d7cd8d8027",
+        "index": 3,
+        "body": "$4$",
+        "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "138310066",
+    "timeSpentVideo": "14508053",
+    "submissions": 1182,
+    "submissionsCorrect": 708,
+    "accuracy": 0.5989847715736041,
+    "difficulty": 0.6587363494539782
+  },
+  "resources": [
+    {
+      "id": "f6d6241d-21bf-4b88-8581-bd1cd893d93b",
+      "type": "IMAGE",
+      "data": {
+        "key": "BOAuk2M-eYiS2cqxKrcQd",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/BOAuk2M-eYiS2cqxKrcQd",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "956a67ae-c3a5-480a-9290-3df5e77fea98",
+    "body": "",
+    "questionId": "f5b22351-5ac3-472b-ba80-a9e420d3da12",
+    "resources": [
+      {
+        "id": "d41fa4d9-3560-4d4e-b079-ac9b6d6532a2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=201"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "956a67ae-c3a5-480a-9290-3df5e77fea98",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9497f217-0b8b-480c-8ff8-e1ed96c6623b",
+      "name": "Power Law",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1967928710",
+        "timeSpentVideo": "59718052",
+        "submissions": 4108,
+        "submissionsCorrect": 2611,
+        "questions": 4,
+        "accuracy": 0.6355890944498539,
+        "difficulty": 0.6176330798479087
+      }
+    }
+  ],
+  "children": []
+}

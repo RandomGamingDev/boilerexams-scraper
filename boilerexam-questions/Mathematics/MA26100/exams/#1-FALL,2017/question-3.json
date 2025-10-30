@@ -1,0 +1,143 @@
+{
+  "id": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the space curve\n$$\n\\mathbf{r}(t)=(\\cos t+\\sin t) \\mathbf{i}+(\\cos t-\\sin t) \\mathbf{j}+t \\mathbf{k}\n$$\n\nCompute $\\mathbf{N}(t)$, the principal unit normal vector.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "16b66c70-0463-42ea-8791-0605ce8afa06",
+        "index": 0,
+        "body": "$(-\\sin t) \\mathbf{i}+(\\cos t) \\mathbf{j}$",
+        "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "84d17bcd-8d1d-43a2-ae5a-e718a47f68d4",
+        "index": 1,
+        "body": "$\\frac{1}{\\sqrt{3}}(\\cos t-\\sin t) \\mathbf{i}-\\frac{1}{\\sqrt{3}}(\\cos t+\\sin t) \\mathbf{j}+\\frac{1}{\\sqrt{3}} \\mathbf{k}$",
+        "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+        "stats": {
+          "count": 414
+        },
+        "resources": []
+      },
+      {
+        "id": "4d64fee8-37ab-4ca8-8b85-5483896297cb",
+        "index": 2,
+        "body": "$-\\frac{1}{\\sqrt{2}}(\\cos t+\\sin t) \\mathbf{i}+\\frac{1}{\\sqrt{2}}(\\sin t-\\cos t) \\mathbf{j}$",
+        "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+        "stats": {
+          "count": 750
+        },
+        "resources": []
+      },
+      {
+        "id": "68fd862f-9cea-4b90-9b57-f558be610999",
+        "index": 3,
+        "body": "$\\frac{1}{\\sqrt{3}}(\\cos t-\\sin t) \\mathbf{i}-\\frac{1}{\\sqrt{3}}(\\cos t+\\sin t) \\mathbf{j}$",
+        "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "6ef33876-4538-4d12-b32d-718df1e73733",
+        "index": 4,
+        "body": "$\\frac{1}{\\sqrt{2}}(\\cos t+\\sin t) \\mathbf{i}+\\frac{1}{\\sqrt{2}}(\\sin t-\\cos t) \\mathbf{j}$",
+        "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "494937098",
+    "timeSpentVideo": "96624780",
+    "submissions": 2294,
+    "submissionsCorrect": 750,
+    "accuracy": 0.3269398430688753,
+    "difficulty": 0.9158312447786132
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "79594b3c-8ded-44ff-96ee-cb66d0d4cb6f",
+    "body": null,
+    "questionId": "c5e9bb84-2071-4997-ae69-be346bd5d30e",
+    "resources": [
+      {
+        "id": "c22fe234-d742-4eb4-9945-f551ea5aed72",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=RK8mrVRBBzCpG6Zf&t=310"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "79594b3c-8ded-44ff-96ee-cb66d0d4cb6f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7c4371c6-2b69-4eae-a970-097345a8e3ea",
+      "name": "Normal Vector",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9722530147",
+        "timeSpentVideo": "1116035004",
+        "submissions": 19237,
+        "submissionsCorrect": 9037,
+        "questions": 3,
+        "accuracy": 0.46977179393876384,
+        "difficulty": 0.7800718829187567
+      }
+    }
+  ],
+  "children": []
+}

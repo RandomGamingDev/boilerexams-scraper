@@ -1,0 +1,128 @@
+{
+  "id": "2876173e-572f-41be-88c7-875b280e4924",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the given system.\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{rr}\n7 & 1 \\\\\n-4 & 3\n\\end{array}\\right] \\mathbf{x}\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b2e444b8-5a2a-4482-b52f-db4844f7b7f8",
+        "index": 0,
+        "body": "$C_{1} e^{-5 t}\\left[\\begin{array}{r}1 \\\\ -2\\end{array}\\right]+C_{2} e^{-5 t}\\left[\\begin{array}{r}t \\\\ -2 t+1\\end{array}\\right]$",
+        "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "61338c50-8e7a-4c18-8287-ab773005d10e",
+        "index": 1,
+        "body": "$C_{1} e^{5 t}\\left[\\begin{array}{r}1 \\\\ -2\\end{array}\\right]+C_{2} e^{5 t}\\left[\\begin{array}{r}t \\\\ -2 t+1\\end{array}\\right]$",
+        "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+        "stats": {
+          "count": 268
+        },
+        "resources": []
+      },
+      {
+        "id": "eb8a867e-f81c-47e2-96f1-68eb7a439e78",
+        "index": 2,
+        "body": "$C_{1} e^{5 t}\\left[\\begin{array}{r}1 \\\\ -2\\end{array}\\right]+C_{2} e^{5 t}\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right]$",
+        "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "967f5f99-69c1-4967-b177-4b2a2cec7326",
+        "index": 3,
+        "body": "$C_{1} e^{-5 t}\\left[\\begin{array}{r}1 \\\\ -2\\end{array}\\right]+C_{2} e^{-5 t}\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right]$",
+        "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "7de728d6-f26f-4056-97c7-f1d7f634dcd8",
+        "index": 4,
+        "body": "$C_{1} e^{-5 t}\\left[\\begin{array}{r}-2 \\\\ 1\\end{array}\\right]+C_{2} e^{-5 t}\\left[\\begin{array}{r}t \\\\ -2 t+1\\end{array}\\right]$",
+        "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "62486369",
+    "timeSpentVideo": "0",
+    "submissions": 320,
+    "submissionsCorrect": 268,
+    "accuracy": 0.8375,
+    "difficulty": 0.4928571428571429
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "89cf2d95-5a21-4683-8a03-2e655a398514",
+    "body": "",
+    "questionId": "2876173e-572f-41be-88c7-875b280e4924",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

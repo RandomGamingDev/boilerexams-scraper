@@ -1,0 +1,158 @@
+{
+  "id": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the absolute maximum and minimum values of the function $f(x)=x^{8 / 3}$ on the interval $[-1,8]$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "12cc5baf-a217-4058-a6e1-55b0b270a249",
+        "index": 0,
+        "body": "$\\max : 256$; min: none",
+        "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "e1741969-5914-4a3b-abf7-c7c21a214dcf",
+        "index": 1,
+        "body": "$\\max : 512$; min: $0$",
+        "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "baa3eb69-aa6a-4e9e-960a-9221547531ed",
+        "index": 2,
+        "body": "$\\max : 256$; $\\min :-1$",
+        "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "f5fe7286-3765-483f-880e-dc61b4d5827f",
+        "index": 3,
+        "body": "$\\max : 256$; min: $0$",
+        "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+        "stats": {
+          "count": 604
+        },
+        "resources": []
+      },
+      {
+        "id": "bdf05f39-4034-4a13-8740-8ee126294ce3",
+        "index": 4,
+        "body": "max: 512; min: none",
+        "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "6d1215ed-14c7-4689-857d-2799befb98e1",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "178556940",
+    "timeSpentVideo": "45555496",
+    "submissions": 1050,
+    "submissionsCorrect": 604,
+    "accuracy": 0.5752380952380952,
+    "difficulty": 0.681304347826087
+  },
+  "resources": [],
+  "exam": {
+    "id": "6d1215ed-14c7-4689-857d-2799befb98e1",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1787802580",
+      "timeSpentVideo": "384188691",
+      "submissions": 11829,
+      "submissionsCorrect": 7580,
+      "questions": 12,
+      "accuracy": 0.6407980387184039,
+      "difficulty": 0.610382261715148
+    }
+  },
+  "explanation": {
+    "id": "7cd3d549-c2ef-440b-bd0b-2e7899e06727",
+    "body": "",
+    "questionId": "c204e43e-23be-4c9f-a71d-b992e8d0fb81",
+    "resources": [
+      {
+        "id": "aa29b5c7-111b-4543-ba33-84bfd6efed12",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pylbivuLRNY?t=941"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7cd3d549-c2ef-440b-bd0b-2e7899e06727",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "568c36e5-3915-4324-b245-53b2f7fe2e05",
+      "name": "Critical Points",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3142775619",
+        "timeSpentVideo": "333449804",
+        "submissions": 8074,
+        "submissionsCorrect": 4705,
+        "questions": 8,
+        "accuracy": 0.58273470398811,
+        "difficulty": 0.6682774651333496
+      }
+    },
+    {
+      "id": "e0ec9598-b00c-4960-b404-54e5272db131",
+      "name": "Maximums and Minimums",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4731300981",
+        "timeSpentVideo": "597045292",
+        "submissions": 12816,
+        "submissionsCorrect": 6886,
+        "questions": 12,
+        "accuracy": 0.5372971285892634,
+        "difficulty": 0.7129916382781046
+      }
+    }
+  ],
+  "children": []
+}

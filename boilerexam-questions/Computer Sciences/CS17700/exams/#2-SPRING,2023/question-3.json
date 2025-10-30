@@ -1,0 +1,149 @@
+{
+  "id": "de583087-4a9f-4efd-b036-783bdfb67b26",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Congratulations! You are the new intern at Very Good Food & Stuff Company, a business \u201cfor all of your food and stuff needs\u201d. The chairman expects everyone to show up on time, speak honestly, and treat everyone with fairness to get along just fine.\n\nThe company just started, and thanks in large part to the stewardship of the chairman, it has built a good customer base. The following is the content of the customers file (customers.txt):\n\n<div class=\"text-justify w-full bg-dark-gray rounded-lg p-2\">type : subscribed,  age :43 ,firstname: Barney ,id:313, lastname  :  Lewis\nfirstname: Leslie ,  age :33 , lastname  :  Traeger,id:442, type : subscribed\n lastname  :  Varmn,firstname: Diane ,id:682,  age :43 , type : casual\n lastname  :  Gergich,  age :40 , type : loyal,firstname: Diane ,id:644\n type : subscribed,  age :45 ,id:890,firstname: Lucy , lastname  :  Varmn\nid:502,  age :28 , type : casual, lastname  :  Lewis,firstname: Tom \n lastname  :  Malwae-Tweep, type : subscribed,id:346,  age :38 ,firstname: Leslie \nfirstname: Janet ,id:187,  age :42 , type : casual, lastname  :  Santodomingo\nfirstname: Ann ,id:574, lastname  :  Traeger, type : casual,  age :36 \n  age :25 , type : diamond,firstname: Leslie ,id:149, lastname  :  Dwyer\nid:827, type : casual,  age :23 ,firstname: Garry , lastname  :  Wyatt\nfirstname: Jean-Ralphio , type : loyal,id:194, lastname  :  Santodomingo,  age :50 \n type : subscribed,  age :34 , lastname  :  Newport,firstname: Tom ,id:969\nfirstname: Diane , type : subscribed, lastname  :  Gergich,  age :47 ,id:857\nfirstname: Donna ,id:552, type : casual,  age :25 , lastname  :  Saperstein\nid:373,  age :33 ,firstname: Bobby , type : diamond, lastname  :  Gergich\n lastname  :  Knope,  age :38 ,firstname: Shauna , type : casual,id:588\n type : loyal, lastname  :  Dwyer,  age :34 ,id:538,firstname: Leslie \n type : casual,id:169,  age :22 , lastname  :  Wyatt,firstname: Diane \n  age :36 , lastname  :  Saperstein,id:671, type : loyal,firstname: Diane</div>\n\nEvery line in the file is the data of a customer stored as four name:value pairs separated by comma. Pair keys are firstname, lastname, age, id, and type. Pairs appear shuffled in each line of the file, and with extra space characters all over the place, but the content is correct.\n\nYour main task is to understand the code base. The first function to consider is customerData, which transforms a string of data (as found in the customers file) and returns a dictionary with the respective customer attributes. Andy Dwyer, your manager (completely oblivious about Python, yet well intended) has some claims about the code base in general. You need to avoid a system collapsing due to the manager\u2019s lack of knowledge!\n\n Ethel Beavers, the chairman\u2019s secretary, says that using a set to store the customers\u2019 attributes will simplify her work. Should you comply with her request?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6d82bb75-0629-46ca-b7a7-2e705037557d",
+        "index": 0,
+        "body": "Yes, since we can associate keys to the items in a set.",
+        "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "7cbae122-6bae-431a-b4c4-d52f50a0e8df",
+        "index": 1,
+        "body": "No, since each customer\u2019s value has an associated key, and we need to store both.",
+        "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+        "stats": {
+          "count": 648
+        },
+        "resources": []
+      },
+      {
+        "id": "7aaf7db1-6fc4-4c34-879b-abd082f30261",
+        "index": 2,
+        "body": "Yes, since the keys are unique, and therefore we can access each item unequivocally in a set.",
+        "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "c8aafc54-b98a-40c9-bee0-f3f74d08d8ab",
+        "index": 3,
+        "body": "No, since sets do not preserve the ordering of the data.",
+        "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "65859468",
+    "timeSpentVideo": "7415583",
+    "submissions": 926,
+    "submissionsCorrect": 648,
+    "accuracy": 0.6997840172786177,
+    "difficulty": 0.5696881091617934
+  },
+  "resources": [
+    {
+      "id": "6b5fe7dc-2fe4-49cb-9134-754015a0c493",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    dataList = data.split(\",\")\n    dataDict = dict()\n    \n    for entry in dataList:\n        key, value = entry.split(\":\")\n        key = key.strip()\n        value = value.strip()\n        dataDict[key] = value\n    \n    return dataDict",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "86ad14d9-26b5-4fee-87a0-4f36f96e17b4",
+    "body": "",
+    "questionId": "de583087-4a9f-4efd-b036-783bdfb67b26",
+    "resources": [
+      {
+        "id": "778512a7-907e-44b2-b4c2-1ec4f46c2a63",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=ILWGWQNGF6fVe3X7&t=1341"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "86ad14d9-26b5-4fee-87a0-4f36f96e17b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d26c88bd-56bb-4894-a937-f8e880ae96f6",
+      "name": "Dictionaries and Sets",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "191324397",
+        "timeSpentVideo": "16339776",
+        "submissions": 1807,
+        "submissionsCorrect": 1315,
+        "questions": 2,
+        "accuracy": 0.7277255118981738,
+        "difficulty": 0.5342160461457787
+      }
+    }
+  ],
+  "children": []
+}

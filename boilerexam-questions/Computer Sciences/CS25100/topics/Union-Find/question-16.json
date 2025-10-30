@@ -1,0 +1,139 @@
+{
+  "id": "3917979a-8390-425a-a41c-ddb0cff44bda",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following Union\u2013Find data structure as defined in the following table.\n\nSuppose that we call Find(9) using path compression. What is the updated Union\u2013Find data structure?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "32814a5b-98f4-4aa2-b7a8-bd8423c85e66",
+        "index": 0,
+        "body": "[8, 3, 3, 3, 4, 4, 2, 6, 1, 8]",
+        "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "22cce985-f5e4-4afd-9fbf-48d29a409cd2",
+        "index": 1,
+        "body": "[8, 3, 3, 3, 4, 4, 2, 6, 3, 3]",
+        "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+        "stats": {
+          "count": 890
+        },
+        "resources": []
+      },
+      {
+        "id": "cf0fb6b0-8c77-49a2-a778-98115a5d5bd5",
+        "index": 2,
+        "body": "[8, 3, 3, 3, 4, 2, 1, 6, 1, 8]",
+        "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "228716682",
+    "timeSpentVideo": "0",
+    "submissions": 1018,
+    "submissionsCorrect": 890,
+    "accuracy": 0.8742632612966601,
+    "difficulty": 0.40921288014311274
+  },
+  "resources": [
+    {
+      "id": "66ce24d0-c268-4b71-936f-2288b2634ef6",
+      "type": "IMAGE",
+      "data": {
+        "key": "4dEpVI0hE00gHPrQ1is2J",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/4dEpVI0hE00gHPrQ1is2J"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "2827c52e-3813-41ac-8e2f-8384b2148576",
+      "type": "IMAGE",
+      "data": {
+        "key": "YjPFvFu5Uw208SSs5Je04",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/YjPFvFu5Uw208SSs5Je04"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "c33bcee8-6262-4e71-bf8b-a4ccedd3efe5",
+    "body": null,
+    "questionId": "3917979a-8390-425a-a41c-ddb0cff44bda",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "fc472b40-5aa0-4f5b-9f16-192dbb369dc0",
+      "name": "Union-Find",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1009479997",
+        "timeSpentVideo": "18835702",
+        "submissions": 1554,
+        "submissionsCorrect": 1304,
+        "questions": 2,
+        "accuracy": 0.8391248391248392,
+        "difficulty": 0.4313784764207981
+      }
+    }
+  ],
+  "children": []
+}

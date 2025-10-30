@@ -1,0 +1,128 @@
+{
+  "id": "696174af-f29b-4a0b-abdc-964cdf861423",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Inverse Laplace Transform of\n$F(s) = \\frac{3s+1}{(s-3)^2+16}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4f408e5d-039f-4fe2-8ee0-1814efc30d24",
+        "index": 0,
+        "body": "$e^{3t}[3\\cos(4t)+\\sin(4t)]$",
+        "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "9c34d0a1-814b-4715-80ec-4ca5b1b57c4d",
+        "index": 1,
+        "body": "$e^{3t}[3\\cos(4t)+\\tfrac{5}{2}\\sin(4t)]$",
+        "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "8e0c3406-a5e9-4c27-bc4a-b96c9d27d1e9",
+        "index": 2,
+        "body": "$e^{4t}[\\tfrac{5}{2}\\cos(3t)+3\\sin(3t)]$",
+        "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "affb9bd7-5079-479e-acb1-732bb3ab7d73",
+        "index": 3,
+        "body": "$e^{-3t}[\\tfrac{5}{2}\\cosh(4t)-3\\sinh(4t)]$",
+        "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "075607a6-0a78-49c4-8cde-641baaebca64",
+        "index": 4,
+        "body": "$e^{3t}[3\\cos(4t)+10\\sin(4t)]$",
+        "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "521932",
+    "timeSpentVideo": "0",
+    "submissions": 3,
+    "submissionsCorrect": 3,
+    "accuracy": 1,
+    "difficulty": 0.7354368932038835
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "87e041fc-d11b-471b-b569-ec144212ff87",
+    "body": null,
+    "questionId": "696174af-f29b-4a0b-abdc-964cdf861423",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "cc0a67d9-6c8c-4c30-85b9-e97901f376ea",
+      "name": "Inverse Laplace",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2255453095",
+        "timeSpentVideo": "157741451",
+        "submissions": 3548,
+        "submissionsCorrect": 2145,
+        "questions": 6,
+        "accuracy": 0.60456595264938,
+        "difficulty": 0.6483004385964912
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Alice, Jane and Elizabeth designed three new algorithms for Mango Enterprises. Let $T_A(n)$ (resp. $T_J(n)$ and $T_E(n)$) denote the worst-case running time of Alice\u2019s (resp. Jane\u2019s and Elizabeth\u2019s) algorithm on any input of size $n$. Mango Enterprises works with very large datasets so they are only able to use algorithms with worst case running time $T(n) \u2208 O(n^2)$.\n\n(a) Alice runs her algorithm on data sets of size $n=10^6$ and $n=10^7$ and finds that the algorithm terminates in $3\u00d710^6$ and $3\u00d710^7$ steps respectively. Based on the observations above can Alice conclude that $T_A(n)\u2208O(n)$?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "1a2f1050-a7ef-420d-942e-5fe80fb26e55",
+        "index": 0,
+        "body": "Yes. The data given is enough to estimate the algorithm's runtime, which is $O(n)$.",
+        "questionId": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+        "stats": {
+          "count": 392
+        },
+        "resources": []
+      },
+      {
+        "id": "48a13158-39f7-44f5-a32a-c5a71997a250",
+        "index": 1,
+        "body": "Yes. The algorithm's runtime is $O(3n)$.",
+        "questionId": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "5129e2e2-0853-4a4c-ab12-3e2512ed57cd",
+        "index": 2,
+        "body": "No. The function is too slow and has runtimes too large to be considered $O(n)$.",
+        "questionId": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "c89366de-10dd-454b-be55-3735a438e132",
+        "index": 3,
+        "body": "No. There is not enough information given from the data given to draw a reasonable conclusion for the algorithm's time complexity.",
+        "questionId": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+        "stats": {
+          "count": 1028
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "271718297",
+    "timeSpentVideo": "58714552",
+    "submissions": 1921,
+    "submissionsCorrect": 1028,
+    "accuracy": 0.5351379489849037,
+    "difficulty": 0.7166006927263731
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "07aba6ff-7233-45f9-beb8-7507649641b4",
+    "body": "",
+    "questionId": "d078ee59-e554-4ff4-83f9-1a120ad0212f",
+    "resources": [
+      {
+        "id": "1bb1b6f8-52b9-4785-9999-80080527e1b4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=274"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "07aba6ff-7233-45f9-beb8-7507649641b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

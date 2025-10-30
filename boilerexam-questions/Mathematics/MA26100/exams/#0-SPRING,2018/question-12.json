@@ -1,0 +1,143 @@
+{
+  "id": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the line integral $\\int_{C} \\overrightarrow{\\mathbf{F}} \\cdot d \\overrightarrow{\\mathbf{r}}$ where $\\overrightarrow{\\mathbf{F}}(x, y, z)=y \\overrightarrow{\\mathbf{i}}-x \\overrightarrow{\\mathbf{j}}+x y \\overrightarrow{\\mathbf{k}}$ and $C$ is parametrized by $\\overrightarrow{\\mathbf{r}}(t)=\\sin t \\overrightarrow{\\mathbf{i}}+\\cos t \\overrightarrow{\\mathbf{j}}+t \\overrightarrow{\\mathbf{k}}$ with $0 \\leq t \\leq \\pi$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "badc3475-c0b6-4bec-8c3b-98704e69d910",
+        "index": 0,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "35f132de-e910-4839-9c52-c8985492571e",
+        "index": 1,
+        "body": "$-\\frac{\\pi}{2}$",
+        "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "f7ec156e-8adc-4f67-be0a-e9b9cf8630fd",
+        "index": 2,
+        "body": "$\\pi$",
+        "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+        "stats": {
+          "count": 1748
+        },
+        "resources": []
+      },
+      {
+        "id": "a5c173db-fd51-474d-8ccf-a2beb3937da0",
+        "index": 3,
+        "body": "$-\\pi$",
+        "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "20af1c66-058a-4e0c-9de8-187cf8e912c9",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "565789041",
+    "timeSpentVideo": "134724039",
+    "submissions": 2963,
+    "submissionsCorrect": 1748,
+    "accuracy": 0.5899426257171785,
+    "difficulty": 0.6629937969311133
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "f5b55240-6815-43a9-a117-f0e7bcbd3f21",
+    "body": "",
+    "questionId": "903ac57d-3f7f-4f5d-93f6-5970394c714d",
+    "resources": [
+      {
+        "id": "30c39b10-a8bb-4a6b-84e6-3da044067b31",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=pkpuNFU-uvNyg1NK&t=1869\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f5b55240-6815-43a9-a117-f0e7bcbd3f21",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

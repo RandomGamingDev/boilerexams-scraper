@@ -1,0 +1,143 @@
+{
+  "id": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $\\mathbf{F}(x, y)=P(x, y) \\mathbf{i}+Q(x, y) \\mathbf{j}$ and $\\frac{\\partial Q}{\\partial x}-\\frac{\\partial P}{\\partial y}=2$ for every $(x, y)$ in the plane.\n\nFind $\\oint_{C} \\mathbf{F} \\cdot d \\mathbf{r}$, where $C$ is parameterized by $\\mathbf{r}(t)=(3 \\cos t) \\mathbf{i}+(3 \\sin t) \\mathbf{j}, \\quad 0 \\leq t \\leq 2 \\pi$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f048e4d8-6037-4a83-b28f-d38413c0a2c4",
+        "index": 0,
+        "body": "$2 \\pi$",
+        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "ee8832c8-89f6-43f1-a568-21c196aeb16a",
+        "index": 1,
+        "body": "$6 \\pi$",
+        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "a42319c1-010a-4359-a37d-32806f5e1834",
+        "index": 2,
+        "body": "$9 \\pi$",
+        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "7f5c835d-e8ed-4ef1-adee-e2f0f6764f88",
+        "index": 3,
+        "body": "$12 \\pi$",
+        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "stats": {
+          "count": 434
+        },
+        "resources": []
+      },
+      {
+        "id": "7a5651e1-09c6-44d2-a491-c3e4413f7332",
+        "index": 4,
+        "body": "$18 \\pi$",
+        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "stats": {
+          "count": 1792
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "495172082",
+    "timeSpentVideo": "121498664",
+    "submissions": 3086,
+    "submissionsCorrect": 1792,
+    "accuracy": 0.5806869734283863,
+    "difficulty": 0.6718455743879472
+  },
+  "resources": [],
+  "exam": {
+    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+    "number": 0,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12922067341",
+      "timeSpentVideo": "3006876717",
+      "submissions": 60745,
+      "submissionsCorrect": 28135,
+      "questions": 20,
+      "accuracy": 0.4631656926496008,
+      "difficulty": 0.786773769414085
+    }
+  },
+  "explanation": {
+    "id": "6ed9f236-187b-4b16-bfdf-d0dc12ecc621",
+    "body": "",
+    "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+    "resources": [
+      {
+        "id": "7e4bb436-6059-4cad-bc3d-08bc0b730c4f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/snzGJb-fM6o?si=Cdui_FyiSkQG5_Zl&t=1942\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6ed9f236-187b-4b16-bfdf-d0dc12ecc621",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6b00f507-0e71-49ad-b1c7-8bab72eafe3e",
+      "name": "Greens Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18846148338",
+        "timeSpentVideo": "1774541677",
+        "submissions": 39505,
+        "submissionsCorrect": 21958,
+        "questions": 7,
+        "accuracy": 0.5558283761549171,
+        "difficulty": 0.6943125867945966
+      }
+    }
+  ],
+  "children": []
+}

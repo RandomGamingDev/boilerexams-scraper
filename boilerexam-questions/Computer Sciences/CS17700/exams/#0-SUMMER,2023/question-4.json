@@ -1,0 +1,133 @@
+{
+  "id": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following class Vector.\nTo normalize a vector, divide each component (x and y) by their sum. Then, the normalized components will add up to 1. Does the Vector's class normalize function behave as intended?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b0b93804-f372-495f-811f-15536037a0a3",
+        "index": 0,
+        "body": "No, self.y will not be normalized correctly because the value self.sum() changes during the normalization process.",
+        "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "06a059b7-ef4c-4be1-ac2f-08e4121a8878",
+        "index": 1,
+        "body": "No, self.sum() will throw an error because it is missing the parameter `self`.",
+        "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "38ba3ee7-84a4-4bbd-801a-dc0b34a69cf0",
+        "index": 2,
+        "body": "Yes, it behaves as intended because the code ensures that the sum of self.x and self.y after normalization will always add up to 1.",
+        "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "d65888fa-d03c-4877-9978-f19c8fb2ca25",
+        "index": 3,
+        "body": "Yes, it divides each component by the sum of the components using self.sum(), therefore normalizing the vector.",
+        "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "37249015",
+    "timeSpentVideo": "5244216",
+    "submissions": 285,
+    "submissionsCorrect": 155,
+    "accuracy": 0.543859649122807,
+    "difficulty": 0.7175324675324676
+  },
+  "resources": [
+    {
+      "id": "1cba02d1-80ee-43bd-855c-b7e3b22205d5",
+      "type": "CODE",
+      "data": {
+        "content": "class Vector:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def sum(self):\n        return self.x + self.y\n    def normalize(self):\n        # Normalizes the vector.\n        # This is done by dividing each component of the vector by # their sum\n        # A vector <1,1> would normalize to <1/2, 1/2>\n        self.x = self.x / self.sum()\n        self.y = self.y / self.sum()",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "0ab34b00-20dd-4bac-b8a3-68ea0fa324be",
+    "body": "",
+    "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
+    "resources": [
+      {
+        "id": "c9942233-4286-4b8a-bb17-fa453fc8bf20",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=rik2e5DCrDU8APM_&t=1437"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0ab34b00-20dd-4bac-b8a3-68ea0fa324be",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

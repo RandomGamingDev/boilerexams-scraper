@@ -1,0 +1,143 @@
+{
+  "id": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The points $P=(0,1)$ and $Q=\\left(\\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}\\right)$ are critical points of the function\n\n\\[\nf(x, y)=2 x^{3}-3 x^{2} y-y^{3}+3 y \\text {. }\n\\]\n\nClassify each as a relative maximum, relative minimum, or saddle point.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "dc9d9b67-5bab-430f-b7a4-8fcc2fab09c1",
+        "index": 0,
+        "body": "$f$ has a relative minimum at $P$ and a relative maximum at $Q$",
+        "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "e789e653-5b1a-4797-9c6b-503859744e53",
+        "index": 1,
+        "body": "$f$ has a relative maximum at $P$ and a saddle point at $Q$",
+        "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+        "stats": {
+          "count": 1253
+        },
+        "resources": []
+      },
+      {
+        "id": "ec8758a2-7d95-40a0-8217-8dd602d1f28d",
+        "index": 2,
+        "body": "$f$ has a saddle point at $P$ and a relative minimum at $Q$",
+        "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "499b8338-064a-4e19-964b-27618f189f2c",
+        "index": 3,
+        "body": "$f$ has relative maxima at $P$ and $Q$",
+        "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "6531bae1-db9d-461f-8ce4-6f0791427bc6",
+        "index": 4,
+        "body": "$f$ has relative minima at $P$ and $Q$",
+        "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "476783865",
+    "timeSpentVideo": "56614442",
+    "submissions": 1824,
+    "submissionsCorrect": 1253,
+    "accuracy": 0.6869517543859649,
+    "difficulty": 0.5727650727650727
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "6a9e0b39-9ec0-42e6-a836-4da9bdc05e12",
+    "body": "",
+    "questionId": "d13343b3-0e3c-4baa-abf4-07c39fe1e357",
+    "resources": [
+      {
+        "id": "f6ff20f1-17bf-4fca-af74-740bf3a65117",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=Dcm72ceopmCfZjHY&t=1317\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6a9e0b39-9ec0-42e6-a836-4da9bdc05e12",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7ebf9728-5c70-4eca-bcfc-b664e78b78c8",
+      "name": "Min Max",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28196006115",
+        "timeSpentVideo": "2853105166",
+        "submissions": 55506,
+        "submissionsCorrect": 29731,
+        "questions": 16,
+        "accuracy": 0.5356357871221129,
+        "difficulty": 0.7144282991044132
+      }
+    }
+  ],
+  "children": []
+}

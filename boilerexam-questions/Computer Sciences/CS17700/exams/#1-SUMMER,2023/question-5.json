@@ -1,0 +1,149 @@
+{
+  "id": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Antonio is learning Python. Which of the following for loop definitions can he use to replace line 9 and still achieve the same behavior? Note that Antonio is smart and understands that replacing line 9 with a for loop allows him to delete line 19.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9b6d92c5-1fdc-4b55-8783-1e3ee44191d3",
+        "index": 0,
+        "body": "He must use \\verb|for index in message: |",
+        "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "eebd4bf8-a4c0-4b30-b716-a002054dcf45",
+        "index": 1,
+        "body": "He must use \\verb|for index in range(0, length - 1): |",
+        "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "bcfd6adb-1d69-4064-9191-45613b5c2e69",
+        "index": 2,
+        "body": "He must use \\verb|for index in range(0, length): |",
+        "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+        "stats": {
+          "count": 457
+        },
+        "resources": []
+      },
+      {
+        "id": "00157426-c5bc-4eb7-80a0-f552be8db86f",
+        "index": 3,
+        "body": "He must use \\verb|for index in range(0, index):|",
+        "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40655779",
+    "timeSpentVideo": "830984",
+    "submissions": 530,
+    "submissionsCorrect": 457,
+    "accuracy": 0.8622641509433963,
+    "difficulty": 0.4452380952380952
+  },
+  "resources": [
+    {
+      "id": "5c990eeb-6d3c-4280-a8aa-42485e4a512b",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nmessage = input(\"Write a message: \")\n\nvowels = 0\nothers = 0\nindex = 0\nlength = len(message)\n\nwhile index < length:\n\n    l = message[index]\n\n    if l == \"a\" or l == \"e\" or l == \"i\" or l == \"o\" or l == \"u\":\n        vowels = vowels + 1\n\n    else:\n        others = others + 1\n\n    index = index + 1\n\ntally = \"The message has \" + str(vowels) + \" vowels and \" + str(others) + \" others.\"\nprint(tally)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "24bcee2b-b074-452f-85ae-796548528065",
+    "body": "",
+    "questionId": "7f68048d-ebf9-448e-8997-a1cbd41732e6",
+    "resources": [
+      {
+        "id": "1267a0e0-c28d-4a77-adca-9bd5598018a0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=4ofvNoXYEVRL7JMk&t=1914"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "24bcee2b-b074-452f-85ae-796548528065",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": "eca16931-c032-433f-a5e0-72030fa38b16",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following would cause a compilation error in the declaration of the <font style=\"font-family:'Courier New'\">printData</font> function that is called in the <font style=\"font-family:'Courier New'\">main</font> function given?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d681cbfa-0334-4f21-935e-bf6b300c3c3f",
+        "index": 0,
+        "body": "void printData(float, double, double, float, int);",
+        "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "1337ae70-6ad1-456f-81e4-cc5bd9cd6e9e",
+        "index": 1,
+        "body": "void printData(float v, double sa, double c, float r, int one);",
+        "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+        "stats": {
+          "count": 654
+        },
+        "resources": []
+      },
+      {
+        "id": "f2dc6dbb-34fb-423d-af01-4f01ce98e3f0",
+        "index": 2,
+        "body": "void printData(double, double, double, double, int);",
+        "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+        "stats": {
+          "count": 1079
+        },
+        "resources": []
+      },
+      {
+        "id": "0009ea99-3cc9-4ceb-9efa-3834f22a2da4",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+        "stats": {
+          "count": 1192
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "272988607",
+    "timeSpentVideo": "0",
+    "submissions": 3057,
+    "submissionsCorrect": 1192,
+    "accuracy": 0.38992476283938504,
+    "difficulty": 0.8565885334178017
+  },
+  "resources": [
+    {
+      "id": "c01d2eea-170f-413c-a762-7b26c90f4b05",
+      "type": "CODE",
+      "data": {
+        "content": "int main()\n{\n  float radius;\n  double circ;\n  double surfArea;\n  float volume;\n  float totalVol = 0;\n  double totalArea = 0;\n\n  radius = getRadius();\n  circ = calcCirc(radius);\n  surfArea = calcSurfArea(radius);\n  volume = calcVolume(radius);\n\n  printData(radius, circ, surfArea, volume, 1);\n  totalVol += volume;\n  totalArea += surfArea;\n\n  printTotals(totalVol, totalArea);\n\n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "bc804b52-548f-43e4-a3f2-7c37170ff723",
+    "body": "",
+    "questionId": "eca16931-c032-433f-a5e0-72030fa38b16",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

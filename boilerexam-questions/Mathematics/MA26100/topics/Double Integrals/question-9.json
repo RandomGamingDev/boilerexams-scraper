@@ -1,0 +1,157 @@
+{
+  "id": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "By changing the order of integration, compute\n\n\\[\n\\int_{0}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} \\sqrt{1-y^{2}} d y d x\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "10401128-72a7-421a-a4cb-aeb2ef3f6c9b",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "09ddc068-42d7-4e65-a329-acb5367ac6ff",
+        "index": 1,
+        "body": "$\\pi / 4$",
+        "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "e83561ab-6fe8-4c09-b9c9-9f327cc1a9e1",
+        "index": 2,
+        "body": "$1 / 3$",
+        "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+        "stats": {
+          "count": 214
+        },
+        "resources": []
+      },
+      {
+        "id": "a95a5e78-3e15-4cd3-aefb-52287a060b29",
+        "index": 3,
+        "body": "$2 / 3$",
+        "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+        "stats": {
+          "count": 3137
+        },
+        "resources": []
+      },
+      {
+        "id": "ef96f382-ab1e-4161-bc61-cf2c99b6ad36",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "865115398",
+    "timeSpentVideo": "55426357",
+    "submissions": 4131,
+    "submissionsCorrect": 3137,
+    "accuracy": 0.7593802953280078,
+    "difficulty": 0.49675017726305837
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "01c944fd-2c67-4884-9800-8af331cdaed1",
+    "body": "",
+    "questionId": "360f0de1-68dd-42dc-bea9-96a70ac0bdb1",
+    "resources": [
+      {
+        "id": "07e537d9-3818-4982-b91d-6e13414e5097",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=l2uFs2p1rYD_y2vB&t=1333"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "01c944fd-2c67-4884-9800-8af331cdaed1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "4574ab58-4af7-45a1-831a-f8c2c0385c56",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=l2uFs2p1rYD_y2vB&t=1333"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "01c944fd-2c67-4884-9800-8af331cdaed1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    }
+  ],
+  "children": []
+}

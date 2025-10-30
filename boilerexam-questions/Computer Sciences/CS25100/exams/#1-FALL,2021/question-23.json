@@ -1,0 +1,159 @@
+{
+  "id": "5f349344-4cd6-474a-8070-ba68ba7da143",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using Shell Sort with H={13,4,1} for sorting the array [P, U, R, D, U, E] in descending order, the number of compares is:",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "55446417-552a-4f0b-b578-093f031b2222",
+        "index": 0,
+        "body": "11",
+        "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "f0619989-dae3-4d97-9e01-548c3784b4d9",
+        "index": 1,
+        "body": "10",
+        "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "9da5d669-cf9a-486e-8912-d62ebd73f669",
+        "index": 2,
+        "body": "9",
+        "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "7089530f-3dca-4f91-be25-e733173f2fb2",
+        "index": 3,
+        "body": "8",
+        "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "12977b86-d430-41ac-9901-b5ca88760cf9",
+        "index": 4,
+        "body": "7",
+        "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+        "stats": {
+          "count": 235
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "195014658",
+    "timeSpentVideo": "0",
+    "submissions": 604,
+    "submissionsCorrect": 235,
+    "accuracy": 0.3890728476821192,
+    "difficulty": 0.8451704545454546
+  },
+  "resources": [
+    {
+      "id": "998753a7-f587-475d-8ba5-87d4cbc5f0ff",
+      "type": "CODE",
+      "data": {
+        "content": "Algorithm ShellSort(A, H)\n   Let n = |A|\n   Let m = |H|\n   for (h = 0, h < m, 1)\n      Let gap = H[h]\n      for (i = 1, i < n, 1) \n         j = i - 1\n         while (j >= 0 && j + gap < n && A[j] > A[j + gap]) \n            swap(A, j, j + gap)\n            j -= gap\n         end while\n      end for\n   end for\n   return A\nEnd Algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "258c6e9b-5e33-4986-a34a-ff9db4e65adf",
+    "body": null,
+    "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "2fed0c0c-f7c3-455d-a23e-b8a2f5a79fba",
+      "name": "Shell Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "743801622",
+        "timeSpentVideo": "0",
+        "submissions": 1350,
+        "submissionsCorrect": 589,
+        "questions": 3,
+        "accuracy": 0.4362962962962963,
+        "difficulty": 0.8093103448275862
+      }
+    }
+  ],
+  "children": []
+}

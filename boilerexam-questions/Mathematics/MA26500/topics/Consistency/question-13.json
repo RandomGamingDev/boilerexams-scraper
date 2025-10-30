@@ -1,0 +1,173 @@
+{
+  "id": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the equation $A \\mathbf{x}=\\mathbf{0}$, where $A$ is a $5 \\times 7$ matrix. Which of the following statements is/are TRUE?\n\n(i) $A \\mathbf{x}=\\mathbf{0}$ has infinitely many solutions.\n\n(ii) The matrix $A$ has $\\operatorname{rank}(A) \\leq 5$.\n\n(iii) The associated linear system has exactly two free variables.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "15e59714-3e5b-47a9-8d26-9031b7c0b3d5",
+        "index": 0,
+        "body": "(i) and (ii) only",
+        "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+        "stats": {
+          "count": 1674
+        },
+        "resources": []
+      },
+      {
+        "id": "e6873ae4-8752-4da9-b6a2-c8982a95d88e",
+        "index": 1,
+        "body": "(i) and (iii) only",
+        "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "25c7d261-1d4e-48eb-8962-eb7f6edff82b",
+        "index": 2,
+        "body": "(i) only",
+        "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "7dacac73-bbc4-4109-9775-e7eebc347e28",
+        "index": 3,
+        "body": "(ii) only",
+        "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+        "stats": {
+          "count": 467
+        },
+        "resources": []
+      },
+      {
+        "id": "f0f4cb9e-558c-470b-8ecb-cbed88a47211",
+        "index": 4,
+        "body": "(i), (ii), and (iii)",
+        "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "252887836",
+    "timeSpentVideo": "39804148",
+    "submissions": 2604,
+    "submissionsCorrect": 1674,
+    "accuracy": 0.6428571428571429,
+    "difficulty": 0.6124260355029586
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "8fa5153d-195e-47c4-8ac9-c469df115be4",
+    "body": "",
+    "questionId": "1ff8b619-f20e-4a0f-97c0-dc4cb6672a6f",
+    "resources": [
+      {
+        "id": "b54f3cbd-d725-4ba2-90cb-be864717c5bc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3077"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8fa5153d-195e-47c4-8ac9-c469df115be4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

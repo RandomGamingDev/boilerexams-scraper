@@ -1,0 +1,144 @@
+{
+  "id": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Select the tightest order of growth as a function of n of the running time of the following pseudocode fragment. Assume all variables are integers.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "78f7d181-67a3-41ae-b559-d910d4c96bd6",
+        "index": 0,
+        "body": "$O(n \\log{(n)})$",
+        "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+        "stats": {
+          "count": 1184
+        },
+        "resources": []
+      },
+      {
+        "id": "bced2bb8-d0d5-4789-b82d-990fc3915c23",
+        "index": 1,
+        "body": "$O(n^2 \\log{(n)})$",
+        "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "7747dad5-5c91-44c2-984a-3e4e7dbae755",
+        "index": 2,
+        "body": "$O(\\log{(n)})$",
+        "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "be4bb77c-1472-4a0c-8ddb-aafa9ab3b6a7",
+        "index": 3,
+        "body": "$O(n^2)$",
+        "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "4e7062b5-d940-457b-aae7-25e05cf693ad",
+        "index": 4,
+        "body": "$O(n)$",
+        "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "167571830",
+    "timeSpentVideo": "0",
+    "submissions": 1353,
+    "submissionsCorrect": 1184,
+    "accuracy": 0.8750923872875093,
+    "difficulty": 0.40072264280798353
+  },
+  "resources": [
+    {
+      "id": "0d4c5dc5-fee7-4752-9005-c1f5e982505a",
+      "type": "CODE",
+      "data": {
+        "content": "int sum = 0\n\nfor (k = 1, k < n, k *= 2)\n   for (i = 0, i < n, i += 1)\n      sum = sum + 1\n   end for\nend for\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "bc50aa74-c49a-455d-83dc-9a4dbc48870e",
+    "body": null,
+    "questionId": "5cb0211f-9260-44d8-8268-1cc8a6f57fa8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

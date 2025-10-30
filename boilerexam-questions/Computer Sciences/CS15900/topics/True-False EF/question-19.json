@@ -1,0 +1,149 @@
+{
+  "id": "2fc3446c-ba89-4494-b082-479370ad0a98",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the two dimensional array in the program is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "dfdd6ef8-125b-4380-8dbc-c9de04616d7f",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The smallest integer value in the array is 0.</font>",
+        "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "b2822469-488d-4d7e-b997-9ee854cbae5d",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The largest integer value in the array is 24.</font>",
+        "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "e74823e2-8f1b-4ce9-ae2d-78337c4217cd",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The largest integer in the second row is greater than the largest integer in the first row.</font>",
+        "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+        "stats": {
+          "count": 1081
+        },
+        "resources": []
+      },
+      {
+        "id": "93fd7849-e3c6-4886-92a8-a0d3a04bcbe6",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+        "stats": {
+          "count": 286
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "342134237",
+    "timeSpentVideo": "0",
+    "submissions": 1985,
+    "submissionsCorrect": 1081,
+    "accuracy": 0.5445843828715365,
+    "difficulty": 0.7075539568345324
+  },
+  "resources": [
+    {
+      "id": "00c109eb-a6fe-422d-8c64-b8b4dedb1ff1",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE1 5\n#define SIZE2 7\nvoid populateData(int[][SIZE2], int, int);\n\nint main() {\n  int x[SIZE1][SIZE2];\n  int i;\n  int j;\n  \n  for(i = 0; i < SIZE1; i++)\n  {\n    for(j = 0; j < SIZE2; j++)\n    {\n      populateData(x, i, j);\n    }\n  }\n  \n  return(0); \n}\n\nvoid populateData(int y[][SIZE2], int i, int j)\n{\n  y[i][j] = (i == 0 || j == 0) ? i + j : i * j;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "2946101a-b16c-4ce8-8d29-00ab25c52804",
+    "body": "",
+    "questionId": "2fc3446c-ba89-4494-b082-479370ad0a98",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "bb5ef0c3-8b2f-452b-adb9-fe876de85aa9",
+      "name": "Multidimensional Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3502357237",
+        "timeSpentVideo": "0",
+        "submissions": 8665,
+        "submissionsCorrect": 5764,
+        "questions": 4,
+        "accuracy": 0.665204847085978,
+        "difficulty": 0.5866799771819737
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

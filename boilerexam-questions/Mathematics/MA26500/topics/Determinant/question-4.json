@@ -1,0 +1,173 @@
+{
+  "id": "148b9a41-d483-4464-9b87-b8c413426734",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": " Which of the following statements must be TRUE?\n\n(i) If $T: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{2}$ is the linear transformation associated to a $2 \\times 2$ matrix $A$ and $A^{T} A$ is the identity matrix, then for any parallelogram $S$, the area of $T(S)$ is the area of $S$.\n\n(ii) A homogeneous linear system of $n$ equations in $n$ variables has infinitely many solutions if and only if the determinant of the coefficient matrix is zero.\n\n(iii) If $A$ is an $n \\times n$ matrix with non-zero determinant, then $A$ is invertible and the inverse of $A$ is given by\n\n\\[\nA^{-1}=\\frac{1}{\\operatorname{det}(A)} A\n\\]\n\n(iv) If $T: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{3}$ is the linear transformation associated to a $3 \\times 3$ matrix $A$ such that there is some parallelepiped $S$ for which $T(S)$ is a flat parallelogram, then $\\operatorname{det}(A)=0$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a1f8deb0-8cb4-4ba8-b959-d9b645769373",
+        "index": 0,
+        "body": "(i) and (iv) only",
+        "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+        "stats": {
+          "count": 771
+        },
+        "resources": []
+      },
+      {
+        "id": "25a3222e-ab02-4113-9317-8268acf38468",
+        "index": 1,
+        "body": "(iii) and (iv) only",
+        "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+        "stats": {
+          "count": 330
+        },
+        "resources": []
+      },
+      {
+        "id": "e24dc177-e64f-4184-88d5-15984190766d",
+        "index": 2,
+        "body": "(i), (ii), and (iv) only",
+        "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+        "stats": {
+          "count": 2543
+        },
+        "resources": []
+      },
+      {
+        "id": "671f4b3f-5c4c-493d-83b3-1c016d2c8b12",
+        "index": 3,
+        "body": "(ii), (iii) and (iv) only",
+        "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+        "stats": {
+          "count": 555
+        },
+        "resources": []
+      },
+      {
+        "id": "3637c689-900a-4f36-b3c8-3843608155d4",
+        "index": 4,
+        "body": "all are true",
+        "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1036783494",
+    "timeSpentVideo": "301595842",
+    "submissions": 4801,
+    "submissionsCorrect": 2543,
+    "accuracy": 0.5296813163924182,
+    "difficulty": 0.720924301163028
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "b7ceba22-9562-4130-bc49-ad5802b4b61d",
+    "body": "",
+    "questionId": "148b9a41-d483-4464-9b87-b8c413426734",
+    "resources": [
+      {
+        "id": "5ef85d98-c473-4491-a9aa-d0c2beda7b39",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?t=805\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b7ceba22-9562-4130-bc49-ad5802b4b61d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

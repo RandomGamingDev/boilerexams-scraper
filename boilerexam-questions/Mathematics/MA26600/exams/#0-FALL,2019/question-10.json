@@ -1,0 +1,143 @@
+{
+  "id": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particular solution of the equation\n\n\n\\[\ny^{(4)}-y^{\\prime \\prime}=2 \\sin t-3 e^{-t}+4 t\n\\]\n\nis of the form",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3b96ee27-a0b5-42e9-adee-c50195470874",
+        "index": 0,
+        "body": "$y_{p}(t)=A \\cos t+B \\sin t+C t e^{-t}+t^{2}(D t+E)$",
+        "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+        "stats": {
+          "count": 1560
+        },
+        "resources": []
+      },
+      {
+        "id": "98c3251b-0707-4258-96ce-38615fc0b059",
+        "index": 1,
+        "body": "$y_{p}(t)=t(A \\cos t+B \\sin t)+C t e^{-t}+t^{2}(D t+E)$",
+        "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "a01dbe37-ed47-4574-80a0-e80f8bed2a85",
+        "index": 2,
+        "body": "$y_{p}(t)=A \\cos t+B \\sin t+C e^{-t}+t^{2}(D t+E)$",
+        "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+        "stats": {
+          "count": 218
+        },
+        "resources": []
+      },
+      {
+        "id": "b98dcdad-d6ed-47db-8f2b-7dd0745eb656",
+        "index": 3,
+        "body": "$y_{p}(t)=t(A \\cos t+B \\sin t)+C e^{-t}+t^{2}(D t+E)$",
+        "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "19db75d4-77a4-48b7-b16e-ed9f716fdaa6",
+        "index": 4,
+        "body": "$y_{p}(t)=t(A \\cos t+B \\sin t)+C t e^{-t}+t(D t+E)$",
+        "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "561110447",
+    "timeSpentVideo": "127845952",
+    "submissions": 2698,
+    "submissionsCorrect": 1560,
+    "accuracy": 0.5782060785767235,
+    "difficulty": 0.6745889921372409
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "08300c58-694e-4111-953e-ec5cc34f7963",
+    "body": "",
+    "questionId": "f89f1673-0234-42d5-94d9-2cc3ce25339c",
+    "resources": [
+      {
+        "id": "39ab78e4-058c-4c70-8584-fcba58fb3a3d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=j5siK1Y2UoPExqDE&t=1534"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "08300c58-694e-4111-953e-ec5cc34f7963",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

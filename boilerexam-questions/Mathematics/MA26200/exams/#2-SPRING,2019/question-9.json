@@ -1,0 +1,143 @@
+{
+  "id": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) If we use the variation of parameters method to find a particular solution $y_{p}$ of\n\n\\[\ny^{\\prime \\prime}-2 y^{\\prime}+y=t^{-4} e^{5 t},\n\\]\n\nwe get $y_{p}(t)=v_{1}(t) e^{t}+v_{2}(t) t e^{t}$. What is $v_{1}^{\\prime}(t)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6ef97e78-8c8e-403d-a5dd-1d69846ba94b",
+        "index": 0,
+        "body": "$-t^{-3} e^{5 t}$",
+        "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "5f11a563-39b8-40dd-86ea-14f1104883a9",
+        "index": 1,
+        "body": "$-t^{-3} e^{4 t}$",
+        "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+        "stats": {
+          "count": 399
+        },
+        "resources": []
+      },
+      {
+        "id": "bb05412f-83dd-49a5-b237-ef7a54fc707c",
+        "index": 2,
+        "body": "$-t^{-3} e^{6 t}$",
+        "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "b5337edf-3c0d-4a42-b7e6-2433d4f5f5d0",
+        "index": 3,
+        "body": "$-t^{-4} e^{5 t}$",
+        "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "75589971-3368-4125-a852-061149db5800",
+        "index": 4,
+        "body": "$-t^{-4} e^{4 t}$",
+        "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "247579062",
+    "timeSpentVideo": "118226450",
+    "submissions": 833,
+    "submissionsCorrect": 399,
+    "accuracy": 0.4789915966386555,
+    "difficulty": 0.7687566988210075
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "29d35883-3945-4165-b25c-f434a61fc372",
+    "body": "",
+    "questionId": "ce3fc82c-50c7-4d02-8e5b-9d42003fbcc6",
+    "resources": [
+      {
+        "id": "4e5fbc91-efdb-4349-add9-8336f863f163",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=oy6CE6SkTRKOJ3iy&t=1241\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "29d35883-3945-4165-b25c-f434a61fc372",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

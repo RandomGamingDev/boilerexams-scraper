@@ -1,0 +1,143 @@
+{
+  "id": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x,y) = x^2e^{x+y}$. Find a unit vector in the direction of most rapid decrease for $f$ when $(x,y) = (1,1)$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a242a21b-788d-4ca7-8da7-53bcf9114185",
+        "index": 0,
+        "body": "$\\left\\langle 3 e^{2}, e^{2}\\right\\rangle$",
+        "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      },
+      {
+        "id": "78cd2244-ec36-48ea-b115-c1a59c6b59f5",
+        "index": 1,
+        "body": "$\\frac{\\langle 3,1\\rangle}{\\sqrt{10}}$",
+        "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+        "stats": {
+          "count": 582
+        },
+        "resources": []
+      },
+      {
+        "id": "58a13c44-01eb-4a94-a6f5-22460cd2318d",
+        "index": 2,
+        "body": "$\\frac{\\left\\langle-3 e^{2},-e^{2}\\right\\rangle}{\\sqrt{10}}$",
+        "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+        "stats": {
+          "count": 547
+        },
+        "resources": []
+      },
+      {
+        "id": "3f6db731-1f45-4525-a439-9b185ca1fe4f",
+        "index": 3,
+        "body": "$\\frac{\\langle-3,-1\\rangle}{\\sqrt{10}}$",
+        "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+        "stats": {
+          "count": 3578
+        },
+        "resources": []
+      },
+      {
+        "id": "902fa32c-7253-4107-8ff8-81c29a6814bf",
+        "index": 4,
+        "body": "$\\left\\langle-3 e^{2},-e^{2}\\right\\rangle$",
+        "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+        "stats": {
+          "count": 303
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "929142583",
+    "timeSpentVideo": "119992320",
+    "submissions": 5863,
+    "submissionsCorrect": 3578,
+    "accuracy": 0.6102677809994883,
+    "difficulty": 0.6415814187489519
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "e96eb392-8f2c-4dd9-8877-8a520d057714",
+    "body": "",
+    "questionId": "bd0a95d0-9f0f-4c9c-b478-ee466a166efe",
+    "resources": [
+      {
+        "id": "e8f817c3-3685-46d1-a161-1571492f4fa5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=771"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e96eb392-8f2c-4dd9-8877-8a520d057714",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2e05110b-efbd-4404-a0d9-6f7783fe2c17",
+      "name": "Gradient Vector",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19089777605",
+        "timeSpentVideo": "988937795",
+        "submissions": 43347,
+        "submissionsCorrect": 25870,
+        "questions": 7,
+        "accuracy": 0.5968117747479641,
+        "difficulty": 0.6534110525467811
+      }
+    }
+  ],
+  "children": []
+}

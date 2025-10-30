@@ -1,0 +1,149 @@
+{
+  "id": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "How many times will the program print <font style=\"font-family:'Courier New'\">unknown grade</font>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3c47d8e7-1caf-4a5e-8320-eb38458441c8",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Zero times</font>",
+        "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "24f70b2e-e1f1-4059-a856-c4b5ae964f5c",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">One time</font>",
+        "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+        "stats": {
+          "count": 368
+        },
+        "resources": []
+      },
+      {
+        "id": "91dda466-07ed-41b9-b3ed-43e62aecbc93",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Five times</font>",
+        "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+        "stats": {
+          "count": 792
+        },
+        "resources": []
+      },
+      {
+        "id": "b9e0e60b-0ef3-4efe-89ec-0fbf01abdfcb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "28900004",
+    "timeSpentVideo": "11218970",
+    "submissions": 1328,
+    "submissionsCorrect": 792,
+    "accuracy": 0.5963855421686747,
+    "difficulty": 0.6603641456582633
+  },
+  "resources": [
+    {
+      "id": "a94cdf79-81af-4f1b-a013-1cd81cb468e3",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define NUM_CLASSES 6\n\nint main(void)\n{\n  int i;\n  int grade[NUM_CLASSES] = {65, 65, 67, 66, 66, 80};\n  int credit[NUM_CLASSES] = {3, 1, 4, 2, 3, 0};\n  double points = 0;\n  double credits = 0;\n\n  for (i = NUM_CLASSES - 1; i > 0; i--)\n  {\n    credits += credit[i];\n\n    switch(grade[i])\n    {\n      case 'A': points += credit[i];\n      case 'B': points += credit[i];\n      case 'C': points += credit[i];\n      case 'D': points += credit[i];\n      default:  printf(\"unknown grade\\n\");\n    }\n  }\n\n  return (0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "0b48bd4c-e359-407a-8c2f-d552f4e9c310",
+    "body": "",
+    "questionId": "5c6140d9-f0d4-479c-b95f-04d183cbfab9",
+    "resources": [
+      {
+        "id": "1e65b21c-105a-426e-8ea6-7e4f20e93794",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=625"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0b48bd4c-e359-407a-8c2f-d552f4e9c310",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

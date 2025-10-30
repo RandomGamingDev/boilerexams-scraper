@@ -1,0 +1,133 @@
+{
+  "id": "71705b88-7150-4961-b3c1-2505fdee45cf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the following arrays declared in the local declaration section of a function:<br><font style=\"font-family:'Courier New'\">int x[5];</font><br><font style=\"font-family:'Courier New'\">int y[5] = {1};</font><br>What are the values of <font style=\"font-family:'Courier New'\">x[0]</font> and <font style=\"font-family:'Courier New'\">y[1]</font>?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3787c988-2226-4407-ba24-d7caf780de92",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">x[0]</font> is uninitialized and <font style=\"font-family:'Courier New'\">y[1]</font> is zero.",
+        "questionId": "71705b88-7150-4961-b3c1-2505fdee45cf",
+        "stats": {
+          "count": 1545
+        },
+        "resources": []
+      },
+      {
+        "id": "78f2d4c6-7f1a-4fce-88a0-59bd396c8714",
+        "index": 1,
+        "body": "Both <font style=\"font-family:'Courier New'\">x[0]</font> and <font style=\"font-family:'Courier New'\">y[1]</font> are uninitialized.",
+        "questionId": "71705b88-7150-4961-b3c1-2505fdee45cf",
+        "stats": {
+          "count": 386
+        },
+        "resources": []
+      },
+      {
+        "id": "d3e730c2-563b-49ae-8eb5-a130eb7f1b76",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">x[0]</font> is zero and <font style=\"font-family:'Courier New'\">y[1]</font> is one.",
+        "questionId": "71705b88-7150-4961-b3c1-2505fdee45cf",
+        "stats": {
+          "count": 273
+        },
+        "resources": []
+      },
+      {
+        "id": "316f7952-54dc-4b56-aea2-0f414a0cce90",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "71705b88-7150-4961-b3c1-2505fdee45cf",
+        "stats": {
+          "count": 298
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 34,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "79276960",
+    "timeSpentVideo": "43110059",
+    "submissions": 2603,
+    "submissionsCorrect": 1545,
+    "accuracy": 0.593545908567038,
+    "difficulty": 0.6599149093599704
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "35c27bdf-9a81-475d-8ee3-7fa38ad08754",
+    "body": "",
+    "questionId": "71705b88-7150-4961-b3c1-2505fdee45cf",
+    "resources": [
+      {
+        "id": "29188e92-ccb5-4d14-ada5-482433724957",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=5700"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "35c27bdf-9a81-475d-8ee3-7fa38ad08754",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

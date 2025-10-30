@@ -1,0 +1,134 @@
+{
+  "id": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following sorting algorithm.\n\n(b) Describe the $\\bold{best}$\u2013case input of length n. Analyze the running time of the algorithm on this input.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "52d4bb73-b80e-4104-abea-467b949b6c92",
+        "index": 0,
+        "body": "The input list would be in an ascending or descending order. This would have a runtime of $O(n)$.",
+        "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "522af2dc-8ae7-4cff-adae-714d903e8d81",
+        "index": 1,
+        "body": "The input list would be in an ascending or descending order. This would have a runtime of $O(n^2)$.",
+        "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "e7393cf6-b4a1-4555-82a6-6e1801dd8c90",
+        "index": 2,
+        "body": "The input list would be ordered in such a way where adding all of its numbers to the BST would cause the BST to be balanced. This would have a runtime of $O(\\log n)$.",
+        "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      },
+      {
+        "id": "2e6694e9-685b-4a45-97af-deba2dcf6ac1",
+        "index": 3,
+        "body": "The input list would be ordered in such a way where adding all of its numbers to the BST would cause the BST to be balanced. This would have a runtime of $O(n\\log{(n)})$.",
+        "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+        "stats": {
+          "count": 554
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "65950882",
+    "timeSpentVideo": "0",
+    "submissions": 863,
+    "submissionsCorrect": 554,
+    "accuracy": 0.641946697566628,
+    "difficulty": 0.6227933541017653
+  },
+  "resources": [
+    {
+      "id": "9590540f-1a7e-42d9-978c-82ffb44f9927",
+      "type": "CODE",
+      "data": {
+        "content": "1. input - A list L of n numbers.\n2. Iterate through L and add each number to a regular Binary Search Tree T.\n3. return the in-order traversal of T.",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "44a16992-bc9e-43cb-90ca-e551cdd65fad",
+    "body": null,
+    "questionId": "4f6643de-06dd-48a2-b157-9bc8c038ac49",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

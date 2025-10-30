@@ -1,0 +1,143 @@
+{
+  "id": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Select the system of first-order differential equations that is equivalent to\n\n\n\\[\n2 x^{\\prime \\prime}+4 x^{\\prime}-10 x=e^{t} .\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b447a45f-a3a3-4357-b6e6-64422717b07d",
+        "index": 0,
+        "body": "$\\left\\{\\begin{array}{l}x_{1}^{\\prime}=x_{2} \\\\ x_{2}^{\\prime}=-4 x_{2}+10 x_{1}\\end{array}\\right.$",
+        "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "768d9151-e265-4343-a2b2-9f48bf77edce",
+        "index": 1,
+        "body": "$\\left\\{\\begin{array}{l}x_{1}^{\\prime}=x_{2} \\\\ x_{2}^{\\prime}=4 x_{2}+10 x_{1}+e^{t}\\end{array}\\right.$",
+        "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "4fd3aee9-2ada-4601-929b-baef5192c3b4",
+        "index": 2,
+        "body": "$\\left\\{\\begin{array}{l}x_{1}^{\\prime}=-2 x_{2}+5 x_{1} \\\\ x_{2}^{\\prime}=-x_{1}\\end{array}\\right.$",
+        "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "971c2eae-6247-492a-8296-5ebad379a8ea",
+        "index": 3,
+        "body": "$\\left\\{\\begin{array}{l}x_{1}^{\\prime}=x_{2} \\\\ x_{2}^{\\prime}=-2 x_{2}+5 x_{1}+\\frac{1}{2} e^{t}\\end{array}\\right.$",
+        "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+        "stats": {
+          "count": 482
+        },
+        "resources": []
+      },
+      {
+        "id": "2ffbcab1-30b2-41fa-8932-3867dad911c9",
+        "index": 4,
+        "body": "$\\left\\{\\begin{array}{l}x_{1}^{\\prime}=2 x_{2} \\\\ x_{2}^{\\prime}=-4 x_{2}+10 x_{1}+e^{t}\\end{array}\\right.$",
+        "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "84544966",
+    "timeSpentVideo": "9754586",
+    "submissions": 631,
+    "submissionsCorrect": 482,
+    "accuracy": 0.7638668779714739,
+    "difficulty": 0.5222298221614227
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "17b6dcaf-01cc-4ff2-9156-0940738d9a70",
+    "body": "",
+    "questionId": "5ff1764b-9da9-4cb4-81ae-9aee6c4fe834",
+    "resources": [
+      {
+        "id": "45a61262-2049-45ab-973c-dab4642ec3e8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=ajXPT-dvF0UJ-t7-&t=1373"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "17b6dcaf-01cc-4ff2-9156-0940738d9a70",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8a469da1-2abb-4afc-a453-d3d3d7225815",
+      "name": "System of Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2751687092",
+        "timeSpentVideo": "157437810",
+        "submissions": 6359,
+        "submissionsCorrect": 4496,
+        "questions": 9,
+        "accuracy": 0.7070294071394874,
+        "difficulty": 0.5461758786189813
+      }
+    }
+  ],
+  "children": []
+}

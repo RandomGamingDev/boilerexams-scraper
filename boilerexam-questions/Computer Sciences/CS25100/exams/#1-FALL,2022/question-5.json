@@ -1,0 +1,118 @@
+{
+  "id": "c778c8cc-873d-4dba-ab9a-bbc66b487356",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Alice, Jane and Elizabeth designed three new algorithms for Mango Enterprises. Let $T_A(n)$ (resp. $T_J(n)$ and $T_E(n)$) denote the worst-case running time of Alice\u2019s (resp. Jane\u2019s and Elizabeth\u2019s) algorithm on any input of size $n$. Mango Enterprises works with very large datasets so they are only able to use algorithms with worst case running time $T(n) \u2208 O(n^2)$.\n\n(c) Bob analyzed Elizabeth's algorithm and proved that $T_E(n)\u2208\\Omega(g(n))$ for some positive function $g(n)$ such that $g(n) \\geq n + 2^{-251}n^3 - 2^{251}n^2$ for all $n \\geq 2$. Assuming that Bob's proof is correct show that $T_E(n)=\\Omega(n^3)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6816f9aa-fbe5-4dd3-a02e-b94869ae0b3f",
+        "index": 0,
+        "body": "Watch the video, I can't really come up with any \"wrong\" solutions for this lol. ~the editor",
+        "questionId": "c778c8cc-873d-4dba-ab9a-bbc66b487356",
+        "stats": {
+          "count": 750
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "375369079",
+    "timeSpentVideo": "69993899",
+    "submissions": 1723,
+    "submissionsCorrect": 750,
+    "accuracy": 0.4352872896111434,
+    "difficulty": 0.8111629182665936
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "d1b40a07-75e2-4216-acdd-edf3fd888137",
+    "body": "",
+    "questionId": "c778c8cc-873d-4dba-ab9a-bbc66b487356",
+    "resources": [
+      {
+        "id": "ebbd3168-c3fb-4eb9-9998-4437312ac5f9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=656"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d1b40a07-75e2-4216-acdd-edf3fd888137",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of \n\n\\[f(t)= \\begin{cases} \n      0, & 0\\leq t <1\\\\\n      e^{2t}t^2, & t\\geq 1.\\\n \n   \\end{cases}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "4a97b65a-b88a-4a8b-aa86-4dfd1524e6af",
+        "index": 0,
+        "body": "$e^{s}\\left[\\begin{array}{ll}\\frac{2}{(s+2)^3}+\\frac{2}{(s+2)^2}+\\frac{1}{s+2}\\end{array}\\right]$",
+        "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "c7582cd0-51e5-4a73-ae28-cd3670ac450c",
+        "index": 1,
+        "body": "$e^{s+2}\\left[\\begin{array}{ll}\\frac{2}{(s+2)^3}+\\frac{2}{(s+2)^2}+\\frac{1}{s+2}\\end{array}\\right]$",
+        "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "1d014658-2d36-46da-b8af-a7bbadc7bcd4",
+        "index": 2,
+        "body": "$e^{s-2}\\left[\\begin{array}{ll}\\frac{2}{(s-2)^3}+\\frac{2}{(s-2)^2}+\\frac{1}{s-2}\\end{array}\\right]$",
+        "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "3a558849-f4ec-4742-83e3-cafc83a0fbb2",
+        "index": 3,
+        "body": "$e^{-s}\\left[\\begin{array}{ll}\\frac{2}{(s-2)^3}+\\frac{2}{(s-2)^2}+\\frac{1}{s-2}\\end{array}\\right]$",
+        "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+        "stats": {
+          "count": 292
+        },
+        "resources": []
+      },
+      {
+        "id": "58e03def-bbb0-40f6-a6f9-317454bdbdee",
+        "index": 4,
+        "body": "$e^{-s+2}\\left[\\begin{array}{ll}\\frac{2}{(s-2)^3}+\\frac{2}{(s-2)^2}+\\frac{1}{s-2}\\end{array}\\right]$",
+        "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+        "stats": {
+          "count": 660
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "451135526",
+    "timeSpentVideo": "213025109",
+    "submissions": 1787,
+    "submissionsCorrect": 660,
+    "accuracy": 0.3693340794627868,
+    "difficulty": 0.8737413884472708
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "01ce5b45-ad42-4f7d-bfab-f1b545c5773d",
+    "body": "",
+    "questionId": "ae546af8-0ae6-4bbf-8e7d-5b853a2d261d",
+    "resources": [
+      {
+        "id": "54568ccb-fbd3-48e6-b9b0-9e81c3fc94b4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=5sEqCt7qhh4Vb_Q1&t=3540"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "01ce5b45-ad42-4f7d-bfab-f1b545c5773d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e340eada-2bd4-4ea7-beaa-06c7c577be81",
+      "name": "Piecewise Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2894059979",
+        "timeSpentVideo": "350356691",
+        "submissions": 3998,
+        "submissionsCorrect": 1780,
+        "questions": 4,
+        "accuracy": 0.4452226113056528,
+        "difficulty": 0.8034407027818449
+      }
+    }
+  ],
+  "children": []
+}

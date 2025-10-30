@@ -1,0 +1,158 @@
+{
+  "id": "f78413b0-6abe-413c-be9e-1370e06609ac",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Three students try to compute\n\\[\n\\int \\tan (x) dx = \\int \\frac{\\sin (x) }{\\cos (x) } dx. \\]\n\\textbf{Elijah}: If we use the substitution $u = \\sin x$, the integration becomes \n\\[\\int \\frac{u}{1-u^2} du = \\frac{1}{2} \\int \\biggl\\{\\frac{1}{1-u}-\\frac{1}{1+u} \\biggr\\} du.\n\\]\nTherefore, the final answer is \n\\[\n\\frac{1}{2}\\{-\\ln |1- \\sin(x) | - \\ln|1+\\sin(x)|\\} +C.\n\\]\n\\textbf{Mia}: If we use one more substitution $v=1-u^2$ after Elijah's, the integration becomes \n\\[\n\\int \\frac{u}{1-u^2}du = -\\frac{1}{2}\\int \\frac{dv}{v}.\n\\]\nTherefore, the final answer is $-\\frac{1}{2}\\ln | 1- \\sin^2(x)| +C.$\n\\textbf{Santa}: If we use the substitution $w=\\cos x$, then the integration becomes $-\\int \\frac{1}{w}dw = -\\ln|w|+C$. \nTherefore, the final answer is $-\\ln|\\cos (x)| +C = \\ln |\\sec (x) |+C$.\n\nChoose the correct statement about their claims from the following. ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7201a160-3a51-49d1-afe5-5b738913839b",
+        "index": 0,
+        "body": "ONLY Elijah is right.",
+        "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "334730c6-bb57-485f-b0c0-adefabdb5a67",
+        "index": 1,
+        "body": "ONLY Mia is right.",
+        "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "0767bdc7-eafd-4212-b071-84c9ca5490d2",
+        "index": 2,
+        "body": "The strategies by Elijah and Mia are right, but their answers are wrong. They are different from the well-known formula \n$\\int \\tan(x) dx = \\ln |\\sec (x)|+C$. Therefore, ONLY Santa is right.",
+        "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "5b0d4faa-8fd4-4bc3-a05d-8e5ca8935184",
+        "index": 3,
+        "body": "ALL three of them are right. ",
+        "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "ed8716cf-2108-4d3c-a4e6-0f6ce356cda9",
+        "index": 4,
+        "body": "Elijah did not include the one more substitution step, which Mia completed. Santas method is the standard one. So ONLY Mia and Santa are right.",
+        "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "47468522",
+    "timeSpentVideo": "3506715",
+    "submissions": 240,
+    "submissionsCorrect": 128,
+    "accuracy": 0.5333333333333333,
+    "difficulty": 0.7264705882352941
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "0d9cb410-dd19-4977-a71c-f511cd2c68c3",
+    "body": null,
+    "questionId": "f78413b0-6abe-413c-be9e-1370e06609ac",
+    "resources": [
+      {
+        "id": "67861134-b750-4a4a-8d7e-9a0ce814df7b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=Bth05qycnTRMY3n3&t=291"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0d9cb410-dd19-4977-a71c-f511cd2c68c3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

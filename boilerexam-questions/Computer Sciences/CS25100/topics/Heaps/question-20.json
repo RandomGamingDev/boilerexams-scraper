@@ -1,0 +1,143 @@
+{
+  "id": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following shows the array that results after the array [5, 1, 2, 0, 9, 7, 8] is put into max heap order using the bottom-up approach?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c82191b3-9598-4d1b-8cf5-a29934107555",
+        "index": 0,
+        "body": "[9, 8, 7, 5, 2, 1, 0]",
+        "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "57648fc8-ec79-4b89-95a2-623003cab932",
+        "index": 1,
+        "body": "[9, 5, 8, 0, 1, 2, 7]",
+        "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+        "stats": {
+          "count": 294
+        },
+        "resources": []
+      },
+      {
+        "id": "4c9f1479-4e78-4567-8c12-698accca9f35",
+        "index": 2,
+        "body": "[9, 8, 7, 2, 1, 5, 0]",
+        "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "f0217ef9-c2da-4001-8dfa-126d0abfbc96",
+        "index": 3,
+        "body": "[9, 7, 8, 0, 5, 2, 1]",
+        "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "9c3808a5-0c22-4264-9c65-23daf4011686",
+        "index": 4,
+        "body": "[9, 5, 8, 0, 1, 7, 2]",
+        "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+        "stats": {
+          "count": 961
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "326529959",
+    "timeSpentVideo": "13735939",
+    "submissions": 1482,
+    "submissionsCorrect": 961,
+    "accuracy": 0.6484480431848852,
+    "difficulty": 0.6109355246523388
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "67d41d92-7b36-4a26-bcdb-80a835e96819",
+    "body": null,
+    "questionId": "b756e3ef-de44-46e1-99c9-a44a8e899f34",
+    "resources": [
+      {
+        "id": "c1ebb067-a741-4679-9fff-ee70e817a0e4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-ac4BwnM68U?si=J7sjmcjQBMeeSTTP"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "67d41d92-7b36-4a26-bcdb-80a835e96819",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d249b138-0988-4240-9ecc-e5c92da2404e",
+      "name": "Heaps",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3695583741",
+        "timeSpentVideo": "126176007",
+        "submissions": 7624,
+        "submissionsCorrect": 4702,
+        "questions": 6,
+        "accuracy": 0.6167366211962224,
+        "difficulty": 0.634774728120145
+      }
+    }
+  ],
+  "children": []
+}

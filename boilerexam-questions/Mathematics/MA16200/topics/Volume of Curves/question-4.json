@@ -1,0 +1,143 @@
+{
+  "id": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The region bounded by $y=e^{-x}, y=1$, and $x=-2$ is revolved about the $\\mathrm{x}$-axis. If the washer method is used, the volume of the solid generated is given by the integral.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "010c7e6c-7726-4463-bd55-d5cb73b29e1a",
+        "index": 0,
+        "body": "$2 \\pi \\int_{-2}^{0} \\pi(\\ln (-x)-x) d x$",
+        "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "175dfc6e-c214-4a76-875f-ee6b69088a23",
+        "index": 1,
+        "body": "$\\int_{-2}^{0} \\pi\\left(e^{-x}-1\\right)^{2} d x$",
+        "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+        "stats": {
+          "count": 1196
+        },
+        "resources": []
+      },
+      {
+        "id": "81a072c5-0de3-4de8-9565-5be2c19d19a1",
+        "index": 2,
+        "body": "$\\int_{0}^{2} 2 \\pi x\\left(e^{-x}-1\\right) d x$",
+        "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+        "stats": {
+          "count": 253
+        },
+        "resources": []
+      },
+      {
+        "id": "e5014d40-e67d-4d97-8c04-1d3dbe22482e",
+        "index": 3,
+        "body": "$\\int_{-2}^{0} \\pi\\left(e^{-2 x}-1\\right) d x$",
+        "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+        "stats": {
+          "count": 3453
+        },
+        "resources": []
+      },
+      {
+        "id": "857335f2-66f5-48ea-b13d-1375919f0044",
+        "index": 4,
+        "body": "$\\int_{-2}^{0} \\pi e^{-2 x} d x$",
+        "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+        "stats": {
+          "count": 199
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "75544df7-aaa9-4e3b-aa64-5278d1003abb",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1355865838",
+    "timeSpentVideo": "81435426",
+    "submissions": 5781,
+    "submissionsCorrect": 3453,
+    "accuracy": 0.5973015049299429,
+    "difficulty": 0.6543530011902737
+  },
+  "resources": [],
+  "exam": {
+    "id": "75544df7-aaa9-4e3b-aa64-5278d1003abb",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11628555345",
+      "timeSpentVideo": "833542538",
+      "submissions": 51944,
+      "submissionsCorrect": 32761,
+      "questions": 12,
+      "accuracy": 0.6306984444786693,
+      "difficulty": 0.6195526861886096
+    }
+  },
+  "explanation": {
+    "id": "1d4822ce-09cc-4672-8deb-6930d072b226",
+    "body": "",
+    "questionId": "13243b42-2f5f-49af-a6bd-ce7d67535076",
+    "resources": [
+      {
+        "id": "08290a0a-67e7-4558-ab80-96369278e310",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8_y0-lzxvN0?t=279"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1d4822ce-09cc-4672-8deb-6930d072b226",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79755eab-93f7-44ec-9e79-cedd45a22d1a",
+      "name": "Volume of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23308108625",
+        "timeSpentVideo": "1117444870",
+        "submissions": 50426,
+        "submissionsCorrect": 30657,
+        "questions": 16,
+        "accuracy": 0.6079601792725975,
+        "difficulty": 0.6422534932509995
+      }
+    }
+  ],
+  "children": []
+}

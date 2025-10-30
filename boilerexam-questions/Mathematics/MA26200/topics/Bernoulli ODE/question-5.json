@@ -1,0 +1,143 @@
+{
+  "id": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the equation\n\n\n\\[\n\\frac{d y}{d x}+\\frac{1}{x} y=\\frac{e^{x}}{y}\n\\]\n\nIf $v=y^{2}$, then $v$ satisfies",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "73d099f0-a4d4-40e4-926a-13964c4db0ae",
+        "index": 0,
+        "body": "$\\frac{d v}{d x}+\\frac{1}{x} v=e^{x}$",
+        "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "6f7102b0-5571-4381-83c1-15f64c7ecb10",
+        "index": 1,
+        "body": "$\\frac{d v}{d x}+\\frac{2}{x} v=e^{x}$",
+        "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "f55660ce-98f9-4e92-b909-5d2da99eb706",
+        "index": 2,
+        "body": "$\\frac{d v}{d x}+\\frac{1}{x} v=2 e^{x}$",
+        "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "eff6f8a9-4fd5-4c69-bc69-3bc03f050414",
+        "index": 3,
+        "body": "$\\frac{d v}{d x}+\\frac{2}{x} v=2 e^{x}$",
+        "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+        "stats": {
+          "count": 925
+        },
+        "resources": []
+      },
+      {
+        "id": "2d49c706-c830-49ba-9e13-62d18e564ab1",
+        "index": 4,
+        "body": "$2 \\frac{d v}{d x}+\\frac{1}{x} v=e^{x}$",
+        "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "431113055",
+    "timeSpentVideo": "75827227",
+    "submissions": 1660,
+    "submissionsCorrect": 925,
+    "accuracy": 0.5572289156626506,
+    "difficulty": 0.6960227272727273
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "d755775b-6da4-446f-a571-4eb4072d10ba",
+    "body": "",
+    "questionId": "b4b05352-dd1f-48b8-b439-9a1af57531b9",
+    "resources": [
+      {
+        "id": "4b123294-0054-4f30-85c3-f5ae3a552201",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=yV6PaYSmdnC_eVdO&t=795\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d755775b-6da4-446f-a571-4eb4072d10ba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "088d5d55-901f-48db-9a68-742ba728e61f",
+      "name": "Bernoulli ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5259709166",
+        "timeSpentVideo": "298135909",
+        "submissions": 8242,
+        "submissionsCorrect": 4655,
+        "questions": 8,
+        "accuracy": 0.5647900994904149,
+        "difficulty": 0.6859865739630784
+      }
+    }
+  ],
+  "children": []
+}

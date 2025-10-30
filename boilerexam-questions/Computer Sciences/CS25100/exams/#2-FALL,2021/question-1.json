@@ -1,0 +1,145 @@
+{
+  "id": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T$ be a hash table of size $M$. The hash table resizes to the first prime number greater than or equal to $2M$ if, after an insert, $\\alpha \\geq \\frac{1}{2}$. The starting capacity of the table is 7. Consider the contents of the table after the operations below have executed. The hash function used is $h(k)=k \\text{ mod } M$. When the table is resized, the items are rehashed in the order that they appear in the table.\n\nIf $T$ handles collisions with linear probing, key 17 ends up at index:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "3833e3b6-bdb8-48b3-9411-ec7330f8c23d",
+        "index": 0,
+        "body": "2",
+        "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "a4a65ea2-6d72-4d2f-a92f-07852cd5d8b3",
+        "index": 1,
+        "body": "3",
+        "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+        "stats": {
+          "count": 1100
+        },
+        "resources": []
+      },
+      {
+        "id": "0c65f584-8bd9-490a-9658-83f667550c26",
+        "index": 2,
+        "body": "4",
+        "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "240335ba-b9bd-4e90-8de6-83e2ce85410d",
+        "index": 3,
+        "body": "5",
+        "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "cd98c1c4-e80a-409e-8047-ed29bc120e1d",
+        "index": 4,
+        "body": "6",
+        "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "340573660",
+    "timeSpentVideo": "0",
+    "submissions": 1438,
+    "submissionsCorrect": 1044,
+    "accuracy": 0.7260083449235049,
+    "difficulty": 0.5386866059817945
+  },
+  "resources": [
+    {
+      "id": "e65068f5-e570-45b6-85ad-a72bb59c51d3",
+      "type": "IMAGE",
+      "data": {
+        "key": "3dwTviF3nufsbglJniA3t",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/3dwTviF3nufsbglJniA3t",
+        "altText": "table"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1449075382",
+      "timeSpentVideo": "76169212",
+      "submissions": 7807,
+      "submissionsCorrect": 5561,
+      "questions": 5,
+      "accuracy": 0.7123094658639683,
+      "difficulty": 0.5403756165423043
+    }
+  },
+  "explanation": {
+    "id": "963a102b-807f-4fc6-b4a0-49843e7af06d",
+    "body": "",
+    "questionId": "66769f4d-f600-4981-a7dd-7d8203cb18f7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "52789af2-2123-4337-b38f-108a1849e8e8",
+      "name": "Hash Table",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4478230174",
+        "timeSpentVideo": "95806366",
+        "submissions": 7870,
+        "submissionsCorrect": 5649,
+        "questions": 6,
+        "accuracy": 0.7177890724269378,
+        "difficulty": 0.5349435382685069
+      }
+    }
+  ],
+  "children": []
+}

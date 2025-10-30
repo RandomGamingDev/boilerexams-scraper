@@ -1,0 +1,128 @@
+{
+  "id": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(t)$ be the solution to the initial value problem\n\n\n\\[\n\\frac{d y}{d t}-2 y=3 e^{-t}, \\quad y(0)=7\n\\]\n\nFind $T$ such that $y(T)=0$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a7969496-e4f9-42b5-ad30-108945578ec1",
+        "index": 0,
+        "body": "$T=\\frac{1}{2} \\ln 3$",
+        "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "216b05aa-c353-479b-b1e2-0ca2dbccf379",
+        "index": 1,
+        "body": "$T=-\\frac{1}{2} \\ln 3$",
+        "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "d89cebbe-1192-4611-98c5-63785910a7b7",
+        "index": 2,
+        "body": "$T=\\frac{1}{3} \\ln 8$",
+        "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "d7e7c635-44fc-4f04-8723-006f5ee1fe3b",
+        "index": 3,
+        "body": "$T=-\\frac{1}{3} \\ln 8$",
+        "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "73a69c40-5c03-40e5-9530-4c5afd894c9c",
+        "index": 4,
+        "body": "$T=\\frac{1}{2} \\ln 2$",
+        "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "133886243",
+    "timeSpentVideo": "0",
+    "submissions": 391,
+    "submissionsCorrect": 263,
+    "accuracy": 0.6726342710997443,
+    "difficulty": 0.6125254582484725
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "38083fbd-b8d9-4e8f-ac52-3256590b064d",
+    "body": "",
+    "questionId": "896494c2-a5f7-4e6e-a013-d82bdfc51f75",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "7ca63368-be9d-4f91-bd42-2b0b535285e5",
+      "name": "Integrating Factor",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1234315883",
+        "timeSpentVideo": "46638481",
+        "submissions": 1840,
+        "submissionsCorrect": 1218,
+        "questions": 3,
+        "accuracy": 0.6619565217391304,
+        "difficulty": 0.5963917525773196
+      }
+    }
+  ],
+  "children": []
+}

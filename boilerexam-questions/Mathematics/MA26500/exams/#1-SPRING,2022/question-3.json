@@ -1,0 +1,188 @@
+{
+  "id": "f13be2a2-881a-4678-bb0b-00c08d051001",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{R}^{n} \\rightarrow \\mathbb{R}^{m}$ be a one-to-one linear transformation. Let $A$ be the matrix associated to $T$. Which of the following statements is not always true?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d4410700-8db3-40fd-9f5b-1c55b1e5ce5a",
+        "index": 0,
+        "body": "If $\\mathbf{v}_{\\mathbf{1}}$ and $\\mathbf{v}_{\\mathbf{2}}$ are linearly independent, so are $T\\left(\\mathbf{v}_{\\mathbf{1}}\\right)$ and $T\\left(\\mathbf{v}_{\\mathbf{2}}\\right)$.",
+        "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+        "stats": {
+          "count": 475
+        },
+        "resources": []
+      },
+      {
+        "id": "1fffc6bb-4170-4dab-900d-0d8d60ff67c6",
+        "index": 1,
+        "body": "If $T(\\mathbf{v})=\\mathbf{0}$, then $\\mathbf{v}=\\mathbf{0}$.",
+        "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+        "stats": {
+          "count": 957
+        },
+        "resources": []
+      },
+      {
+        "id": "3042e9f5-e039-41b3-b00c-5522a372dcfc",
+        "index": 2,
+        "body": "$m \\geq n$.",
+        "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+        "stats": {
+          "count": 1232
+        },
+        "resources": []
+      },
+      {
+        "id": "60324552-37a3-431b-8cd5-7e2d0c934438",
+        "index": 3,
+        "body": "$T(\\mathbf{v}+\\mathbf{w})=T(\\mathbf{v})+T(\\mathbf{w})$ for all $\\mathbf{v}, \\mathbf{w} \\in \\mathbb{R}^{n}$.",
+        "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+        "stats": {
+          "count": 479
+        },
+        "resources": []
+      },
+      {
+        "id": "44ad1b3d-6aa4-4280-8b70-2493cbae63f0",
+        "index": 4,
+        "body": "For all $\\mathbf{b} \\in \\mathbb{R}^{m}$, the equation $A \\mathbf{x}=\\mathbf{b}$ is consistent.",
+        "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+        "stats": {
+          "count": 3570
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1066476805",
+    "timeSpentVideo": "378910231",
+    "submissions": 7257,
+    "submissionsCorrect": 3570,
+    "accuracy": 0.4919388176932617,
+    "difficulty": 0.7579516107108876
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "5cd18657-4c3e-49e1-bb4d-1c824b9fe537",
+    "body": "",
+    "questionId": "f13be2a2-881a-4678-bb0b-00c08d051001",
+    "resources": [
+      {
+        "id": "a1ef2068-14f3-4903-a28d-8e617b2db440",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?t=519\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5cd18657-4c3e-49e1-bb4d-1c824b9fe537",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

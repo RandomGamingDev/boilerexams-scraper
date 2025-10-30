@@ -1,0 +1,133 @@
+{
+  "id": "49f42a9d-c935-4aef-a0e4-315499e19702",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the preprocessor is <b>FALSE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1e0ac812-70ad-44d7-8714-ad98ea37d5da",
+        "index": 0,
+        "body": "The preprocessor is a part of the compiling process and can be used to prepare code for the remainder of that process.",
+        "questionId": "49f42a9d-c935-4aef-a0e4-315499e19702",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      },
+      {
+        "id": "33b80319-0248-4f79-930b-7ba497b668d6",
+        "index": 1,
+        "body": "The defined constant is a preprocessor directive that results in the substitution of the value that follows the symbol everywhere it is found in the program.",
+        "questionId": "49f42a9d-c935-4aef-a0e4-315499e19702",
+        "stats": {
+          "count": 555
+        },
+        "resources": []
+      },
+      {
+        "id": "9c4ef204-d5bd-41bf-8a19-9b13280d57fd",
+        "index": 2,
+        "body": "The ability to include additional libraries is a preprocessor directive that permits access to additional functions and constants within a program.",
+        "questionId": "49f42a9d-c935-4aef-a0e4-315499e19702",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "8477a33a-cff4-46e5-89e0-f137a927beda",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "49f42a9d-c935-4aef-a0e4-315499e19702",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": null,
+  "examId": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "131467957",
+    "timeSpentVideo": "0",
+    "submissions": 1201,
+    "submissionsCorrect": 555,
+    "accuracy": 0.4621149042464613,
+    "difficulty": 0.7849730976172176
+  },
+  "resources": [],
+  "exam": {
+    "id": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2606890576",
+      "timeSpentVideo": "0",
+      "submissions": 28393,
+      "submissionsCorrect": 18576,
+      "questions": 42,
+      "accuracy": 0.6542457648011833,
+      "difficulty": 0.596295581370863
+    }
+  },
+  "explanation": {
+    "id": "690be3ea-86ba-44a7-b309-2cd155ec3577",
+    "body": "<code>#define PI 3.14\nprintf(\"My value for pi: PI\");</code>\n<i>will output</i>\n<code>My value for pi: PI</code>\n\nThus, the substitution does not occur <i>everywhere</i> the symbol is used.",
+    "questionId": "49f42a9d-c935-4aef-a0e4-315499e19702",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "757fd5cb-6e2c-4be7-88c7-14e400bf5ec6",
+      "name": "Intro to Computers",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6118224989",
+        "timeSpentVideo": "0",
+        "submissions": 14499,
+        "submissionsCorrect": 10469,
+        "questions": 10,
+        "accuracy": 0.7220497965376923,
+        "difficulty": 0.5294711966573052
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

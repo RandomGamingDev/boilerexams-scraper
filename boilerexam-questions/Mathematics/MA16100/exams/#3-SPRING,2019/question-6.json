@@ -1,0 +1,143 @@
+{
+  "id": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use a linear approximation to estimate the value of $e^{-0.01}$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "968f0e75-a4fd-4bf7-837f-1bfbb24c1c6f",
+        "index": 0,
+        "body": "$1.001$",
+        "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "c9367997-cda3-4313-8740-75447da6a541",
+        "index": 1,
+        "body": "$1.01$",
+        "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "ece39a56-ae8f-4f56-a6a7-fc7b6810ddfa",
+        "index": 2,
+        "body": "$0.9$",
+        "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "76eee6cc-db14-4e7c-84e4-dc21f232e3c7",
+        "index": 3,
+        "body": "$0.99$",
+        "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+        "stats": {
+          "count": 610
+        },
+        "resources": []
+      },
+      {
+        "id": "4514a0f0-1663-4ee1-9683-4c54851632e6",
+        "index": 4,
+        "body": "$0.999$",
+        "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85891351",
+    "timeSpentVideo": "13430872",
+    "submissions": 853,
+    "submissionsCorrect": 610,
+    "accuracy": 0.7151230949589683,
+    "difficulty": 0.5574501573976915
+  },
+  "resources": [],
+  "exam": {
+    "id": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+    "number": 3,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1283672642",
+      "timeSpentVideo": "378435870",
+      "submissions": 9367,
+      "submissionsCorrect": 5449,
+      "questions": 12,
+      "accuracy": 0.5817230703533682,
+      "difficulty": 0.6691401711207352
+    }
+  },
+  "explanation": {
+    "id": "6fc48c7f-96c4-4575-9e30-66ed09231f66",
+    "body": "",
+    "questionId": "2ae6bb14-c229-4b57-ae7d-4f91f884584e",
+    "resources": [
+      {
+        "id": "65622a41-ec5d-401b-849f-c4e699ceaaad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9FE9_1hSM6w?t=789"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6fc48c7f-96c4-4575-9e30-66ed09231f66",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b6e37d70-d222-40ae-94b7-cddb3585a9f8",
+      "name": "Linear Approximation",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1196787516",
+        "timeSpentVideo": "92701859",
+        "submissions": 4214,
+        "submissionsCorrect": 2851,
+        "questions": 4,
+        "accuracy": 0.6765543426672995,
+        "difficulty": 0.577538247566064
+      }
+    }
+  ],
+  "children": []
+}

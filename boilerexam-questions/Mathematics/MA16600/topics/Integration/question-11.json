@@ -1,0 +1,158 @@
+{
+  "id": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral \n\\[\n\\int \\frac{x^2+6x+17}{x(x^2+8x+17)}dx.\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8baac51d-63ec-48be-8cdc-0b36167cb570",
+        "index": 0,
+        "body": "$\\ln |x| - 3 \\tan ^{-1}(x+4) +C$",
+        "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "effbe6ab-21ca-44f0-a56d-244dbf7a92ab",
+        "index": 1,
+        "body": "$\\ln |x| + \\tan ^{-1}(x) +C$",
+        "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "cc90cc97-5627-41d6-9e97-ea1343c6c1b7",
+        "index": 2,
+        "body": "$\\ln |x| - 2 \\tan ^{-1}(x+4) +C$",
+        "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "5236c379-4fd9-4061-b98a-70dab4b0d2da",
+        "index": 3,
+        "body": "$\\ln |x| - \\ln |x+9| - \\ln |x-1| +C$",
+        "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "0e68f57d-789b-4f10-ae9f-2d65172600ec",
+        "index": 4,
+        "body": "$\\ln |x| - 2\\ln|x^2+8x+17|+C$",
+        "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "43679560",
+    "timeSpentVideo": "3610883",
+    "submissions": 184,
+    "submissionsCorrect": 90,
+    "accuracy": 0.4891304347826087,
+    "difficulty": 0.7570422535211268
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "f9578f5a-1a28-4852-9dfe-20d399653480",
+    "body": null,
+    "questionId": "4ed87741-2b28-4cca-a6fc-cdad731df3ea",
+    "resources": [
+      {
+        "id": "05329a23-e36c-4ccb-ae41-915c96e7f025",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=6-YRxvwMoc2badqr&t=4504"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f9578f5a-1a28-4852-9dfe-20d399653480",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "379288288",
+        "timeSpentVideo": "11959782",
+        "submissions": 821,
+        "submissionsCorrect": 489,
+        "questions": 4,
+        "accuracy": 0.5956151035322778,
+        "difficulty": 0.6647665580890336
+      }
+    }
+  ],
+  "children": []
+}

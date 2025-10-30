@@ -1,0 +1,128 @@
+{
+  "id": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the binary tree representation of a max priority queue. After inserting values {7, 10, 2, 9, 6, 3, 5} (one at a time in the given order) in such a priority queue, the inorder traversal of the tree is:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1eff2bae-f613-4923-baa9-d6bb691555b9",
+        "index": 0,
+        "body": "10, 9, 7, 6, 5, 2, 3",
+        "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "07cebc23-7e5f-431c-91d4-d7a7df777fbe",
+        "index": 1,
+        "body": "7, 9, 6, 10, 2, 5, 3",
+        "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+        "stats": {
+          "count": 826
+        },
+        "resources": []
+      },
+      {
+        "id": "0de11e1e-98d5-4f47-a97d-ce9a51fb989e",
+        "index": 2,
+        "body": "7, 6, 9, 2, 3, 5, 10",
+        "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "4c7b11de-81fa-42c6-a701-de12fdcdcfb2",
+        "index": 3,
+        "body": "10, 9, 5, 7, 6, 2, 3",
+        "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "9c3e6e8a-5591-4230-806c-1cf3c50e2c9c",
+        "index": 4,
+        "body": "10, 9, 7, 6, 5, 3, 2",
+        "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "162410460",
+    "timeSpentVideo": "0",
+    "submissions": 1095,
+    "submissionsCorrect": 826,
+    "accuracy": 0.754337899543379,
+    "difficulty": 0.5169456066945607
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "85d3d92d-b17c-4337-8cb6-324ea3dea898",
+    "body": null,
+    "questionId": "c56aafa7-379f-4eae-bc9f-541ccb654380",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6656b0cd-1337-436c-98ef-701056b4d3dd",
+      "name": "Queues",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4100813051",
+        "timeSpentVideo": "47682286",
+        "submissions": 9433,
+        "submissionsCorrect": 6742,
+        "questions": 8,
+        "accuracy": 0.7147249019399978,
+        "difficulty": 0.5375275359278296
+      }
+    }
+  ],
+  "children": []
+}

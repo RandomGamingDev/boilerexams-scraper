@@ -1,0 +1,158 @@
+{
+  "id": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particle has acceleration $\\vec{a}(t)=<0, 2t, \\sqrt{2}>$ with an initial velocity of $<1, 0, 0>$ at $t = 0$. Find the distance traveled for $0 \u2264 t \u2264 3.$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c29aa4bd-72b3-49f4-8d75-a6c87a7c3c0f",
+        "index": 0,
+        "body": "$ 3 $",
+        "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "stats": {
+          "count": 368
+        },
+        "resources": []
+      },
+      {
+        "id": "175f2748-ec9f-4666-8682-7095d8c15eec",
+        "index": 1,
+        "body": "$12$",
+        "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "stats": {
+          "count": 4759
+        },
+        "resources": []
+      },
+      {
+        "id": "584c360e-e60e-4136-a45e-99e645058d6f",
+        "index": 2,
+        "body": "$2\\cosh(3) - 1$",
+        "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "27355f1a-6e81-4b43-bbdf-f0ebb94addca",
+        "index": 3,
+        "body": "$4\\sinh(3)$",
+        "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "88d6ad3a-040b-49f8-b550-49313dd977f0",
+        "index": 4,
+        "body": "$\\frac{3 \\pi}{2}$",
+        "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1869389046",
+    "timeSpentVideo": "204881896",
+    "submissions": 7342,
+    "submissionsCorrect": 4759,
+    "accuracy": 0.6481885044946881,
+    "difficulty": 0.6038027411986026
+  },
+  "resources": [],
+  "exam": {
+    "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+    "number": 1,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16275685192",
+      "timeSpentVideo": "2484670091",
+      "submissions": 84914,
+      "submissionsCorrect": 53089,
+      "questions": 12,
+      "accuracy": 0.625209035023671,
+      "difficulty": 0.6249382454654527
+    }
+  },
+  "explanation": {
+    "id": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+    "body": "",
+    "questionId": "34b774c2-fd83-480d-acdb-3b170477cdb8",
+    "resources": [
+      {
+        "id": "6b1be456-7721-46aa-bf08-24ff5b61ebb9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PId1CHqVGmE?t=440"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "991f0d96-92d3-440e-8ceb-8bde5782e58b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae4e633c-83e3-4b7d-9cdb-f01a1cf447b1",
+      "name": "Arc Length",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17928813611",
+        "timeSpentVideo": "694988862",
+        "submissions": 43309,
+        "submissionsCorrect": 31254,
+        "questions": 7,
+        "accuracy": 0.7216513888568196,
+        "difficulty": 0.5288592227418277
+      }
+    },
+    {
+      "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+      "name": "Particle Motion",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27632325273",
+        "timeSpentVideo": "1513879566",
+        "submissions": 59316,
+        "submissionsCorrect": 39641,
+        "questions": 15,
+        "accuracy": 0.6683019758581159,
+        "difficulty": 0.5819812845024909
+      }
+    }
+  ],
+  "children": []
+}

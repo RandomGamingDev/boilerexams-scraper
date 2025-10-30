@@ -1,0 +1,150 @@
+{
+  "id": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Dan and Erin are discussing the behavior of the recursive algorithm below.\n\n(a) Dan says \"If $b(n)=n-1$ then the number of times \\texttt{FOO} calls \\texttt{BAR} is $O(n)$\". Is Dan right? Explain your answer.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f590ed05-c2ab-4bff-b508-9104c0c1d623",
+        "index": 0,
+        "body": "Yes. The largest amount of times \\texttt{BAR} is called in a single iteration of \\texttt{FOO} is $n$, thus making it grow in $O(n)$ time.",
+        "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+        "stats": {
+          "count": 287
+        },
+        "resources": []
+      },
+      {
+        "id": "15fed1ad-fabc-4c8a-a5c2-f480fcc51c13",
+        "index": 1,
+        "body": "Yes. $n-1$ is $O(n)$.",
+        "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "6675bdc6-af6c-4c45-8ac0-06ab8b014d70",
+        "index": 2,
+        "body": "No. For a \\texttt{FOO} input size of $n$, the number of times \\texttt{BAR} is called grows in $O(n^2)$ time.",
+        "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+        "stats": {
+          "count": 1170
+        },
+        "resources": []
+      },
+      {
+        "id": "90e444c4-d44f-4174-bca1-265bff9c41b3",
+        "index": 3,
+        "body": "No. There is not enough information present in the problem to determine how many times \\texttt{FOO} calls \\texttt{BAR}.",
+        "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "365038152",
+    "timeSpentVideo": "49076109",
+    "submissions": 1820,
+    "submissionsCorrect": 1170,
+    "accuracy": 0.6428571428571429,
+    "difficulty": 0.6145833333333334
+  },
+  "resources": [
+    {
+      "id": "d87950f9-3f6d-4289-87d1-cc38185aeda9",
+      "type": "IMAGE",
+      "data": {
+        "key": "V5rYhKpNR9d8Z2VO9Bmtt",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/V5rYhKpNR9d8Z2VO9Bmtt",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "1a033ab1-7da9-4942-9bf5-8158f3197bb0",
+    "body": "",
+    "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
+    "resources": [
+      {
+        "id": "0542106e-9afb-4c4f-9cc8-fcacab0f634d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=2351"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1a033ab1-7da9-4942-9bf5-8158f3197bb0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

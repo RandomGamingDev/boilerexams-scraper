@@ -1,0 +1,128 @@
+{
+  "id": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y$ be the solution of the initial value problem\n\n\n\\[\nx^{3} y^{\\prime}+3 x^{2} y=e^{x}, \\quad y(1)=2 e .\n\\]\n\nWhat is $y(2)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c56f722d-ebb3-4a2f-83a0-e529f6d322c5",
+        "index": 0,
+        "body": "$\\frac{1}{8}\\left(e^{2}-2 e\\right)$",
+        "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "2bffc3b5-5733-47da-8915-a104de21572f",
+        "index": 1,
+        "body": "$\\frac{1}{8}\\left(e^{2}+e\\right)$",
+        "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+        "stats": {
+          "count": 363
+        },
+        "resources": []
+      },
+      {
+        "id": "2956e7db-6b4f-4571-be36-c261b718d5ba",
+        "index": 2,
+        "body": "$\\frac{e}{8}$",
+        "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "4e620e4a-bb85-4327-a1b8-b82d412c79d1",
+        "index": 3,
+        "body": "$\\frac{1}{8}\\left(e^{2}-2\\right)$",
+        "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "67a8b209-9950-47da-b822-47104ec1e786",
+        "index": 4,
+        "body": "$\\frac{e^{2}}{8}+e$",
+        "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "132564095",
+    "timeSpentVideo": "0",
+    "submissions": 420,
+    "submissionsCorrect": 348,
+    "accuracy": 0.8285714285714286,
+    "difficulty": 0.48461538461538467
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "1dfba95f-8a05-4616-a46b-313a62b11656",
+    "body": "",
+    "questionId": "6326e86b-2e22-4ac5-a33e-dc36c4ac0406",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "7ca63368-be9d-4f91-bd42-2b0b535285e5",
+      "name": "Integrating Factor",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1234315883",
+        "timeSpentVideo": "46638481",
+        "submissions": 1840,
+        "submissionsCorrect": 1218,
+        "questions": 3,
+        "accuracy": 0.6619565217391304,
+        "difficulty": 0.5963917525773196
+      }
+    }
+  ],
+  "children": []
+}

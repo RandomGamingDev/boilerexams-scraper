@@ -1,0 +1,133 @@
+{
+  "id": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding passing by address is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9bc5abe4-9bf5-47e5-95a2-157c3f4eaa3f",
+        "index": 0,
+        "body": "Given the address of a variable the called function can access and manipulate the value of a variable in the calling function.",
+        "questionId": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+        "stats": {
+          "count": 647
+        },
+        "resources": []
+      },
+      {
+        "id": "4331dba8-c451-451d-aaa6-35dfac4291b1",
+        "index": 1,
+        "body": "The called function must declare a special type of variable known as a pointer to store a memory address that is sent from the calling function.",
+        "questionId": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+        "stats": {
+          "count": 736
+        },
+        "resources": []
+      },
+      {
+        "id": "5a896e4f-41bb-45ed-bcd0-29c09bcebcf6",
+        "index": 2,
+        "body": "When only a single value needs to be returned to the calling function then we should use the standard <font style=\\\"font-family:'Courier New'\\\">return</font> statement rather than passing a single parameter by address.",
+        "questionId": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+        "stats": {
+          "count": 1580
+        },
+        "resources": []
+      },
+      {
+        "id": "3521cac2-36f2-4931-844f-a9034927988b",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+        "stats": {
+          "count": 4693
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 28,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "762236820",
+    "timeSpentVideo": "13978320",
+    "submissions": 7875,
+    "submissionsCorrect": 4693,
+    "accuracy": 0.595936507936508,
+    "difficulty": 0.6552664576802508
+  },
+  "resources": [],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "bbb4cba4-c3d4-4938-a060-a435b9a387e8",
+    "body": "",
+    "questionId": "d88a6e56-f2af-4658-90ec-d9c00d7e07c8",
+    "resources": [
+      {
+        "id": "b93e5765-d214-4eb2-bf2e-be8095e090f4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=VNzQNUUM9lNmqtvF&t=2718"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bbb4cba4-c3d4-4938-a060-a435b9a387e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

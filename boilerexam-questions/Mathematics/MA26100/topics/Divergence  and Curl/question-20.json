@@ -1,0 +1,143 @@
+{
+  "id": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the vector field $\\mathbf{F}=\\frac{\\mathbf{x}}{|\\mathbf{x}|^{3}}$ where $\\mathbf{x}$ denotes the vector $x \\mathbf{i}+y \\mathbf{j}+z \\mathbf{k}=\\langle x, y, z\\rangle$. Which of the following are true?\n\n\n(i) $\\operatorname{div}(\\mathbf{F})=0$ on its maximal domain of definition.\n\n(ii) $\\operatorname{curl}(\\mathbf{F})=\\mathbf{0}$ on its maximal domain of definition.\n\n(iii) $\\iint_{S} \\mathbf{F} \\cdot d \\mathbf{S}=0$ for any closed surface on which $\\mathbf{F}$ is defined.\n\n(iv) $\\int_{C} \\mathbf{F} \\cdot d \\mathbf{r}=0$ on any simple, closed, smooth curve on which $\\mathbf{F}$ is defined.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "61b93208-48b2-47ff-8684-aa2418aa7222",
+        "index": 0,
+        "body": "(i) and (iii)",
+        "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "f07d3205-397e-4c4d-9944-50dc38b0b330",
+        "index": 1,
+        "body": "(ii) and (iv)",
+        "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "e0949779-a40c-4fe3-8bf4-ac1d80884127",
+        "index": 2,
+        "body": "(i), (ii) and (iii)",
+        "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "5a103f0f-e695-4965-96fd-b78239ac6774",
+        "index": 3,
+        "body": "(i), (ii) and (iv)",
+        "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+        "stats": {
+          "count": 803
+        },
+        "resources": []
+      },
+      {
+        "id": "1c53d9be-3d87-4458-8efb-e60f5d2c5323",
+        "index": 4,
+        "body": "all of the above",
+        "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "The question is solved correctly in the video, but Liam just accidentally circled the wrong answer.",
+  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "293019058",
+    "timeSpentVideo": "149375771",
+    "submissions": 2086,
+    "submissionsCorrect": 803,
+    "accuracy": 0.38494726749760305,
+    "difficulty": 0.8597895699908509
+  },
+  "resources": [],
+  "exam": {
+    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+    "number": 0,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12922067341",
+      "timeSpentVideo": "3006876717",
+      "submissions": 60745,
+      "submissionsCorrect": 28135,
+      "questions": 20,
+      "accuracy": 0.4631656926496008,
+      "difficulty": 0.786773769414085
+    }
+  },
+  "explanation": {
+    "id": "c69004be-df0e-4ad1-b7a7-047a2d9d5040",
+    "body": "",
+    "questionId": "63b8041f-b6b5-4def-989f-1e9adf8def66",
+    "resources": [
+      {
+        "id": "c60576f2-add6-4b46-be10-7b7d6737ca9e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/snzGJb-fM6o?si=j5q45GNdEbzyEra4&t=3462"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c69004be-df0e-4ad1-b7a7-047a2d9d5040",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12211665531",
+        "timeSpentVideo": "1608395474",
+        "submissions": 32383,
+        "submissionsCorrect": 17165,
+        "questions": 8,
+        "accuracy": 0.530062069604422,
+        "difficulty": 0.7200304774805283
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "48189db5-c862-41f9-be70-4009167d8f2a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ccccc}1 & 2 & 3 & 4 & 5 \\\\ 1 & 2 & 3 & 2 & 1 \\\\ 2 & 4 & 0 & 2 & -2 \\\\ 0 & 0 & 0 & 1 & 2\\end{array}\\right]$, which of the following set is a basis of the column space of $A$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7c4470c7-3205-41fd-a302-7521b6b4318a",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 2 \\\\ 4 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}3 \\\\ 3 \\\\ 0 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "dfe0336e-af6c-4044-9649-d6990af14e48",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 2 \\\\ 4 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}4 \\\\ 2 \\\\ 2 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "7ecd2515-c8fe-439b-9c71-62f9427a7e29",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 2 \\\\ 4 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{c}5 \\\\ 1 \\\\ -2 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "0edc549a-73a8-41c1-8721-7268fc923173",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}3 \\\\ 3 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}4 \\\\ 2 \\\\ 2 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+        "stats": {
+          "count": 717
+        },
+        "resources": []
+      },
+      {
+        "id": "5bf7c7da-ba7c-4baa-8d76-63e46a6d7e6b",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}4 \\\\ 2 \\\\ 2 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{c}5 \\\\ 1 \\\\ -2 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "216536667",
+    "timeSpentVideo": "52329373",
+    "submissions": 1002,
+    "submissionsCorrect": 717,
+    "accuracy": 0.7155688622754491,
+    "difficulty": 0.5539927404718693
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "85caba28-ec44-458f-b609-58c7c30f8e7e",
+    "body": "",
+    "questionId": "48189db5-c862-41f9-be70-4009167d8f2a",
+    "resources": [
+      {
+        "id": "3a6fb01b-21d6-4d1e-8286-386d7e355da8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=S2Cx30oZpkEMFY2P&t=887\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "85caba28-ec44-458f-b609-58c7c30f8e7e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

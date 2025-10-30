@@ -1,0 +1,143 @@
+{
+  "id": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is an equation for the plane tangent to the surface\n\\[\nz=\\tan ^{-1}\\left(x^{2}+y^{2}\\right) \\quad \\text { at the point }\\left(\\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}, \\frac{\\pi}{4}\\right) ?\n\\]\nHint: $\\quad \\frac{d}{d u}\\left(\\tan ^{-1} u\\right)=\\frac{1}{1+u^{2}}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "555e8619-3caf-4fe6-9789-2652e66296d6",
+        "index": 0,
+        "body": "$x+y-\\frac{1}{2} z=\\sqrt{2}-\\frac{\\pi}{8}$",
+        "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "d66f77e0-94a7-473c-9bf6-bc3a9d379491",
+        "index": 1,
+        "body": "$x+y-2 z=\\sqrt{2}-\\frac{\\pi}{2}$",
+        "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "4f362089-affe-44b2-ac22-96c111e465f6",
+        "index": 2,
+        "body": "$x+y-\\sqrt{2} z=\\left(1-\\frac{\\pi}{4}\\right) \\sqrt{2}$",
+        "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+        "stats": {
+          "count": 2267
+        },
+        "resources": []
+      },
+      {
+        "id": "8b659c7c-07d4-4792-a502-58d71cbfd097",
+        "index": 3,
+        "body": "$x+y-z=\\sqrt{2}-\\frac{\\pi}{4}$",
+        "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+        "stats": {
+          "count": 359
+        },
+        "resources": []
+      },
+      {
+        "id": "83f5f1b7-2930-4c42-bdca-84c680e5706a",
+        "index": 4,
+        "body": "$x+y-3 z=\\frac{\\sqrt{2}}{3}-\\frac{3 \\pi}{4}$",
+        "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1305489883",
+    "timeSpentVideo": "154949590",
+    "submissions": 4229,
+    "submissionsCorrect": 2267,
+    "accuracy": 0.5360605344052968,
+    "difficulty": 0.7147724647724648
+  },
+  "resources": [],
+  "exam": {
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+    "number": 1,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14045692220",
+      "timeSpentVideo": "2133559776",
+      "submissions": 68612,
+      "submissionsCorrect": 42252,
+      "questions": 12,
+      "accuracy": 0.6158106453681572,
+      "difficulty": 0.6343578996390732
+    }
+  },
+  "explanation": {
+    "id": "cc4a3197-5d57-4199-ac6c-c7444d970fdb",
+    "body": "",
+    "questionId": "1d05f21d-e509-49b3-858b-9f2cb6b4487f",
+    "resources": [
+      {
+        "id": "da6f7fc5-60cc-41ca-acdc-946985dd194c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QLbA7GKKkPs?t=1083"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cc4a3197-5d57-4199-ac6c-c7444d970fdb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28626287773",
+        "timeSpentVideo": "2457957445",
+        "submissions": 63369,
+        "submissionsCorrect": 35272,
+        "questions": 15,
+        "accuracy": 0.5566128548659439,
+        "difficulty": 0.6934763427815154
+      }
+    }
+  ],
+  "children": []
+}

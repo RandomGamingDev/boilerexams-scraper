@@ -1,0 +1,143 @@
+{
+  "id": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the system $\\mathbf{x}^{\\prime}=\\left[\\begin{array}{cc}5 & 5 \\\\ -8 & -7\\end{array}\\right] \\mathbf{x}$, the origin is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2721e3c7-cb54-464b-8f02-ae8da56dfa61",
+        "index": 0,
+        "body": "a saddle point",
+        "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "c6af0c1b-f2d5-4852-8f57-fd12357ccd25",
+        "index": 1,
+        "body": "a proper node source",
+        "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "cbad0c3b-8c19-4d18-b5f3-14ae0cea0162",
+        "index": 2,
+        "body": "a center point",
+        "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "62e9cc5a-d0ec-4f7d-a012-e097ec0f1dc1",
+        "index": 3,
+        "body": "a spiral sink",
+        "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+        "stats": {
+          "count": 1534
+        },
+        "resources": []
+      },
+      {
+        "id": "fb9a70c9-1a32-4754-92e8-fec97586ff6a",
+        "index": 4,
+        "body": "a spiral source",
+        "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "323429466",
+    "timeSpentVideo": "49055379",
+    "submissions": 2090,
+    "submissionsCorrect": 1534,
+    "accuracy": 0.7339712918660287,
+    "difficulty": 0.5267123287671233
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "4f8dc085-4ae7-4a7f-917b-f88d1b2aa179",
+    "body": "",
+    "questionId": "d8c872db-84f3-4a5d-8b20-6fda85ba792c",
+    "resources": [
+      {
+        "id": "9f9c08e3-2ed2-4db7-9676-97d8811dd11d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=SAJ27nSd2JLFJAW7&t=1941"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f8dc085-4ae7-4a7f-917b-f88d1b2aa179",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

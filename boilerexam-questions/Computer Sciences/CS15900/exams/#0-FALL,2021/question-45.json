@@ -1,0 +1,133 @@
+{
+  "id": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the for loop in the C programming language is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "552e3120-4176-482f-a101-3af71dcea160",
+        "index": 0,
+        "body": "You can make use of <font style=\"font-family:'Courier New'\">x++, ++x, x += 1,</font> and <font style=\"font-family:'Courier New'\">x = x + 1</font> interchangeably as the update (third) expression of a <font style=\"font-family:'Courier New'\">for</font> loop to increment the loop control variable.",
+        "questionId": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+        "stats": {
+          "count": 283
+        },
+        "resources": []
+      },
+      {
+        "id": "60753add-634e-4e3a-ab10-2fc8e6dbdb07",
+        "index": 1,
+        "body": "The gcc compiler as used on <font style=\"font-family:'Courier New'\">Vocareum</font> this semester will permit a variable to be declared and initialized in the first expression of a for loop.",
+        "questionId": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+        "stats": {
+          "count": 3300
+        },
+        "resources": []
+      },
+      {
+        "id": "36c91b94-45d6-4f0d-a944-3818a3ac055c",
+        "index": 2,
+        "body": "It is possible to update/change/alter the loop control variable of a <font style=\"font-family:'Courier New'\">for</font> loop inside of its body.",
+        "questionId": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+        "stats": {
+          "count": 265
+        },
+        "resources": []
+      },
+      {
+        "id": "0520c6a0-c17e-47dc-ac00-a98d81c9adba",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 45,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "305345711",
+    "timeSpentVideo": "0",
+    "submissions": 4143,
+    "submissionsCorrect": 3300,
+    "accuracy": 0.7965242577842143,
+    "difficulty": 0.4604642941315107
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "d75c6ce1-535c-4679-b3a3-081c9bf01fd1",
+    "body": "",
+    "questionId": "1d0e52d8-46c0-4bc4-856b-28b523782f79",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,160 @@
+{
+  "id": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the phase portrait of $\\mathbf{x}^{\\prime}=A \\mathbf{x}$ below, where $\\mathbf{x}=\\left[\\begin{array}{l}x_{1} \\\\ x_{2}\\end{array}\\right]$, identify what type of eigenvalues the matrix $A$ has.\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2e79bf83-b759-4610-9eeb-fbe32e8f40ec",
+        "index": 0,
+        "body": "purely imaginary eigenvalues",
+        "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "ec7cfbd0-5450-4e52-bff2-db4dfcd74dba",
+        "index": 1,
+        "body": "repeated eigenvalues",
+        "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "eaff33d3-7297-494c-827e-ccd506dee3d4",
+        "index": 2,
+        "body": "not enough information to decide",
+        "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "38497377-8d35-47fb-b2f6-76ace2c9759c",
+        "index": 3,
+        "body": "real eigenvalues of opposite sign",
+        "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+        "stats": {
+          "count": 1371
+        },
+        "resources": []
+      },
+      {
+        "id": "edb5f99c-9dbb-4ccb-8889-bfd6830c61cd",
+        "index": 4,
+        "body": "one zero and one negative, real eigenvalue",
+        "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "167304889",
+    "timeSpentVideo": "6414843",
+    "submissions": 1962,
+    "submissionsCorrect": 1371,
+    "accuracy": 0.6987767584097859,
+    "difficulty": 0.5608632395732299
+  },
+  "resources": [
+    {
+      "id": "51620a9b-aa84-4d0b-97de-d63ea958eda3",
+      "type": "IMAGE",
+      "data": {
+        "key": "eFx5Ax7TL-RG4OcUx8_M3",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/eFx5Ax7TL-RG4OcUx8_M3",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2952599483",
+      "timeSpentVideo": "291927434",
+      "submissions": 15841,
+      "submissionsCorrect": 10121,
+      "questions": 10,
+      "accuracy": 0.6389116848683796,
+      "difficulty": 0.6119597264914372
+    }
+  },
+  "explanation": {
+    "id": "75d7f4e9-ae3e-487d-bb16-18c59f2491ae",
+    "body": "",
+    "questionId": "bf8c8c1a-79f8-4cc6-a64c-ff315fb2d6e7",
+    "resources": [
+      {
+        "id": "6b19acba-e3c3-4449-8cac-9324e1ee68ad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Mzmq6p1n4Vk?si=WGJL6G8C3_Xje6yZ&t=1518"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "75d7f4e9-ae3e-487d-bb16-18c59f2491ae",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "c80b4b43-2705-4392-9260-852c045c16c9",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "If \\( f(n) \\in O(g(n)) \\), \\( g(n) \\in O(h(n)) \\), and \\( g(n) \\in \\Omega(i(n)) \\), then is it possible that \\( f(n) \\), \\( g(n) \\), and \\( i(n) \\) all grow at the same rate?\n",
+    "solution": "Yes, it is not certainly true from the information given but it is possible that all of them grow at the same rate",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "68782405",
+    "timeSpentVideo": "0",
+    "submissions": 704,
+    "submissionsCorrect": 664,
+    "accuracy": 0.9431818181818182,
+    "difficulty": 0.3619402985074627
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "b80d7bdc-fc16-405c-9388-297ca6ed82f5",
+    "body": null,
+    "questionId": "c80b4b43-2705-4392-9260-852c045c16c9",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

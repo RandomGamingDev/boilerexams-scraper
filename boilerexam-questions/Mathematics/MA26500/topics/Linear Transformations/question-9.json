@@ -1,0 +1,158 @@
+{
+  "id": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Define the linear transformation $T: \\mathbb{P}_{2} \\rightarrow \\mathbb{P}_{3}$\n\n\n\n\\[\nT\\left(a_{0}+a_{1} t+a_{2} t^{2}\\right)=a_{2} t^{3} .\n\\]\n\nThen $\\operatorname{Ker}(T)$ has a basis",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "bc6adb49-b321-42c1-bf42-a2a688d0fd6f",
+        "index": 0,
+        "body": "$\\left\\{t, t^{2}\\right\\}$",
+        "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+        "stats": {
+          "count": 208
+        },
+        "resources": []
+      },
+      {
+        "id": "fcb7a06b-dae1-44f5-842c-ad64a2a3b751",
+        "index": 1,
+        "body": "$\\left\\{1, t, t^{2}, t^{3}\\right\\}$",
+        "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+        "stats": {
+          "count": 298
+        },
+        "resources": []
+      },
+      {
+        "id": "f7404b4f-7d72-43c6-bbf9-38bb0bf1a012",
+        "index": 2,
+        "body": "$\\{1, t\\}$",
+        "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+        "stats": {
+          "count": 1808
+        },
+        "resources": []
+      },
+      {
+        "id": "570f0ab3-e8f7-4ca3-a0a6-572f46f64c7f",
+        "index": 3,
+        "body": "$\\left\\{1, t^{2}\\right\\}$",
+        "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+        "stats": {
+          "count": 173
+        },
+        "resources": []
+      },
+      {
+        "id": "47bb2735-db4e-451b-903b-e3ba2ff04e52",
+        "index": 4,
+        "body": "$\\left\\{t^{2}, t^{3}\\right\\}$",
+        "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+        "stats": {
+          "count": 198
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "399284629",
+    "timeSpentVideo": "163202317",
+    "submissions": 3556,
+    "submissionsCorrect": 1808,
+    "accuracy": 0.5084364454443194,
+    "difficulty": 0.7417943107221007
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "14a7184a-fae7-45d5-adfb-22a14f632379",
+    "body": "",
+    "questionId": "bcdc6c71-d53f-4533-a99d-ae8cc0c9f85f",
+    "resources": [
+      {
+        "id": "875e968a-4f56-4584-a6f4-9407c468511e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=2541\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "14a7184a-fae7-45d5-adfb-22a14f632379",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

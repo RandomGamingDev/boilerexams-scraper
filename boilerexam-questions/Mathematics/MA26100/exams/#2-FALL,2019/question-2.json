@@ -1,0 +1,159 @@
+{
+  "id": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\displaystyle \\iint_{R} \\frac{x^{2} y}{2+x^{3}} d A$ over the region $R=\\{(x, y): 1 \\leq x \\leq 2,0 \\leq y \\leq 4\\}$.",
+    "solution": [
+      2,
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "1052fa42-7124-45e5-94f3-3f830471d151",
+        "index": 0,
+        "body": "$\\ln (33)$",
+        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "b65850ed-daa3-4939-9bb5-f665432f0cb2",
+        "index": 1,
+        "body": "$\\frac{8}{3}(\\arctan (5)-\\arctan (1.5))$",
+        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "0ca864b0-707e-410a-a887-8c5b85fd94b8",
+        "index": 2,
+        "body": "$\\frac{8}{3}(\\ln (10)-\\ln (3))$",
+        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "stats": {
+          "count": 3616
+        },
+        "resources": []
+      },
+      {
+        "id": "0c33a931-bd58-4d02-9b72-3229db22a8a8",
+        "index": 3,
+        "body": "$8\\left(\\frac{7}{3}+\\ln (2)\\right)$",
+        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      },
+      {
+        "id": "36c3d14d-f72e-4b3d-8a54-24924754f4ad",
+        "index": 4,
+        "body": "$\\frac{8}{3}\\left(\\ln(5)-\\ln (1.5)\\right)$",
+        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "886662193",
+    "timeSpentVideo": "38906709",
+    "submissions": 4178,
+    "submissionsCorrect": 3486,
+    "accuracy": 0.8343705122067975,
+    "difficulty": 0.4234455352968677
+  },
+  "resources": [],
+  "exam": {
+    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9516874781",
+      "timeSpentVideo": "1230887307",
+      "submissions": 40641,
+      "submissionsCorrect": 25452,
+      "questions": 11,
+      "accuracy": 0.6262641175167933,
+      "difficulty": 0.6240458015267175
+    }
+  },
+  "explanation": {
+    "id": "ccc0f765-2cc1-474d-86f2-dc56e67443f2",
+    "body": "",
+    "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+    "resources": [
+      {
+        "id": "6aa33528-db53-4a88-9a58-5d65407dbe1a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/olxqgUNis3E?si=H6zGr6dbjDNCIktc&t=220"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ccc0f765-2cc1-474d-86f2-dc56e67443f2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "711fc6ca-22de-4333-abbb-8170f7f05a03",
+      "name": "Double integral on a rectangle",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9731883449",
+        "timeSpentVideo": "905608776",
+        "submissions": 25628,
+        "submissionsCorrect": 15506,
+        "questions": 5,
+        "accuracy": 0.6050413610113938,
+        "difficulty": 0.6453669154228856
+      }
+    },
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    }
+  ],
+  "children": []
+}

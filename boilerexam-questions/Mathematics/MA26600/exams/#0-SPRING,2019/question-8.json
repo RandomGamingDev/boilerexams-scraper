@@ -1,0 +1,143 @@
+{
+  "id": "e51a0526-4f02-4b83-837f-48167e5ca141",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(t)$ denote the unique solution to the initial value problem\n\n\n\\[\ny^{\\prime \\prime \\prime}+3 y^{\\prime \\prime}+2 y^{\\prime}=0 \\quad y(0)=2, \\quad y^{\\prime}(0)=-1, \\quad y^{\\prime \\prime}(0)=1 .\n\\]\n\nWhat is the value of $y(1)$ ?\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1d723f3f-6300-44ad-933d-ee18880915df",
+        "index": 0,
+        "body": "$1+2 e^{-1}+e^{-2}$",
+        "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "70224eff-9d93-49c2-85d2-60e0b74a8ac4",
+        "index": 1,
+        "body": "$1-e^{-2}$",
+        "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "6402dbb2-2764-48c4-9a64-5543b15c219d",
+        "index": 2,
+        "body": "$1+e^{-1}$",
+        "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+        "stats": {
+          "count": 1337
+        },
+        "resources": []
+      },
+      {
+        "id": "4c76526a-72ae-488a-a1e9-5e199b6ff616",
+        "index": 3,
+        "body": "$e+e^{2}$",
+        "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "631750a1-c9c5-491a-813e-1d5b204908a5",
+        "index": 4,
+        "body": "$2+e^{-1}+2 e^{-2}$",
+        "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "572480434",
+    "timeSpentVideo": "48110988",
+    "submissions": 1864,
+    "submissionsCorrect": 1337,
+    "accuracy": 0.717274678111588,
+    "difficulty": 0.5437881873727087
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "253fc89e-9413-49f1-81ca-d25a78a1e126",
+    "body": "",
+    "questionId": "e51a0526-4f02-4b83-837f-48167e5ca141",
+    "resources": [
+      {
+        "id": "44e35227-6689-4b97-83ee-15192ff79373",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=2XPfhdKgQ0MMgWvE&t=873"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "253fc89e-9413-49f1-81ca-d25a78a1e126",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

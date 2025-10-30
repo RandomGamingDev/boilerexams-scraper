@@ -1,0 +1,143 @@
+{
+  "id": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\\[\nx'' + x = t + \\delta_{2 \\pi}(t), \\quad x(0) = 0, \\, x'(0) = -1.\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "cc1a74b4-da13-45a5-8756-59cca8844318",
+        "index": 0,
+        "body": "\\(x(t) = t\\)",
+        "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "741661a1-e153-4acc-8bdd-a4bde4df1471",
+        "index": 1,
+        "body": "\\(x(t) = t - \\sin (t)\\)",
+        "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "20a94c1a-1b4d-4a7a-a3f7-ee7aabe96650",
+        "index": 2,
+        "body": "\\(x(t) = t - \\sin (t) + u_{2 \\pi}(t) \\sin (t)\\)",
+        "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "2fccfddc-a319-44bb-bfe1-7a6dc8f0e2ac",
+        "index": 3,
+        "body": "\\(x(t) = t + u_{2 \\pi}(t) \\sin (t)\\)",
+        "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "8549301d-cef8-4b08-8462-b7db0d1eeebf",
+        "index": 4,
+        "body": "\\(x(t) = t - 2 \\sin (t) + u_{2 \\pi}(t) \\sin (t)\\)",
+        "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+        "stats": {
+          "count": 248
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "172896844",
+    "timeSpentVideo": "25153560",
+    "submissions": 601,
+    "submissionsCorrect": 248,
+    "accuracy": 0.41264559068219636,
+    "difficulty": 0.8248930099857347
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "8074770e-204a-4c46-a7f8-e671a378bbb1",
+    "body": null,
+    "questionId": "57d3ab9a-5c2a-41bb-b849-888380af26da",
+    "resources": [
+      {
+        "id": "7c5f70a8-63ca-4aa9-9a16-0bbba82a2cf0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=FjfcdUVVr1UIMpj0&t=3585"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8074770e-204a-4c46-a7f8-e671a378bbb1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

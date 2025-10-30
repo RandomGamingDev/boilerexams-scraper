@@ -1,0 +1,134 @@
+{
+  "id": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which logical expression should be inserted in place of the comment on line #10 to display the error message when an invalid value has been entered by the user?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cfb04a9b-4385-4c98-b85a-9b077ddfbf30",
+        "index": 0,
+        "body": "grade <= 'A' || grade >= 'F' || grade == 'E'",
+        "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+        "stats": {
+          "count": 210
+        },
+        "resources": []
+      },
+      {
+        "id": "228ddd85-d266-4ba1-86d3-591e7f655836",
+        "index": 1,
+        "body": "grade < 'A' || grade > 'F' || grade == 'E'",
+        "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+        "stats": {
+          "count": 2033
+        },
+        "resources": []
+      },
+      {
+        "id": "4aa1fe73-5585-4aaf-9732-5ed08a6a9c53",
+        "index": 2,
+        "body": "grade >= 'A' && grade <= 'F' && grade != 'E'",
+        "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+        "stats": {
+          "count": 358
+        },
+        "resources": []
+      },
+      {
+        "id": "ef1563db-9a47-4f1a-96d9-2222f7d7a8f2",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+        "stats": {
+          "count": 228
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 34,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "309983672",
+    "timeSpentVideo": "0",
+    "submissions": 2840,
+    "submissionsCorrect": 2033,
+    "accuracy": 0.7158450704225352,
+    "difficulty": 0.5414965986394558
+  },
+  "resources": [
+    {
+      "id": "390e83c4-3208-4071-8101-45b9972b8366",
+      "type": "CODE",
+      "data": {
+        "content": "char getGrade(void)\n{\n  char grade;\n\n  do \n  {\n    printf(\"Enter letter grade -> \");\n    scanf(\"%c\", &grade);\t// Question #36\n\n    if (/*Question #34 */)\n    {\n      printf(\"\\n\\nError! Letter grade must be A, B, C, D, or F!\\n\");\n    }\n  } while (/*Question #35 */);\n\n  return grade;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "9c55ef2a-c639-4adc-af36-085395c66b08",
+    "body": "",
+    "questionId": "4b37a1ac-9ed8-4fa1-81cf-96344f9f92e1",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

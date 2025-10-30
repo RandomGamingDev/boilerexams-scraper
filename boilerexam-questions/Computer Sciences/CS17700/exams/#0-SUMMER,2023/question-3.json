@@ -1,0 +1,133 @@
+{
+  "id": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following code:\nDoes the function process_data handle all possible errors?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "fcb791d1-ff8d-4ac0-a198-c704038040e2",
+        "index": 0,
+        "body": "No, it does not check whether or not numbers can be passed to len() and/or sum() and so it will raise a TypeError exception.",
+        "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      },
+      {
+        "id": "5b8ad522-28d1-40df-a64c-40446547a77c",
+        "index": 1,
+        "body": "Yes, the function will still return the correct output even if length is 0.",
+        "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "8b61d76c-122b-49c9-9fad-a4da8e6115b1",
+        "index": 2,
+        "body": "Yes, it uses an if-else conditional statement to prevent a division by zero from occurring.",
+        "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "8d066261-4479-405a-a66d-ba816025853f",
+        "index": 3,
+        "body": "No, you cannot use an if-else statement to prevent errors. It can only be done using a try-except block.",
+        "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40562703",
+    "timeSpentVideo": "3137763",
+    "submissions": 290,
+    "submissionsCorrect": 189,
+    "accuracy": 0.6517241379310345,
+    "difficulty": 0.6371794871794871
+  },
+  "resources": [
+    {
+      "id": "bc1d0bb2-e1ea-4118-a45a-60e4f7cf0cc7",
+      "type": "CODE",
+      "data": {
+        "content": "def process_data(numbers):\n    total = sum(numbers)\n    size = len(numbers)\n    average = total / size if length > 0 else 0\n    return total, average",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "a5c0d984-9c45-4f1d-adf4-be26cee088e1",
+    "body": "",
+    "questionId": "fe54b506-6eeb-426d-9268-b707c7db3c22",
+    "resources": [
+      {
+        "id": "58cba77a-8b3f-4390-8fc5-05627180fe81",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=8VeQpIFUy8JlkNvp&t=922"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a5c0d984-9c45-4f1d-adf4-be26cee088e1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The suitable form for a particular solution of the equation\n\\[\ny'' + 2y' + 5y = t^2 e^{-t} \\sin(2t)\n\\]\nif the method of Undetermined Coefficients is to be used is\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1a545de9-8eb4-40c8-a6ed-328cfd9d6434",
+        "index": 0,
+        "body": "\\((A_2 t^2 + A_1 t + A_0) e^{-t}sin(2t)\\)",
+        "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "cd0f464e-78d0-402d-a7a1-dc9555801c4b",
+        "index": 1,
+        "body": "\\(t \\left( A_2 t^2 + A_1 t + A_0 \\right) e^{-t} \\sin(2t) + t \\left( B_2 t^2 + B_1 t + B_0 \\right) e^{-t} \\cos(2t)\n\\)",
+        "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+        "stats": {
+          "count": 498
+        },
+        "resources": []
+      },
+      {
+        "id": "f87e6de9-f750-4e50-a4ff-86ca9a088bf9",
+        "index": 2,
+        "body": "\\(A_2 t^2 e^{-t}sin(2t)\\)",
+        "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "45940355-774a-43ad-b7ae-3ae844fb6c14",
+        "index": 3,
+        "body": "\\( t^2 e^{-t} (Asin(2t) + Bcos(2t))\\)",
+        "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "f18add54-36af-4093-9dd7-6ee20c96eabd",
+        "index": 4,
+        "body": "\\(\\left( A_2 t^2 + A_1 t + A_0 \\right) e^{-t} \\sin(2t) +\\left( B_2 t^2 + B_1 t + B_0 \\right) e^{-t} \\cos(2t)\n\\)",
+        "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "176438098",
+    "timeSpentVideo": "64609107",
+    "submissions": 837,
+    "submissionsCorrect": 498,
+    "accuracy": 0.5949820788530465,
+    "difficulty": 0.6651547491995731
+  },
+  "resources": [],
+  "exam": {
+    "id": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1365441067",
+      "timeSpentVideo": "306856488",
+      "submissions": 6299,
+      "submissionsCorrect": 3282,
+      "questions": 10,
+      "accuracy": 0.5210350849341165,
+      "difficulty": 0.7292936396311924
+    }
+  },
+  "explanation": {
+    "id": "25340644-cb40-4ae4-8c8e-cdcbd71197c5",
+    "body": null,
+    "questionId": "bec598d6-ab6e-44ad-9ab3-9d0e1e1303dd",
+    "resources": [
+      {
+        "id": "2510e13e-849d-4ddf-bcb7-1a24758c764b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=lizUKYezcSc"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "25340644-cb40-4ae4-8c8e-cdcbd71197c5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

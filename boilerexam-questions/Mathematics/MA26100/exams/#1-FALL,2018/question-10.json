@@ -1,0 +1,143 @@
+{
+  "id": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f$ is a differentiable function of $x$ and $y$ and $g$ is a differentiable function of $u$ and $v$ and $g(u, v)=f\\left((u+2 v)^{3}+1, e^{u v}-1\\right)$, use the table below to find the value of $g_{v}(-1,0)$.\n\\[\n\\begin{array}{c|c|c|c|c}\n & f & g & f_{x} & f_{y} \\\\\n\\hline\n(-1,0) & 8 & 1 & 4 & 2 \\\\\n\\hline\n(0,0) & 1 & 3 & 5 & 7 \\\\\n\\hline\n\\end{array}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b3c1e02d-5c00-4d1b-8d81-a50773df836e",
+        "index": 0,
+        "body": "$15$",
+        "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "2d028cb3-d656-44ca-980d-34db59a44178",
+        "index": 1,
+        "body": "$22$",
+        "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "stats": {
+          "count": 685
+        },
+        "resources": []
+      },
+      {
+        "id": "2434c785-d005-432b-9446-1a7ad56cb867",
+        "index": 2,
+        "body": "$23$",
+        "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "stats": {
+          "count": 2838
+        },
+        "resources": []
+      },
+      {
+        "id": "1e847a96-0221-4e20-ba7e-6f348b796daf",
+        "index": 3,
+        "body": "$33$",
+        "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "cc4031df-9521-4ba8-8888-79e8c041a7d9",
+        "index": 4,
+        "body": "$47$",
+        "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+        "stats": {
+          "count": 145
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1889110746",
+    "timeSpentVideo": "559212874",
+    "submissions": 7110,
+    "submissionsCorrect": 2838,
+    "accuracy": 0.3991561181434599,
+    "difficulty": 0.8494452149791956
+  },
+  "resources": [],
+  "exam": {
+    "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+    "number": 1,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16275685192",
+      "timeSpentVideo": "2484670091",
+      "submissions": 84914,
+      "submissionsCorrect": 53089,
+      "questions": 12,
+      "accuracy": 0.625209035023671,
+      "difficulty": 0.6249382454654527
+    }
+  },
+  "explanation": {
+    "id": "fd79b06c-b474-4995-a656-ab6f91f5071a",
+    "body": "",
+    "questionId": "b82e5940-1afd-4514-8fe1-c3bd89adbb27",
+    "resources": [
+      {
+        "id": "e2433b50-b563-4af3-a5ca-32e1d44f7a1c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PId1CHqVGmE?t=1086"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fd79b06c-b474-4995-a656-ab6f91f5071a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    }
+  ],
+  "children": []
+}

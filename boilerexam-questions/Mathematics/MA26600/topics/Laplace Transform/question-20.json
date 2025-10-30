@@ -1,0 +1,143 @@
+{
+  "id": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \\(F(x) = \\mathcal{L}\\{f(t)\\}\\) be the Laplace transform of the function\n\\[\nf(t) = \\int_0^t e^{-\\tau} \\cos (2 \\tau) \\sin (t - \\tau) \\, d\\tau.\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4a0e3b60-2a7f-4821-8483-51ada427534e",
+        "index": 0,
+        "body": "\\(F(1) = \\frac{3}{16}\\)",
+        "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "572cfc9a-659b-497f-b2c8-e8849bc4d3b5",
+        "index": 1,
+        "body": "\\(F(1) = \\frac{1}{10}\\)",
+        "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "c2dbf11f-add4-4ccc-b978-0f6c25f27d6f",
+        "index": 2,
+        "body": "\\(F(1) = \\frac{1}{8}\\)",
+        "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+        "stats": {
+          "count": 320
+        },
+        "resources": []
+      },
+      {
+        "id": "1020a3f8-b8f7-470b-abf3-2e17d4fc76f1",
+        "index": 3,
+        "body": "\\(F(1) = 4\\)\n",
+        "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "c19fbc76-b1ce-4842-a39a-1cbad336a1ab",
+        "index": 4,
+        "body": "\\(F(1) = \\frac{1}{32}\\)",
+        "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104552665",
+    "timeSpentVideo": "10119681",
+    "submissions": 526,
+    "submissionsCorrect": 320,
+    "accuracy": 0.6083650190114068,
+    "difficulty": 0.6589456869009584
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "9cb72a90-009d-43df-8cdf-fc522be2c70c",
+    "body": null,
+    "questionId": "2c72d80b-8360-4fb4-a06e-788b4dbe7a30",
+    "resources": [
+      {
+        "id": "889f562f-be80-4c87-94d2-f8f79b5616e3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=FMg89DD390vUhPdM&t=4299"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9cb72a90-009d-43df-8cdf-fc522be2c70c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

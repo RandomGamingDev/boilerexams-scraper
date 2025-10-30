@@ -1,0 +1,158 @@
+{
+  "id": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following are $\\textbf{always true}$?\n\nI. If $\\lim_{k\\to \\infty} k^2 \\lvert a_k \\rvert = 1$, then $\\sum_{k=1}^\\infty (-1)^{k+1}a_k$ converges absolutely. \n\nII. If $\\lim_{k\\to \\infty} \\lvert a_k \\rvert = 0$, then $\\sum_{k=1}^\\infty a_k$ converges absolutely. \n\nIII. If $\\sum_{k=1}^\\infty \\lvert a_k \\rvert$ converges, then $\\sum_{k=1}^\\infty \\frac{a_k}{k}$ converges. ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b7fa280a-3fc9-48ae-885a-d882756db76c",
+        "index": 0,
+        "body": "II and III are true. ",
+        "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "7b2f1271-1d68-4adf-bff7-e835fd0b12a2",
+        "index": 1,
+        "body": "I and II are true. ",
+        "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "970dffd4-709c-4cfa-a179-281c3534f8aa",
+        "index": 2,
+        "body": "I is true. ",
+        "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "38446b6b-7e45-4ec8-90b6-fd2e5e9e17d6",
+        "index": 3,
+        "body": "I and III are true. ",
+        "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "2176f545-aa5a-4f67-9730-80ad7a8e894e",
+        "index": 4,
+        "body": "I, II and III are true. ",
+        "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85437158",
+    "timeSpentVideo": "14931163",
+    "submissions": 532,
+    "submissionsCorrect": 277,
+    "accuracy": 0.5206766917293233,
+    "difficulty": 0.7325949367088608
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "58800925-c6b0-4e45-b514-453b1896f066",
+    "body": null,
+    "questionId": "d2b1ec53-30e9-4e2b-b7bf-f7af2094b6c0",
+    "resources": [
+      {
+        "id": "96b955d2-8926-4d17-a15b-dbea76324e7a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=a_GQ2bOOQ6H3J4AS&t=3194"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "58800925-c6b0-4e45-b514-453b1896f066",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26e7a4c3-53ce-49ab-a5c5-020c29c0e55f",
+      "name": "Absolute or Conditionally Convergent",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "793567327",
+        "timeSpentVideo": "57218369",
+        "submissions": 1671,
+        "submissionsCorrect": 991,
+        "questions": 3,
+        "accuracy": 0.5930580490724118,
+        "difficulty": 0.6621964991530209
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

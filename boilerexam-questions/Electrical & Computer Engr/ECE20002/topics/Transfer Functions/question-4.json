@@ -1,0 +1,190 @@
+{
+  "id": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, find $H(s) = V_L(s) / I_{IN}(s)$. Assume all initial conditions are zero.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4f05c08e-4a5c-413c-9d2f-7680acf88d09",
+        "index": 0,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{0.5}{s^2+0.5s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "04084677-1b49-4fc7-9aee-6222dd20d743",
+        "index": 1,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{1}{s^2+0.5s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "2191444d-3f1b-4c1c-a24d-9cc2004ba104",
+        "index": 2,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{s}{s^2+0.5s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 269
+        },
+        "resources": []
+      },
+      {
+        "id": "cc77acde-e86f-471b-8536-ac6cd52e67e7",
+        "index": 3,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{0.5}{s^2+2s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "8f30a57a-388e-44f9-800c-bba0c962d2a8",
+        "index": 4,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{1}{s^2+2s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "695ff4e8-857f-40b1-ac6d-38f904fcfd37",
+        "index": 5,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{s}{s^2+2s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "731253bd-30b5-4622-bead-549b2bea4538",
+        "index": 6,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{0.5}{s^2+s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "39f3683a-89f5-4e7d-bc15-f512ece847bf",
+        "index": 7,
+        "body": "$H(s) = \\frac{V_L(s)}{I_{IN}(s)} = \\frac{1}{s^2+s+1}$",
+        "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "167662577",
+    "timeSpentVideo": "28944441",
+    "submissions": 513,
+    "submissionsCorrect": 269,
+    "accuracy": 0.5243664717348928,
+    "difficulty": 0.7296084828711256
+  },
+  "resources": [
+    {
+      "id": "bbfb1c13-2ba5-47c2-8556-d16d80b07098",
+      "type": "IMAGE",
+      "data": {
+        "key": "WaMKDkbQO7DYgKUkRGDV8",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/WaMKDkbQO7DYgKUkRGDV8",
+        "altText": "j"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "4d132592-ecf1-4967-ba3f-7c9dbb271bc0",
+    "body": "",
+    "questionId": "b7be138f-6254-4a3c-b4d2-347312a627f0",
+    "resources": [
+      {
+        "id": "84d518dd-f870-49dc-9c34-b6baf09d83f4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=1542s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4d132592-ecf1-4967-ba3f-7c9dbb271bc0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "870e5bd9-8253-4f47-9a6d-d721718d727b",
+      "name": "Transfer Functions",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "738427136",
+        "timeSpentVideo": "65583567",
+        "submissions": 1003,
+        "submissionsCorrect": 447,
+        "questions": 2,
+        "accuracy": 0.4456630109670987,
+        "difficulty": 0.7994106980961015
+      }
+    }
+  ],
+  "children": []
+}

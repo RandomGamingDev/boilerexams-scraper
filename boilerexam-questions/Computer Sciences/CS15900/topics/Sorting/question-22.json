@@ -1,0 +1,118 @@
+{
+  "id": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below:\n\n<code>{ &nbsp;7, 11, &nbsp;3, 10, 18, 23, 13 }</code>\n\nand the array after <b>TWO</b> passes:\n\n<code>{ &nbsp;3, &nbsp;7, 11, 10, 18, 23, 13 }</code>\n\nWhich sorting algorithm(s) could have been applied?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "1232488e-00f0-43ad-bd45-00309cb2f6c3",
+        "index": 0,
+        "body": "Selection.",
+        "questionId": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "b40bb56c-b465-49ee-b25e-98b2a3bab5f3",
+        "index": 1,
+        "body": "Bubble.",
+        "questionId": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "b5328a00-23a7-4c49-bbcd-cde3fb382c37",
+        "index": 2,
+        "body": "Insertion.",
+        "questionId": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "af3741f8-186c-48ae-b258-292150b541ce",
+        "index": 3,
+        "body": "More than one of the above.",
+        "questionId": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1461946",
+    "timeSpentVideo": "0",
+    "submissions": 14,
+    "submissionsCorrect": 5,
+    "accuracy": 0.35714285714285715,
+    "difficulty": 0.7675438596491229
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "b50d1570-ae98-4fe5-a71c-1bef72422ae0",
+    "body": null,
+    "questionId": "ecb98d98-4319-4cce-945f-6908ae93ce67",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

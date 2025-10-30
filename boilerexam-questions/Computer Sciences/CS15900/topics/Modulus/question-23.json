@@ -1,0 +1,118 @@
+{
+  "id": "1badf937-6878-4f3e-9b10-58210f146380",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given A and B are integer variables, both are greater than zero, and A is less than B. What is the range of values possible as a result of the expression <code>B % A</code>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "46f78f5b-9ced-417e-9ed0-451ae7eb9fcd",
+        "index": 0,
+        "body": "Minimum value is zero and the maximum value is <code>A</code>.",
+        "questionId": "1badf937-6878-4f3e-9b10-58210f146380",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "51f21902-9c23-402c-92cc-12e482440cd5",
+        "index": 1,
+        "body": "Minimum value is zero and the maximum value is <code>A</code> minus 1.",
+        "questionId": "1badf937-6878-4f3e-9b10-58210f146380",
+        "stats": {
+          "count": 471
+        },
+        "resources": []
+      },
+      {
+        "id": "0d8d3081-a8f6-4cc2-a8e8-00b2e3bedf96",
+        "index": 2,
+        "body": "The result of the expression is always <code>B</code>.",
+        "questionId": "1badf937-6878-4f3e-9b10-58210f146380",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "aece022c-5fad-4796-8b3e-3e8faa1fcdfe",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "1badf937-6878-4f3e-9b10-58210f146380",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": null,
+  "examId": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "46847445",
+    "timeSpentVideo": "0",
+    "submissions": 633,
+    "submissionsCorrect": 471,
+    "accuracy": 0.7440758293838863,
+    "difficulty": 0.5392223738062756
+  },
+  "resources": [],
+  "exam": {
+    "id": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2606890576",
+      "timeSpentVideo": "0",
+      "submissions": 28393,
+      "submissionsCorrect": 18576,
+      "questions": 42,
+      "accuracy": 0.6542457648011833,
+      "difficulty": 0.596295581370863
+    }
+  },
+  "explanation": {
+    "id": "4fa11475-9402-43a2-b7c0-d9cc0bbb9a19",
+    "body": null,
+    "questionId": "1badf937-6878-4f3e-9b10-58210f146380",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "36b2d3fd-ae6f-41b8-b72c-6c707b28daa8",
+      "name": "Modulus",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2568256807",
+        "timeSpentVideo": "31894298",
+        "submissions": 13086,
+        "submissionsCorrect": 8542,
+        "questions": 7,
+        "accuracy": 0.6527586733914107,
+        "difficulty": 0.598399817988776
+      }
+    }
+  ],
+  "children": []
+}

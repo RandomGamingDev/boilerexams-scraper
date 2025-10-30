@@ -1,0 +1,153 @@
+{
+  "id": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following recurrence relations will generate a sequence with $a_{3}=-3$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "633ec1a7-5c23-4e1b-9e1d-c58ff21fc37d",
+        "index": 0,
+        "body": "$a_{n+1}=1-2 a_{n} ; a_{1}=1$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      },
+      {
+        "id": "5877bf59-8dd2-4bd3-942b-3754721b3363",
+        "index": 1,
+        "body": "$a_{n+1}=-a_{n} ; a_{1}=1$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "774f02b5-aa7b-4483-aca8-451018c4704e",
+        "index": 2,
+        "body": "$a_{n+1}=a_{n}+1 ; a_{1}=-5$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 2047
+        },
+        "resources": []
+      },
+      {
+        "id": "fabd6720-88fc-472d-97c2-bb46c260fc8f",
+        "index": 3,
+        "body": "$a_{n+1}=3 a_{n} ; a_{1}=-1$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "ef44e98a-7be3-4aff-a562-db2ab072d414",
+        "index": 4,
+        "body": "$a_{n+1}=a_{n}-3 ; a_{1}=0$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "24f95a27-ed9f-4455-8d90-da146c09df8c",
+        "index": 5,
+        "body": "$a_{n+1}=-9 / a_{n} ; a_{1}=3$",
+        "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "ac49247a-ff75-4fad-81ea-c684ca361961",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "314758440",
+    "timeSpentVideo": "19842419",
+    "submissions": 2729,
+    "submissionsCorrect": 2047,
+    "accuracy": 0.7500916086478564,
+    "difficulty": 0.5087486744432662
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac49247a-ff75-4fad-81ea-c684ca361961",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6303658106",
+      "timeSpentVideo": "685020582",
+      "submissions": 32950,
+      "submissionsCorrect": 20812,
+      "questions": 12,
+      "accuracy": 0.6316236722306525,
+      "difficulty": 0.6187745839636913
+    }
+  },
+  "explanation": {
+    "id": "3b87ff6f-cc5b-4ebd-bdc6-c89fcce38920",
+    "body": "",
+    "questionId": "741648ba-f3c7-425d-8dac-9d4ca9ba383e",
+    "resources": [
+      {
+        "id": "81cf7af5-c231-47fc-8db7-bfe8138dee65",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YXRnrX7N3w4?t=2199"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3b87ff6f-cc5b-4ebd-bdc6-c89fcce38920",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "282be469-4d0e-44d6-843e-80e374ce856c",
+      "name": "Sequence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "13468634952",
+        "timeSpentVideo": "1284285593",
+        "submissions": 38700,
+        "submissionsCorrect": 25204,
+        "questions": 12,
+        "accuracy": 0.651266149870801,
+        "difficulty": 0.5991237113402061
+      }
+    }
+  ],
+  "children": []
+}

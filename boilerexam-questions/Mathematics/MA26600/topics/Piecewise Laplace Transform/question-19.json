@@ -1,0 +1,143 @@
+{
+  "id": "4de06811-7628-47f9-bd50-c0062e54a14e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of \\(f(t) = \\begin{cases} t, & \\text{if } 3 \\leq t < 5, \\\\ 0, & \\text{otherwise.} \\end{cases}\\)",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "4c58f10e-b2a5-4b3a-98e6-0d4c266dc31d",
+        "index": 0,
+        "body": "\\(e^{-3 s} \\left( \\frac{1}{s^2} + \\frac{3}{s} \\right) - e^{-5 s} \\left( \\frac{1}{s^2} + \\frac{5}{s} \\right)\\)",
+        "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+        "stats": {
+          "count": 323
+        },
+        "resources": []
+      },
+      {
+        "id": "37769867-059c-4a37-afb3-63998add1fd8",
+        "index": 1,
+        "body": "\\(e^{-3 s} \\left( \\frac{1}{s^2} + \\frac{3}{s} \\right) + e^{-5 s} \\left( \\frac{1}{s^2} + \\frac{5}{s} \\right)\\)",
+        "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "73522dbf-c20a-49b2-a2aa-bfd21a47eeba",
+        "index": 2,
+        "body": "\\(\\frac{e^{-3 s}}{s^2} - \\frac{e^{-5 s}}{s^2}\\)",
+        "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "cd69f43d-71c4-469e-a923-5a70cbd198db",
+        "index": 3,
+        "body": "\\(\\frac{e^{-3 s}}{s^2} + \\frac{e^{-5 s}}{s^2}\\)",
+        "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "42cf52e8-b007-42a5-83b3-f5da58b65967",
+        "index": 4,
+        "body": "\\(\\frac{e^{-2 s}}{s^2}\\)",
+        "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "110842842",
+    "timeSpentVideo": "24481774",
+    "submissions": 613,
+    "submissionsCorrect": 323,
+    "accuracy": 0.5269168026101142,
+    "difficulty": 0.7268583450210379
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "828a6f98-0ee1-4f33-99fa-16ccd42f97b8",
+    "body": null,
+    "questionId": "4de06811-7628-47f9-bd50-c0062e54a14e",
+    "resources": [
+      {
+        "id": "d2aae522-cd32-4997-90cd-362a5ec92da4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=0pIfNJfpCMEniCEN&t=3966"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "828a6f98-0ee1-4f33-99fa-16ccd42f97b8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e340eada-2bd4-4ea7-beaa-06c7c577be81",
+      "name": "Piecewise Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2894059979",
+        "timeSpentVideo": "350356691",
+        "submissions": 3998,
+        "submissionsCorrect": 1780,
+        "questions": 4,
+        "accuracy": 0.4452226113056528,
+        "difficulty": 0.8034407027818449
+      }
+    }
+  ],
+  "children": []
+}

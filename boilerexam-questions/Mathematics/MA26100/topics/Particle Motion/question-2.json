@@ -1,0 +1,143 @@
+{
+  "id": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose a particle has acceleration\n$$\n\\mathbf{a}(t)=\\frac{-1}{(1+t)^{2}} \\mathbf{i}+\\sqrt{t} \\mathbf{j}+2 \\mathbf{k}\n$$\n\nIf the inital velocity $\\mathbf{v}(0)=\\mathbf{i}+\\mathbf{j}+\\mathbf{k}$, and the initial position is $\\mathbf{r}(0)=\\mathbf{0}$, what is $\\mathbf{r}(1)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f22ef93e-3501-4f3d-9bb5-4a398e55e213",
+        "index": 0,
+        "body": "$(\\ln 2) \\mathbf{i}+\\frac{4}{15} \\mathbf{j}+2 \\mathbf{k}$",
+        "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+        "stats": {
+          "count": 211
+        },
+        "resources": []
+      },
+      {
+        "id": "f4938933-6fef-42a7-9c06-ed4035d09a91",
+        "index": 1,
+        "body": "$(\\ln 2) \\mathbf{i}+\\frac{19}{15} \\mathbf{j}+2 \\mathbf{k}$",
+        "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+        "stats": {
+          "count": 704
+        },
+        "resources": []
+      },
+      {
+        "id": "a2922825-4f3d-466a-b4fa-86eee40eedfe",
+        "index": 2,
+        "body": "$(1+\\ln 2) \\mathbf{i}+\\frac{4}{15} \\mathbf{j}$",
+        "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "dca9ba50-49f7-45d4-8f30-b58669572817",
+        "index": 3,
+        "body": "$(1+\\ln 2) \\mathbf{i}+\\frac{19}{15} \\mathbf{j}+2 \\mathbf{k}$",
+        "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+        "stats": {
+          "count": 186
+        },
+        "resources": []
+      },
+      {
+        "id": "cee66f7c-1737-4ddf-851c-a11821b6a251",
+        "index": 4,
+        "body": "$\\mathbf{i}+\\frac{4}{15} \\mathbf{j}$",
+        "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "337657195",
+    "timeSpentVideo": "30763721",
+    "submissions": 1287,
+    "submissionsCorrect": 704,
+    "accuracy": 0.5470085470085471,
+    "difficulty": 0.7063806777217015
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "8d7c0912-f218-4046-8eb5-89fe6ecf037b",
+    "body": null,
+    "questionId": "333a92f5-3068-4f74-af7b-a2d183a1c51e",
+    "resources": [
+      {
+        "id": "2cfa4426-b9aa-4958-8c97-b18d4b82ebcb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=dEtjtLFUEUMutIoA&t=102"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8d7c0912-f218-4046-8eb5-89fe6ecf037b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+      "name": "Particle Motion",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27632325273",
+        "timeSpentVideo": "1513879566",
+        "submissions": 59316,
+        "submissionsCorrect": 39641,
+        "questions": 15,
+        "accuracy": 0.6683019758581159,
+        "difficulty": 0.5819812845024909
+      }
+    }
+  ],
+  "children": []
+}

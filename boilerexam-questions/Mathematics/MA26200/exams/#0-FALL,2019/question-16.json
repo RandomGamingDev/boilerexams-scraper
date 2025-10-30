@@ -1,0 +1,143 @@
+{
+  "id": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The solution in implicit form of\n\n\n\n\\[\n\\frac{d y}{d x}=\\frac{x^{2}+3 y^{2}}{2 x y}\n\\]\n\nis:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5e31ce8e-e615-4503-9ee8-e12b7436eae3",
+        "index": 0,
+        "body": "$x^{2}+y^{2}=x^{3}+C$",
+        "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "bd1b21e6-92ba-4514-99aa-6a0ac8525ff3",
+        "index": 1,
+        "body": "$x^{2}+y^{2}=C x^{3}$",
+        "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+        "stats": {
+          "count": 533
+        },
+        "resources": []
+      },
+      {
+        "id": "c18099be-94ab-4fe4-b5f5-9a48477ca782",
+        "index": 2,
+        "body": "$x^{2}+x^{3}=y^{2}+C$",
+        "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "ec55a02d-8333-4864-9093-81d9d7af43f8",
+        "index": 3,
+        "body": "$C x^{2}=x^{3}+y^{2}$",
+        "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "bbffa611-8ec9-4bb1-99b4-64a832dc3ea9",
+        "index": 4,
+        "body": "$x^{2}+y^{3}+x y^{2}=C$",
+        "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "214636196",
+    "timeSpentVideo": "30869267",
+    "submissions": 893,
+    "submissionsCorrect": 533,
+    "accuracy": 0.5968645016797313,
+    "difficulty": 0.6628902316213494
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "a9334060-4784-4901-8c8b-8d4b2c23b41d",
+    "body": "",
+    "questionId": "5ce9bfad-0df1-44b2-afe6-630354605fc9",
+    "resources": [
+      {
+        "id": "31d252d2-9cb7-404c-a03c-523be23fed2a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=W00YZQ34tTE4epKQ&t=2824\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a9334060-4784-4901-8c8b-8d4b2c23b41d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "195a852c-3f16-40f9-8ba6-e393dc5c1f8b",
+      "name": "Homogeneous ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3096401893",
+        "timeSpentVideo": "224975085",
+        "submissions": 6989,
+        "submissionsCorrect": 4255,
+        "questions": 7,
+        "accuracy": 0.6088138503362427,
+        "difficulty": 0.6427211172238679
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "2e559da0-497b-4d17-95cf-67845638cd30",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "String is wrapped around an object of mass $M$ and moment of inertia $I$. With your hand you pull the string straight up with some constant force $F$ such that the center of the object does not move up or down, but the object spins faster and faster. When your hand is a height $y_{0}$ above the floor, the object has an angular speed of $\\omega_{0}$.\n\n\nWhat is the angular speed, $\\omega$ of the object, when your hand has risen to a height $y=y_{0}+$ $\\Delta y$ above the floor?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "88278f39-dae3-45fe-8f32-1e9b506c53b5",
+        "index": 0,
+        "body": "$\\omega=\\sqrt{\\frac{2 M g \\Delta y}{I}+\\omega_{0}^{2}}$",
+        "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+        "stats": {
+          "count": 743
+        },
+        "resources": []
+      },
+      {
+        "id": "4d525def-87e7-4d0a-b715-0a443fca701c",
+        "index": 1,
+        "body": "$\\omega=\\sqrt{\\frac{2 M g \\Delta y}{I}-\\omega_{0}^{2}}$",
+        "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "41663b72-82e7-4e67-adf0-a18cb2f4b785",
+        "index": 2,
+        "body": "$\\omega=\\sqrt{\\frac{2 M g}{I}+\\omega_{0}^{2}}$",
+        "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "3e2f7d8e-c599-4dca-988c-3d43b3a242e0",
+        "index": 3,
+        "body": "$\\omega=\\sqrt{\\frac{2 M g \\Delta y}{I}}$",
+        "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "6b9825c9-1aab-4c5c-84d5-9680f798c996",
+        "index": 4,
+        "body": "$\\omega=\\sqrt{\\frac{2 M g y}{I}-\\omega_{0}^{2}}$",
+        "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 26,
+  "disclaimer": "",
+  "examId": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "161452020",
+    "timeSpentVideo": "33031917",
+    "submissions": 1139,
+    "submissionsCorrect": 743,
+    "accuracy": 0.6523266022827041,
+    "difficulty": 0.6099677158999193
+  },
+  "resources": [],
+  "exam": {
+    "id": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5523245305",
+      "timeSpentVideo": "1139418888",
+      "submissions": 48688,
+      "submissionsCorrect": 30313,
+      "questions": 28,
+      "accuracy": 0.6225969438054552,
+      "difficulty": 0.6276543412314504
+    }
+  },
+  "explanation": {
+    "id": "3f9d0c88-c976-4689-b514-e466db5a5f4d",
+    "body": "",
+    "questionId": "2e559da0-497b-4d17-95cf-67845638cd30",
+    "resources": [
+      {
+        "id": "74cb1819-0b4b-4602-a269-395c7eb98c1b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/VGo5P1HejLE?t=6086\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3f9d0c88-c976-4689-b514-e466db5a5f4d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "55777f70-12c1-46f2-a0d2-63b4594606fd",
+      "name": "Moment of Inertia",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1232465060",
+        "timeSpentVideo": "132992691",
+        "submissions": 3780,
+        "submissionsCorrect": 2338,
+        "questions": 6,
+        "accuracy": 0.6185185185185185,
+        "difficulty": 0.6345360824742268
+      }
+    }
+  ],
+  "children": []
+}

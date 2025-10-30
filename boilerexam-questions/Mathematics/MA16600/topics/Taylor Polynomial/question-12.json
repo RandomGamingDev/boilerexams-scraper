@@ -1,0 +1,143 @@
+{
+  "id": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the value of the series \n\n\\[\\sum_{n=0}^\\infty (-1)^n \\frac{\\pi^{2n}}{(2n)! \\cdot 3^{2n}}.\\]\n\nHINT: find the power series expansion of $\\cos x$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "46e402f6-ed69-4728-9988-ebfccb763ba1",
+        "index": 0,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "8f81817b-4d8c-4413-b40f-8d807e2ee093",
+        "index": 1,
+        "body": "$\\frac{1}{\\sqrt{2}}$",
+        "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "a08dc351-0f24-489b-91c2-a02f2020bb8e",
+        "index": 2,
+        "body": "0",
+        "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "3d06ac6c-4f3c-48fb-a74a-98ac55051d29",
+        "index": 3,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "c3c9f0f0-3464-46b9-befc-f32dff0cdf3b",
+        "index": 4,
+        "body": "The series diverges.",
+        "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "29749756",
+    "timeSpentVideo": "6210598",
+    "submissions": 213,
+    "submissionsCorrect": 136,
+    "accuracy": 0.6384976525821596,
+    "difficulty": 0.6557507987220448
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "9f8f527a-bb0a-4823-955d-991828402e15",
+    "body": null,
+    "questionId": "d3433a3e-f019-401c-8cdd-12dbf2a9e126",
+    "resources": [
+      {
+        "id": "ac12f267-958f-4f9b-b8a4-ce89e7d8f652",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=1oCfyPmFu0yKDTWQ&t=4905"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9f8f527a-bb0a-4823-955d-991828402e15",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42f6ba49-6784-446f-9249-82406193f466",
+      "name": "Taylor Polynomial",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "198548136",
+        "timeSpentVideo": "15739749",
+        "submissions": 488,
+        "submissionsCorrect": 288,
+        "questions": 2,
+        "accuracy": 0.5901639344262295,
+        "difficulty": 0.6751700680272109
+      }
+    }
+  ],
+  "children": []
+}

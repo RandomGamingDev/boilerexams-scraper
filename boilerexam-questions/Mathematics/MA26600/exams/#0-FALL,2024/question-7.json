@@ -1,0 +1,112 @@
+{
+  "id": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the equation\n\\[\ny'' - 2y' + y = \\tfrac{2e^t}{1+t^2}.\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "110ce4c2-f9cb-423a-8ba3-6969c274a32d",
+        "index": 0,
+        "body": "$y(t) = C_1 e^t \\ln(t^2+1) + C_2 t e^t \\tan^{-1}t$",
+        "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "d5c61fe8-b5aa-42ea-a1e1-fe9e97f0305b",
+        "index": 1,
+        "body": "$y(t) = C_1 e^t + C_2 t e^t - t e^t \\ln(t^2+1) + 2e^t \\tan^{-1}t$",
+        "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "edbf92de-6094-4967-8dfd-0f22707414db",
+        "index": 2,
+        "body": "$y(t) = C_1 e^t + C_2 t e^t + \\tfrac{e^t}{1+t^2}$",
+        "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "94f10dc7-2bda-4c8f-aae5-705d9f484297",
+        "index": 3,
+        "body": "$y(t) = C_1 e^t + C_2 t e^t - e^t \\ln(t^2+1) + 2t e^t \\tan^{-1}t$",
+        "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "95d91774-0d8c-4a1f-9db1-767b89c94f20",
+        "index": 4,
+        "body": "$y(t) = C_1 e^t(1-\\ln(t^2+1)) + C_2 t e^t(1+2\\tan^{-1}t)$",
+        "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "183703",
+    "timeSpentVideo": "0",
+    "submissions": 2,
+    "submissionsCorrect": 1,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "d84807a5-ea14-4634-b6e7-970346169bb7",
+    "body": null,
+    "questionId": "a4068164-4199-4b0c-acdd-db8474f4eb27",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

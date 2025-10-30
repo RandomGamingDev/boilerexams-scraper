@@ -1,0 +1,99 @@
+{
+  "id": "f90c9660-9e93-4cc6-a2ab-ce6a0004e4fc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Is the tree below a correct Red-Black Tree? Explain. If the tree is not correct, then create a correct Red-Black Tree holding the same values.\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "0399de4c-2e3c-4127-8293-e9632a8e2600",
+        "index": 0,
+        "body": "Yes, the tree is a correct Red-Black Tree. (Be sure you are able to explain your answer)",
+        "questionId": "f90c9660-9e93-4cc6-a2ab-ce6a0004e4fc",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "fe4eac8f-c436-4235-a6ce-f4b0bdc22800",
+        "index": 1,
+        "body": "No, the Red-Black Tree is incorrect. (Be sure you are able to explain why it is incorrect and are able to correct the Red-Black Tree)",
+        "questionId": "f90c9660-9e93-4cc6-a2ab-ce6a0004e4fc",
+        "stats": {
+          "count": 357
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40566354",
+    "timeSpentVideo": "0",
+    "submissions": 539,
+    "submissionsCorrect": 357,
+    "accuracy": 0.6623376623376623,
+    "difficulty": 0.6130672926447575
+  },
+  "resources": [
+    {
+      "id": "c1564ddb-d678-4592-99a3-2b68e2600a83",
+      "type": "IMAGE",
+      "data": {
+        "key": "NUHKqKZrMnzPmIJ6RXXvE",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/NUHKqKZrMnzPmIJ6RXXvE",
+        "altText": "A red black tree that is invalid"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f90c9660-9e93-4cc6-a2ab-ce6a0004e4fc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "d378c9f2-eebd-494a-b4c3-8a68b3231f12",
+    "body": "The black height of the tree is incorrect. The path of the tree going from 10 -> 5 -> 3 -> 4 has a black height of 3, but every other path of the tree has a black height of 2 (the leaf node and leaf null nodes, remember we don't include the root in the black height). To fix this, we can make the 4 node into a red node. ",
+    "questionId": "f90c9660-9e93-4cc6-a2ab-ce6a0004e4fc",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

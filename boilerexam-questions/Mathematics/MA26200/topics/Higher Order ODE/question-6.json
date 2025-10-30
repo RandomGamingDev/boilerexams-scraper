@@ -1,0 +1,143 @@
+{
+  "id": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution of $y^{(4)}-8 y^{\\prime \\prime}+16 y=0$ is",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f03d001b-bfe9-4626-94f8-b874028c19ea",
+        "index": 0,
+        "body": "$c_{1} e^{2 x}+c_{2} x e^{2 x}+c_{3} e^{-2 x}+c_{4} x e^{-2 x}$",
+        "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+        "stats": {
+          "count": 489
+        },
+        "resources": []
+      },
+      {
+        "id": "f52b1972-da1f-4246-ab96-ee8fcaaebb89",
+        "index": 1,
+        "body": "$c_{1} e^{2 x}+c_{2} e^{-2 x}$",
+        "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "ac37b45e-d57e-4586-9443-22bfc3a0ccb6",
+        "index": 2,
+        "body": "$c_{1} e^{4 x}+c_{2} e^{-4 x}$",
+        "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "bcab4e1f-e30f-4ae6-a81e-fb9b046f065e",
+        "index": 3,
+        "body": "$c_{1} e^{2 x}+c_{2} e^{-2 x}+c_{3}$",
+        "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f983076e-b689-4487-8c17-f880eb08c9ee",
+        "index": 4,
+        "body": "$c_{1} e^{4 x}+c_{2} x e^{4 x}+c_{3} e^{-4 x}+c_{4} x e^{-4 x}$",
+        "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "80948329",
+    "timeSpentVideo": "27439738",
+    "submissions": 620,
+    "submissionsCorrect": 489,
+    "accuracy": 0.7887096774193548,
+    "difficulty": 0.5013888888888889
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "7f51d107-9283-4096-9378-5daa9ceaffd0",
+    "body": "",
+    "questionId": "5407e7ff-9030-4c8d-9a60-688d409de10d",
+    "resources": [
+      {
+        "id": "e531174f-b653-4168-81fb-ca137891d8d0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=98Hra0vW2A3M-1XC&t=1028\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7f51d107-9283-4096-9378-5daa9ceaffd0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

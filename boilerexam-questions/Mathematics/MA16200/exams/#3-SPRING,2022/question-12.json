@@ -1,0 +1,143 @@
+{
+  "id": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use the power series $f(x)=\\ln (1-x)=-\\sum_{k=1}^{\\infty} \\frac{x^{k}}{k}$, for $-1 \\leq x<1$, to find the power series representation for the function $p(x)=5 x^{6} \\ln (1-x)$ centered at $a=0$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9552a758-8b02-48f7-9cee-6c2c1d95bdf2",
+        "index": 0,
+        "body": "$-5 \\sum_{k=1}^{\\infty} \\frac{x^{6 k}}{k}$",
+        "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+        "stats": {
+          "count": 437
+        },
+        "resources": []
+      },
+      {
+        "id": "6475f43d-12e1-4e35-ad2e-4431b70f9c54",
+        "index": 1,
+        "body": "$-5 \\sum_{k=1}^{\\infty} \\frac{x^{6+k}}{k}$",
+        "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+        "stats": {
+          "count": 2136
+        },
+        "resources": []
+      },
+      {
+        "id": "671f72c3-2e09-431d-84f7-c9c7ae2ebcb1",
+        "index": 2,
+        "body": "$-6 \\sum_{k=1}^{\\infty} \\frac{x^{5 k}}{k}$",
+        "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "5557ab04-c524-40b3-9a21-23e382d880de",
+        "index": 3,
+        "body": "$-5 \\sum_{k=1}^{\\infty} \\frac{x^{5 k}}{6 k}$",
+        "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "cbc6e055-ff22-456c-b7ee-b7f411f42a0e",
+        "index": 4,
+        "body": "$-6 \\sum_{k=1}^{\\infty} \\frac{x^{6 k}}{k}$",
+        "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "17daeae2-a682-4ad4-9c07-770985239130",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "486723261",
+    "timeSpentVideo": "61762345",
+    "submissions": 3089,
+    "submissionsCorrect": 2136,
+    "accuracy": 0.691485917772742,
+    "difficulty": 0.5645186578864848
+  },
+  "resources": [],
+  "exam": {
+    "id": "17daeae2-a682-4ad4-9c07-770985239130",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5437520103",
+      "timeSpentVideo": "1847956959",
+      "submissions": 38380,
+      "submissionsCorrect": 25575,
+      "questions": 12,
+      "accuracy": 0.666362688900469,
+      "difficulty": 0.5840696465696466
+    }
+  },
+  "explanation": {
+    "id": "ba380fa8-820c-45cb-a5ee-d532639ed9d1",
+    "body": "",
+    "questionId": "1dae7640-96f4-4835-b90a-f4b8b5d64bd4",
+    "resources": [
+      {
+        "id": "ec57cf7a-5783-47cc-b834-0d39080ecc9e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NCyzwVKmqqw?t=1732"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ba380fa8-820c-45cb-a5ee-d532639ed9d1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    }
+  ],
+  "children": []
+}

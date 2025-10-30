@@ -1,0 +1,143 @@
+{
+  "id": "82f8413e-c838-45d8-96ac-8570cf01e664",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "It is known that the general solution of the system\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{ll}\n2 & 1 \\\\\n1 & 2\n\\end{array}\\right] \\mathbf{x}\n\\]\n\nis given by\n\n\\[\n\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{l}\n1 \\\\\n1\n\\end{array}\\right] e^{3 t}+c_{2}\\left[\\begin{array}{c}\n1 \\\\\n-1\n\\end{array}\\right] e^{t}\n\\]\n\nUse the method of Undetermined Coefficients for systems to find the form of a particular solution to the nonhomogeneous system\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{ll}\n2 & 1 \\\\\n1 & 2\n\\end{array}\\right] \\mathbf{x}+\\left[\\begin{array}{c}\n2 t-1 \\\\\n4 e^{t}\n\\end{array}\\right]\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4b14b012-a8a0-4b0f-9888-aebc7f7cfc23",
+        "index": 0,
+        "body": "$\\mathbf{x}_{p}(t)=t e^{t} \\mathbf{a}+t \\mathbf{b}+\\mathbf{c}$",
+        "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "be8daf5f-d044-4cf1-9c5c-b8eee30091b0",
+        "index": 1,
+        "body": "$\\mathbf{x}_{p}(t)=t e^{t} \\mathbf{a}+e^{t} \\mathbf{b}+t \\mathbf{c}+\\mathbf{d}$",
+        "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+        "stats": {
+          "count": 246
+        },
+        "resources": []
+      },
+      {
+        "id": "fb2de7da-3f7f-467e-a7df-05560bfacb39",
+        "index": 2,
+        "body": "$\\mathbf{x}_{p}(t)=e^{t} \\mathbf{a}+e^{3 t} \\mathbf{b}+t \\mathbf{c}+\\mathbf{d}$",
+        "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "b9fee772-4f1b-4423-acc4-d8a5ab36b2dd",
+        "index": 3,
+        "body": "$\\mathbf{x}_{p}(t)=t e^{t} \\mathbf{a}+t^{2} \\mathbf{b}+t \\mathbf{c}+\\mathbf{d}$",
+        "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "3762ad0f-70e0-44a2-a27a-8e521b3d1d73",
+        "index": 4,
+        "body": "$\\mathbf{x}_{p}(t)=t^{2} e^{t} \\mathbf{a}+e^{t} \\mathbf{b}+t \\mathbf{c}+\\mathbf{d}$",
+        "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "134611844",
+    "timeSpentVideo": "52159739",
+    "submissions": 708,
+    "submissionsCorrect": 246,
+    "accuracy": 0.3474576271186441,
+    "difficulty": 0.8836633663366337
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "5dcbca30-24e6-4300-91c9-5b9a079f2031",
+    "body": "",
+    "questionId": "82f8413e-c838-45d8-96ac-8570cf01e664",
+    "resources": [
+      {
+        "id": "dafee911-12df-4e46-9432-a21a0646c8cb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=M2__KY_HVqibwv_M&t=2483"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5dcbca30-24e6-4300-91c9-5b9a079f2031",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

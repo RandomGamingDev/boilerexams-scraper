@@ -1,0 +1,118 @@
+{
+  "id": "7223e463-5b87-4139-9473-4a94c552c0a3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the original array:<br><font style=\"font-family:'Courier New'\">15 12 8 11 17 13</font><br>Using which of the following algorithms would result in a sorted array after just two sort passes?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "07996eed-6be5-44da-af96-a60ba2fbd7c3",
+        "index": 0,
+        "body": "Selection Sort",
+        "questionId": "7223e463-5b87-4139-9473-4a94c552c0a3",
+        "stats": {
+          "count": 179
+        },
+        "resources": []
+      },
+      {
+        "id": "17fff30e-4540-42ae-bce4-dcfd46a7c051",
+        "index": 1,
+        "body": "Bubble Sort",
+        "questionId": "7223e463-5b87-4139-9473-4a94c552c0a3",
+        "stats": {
+          "count": 1850
+        },
+        "resources": []
+      },
+      {
+        "id": "1b656272-4bba-460a-a303-58f37f63208b",
+        "index": 2,
+        "body": "Insertion Sort",
+        "questionId": "7223e463-5b87-4139-9473-4a94c552c0a3",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "c1f14f30-049d-4652-ace3-b0da2b39403e",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "7223e463-5b87-4139-9473-4a94c552c0a3",
+        "stats": {
+          "count": 503
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "319778491",
+    "timeSpentVideo": "0",
+    "submissions": 2743,
+    "submissionsCorrect": 1850,
+    "accuracy": 0.6744440393729493,
+    "difficulty": 0.5816918747801618
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "153228f4-cda9-4102-96e4-7549991b44b8",
+    "body": "<b>Bubble Sort (Small&rarr;Large)</b>\nOriginal:\n<code>15 12 &nbsp;8 11 17 13</code>\nPass 1:\n<code>12 &nbsp;8 11 15 13 17</code>\nPass 2:\n<code>&nbsp;8 11 12 13 15 17</code>",
+    "questionId": "7223e463-5b87-4139-9473-4a94c552c0a3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

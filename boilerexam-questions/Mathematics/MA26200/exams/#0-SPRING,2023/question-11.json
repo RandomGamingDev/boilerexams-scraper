@@ -1,0 +1,128 @@
+{
+  "id": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following set of vectors below is a basis for the Column Space of\n\n\n\\[\n\\left[\\begin{array}{rrrrr}\n1 & -2 & 0 & 1 & 0 \\\\\n2 & -4 & 0 & 2 & 0 \\\\\n-1 & 2 & 0 & 3 & 4\n\\end{array}\\right] ?\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8fa63e9b-f7e3-4939-9270-b65e0f39a6a6",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{r}1 \\\\ 2 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 3\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 4\\end{array}\\right]\\right\\}$",
+        "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "3f994754-a88d-450f-8c4e-2a971c9236ae",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{r}-1 \\\\ 1 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "015a8122-28f4-442a-85cd-04c77b4b3c85",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{r}1 \\\\ 2 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 3\\end{array}\\right]\\right\\}$",
+        "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "9419d811-c940-4c87-b96e-435e5e5129ec",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{r}1 \\\\ 2 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 3\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 4\\end{array}\\right]\\right\\}$",
+        "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "42d962f2-19ca-4913-b140-71903fb98571",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{r}1 \\\\ 2 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 4\\end{array}\\right]\\right\\}$",
+        "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "48839429",
+    "timeSpentVideo": "0",
+    "submissions": 293,
+    "submissionsCorrect": 251,
+    "accuracy": 0.856655290102389,
+    "difficulty": 0.48409669211195927
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "685464df-91cd-42f1-aaa7-8d69b1f86ef2",
+    "body": "",
+    "questionId": "f84f0adf-1b2e-45a6-96d5-e9f8dc7f6953",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

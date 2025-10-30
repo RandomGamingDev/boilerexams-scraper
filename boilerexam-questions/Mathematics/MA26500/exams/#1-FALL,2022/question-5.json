@@ -1,0 +1,158 @@
+{
+  "id": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is always TRUE?\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "92ca1440-7cbe-40a2-af3b-f53875bf2730",
+        "index": 0,
+        "body": "If $A$ is an $n \\times n$ matrix with all entries being positive, then $\\operatorname{det}(A)>0$.",
+        "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "bad2f770-c7c4-42f8-adb5-562b41c5a9ec",
+        "index": 1,
+        "body": "If $A$ and $B$ are two $n \\times n$ matrices with $\\operatorname{det}(A)>0$ and $\\operatorname{det}(B)>0$, then also $\\operatorname{det}(A+B)>0$.",
+        "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+        "stats": {
+          "count": 808
+        },
+        "resources": []
+      },
+      {
+        "id": "3411a961-fa76-4d99-a63d-2a37edd6d776",
+        "index": 2,
+        "body": "If $A$ and $B$ are two $n \\times n$ matrices such that $A B=0$, then both $A$ and $B$ are singular.",
+        "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+        "stats": {
+          "count": 333
+        },
+        "resources": []
+      },
+      {
+        "id": "499c07bf-866e-4a0d-92b2-fe6a56cee682",
+        "index": 3,
+        "body": "If rows of an $n \\times n$ matrix $A$ are linearly independent, then $\\operatorname{det}\\left(A^{T} A\\right)>0$.",
+        "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+        "stats": {
+          "count": 2416
+        },
+        "resources": []
+      },
+      {
+        "id": "2f4d067a-426e-4567-be32-cedd7b5d791d",
+        "index": 4,
+        "body": "If $A$ is an $n \\times n$ matrix with $A^{2}=I_{n}$, then $\\operatorname{det}(A)=1$.",
+        "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+        "stats": {
+          "count": 1005
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "804433180",
+    "timeSpentVideo": "348565273",
+    "submissions": 5021,
+    "submissionsCorrect": 2416,
+    "accuracy": 0.4811790479984067,
+    "difficulty": 0.7684534270650263
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "ae190eea-ed1b-4b30-8473-4e949919f3f4",
+    "body": "",
+    "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
+    "resources": [
+      {
+        "id": "a62fddba-99d8-4852-9760-a1dde50a8442",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/d1_WSP0AS6c?t=1306\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ae190eea-ed1b-4b30-8473-4e949919f3f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "925b1573-0cf4-4292-8340-35ad36ab433c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $z=f(x, y)$ where $f_{x}=x y^{2}$ and $f_{y}=x^{2} y+y^{2}$. If $x=s+2 t$ and $y=t^{2}$ find $z_{t}$ at $(s, t)=(2,1)$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7b446443-9896-498b-acc4-8791afc82734",
+        "index": 0,
+        "body": "$14$",
+        "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "4087a7da-f1cf-49f4-b12e-081ebce1b9b5",
+        "index": 1,
+        "body": "$21$",
+        "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "3ffd4aec-2038-44d8-ba53-3d391f12eb04",
+        "index": 2,
+        "body": "$8$",
+        "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "80a38c8e-3a73-469e-a4b0-a4e031488a13",
+        "index": 3,
+        "body": "$42$",
+        "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+        "stats": {
+          "count": 3254
+        },
+        "resources": []
+      },
+      {
+        "id": "699e881a-f5c6-43fe-a9c8-6c2a098afd80",
+        "index": 4,
+        "body": "$32$",
+        "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+        "stats": {
+          "count": 179
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1382060289",
+    "timeSpentVideo": "85925756",
+    "submissions": 4963,
+    "submissionsCorrect": 3253,
+    "accuracy": 0.6554503324602056,
+    "difficulty": 0.5976199881493186
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "ad441d19-94a8-4faf-b650-54a7e8da144d",
+    "body": "",
+    "questionId": "925b1573-0cf4-4292-8340-35ad36ab433c",
+    "resources": [
+      {
+        "id": "2add0845-ea80-498e-9ff8-4efb9c191434",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=1163"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ad441d19-94a8-4faf-b650-54a7e8da144d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    },
+    {
+      "id": "e4a570fd-6b1f-4901-8f82-df33cfc1e01a",
+      "name": "Partial Derivatives",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17536639564",
+        "timeSpentVideo": "661682215",
+        "submissions": 41021,
+        "submissionsCorrect": 27618,
+        "questions": 9,
+        "accuracy": 0.6732649130932937,
+        "difficulty": 0.5771564407480363
+      }
+    }
+  ],
+  "children": []
+}

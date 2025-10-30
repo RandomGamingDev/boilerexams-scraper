@@ -1,0 +1,174 @@
+{
+  "id": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A system consists of a two concentric disks  - a smaller uniform disk of mass, $\\textbf{m}$ and radius, $\\textbf{r}$ and a larger uniform disk of mass, $\\textbf{M}$, and radius, $\\textbf{R}$. The smaller disk lies on top of the larger disk. Force $\\boldsymbol{F_1}$ acts tangentially (i.e. perpendicular to the radius) on the outer rim of the smaller disk as shown. Force $\\boldsymbol{F_2}$ acts tangentially on the outer rim of the larger disk as shown. \n\nWhat is the $\\textbf{angular acceleration}$ of the system about the axis? Note: The moment of inertia of a disk is $I = \\frac{1} {2} MR^2$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "d53ba4c5-1f3b-4549-b669-24a6b366b1d2",
+        "index": 0,
+        "body": "$<0, 0, \\frac{F_2R - F_1r} {MR^2 - mr^2}>$",
+        "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "8bbb1181-0d6c-4996-b77e-f3d15a550698",
+        "index": 1,
+        "body": "$<0, 0, \\frac{2F_2R} {MR^2} - \\frac{2F_1r} {mr^2}>$",
+        "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "872fc4c4-1f5d-458b-94b8-87fed9bfe83f",
+        "index": 2,
+        "body": "$<0, 0, \\frac{2(F_2R - F_1r)} {MR^2 + mr^2}>$",
+        "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "d939e2f4-9073-4df0-aeca-e42b84b4cbcf",
+        "index": 3,
+        "body": "$<0, 0, \\frac{2F_2R} {MR^2} + \\frac{2F_1r} {mr^2}>$",
+        "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "a3c38a9b-d91c-4c91-9990-96638465be7b",
+        "index": 4,
+        "body": "None of the above",
+        "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "Answer C should be 2(F2R - F1r) in the numerator",
+  "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "532735",
+    "timeSpentVideo": "357366",
+    "submissions": 6,
+    "submissionsCorrect": 2,
+    "accuracy": 0.3333333333333333,
+    "difficulty": 0.7594339622641509
+  },
+  "resources": [
+    {
+      "id": "d00a828a-795d-4212-89fe-4570e1b436fd",
+      "type": "IMAGE",
+      "data": {
+        "key": "flMyZN0NiZ-RkBa99jEwE",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/flMyZN0NiZ-RkBa99jEwE"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "57331224",
+      "timeSpentVideo": "12482322",
+      "submissions": 389,
+      "submissionsCorrect": 190,
+      "questions": 37,
+      "accuracy": 0.4884318766066838,
+      "difficulty": 0.75920245398773
+    }
+  },
+  "explanation": {
+    "id": "d05f46e2-1cc7-42c4-b03a-576d64a05b8d",
+    "body": null,
+    "questionId": "b6beb1b7-5da2-421c-92f0-649e8c0de695",
+    "resources": [
+      {
+        "id": "b47dee58-ba93-42b4-b4e7-6e64016f2989",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lc0wYjy5LhA?t=5866"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d05f46e2-1cc7-42c4-b03a-576d64a05b8d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c23bfd37-1f6d-43f8-97be-268b8541f2db",
+      "name": "Angular acceleration",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5508315",
+        "timeSpentVideo": "1236252",
+        "submissions": 39,
+        "submissionsCorrect": 14,
+        "questions": 5,
+        "accuracy": 0.358974358974359,
+        "difficulty": 0.789568345323741
+      }
+    },
+    {
+      "id": "f52077cb-e91a-4129-bdf2-adc24c6c8d58",
+      "name": "Torque",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15968322",
+        "timeSpentVideo": "5020624",
+        "submissions": 108,
+        "submissionsCorrect": 53,
+        "questions": 12,
+        "accuracy": 0.49074074074074076,
+        "difficulty": 0.7548076923076923
+      }
+    }
+  ],
+  "children": []
+}

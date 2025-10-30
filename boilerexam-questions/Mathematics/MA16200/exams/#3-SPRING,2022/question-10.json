@@ -1,0 +1,143 @@
+{
+  "id": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The series $\\sum_{k=0}^{\\infty} k^{2} e^{-k^{3}}$ is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "99401e87-eef8-4ae6-ac62-267c78dddec1",
+        "index": 0,
+        "body": "divergent by comparison with $\\sum_{k=1}^{\\infty} \\frac{1}{k}$",
+        "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "6035d3db-b338-43e1-930c-be3e7798974f",
+        "index": 1,
+        "body": "divergent by comparison with $\\sum_{k=1}^{\\infty} \\frac{\\ln k}{k}$",
+        "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "7a5de72f-ee46-478c-badb-27e38482dfce",
+        "index": 2,
+        "body": "divergent by integral test",
+        "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+        "stats": {
+          "count": 483
+        },
+        "resources": []
+      },
+      {
+        "id": "5dacd7b6-90d8-49e9-9c90-a9a4e35662dc",
+        "index": 3,
+        "body": "convergent by integral test",
+        "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+        "stats": {
+          "count": 1907
+        },
+        "resources": []
+      },
+      {
+        "id": "e24503ae-da25-4808-80be-0d4f2c440e23",
+        "index": 4,
+        "body": "a convergent geometric series. ",
+        "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "17daeae2-a682-4ad4-9c07-770985239130",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "421931040",
+    "timeSpentVideo": "176141517",
+    "submissions": 2935,
+    "submissionsCorrect": 1907,
+    "accuracy": 0.6497444633730834,
+    "difficulty": 0.6051894563426689
+  },
+  "resources": [],
+  "exam": {
+    "id": "17daeae2-a682-4ad4-9c07-770985239130",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5437520103",
+      "timeSpentVideo": "1847956959",
+      "submissions": 38380,
+      "submissionsCorrect": 25575,
+      "questions": 12,
+      "accuracy": 0.666362688900469,
+      "difficulty": 0.5840696465696466
+    }
+  },
+  "explanation": {
+    "id": "9c39300a-fece-4571-abfe-95f95019c209",
+    "body": "",
+    "questionId": "ea1e39b3-0ce2-4c09-ac35-f27217fba717",
+    "resources": [
+      {
+        "id": "d29e2c59-f6bf-4e7f-972e-947ed90cbba5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NCyzwVKmqqw?t=1334\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9c39300a-fece-4571-abfe-95f95019c209",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

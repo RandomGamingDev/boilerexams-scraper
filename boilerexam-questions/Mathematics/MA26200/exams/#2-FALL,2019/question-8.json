@@ -1,0 +1,143 @@
+{
+  "id": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(t)$ be the solution to the initial value problem $y^{\\prime \\prime}+3 y^{\\prime}-4 y=6 e^{2 t}, y(0)=2, y^{\\prime}(0)=3$, find $y(1)$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8720cb72-1489-49a4-af0c-03fd7af05a2c",
+        "index": 0,
+        "body": "$e$",
+        "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "4eba4f9d-583f-446b-a4aa-e12d6f12df78",
+        "index": 1,
+        "body": "$e^{2}$",
+        "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "4eccc46c-5ca9-4cb4-a323-d9a45138d1f8",
+        "index": 2,
+        "body": "$e+e^{2}$",
+        "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      },
+      {
+        "id": "1459358f-31e7-450d-9b48-f6ccbd16e4ea",
+        "index": 3,
+        "body": "$e-e^{2}$",
+        "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "020a69d0-36a0-431e-9c68-d4e342760e93",
+        "index": 4,
+        "body": "$2 e-e^{2}$",
+        "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "198733671",
+    "timeSpentVideo": "78769473",
+    "submissions": 592,
+    "submissionsCorrect": 302,
+    "accuracy": 0.5101351351351351,
+    "difficulty": 0.7413294797687862
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "a3aaf077-7a2c-4a33-8c43-61f8d66b1ce5",
+    "body": "",
+    "questionId": "33bc306a-f769-4da7-8838-d3c55e7f04d1",
+    "resources": [
+      {
+        "id": "6844ed43-96f0-4e48-bd7c-c7c3da0cac9d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=r9daQ4oD3PiIpxeY&t=1204\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3aaf077-7a2c-4a33-8c43-61f8d66b1ce5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

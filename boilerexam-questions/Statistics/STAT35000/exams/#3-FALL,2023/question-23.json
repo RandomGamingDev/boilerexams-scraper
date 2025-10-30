@@ -1,0 +1,106 @@
+{
+  "id": "e6ec3fe9-b114-417b-9d81-cdecd7d11f6b",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A university is studying the relationship between the amount of investment in server facilities to the average server traffic. The research team obtained the following set of graphics from their data of 100 pairs, collected from an SRS of other universities with servers of varying sizes.\n\n(a) List ALL assumptions which should be satisfied to conduct inference in a simple linear regression analysis.",
+    "solution": "Assumptions:\n1) SRS: The response (server traffic) is obtained as a simple random sample for each\nfixed \ud835\udc99 (investment). It is okay if they mention that the pairs are SRS.\n2) Linearity: Assume that the relationship between server traffic and investment dollars\nis linear.\n3) Homogeneity/Constant Variance: Assume that the residual errors have common\nvariance.\n4) Normality: Assume that the residual errors are normally distribued.",
+    "answerChoices": []
+  },
+  "number": 23,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3540400",
+    "timeSpentVideo": "987528",
+    "submissions": 38,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.8876811594202898
+  },
+  "resources": [
+    {
+      "id": "089b5dfc-d0c0-48a8-acbe-4b8ebdb8238f",
+      "type": "IMAGE",
+      "data": {
+        "key": "8p0L-KWKlKdt6tLCR_1h_",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8p0L-KWKlKdt6tLCR_1h_"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e6ec3fe9-b114-417b-9d81-cdecd7d11f6b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "fa29ade1-d2eb-443f-b992-75f0aebe228a",
+    "body": null,
+    "questionId": "e6ec3fe9-b114-417b-9d81-cdecd7d11f6b",
+    "resources": [
+      {
+        "id": "e97b004b-e490-4746-bcd9-48228888ca46",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=2186"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fa29ade1-d2eb-443f-b992-75f0aebe228a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+      "name": "Assumptions",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "63602211",
+        "timeSpentVideo": "9500971",
+        "submissions": 216,
+        "submissionsCorrect": 0,
+        "questions": 4,
+        "accuracy": 0,
+        "difficulty": 1.0917721518987342
+      }
+    }
+  ],
+  "children": []
+}

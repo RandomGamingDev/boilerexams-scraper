@@ -1,0 +1,173 @@
+{
+  "id": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $A=\\left[\\begin{array}{rrrrr}-1 & -3 & 0 & -4 & -6 \\\\ -1 & -1 & -1 & -1 & -3 \\\\ 2 & -1 & 2 & -4 & 0\\end{array}\\right]$. Which of the following statements is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "3839ac69-8ad0-4a8d-936c-e39e2035e705",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{r}-1 \\\\ -1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{r}-3 \\\\ -1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{r}0 \\\\ -1 \\\\ 2\\end{array}\\right]\\right\\}$ is a basis for $\\operatorname{Col} A$.",
+        "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+        "stats": {
+          "count": 341
+        },
+        "resources": []
+      },
+      {
+        "id": "6acf48b9-1014-4cdd-8f00-13dd58d13348",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{r}-1 \\\\ -1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{l}-3 \\\\ -1 \\\\ -1\\end{array}\\right],\\left[\\begin{array}{l}-4 \\\\ -1 \\\\ -4\\end{array}\\right]\\right\\}$ is a basis for $\\operatorname{Col} A$.",
+        "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+        "stats": {
+          "count": 779
+        },
+        "resources": []
+      },
+      {
+        "id": "f8f6bbf0-0a8b-477d-8a19-b90084be1d9d",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{r}2 \\\\ -2 \\\\ -1 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{r}0 \\\\ -2 \\\\ -1 \\\\ 0 \\\\ 1\\end{array}\\right]\\right\\}$ is a basis for $\\operatorname{Nul} A$.",
+        "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+        "stats": {
+          "count": 264
+        },
+        "resources": []
+      },
+      {
+        "id": "bf658fd1-6d95-4820-958b-c43b8b5189da",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{r}-2 \\\\ 2 \\\\ 1 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 2 \\\\ 1 \\\\ 0 \\\\ 1\\end{array}\\right]\\right\\}$ is a basis for $\\operatorname{Nul} A$.",
+        "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+        "stats": {
+          "count": 1326
+        },
+        "resources": []
+      },
+      {
+        "id": "57b8abd7-d255-4e92-94c4-e9a2a9359ab1",
+        "index": 4,
+        "body": "$A \\mathbf{x}=\\left[\\begin{array}{r}5 \\\\ 2 \\\\ -8\\end{array}\\right]$ is consistent.",
+        "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1097632815",
+    "timeSpentVideo": "257167086",
+    "submissions": 3501,
+    "submissionsCorrect": 1326,
+    "accuracy": 0.3787489288774636,
+    "difficulty": 0.8678839211330186
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "68135831-46ed-49c0-87fd-47773109d4b4",
+    "body": "",
+    "questionId": "c4cbd7b3-8f25-4e42-91be-f0d59bdfab6d",
+    "resources": [
+      {
+        "id": "4e3fc658-e634-4f90-af5b-f067ef23f4b2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1680"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "68135831-46ed-49c0-87fd-47773109d4b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "8bf22f1e-a943-45e4-8363-59da2a633241",
+      "name": "Column Spaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12713429394",
+        "timeSpentVideo": "1551352939",
+        "submissions": 29398,
+        "submissionsCorrect": 17069,
+        "questions": 10,
+        "accuracy": 0.5806177290972175,
+        "difficulty": 0.6696555698691437
+      }
+    }
+  ],
+  "children": []
+}

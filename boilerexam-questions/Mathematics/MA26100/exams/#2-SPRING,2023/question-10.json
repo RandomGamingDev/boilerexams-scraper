@@ -1,0 +1,143 @@
+{
+  "id": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $V$ be the volume of the solid bounded the surfaces $z=6-x^{2}-y^{2}$ and $z=x^{2}+y^{2}$. If $V=\\displaystyle\\int_{-\\sqrt{3}}^{\\sqrt{3}} \\int_{a}^{\\sqrt{3-x^{2}}} \\int_{x^{2}+y^{2}}^{b} \\,dz\\,dy\\,dx$, what are $a$ and $b?$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0041e7a0-dc99-422c-b681-95856ce1f429",
+        "index": 0,
+        "body": "$a=x, b=\\sqrt{3-x^{2}}$",
+        "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "d7fd2853-e87a-4ecd-9e14-042d4f72621f",
+        "index": 1,
+        "body": "$a=\\sqrt{6-x^{2}}, b=\\sqrt{3-x^{2}-y^{2}}$",
+        "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "7d022833-252d-4b59-bdd8-1c678c3a15ec",
+        "index": 2,
+        "body": "$a=-\\sqrt{3-x^{2}}, b=6-x^{2}-y^{2}$",
+        "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+        "stats": {
+          "count": 3158
+        },
+        "resources": []
+      },
+      {
+        "id": "ca360c2f-fad7-4672-99f7-7901fb316432",
+        "index": 3,
+        "body": "$a=-\\sqrt{3-x^{2}}, b=3$",
+        "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "d171e8d4-e4d1-4c43-9dab-bd265a2b36f2",
+        "index": 4,
+        "body": "$a=3, b=6-x^{2}-y^{2}$",
+        "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "657433136",
+    "timeSpentVideo": "99893372",
+    "submissions": 3808,
+    "submissionsCorrect": 3158,
+    "accuracy": 0.8293067226890757,
+    "difficulty": 0.42911975435005123
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "9d4927b0-31a5-4a5f-98be-4a4c7c3d80c1",
+    "body": "",
+    "questionId": "af59f8bb-5740-4706-a6e1-bdba61e85649",
+    "resources": [
+      {
+        "id": "50c6a954-4611-4bfd-ab85-960a115dbcfc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=brelfs59egS0D2z9&t=1991"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9d4927b0-31a5-4a5f-98be-4a4c7c3d80c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    }
+  ],
+  "children": []
+}

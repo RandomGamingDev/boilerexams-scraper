@@ -1,0 +1,128 @@
+{
+  "id": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution to the differential equation\n\n\n\\[\n\\left(e^{x} \\sin y-2 y \\sin x\\right)+\\left(e^{x} \\cos y+2 \\cos x+2 y\\right) \\frac{d y}{d x}=0 .\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5a97265d-e7df-4173-a932-93d490f4ec7a",
+        "index": 0,
+        "body": "$e^{x} \\sin y+2 y \\cos x+y^{2}=C$",
+        "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+        "stats": {
+          "count": 294
+        },
+        "resources": []
+      },
+      {
+        "id": "fcb5a891-1708-4536-bb9d-61d60235f1ad",
+        "index": 1,
+        "body": "$e^{x} \\cos y+2 y \\sin x+2 y=C$",
+        "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "1f16783f-cfa1-4878-9fa0-093c60736727",
+        "index": 2,
+        "body": "$e^{x} \\sin y-2 y \\cos x+y^{2}=C$",
+        "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "daae26fd-7875-41d1-a507-fa0669aeaae3",
+        "index": 3,
+        "body": "$e^{x} \\cos y-2 y \\sin x+2 y=C$",
+        "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "a3ac3c85-1f92-4f82-a4f5-aafd827f50f0",
+        "index": 4,
+        "body": "$e^{x} \\sin x+2 x \\cos y-y^{2}=C$",
+        "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86763793",
+    "timeSpentVideo": "0",
+    "submissions": 344,
+    "submissionsCorrect": 290,
+    "accuracy": 0.8430232558139535,
+    "difficulty": 0.4842342342342343
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "55edbd88-830a-4241-9480-a197b2723b9d",
+    "body": "",
+    "questionId": "99a541e2-0175-4287-88ab-7eef5a7f7434",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

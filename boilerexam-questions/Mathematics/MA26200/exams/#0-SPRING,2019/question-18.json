@@ -1,0 +1,143 @@
+{
+  "id": "de0364ae-7149-4555-8517-9bef57e024d9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution to the homogeneous equation $t^{2} y^{\\prime \\prime}+7 t y^{\\prime}+5 y=0$ on the interval $0<t<\\infty$ is $y(t)=c_{1} t^{-1}+c_{2} t^{-5}$. A particular solution to the nonhomogeneous equation $t^{2} y^{\\prime \\prime}+7 t y^{\\prime}+5 y=t$ has the form $y_{p}(t)=u_{1}(t) t^{-1}+u_{2}(t) t^{-5}$. Which of the following are satisfied by $u_{1}^{\\prime}$ and $u_{2}^{\\prime}$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d6eb34c3-adad-454d-b933-1ca491834204",
+        "index": 0,
+        "body": "$u_{1}^{\\prime}=\\frac{t}{4}, \\quad u_{2}^{\\prime}=-\\frac{t^{5}}{4}$",
+        "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+        "stats": {
+          "count": 313
+        },
+        "resources": []
+      },
+      {
+        "id": "0aa5d3ed-2628-4650-bc3f-3fe0bf5d57d8",
+        "index": 1,
+        "body": "$u_{1}^{\\prime}=\\frac{t^{3}}{4}, \\quad u_{2}^{\\prime}=-\\frac{t^{7}}{4}$",
+        "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+        "stats": {
+          "count": 263
+        },
+        "resources": []
+      },
+      {
+        "id": "0e585979-0bf0-4f0e-a071-71ae3c69f39e",
+        "index": 2,
+        "body": "$u_{1}^{\\prime}=-t^{7}, \\quad u_{2}^{\\prime}=t^{3}$",
+        "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "1a2a53f1-42c7-40e6-866b-c1b9ec91aca8",
+        "index": 3,
+        "body": "$u_{1}^{\\prime}=t^{5}, \\quad u_{2}^{\\prime}=t$",
+        "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "9c305dc3-2328-4fb9-b7bb-a1d349db3bb9",
+        "index": 4,
+        "body": "$u_{1}^{\\prime}=-t^{5}, \\quad u_{2}^{\\prime}=t$",
+        "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "239214103",
+    "timeSpentVideo": "82669658",
+    "submissions": 940,
+    "submissionsCorrect": 313,
+    "accuracy": 0.33297872340425533,
+    "difficulty": 0.9009615384615385
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "d8fe8624-826b-497d-ac20-74bd52ad8a9b",
+    "body": "",
+    "questionId": "de0364ae-7149-4555-8517-9bef57e024d9",
+    "resources": [
+      {
+        "id": "8ad6d25c-8f64-4f57-9245-0589ae9e91f3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=_H_8ROnaJvchbyWf&t=3153\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d8fe8624-826b-497d-ac20-74bd52ad8a9b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

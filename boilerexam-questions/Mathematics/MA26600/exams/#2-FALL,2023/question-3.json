@@ -1,0 +1,143 @@
+{
+  "id": "5a312e11-d928-46a8-a8a9-245d28134901",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system:\n\\[\n    \\begin{cases}\n        x_1' = x_1 + x_2 + x_3 \\\\\n        x_2' = x_1 - 2x_2 + 4x_3 \\\\\n        x_3' = x_1 + 4x_2 - 2x_3.\n    \\end{cases}\n\\]\nAssume that for some non-zero constant vector $\\vec{v}, x(t) = e^\n{3t }\\vec{v} $ is a solution to the above\nsystem. Which of the following vectors can$\\vec{ v}$ equal?\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0f769eb7-6fbe-4f08-a063-fbb39a68f9d6",
+        "index": 0,
+        "body": "$\\begin{bmatrix} -2 \\\\ 1 \\\\ 1 \\end{bmatrix}$",
+        "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "20fe6726-f701-42f0-b51d-9bac3ae30b88",
+        "index": 1,
+        "body": "$\\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix}$",
+        "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "8a81d568-97a8-49ef-9716-8a3ea5f0ef50",
+        "index": 2,
+        "body": "$\\begin{bmatrix} 1 \\\\ 1 \\\\ -1 \\end{bmatrix}$",
+        "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "9e0d5f5c-2445-4861-85e0-ec8c15daf282",
+        "index": 3,
+        "body": "$\\begin{bmatrix} 1 \\\\ 1 \\\\ 1 \\end{bmatrix}$",
+        "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      },
+      {
+        "id": "a4f85927-03df-4ac0-a654-51aa51f34141",
+        "index": 4,
+        "body": "$\\begin{bmatrix} 1 \\\\ 0 \\\\ 0 \\end{bmatrix}$",
+        "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "136622677",
+    "timeSpentVideo": "26416192",
+    "submissions": 657,
+    "submissionsCorrect": 388,
+    "accuracy": 0.5905631659056316,
+    "difficulty": 0.6714002642007926
+  },
+  "resources": [],
+  "exam": {
+    "id": "659a71ad-2c08-4d43-ae6d-b28b47218b6c",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1199070678",
+      "timeSpentVideo": "191535939",
+      "submissions": 5888,
+      "submissionsCorrect": 3542,
+      "questions": 10,
+      "accuracy": 0.6015625,
+      "difficulty": 0.6501336005344022
+    }
+  },
+  "explanation": {
+    "id": "5eb33ce4-88a9-49ee-bffb-7e4134820217",
+    "body": null,
+    "questionId": "5a312e11-d928-46a8-a8a9-245d28134901",
+    "resources": [
+      {
+        "id": "283c86b2-fd93-4148-bcd5-3ca75a29adbb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UkUn64QYxRg?si=g6hZd35en2sFWiwT&t=699"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5eb33ce4-88a9-49ee-bffb-7e4134820217",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8a469da1-2abb-4afc-a453-d3d3d7225815",
+      "name": "System of Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2751687092",
+        "timeSpentVideo": "157437810",
+        "submissions": 6359,
+        "submissionsCorrect": 4496,
+        "questions": 9,
+        "accuracy": 0.7070294071394874,
+        "difficulty": 0.5461758786189813
+      }
+    }
+  ],
+  "children": []
+}

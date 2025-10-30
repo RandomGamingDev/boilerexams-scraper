@@ -1,0 +1,153 @@
+{
+  "id": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int \\frac{d x}{\\sqrt{x^{2}-6 x+10}}$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ada05904-be92-4310-b66a-a41d34eb54d0",
+        "index": 0,
+        "body": "$\\frac{\\sqrt{x^{2}-6 x+10}}{x-3}+C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "e97c6789-b706-4a9f-8509-b42e58255bc3",
+        "index": 1,
+        "body": "$\\tan ^{-1}(x-3)+C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "896f73ef-8f63-4104-b526-67b41e90e20b",
+        "index": 2,
+        "body": "$\\frac{\\ln \\left|\\sqrt{x^{2}-6 x+10}\\right|}{2 x-6}+C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "68bfe518-381b-4dbf-82a7-427b17b1d4a7",
+        "index": 3,
+        "body": "$\\ln \\left|x-3+\\sqrt{x^{2}-6 x+10}\\right|+C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 1189
+        },
+        "resources": []
+      },
+      {
+        "id": "4fdd0e9a-64ad-485a-8227-8dd2993ea538",
+        "index": 4,
+        "body": "$\\frac{3-x}{\\sqrt{x^{2}-6 x+10}}+C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "7c6fd2e1-27a1-444b-b2f5-fdf3dd2fc925",
+        "index": 5,
+        "body": "$\\tan^{-1}(x-3) + \\ln|\\sqrt{x^2 - 6x + 10}| +C$",
+        "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "ac49247a-ff75-4fad-81ea-c684ca361961",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "496620856",
+    "timeSpentVideo": "66336238",
+    "submissions": 2016,
+    "submissionsCorrect": 1189,
+    "accuracy": 0.589781746031746,
+    "difficulty": 0.6644612476370511
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac49247a-ff75-4fad-81ea-c684ca361961",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6303658106",
+      "timeSpentVideo": "685020582",
+      "submissions": 32950,
+      "submissionsCorrect": 20812,
+      "questions": 12,
+      "accuracy": 0.6316236722306525,
+      "difficulty": 0.6187745839636913
+    }
+  },
+  "explanation": {
+    "id": "e12eb107-d046-4926-bf40-f86965311755",
+    "body": "",
+    "questionId": "5f1e6e59-ce34-4216-a989-abd0e404d2b4",
+    "resources": [
+      {
+        "id": "e2871028-fd27-42e5-8554-38dc5ec8aac1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YXRnrX7N3w4?t=1118\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e12eb107-d046-4926-bf40-f86965311755",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

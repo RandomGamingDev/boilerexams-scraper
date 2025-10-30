@@ -1,0 +1,143 @@
+{
+  "id": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the appropriate form for a particular solution of\n\\[\ny^{(3)} + 4y''+4y' = 4e^{-2x}x.\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "10f25da0-cae5-4569-ac0a-542b1dc54c05",
+        "index": 0,
+        "body": "$Ae^{-2x}x^3$",
+        "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "2406165e-895c-470f-bcfb-0eb04a9dce6d",
+        "index": 1,
+        "body": "$Ae^{-2x}x^3 + Be^{-2x}x^2$",
+        "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+        "stats": {
+          "count": 464
+        },
+        "resources": []
+      },
+      {
+        "id": "2f6c3c2c-11db-4251-a09d-65fc78fa0a16",
+        "index": 2,
+        "body": "$Ae^{-2x}x^3+Be^{-2x}x^2+Ce^{-2x}x+De^{-2x}$",
+        "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "6978d932-101a-4bc0-a636-7f5f4febbec8",
+        "index": 3,
+        "body": "$Ae^{-2x}x+Be^{-2x}+C$",
+        "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "4a9c6b3b-0279-46f8-800a-96ea35734b51",
+        "index": 4,
+        "body": "$Ae^{-2x}x^2+Be^{-2x}x$",
+        "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "120069574",
+    "timeSpentVideo": "13877746",
+    "submissions": 710,
+    "submissionsCorrect": 464,
+    "accuracy": 0.6535211267605634,
+    "difficulty": 0.6154320987654321
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "c1a0a847-435c-43d4-ae1b-ee46a1342222",
+    "body": null,
+    "questionId": "2a1be1c0-0dff-4140-ae25-068e5ff0d3c2",
+    "resources": [
+      {
+        "id": "c67c4940-c154-4e05-a1ab-672a136a1ae4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=HxQxFVqgKWPbzOoL&t=1917"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c1a0a847-435c-43d4-ae1b-ee46a1342222",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

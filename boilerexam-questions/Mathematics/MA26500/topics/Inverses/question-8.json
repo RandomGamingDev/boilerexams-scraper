@@ -1,0 +1,120 @@
+{
+  "id": "abf3cdf7-4f82-4102-a6a2-7b350d234706",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{R} ^2\\rightarrow  \\mathbb{R} ^2$ be the linear transformation for which\n\\[T\\left(\\begin{bmatrix} 1\\\\ 1\\\\\\end{bmatrix}\\right) = \\begin{bmatrix} 3\\\\ 4\\\\\\end{bmatrix} \\textrm{     and     } T\\left(\\begin{bmatrix} -1\\\\ 1\\\\\\end{bmatrix}\\right) = \\begin{bmatrix} -1\\\\ -2\\\\\\end{bmatrix}\\]\n(1) Find $T \\left(\\begin{bmatrix} 1\\\\ 0\\\\\\end{bmatrix}\\right)$ and $T \\left(\\begin{bmatrix} 0\\\\ 1\\\\\\end{bmatrix}\\right)$.\n\n(2) Let $A$ be the standard matrix of $T$, find $A$ and $A^{-1}$. \n\n(3) Let \\textbf{b} $= \\begin{bmatrix} 7\\\\ 9\\\\\\end{bmatrix}$, find all the vectors \\textbf{x} in $\\mathbb{R}^2$ such that $T(\\textbf{x}) = \\textbf{b}$. ",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "227551949",
+    "timeSpentVideo": "56512092",
+    "submissions": 876,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 1.1987704918032787
+  },
+  "resources": [],
+  "exam": {
+    "id": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7451087147",
+      "timeSpentVideo": "1937973629",
+      "submissions": 38138,
+      "submissionsCorrect": 20922,
+      "questions": 10,
+      "accuracy": 0.548586711416435,
+      "difficulty": 0.7015403525288979
+    }
+  },
+  "explanation": {
+    "id": "93ee27fa-2920-4fab-8969-37193d54b3cd",
+    "body": null,
+    "questionId": "abf3cdf7-4f82-4102-a6a2-7b350d234706",
+    "resources": [
+      {
+        "id": "e717cc38-fb55-454e-b5be-3350a67b9cb6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QzrKd21HPn8?si=Qn9BgzmSnQ_C4jeA&t=2531"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "93ee27fa-2920-4fab-8969-37193d54b3cd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "c0dc3367-8625-4d57-85eb-90ac0c8f2323",
+      "name": "Matrix Addition and Multiplication",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8162413508",
+        "timeSpentVideo": "815735998",
+        "submissions": 16260,
+        "submissionsCorrect": 9237,
+        "questions": 9,
+        "accuracy": 0.5680811808118081,
+        "difficulty": 0.6823349633251834
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

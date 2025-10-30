@@ -1,0 +1,143 @@
+{
+  "id": "7f84f900-be75-4866-9053-41dbe2ef4777",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $z=e^{r} \\cos \\theta, r=12 s t, \\theta=\\sqrt{s^{2}+t^{2}}$. The partial derivative $\\frac{\\partial z}{\\partial s}$ is:",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "4933935f-7577-4d99-8d8b-a206eaead4ce",
+        "index": 0,
+        "body": "$e^{r}\\left(12 t \\cos \\theta-\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
+        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "stats": {
+          "count": 2997
+        },
+        "resources": []
+      },
+      {
+        "id": "0f30ed5e-1dcc-4e23-84f5-5096d1b9c273",
+        "index": 1,
+        "body": "$e^{r}\\left(t \\cos \\theta-\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
+        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "efb9ad7f-bacc-47a4-912f-b96de1b9ac5e",
+        "index": 2,
+        "body": "$e^{r}\\left(12 t \\cos \\theta+\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
+        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "5fef0d3d-054f-4685-946a-c533cf4aef93",
+        "index": 3,
+        "body": "$e^{r}\\left(t \\cos \\theta+\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
+        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "732c6e7a-9572-4fc6-bd2a-ce39975dadb3",
+        "index": 4,
+        "body": "$12 t \\cos \\theta-\\frac{s e^{r} \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}$",
+        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1094314489",
+    "timeSpentVideo": "42724077",
+    "submissions": 4213,
+    "submissionsCorrect": 2996,
+    "accuracy": 0.7111322098267268,
+    "difficulty": 0.5437630419661489
+  },
+  "resources": [],
+  "exam": {
+    "id": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12086253065",
+      "timeSpentVideo": "1355220987",
+      "submissions": 54401,
+      "submissionsCorrect": 32892,
+      "questions": 11,
+      "accuracy": 0.6046212385801731,
+      "difficulty": 0.6455707234729638
+    }
+  },
+  "explanation": {
+    "id": "2bec416f-8bd6-42f7-8cd7-b52cbc3f75c1",
+    "body": "",
+    "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+    "resources": [
+      {
+        "id": "c8b6b1fc-cbf6-4731-972b-98e1856db43d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TA9-ezOW78k?feature=shared&t=1286"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2bec416f-8bd6-42f7-8cd7-b52cbc3f75c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    }
+  ],
+  "children": []
+}

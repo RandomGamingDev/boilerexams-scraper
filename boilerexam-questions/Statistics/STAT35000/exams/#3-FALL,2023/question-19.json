@@ -1,0 +1,121 @@
+{
+  "id": "6a6f31ae-d873-4569-bee7-20cc1b94c59e",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A scientist is studying the relationship between annual rainfall (x) measured in centimeters and shoreline erosion (y) which is also measured in centimeters. For each of ten annual rainfall levels, a randomly selected shoreline erosion value was measured. The study reported the following data. You may assume all model assumptions hold.\n\n(c) (5 points) Is there a significant linear association between rainfall and shoreline erosion at a \ud835\udf36 = \ud835\udfce. \ud835\udfce\ud835\udfcf level of significance? Provide a formal decision and conclusion in context. Regardless of the results of the hypothesis test, determine the coefficient of\ndetermination and assess what this tells us about the linear regression in context. (Hint: Use the ANOVA table)",
+    "solution": "Decision: The \ud835\udc91-value < \ud835\udfce. \ud835\udfce\ud835\udfce\ud835\udfce\ud835\udfcf \u2264 \ud835\udfce. \ud835\udfce\ud835\udfcf = \ud835\udf36 therefore we have evidence to reject the null\nhypothesis. \n\nThe data does give strong support (\ud835\udc91-value< \ud835\udfce. \ud835\udfce\ud835\udfce\ud835\udfce\ud835\udfcf) to the claim that that there is a linear\nassociation between rainfall and shoreline erosion in the population.\nR^2= \ud835\udfd1\ud835\udfd5. \ud835\udfd7\ud835\udfd1\ud835\udfd6/ \ud835\udfd1\ud835\udfd6. \ud835\udfd2\ud835\udfce\ud835\udfd3 = \ud835\udfce. \ud835\udfd7\ud835\udfd6\ud835\udfd5\ud835\udfd6\n\ud835\udc79^\ud835\udfd0 tells us that 98.78% of the variation in the shoreline erosion has been explained by the\nregression line.",
+    "answerChoices": []
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3829786",
+    "timeSpentVideo": "1088916",
+    "submissions": 44,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.9027777777777778
+  },
+  "resources": [
+    {
+      "id": "3de3aebe-881c-43b4-ac85-64d34529097e",
+      "type": "IMAGE",
+      "data": {
+        "key": "89gUaHFeOC2Knyl3lkAxv",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/89gUaHFeOC2Knyl3lkAxv"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6a6f31ae-d873-4569-bee7-20cc1b94c59e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "fc4adf1a-7877-412b-a6fb-c505f9924f3f",
+    "body": null,
+    "questionId": "6a6f31ae-d873-4569-bee7-20cc1b94c59e",
+    "resources": [
+      {
+        "id": "a434c557-cc78-4027-aae1-34f4149f02e1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=1608"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fc4adf1a-7877-412b-a6fb-c505f9924f3f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    },
+    {
+      "id": "f155766a-e193-487a-b556-a9356f8f0682",
+      "name": "R2",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35504087",
+        "timeSpentVideo": "1217545",
+        "submissions": 80,
+        "submissionsCorrect": 0,
+        "questions": 2,
+        "accuracy": 0,
+        "difficulty": 0.9722222222222222
+      }
+    }
+  ],
+  "children": []
+}

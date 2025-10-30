@@ -1,0 +1,158 @@
+{
+  "id": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the sum of the series \\[\\sum_{k=1}^{\\infty}\\frac{1}{(k+2)(k+3)}\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7a13f2b4-f66b-4ba3-8b68-ece3486f99f1",
+        "index": 0,
+        "body": "$\\frac{1}{3}$",
+        "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+        "stats": {
+          "count": 562
+        },
+        "resources": []
+      },
+      {
+        "id": "575b9057-cad9-4b15-ac22-673cd91fbe0f",
+        "index": 1,
+        "body": "$\\frac{2}{7}$",
+        "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "1d70d274-5e66-47b2-8dcd-a2327861aeaf",
+        "index": 2,
+        "body": "$\\frac{2}{5}$",
+        "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "0a4150bf-6659-4ddd-b4e9-d30696334569",
+        "index": 3,
+        "body": "$\\frac{1}{5}$",
+        "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "6643f540-771c-4313-a678-8b2a32316b51",
+        "index": 4,
+        "body": "$\\frac{1}{7}$",
+        "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "135739627",
+    "timeSpentVideo": "30322028",
+    "submissions": 956,
+    "submissionsCorrect": 563,
+    "accuracy": 0.5889121338912134,
+    "difficulty": 0.6695075757575758
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3456260593",
+      "timeSpentVideo": "520083877",
+      "submissions": 18340,
+      "submissionsCorrect": 11369,
+      "questions": 12,
+      "accuracy": 0.6199018538713196,
+      "difficulty": 0.6307483731019523
+    }
+  },
+  "explanation": {
+    "id": "df35ed8e-e76a-487f-b5d9-8159f7022b47",
+    "body": null,
+    "questionId": "5f37e1f0-506c-4e78-aca6-22c4b5a3de95",
+    "resources": [
+      {
+        "id": "bc9130b8-07f3-4be2-912b-d9ac90f1525d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eulVR-n2sNg&t=1952s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "df35ed8e-e76a-487f-b5d9-8159f7022b47",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fa0243e3-a11b-44ee-a861-2c4b26d2a6d6",
+      "name": "Telescoping Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4708415271",
+        "timeSpentVideo": "823828974",
+        "submissions": 14841,
+        "submissionsCorrect": 8590,
+        "questions": 5,
+        "accuracy": 0.5788019675224042,
+        "difficulty": 0.6717254534502376
+      }
+    },
+    {
+      "id": "fa192135-b4e1-40e8-85ce-a3b292efe1e7",
+      "name": "Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11213900570",
+        "timeSpentVideo": "825795414",
+        "submissions": 23786,
+        "submissionsCorrect": 12886,
+        "questions": 12,
+        "accuracy": 0.541747246279324,
+        "difficulty": 0.708427530771163
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the following pseudocode snippet, what is the tightest best-case complexity for the number of array accesses in terms of n? Assume all variables are integers.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "705a4ce4-c0b2-45bc-a87d-01cfe2417066",
+        "index": 0,
+        "body": "$\\Omega(\\log{(n)})$",
+        "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "f525a563-7d00-45b8-9c7c-352660f4e8d2",
+        "index": 1,
+        "body": "$\\Omega(n \\log{(n)} )$",
+        "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+        "stats": {
+          "count": 111
+        },
+        "resources": []
+      },
+      {
+        "id": "2e753850-3fb7-4369-9429-421ba00e38b6",
+        "index": 2,
+        "body": "$\\Omega(n)$",
+        "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "8e4c91d5-31eb-40a0-bbd9-c9830198a6a3",
+        "index": 3,
+        "body": "$\\Omega(n^2)$",
+        "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+        "stats": {
+          "count": 1078
+        },
+        "resources": []
+      },
+      {
+        "id": "1c4e3981-3842-4587-9873-b0e7a8c93e5e",
+        "index": 4,
+        "body": "$\\Omega(1)$\n",
+        "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "246938924",
+    "timeSpentVideo": "0",
+    "submissions": 1441,
+    "submissionsCorrect": 1078,
+    "accuracy": 0.7480916030534351,
+    "difficulty": 0.5180077871512005
+  },
+  "resources": [
+    {
+      "id": "95b2c47b-0178-4947-977a-2d93e7e54b01",
+      "type": "CODE",
+      "data": {
+        "content": "a = an array of n integers\ncount = 0\n\nfor (i = n \u2013 1, i >= 0, i = i - 1)\n   for (j = i + 1, j < n, j = j + 1)\n      if (a[i] == a[j])\n         count = count + 1\n      end if\n   end for\nend for\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "ec609158-a241-47cc-9543-03f7eb93add4",
+    "body": null,
+    "questionId": "ef94d85b-a534-42ce-8949-ca873fee39b0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    }
+  ],
+  "children": []
+}

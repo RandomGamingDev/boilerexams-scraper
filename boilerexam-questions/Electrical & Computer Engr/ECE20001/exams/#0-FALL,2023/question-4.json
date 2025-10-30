@@ -1,0 +1,180 @@
+{
+  "id": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the RMS voltage for the waveform below?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "218654f0-931e-4ada-b61c-9a7e539dad7b",
+        "index": 0,
+        "body": "\\(\\frac{16}{3}\\) V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "4fa69a2c-b947-4640-9a8d-8c4ebc2557c9",
+        "index": 1,
+        "body": "\\(\\frac{16}{\\sqrt{3}}\\) V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "7ead1fe6-f2f9-455c-99c0-39297b55cb94",
+        "index": 2,
+        "body": "\\(\\frac{4}{\\sqrt{3}}\\) V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 389
+        },
+        "resources": []
+      },
+      {
+        "id": "f3652edb-8985-4339-9c00-22485e21d123",
+        "index": 3,
+        "body": "0 V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "940d5703-25a8-488e-9d0b-be35d1ad167e",
+        "index": 4,
+        "body": "\\(\\frac{2\\sqrt{2}}{\\sqrt{3}}\\) V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "8d29c94d-dac6-4daf-9a4e-6443aa52607c",
+        "index": 5,
+        "body": "\\(\\frac{8}{\\sqrt{3}}\\) V",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "99e26766-f448-4c1d-bf03-ae1973bb24c9",
+        "index": 6,
+        "body": "None of the above",
+        "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "4405d079-e632-465f-8dbc-06059a1f55cf",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "161503835",
+    "timeSpentVideo": "41155903",
+    "submissions": 956,
+    "submissionsCorrect": 386,
+    "accuracy": 0.40376569037656906,
+    "difficulty": 0.8371212121212122
+  },
+  "resources": [
+    {
+      "id": "b8805274-34a6-433e-b5e4-2e5156b6793a",
+      "type": "IMAGE",
+      "data": {
+        "key": "U4Culrkxf2AuIoAZEhUX_",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/U4Culrkxf2AuIoAZEhUX_",
+        "altText": "A waveform graph"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "4405d079-e632-465f-8dbc-06059a1f55cf",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2949930495",
+      "timeSpentVideo": "869333877",
+      "submissions": 14560,
+      "submissionsCorrect": 7658,
+      "questions": 21,
+      "accuracy": 0.5259615384615385,
+      "difficulty": 0.7242155525238745
+    }
+  },
+  "explanation": {
+    "id": "46bec616-06ba-4b46-9a93-c92b1b2051d5",
+    "body": "Because this is a saw tooth function, in addition to the method explained in the video, it is also possible to find the answer by dividing the peak voltage, 4 V, by \\(\\sqrt{3}\\).\n\nFor reference, here is a table displaying average and RMS voltage values for several waveform types.\n\n\\(\\begin{matrix}\n\\text{Function Type} & V_{Average} & V_{RMS} \\\\\n\\\\\n\\text{Square} & V_{peak} & V_{peak} \\\\\n\\text{Sine} & \\frac{2V_{peak}}{\\pi} & \\frac{V_{peak}}{\\sqrt2} \\\\\n\\text{Triangle or Saw Tooth} & \\frac{V_{peak}}{2} & \\frac{V_{peak}}{\\sqrt3}\n\\end{matrix}\\)",
+    "questionId": "7cc93761-b2c0-4385-bedd-2de6445c85e2",
+    "resources": [
+      {
+        "id": "6db761e1-edcf-4d4a-838b-1ee09a3966bf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_ogLTc8yFtQ?si=txEf5_DhGmnpg1US&t=698"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "46bec616-06ba-4b46-9a93-c92b1b2051d5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3529ecce-d891-45fe-a00d-0054d9cf3bca",
+      "name": "RMS Voltage & Current",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "554074441",
+        "timeSpentVideo": "70890227",
+        "submissions": 1660,
+        "submissionsCorrect": 760,
+        "questions": 2,
+        "accuracy": 0.4578313253012048,
+        "difficulty": 0.7897727272727273
+      }
+    }
+  ],
+  "children": []
+}

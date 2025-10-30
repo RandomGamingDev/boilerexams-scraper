@@ -1,0 +1,281 @@
+{
+  "id": "8eeec429-b7d4-4bce-931c-9aa52f6e7a13",
+  "type": "PARENT",
+  "data": {
+    "body": "Let $\\sum$={a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,_} where _ is the space character, and T=\"she sells sea shells\".\nAnswer the below questions:",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "250241326",
+    "timeSpentVideo": "53207296",
+    "submissions": 501,
+    "submissionsCorrect": 501,
+    "accuracy": 1,
+    "difficulty": 0.33319467554076543
+  },
+  "resources": [],
+  "exam": {
+    "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1370169375",
+      "timeSpentVideo": "255011060",
+      "submissions": 3968,
+      "submissionsCorrect": 2614,
+      "questions": 11,
+      "accuracy": 0.6587701612903226,
+      "difficulty": 0.5951327433628318
+    }
+  },
+  "explanation": {
+    "id": "687cff99-a361-4951-80bd-735ec702e05f",
+    "body": null,
+    "questionId": "8eeec429-b7d4-4bce-931c-9aa52f6e7a13",
+    "resources": [
+      {
+        "id": "49f7e9d6-4534-4e96-a785-75ea0ae9e771",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/5uU8q5Ec3yU?t=3339"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "687cff99-a361-4951-80bd-735ec702e05f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "65a081b7-89d4-4630-ade2-96c33da7604a",
+      "name": "Huffman Coding",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "638704600",
+        "timeSpentVideo": "53207296",
+        "submissions": 501,
+        "submissionsCorrect": 501,
+        "questions": 1,
+        "accuracy": 1,
+        "difficulty": 0.33319467554076543
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "c4cc7fe3-d92b-4b12-9529-22375e307c79",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Build a Huffman Coding tree for T (Don't forget the space character!). Show the frequency table, the coding tree, and the table with the codewords for the characters in T.\nNote that if there is a tie in the min-heap, follow the below directions:\n1. If at least one of the nodes in the min-heap has a character, return the tied node with the first character according to $\\sum$\n2. Else, return the tied senior node (i.e. the tied node that has been in the heap the longest)",
+        "solution": "",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "8eeec429-b7d4-4bce-931c-9aa52f6e7a13",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+        "number": 0,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1370169375",
+          "timeSpentVideo": "255011060",
+          "submissions": 3968,
+          "submissionsCorrect": 2614,
+          "questions": 11,
+          "accuracy": 0.6587701612903226,
+          "difficulty": 0.5951327433628318
+        }
+      },
+      "explanation": {
+        "id": "b7e7b8b3-41d4-4b46-a4a8-0892ffd5d3b0",
+        "body": null,
+        "questionId": "c4cc7fe3-d92b-4b12-9529-22375e307c79",
+        "resources": [
+          {
+            "id": "e8159506-f5b9-4bd1-a7cd-e730fb9788a9",
+            "type": "IMAGE",
+            "data": {
+              "key": "vZk22uFkxIpVbXt84tnUc",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/vZk22uFkxIpVbXt84tnUc"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": "b7e7b8b3-41d4-4b46-a4a8-0892ffd5d3b0",
+            "applicationId": null,
+            "answerChoiceId": null,
+            "customExamId": null
+          }
+        ]
+      },
+      "topics": []
+    },
+    {
+      "id": "55444626-2a7d-415c-a904-b5bfaa5e2e7d",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Encode the words:\n1) \"seal\"\n2) \"heal\"\n3) \"sell\"",
+        "solution": "1) 1000111001\n2) 111100111001\n3) 10000101",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "8eeec429-b7d4-4bce-931c-9aa52f6e7a13",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+        "number": 0,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1370169375",
+          "timeSpentVideo": "255011060",
+          "submissions": 3968,
+          "submissionsCorrect": 2614,
+          "questions": 11,
+          "accuracy": 0.6587701612903226,
+          "difficulty": 0.5951327433628318
+        }
+      },
+      "explanation": {
+        "id": "bb1db154-aa68-4cf4-a213-081f72c20507",
+        "body": null,
+        "questionId": "55444626-2a7d-415c-a904-b5bfaa5e2e7d",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "b4e98125-5283-44e1-af86-f4967d858c34",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Decode the codewords:\n1) 101111000101\n2) 1011100100\n3) 1000001100011100110",
+        "solution": "1) shell\n2) sale\n3) see eals",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "8eeec429-b7d4-4bce-931c-9aa52f6e7a13",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "9fb2b1d3-1dad-4417-adee-8d2f419e42e2",
+        "number": 0,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1370169375",
+          "timeSpentVideo": "255011060",
+          "submissions": 3968,
+          "submissionsCorrect": 2614,
+          "questions": 11,
+          "accuracy": 0.6587701612903226,
+          "difficulty": 0.5951327433628318
+        }
+      },
+      "explanation": {
+        "id": "7e67a46d-01dc-4746-ac18-58cf7f016437",
+        "body": null,
+        "questionId": "b4e98125-5283-44e1-af86-f4967d858c34",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

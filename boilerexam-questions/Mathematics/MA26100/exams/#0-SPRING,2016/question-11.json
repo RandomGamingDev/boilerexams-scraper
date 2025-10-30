@@ -1,0 +1,127 @@
+{
+  "id": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the formulas for $a$ and $b$ that convert the triple integral from rectangular coordinates to spherical coordinates:\n\n\n\n\\[\n\\int_{-2}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{0}^{\\sqrt{x^{2}+y^{2}}} x d z d y d x=\\int_{0}^{\\pi} \\int_{a}^{\\frac{\\pi}{2}} \\int_{0}^{2 \\csc \\phi} b d \\rho d \\phi d \\theta\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ede42e09-4ba4-416d-bd36-f43bef0217dc",
+        "index": 0,
+        "body": "$a=\\frac{\\pi}{4}, b=\\rho^{3} \\sin ^{2} \\phi \\cos \\theta$",
+        "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+        "stats": {
+          "count": 647
+        },
+        "resources": []
+      },
+      {
+        "id": "bd9563a6-b919-4d16-8cfa-61cb931af90b",
+        "index": 1,
+        "body": "$a=0, b=\\rho^{3} \\sin ^{2} \\phi \\cos \\theta$",
+        "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+        "stats": {
+          "count": 407
+        },
+        "resources": []
+      },
+      {
+        "id": "304abe0a-d03e-44f7-a649-fb25f2b127ee",
+        "index": 2,
+        "body": "$a=0, b=\\rho \\sin \\phi \\cos \\theta$",
+        "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "7adbc02e-2bc0-44de-a222-5ba52ad6d9fb",
+        "index": 3,
+        "body": "$a=\\frac{\\pi}{4}, b=\\rho^{3} \\sin \\phi$",
+        "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "b7893a56-89a9-475c-a254-b4ac1efeb1b4",
+        "index": 4,
+        "body": "$a=0, b=\\rho^{2} \\sin \\phi \\cos \\theta$",
+        "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "0140983c-eaf7-4b78-83ca-dfcf7be0d694",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "265964847",
+    "timeSpentVideo": "55126711",
+    "submissions": 1358,
+    "submissionsCorrect": 647,
+    "accuracy": 0.47643593519882177,
+    "difficulty": 0.7719478737997256
+  },
+  "resources": [],
+  "exam": {
+    "id": "0140983c-eaf7-4b78-83ca-dfcf7be0d694",
+    "number": 0,
+    "year": 2016,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5553219199",
+      "timeSpentVideo": "941302332",
+      "submissions": 25234,
+      "submissionsCorrect": 14295,
+      "questions": 20,
+      "accuracy": 0.5664975826266149,
+      "difficulty": 0.6837649009236599
+    }
+  },
+  "explanation": {
+    "id": "566b27f5-f247-4844-9b11-33b08f84f7ed",
+    "body": "",
+    "questionId": "b75a07b4-6d75-4e64-99e3-ca3de4e76eaf",
+    "resources": [
+      {
+        "id": "f96f3f3d-31f3-4573-8436-7bca2b2f356a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tcZzzTLfb7Q?si=_zuuJYhKeiEVv9zG&t=1620\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "566b27f5-f247-4844-9b11-33b08f84f7ed",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

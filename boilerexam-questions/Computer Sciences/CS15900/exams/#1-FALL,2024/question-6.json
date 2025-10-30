@@ -1,0 +1,309 @@
+{
+  "id": "aa99c2f7-a5b4-4b02-82b8-45159d3e16c2",
+  "type": "PARENT",
+  "data": {
+    "body": "",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "65975773-d891-4987-ad37-0525d9a54288",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "198145731",
+    "timeSpentVideo": "0",
+    "submissions": 470,
+    "submissionsCorrect": 306,
+    "accuracy": 0.6510638297872341,
+    "difficulty": 0.625438596491228
+  },
+  "resources": [
+    {
+      "id": "4d424705-ecd8-4c71-a4ba-f962e181101b",
+      "type": "CODE",
+      "data": {
+        "content": "#include<stdio.h>\n\nint main(void)\n{\n  int n;\n  char rate;\n\n  printf(\"Enter desired value -> \");\n  scanf(\"%d\", &n);\n\n  n /= 3;\n  n %= 2;\n\n  rate = n * 'A';\n  rate += (1 - n) * 'B';\n  rate += 'C' * (1 - rate / 'A');\n\n  printf(\"rate: %c\\n\", rate);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "aa99c2f7-a5b4-4b02-82b8-45159d3e16c2",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "65975773-d891-4987-ad37-0525d9a54288",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2179307861",
+      "timeSpentVideo": "0",
+      "submissions": 24300,
+      "submissionsCorrect": 16378,
+      "questions": 44,
+      "accuracy": 0.6739917695473251,
+      "difficulty": 0.5767213114754098
+    }
+  },
+  "explanation": {
+    "id": "38283d03-b5b2-4665-9f6e-6c8b170b16a7",
+    "body": "To try the code yourself, enter your input under the <code>Input</code> tab of the editor before selecting <code>Run Code</code>.",
+    "questionId": "aa99c2f7-a5b4-4b02-82b8-45159d3e16c2",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "5071b6a6-883c-4f6c-b2d8-e30f29d650f3",
+      "name": "Selection by Calculation",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1171562211",
+        "timeSpentVideo": "0",
+        "submissions": 1495,
+        "submissionsCorrect": 795,
+        "questions": 3,
+        "accuracy": 0.5317725752508361,
+        "difficulty": 0.7202194357366771
+      }
+    },
+    {
+      "id": "c13f3050-2316-4c7a-91da-bb42acc405c4",
+      "name": "Chars",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11346704115",
+        "timeSpentVideo": "121828202",
+        "submissions": 31494,
+        "submissionsCorrect": 22656,
+        "questions": 13,
+        "accuracy": 0.719375119070299,
+        "difficulty": 0.5313192378299677
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following values given as input would generate <code>rate: A</code> as output?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "565cebd1-1078-4ca1-9861-b0f12634906d",
+            "index": 0,
+            "body": "<code>42</code>",
+            "questionId": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          },
+          {
+            "id": "4d779edd-25b0-4973-a7fc-e337162d452d",
+            "index": 1,
+            "body": "<code>45</code>",
+            "questionId": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+            "stats": {
+              "count": 361
+            },
+            "resources": []
+          },
+          {
+            "id": "061d8633-4968-41da-a977-d289d77ae5dc",
+            "index": 2,
+            "body": "<code>48</code>",
+            "questionId": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+            "stats": {
+              "count": 13
+            },
+            "resources": []
+          },
+          {
+            "id": "32d8e5f3-f569-4059-b4c0-2f8dfddeed76",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+            "stats": {
+              "count": 45
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "65975773-d891-4987-ad37-0525d9a54288",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "aa99c2f7-a5b4-4b02-82b8-45159d3e16c2",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "480457",
+        "timeSpentVideo": "0",
+        "submissions": 443,
+        "submissionsCorrect": 361,
+        "accuracy": 0.8148984198645598,
+        "difficulty": 0.49309392265193375
+      },
+      "resources": [],
+      "exam": {
+        "id": "65975773-d891-4987-ad37-0525d9a54288",
+        "number": 1,
+        "year": 2024,
+        "season": "FALL",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "2179307861",
+          "timeSpentVideo": "0",
+          "submissions": 24300,
+          "submissionsCorrect": 16378,
+          "questions": 44,
+          "accuracy": 0.6739917695473251,
+          "difficulty": 0.5767213114754098
+        }
+      },
+      "explanation": {
+        "id": "9239f747-13be-4f3a-b159-3271b8f12afd",
+        "body": null,
+        "questionId": "7532e7bb-63b3-44cd-b9f1-426bb18ae310",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following values given as input would generate <code>rate: C</code> as output?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "42ddd533-1512-4a8a-b3f1-26bcf4a4a625",
+            "index": 0,
+            "body": "<code>60</code>",
+            "questionId": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+            "stats": {
+              "count": 37
+            },
+            "resources": []
+          },
+          {
+            "id": "fed9dd67-1348-488a-93fa-b09165009115",
+            "index": 1,
+            "body": "<code>63</code>",
+            "questionId": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+            "stats": {
+              "count": 52
+            },
+            "resources": []
+          },
+          {
+            "id": "7c275bfa-ec6b-4cd4-986b-17d9143a5e9d",
+            "index": 2,
+            "body": "<code>66</code>",
+            "questionId": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+            "stats": {
+              "count": 34
+            },
+            "resources": []
+          },
+          {
+            "id": "e8528b43-508f-4f57-8374-233b14672c9d",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+            "stats": {
+              "count": 278
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "65975773-d891-4987-ad37-0525d9a54288",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "aa99c2f7-a5b4-4b02-82b8-45159d3e16c2",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 409,
+        "submissionsCorrect": 278,
+        "accuracy": 0.6797066014669927,
+        "difficulty": 0.6055992141453831
+      },
+      "resources": [],
+      "exam": {
+        "id": "65975773-d891-4987-ad37-0525d9a54288",
+        "number": 1,
+        "year": 2024,
+        "season": "FALL",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "2179307861",
+          "timeSpentVideo": "0",
+          "submissions": 24300,
+          "submissionsCorrect": 16378,
+          "questions": 44,
+          "accuracy": 0.6739917695473251,
+          "difficulty": 0.5767213114754098
+        }
+      },
+      "explanation": {
+        "id": "c19b59ed-ac03-4bc4-9d9e-22686ccf5904",
+        "body": null,
+        "questionId": "a8e26bf5-98e2-432e-a9d3-71f085ca8b00",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

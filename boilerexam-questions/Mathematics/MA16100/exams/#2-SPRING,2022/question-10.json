@@ -1,0 +1,143 @@
+{
+  "id": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $y=\\cos ^{3}(1-2 x)$, then $\\frac{d y}{d x}=$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "1573b39c-e45e-4f2f-8dbb-64a7f1620bcd",
+        "index": 0,
+        "body": "$-3 \\cos ^{2}(1-2 x) \\sin (1-2 x)$",
+        "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "4db3adaa-8f59-49e0-bcc6-7ccf4a2565cb",
+        "index": 1,
+        "body": "$2 \\sin ^{3}(1-2 x)$",
+        "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "04866c55-5cc1-44a8-8e0b-e04a9305c999",
+        "index": 2,
+        "body": "$6 \\cos ^{2}(1-2 x)$",
+        "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "55e60eaa-d574-46f3-b1c1-20414fd827a1",
+        "index": 3,
+        "body": "$6 \\sin (1-2 x) \\cos ^{2}(1-2 x)$",
+        "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+        "stats": {
+          "count": 906
+        },
+        "resources": []
+      },
+      {
+        "id": "5286af73-0e38-4ad8-9723-fd160130e565",
+        "index": 4,
+        "body": "$6 \\sin ^{2}(1-2 x)$ 1",
+        "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "170210747",
+    "timeSpentVideo": "23285162",
+    "submissions": 1284,
+    "submissionsCorrect": 906,
+    "accuracy": 0.705607476635514,
+    "difficulty": 0.5592485549132948
+  },
+  "resources": [],
+  "exam": {
+    "id": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2204708271",
+      "timeSpentVideo": "411980951",
+      "submissions": 14776,
+      "submissionsCorrect": 9273,
+      "questions": 12,
+      "accuracy": 0.627571737953438,
+      "difficulty": 0.6232858295240656
+    }
+  },
+  "explanation": {
+    "id": "81cf86b5-d517-4b8e-b31c-51a4a9469909",
+    "body": "",
+    "questionId": "a65c4f13-7629-416b-97ec-41dc2dd1f786",
+    "resources": [
+      {
+        "id": "6de51eac-41b0-4977-9d70-1158062d04ce",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/N-YKg4yIEhU?t=1947"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "81cf86b5-d517-4b8e-b31c-51a4a9469909",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b1d051a2-03fc-4c82-bb72-7130dba4c197",
+      "name": "Derivatives of Trig Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6136025937",
+        "timeSpentVideo": "295249733",
+        "submissions": 15252,
+        "submissionsCorrect": 9815,
+        "questions": 11,
+        "accuracy": 0.6435221610280619,
+        "difficulty": 0.6074127149557061
+      }
+    }
+  ],
+  "children": []
+}

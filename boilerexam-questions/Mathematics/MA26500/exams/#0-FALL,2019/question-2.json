@@ -1,0 +1,158 @@
+{
+  "id": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be an $m \\times n$ matrix and $\\mathbf{b}$ be a non-zero vector in $\\mathbb{R}^{m}$. Which of the following statements must be TRUE?\n\n(i) If $A \\mathbf{x}=\\mathbf{0}$ has only the trivial solution, then $A \\mathbf{x}=\\mathbf{b}$ has no solution.\n\n(ii) If $A \\mathbf{x}=\\mathbf{b}$ has exactly one solution, then $A$ is an $m \\times n$ matrix with $m \\geq n$.\n\n(iii) If $A \\mathbf{x}=\\mathbf{0}$ has infinitely many solutions, then $A \\mathbf{x}=\\mathbf{b}$ has infinitely many solutions.\n\n(iv) If $A$ is an $n \\times n$ square matrix, then $A \\mathbf{x}=\\mathbf{0}$ has exactly one solution.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "26542869-ca8c-4959-b011-4191f7ba31a3",
+        "index": 0,
+        "body": "(ii) only",
+        "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+        "stats": {
+          "count": 1156
+        },
+        "resources": []
+      },
+      {
+        "id": "6038a261-e677-4e74-a55b-5a6297cd406d",
+        "index": 1,
+        "body": "(iii) only",
+        "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+        "stats": {
+          "count": 504
+        },
+        "resources": []
+      },
+      {
+        "id": "5f4b6d76-8f6f-44f5-bc87-16be9d1b4ebc",
+        "index": 2,
+        "body": "(i) and (ii) only",
+        "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+        "stats": {
+          "count": 240
+        },
+        "resources": []
+      },
+      {
+        "id": "e2edd618-2a20-4daa-9159-ef05e9bb913a",
+        "index": 3,
+        "body": "(iii) and (iv) only",
+        "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+        "stats": {
+          "count": 217
+        },
+        "resources": []
+      },
+      {
+        "id": "a0f47e99-05c8-417d-a800-d384c07383b4",
+        "index": 4,
+        "body": "(ii), (iii), and (iv) only",
+        "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+        "stats": {
+          "count": 262
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "422268285",
+    "timeSpentVideo": "155738253",
+    "submissions": 2554,
+    "submissionsCorrect": 1156,
+    "accuracy": 0.45262333594361787,
+    "difficulty": 0.7955915599095704
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "f327180f-0caf-4cee-b2b5-58de13ef34e9",
+    "body": "",
+    "questionId": "4d53b02b-1343-4a6c-8790-39cd3402170a",
+    "resources": [
+      {
+        "id": "86b87fc1-3d6a-4476-b9d4-19a2e5c99986",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=200"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f327180f-0caf-4cee-b2b5-58de13ef34e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,190 @@
+{
+  "id": "aae28e90-544b-4a25-ba7e-99b238545982",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of the inductor current for the RLC circuit below. (assume: $i_{L}(0)=$ $0 \\mathrm{~A}$ and $v_{c}(0)=0 \\mathrm{~V}$)\n",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "b49eacef-01c6-47cd-ac48-f3b241a921b8",
+        "index": 0,
+        "body": "$\\frac{1}{\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "4f45bfcf-26e3-4a74-9ea1-c8bd55d89f79",
+        "index": 1,
+        "body": "$\\frac{1}{(s+4)\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "a43dfdb2-fc4e-4f40-b8f2-1c2f5c270294",
+        "index": 2,
+        "body": "$\\frac{4 s}{\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "2a79ae49-9121-486a-926e-51fa65f28567",
+        "index": 3,
+        "body": "$\\frac{4 s}{(s+4)\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "07c27c27-6cd4-43ac-be57-fd06471f36d8",
+        "index": 4,
+        "body": "$\\frac{s / 4}{\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "3a521c00-c83b-4274-a4b4-bd235f184bac",
+        "index": 5,
+        "body": "$\\frac{s / 4}{{(s+4)}\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 217
+        },
+        "resources": []
+      },
+      {
+        "id": "83598eb3-d962-4a36-8c70-6aeebcff446a",
+        "index": 6,
+        "body": "$\\frac{s}{\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "76eefb44-a4a0-4972-9291-5e9e7f8c2da5",
+        "index": 7,
+        "body": "$\\frac{s}{(s+4)\\left(s^{2}+\\frac{s}{4}+\\frac{1}{2}\\right)}$",
+        "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "157750756",
+    "timeSpentVideo": "28671476",
+    "submissions": 536,
+    "submissionsCorrect": 213,
+    "accuracy": 0.39738805970149255,
+    "difficulty": 0.8364779874213837
+  },
+  "resources": [
+    {
+      "id": "bab98571-1442-460b-86b6-77407513a94f",
+      "type": "IMAGE",
+      "data": {
+        "key": "daPXOSt34Amf3JFBlhZCt",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/daPXOSt34Amf3JFBlhZCt",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+    "number": 2,
+    "year": 2021,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1417307157",
+      "timeSpentVideo": "475901887",
+      "submissions": 5774,
+      "submissionsCorrect": 2680,
+      "questions": 9,
+      "accuracy": 0.46414963630065814,
+      "difficulty": 0.7852400408580185
+    }
+  },
+  "explanation": {
+    "id": "f7d2cf34-51a3-4214-91fe-5f9c01445c09",
+    "body": "",
+    "questionId": "aae28e90-544b-4a25-ba7e-99b238545982",
+    "resources": [
+      {
+        "id": "2237631b-7105-45e7-818b-1158bd33a714",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=N6_BlT5YIsY&t=3824s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f7d2cf34-51a3-4214-91fe-5f9c01445c09",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f1e0e2bc-43d6-4807-a1a2-13ddbd2e82b4",
+      "name": "Zero State Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1038953163",
+        "timeSpentVideo": "86528643",
+        "submissions": 1238,
+        "submissionsCorrect": 597,
+        "questions": 2,
+        "accuracy": 0.48222940226171246,
+        "difficulty": 0.7664424514200299
+      }
+    }
+  ],
+  "children": []
+}

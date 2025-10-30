@@ -1,0 +1,90 @@
+{
+  "id": "89b4e75c-2650-4496-9b4b-5785928f0876",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Write a sufficient number of equations to solve for the nodal voltages $V_1$ and $V_2$. You DO NOT need to solve for the voltages.\nSimplify each equation to the form: $AV_1 + BV_2 = C$. \nThe resistors $R_1, R_2, R_3$, and the current $I_s$ are treated as constants. ",
+    "solution": "$(2+\\frac{1}{R_1})V_1 + \\frac{V_2}{R_3} = I_s$\n$V_1-(1+\\frac{1}{2R_3})V_2=0$",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "539ea3fa-f121-4a83-b81c-d56dca66d322",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86273458",
+    "timeSpentVideo": "25550465",
+    "submissions": 254,
+    "submissionsCorrect": 49,
+    "accuracy": 0.19291338582677164,
+    "difficulty": 0.9703389830508475
+  },
+  "resources": [
+    {
+      "id": "f032c9b4-fce4-4d55-a654-0d71fe08fa99",
+      "type": "IMAGE",
+      "data": {
+        "key": "ITSYFybMIM0OVs0ps7CQW",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/ITSYFybMIM0OVs0ps7CQW"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "89b4e75c-2650-4496-9b4b-5785928f0876",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "539ea3fa-f121-4a83-b81c-d56dca66d322",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1116046718",
+      "timeSpentVideo": "207884731",
+      "submissions": 4919,
+      "submissionsCorrect": 2774,
+      "questions": 10,
+      "accuracy": 0.5639357593006709,
+      "difficulty": 0.687338115162383
+    }
+  },
+  "explanation": {
+    "id": "5d0b725f-767e-4027-a19c-97e1bb74e64a",
+    "body": null,
+    "questionId": "89b4e75c-2650-4496-9b4b-5785928f0876",
+    "resources": [
+      {
+        "id": "1c494999-ff2d-429a-8d1d-86201695ded1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/WVtto6BB6B4?si=ynkwiYOwTBhuhz5j&t=2534"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5d0b725f-767e-4027-a19c-97e1bb74e64a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

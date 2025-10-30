@@ -1,0 +1,143 @@
+{
+  "id": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x, y)=x^2 e^{x+y}$. Find a unit vector in the direction of most rapid decrease for $f$ when $(x, y)=(1,1)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5d7ff4c1-5ae3-40bc-9ea8-6e0d582d7531",
+        "index": 0,
+        "body": "$\\frac{\\langle-3,-1\\rangle}{\\sqrt{10}}$",
+        "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+        "stats": {
+          "count": 3670
+        },
+        "resources": []
+      },
+      {
+        "id": "4a48b0af-fd29-4b34-940e-bbc85c1eded3",
+        "index": 1,
+        "body": "$\\frac{\\langle 3,1\\rangle}{\\sqrt{10}}$",
+        "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+        "stats": {
+          "count": 739
+        },
+        "resources": []
+      },
+      {
+        "id": "6cc3b666-1a5e-4bcb-b718-9e2223fe8733",
+        "index": 2,
+        "body": "$\\frac{\\left\\langle-3 e^{2},-e^{2}\\right\\rangle}{\\sqrt{10}}$",
+        "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+        "stats": {
+          "count": 535
+        },
+        "resources": []
+      },
+      {
+        "id": "5da17159-88af-4c6d-afe2-712c3df33c6f",
+        "index": 3,
+        "body": "$\\left\\langle 3 e^{2}, e^{2}\\right\\rangle$",
+        "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+        "stats": {
+          "count": 170
+        },
+        "resources": []
+      },
+      {
+        "id": "619eae03-81b9-4256-9aa1-3ada5da11082",
+        "index": 4,
+        "body": "$\\left\\langle-3 e^{2},-e^{2}\\right\\rangle$",
+        "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+        "stats": {
+          "count": 1251
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1089448513",
+    "timeSpentVideo": "133454476",
+    "submissions": 7353,
+    "submissionsCorrect": 3670,
+    "accuracy": 0.4991160070719434,
+    "difficulty": 0.7508721320273715
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "da7f348b-fff3-4e29-bd3f-5bfb83d88961",
+    "body": "",
+    "questionId": "8d2ccf4b-e1c3-4313-87cd-cc7b75f927fb",
+    "resources": [
+      {
+        "id": "f15b8489-c352-4121-bf86-eb80c3c592d3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=ypOMmOLV96SEUDck&t=3662"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "da7f348b-fff3-4e29-bd3f-5bfb83d88961",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2e05110b-efbd-4404-a0d9-6f7783fe2c17",
+      "name": "Gradient Vector",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19089777605",
+        "timeSpentVideo": "988937795",
+        "submissions": 43347,
+        "submissionsCorrect": 25870,
+        "questions": 7,
+        "accuracy": 0.5968117747479641,
+        "difficulty": 0.6534110525467811
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "f6a74741-c0b2-4cdf-a195-627ae60f78e5",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Solve the IVP:\n\\[\nx' = \\begin{bmatrix} -1 & 3 \\\\ 3 & -1 \\end{bmatrix} x, \\quad\nx(0) = \\begin{bmatrix} 1 \\\\ 5 \\end{bmatrix}.\n\\]\n",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "564946",
+    "timeSpentVideo": "23650",
+    "submissions": 6,
+    "submissionsCorrect": 3,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "860ba1a9-83ac-40d6-888f-c817fd6e9f13",
+    "body": null,
+    "questionId": "f6a74741-c0b2-4cdf-a195-627ae60f78e5",
+    "resources": [
+      {
+        "id": "be51ee5e-9504-4dc1-9db7-4e8d004377a3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=DXIBZelnyUxwbRI8&t=2045"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "860ba1a9-83ac-40d6-888f-c817fd6e9f13",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2557e51f-af93-4f8c-be81-67f44325c38c",
+      "name": "Multiple Eigenvalues",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1054158201",
+        "timeSpentVideo": "100466296",
+        "submissions": 1713,
+        "submissionsCorrect": 791,
+        "questions": 3,
+        "accuracy": 0.46176298890834794,
+        "difficulty": 0.7861279646993933
+      }
+    }
+  ],
+  "children": []
+}

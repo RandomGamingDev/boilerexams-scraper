@@ -1,0 +1,188 @@
+{
+  "id": "ae73c2be-4982-4762-ba65-d7891310bd71",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is/are always TRUE?\n\n\n(i) If $A$ is a singular $8 \\times 8$ matrix, then its last column must be a linear combination of the first seven columns.\n\n(ii) Let $A$ be a $5 \\times 7$ matrix such that $A \\cdot \\mathbf{x}=\\mathbf{b}$ is consistent for any $\\mathrm{b} \\in \\mathbb{R}^{5}$, and let $B$ be a $7 \\times 11$ matrix such that $B \\cdot \\mathbf{x}=\\mathbf{c}$ is consistent for any $\\mathrm{c} \\in \\mathbb{R}^{7}$. Then, the matrix equation $A B \\cdot \\mathbf{x}=\\mathbf{b}$ is consistent for any $\\mathbf{b} \\in \\mathbb{R}^{5}$.\n\n(iii) For any $m \\times n$ matrix $A$, the dimension of the null space of $A$ equals the dimension of the null space of its transpose $A^{T}$.\n\n(iv) If $A$ is an $m \\times n$ matrix, then the set $\\left\\{A \\cdot \\mathrm{x} \\mid \\mathrm{x} \\in \\mathbb{R}^{n}\\right\\}$ is a subspace of $\\mathbb{R}^{m}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ad3c3457-6674-471d-97fb-81a542277fce",
+        "index": 0,
+        "body": "(i) only",
+        "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "1702ec53-007f-41b8-b8c7-3ba7af779f77",
+        "index": 1,
+        "body": "(i) and (ii) only",
+        "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+        "stats": {
+          "count": 329
+        },
+        "resources": []
+      },
+      {
+        "id": "225ddab5-7ff5-463d-b2c7-ba6eedad5b59",
+        "index": 2,
+        "body": "(iv) only",
+        "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+        "stats": {
+          "count": 285
+        },
+        "resources": []
+      },
+      {
+        "id": "0cb95542-a3c9-4396-9857-96376e9fa1b6",
+        "index": 3,
+        "body": "(ii) and (iv) only",
+        "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+        "stats": {
+          "count": 3150
+        },
+        "resources": []
+      },
+      {
+        "id": "4a6fbea4-5066-4d5b-aebd-9c1f7d6fae1e",
+        "index": 4,
+        "body": "(iii) and (iv) only",
+        "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+        "stats": {
+          "count": 801
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1029633661",
+    "timeSpentVideo": "361766702",
+    "submissions": 5081,
+    "submissionsCorrect": 3150,
+    "accuracy": 0.6199567014367251,
+    "difficulty": 0.6323586180274078
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "184d6d77-475a-42fc-8172-9bd43e2a890a",
+    "body": "Note: For part iii, a counterexample is A = $ \\begin{bmatrix}\n1 & 0  \\\\\n0 & 0 \\\\\n0 & 0 \\\\ \n\\end{bmatrix}  $. $A^T$ is then $ \\begin{bmatrix}\n1 & 0 & 0 \\\\\n0 & 0 & 0 \n\\end{bmatrix}  $\n\nBy rank nullity theorem, the nullity of A is 2 (# of columns) - 1 (rank) = 1.  The nullity of $A^T$ is 3 - 1 = 2. Clearly the dimension of the nullspace for these two matrices is not the same. Thus, iii is not correct.",
+    "questionId": "ae73c2be-4982-4762-ba65-d7891310bd71",
+    "resources": [
+      {
+        "id": "75108cca-d30c-4031-b247-204b9dd95f12",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/d1_WSP0AS6c?t=517\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "184d6d77-475a-42fc-8172-9bd43e2a890a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,173 @@
+{
+  "id": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Let $A$ be an $m \\times n$ matrix. Let $R$ be the reduced row echelon form of $A$. Which of the following statements must be TRUE?\n\n\n\n(i) $\\operatorname{Nul}(A)=\\operatorname{Nul}(R)$.\n\n(ii) $\\operatorname{Col}(A)=\\operatorname{Col}(R)$.\n\n(iii) $\\operatorname{Rank}(A)=\\operatorname{Rank}(R)$.\n\n(iv) If $A$ has a pivot position in every column, then $A \\mathbf{x}=\\mathbf{b}$ is consistent for any $\\mathbf{b}$ in $\\mathbb{R}^{m}$.\n\n(v) If $A$ is a square matrix and $\\operatorname{det}(R)=0$, then $\\operatorname{det}(A)=0$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "edbf7ddf-01b2-4e25-b0bb-c0c468ae029a",
+        "index": 0,
+        "body": "(i), (iii), (v)",
+        "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+        "stats": {
+          "count": 1312
+        },
+        "resources": []
+      },
+      {
+        "id": "4678a5af-8edc-4ede-9004-e11f1f96f670",
+        "index": 1,
+        "body": "(i), (ii), (iv), (v)",
+        "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+        "stats": {
+          "count": 293
+        },
+        "resources": []
+      },
+      {
+        "id": "95e5c7b6-ed67-4e22-8fa4-b0ddad7838c0",
+        "index": 2,
+        "body": "(i), (iii)",
+        "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      },
+      {
+        "id": "ab5241f1-56fe-4392-9a03-dcb700059252",
+        "index": 3,
+        "body": "(ii), (iii), (v)",
+        "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+        "stats": {
+          "count": 341
+        },
+        "resources": []
+      },
+      {
+        "id": "33a4da73-8931-4530-ad2d-9ee62f37ae3d",
+        "index": 4,
+        "body": "(i), (iii), (iv), (v)",
+        "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+        "stats": {
+          "count": 607
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "564057411",
+    "timeSpentVideo": "294697856",
+    "submissions": 3052,
+    "submissionsCorrect": 1312,
+    "accuracy": 0.42988204456094364,
+    "difficulty": 0.8178934010152284
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "4a5b57a4-1af1-49da-9d46-5baae3099fc9",
+    "body": "",
+    "questionId": "43e3ce67-f943-480f-a3ee-5ab29ba91789",
+    "resources": [
+      {
+        "id": "2ed18890-8680-432a-a873-f850dc07a846",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/llMPDRaxhNU?si=bgCwFmVK9cWc8Om3&t=273"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a5b57a4-1af1-49da-9d46-5baae3099fc9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "8bf22f1e-a943-45e4-8363-59da2a633241",
+      "name": "Column Spaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12713429394",
+        "timeSpentVideo": "1551352939",
+        "submissions": 29398,
+        "submissionsCorrect": 17069,
+        "questions": 10,
+        "accuracy": 0.5806177290972175,
+        "difficulty": 0.6696555698691437
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    }
+  ],
+  "children": []
+}

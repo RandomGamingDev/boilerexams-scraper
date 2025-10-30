@@ -1,0 +1,128 @@
+{
+  "id": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the autonomous differential equation\n\n\n\n\\[\n\\frac{d x}{d t}=\\left(x^{2}-9\\right)(x+1)\n\\]\n\nWhich one of the following statements is TRUE?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "a267be7d-5525-4e08-a0ec-249b75c43ae5",
+        "index": 0,
+        "body": "$x=3$ and $x=-3$ are stable critical points.",
+        "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "793a68be-32e2-4303-9949-18ede40c1955",
+        "index": 1,
+        "body": "$x=3$ and $x=-3$ are semistable critical points.",
+        "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "b8b7cff5-20fe-47fb-bfa7-0195b62bbe31",
+        "index": 2,
+        "body": "One of $x=-1, x=3$ is a semistable critical point.",
+        "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "f089d6e0-828c-434c-93ff-7fe1f9e02cc0",
+        "index": 3,
+        "body": "$x=-1$ is an unstable critical point.",
+        "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "67b77a1c-5b4e-419b-bb56-09b90cd402e7",
+        "index": 4,
+        "body": "$x=-3$ is an unstable critical point and $x=-1$ is a stable critical point.",
+        "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+        "stats": {
+          "count": 301
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "69051466",
+    "timeSpentVideo": "0",
+    "submissions": 352,
+    "submissionsCorrect": 301,
+    "accuracy": 0.8551136363636364,
+    "difficulty": 0.4734513274336283
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "a30b1b45-9220-4ad9-8ecb-dd9905a75bc0",
+    "body": "",
+    "questionId": "ef2511a3-cb18-407e-bcc8-e34791d80604",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ea53d3af-244a-4509-b795-a21c28674dbc",
+      "name": "Stability",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "859013148",
+        "timeSpentVideo": "2434123",
+        "submissions": 2862,
+        "submissionsCorrect": 2374,
+        "questions": 4,
+        "accuracy": 0.8294898672257163,
+        "difficulty": 0.43163403106009457
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the implicit solution to the initial value problem\n\n\\[\n\\begin{aligned}\n& \\left(e^{x} \\sin y-2 y \\sin x-1\\right) d x+\\left(e^{x} \\cos y+2 \\cos x+1\\right) d y=0, \\\\\n& y(0)=\\pi ?\n\\end{aligned}\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "fe428cc2-16cc-4985-bed5-dd1dd3d44514",
+        "index": 0,
+        "body": "$e^{x} \\sin y+2 y \\cos x+x-y=\\pi$",
+        "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "912f4898-6f4e-4136-9086-172d2590553a",
+        "index": 1,
+        "body": "$e^{x} \\sin y+2 y \\cos x+x-y=0$",
+        "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "a3fd7bf3-74a9-4558-8159-51b1cb908618",
+        "index": 2,
+        "body": "$e^{x} \\sin y+2 y \\cos x+y-x=\\pi$",
+        "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "d5908665-3512-4caa-be31-d5e8587a3515",
+        "index": 3,
+        "body": "$e^{x} \\sin y+2 y \\cos x+y-x=3 \\pi$",
+        "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+        "stats": {
+          "count": 615
+        },
+        "resources": []
+      },
+      {
+        "id": "ea2e85cc-29bb-43c1-bfa9-30745f574276",
+        "index": 4,
+        "body": "$e^{x} \\sin y-2 y \\cos x+y-x=3 \\pi$",
+        "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "254319095",
+    "timeSpentVideo": "1636186",
+    "submissions": 832,
+    "submissionsCorrect": 615,
+    "accuracy": 0.7391826923076923,
+    "difficulty": 0.5364806866952789
+  },
+  "resources": [],
+  "exam": {
+    "id": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3246944450",
+      "timeSpentVideo": "49477275",
+      "submissions": 10827,
+      "submissionsCorrect": 7462,
+      "questions": 11,
+      "accuracy": 0.6892029186293526,
+      "difficulty": 0.5625285988834996
+    }
+  },
+  "explanation": {
+    "id": "b5bff0b2-1cd9-41ad-a8ce-1476de509da4",
+    "body": "",
+    "questionId": "6b0effed-e82c-4631-8a39-fd5e8856da4d",
+    "resources": [
+      {
+        "id": "4372c38a-268d-4b4e-a26e-8e070b06f404",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aYp9DzrIgVc?si=Q0MRuL-AKmGVDAhu&t=1569"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b5bff0b2-1cd9-41ad-a8ce-1476de509da4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

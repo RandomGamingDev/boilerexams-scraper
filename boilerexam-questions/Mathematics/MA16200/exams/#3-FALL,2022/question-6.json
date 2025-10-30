@@ -1,0 +1,143 @@
+{
+  "id": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The series $\\sum_{k=2}^{\\infty} \\frac{1}{k \\ln k}$ is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "67fa7d94-2d7d-41f6-8404-586807ca05fe",
+        "index": 0,
+        "body": "divergent by comparison with $\\sum_{k=2}^{\\infty} \\frac{1}{k}$",
+        "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+        "stats": {
+          "count": 321
+        },
+        "resources": []
+      },
+      {
+        "id": "16ecb61b-a15e-4eb5-9072-3450f0fb9034",
+        "index": 1,
+        "body": "convergent by comparison with $\\sum_{k=2}^{\\infty} \\frac{1}{k^{2}}$",
+        "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "e33699bd-e56a-455b-a241-762d5fc39623",
+        "index": 2,
+        "body": "divergent by integral test",
+        "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+        "stats": {
+          "count": 2195
+        },
+        "resources": []
+      },
+      {
+        "id": "0dcd6009-8563-4b80-8834-fda6bba8cbd0",
+        "index": 3,
+        "body": "convergent by integral test",
+        "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+        "stats": {
+          "count": 752
+        },
+        "resources": []
+      },
+      {
+        "id": "8308d543-e6dd-43df-9339-b9450fc5c564",
+        "index": 4,
+        "body": "a convergent $p$ series.",
+        "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "361158380",
+    "timeSpentVideo": "161272765",
+    "submissions": 3565,
+    "submissionsCorrect": 2195,
+    "accuracy": 0.6157082748948106,
+    "difficulty": 0.6374488403819918
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6065469905",
+      "timeSpentVideo": "2648907055",
+      "submissions": 43308,
+      "submissionsCorrect": 26202,
+      "questions": 12,
+      "accuracy": 0.6050152396785813,
+      "difficulty": 0.6452266863251014
+    }
+  },
+  "explanation": {
+    "id": "3c01f830-71b9-4779-a006-0a116dec4b74",
+    "body": "",
+    "questionId": "9bcbbdb1-0ebf-4c54-b01e-85d5c4220f8c",
+    "resources": [
+      {
+        "id": "13416174-73ac-4b63-b441-22a31a8ad743",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=923\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3c01f830-71b9-4779-a006-0a116dec4b74",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

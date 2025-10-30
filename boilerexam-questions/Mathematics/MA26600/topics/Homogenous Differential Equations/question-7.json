@@ -1,0 +1,158 @@
+{
+  "id": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following differential equations has \\[y(t)=C_1e^{4t}+C_2te^{4t}+C_3\\] as a general solution?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8e1a57bf-684d-44c0-a24c-10e2692d8416",
+        "index": 0,
+        "body": "$y''-8y+16y=0$",
+        "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "d41e0271-0feb-450c-b9bf-551356952dd1",
+        "index": 1,
+        "body": "$y^{(3)}-8y''+16y'+y=0$",
+        "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "09d20a6b-5e11-4dc3-a0f9-5fa2d109db24",
+        "index": 2,
+        "body": "$y^{(3)}-8y''+16y'=0$",
+        "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+        "stats": {
+          "count": 791
+        },
+        "resources": []
+      },
+      {
+        "id": "4f71acd9-613b-4ce5-b371-cc844df138a5",
+        "index": 3,
+        "body": "$y^{(3)}-8y''+24y'-16y=0$",
+        "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "e0822343-0aa8-46f8-8da4-c3f2b69351f7",
+        "index": 4,
+        "body": "$y^{(3)}-16y'=0$",
+        "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "82301abe-9979-4c8e-83ea-541af6ca5559",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "119755213",
+    "timeSpentVideo": "11265044",
+    "submissions": 979,
+    "submissionsCorrect": 791,
+    "accuracy": 0.8079673135852911,
+    "difficulty": 0.4705746061167748
+  },
+  "resources": [],
+  "exam": {
+    "id": "82301abe-9979-4c8e-83ea-541af6ca5559",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2354479366",
+      "timeSpentVideo": "420622954",
+      "submissions": 9906,
+      "submissionsCorrect": 5799,
+      "questions": 10,
+      "accuracy": 0.5854027861901878,
+      "difficulty": 0.6654507295622626
+    }
+  },
+  "explanation": {
+    "id": "a03a16d9-b6c9-4ee4-be37-8d071b42c18f",
+    "body": null,
+    "questionId": "633af8db-37d9-45b8-901e-a9aea572c7f3",
+    "resources": [
+      {
+        "id": "96a16fcb-b9b8-4300-979b-cca788507b44",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Uo3rS0KPQXM&t=2248s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a03a16d9-b6c9-4ee4-be37-8d071b42c18f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    },
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

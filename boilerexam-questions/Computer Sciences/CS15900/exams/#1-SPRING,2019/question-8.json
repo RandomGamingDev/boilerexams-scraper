@@ -1,0 +1,118 @@
+{
+  "id": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the appropriate use of passing parameters by address is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "62412bf3-755b-4c31-88c6-efe80ecc3f00",
+        "index": 0,
+        "body": "Passing parameters by address is appropriate when the function provides multiple changes that are needed back in the calling function.",
+        "questionId": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+        "stats": {
+          "count": 422
+        },
+        "resources": []
+      },
+      {
+        "id": "1f9996c6-2192-43f3-bced-e2b600d0011d",
+        "index": 1,
+        "body": "Passing parameters by address is appropriate when a non-void function needs to communicate a second value with the calling function.",
+        "questionId": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+        "stats": {
+          "count": 684
+        },
+        "resources": []
+      },
+      {
+        "id": "cf53d678-b3ff-4fd0-9414-0a0254cbbcd5",
+        "index": 2,
+        "body": "Passing parameters by address is appropriate when consolidating multiple tasks in a single function results in less code than if each task was coded as separate functions.",
+        "questionId": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+        "stats": {
+          "count": 3196
+        },
+        "resources": []
+      },
+      {
+        "id": "f0b8c2ee-0ada-4b62-99c7-260e9adac6a9",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+        "stats": {
+          "count": 628
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "535486646",
+    "timeSpentVideo": "0",
+    "submissions": 4994,
+    "submissionsCorrect": 3196,
+    "accuracy": 0.6399679615538646,
+    "difficulty": 0.6127797408716137
+  },
+  "resources": [],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "59da888e-68f2-40ef-8e69-1ae0f63895e8",
+    "body": "",
+    "questionId": "2c058e61-eb51-417b-9d88-f6f5a575caf7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

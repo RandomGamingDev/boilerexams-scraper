@@ -1,0 +1,158 @@
+{
+  "id": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem \\[y''+y'-12y=0\\]\\[y(0)=3,y'(0)=-4\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c8035f2e-f8e0-44ec-8a55-ffe9ff0939e5",
+        "index": 0,
+        "body": "$y(t)=3e^{-4t}-4e^{3t}$",
+        "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "dae446f3-cb2c-4b0d-a644-8bb8467b06c9",
+        "index": 1,
+        "body": "$y(t)=\\frac{16}{7}e^{-3t}+\\frac{5}{7}e^{4t}$",
+        "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "cd9ec597-e5a7-4c4b-8d46-f0ace700e600",
+        "index": 2,
+        "body": "$y(t)=\\frac{13}{7}e^{-4t}+\\frac{8}{7}e^{3t}$",
+        "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+        "stats": {
+          "count": 701
+        },
+        "resources": []
+      },
+      {
+        "id": "9bb64ae9-b71d-421a-89e7-47170ea28328",
+        "index": 3,
+        "body": "$y(t)=-\\frac{5}{7}e^{-4t}-\\frac{16}{7}e^{3t}$",
+        "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "186baef6-9f71-455b-9b22-32f17b6c8b92",
+        "index": 4,
+        "body": "$y(t)=\\frac{11}{7}e^{-3t}+\\frac{10}{7}e^{4t}$",
+        "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "82301abe-9979-4c8e-83ea-541af6ca5559",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "200829948",
+    "timeSpentVideo": "7482314",
+    "submissions": 869,
+    "submissionsCorrect": 701,
+    "accuracy": 0.806674338319908,
+    "difficulty": 0.47497420020639836
+  },
+  "resources": [],
+  "exam": {
+    "id": "82301abe-9979-4c8e-83ea-541af6ca5559",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2354479366",
+      "timeSpentVideo": "420622954",
+      "submissions": 9906,
+      "submissionsCorrect": 5799,
+      "questions": 10,
+      "accuracy": 0.5854027861901878,
+      "difficulty": 0.6654507295622626
+    }
+  },
+  "explanation": {
+    "id": "0b32d746-252e-48c7-b6c8-49d67a2a0446",
+    "body": null,
+    "questionId": "087ed51b-f213-4bd0-9732-c9ba8e403302",
+    "resources": [
+      {
+        "id": "a11056eb-7b20-446b-8e8a-4493a7f13ce3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Uo3rS0KPQXM&t=1301s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0b32d746-252e-48c7-b6c8-49d67a2a0446",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    },
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

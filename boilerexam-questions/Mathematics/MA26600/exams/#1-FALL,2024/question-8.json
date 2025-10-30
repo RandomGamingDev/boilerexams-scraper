@@ -1,0 +1,90 @@
+{
+  "id": "c233f098-0ff2-415c-9931-88b2b6453400",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Solve the initial value problem\n\\[\ny'' + 6y' + 9y = 0,\\quad y(0) = 1,\\; y'(0) = 1\n\\]",
+    "solution": "$y(t) = e^{-3t} + 4te^{-3t}$",
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "203691417",
+    "timeSpentVideo": "22030171",
+    "submissions": 839,
+    "submissionsCorrect": 498,
+    "accuracy": 0.5935637663885578,
+    "difficulty": 0.6664004259850905
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2771132684",
+      "timeSpentVideo": "371825714",
+      "submissions": 10438,
+      "submissionsCorrect": 6508,
+      "questions": 10,
+      "accuracy": 0.6234910902471738,
+      "difficulty": 0.6276807743404821
+    }
+  },
+  "explanation": {
+    "id": "5050ddf3-b685-41c7-99e5-9d5d8d65d42a",
+    "body": null,
+    "questionId": "c233f098-0ff2-415c-9931-88b2b6453400",
+    "resources": [
+      {
+        "id": "1c082a55-e5df-46f8-9fa7-29e5c3743d37",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/goF0nLKveuM?t=2028"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5050ddf3-b685-41c7-99e5-9d5d8d65d42a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

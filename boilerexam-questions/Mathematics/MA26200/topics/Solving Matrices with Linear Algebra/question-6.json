@@ -1,0 +1,128 @@
+{
+  "id": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all values of $k$ so that the three vectors $\\mathbf{v}_{1}=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 0\\end{array}\\right], \\mathbf{v}_{2}=\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right]$ and $\\mathbf{v}_{3}=\\left[\\begin{array}{l}0 \\\\ k \\\\ 1\\end{array}\\right]$ in $\\mathbb{R}^{3}$ are linearly independent.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b148cf44-61cb-4870-afa7-538d6b5a8059",
+        "index": 0,
+        "body": "All values of $k$ such that $k \\neq-1$",
+        "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+        "stats": {
+          "count": 911
+        },
+        "resources": []
+      },
+      {
+        "id": "d237ad9f-d967-40f1-ba88-25f847cbbf88",
+        "index": 1,
+        "body": "$k=-1$",
+        "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "5feb8779-aba2-47b7-be2d-e1f430882cbf",
+        "index": 2,
+        "body": "All values of $k$ such that $k \\neq 1$",
+        "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+        "stats": {
+          "count": 181
+        },
+        "resources": []
+      },
+      {
+        "id": "6932b350-5608-4f4c-b6e0-93eb34bad3f1",
+        "index": 3,
+        "body": "$k=1$",
+        "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "84451aad-d049-4df5-8dcc-a575ac5034df",
+        "index": 4,
+        "body": "The vectors are linearly independent for all values of $k$",
+        "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "225052883",
+    "timeSpentVideo": "0",
+    "submissions": 1350,
+    "submissionsCorrect": 911,
+    "accuracy": 0.6748148148148149,
+    "difficulty": 0.5872413793103448
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "b2f5f20d-4883-4c08-af72-31a5fd62fa76",
+    "body": "",
+    "questionId": "fb9ba4b0-2394-4b4e-b879-6618a7361548",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "8b9340f6-8688-4b4d-a60c-e1570e6b2ab3",
+      "name": "Solving Matrices with Linear Algebra",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2317658323",
+        "timeSpentVideo": "41629066",
+        "submissions": 6089,
+        "submissionsCorrect": 3668,
+        "questions": 6,
+        "accuracy": 0.6023977664641156,
+        "difficulty": 0.6492567458393925
+      }
+    }
+  ],
+  "children": []
+}

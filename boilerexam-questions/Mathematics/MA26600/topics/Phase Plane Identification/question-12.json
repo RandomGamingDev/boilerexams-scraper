@@ -1,0 +1,128 @@
+{
+  "id": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system $\\mathbf{x}^{\\prime}=\\left[\\begin{array}{ll}\\alpha & 1 \\\\ 1 & \\alpha\\end{array}\\right] \\mathbf{x}$. For what value of $\\alpha$, the origin is a saddle point?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c2fb4c1f-0a44-476b-8139-de6f09d31cb6",
+        "index": 0,
+        "body": "No value of $\\alpha$",
+        "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "1387d91d-dccd-410e-b8ad-b4cdee6c13b3",
+        "index": 1,
+        "body": "$\\alpha<-1$",
+        "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "83d2f7df-57e3-4db2-bb34-8b0109d8ba06",
+        "index": 2,
+        "body": "$-1<\\alpha<1$",
+        "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      },
+      {
+        "id": "cec8584f-ff5d-49e1-89e2-0cd1ac039603",
+        "index": 3,
+        "body": "$\\alpha>1$",
+        "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "ba24d69b-2294-4358-b4de-108951402347",
+        "index": 4,
+        "body": "Any real $\\alpha$",
+        "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "87353622",
+    "timeSpentVideo": "0",
+    "submissions": 529,
+    "submissionsCorrect": 377,
+    "accuracy": 0.7126654064272212,
+    "difficulty": 0.5711446740858506
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "cb13c9fb-1104-4580-aafc-337b6596cc8b",
+    "body": "",
+    "questionId": "7c21333c-e8e0-43b2-81d4-35a3c40df2cd",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the function $f(x)=x^{2}(x+2)^{2}(x-3)^{4}(x+9)^{6}$, find the interval(s) on which $f(x)>0$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "108428c1-7765-4b02-9f42-33c6f2284dab",
+        "index": 0,
+        "body": "$(-\\infty,-9) \\cup(-9,-2) \\cup(-2,0) \\cup(0,3) \\cup(3, \\infty)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 811
+        },
+        "resources": []
+      },
+      {
+        "id": "35d1864b-7b4e-4482-a908-4edc2c5a1f13",
+        "index": 1,
+        "body": "$(-9,-2) \\cup(3, \\infty)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "fe245741-ecab-4519-9315-f43186bfdc1b",
+        "index": 2,
+        "body": "$(2,3)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "2ff0a513-2677-4dfa-bcf4-9bdb1bf45fd0",
+        "index": 3,
+        "body": "$(-2,0)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "3111368a-1d5f-4ff2-99c8-4311ae5fb4f7",
+        "index": 4,
+        "body": "$(-\\infty, \\infty)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "7fe67b29-9253-4f2b-8152-302b9e0091d6",
+        "index": 5,
+        "body": "$(0, 3) \\cup (3, \\infty)$",
+        "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "c6bfcda9-f028-4461-8de5-99f71f931400",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "225470429",
+    "timeSpentVideo": "23760611",
+    "submissions": 1294,
+    "submissionsCorrect": 811,
+    "accuracy": 0.6267387944358578,
+    "difficulty": 0.6323529411764706
+  },
+  "resources": [],
+  "exam": {
+    "id": "c6bfcda9-f028-4461-8de5-99f71f931400",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3750987589",
+      "timeSpentVideo": "362201663",
+      "submissions": 21008,
+      "submissionsCorrect": 13462,
+      "questions": 15,
+      "accuracy": 0.6408035034272658,
+      "difficulty": 0.6098635588402501
+    }
+  },
+  "explanation": {
+    "id": "3a368699-0949-41af-9bf5-097f82e0471c",
+    "body": "",
+    "questionId": "9d875c82-7132-4065-8dbe-59ef72e1a7f7",
+    "resources": [
+      {
+        "id": "9c193d14-6cf4-4535-a5a2-bcd7aacbeaa8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/q_Na2XPGBb0?si=-mgBRPnZabx-4BJv&t=1289\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3a368699-0949-41af-9bf5-097f82e0471c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "588c8394-7e93-4cf0-8bf2-1f761c9b8651",
+      "name": "Polynomials of Degree Greater than Two",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4602849502",
+        "timeSpentVideo": "122104610",
+        "submissions": 6737,
+        "submissionsCorrect": 4156,
+        "questions": 5,
+        "accuracy": 0.6168917915986344,
+        "difficulty": 0.6348179025888547
+      }
+    }
+  ],
+  "children": []
+}

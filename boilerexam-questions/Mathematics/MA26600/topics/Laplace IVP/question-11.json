@@ -1,0 +1,143 @@
+{
+  "id": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve $y^{\\prime\\prime}+4y=2\\delta(t-\\pi)$ with the initial conditions $y(0)=0$ and $y^{\\prime}(0)=0.$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "ab44288d-1990-41f6-ac1b-6e0b7c6e5b0a",
+        "index": 0,
+        "body": "$y(t)=\\sin 2 t$",
+        "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "f3f8b8ec-2247-4ecb-ae32-f39ff8e68faa",
+        "index": 1,
+        "body": "$y(t)=\\delta(t-\\pi) \\sin 2 t$",
+        "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+        "stats": {
+          "count": 224
+        },
+        "resources": []
+      },
+      {
+        "id": "68672056-25fa-472e-a692-0da0ef94daab",
+        "index": 2,
+        "body": "$y(t)=-\\delta(t-\\pi) \\sin 2 t$",
+        "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "02d07e8d-adfb-416a-ab1c-db2913fe15c3",
+        "index": 3,
+        "body": "$y(t)=-u_{\\pi}(t) \\sin 2 t$",
+        "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "d2925acd-7b76-43f3-9ad7-8cd36bdee3ce",
+        "index": 4,
+        "body": "$y(t)=u_{\\pi}(t) \\sin 2 t$",
+        "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+        "stats": {
+          "count": 896
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "332391711",
+    "timeSpentVideo": "65664437",
+    "submissions": 1481,
+    "submissionsCorrect": 896,
+    "accuracy": 0.6049966239027684,
+    "difficulty": 0.6516445287792536
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "1b6d4f7e-2045-4d0a-8656-9cc3f7b4502e",
+    "body": "",
+    "questionId": "278773f6-7d5b-4ca8-9566-3d490344f5c3",
+    "resources": [
+      {
+        "id": "484fcda5-d0ff-4d34-942e-a8050ad126f6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=q1Nb7gnAXWn_qoi0&t=1428"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1b6d4f7e-2045-4d0a-8656-9cc3f7b4502e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

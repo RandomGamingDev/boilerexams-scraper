@@ -1,0 +1,106 @@
+{
+  "id": "6564b99a-4fc4-4980-9ac1-a6cd15ba24d1",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "In a semiconductor manufacturing company, the production process for microchips relies on a critical component that plays a vital role in the chips' performance. Even small deviations in these dimensions can lead to substantial losses. The company has a well-established process for producing these components and has been measuring the standard deviation of this critical dimension for years, obtaining a very precise estimate of \ud835\udf48=\ud835\udfd0 nm (nano meter). It is also known that the critical dimension of these components follows a normal distribution.  The company is considering implementing an improved lithography technique in the manufacturing process that is expected to make the components even more precise, leading to a smaller critical dimension. However, implementing this change is extremely costly, and there is a lot at stake. They need to be sure that the improvement will result in a smaller critical dimension before investing in the new lithography technique.   The current critical dimension is measured to be on average 22 nm and for the new technique to be worth the investment they need to have an average reduction of 2 nm to justify the investment in the new lithography technique to their stake holders. A study is to be conducted in which the Type I error rate is to be controlled at a significance level \ud835\udf36=\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf. Additionally, the study requires a high degree of power to detect a reduction of 2nm or more. The team working on the improved lithography technique is granted enough resources to manufacture 35 components for testing this hypothesis. Is a sample size of \ud835\udc8f=\ud835\udfd1\ud835\udfd3 enough to identify a reduction of 2nm at a high degree of power? \n\n(B) Determine \ud835\udc99 \u0305\ud835\udc1c\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc1f\ud835\udc1f, the point that forms the rejection region. Select an appropriate critical value for the calculation.",
+    "solution": "(B)\ud835\udc77(\ud835\udc7f \u0305<\ud835\udc99 \u0305\ud835\udc1c\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc1f\ud835\udc1f)=\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf  The corresponding critical value from the above output is \ud835\udc9b\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf=\ud835\udfd1.\ud835\udfce\ud835\udfd7\ud835\udfce\ud835\udfd0\ud835\udfd1\ud835\udfd0.  One Sample Procedure: \ud835\udc99 \u0305\ud835\udc1c\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc1f\ud835\udc1f=\ud835\udf41\ud835\udfce\u2212\ud835\udc9b\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf \ud835\udf48 \u221a\ud835\udc8f=\ud835\udfd0\ud835\udfd0\u2212\ud835\udfd1.\ud835\udfce\ud835\udfd7\ud835\udfce\ud835\udfd0\ud835\udfd1\ud835\udfd0\u00d7 \ud835\udfd0 \u221a\ud835\udfd1\ud835\udfd3=\ud835\udfd0\ud835\udfce.\ud835\udfd7\ud835\udfd3\ud835\udfd3\ud835\udfd1\ud835\udfcf  Two-Sample Paired Procedure: Depends on how D was defined and hypothesis. \ud835\udc99 \u0305\ud835\udc1c\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc1f\ud835\udc1f=\ud835\udf41\ud835\udfce\u2212\ud835\udc9b\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf \ud835\udf48 \u221a\ud835\udc8f=\ud835\udfce\u2212\ud835\udfd1.\ud835\udfce\ud835\udfd7\ud835\udfce\ud835\udfd0\ud835\udfd1\ud835\udfd0\u00d7 \ud835\udfd0 \u221a\ud835\udfd1\ud835\udfd3=\u2212\ud835\udfcf.\ud835\udfce\ud835\udfd2\ud835\udfd2\ud835\udfd4\ud835\udfd6\ud835\udfd7 \ud835\udc99 \u0305\ud835\udc1c\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc1f\ud835\udc1f=\ud835\udf41\ud835\udfce\u2212\ud835\udc9b\ud835\udfce.\ud835\udfce\ud835\udfce\ud835\udfcf \ud835\udf48 \u221a\ud835\udc8f=\ud835\udfce+\ud835\udfd1.\ud835\udfce\ud835\udfd7\ud835\udfce\ud835\udfd0\ud835\udfd1\ud835\udfd0\u00d7 \ud835\udfd0 \u221a\ud835\udfd1\ud835\udfd3=\ud835\udfcf.\ud835\udfce\ud835\udfd2\ud835\udfd2\ud835\udfd4\ud835\udfd6\ud835\udfd7 ",
+    "answerChoices": []
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "5647632",
+    "timeSpentVideo": "410901",
+    "submissions": 39,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.8902877697841727
+  },
+  "resources": [
+    {
+      "id": "bfd860db-25e5-4bda-ad1e-806f4d91813f",
+      "type": "IMAGE",
+      "data": {
+        "key": "-XOWmfYeMSnwwLzNEdHWA",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-XOWmfYeMSnwwLzNEdHWA"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6564b99a-4fc4-4980-9ac1-a6cd15ba24d1",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "ba396a81-83b1-4418-b5c1-975cc1a83c93",
+    "body": null,
+    "questionId": "6564b99a-4fc4-4980-9ac1-a6cd15ba24d1",
+    "resources": [
+      {
+        "id": "f6e74c5d-2289-4f8c-9cd0-3d52c804708c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=2594"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ba396a81-83b1-4418-b5c1-975cc1a83c93",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "de9074ca-7126-4b35-8a18-fade09f055a4",
+      "name": "Confidence Interval",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "319290007",
+        "timeSpentVideo": "27587913",
+        "submissions": 1071,
+        "submissionsCorrect": 542,
+        "questions": 7,
+        "accuracy": 0.5060690943043884,
+        "difficulty": 0.7444491887275833
+      }
+    }
+  ],
+  "children": []
+}

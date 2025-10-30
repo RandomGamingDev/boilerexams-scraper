@@ -1,0 +1,118 @@
+{
+  "id": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the expectations of the course when it comes to input validation is <b>FALSE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1b9a50c9-4f46-4af4-83c3-bcf47e1b3276",
+        "index": 0,
+        "body": "Selection by itself is insufficient for input validation because it provides only a finite number of opportunities for the user to input valid data.",
+        "questionId": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "94f8bd17-b2a3-49d6-beca-5b343d7bfbaf",
+        "index": 1,
+        "body": "In this course you will be expected to validate input for both the range of acceptable values and to ensure the correct data type is given.",
+        "questionId": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "11cfa9ec-a63f-4502-b750-30391d660c1a",
+        "index": 2,
+        "body": "It is expected in many cases that the code for input validation to be found in the same function that contains the input prompt and call to <code>scanf</code>.",
+        "questionId": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "07c44ad1-c977-4298-9edd-b92de35a1270",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "611928",
+    "timeSpentVideo": "0",
+    "submissions": 5,
+    "submissionsCorrect": 1,
+    "accuracy": 0.2,
+    "difficulty": 0.7642857142857142
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "dffcf938-43e2-45f1-b529-c433c9a701d9",
+    "body": null,
+    "questionId": "f2a6b752-f1ec-40e8-9b14-09538cafa633",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

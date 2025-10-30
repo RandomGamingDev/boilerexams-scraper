@@ -1,0 +1,128 @@
+{
+  "id": "27c0d226-e117-4556-b57e-7b91268767c7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all constants $a$ such that the origin is a saddle point for the system\n\n\n\\[\nX^{\\prime}(t)=\\left[\\begin{array}{ll}\na & 2 \\\\\n2 & a\n\\end{array}\\right] X(t), \\quad a \\text { in } \\mathbb{R}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "61faaadb-f73f-484f-8b3c-47af3558e66c",
+        "index": 0,
+        "body": "$a<2$",
+        "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "c3b6b675-2dfa-4b34-995a-a4637a506410",
+        "index": 1,
+        "body": "$a>-2$",
+        "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "bda9b5e2-505e-423d-aaf2-00d6f6a0dedf",
+        "index": 2,
+        "body": "$a<-3$ or $a>3$",
+        "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "5b05339b-8826-4840-bbe3-8d841d35baf0",
+        "index": 3,
+        "body": "$a<-2$ or $a>2$",
+        "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "d46cb054-295b-4bab-b53e-b86ca1b935d3",
+        "index": 4,
+        "body": "$-2<a<2$",
+        "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+        "stats": {
+          "count": 206
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "62465124",
+    "timeSpentVideo": "0",
+    "submissions": 280,
+    "submissionsCorrect": 206,
+    "accuracy": 0.7357142857142858,
+    "difficulty": 0.5763157894736842
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "38157076-4e17-428b-afb2-3288eed202d1",
+    "body": "",
+    "questionId": "27c0d226-e117-4556-b57e-7b91268767c7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4a0dc780-9f5c-4a97-9f9c-82f56b841b3a",
+      "name": "Phase Portrait",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "674446336",
+        "timeSpentVideo": "0",
+        "submissions": 915,
+        "submissionsCorrect": 656,
+        "questions": 3,
+        "accuracy": 0.7169398907103826,
+        "difficulty": 0.5544334975369458
+      }
+    }
+  ],
+  "children": []
+}

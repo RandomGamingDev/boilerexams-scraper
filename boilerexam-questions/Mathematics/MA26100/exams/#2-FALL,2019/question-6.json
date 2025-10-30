@@ -1,0 +1,158 @@
+{
+  "id": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "By converting the integral $\\int_{-1}^{1} \\int_{-\\sqrt{1-x^{2}}}^{\\sqrt{1-x^{2}}} \\int_{\\sqrt{3\\left(x^{2}+y^{2}\\right)}}^{\\sqrt{4-x^{2}-y^{2}}} f(x, y, z) d z d y d x$ to spherical coordinates, one obtains the integral\n\\[\n\\int_{0}^{a} \\int_{0}^{b} \\int_{0}^{c} f(\\rho \\sin \\varphi \\cos \\theta, \\rho \\sin \\varphi \\sin \\theta, \\rho \\cos \\varphi)\\left(\\rho^{2} \\sin \\varphi\\right) d \\rho d \\varphi d \\theta .\n\\]\n\nThen $\\frac{b c}{a}$ equals",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f5d5f86b-2f94-47d9-b179-c68c2ea5a3dd",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+        "stats": {
+          "count": 535
+        },
+        "resources": []
+      },
+      {
+        "id": "5bd18135-ace6-4ca2-9107-342321a0b252",
+        "index": 1,
+        "body": "$1 / 2$",
+        "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+        "stats": {
+          "count": 576
+        },
+        "resources": []
+      },
+      {
+        "id": "8d9e667e-69b6-44e8-a531-43c93796f376",
+        "index": 2,
+        "body": "$1 / 3$",
+        "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+        "stats": {
+          "count": 373
+        },
+        "resources": []
+      },
+      {
+        "id": "d2ee82ea-bbc3-484d-a06c-37b7e451f342",
+        "index": 3,
+        "body": "$1 / 4$",
+        "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+        "stats": {
+          "count": 434
+        },
+        "resources": []
+      },
+      {
+        "id": "0a5810ac-f14f-4d6c-b276-0d576987f6a3",
+        "index": 4,
+        "body": "$1 / 6$",
+        "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+        "stats": {
+          "count": 1750
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1064329295",
+    "timeSpentVideo": "249122424",
+    "submissions": 4106,
+    "submissionsCorrect": 1750,
+    "accuracy": 0.4262055528494886,
+    "difficulty": 0.8220399429386591
+  },
+  "resources": [],
+  "exam": {
+    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9516874781",
+      "timeSpentVideo": "1230887307",
+      "submissions": 40641,
+      "submissionsCorrect": 25452,
+      "questions": 11,
+      "accuracy": 0.6262641175167933,
+      "difficulty": 0.6240458015267175
+    }
+  },
+  "explanation": {
+    "id": "630201d2-7f94-4e07-b637-14b83a459595",
+    "body": "",
+    "questionId": "dbc69370-cafd-4162-a74b-d56d3acbe034",
+    "resources": [
+      {
+        "id": "dd1eb864-c0b3-4376-b25b-1d81df307864",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/olxqgUNis3E?si=Z8Am7noIsRvi0nR7&t=1022"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "630201d2-7f94-4e07-b637-14b83a459595",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    },
+    {
+      "id": "fe98730e-b232-4fb3-95e2-f2a219718e24",
+      "name": "Spherical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16366452649",
+        "timeSpentVideo": "2568706851",
+        "submissions": 35157,
+        "submissionsCorrect": 18862,
+        "questions": 8,
+        "accuracy": 0.5365076656142447,
+        "difficulty": 0.7135958816688884
+      }
+    }
+  ],
+  "children": []
+}

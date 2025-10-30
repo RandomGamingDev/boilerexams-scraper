@@ -1,0 +1,158 @@
+{
+  "id": "323e3763-024f-47c7-a712-9ad9883260e9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y=e^{-x}$. Shifting the graph $3$ units to the right, we get the graph of",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "87a44860-9d4b-4131-93e3-2bf74b5f2c42",
+        "index": 0,
+        "body": "$y=3 e^{-x}$",
+        "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+        "stats": {
+          "count": 304
+        },
+        "resources": []
+      },
+      {
+        "id": "d7478ec7-6cd0-4a40-abf1-03805313e515",
+        "index": 1,
+        "body": "$y=e^{-3 x}$",
+        "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+        "stats": {
+          "count": 598
+        },
+        "resources": []
+      },
+      {
+        "id": "ae6897b3-9f60-4cdb-ba90-0102444c618d",
+        "index": 2,
+        "body": "$y=e^{3} e^{-x}$",
+        "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+        "stats": {
+          "count": 2012
+        },
+        "resources": []
+      },
+      {
+        "id": "1ff75492-2c39-4950-a32a-5ad1a83a338e",
+        "index": 3,
+        "body": "$y=\\frac{1}{3} e^{-x}$",
+        "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+        "stats": {
+          "count": 138
+        },
+        "resources": []
+      },
+      {
+        "id": "8dfd8d6e-c6a0-4e1b-a7f3-c5eaa576aeb7",
+        "index": 4,
+        "body": "$y=e^{-x / 3}$",
+        "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+        "stats": {
+          "count": 159
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "316249847",
+    "timeSpentVideo": "123131307",
+    "submissions": 3547,
+    "submissionsCorrect": 2012,
+    "accuracy": 0.5672399210600507,
+    "difficulty": 0.6846037839319989
+  },
+  "resources": [],
+  "exam": {
+    "id": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3559385729",
+      "timeSpentVideo": "911881661",
+      "submissions": 26164,
+      "submissionsCorrect": 15867,
+      "questions": 12,
+      "accuracy": 0.6064439688121083,
+      "difficulty": 0.6439613158696315
+    }
+  },
+  "explanation": {
+    "id": "c5afdd96-4992-4b25-b5d9-d2112a6beab0",
+    "body": "",
+    "questionId": "323e3763-024f-47c7-a712-9ad9883260e9",
+    "resources": [
+      {
+        "id": "8687d56a-b67c-4731-8f76-26ee7193ec4a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4c4tD0-xJw4?t=659"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c5afdd96-4992-4b25-b5d9-d2112a6beab0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "30e070e2-e690-4708-9e18-1d600f013d96",
+      "name": "Average Value",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1641112110",
+        "timeSpentVideo": "134788843",
+        "submissions": 3547,
+        "submissionsCorrect": 2012,
+        "questions": 1,
+        "accuracy": 0.5672399210600507,
+        "difficulty": 0.6846037839319989
+      }
+    },
+    {
+      "id": "a8039404-df27-44f0-8168-6f8e2dbdbb67",
+      "name": "Transformations",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1814031693",
+        "timeSpentVideo": "137355640",
+        "submissions": 4435,
+        "submissionsCorrect": 2792,
+        "questions": 2,
+        "accuracy": 0.6295377677564825,
+        "difficulty": 0.6233186328555678
+      }
+    }
+  ],
+  "children": []
+}

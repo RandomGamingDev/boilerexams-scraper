@@ -1,0 +1,118 @@
+{
+  "id": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following would be the final values of the first and last variables when using the binary search with the array below given a target value of 7?<br><font style=\"font-family:'Courier New'\">6 11 13 15 16 18 21 24 26 27 31 35</font><br>",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f6c7df94-1f93-4a9c-a9b3-ce95f45a4f97",
+        "index": 0,
+        "body": "first = 1, last = 0",
+        "questionId": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+        "stats": {
+          "count": 1289
+        },
+        "resources": []
+      },
+      {
+        "id": "22630efe-3c1c-4f2e-a311-399f82b7a64d",
+        "index": 1,
+        "body": "first = 0, last = 0",
+        "questionId": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "2fcaff6d-bfb1-4777-a9d5-bfbfcfef38bd",
+        "index": 2,
+        "body": "first = 0, last = -1",
+        "questionId": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+        "stats": {
+          "count": 699
+        },
+        "resources": []
+      },
+      {
+        "id": "81b2eb65-997f-4e7f-8870-a34a8bee823f",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 32,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "112906879",
+    "timeSpentVideo": "0",
+    "submissions": 2099,
+    "submissionsCorrect": 1289,
+    "accuracy": 0.6141019533111005,
+    "difficulty": 0.6410868576625739
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "ffa746b7-6f28-4096-80db-dd2a6b4a5514",
+    "body": "",
+    "questionId": "8982a86f-f238-4468-8c50-fca5b0d2c43a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

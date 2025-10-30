@@ -1,0 +1,143 @@
+{
+  "id": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution of $\\frac{d y}{d x}=\\frac{x^{2}+3 y^{2}}{2 x y}$ is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "55da9023-a9f3-416f-b6a0-0fc4f899346d",
+        "index": 0,
+        "body": "$y-x=C x(y-2 x)^{2}$",
+        "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "152395a9-92a1-4b6c-ba53-0d147dda1bb8",
+        "index": 1,
+        "body": "$(3 y-2 x)^{2}=C+x^{3}$",
+        "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "60650ea6-a61f-48ee-a46e-f8d9d30ef370",
+        "index": 2,
+        "body": "$x^{2}+y^{2}=C x^{3}$",
+        "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+        "stats": {
+          "count": 549
+        },
+        "resources": []
+      },
+      {
+        "id": "6247d2af-017e-4306-9e9a-b4b60d01e8e0",
+        "index": 3,
+        "body": "$x^{2}-y^{2}=C x^{3}$",
+        "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "f8da2d13-b824-4c3a-9657-d583b84e9140",
+        "index": 4,
+        "body": "$(3 y-2 x)^{2}=C+y$",
+        "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "37a9b809-1ed0-4027-940c-334b3253b165",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "313121586",
+    "timeSpentVideo": "40868711",
+    "submissions": 1044,
+    "submissionsCorrect": 549,
+    "accuracy": 0.5258620689655172,
+    "difficulty": 0.7263986013986014
+  },
+  "resources": [],
+  "exam": {
+    "id": "37a9b809-1ed0-4027-940c-334b3253b165",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2217727037",
+      "timeSpentVideo": "358505559",
+      "submissions": 8725,
+      "submissionsCorrect": 4631,
+      "questions": 11,
+      "accuracy": 0.5307736389684814,
+      "difficulty": 0.7195750708215297
+    }
+  },
+  "explanation": {
+    "id": "5ac10524-8394-4b47-ac95-73a799922eb6",
+    "body": "",
+    "questionId": "81ae8bbb-3cd8-4e86-ad77-2cd8f4c142c3",
+    "resources": [
+      {
+        "id": "0b77144b-29d9-4c28-b38f-1a8324ad1db4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/RcpPdDbJQtQ?si=95c3Wxb8tJqbnJ-m&t=142\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5ac10524-8394-4b47-ac95-73a799922eb6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "195a852c-3f16-40f9-8ba6-e393dc5c1f8b",
+      "name": "Homogeneous ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3096401893",
+        "timeSpentVideo": "224975085",
+        "submissions": 6989,
+        "submissionsCorrect": 4255,
+        "questions": 7,
+        "accuracy": 0.6088138503362427,
+        "difficulty": 0.6427211172238679
+      }
+    }
+  ],
+  "children": []
+}

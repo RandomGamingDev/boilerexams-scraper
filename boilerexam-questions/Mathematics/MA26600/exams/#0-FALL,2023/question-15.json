@@ -1,0 +1,143 @@
+{
+  "id": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the appropriate form for a particular solution \\(\\mathbf{x}_p(t)\\) to the nonhomogeneous linear system:\n\\[\n\\mathbf{x}'(t) = \\begin{bmatrix} 1 & 2 \\\\ 2 & 1 \\end{bmatrix} \\mathbf{x}(t) + \\begin{bmatrix} -e^{-t} \\\\ 2 e^t \\end{bmatrix}\n\\]\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "dfcce910-2f1c-4fce-bdcf-8bd38b1b1251",
+        "index": 0,
+        "body": "\\(\\mathbf{x}_p(t) = \\mathbf{a} t e^{-t} + \\mathbf{b} e^t\\)",
+        "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "e9b61a03-beb5-4ebe-ad78-d08b198bbd64",
+        "index": 1,
+        "body": "\\(\\mathbf{x}_p(t) = (\\mathbf{a} t + \\mathbf{b}) e^{-t} + (\\mathbf{c} t + \\mathbf{d}) e^t\\)",
+        "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "8aeacb34-890f-426d-afa9-de99c4f5ac69",
+        "index": 2,
+        "body": "\\(\\mathbf{x}_p(t) = \\mathbf{a} e^{-t} + \\mathbf{b} e^t\\)",
+        "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "60a19ccd-6300-45d4-951e-62243310cb56",
+        "index": 3,
+        "body": "\\(\\mathbf{x}_p(t) = \\mathbf{a} e^{-t} + (\\mathbf{b} t + \\mathbf{c}) e^t\\)",
+        "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "7452f1fd-d0a6-4f54-af1e-cdb538e9b4db",
+        "index": 4,
+        "body": "\\(\\mathbf{x}_p(t) = (\\mathbf{a} t + \\mathbf{b}) e^{-t} + \\mathbf{c} e^t\\)",
+        "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+        "stats": {
+          "count": 285
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "97595806",
+    "timeSpentVideo": "21990637",
+    "submissions": 608,
+    "submissionsCorrect": 285,
+    "accuracy": 0.46875,
+    "difficulty": 0.7768361581920904
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "ac9ef65c-4bad-4029-878a-ebb2a4491313",
+    "body": null,
+    "questionId": "9a23d7e7-74ba-4d77-af5a-5bdf1020bcd4",
+    "resources": [
+      {
+        "id": "c89e4014-305f-4968-903b-ded3763967b5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=FSMM4NMf3hvEto2R&t=2898"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ac9ef65c-4bad-4029-878a-ebb2a4491313",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

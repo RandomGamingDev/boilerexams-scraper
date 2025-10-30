@@ -1,0 +1,143 @@
+{
+  "id": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) Let $A=\\left[\\begin{array}{cc}0 & 3 \\\\ -3 & 0\\end{array}\\right]$. Then $\\left[\\begin{array}{c}-\\mathbf{i} \\\\ 1\\end{array}\\right]$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f014ef95-49bb-405a-96a6-0fcdd08a7a4d",
+        "index": 0,
+        "body": "is an eigenvector corresponding to eigenvalue $0$.",
+        "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "4121ba8a-1438-4f81-85db-bfc7ad62f6bf",
+        "index": 1,
+        "body": "is an eigenvector corresponding to eigenvalue $-3$.",
+        "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "179e43b8-7224-400f-94ba-8625209cb29e",
+        "index": 2,
+        "body": "is an eigenvector corresponding to eigenvalue $3$.",
+        "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "b8371c79-7a33-4033-8fb5-5aede216d8ef",
+        "index": 3,
+        "body": "is an eigenvector corresponding to eigenvalue $-3 \\mathbf{i}$.",
+        "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+        "stats": {
+          "count": 163
+        },
+        "resources": []
+      },
+      {
+        "id": "6c0ca51a-5678-4ee3-a689-107060cb54c0",
+        "index": 4,
+        "body": "is an eigenvector corresponding to eigenvalue $3 \\mathbf{i}$.",
+        "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "120942631",
+    "timeSpentVideo": "39249437",
+    "submissions": 754,
+    "submissionsCorrect": 390,
+    "accuracy": 0.5172413793103449,
+    "difficulty": 0.7347775175644028
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "b885f2ab-d5a1-4565-9d8e-61c307d454b4",
+    "body": "",
+    "questionId": "80a84cf2-0eec-46d5-958d-4ce9213cc8f3",
+    "resources": [
+      {
+        "id": "58ad44c1-8807-40f2-b710-bc062f4d9b51",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=4bJghNG_hXL5kWy9&t=858\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b885f2ab-d5a1-4565-9d8e-61c307d454b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5e4387fc-2000-4da7-bb38-ec017f8d7870",
+      "name": "Eigenvalues",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2488615864",
+        "timeSpentVideo": "230395100",
+        "submissions": 6150,
+        "submissionsCorrect": 3469,
+        "questions": 9,
+        "accuracy": 0.5640650406504065,
+        "difficulty": 0.68696
+      }
+    }
+  ],
+  "children": []
+}

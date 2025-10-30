@@ -1,0 +1,173 @@
+{
+  "id": "624ad56e-3923-4d91-9b14-a731eea90700",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $A$ and $B$ are $n \\times n$ matrices. Which of the following statements must be TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d85c2a1e-11ab-4ac2-93ab-60d4a3b17300",
+        "index": 0,
+        "body": "$A B=B A$.",
+        "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "aea4296b-116c-4aa0-9dbd-d6ef0879d101",
+        "index": 1,
+        "body": "If $A B=I$, then $B$ is the inverse of $A$.",
+        "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+        "stats": {
+          "count": 2092
+        },
+        "resources": []
+      },
+      {
+        "id": "a32d28c5-9588-4274-8770-3f729b6cfcc8",
+        "index": 2,
+        "body": "If $A$ and $B$ are invertible, then $(A B)^{-1}=A^{-1} B^{-1}$.",
+        "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+        "stats": {
+          "count": 285
+        },
+        "resources": []
+      },
+      {
+        "id": "33f5e7fc-eb69-40b1-a84e-cb87704cebcc",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{lll}1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9\\end{array}\\right]$ is invertible.",
+        "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      },
+      {
+        "id": "d1d61f60-4e12-4717-a939-7be380a145aa",
+        "index": 4,
+        "body": "If $A \\mathbf{x}=\\mathbf{b}$ is consistent for some $\\mathbf{b}$ in $\\mathbb{R}^{n}$, then $A$ is invertible.",
+        "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "360204232",
+    "timeSpentVideo": "54082015",
+    "submissions": 2882,
+    "submissionsCorrect": 2092,
+    "accuracy": 0.7258848022206801,
+    "difficulty": 0.5316901408450704
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "6f5c4a1d-a6f8-43e7-a27f-5eecd030f415",
+    "body": "",
+    "questionId": "624ad56e-3923-4d91-9b14-a731eea90700",
+    "resources": [
+      {
+        "id": "420e3bab-357d-446b-bf13-492bf8c758b5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=2292"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6f5c4a1d-a6f8-43e7-a27f-5eecd030f415",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

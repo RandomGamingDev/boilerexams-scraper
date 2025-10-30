@@ -1,0 +1,143 @@
+{
+  "id": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y_{p}(t)$ be a particular solution to the following second-order differential equation obtained from the method of variation of parameters\n\n\n$y^{\\prime \\prime}-2y^{\\prime}+y =\\frac{e^t}{t}, \\;\\;\\;\\;\\;\\;\\;t>0.$\n\n\nThen a general solution $y(t)$ is ",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ce88d194-2704-42bb-b193-e80564fa7fe4",
+        "index": 0,
+        "body": "$c_{1}e^{-t}+c_{2}te^{-t}+t^2e^t(\\ln(t) -1)$",
+        "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "64d883c8-d09d-4a4f-ae52-ed42a23c1912",
+        "index": 1,
+        "body": "$c_{1}e^t+c_{2}te^t+t^2e^t(\\ln(t) -1)$",
+        "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "ba6fa2ef-0a39-47ab-871a-9c2593419b87",
+        "index": 2,
+        "body": "$c_{1}e^t+c_{2}te^t+te^t(\\ln(t) -1)$",
+        "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+        "stats": {
+          "count": 1178
+        },
+        "resources": []
+      },
+      {
+        "id": "cc2fb477-ebbd-41a5-9878-92ddde4a60bc",
+        "index": 3,
+        "body": "$c_{1}e^{-t}+c_{2}te^{-t}+te^t(\\ln(t) -1)$",
+        "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "9e5c1218-edf5-4120-8f0a-ff66d8b8c897",
+        "index": 4,
+        "body": "$c_{1}e^t+c_{2}te^t+te^t(\\ln(t) -t)$",
+        "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "595475588",
+    "timeSpentVideo": "99429419",
+    "submissions": 2191,
+    "submissionsCorrect": 1178,
+    "accuracy": 0.5376540392514834,
+    "difficulty": 0.7139895242252292
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "55df65f0-3022-48cf-a0d8-86e24606e348",
+    "body": "",
+    "questionId": "bc01e8de-3a3c-484f-ab17-4d5bb0be8616",
+    "resources": [
+      {
+        "id": "cf647a5a-e75e-480b-b7d1-96c3402a17b8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=xIalWO-hugfnmsXR&t=1695"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "55df65f0-3022-48cf-a0d8-86e24606e348",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

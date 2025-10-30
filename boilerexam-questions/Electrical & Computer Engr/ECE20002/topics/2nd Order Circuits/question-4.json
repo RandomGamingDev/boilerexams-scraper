@@ -1,0 +1,215 @@
+{
+  "id": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, the switch moves from position A (dashed line) to B (solid line) at time $t = t_s > 0$. What is the damping of the capacitor voltage, $v_c(t)$, before and after $t_s$?\n\nThe answers are ordered as \"Before $t_s$\" $\\rightarrow$ \"After $t_s$\"",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "90a33fe8-0aa9-46b4-a520-3a3a874b51a4",
+        "index": 0,
+        "body": "underdamped $\\rightarrow$ underdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "7c7e8e0b-e58c-4b47-bdb4-ba2529d5d84b",
+        "index": 1,
+        "body": "underdamped $\\rightarrow$ critically damped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "83e09f80-0dba-48a2-879b-d1e872dee570",
+        "index": 2,
+        "body": "underdamped $\\rightarrow$ overdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "46d089dc-56f4-4678-b45b-3bb2fae21f49",
+        "index": 3,
+        "body": "critically damped $\\rightarrow$ underdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "a6ef72fe-a4a0-4049-ac7b-7db295a5e5dc",
+        "index": 4,
+        "body": "critically damped $\\rightarrow$ critically damped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "f7b08622-1cd5-40d6-9e16-8b82e26d3aa3",
+        "index": 5,
+        "body": "critically damped $\\rightarrow$ overdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "6887b4a1-a687-411c-ba3d-ca3efd99caae",
+        "index": 6,
+        "body": "overdamped $\\rightarrow$ underdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "6b7b7e2a-e6ca-4bfe-b55c-e0a3b78c3a94",
+        "index": 7,
+        "body": "overdamped $\\rightarrow$ critically damped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "82bf8ead-4633-4370-860f-7783f61e6c6d",
+        "index": 8,
+        "body": "overdamped $\\rightarrow$ overdamped",
+        "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "341573420",
+    "timeSpentVideo": "43566220",
+    "submissions": 789,
+    "submissionsCorrect": 397,
+    "accuracy": 0.5031685678073511,
+    "difficulty": 0.7471878515185602
+  },
+  "resources": [
+    {
+      "id": "bda97b82-9a23-4dea-9b0c-db70611878d5",
+      "type": "IMAGE",
+      "data": {
+        "key": "iLF87LEGAPjHbTs4zo4VF",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/iLF87LEGAPjHbTs4zo4VF",
+        "altText": "Circuit"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "a7217a97-568f-4f00-b54b-4c49688ed1a6",
+    "body": "",
+    "questionId": "c85b1508-89d7-4d12-b3e1-1513ca971d64",
+    "resources": [
+      {
+        "id": "ee83a284-68cc-4341-aa48-a1ea851660e6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=1698s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a7217a97-568f-4f00-b54b-4c49688ed1a6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ab365390-08c6-481a-8b28-0eb8f62b378e",
+      "name": "2nd Order Circuits",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1303159622",
+        "timeSpentVideo": "76340924",
+        "submissions": 1551,
+        "submissionsCorrect": 824,
+        "questions": 2,
+        "accuracy": 0.5312701482914249,
+        "difficulty": 0.7206238643246518
+      }
+    },
+    {
+      "id": "f0eabc89-d2b4-4548-b057-f8cb3ec616bd",
+      "name": "Time Switched Circuit",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2040143669",
+        "timeSpentVideo": "249095240",
+        "submissions": 2432,
+        "submissionsCorrect": 1178,
+        "questions": 3,
+        "accuracy": 0.484375,
+        "difficulty": 0.7650078988941549
+      }
+    }
+  ],
+  "children": []
+}

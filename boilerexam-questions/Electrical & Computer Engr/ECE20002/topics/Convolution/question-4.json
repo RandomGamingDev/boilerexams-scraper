@@ -1,0 +1,188 @@
+{
+  "id": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The unit step response of an LTI system (i.e. response to a unit step input) is $y_{u}(t)=e^{-4 t} u(t)$. Find the response $y(t)$ of the system to an input of $x(t)=3 e^{-t} u(t)$. Hint: use $y(t)=x(t) *$ $h(t)$.",
+    "solution": [
+      6
+    ],
+    "answerChoices": [
+      {
+        "id": "bc178971-1cc5-44df-89c5-f5bd77a72a13",
+        "index": 0,
+        "body": "$4 e^{-4 t} u(t)-4 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "a387751f-e733-47b3-8eca-f6d83c4df403",
+        "index": 1,
+        "body": "$-4 e^{-4 t} u(t)+4 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "60670364-5637-4a83-8cce-e4e574898ba2",
+        "index": 2,
+        "body": "$4 e^{-4 t} u(t)-7 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "4c6fb76a-2065-427c-9d4f-b7dde6e25f53",
+        "index": 3,
+        "body": "$-4 e^{-4 t} u(t)+7 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "b9d31384-41fb-4de0-9b56-8c75a85e78ae",
+        "index": 4,
+        "body": "$e^{-4 t} u(t)-4 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "71ee7c8d-5827-4b5a-be03-4be479c86008",
+        "index": 5,
+        "body": "$-e^{-4 t} u(t)+4 e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "25611b77-b372-4396-a10c-01b06c1d67b3",
+        "index": 6,
+        "body": "$4 e^{-4 t} u(t)-e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      },
+      {
+        "id": "cac85cd9-6b57-4441-8eed-9fc331ee41d6",
+        "index": 7,
+        "body": "$ -4 e^{-4 t} u(t)+e^{-t} u(t)$",
+        "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "314082559",
+    "timeSpentVideo": "102337438",
+    "submissions": 875,
+    "submissionsCorrect": 258,
+    "accuracy": 0.2948571428571429,
+    "difficulty": 0.9341025641025641
+  },
+  "resources": [],
+  "exam": {
+    "id": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+    "number": 2,
+    "year": 2021,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1417307157",
+      "timeSpentVideo": "475901887",
+      "submissions": 5774,
+      "submissionsCorrect": 2680,
+      "questions": 9,
+      "accuracy": 0.46414963630065814,
+      "difficulty": 0.7852400408580185
+    }
+  },
+  "explanation": {
+    "id": "cf41bd93-bf38-45bf-94d4-3986d2109f81",
+    "body": "",
+    "questionId": "f8a18592-fae1-4b92-b1c9-aa54bcbe0749",
+    "resources": [
+      {
+        "id": "0344959f-9aa8-492c-8484-745d257dfaa3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=N6_BlT5YIsY&t=1837s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cf41bd93-bf38-45bf-94d4-3986d2109f81",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6369bae1-2840-445e-bf7b-1415661ca24d",
+      "name": "Convolution",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2428564325",
+        "timeSpentVideo": "328872390",
+        "submissions": 3720,
+        "submissionsCorrect": 1766,
+        "questions": 5,
+        "accuracy": 0.4747311827956989,
+        "difficulty": 0.7746073298429319
+      }
+    },
+    {
+      "id": "bab47bbe-e232-4210-9c16-ea2367899ac4",
+      "name": "Impulse Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1401120078",
+        "timeSpentVideo": "157570997",
+        "submissions": 1834,
+        "submissionsCorrect": 706,
+        "questions": 2,
+        "accuracy": 0.38495092693565974,
+        "difficulty": 0.8591003102378489
+      }
+    }
+  ],
+  "children": []
+}

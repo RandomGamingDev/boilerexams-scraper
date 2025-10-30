@@ -1,0 +1,143 @@
+{
+  "id": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the differential equation\n\n\\[\n\\frac{d y}{d x}=-\\frac{2 x y+1}{x^{2}+y}\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "eb4c866f-a588-4f29-a0d9-6cfbdcc0b8cb",
+        "index": 0,
+        "body": "$x^{2} y+x+\\frac{1}{2} y^{2}=C$",
+        "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+        "stats": {
+          "count": 579
+        },
+        "resources": []
+      },
+      {
+        "id": "9efcb9b9-cd46-4421-b86a-c5e485604f49",
+        "index": 1,
+        "body": "$x^{2} y+x=C$",
+        "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "98d101c2-1e42-4663-95d6-db1555ce467b",
+        "index": 2,
+        "body": "$x y^{2}+y+\\frac{1}{3} x^{3}=C$",
+        "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "0c8c82e9-e443-40d8-b83d-543f87fa178d",
+        "index": 3,
+        "body": "$x y+\\frac{1}{3} x^{3}=C$",
+        "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "5f9439d7-f6ed-4981-980a-330adaf17453",
+        "index": 4,
+        "body": "$x y^{2}+y+\\frac{1}{2} x^{2}=C$",
+        "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "204327934",
+    "timeSpentVideo": "14942898",
+    "submissions": 841,
+    "submissionsCorrect": 579,
+    "accuracy": 0.6884661117717004,
+    "difficulty": 0.5815621679064825
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "e99c23a4-0cca-429a-b2e0-f1a50b2edfc0",
+    "body": "There is a small algebra mistake in the video, I didn't negate the entire $(2xy+1)$ term by accident. As a result, $2xy-1$ should be $2xy+1$ and all subsequent $-x$ should be $x$, yielding the correct answer.",
+    "questionId": "20ca3e6f-d398-476f-afb7-e413a0d9746d",
+    "resources": [
+      {
+        "id": "1624fb1c-6ca0-4024-a261-6ca48a44173a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=je7uFDdH2ljm54w7&t=626\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e99c23a4-0cca-429a-b2e0-f1a50b2edfc0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "300941df-fcc0-412f-83e9-321179c17499",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the following limit: $$\\lim_{n\\to {\\infty}} \\left(\\frac{(n+1)!}{(n-1)!} \\right)\\left( \\frac{\\sin{(1/n)}}{3n^2}\\right)$$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "91f7a098-8025-4867-943e-18c4c157ceb8",
+        "index": 0,
+        "body": "$\\frac{1}{3}$",
+        "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "a5cb9c59-4933-4811-a8f2-bb301742c707",
+        "index": 1,
+        "body": "0",
+        "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "44da892f-fb05-4fea-8fcf-e2e6456c1f34",
+        "index": 2,
+        "body": "1",
+        "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "543b5d7f-597f-4c97-92eb-6867a7fd7e08",
+        "index": 3,
+        "body": "$\\pi$",
+        "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "08c39368-d7aa-4021-b345-278d18d25a9c",
+        "index": 4,
+        "body": "The sequence diverges. ",
+        "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "22461933",
+    "timeSpentVideo": "4934853",
+    "submissions": 188,
+    "submissionsCorrect": 99,
+    "accuracy": 0.526595744680851,
+    "difficulty": 0.7326388888888888
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "44b99738-4fa1-48f9-b2ad-c7e471984640",
+    "body": null,
+    "questionId": "300941df-fcc0-412f-83e9-321179c17499",
+    "resources": [
+      {
+        "id": "bd5f779c-19cf-4595-be34-4fc6da01762d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=I76-qwjyIX2TEvj1&t=4413"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "44b99738-4fa1-48f9-b2ad-c7e471984640",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79d97217-9831-486a-b66f-886c046a46a7",
+      "name": "Finding Limits",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22461933",
+        "timeSpentVideo": "4934853",
+        "submissions": 188,
+        "submissionsCorrect": 99,
+        "questions": 1,
+        "accuracy": 0.526595744680851,
+        "difficulty": 0.7326388888888888
+      }
+    }
+  ],
+  "children": []
+}

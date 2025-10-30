@@ -1,0 +1,158 @@
+{
+  "id": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all possible $c$ such that the nullity of the following matrix A is $1$, where\n\n\n\\[\nA=\\left[\\begin{array}{lll}\n1 & 2 & 2 \\\\\nc & 4 & 4 \\\\\n3 & c & 6\n\\end{array}\\right]\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "8ead0e96-d5a8-4463-bbc9-9bc990430ffa",
+        "index": 0,
+        "body": "$c=1$ only",
+        "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "401cf371-793b-446d-97b1-a47f33286ec1",
+        "index": 1,
+        "body": "$c=2$ only",
+        "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+        "stats": {
+          "count": 250
+        },
+        "resources": []
+      },
+      {
+        "id": "ca888292-8fe5-4baf-b20d-66e61556db4d",
+        "index": 2,
+        "body": "$c=1$ or $6$",
+        "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+        "stats": {
+          "count": 183
+        },
+        "resources": []
+      },
+      {
+        "id": "4e4e1593-d137-4e05-8063-65a73f9587e5",
+        "index": 3,
+        "body": "$c=1$ or $2$ or $4$",
+        "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "17fa7b10-7d47-43fa-8158-88e24ddfefcb",
+        "index": 4,
+        "body": "$c=2$ or $6$",
+        "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+        "stats": {
+          "count": 2721
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "576157444",
+    "timeSpentVideo": "47959889",
+    "submissions": 3524,
+    "submissionsCorrect": 2721,
+    "accuracy": 0.7721339387060159,
+    "difficulty": 0.48537527593818985
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "fc983343-5f9c-44bb-a8e1-9436e0f2f4fd",
+    "body": "The video has an error despite obtaining the same answer.\n\nThe row reduction should be R3 = R3 - 3*R1, not R3 = R3 - 2*R1. This means that the resulting matrix after the two row reduction steps (second line) should be:\n\n$\n\\left[\\begin{array}{cccc}1 & 2 & 2 & 0 \\\\ c-2 & 0 & 0 & 0 \\\\ 0 & c-6 & 0 & 0 \\end{array}\\right]\n$\n\nHere, it is then clear that for $c=2$ , this matrix reduces to\n\n$\n\\left[\\begin{array}{cccc}1 & 2 & 2 & 0 \\\\ 0 & 0 & 0 & 0 \\\\ 0 & -4 & 0 & 0 \\end{array}\\right] -> \\left[\\begin{array}{cccc}1 & 0 & 2 & 0 \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & 0 & 0 \\end{array}\\right]\n$\n\nwhich has one free variable (the third column). This corresponds to a nullity of 1. The same goes for  $c=6$ . The matrix reduces to:\n\n$\n\\left[\\begin{array}{cccc}1 & 0 & 2 & 0 \\\\ 4 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 0 \\end{array}\\right] ->\n\\left[\\begin{array}{cccc}0 & 1 & 1 & 0 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 0 \\end{array}\\right] \n$\n\nwith row reduction. Again, this system has one free variable (the third column), corresponding to a nullity of 1. \n\nThe answer is E.\n",
+    "questionId": "f3899e34-655d-4fcb-b453-a73cdca833c0",
+    "resources": [
+      {
+        "id": "de99e8ec-7807-47a0-9478-3b943e0083fa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=590\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fc983343-5f9c-44bb-a8e1-9436e0f2f4fd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "68f7e308-95fe-41c8-9410-cc4b40d9b519",
+      "name": "Nullity",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8372451403",
+        "timeSpentVideo": "1247678872",
+        "submissions": 19960,
+        "submissionsCorrect": 11815,
+        "questions": 5,
+        "accuracy": 0.591933867735471,
+        "difficulty": 0.6585244267198405
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

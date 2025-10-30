@@ -1,0 +1,158 @@
+{
+  "id": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements must be TRUE?\n\n\n(i) The function $T: \\mathbb{R} \\longrightarrow \\mathbb{R}$ defined by $T(x)=2 x+1$ is a linear transformation.\n\n(ii) The set of points $\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]$ satisfying the equation $x+3 y+2 z=13$ is a subspace of $\\mathbb{R}^{3}$.\n\n(iii) The set $\\left\\{\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right]\\right\\}$ is a basis for $\\mathbb{R}^{3}$.\n\n(iv) The function $T: \\mathbb{R}^{3} \\longrightarrow \\mathbb{R}^{3}$ defined by $T\\left(\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]\\right)=\\left[\\begin{array}{c}x+y \\\\ x-y \\\\ z\\end{array}\\right]$ is a linear transformation.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7003d6f7-b732-4ebe-9c3b-abf7ab3718be",
+        "index": 0,
+        "body": "(iv) only",
+        "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "a67ce979-26e3-490b-b087-b48c3bcf2887",
+        "index": 1,
+        "body": "(i) and (iii)",
+        "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+        "stats": {
+          "count": 566
+        },
+        "resources": []
+      },
+      {
+        "id": "f018e535-e759-4d14-aacc-d8db6e6dd969",
+        "index": 2,
+        "body": "(ii) and (iv)",
+        "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "138afa62-8188-429a-91f5-8eb8c7256403",
+        "index": 3,
+        "body": "(iii) and (iv)",
+        "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+        "stats": {
+          "count": 2422
+        },
+        "resources": []
+      },
+      {
+        "id": "a30ac288-821e-4d16-a1ec-7795c93f17a5",
+        "index": 4,
+        "body": "(ii), (iii), and (iv)",
+        "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+        "stats": {
+          "count": 629
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "717914566",
+    "timeSpentVideo": "203470500",
+    "submissions": 4253,
+    "submissionsCorrect": 2422,
+    "accuracy": 0.569480366799906,
+    "difficulty": 0.6821157822191593
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "b70dbd08-9446-477b-9cc2-09229a4a532e",
+    "body": "",
+    "questionId": "6d44f300-c16f-4f86-a0e4-3a385464c84b",
+    "resources": [
+      {
+        "id": "a4d2c1d4-6b5c-4f3f-ae1c-4778f5ad0662",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=1556\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b70dbd08-9446-477b-9cc2-09229a4a532e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the following double integral by changing the order of integration:\n\n\n\\[\n\\int_{0}^{4} \\int_{\\sqrt{x}}^{2} y \\cos \\left(y^{4}\\right) d y d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "fb64937a-b5e9-4654-af34-fded6b98a9b2",
+        "index": 0,
+        "body": "$\\frac{\\sin 16}{4}$",
+        "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+        "stats": {
+          "count": 1451
+        },
+        "resources": []
+      },
+      {
+        "id": "1320cd3e-0ad5-42e3-b0ee-ed93c4fdc287",
+        "index": 1,
+        "body": "$\\frac{8 \\sin 16}{3}$",
+        "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "33bcb6e3-87cb-4d97-9956-459f185e2971",
+        "index": 2,
+        "body": "$2 \\sin 16$",
+        "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "ab959e77-eadb-48a7-8554-f3a50277d5a4",
+        "index": 3,
+        "body": "$\\frac{3 \\sin 16}{4}$",
+        "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "83745c0f-f3ce-414a-8540-d3aae060ab3d",
+        "index": 4,
+        "body": "$\\frac{\\sin 16}{8}$",
+        "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "412950032",
+    "timeSpentVideo": "40625695",
+    "submissions": 1838,
+    "submissionsCorrect": 1451,
+    "accuracy": 0.7894450489662677,
+    "difficulty": 0.47549019607843135
+  },
+  "resources": [],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "98ca689c-bee1-4030-9fc0-10a5c1f9d097",
+    "body": "The video explanation initially writes an incorrect set of bounds, it should be listed as $0\\leq x \\leq 2$. This does not impact the final solution and was a temporary typo.",
+    "questionId": "e8a1aacf-192f-40f7-8144-05a8ba61de6e",
+    "resources": [
+      {
+        "id": "17d78b26-71a4-4b7a-9d6d-2e8a000ebbc4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=119"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "98ca689c-bee1-4030-9fc0-10a5c1f9d097",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

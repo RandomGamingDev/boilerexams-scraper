@@ -1,0 +1,82 @@
+{
+  "id": "70330394-96f1-42a2-bce7-37eb23cc5cfd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We run DFS on a simple undirected graph $G$ starting at node $v$. Assume $G$ is connected. Which of the following claims are necessarily true? Give a brief, but precise, explanation.\n\nIf $v$ is an articulation point then $v$ will have at least 2 children in the DFS tree.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d064b19c-1417-41a7-96b3-0db259bd83f6",
+        "index": 0,
+        "body": "True",
+        "questionId": "70330394-96f1-42a2-bce7-37eb23cc5cfd",
+        "stats": {
+          "count": 738
+        },
+        "resources": []
+      },
+      {
+        "id": "fa0f97fb-6845-4929-89a6-459c229bfd4a",
+        "index": 1,
+        "body": "False",
+        "questionId": "70330394-96f1-42a2-bce7-37eb23cc5cfd",
+        "stats": {
+          "count": 219
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "120909190",
+    "timeSpentVideo": "0",
+    "submissions": 976,
+    "submissionsCorrect": 738,
+    "accuracy": 0.7561475409836066,
+    "difficulty": 0.5176579925650557
+  },
+  "resources": [],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "7754ce3d-6c5f-454d-849f-671fa40066b7",
+    "body": "",
+    "questionId": "70330394-96f1-42a2-bce7-37eb23cc5cfd",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

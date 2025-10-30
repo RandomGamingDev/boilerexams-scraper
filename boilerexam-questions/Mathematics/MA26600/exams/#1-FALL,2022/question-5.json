@@ -1,0 +1,128 @@
+{
+  "id": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve a homogeneous equation by using a substitution $v=y / x$.\n\n\n\\[\n\\frac{d y}{d x}=\\frac{x^{2}+3 y^{2}}{2 x y}, \\quad x>0\n\\]\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ed89e7b9-86f1-482d-ab2e-4c8d8a2a77c6",
+        "index": 0,
+        "body": "$x^{2}+3 y^{2}=C x^{5}$",
+        "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "4eef304d-829b-47d5-9aa0-ce45209f73d3",
+        "index": 1,
+        "body": "$x^{2}+3 y^{2}=C x^{2} e^{3 x}$",
+        "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "d35ae528-9136-4797-bdc0-4c14fd037d20",
+        "index": 2,
+        "body": "$1+y^{2}=C x$",
+        "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "4671ab75-fc61-4ef5-8c08-ea639a6d7e2e",
+        "index": 3,
+        "body": "$x^{2}+y^{2}=C x^{3}$",
+        "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+        "stats": {
+          "count": 1329
+        },
+        "resources": []
+      },
+      {
+        "id": "d27453b0-59dc-4e8a-a08b-c35cfe971f29",
+        "index": 4,
+        "body": "$1+3 y^{2}=C e^{3 x}$",
+        "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "842968568",
+    "timeSpentVideo": "0",
+    "submissions": 1679,
+    "submissionsCorrect": 1328,
+    "accuracy": 0.790946992257296,
+    "difficulty": 0.475407532321529
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3954427074",
+      "timeSpentVideo": "0",
+      "submissions": 13844,
+      "submissionsCorrect": 11189,
+      "questions": 10,
+      "accuracy": 0.8082201675816238,
+      "difficulty": 0.4439902467010901
+    }
+  },
+  "explanation": {
+    "id": "e8e9d716-3207-496d-b43f-adab07b8ec92",
+    "body": "",
+    "questionId": "70734dd7-90e4-49c8-aa7e-3b24f0f2f640",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "06a9b3f8-81e6-463a-bca0-10d82a5a603e",
+      "name": "V equals y over x Substitution",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3882193550",
+        "timeSpentVideo": "34886925",
+        "submissions": 4372,
+        "submissionsCorrect": 3299,
+        "questions": 3,
+        "accuracy": 0.7545745654162854,
+        "difficulty": 0.5011180679785331
+      }
+    }
+  ],
+  "children": []
+}

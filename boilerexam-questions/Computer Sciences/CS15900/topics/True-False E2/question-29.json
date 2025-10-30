@@ -1,0 +1,133 @@
+{
+  "id": "093f77d4-bab2-400e-8df2-5354e4a47001",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the usage of the <font style=\"font-family:'Courier New'\">srand</font> and <font style=\"font-family:'Courier New'\">rand</font> functions is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "676a5e93-e12a-46cd-9987-fee0de77f160",
+        "index": 0,
+        "body": "The parameters to the <font style=\"font-family:'Courier New'\">rand</font> function limits the range of possible random numbers generated.",
+        "questionId": "093f77d4-bab2-400e-8df2-5354e4a47001",
+        "stats": {
+          "count": 2256
+        },
+        "resources": []
+      },
+      {
+        "id": "0895cac2-c985-4f27-bb53-ed27c0cd88d6",
+        "index": 1,
+        "body": "The parameter to the <font style=\"font-family:'Courier New'\">srand</font> function causes the program to generate a sequence of random numbers that is consistent\nbetween multiple executions of the program.",
+        "questionId": "093f77d4-bab2-400e-8df2-5354e4a47001",
+        "stats": {
+          "count": 547
+        },
+        "resources": []
+      },
+      {
+        "id": "81fde1e0-49d2-416d-83cb-9d515749a0ca",
+        "index": 2,
+        "body": "The <font style=\"font-family:'Courier New'\">rand</font> function returns an integer, whereas <font style=\"font-family:'Courier New'\">srand</font> is a void function.",
+        "questionId": "093f77d4-bab2-400e-8df2-5354e4a47001",
+        "stats": {
+          "count": 562
+        },
+        "resources": []
+      },
+      {
+        "id": "107a5bbf-27e9-4dd7-86e6-c3cba519998d",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "093f77d4-bab2-400e-8df2-5354e4a47001",
+        "stats": {
+          "count": 486
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "267666602",
+    "timeSpentVideo": "39896242",
+    "submissions": 3990,
+    "submissionsCorrect": 2256,
+    "accuracy": 0.5654135338345865,
+    "difficulty": 0.6861858190709046
+  },
+  "resources": [],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "e27191e4-e39c-42e9-a370-154fa925d40f",
+    "body": "",
+    "questionId": "093f77d4-bab2-400e-8df2-5354e4a47001",
+    "resources": [
+      {
+        "id": "4409d903-8ebf-408f-837a-50a78b7307b6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3981"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e27191e4-e39c-42e9-a370-154fa925d40f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

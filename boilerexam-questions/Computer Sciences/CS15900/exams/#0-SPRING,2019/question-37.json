@@ -1,0 +1,133 @@
+{
+  "id": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding type conversions is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "bab71c4b-c13b-4c32-8767-56bf143e4aac",
+        "index": 0,
+        "body": "When the data types of two operands for the division operator are different, the lower-ranked type is\npromoted to the rank of the higher type.",
+        "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+        "stats": {
+          "count": 414
+        },
+        "resources": []
+      },
+      {
+        "id": "6b64cbc5-fcf7-4a66-bc24-413fade7bdd1",
+        "index": 1,
+        "body": "In an assignment statement, promotion occurs if the right expression has a lower rank than the variable\non the left and demotion occurs if the right expression has a higher rank.",
+        "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+        "stats": {
+          "count": 688
+        },
+        "resources": []
+      },
+      {
+        "id": "07c80387-0ec7-462b-bf79-a8460e7b6c10",
+        "index": 2,
+        "body": "An explicit type conversion is the programmer taking control and specifying the data type of an operand\nin an expression.",
+        "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "39da826a-abed-4588-aeb9-fb00ebc40de2",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+        "stats": {
+          "count": 1693
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 37,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "250082468",
+    "timeSpentVideo": "0",
+    "submissions": 2925,
+    "submissionsCorrect": 1693,
+    "accuracy": 0.5788034188034188,
+    "difficulty": 0.673801652892562
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "c027c2f6-f86f-488d-9151-a5277edf6fb4",
+    "body": "",
+    "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

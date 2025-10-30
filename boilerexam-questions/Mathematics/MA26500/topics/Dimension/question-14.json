@@ -1,0 +1,158 @@
+{
+  "id": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbb{M}_{3 \\times 3}$ be the space of $3 \\times 3$ matrices. Let $H$ be the subspace of $\\mathbb{M}_{3 \\times 3}$ consisting of all matrices $A=\\left[\\begin{array}{lll}a & b & c \\\\ d & e & f \\\\ g & h & i\\end{array}\\right]$ such that $A\\left[\\begin{array}{r}1 \\\\ -2 \\\\ 0\\end{array}\\right]=\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right]$. What is the dimension of $H$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0ecfc464-c261-4e1d-aeed-072544fbfb32",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+        "stats": {
+          "count": 326
+        },
+        "resources": []
+      },
+      {
+        "id": "36f2651f-9876-446f-90fa-1bf34dbec50a",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+        "stats": {
+          "count": 739
+        },
+        "resources": []
+      },
+      {
+        "id": "cfb0dda2-dabe-4c5e-ac7a-dac19114d1d7",
+        "index": 2,
+        "body": "$6$",
+        "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+        "stats": {
+          "count": 1067
+        },
+        "resources": []
+      },
+      {
+        "id": "f8cce763-1cc1-48dc-a711-a5bf2f7a7bef",
+        "index": 3,
+        "body": "$8$",
+        "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "2320fe6e-28af-4eaf-beb6-4cc45693853f",
+        "index": 4,
+        "body": "$9$",
+        "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "328908668",
+    "timeSpentVideo": "153211363",
+    "submissions": 2615,
+    "submissionsCorrect": 1067,
+    "accuracy": 0.4080305927342256,
+    "difficulty": 0.8385819521178637
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "576ce49e-56ce-4821-a8e2-9bc4659046d6",
+    "body": "",
+    "questionId": "d7ce17a3-edf0-47aa-9ee5-82029d70a030",
+    "resources": [
+      {
+        "id": "f121bcea-e81f-4c8c-a043-3adf4be2353b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=8_KJmI5MgPU"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "576ce49e-56ce-4821-a8e2-9bc4659046d6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "fb4e167d-626c-44d4-b679-a998679a5b12",
+      "name": "Dimension",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16628702850",
+        "timeSpentVideo": "2214638998",
+        "submissions": 46184,
+        "submissionsCorrect": 27923,
+        "questions": 12,
+        "accuracy": 0.6046033258271263,
+        "difficulty": 0.645622677383113
+      }
+    }
+  ],
+  "children": []
+}

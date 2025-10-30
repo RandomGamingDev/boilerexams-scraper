@@ -1,0 +1,143 @@
+{
+  "id": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Convert the integral to cylindrical coordinates and evaluate\n\\[\n\\int_{0}^{10} \\int_{0}^{\\sqrt{100-x^{2}}} \\int_{0}^{\\sqrt{x^{2}+y^{2}}} \\frac{1}{\\sqrt{x^{2}+y^{2}}} \\, dz \\, dy \\, dx\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "78525597-3370-424c-80bc-0ed59ca750fe",
+        "index": 0,
+        "body": "$5 \\pi$",
+        "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "d7a99664-4b51-41b2-87a0-0dfbaccc750a",
+        "index": 1,
+        "body": "$10 \\pi$",
+        "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "51c87a70-2ab0-4dd2-9702-c62d600f3613",
+        "index": 2,
+        "body": "$20 \\pi$",
+        "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+        "stats": {
+          "count": 207
+        },
+        "resources": []
+      },
+      {
+        "id": "1f1faddb-38ca-4fde-866b-ff005adaea3c",
+        "index": 3,
+        "body": "$25 \\pi$",
+        "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+        "stats": {
+          "count": 3143
+        },
+        "resources": []
+      },
+      {
+        "id": "4fcfab5a-4856-449c-9cc2-07eff9f3d828",
+        "index": 4,
+        "body": "$30 \\pi$",
+        "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1095134613",
+    "timeSpentVideo": "178981095",
+    "submissions": 4814,
+    "submissionsCorrect": 3143,
+    "accuracy": 0.6528874117158289,
+    "difficulty": 0.6002238502238503
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "04cb65cd-cb43-4fdc-bd95-ae49ebeada17",
+    "body": "",
+    "questionId": "71bc5506-73d0-4235-8bc1-c17d3a72d032",
+    "resources": [
+      {
+        "id": "23b62739-9edc-4d37-948c-3bdb25dc9c1f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=YxAungRSRlWZXow3&t=1772"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "04cb65cd-cb43-4fdc-bd95-ae49ebeada17",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

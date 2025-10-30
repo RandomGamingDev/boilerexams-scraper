@@ -1,0 +1,143 @@
+{
+  "id": "8d711c2a-8771-495b-8722-20a315b92355",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $R^{3}$ be the real vector space of all $n \\times 1$ real vectors and $M_{22}$ be the real vector space of all $2 \\times 2$ real matrices. Let $L: R^{3} \\rightarrow M_{22}$ be a linear transformation that satisfies\n\n\n\\[\nL\\left(\\left[\\begin{array}{l}\n1 \\\\\n0 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{ll}\n2 & 1 \\\\\n3 & 0\n\\end{array}\\right], \\quad L\\left(\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n1\n\\end{array}\\right]\\right)=\\left[\\begin{array}{ll}\n1 & 0 \\\\\n0 & 1\n\\end{array}\\right], \\quad L\\left(\\left[\\begin{array}{l}\n1 \\\\\n1 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{cc}\n-1 & 0 \\\\\n1 & 0\n\\end{array}\\right] .\n\\]\n\nWhat is $L\\left(\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 2\\end{array}\\right]\\right)$ equal to?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c25f8871-6141-49be-86d7-f51076a21707",
+        "index": 0,
+        "body": "$\\quad\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 2\\end{array}\\right]$",
+        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "0dc79bfd-301c-4092-86aa-58831d7aa81d",
+        "index": 1,
+        "body": "$\\quad\\left[\\begin{array}{ll}5 & 1 \\\\ 2 & 2\\end{array}\\right]$",
+        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "stats": {
+          "count": 727
+        },
+        "resources": []
+      },
+      {
+        "id": "d72f8b8a-3a31-4770-8c52-8112fac3bf7a",
+        "index": 2,
+        "body": "$\\quad\\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right]$",
+        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "318b3180-8aa4-4171-9780-459d4239ef71",
+        "index": 3,
+        "body": "$\\quad\\left[\\begin{array}{cc}-1 & 0 \\\\ 2 & 1\\end{array}\\right]$",
+        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "1dfccb75-43e6-49b4-8ae6-cc1237658d0c",
+        "index": 4,
+        "body": "$\\quad\\left[\\begin{array}{ll}-5 & -1 \\\\ -2 & -2\\end{array}\\right]$",
+        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "201147613",
+    "timeSpentVideo": "22079961",
+    "submissions": 980,
+    "submissionsCorrect": 727,
+    "accuracy": 0.7418367346938776,
+    "difficulty": 0.5305555555555556
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "8d7f84b0-d459-4dd5-9a9c-1fd0b35bba74",
+    "body": "",
+    "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+    "resources": [
+      {
+        "id": "1b9fa85c-7834-41cb-aa6b-84829251b099",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1qA9exO23-k?t=2262\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8d7f84b0-d459-4dd5-9a9c-1fd0b35bba74",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

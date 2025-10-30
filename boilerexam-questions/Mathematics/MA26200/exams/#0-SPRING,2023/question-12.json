@@ -1,0 +1,128 @@
+{
+  "id": "b95a2fb6-6a40-458d-8887-8badb526d710",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the homogeneous differential equation\n\n\n\\[\n(D-1)^{2}\\left(D^{2}-2 D+2\\right) y=0 \\text {. }\n\\]\n\nNote: The Characteristic equation is $(r-1)^{2}\\left(r^{2}-2 r+2\\right)=0$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "6b6ef368-2934-4f61-be36-77f782a3889e",
+        "index": 0,
+        "body": "$y=C_{1} e^{x}+C_{2} x e^{x}+C_{3} \\cos x+C_{4} \\sin x$",
+        "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "43733085-9ddb-4c4b-811e-8c4cfb523450",
+        "index": 1,
+        "body": "$y=C_{1} e^{x}+C_{2} e^{x} \\cos x+C_{3} e^{x} \\sin x$",
+        "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "c3275608-487a-4b73-9550-3fc128903dfd",
+        "index": 2,
+        "body": "$y=C_{1} e^{x}+C_{2} e^{x}+C_{3} \\cos x+C_{4} \\sin x$",
+        "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "5e688e7b-db08-49b9-bdab-bc0626d871a3",
+        "index": 3,
+        "body": "$y=C_{1} e^{x}+C_{2} x e^{x}+C_{3} e^{x} \\cos 2 x+C_{4} e^{x} \\sin 2 x$",
+        "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "4d2b5aa9-5ea2-4da8-a45d-fbce461a454e",
+        "index": 4,
+        "body": "$y=C_{1} e^{x}+C_{2} x e^{x}+C_{3} e^{x} \\cos x+C_{4} e^{x} \\sin x$",
+        "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "57205444",
+    "timeSpentVideo": "0",
+    "submissions": 343,
+    "submissionsCorrect": 260,
+    "accuracy": 0.7580174927113703,
+    "difficulty": 0.5502257336343115
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "8b0c4b17-f294-4235-99c3-c7b777b99c50",
+    "body": "",
+    "questionId": "b95a2fb6-6a40-458d-8887-8badb526d710",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0319c3c3-8269-4637-9189-12380f165495",
+      "name": "Characterization",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1198107393",
+        "timeSpentVideo": "69856422",
+        "submissions": 3254,
+        "submissionsCorrect": 2223,
+        "questions": 6,
+        "accuracy": 0.683159188690842,
+        "difficulty": 0.5723017292784734
+      }
+    }
+  ],
+  "children": []
+}

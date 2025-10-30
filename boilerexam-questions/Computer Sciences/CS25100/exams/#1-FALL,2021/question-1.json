@@ -1,0 +1,144 @@
+{
+  "id": "de56a082-6da4-4644-96ca-08462f6e7858",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Amy developed an algorithm and ran several experiments on it to analyze its runtime. She collected the following data:\nAssuming we can use the Power Law $T(n)=an^b$ to describe a runtime expression of the algorithm, the value of $b$ is:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f29663d3-e60c-462f-875f-6c46540cfa25",
+        "index": 0,
+        "body": "2.5",
+        "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "1be13c1f-e074-4da2-88ec-2b2018ceb40c",
+        "index": 1,
+        "body": "2.99",
+        "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "082adad8-4ccb-4b63-96ed-05a3279acce1",
+        "index": 2,
+        "body": "1.58",
+        "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+        "stats": {
+          "count": 578
+        },
+        "resources": []
+      },
+      {
+        "id": "ad41fc8d-4dff-40b6-b5a3-c0377aab1463",
+        "index": 3,
+        "body": "3.13",
+        "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "b8b2f672-2fe0-48d3-b716-a4bffb5449de",
+        "index": 4,
+        "body": "3.01",
+        "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "211801819",
+    "timeSpentVideo": "0",
+    "submissions": 938,
+    "submissionsCorrect": 578,
+    "accuracy": 0.6162046908315565,
+    "difficulty": 0.644990366088632
+  },
+  "resources": [
+    {
+      "id": "79512109-9c94-40b2-ae9c-f0e60188dc25",
+      "type": "IMAGE",
+      "data": {
+        "key": "kXCOtgT3GPvoMgSraypE7",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/kXCOtgT3GPvoMgSraypE7"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "02afde09-3679-45bf-940f-300db60e97a1",
+    "body": null,
+    "questionId": "de56a082-6da4-4644-96ca-08462f6e7858",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9497f217-0b8b-480c-8ff8-e1ed96c6623b",
+      "name": "Power Law",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1967928710",
+        "timeSpentVideo": "59718052",
+        "submissions": 4108,
+        "submissionsCorrect": 2611,
+        "questions": 4,
+        "accuracy": 0.6355890944498539,
+        "difficulty": 0.6176330798479087
+      }
+    }
+  ],
+  "children": []
+}

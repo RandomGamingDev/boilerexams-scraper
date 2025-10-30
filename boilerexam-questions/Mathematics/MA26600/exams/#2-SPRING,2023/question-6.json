@@ -1,0 +1,143 @@
+{
+  "id": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the given values of the parameter $\\alpha$ below, which value makes the origin a spiral source in the following system?\n\n$$\n\\mathbf{x}' = \\left[ \\begin{matrix} 1 & \\alpha \\\\ 4 & 9 \\end{matrix} \\right] \\mathbf{x}\n$$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "697c6994-60f9-460c-ada7-e0b7d0fc9479",
+        "index": 0,
+        "body": "\\(\\alpha = 0\\)",
+        "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "5ec927a6-0768-49e7-a4f8-828aea17a554",
+        "index": 1,
+        "body": "\\(\\alpha = -4\\)",
+        "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "6e0dbe5e-9cec-48aa-b20f-16e63aed284c",
+        "index": 2,
+        "body": "\\(\\alpha = 4\\)",
+        "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "8371c213-a924-4813-bece-28cd2883ad28",
+        "index": 3,
+        "body": "\\(\\alpha = -10\\)",
+        "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+        "stats": {
+          "count": 337
+        },
+        "resources": []
+      },
+      {
+        "id": "ffd330df-55d5-4874-bc2e-e784d9a179d1",
+        "index": 4,
+        "body": "\\(\\alpha = 10\\)",
+        "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "110294887",
+    "timeSpentVideo": "8400940",
+    "submissions": 564,
+    "submissionsCorrect": 337,
+    "accuracy": 0.5975177304964538,
+    "difficulty": 0.6671686746987951
+  },
+  "resources": [],
+  "exam": {
+    "id": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1365441067",
+      "timeSpentVideo": "306856488",
+      "submissions": 6299,
+      "submissionsCorrect": 3282,
+      "questions": 10,
+      "accuracy": 0.5210350849341165,
+      "difficulty": 0.7292936396311924
+    }
+  },
+  "explanation": {
+    "id": "81565ff8-793f-425d-a5d6-d551dcc3e807",
+    "body": null,
+    "questionId": "f793dfa0-1c90-4bbe-b4eb-161e08355d8b",
+    "resources": [
+      {
+        "id": "2c5faa19-d39c-4738-8171-5a498e65ff48",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lizUKYezcSc?si=sFQMZgHKU9qk8IA6&t=1913"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "81565ff8-793f-425d-a5d6-d551dcc3e807",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

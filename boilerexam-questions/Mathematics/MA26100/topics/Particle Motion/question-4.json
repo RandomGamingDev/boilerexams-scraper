@@ -1,0 +1,143 @@
+{
+  "id": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particle moves with acceleration $\\mathbf{a}(t)=e^{t} \\mathbf{k}$ and initial velocity and position given by $\\mathbf{v}(0)=\\mathbf{0}$ and $\\mathbf{r}(0)=\\mathbf{j}+\\mathbf{k}$, respectively. Where is the particle at time $t=2$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2568128f-d460-46a6-97cc-251bec717b0b",
+        "index": 0,
+        "body": "$\\left(0,1, e^{2}-2\\right)$",
+        "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+        "stats": {
+          "count": 2024
+        },
+        "resources": []
+      },
+      {
+        "id": "a3fae93b-0ac5-47ba-bb1a-cb1974f48b62",
+        "index": 1,
+        "body": "$\\left(0,1, e^{2}\\right)$",
+        "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+        "stats": {
+          "count": 477
+        },
+        "resources": []
+      },
+      {
+        "id": "89f4c1a0-3e57-494e-a4cc-cefdfe012171",
+        "index": 2,
+        "body": "$(0,1, e-1)$",
+        "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "a3946a21-251f-4ce3-8762-2ee348922163",
+        "index": 3,
+        "body": "$\\left(1,1, e^{2}-2\\right)$",
+        "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "f7f1fd5a-dbf7-4fab-9cc7-c55ce0caed63",
+        "index": 4,
+        "body": "$\\left(1,1, e^{2}\\right)$",
+        "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "746610949",
+    "timeSpentVideo": "97607891",
+    "submissions": 3256,
+    "submissionsCorrect": 2023,
+    "accuracy": 0.6213144963144963,
+    "difficulty": 0.632300357568534
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "ccd5c442-11f7-4aa2-b945-fb1709de8cbd",
+    "body": "",
+    "questionId": "b79fc582-1776-4dc5-b0de-440ae87cce8e",
+    "resources": [
+      {
+        "id": "510de2cb-9393-4d6a-9517-1d6aa3b06635",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=532"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ccd5c442-11f7-4aa2-b945-fb1709de8cbd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+      "name": "Particle Motion",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27632325273",
+        "timeSpentVideo": "1513879566",
+        "submissions": 59316,
+        "submissionsCorrect": 39641,
+        "questions": 15,
+        "accuracy": 0.6683019758581159,
+        "difficulty": 0.5819812845024909
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "e380997f-d384-4261-a32a-eef80734be36",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The partial fraction decomposition of $\\frac{1}{x+x^{3}}$ is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "82b67d22-cab3-4fdb-aacf-a3b2e66cb723",
+        "index": 0,
+        "body": "$\\frac{1}{x^{3}}-\\frac{1}{x}$",
+        "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "94a68337-58d8-4b3c-9023-3247abbf9ee1",
+        "index": 1,
+        "body": "$\\frac{1}{x^{3}}+\\frac{1}{2 x^{2}}-\\frac{1}{x}$",
+        "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "bb0877ea-1390-403a-8b9d-f2e61d6a1c07",
+        "index": 2,
+        "body": "$\\frac{1}{x}-\\frac{x}{x^{2}+1}$",
+        "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+        "stats": {
+          "count": 2330
+        },
+        "resources": []
+      },
+      {
+        "id": "97cfd1b1-ad5f-4ac6-b65b-a0e15faa253b",
+        "index": 3,
+        "body": "$\\frac{2}{1+x^{2}}-\\frac{3}{x}$",
+        "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "67f01f68-c183-4bd0-809c-5a07c511444a",
+        "index": 4,
+        "body": "$\\frac{1}{x}-\\frac{2}{x^{2}}+\\frac{3}{1+x^{2}}$",
+        "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "427765671",
+    "timeSpentVideo": "35344631",
+    "submissions": 3004,
+    "submissionsCorrect": 2330,
+    "accuracy": 0.7756324900133156,
+    "difficulty": 0.4832474226804123
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340608004",
+      "timeSpentVideo": "804826486",
+      "submissions": 39510,
+      "submissionsCorrect": 24591,
+      "questions": 12,
+      "accuracy": 0.6223993925588459,
+      "difficulty": 0.6279096187831356
+    }
+  },
+  "explanation": {
+    "id": "91b89133-26db-4e27-9b36-bc81156d823a",
+    "body": "",
+    "questionId": "e380997f-d384-4261-a32a-eef80734be36",
+    "resources": [
+      {
+        "id": "96a6249d-1c1f-4cf5-8b17-cfec7d916a40",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=386"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "91b89133-26db-4e27-9b36-bc81156d823a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182337043",
+        "timeSpentVideo": "951958617",
+        "submissions": 36368,
+        "submissionsCorrect": 22498,
+        "questions": 15,
+        "accuracy": 0.618620765508139,
+        "difficulty": 0.6317045080618624
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine whether Rolle's Theorem applies to the function $f(x)=-\\sin (4 x)$ on the interval $\\left[\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right]$. If so, find the $x$-value(s) where horizontal tangent lines are guaranteed to exist.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3cbaf1e7-aa79-43a1-a526-ae9491d33e0e",
+        "index": 0,
+        "body": "Rolle's Theorem does not apply because the function is not continuous on $\\left[\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right]$",
+        "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "9e8d2e52-ab3e-4117-b753-cb0a45fdd835",
+        "index": 1,
+        "body": "Rolle's Theorem does not apply because the function is not differentiable on $\\left(\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right)$",
+        "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "f5894b25-12d1-4a3d-8022-3b67356010bb",
+        "index": 2,
+        "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{3 \\pi}{8}$",
+        "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+        "stats": {
+          "count": 498
+        },
+        "resources": []
+      },
+      {
+        "id": "5b277c49-6ba7-4f92-86fa-b08680d87d18",
+        "index": 3,
+        "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{\\pi}{6}$",
+        "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "848885ee-b11a-41e0-96c4-e0a74b802b16",
+        "index": 4,
+        "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{\\pi}{6}$ and $x=\\frac{3 \\pi}{8}$",
+        "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "6d1215ed-14c7-4689-857d-2799befb98e1",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "152576397",
+    "timeSpentVideo": "33126594",
+    "submissions": 851,
+    "submissionsCorrect": 498,
+    "accuracy": 0.5851938895417156,
+    "difficulty": 0.673764458464774
+  },
+  "resources": [],
+  "exam": {
+    "id": "6d1215ed-14c7-4689-857d-2799befb98e1",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1787802580",
+      "timeSpentVideo": "384188691",
+      "submissions": 11829,
+      "submissionsCorrect": 7580,
+      "questions": 12,
+      "accuracy": 0.6407980387184039,
+      "difficulty": 0.610382261715148
+    }
+  },
+  "explanation": {
+    "id": "474b340f-1b2e-4abb-b54e-bdf789cebff1",
+    "body": "",
+    "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
+    "resources": [
+      {
+        "id": "237cab98-0751-4ebd-b858-6d2b7fc9ae38",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pylbivuLRNY?t=1113"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "474b340f-1b2e-4abb-b54e-bdf789cebff1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34940ec6-d9a9-4c21-9082-d0edad149780",
+      "name": "Rolles Theorem",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "645650632",
+        "timeSpentVideo": "92816782",
+        "submissions": 2063,
+        "submissionsCorrect": 1115,
+        "questions": 2,
+        "accuracy": 0.5404750363548231,
+        "difficulty": 0.7113962089690246
+      }
+    }
+  ],
+  "children": []
+}

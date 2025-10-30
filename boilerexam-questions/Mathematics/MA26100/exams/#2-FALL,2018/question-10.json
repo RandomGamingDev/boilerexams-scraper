@@ -1,0 +1,143 @@
+{
+  "id": "9371560e-4f6e-4400-99e3-2b909a71b351",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral\n\n\n\n\\[\n\\iiint_{E} 6 e^{\\left(x^{2}+y^{2}+z^{2}\\right)^{3 / 2}} d V\n\\]\n\nwhere $E$ is the solid region bounded by the sphere $x^{2}+y^{2}+z^{2}=2$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "86981812-9249-4d65-b826-e2b33cf6ab11",
+        "index": 0,
+        "body": "$8 \\pi\\left(e^{8}-1\\right)$",
+        "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      },
+      {
+        "id": "5ba98b0d-486e-40ed-92cb-6aee6218c4c7",
+        "index": 1,
+        "body": "$4 \\pi\\left(e^{2 \\sqrt{2}}-1\\right)$",
+        "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+        "stats": {
+          "count": 594
+        },
+        "resources": []
+      },
+      {
+        "id": "c3115323-450b-46e5-92ff-a950c1a49065",
+        "index": 2,
+        "body": "$3 \\pi\\left(e^{4}-1\\right)$",
+        "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "493fe3ca-2f46-4d39-8dcb-dc09613704e2",
+        "index": 3,
+        "body": "$8 \\pi\\left(e^{2 \\sqrt{2}}-1\\right)$",
+        "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+        "stats": {
+          "count": 2142
+        },
+        "resources": []
+      },
+      {
+        "id": "765c99c4-1d97-4b74-8ce3-6bef002c6171",
+        "index": 4,
+        "body": "$4 \\pi\\left(e^{8}-1\\right)$",
+        "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1044817209",
+    "timeSpentVideo": "330438848",
+    "submissions": 4442,
+    "submissionsCorrect": 2142,
+    "accuracy": 0.48221521837010356,
+    "difficulty": 0.7673932188463233
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "0a45fc78-f047-4510-8b50-608a36d2ae62",
+    "body": "",
+    "questionId": "9371560e-4f6e-4400-99e3-2b909a71b351",
+    "resources": [
+      {
+        "id": "93ac5a4e-b962-4a77-acde-2e25682078b0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=2024"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0a45fc78-f047-4510-8b50-608a36d2ae62",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe98730e-b232-4fb3-95e2-f2a219718e24",
+      "name": "Spherical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16366452649",
+        "timeSpentVideo": "2568706851",
+        "submissions": 35157,
+        "submissionsCorrect": 18862,
+        "questions": 8,
+        "accuracy": 0.5365076656142447,
+        "difficulty": 0.7135958816688884
+      }
+    }
+  ],
+  "children": []
+}

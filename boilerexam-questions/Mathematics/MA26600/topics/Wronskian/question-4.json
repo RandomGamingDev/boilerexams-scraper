@@ -1,0 +1,128 @@
+{
+  "id": "12cfd942-657e-4b63-9196-6479da87792b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y_{1}=e^{3 t}$ and $y_{2}=t e^{3 t}$. Which of the following statements is true about $W\\left(y_{1}, y_{2}\\right)$, the Wronskian of $y_{1}$ and $y_{2}$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a524c6d7-910b-4147-b613-244198750f26",
+        "index": 0,
+        "body": "$W\\left(y_{1}, y_{2}\\right)=e^{6 t}$, therefore $y_{1}$ and $y_{2}$ are linearly dependent.",
+        "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "3e1c3e7b-83e1-4034-a354-45699e061e13",
+        "index": 1,
+        "body": "$W\\left(y_{1}, y_{2}\\right)=0$, therefore $y_{1}$ and $y_{2}$ are linearly independent.",
+        "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "756c1932-62e4-4c45-8fb7-8e278ec1d4ba",
+        "index": 2,
+        "body": "$W\\left(y_{1}, y_{2}\\right)=0$, therefore $y_{1}$ and $y_{2}$ are linearly dependent.",
+        "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "e6ebc2d7-89dc-46ce-af7a-a4982b9e83b1",
+        "index": 3,
+        "body": "$W\\left(y_{1}, y_{2}\\right)=e^{6 t}$, therefore $y_{1}$ and $y_{2}$ are linearly independent.",
+        "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+        "stats": {
+          "count": 628
+        },
+        "resources": []
+      },
+      {
+        "id": "95f9d1c8-9a07-4ac0-8539-7eb2ef8c7f25",
+        "index": 4,
+        "body": "$W\\left(y_{1}, y_{2}\\right)=t e^{3 t}$, therefore $y_{1}$ and $y_{2}$ are linearly independent.",
+        "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "108868383",
+    "timeSpentVideo": "0",
+    "submissions": 902,
+    "submissionsCorrect": 627,
+    "accuracy": 0.6951219512195121,
+    "difficulty": 0.5743512974051896
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "d2eed775-ca9d-4e65-8218-6f97a2a619b7",
+    "body": "",
+    "questionId": "12cfd942-657e-4b63-9196-6479da87792b",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "01e06b91-18fe-4c84-91c8-3c31284c54cc",
+      "name": "Wronskian",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3865909676",
+        "timeSpentVideo": "107031537",
+        "submissions": 6559,
+        "submissionsCorrect": 4363,
+        "questions": 5,
+        "accuracy": 0.6651928647659704,
+        "difficulty": 0.5872878810632227
+      }
+    }
+  ],
+  "children": []
+}

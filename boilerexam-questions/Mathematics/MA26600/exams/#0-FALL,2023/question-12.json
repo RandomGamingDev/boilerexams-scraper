@@ -1,0 +1,143 @@
+{
+  "id": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear system\n\\[\n    \\textbf{x} ' = \\begin{bmatrix} 4 & 1 \\\\ 6 & -1 \\end{bmatrix} \\textbf{x}\n\\]\nWhat is the phase portrait at the origin?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "42b0ce4c-108a-4274-abc6-6254ad0dd375",
+        "index": 0,
+        "body": "Saddle Point",
+        "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+        "stats": {
+          "count": 486
+        },
+        "resources": []
+      },
+      {
+        "id": "69843ef6-bff5-442f-ab4c-e3347a1ec432",
+        "index": 1,
+        "body": "Spiral Sink",
+        "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "56fe31f7-e22f-4ff2-9a62-fba805f16b53",
+        "index": 2,
+        "body": "Spiral Source",
+        "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "d2436520-26b4-4251-a735-f11817e2c5e1",
+        "index": 3,
+        "body": "Nodal Source",
+        "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "20bc3df6-c82c-4847-add2-50127d03ce0d",
+        "index": 4,
+        "body": "Center",
+        "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "79500058",
+    "timeSpentVideo": "4009828",
+    "submissions": 618,
+    "submissionsCorrect": 486,
+    "accuracy": 0.7864077669902912,
+    "difficulty": 0.5034818941504178
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "bd9d292a-f8e1-4104-9ff3-f6a745d0908c",
+    "body": null,
+    "questionId": "2f407027-a925-417a-98e7-60cca0d2cf1a",
+    "resources": [
+      {
+        "id": "65b4d1d8-1d08-4e47-8247-cf44149b8bd9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=T9ZlN1GwEXizLm5I&t=2201"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bd9d292a-f8e1-4104-9ff3-f6a745d0908c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

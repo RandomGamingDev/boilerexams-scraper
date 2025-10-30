@@ -1,0 +1,138 @@
+{
+  "id": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x)=32 x$ and $g(x)=\\frac{1}{x-12}$, find the domain of $(f \\circ g)(x)$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "12ac7859-9d80-4ed4-ad34-0821641fc05d",
+        "index": 0,
+        "body": "$(-\\infty,-32) \\cup(-32,0) \\cup(0,12) \\cup(12, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "fb90f12d-81c2-4754-98c8-9a04ffafaf2f",
+        "index": 1,
+        "body": "$(-\\infty, 0) \\cup(0,12) \\cup(12, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "b21a3517-daf5-4b42-992d-02a56e7fb508",
+        "index": 2,
+        "body": "$(-\\infty, 12) \\cup(12, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 575
+        },
+        "resources": []
+      },
+      {
+        "id": "e19c97af-c037-48a3-9125-93d1c0e0edda",
+        "index": 3,
+        "body": "$(-\\infty, 32) \\cup(32, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "df2d88e6-6fc1-4889-9aa2-2c720c5e7cec",
+        "index": 4,
+        "body": "$(-\\infty, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "95f037e6-0baa-49be-9e28-796075cd85ac",
+        "index": 5,
+        "body": "$(-\\infty, 0) \\cup (0, \\infty)$",
+        "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "134d7902-f4a3-496d-8347-e3b1214ca63e",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "94342207",
+    "timeSpentVideo": "0",
+    "submissions": 730,
+    "submissionsCorrect": 575,
+    "accuracy": 0.7876712328767124,
+    "difficulty": 0.4969879518072289
+  },
+  "resources": [],
+  "exam": {
+    "id": "134d7902-f4a3-496d-8347-e3b1214ca63e",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1479251900",
+      "timeSpentVideo": "0",
+      "submissions": 11322,
+      "submissionsCorrect": 8182,
+      "questions": 15,
+      "accuracy": 0.7226638403108991,
+      "difficulty": 0.529285589213798
+    }
+  },
+  "explanation": {
+    "id": "cc4bb32c-d8fd-471e-b8e1-876b1be020e4",
+    "body": "",
+    "questionId": "5f81199c-677d-4abc-b8d3-2ccfd4f2968c",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a925424-31b0-4e1e-9634-2afe7888d5e4",
+      "name": "Domain and Range",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3272589885",
+        "timeSpentVideo": "56449602",
+        "submissions": 6633,
+        "submissionsCorrect": 4067,
+        "questions": 6,
+        "accuracy": 0.6131463892657922,
+        "difficulty": 0.6385340858458339
+      }
+    }
+  ],
+  "children": []
+}

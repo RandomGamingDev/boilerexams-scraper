@@ -1,0 +1,143 @@
+{
+  "id": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x, y)=\\ln \\left(x y^{2}+x\\right)$ find $f_{x y}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "79d8d0d1-ae42-427d-bdb5-a5198d6a2330",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+        "stats": {
+          "count": 2191
+        },
+        "resources": []
+      },
+      {
+        "id": "957e4e75-152c-4fdf-a9b0-7d8ae238b9d2",
+        "index": 1,
+        "body": "$\\frac{-y^{2}-1}{\\left(x y^{2}+x\\right)^{2}}$",
+        "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "b80330cd-c002-44b3-b80a-b1b73a6cfc01",
+        "index": 2,
+        "body": "$\\frac{-2 y}{\\left(x y^{2}+x\\right)^{2}}$",
+        "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "6bfdfbad-64d5-483e-84ca-cc33d5812094",
+        "index": 3,
+        "body": "$\\frac{-y^{2}}{\\left(x y^{2}+x\\right)^{2}}$",
+        "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "b0170442-69b1-4731-832d-bfbf2806a0c4",
+        "index": 4,
+        "body": "$\\frac{-2 x y}{\\left(x y^{2}+x\\right)^{2}}$",
+        "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "571662147",
+    "timeSpentVideo": "39005477",
+    "submissions": 3096,
+    "submissionsCorrect": 2190,
+    "accuracy": 0.7073643410852714,
+    "difficulty": 0.5491239048811014
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "85646113-ca89-427c-a0b0-e54b0e5172fa",
+    "body": "",
+    "questionId": "d7839f3c-688a-411c-830e-b7795ec8d4c9",
+    "resources": [
+      {
+        "id": "b6c429d0-b545-4480-b76a-7d808de18d15",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=1285"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "85646113-ca89-427c-a0b0-e54b0e5172fa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e4a570fd-6b1f-4901-8f82-df33cfc1e01a",
+      "name": "Partial Derivatives",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17536639564",
+        "timeSpentVideo": "661682215",
+        "submissions": 41021,
+        "submissionsCorrect": 27618,
+        "questions": 9,
+        "accuracy": 0.6732649130932937,
+        "difficulty": 0.5771564407480363
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Among the following sets, determine which ones are subspaces.\n\n\\[\n S_1=\\{(x,y,z)\\in\\mathbb{R}^{3}:x^{2}+y^{2}+z^{2} \\leq1\\}\\\\\n\nS_2=\\{(5b+2c,a,c,3b-c)\\in\\mathbb{R}^{4}:a,b,c\\in\\mathbb{R}\\}\\\\\n\nS_3=\\{y:[0,1]\\rightarrow\\mathbb{R}: y''-4y'+5y=\\sin(t)\\}\\\\\n\nS_4=\\{p\\in\\mathbb{P}_3:p(t)=at^{3}+(2a-b)t^{2}+5bt-(2a-b)\\; with \\; a,b\\in\\mathbb{R}\\}\\\\\n\nS_{5}=\\left\\{y:[0,1] \\rightarrow \\mathbb{R}: y^{\\prime \\prime}-2 y^{\\prime}-3 y=0\\right\\}\n\\]\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cb74ccc0-d093-4ea1-a37b-e955128480d7",
+        "index": 0,
+        "body": "$S_{2}, S_{4}, S_{5}$",
+        "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+        "stats": {
+          "count": 456
+        },
+        "resources": []
+      },
+      {
+        "id": "e46b34f3-5f80-4587-9221-18fd80c3a065",
+        "index": 1,
+        "body": "$S_{1}, S_{2}, S_{5}$",
+        "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+        "stats": {
+          "count": 96
+        },
+        "resources": []
+      },
+      {
+        "id": "f661ffdd-e461-4de9-8719-d2f0d3bc3873",
+        "index": 2,
+        "body": "$S_{2}, S_{4}$",
+        "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+        "stats": {
+          "count": 138
+        },
+        "resources": []
+      },
+      {
+        "id": "987bce44-f32b-4e3d-973c-aba9d26acfd0",
+        "index": 3,
+        "body": "$S_{3}, S_{4}$",
+        "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "bd22a4a4-8114-4294-a4e3-81f3594c3044",
+        "index": 4,
+        "body": "$S_{4}, S_{5}$",
+        "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "195888480",
+    "timeSpentVideo": "197202943",
+    "submissions": 1112,
+    "submissionsCorrect": 456,
+    "accuracy": 0.41007194244604317,
+    "difficulty": 0.8325082508250825
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "9ab1c6f8-d0d3-4e71-abd5-2bf7466c04b1",
+    "body": "",
+    "questionId": "cb20a8dc-58ce-454a-a387-aa07de9705ed",
+    "resources": [
+      {
+        "id": "7e4286ab-1067-49b6-802b-6c389a7d3fca",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=FQj4zG8WjxOgTp-w&t=2053\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9ab1c6f8-d0d3-4e71-abd5-2bf7466c04b1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

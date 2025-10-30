@@ -1,0 +1,143 @@
+{
+  "id": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is a solution to\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left(\\begin{array}{cc}\n1 & 1 \\\\\n4 & -2\n\\end{array}\\right) \\mathbf{x}+\\left(\\begin{array}{l}\n4 \\\\\n0\n\\end{array}\\right) e^{-2 t} ?\n\\]\n\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "76bffb8e-58ce-43e4-8579-c05a8ef4431c",
+        "index": 0,
+        "body": "$e^{-2 t}\\left(\\begin{array}{l}2 \\\\ 2\\end{array}\\right)$",
+        "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "54104635-8278-44d6-9963-2be9f35ec720",
+        "index": 1,
+        "body": "$e^{-2 t}\\left(\\begin{array}{l}6 \\\\ 8\\end{array}\\right)$",
+        "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "fb05ca31-274d-4aea-a11d-0d5de3288c45",
+        "index": 2,
+        "body": "$e^{-2 t}\\left(\\begin{array}{c}0 \\\\ -4\\end{array}\\right)$",
+        "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+        "stats": {
+          "count": 768
+        },
+        "resources": []
+      },
+      {
+        "id": "0d4f8c2a-dd31-42f8-98c7-9731bbf47fae",
+        "index": 3,
+        "body": "$e^{-2 t}\\left(\\begin{array}{l}4 \\\\ 6\\end{array}\\right)$",
+        "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "da4dcff3-3294-4b7b-99e6-d3fd235402c2",
+        "index": 4,
+        "body": "$e^{-2 t}\\left(\\begin{array}{l}2 \\\\ 4\\end{array}\\right)$",
+        "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "435188657",
+    "timeSpentVideo": "103326092",
+    "submissions": 1815,
+    "submissionsCorrect": 768,
+    "accuracy": 0.4231404958677686,
+    "difficulty": 0.822845953002611
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "419713f5-bbe3-4b6c-a5e5-8b1e99c83054",
+    "body": "",
+    "questionId": "35b8dab6-4e63-4fcd-9e00-26c4a431de64",
+    "resources": [
+      {
+        "id": "60cbc85c-ee35-402b-a3c5-e80a807968a0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=p6QWFcoPXPNsNizo&t=2616"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "419713f5-bbe3-4b6c-a5e5-8b1e99c83054",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

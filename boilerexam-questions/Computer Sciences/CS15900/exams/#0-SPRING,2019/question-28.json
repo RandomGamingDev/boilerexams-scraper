@@ -1,0 +1,133 @@
+{
+  "id": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the null terminating character and character arrays is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d9fd9e0e-f0ba-4a39-a364-a4d83a2875b5",
+        "index": 0,
+        "body": "The null terminating character is used to separate the data in the array from the unused elements of the\narray.",
+        "questionId": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "ac3db9cf-b2cd-451c-bdb3-ae6d2335d89c",
+        "index": 1,
+        "body": "The null terminating character is not needed when the amount of data present is equal to the capacity of\nthe array.",
+        "questionId": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+        "stats": {
+          "count": 590
+        },
+        "resources": []
+      },
+      {
+        "id": "a1d6d774-6486-4bc4-a75d-38c6b5f9c422",
+        "index": 2,
+        "body": "The null terminating character can be the first character in the array.",
+        "questionId": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      },
+      {
+        "id": "0fa415ce-8c8b-4f51-a56e-9030f8cd306b",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+        "stats": {
+          "count": 180
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 28,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "93476175",
+    "timeSpentVideo": "0",
+    "submissions": 1248,
+    "submissionsCorrect": 590,
+    "accuracy": 0.47275641025641024,
+    "difficulty": 0.7752225519287834
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "02b846a1-19f3-4484-bceb-ec80cff50824",
+    "body": "",
+    "questionId": "bf5e3684-1711-4e09-8d0e-39048704e60d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "fad16a8a-4b31-410a-a0d0-85692ae1666d",
+      "name": "Strings",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3696901024",
+        "timeSpentVideo": "0",
+        "submissions": 12342,
+        "submissionsCorrect": 5528,
+        "questions": 13,
+        "accuracy": 0.4479014746394426,
+        "difficulty": 0.8016797942452982
+      }
+    }
+  ],
+  "children": []
+}

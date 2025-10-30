@@ -1,0 +1,82 @@
+{
+  "id": "49fdac98-3dd1-46d2-af7d-9fb3783f2b10",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We run DFS on a simple undirected graph $G$ starting at node $v$. Assume $G$ is connected. Which of the following claims are necessarily true? Give a brief, but precise, explanation.\n\nIf $w$ is an articulation point, then $w$ cannot be a leaf node in the DFS tree.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "32918fb2-5932-4268-b175-43b048b6192c",
+        "index": 0,
+        "body": "True",
+        "questionId": "49fdac98-3dd1-46d2-af7d-9fb3783f2b10",
+        "stats": {
+          "count": 734
+        },
+        "resources": []
+      },
+      {
+        "id": "f4c9b62b-c670-49f9-b946-8ec7b1f1f690",
+        "index": 1,
+        "body": "False",
+        "questionId": "49fdac98-3dd1-46d2-af7d-9fb3783f2b10",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "43872479",
+    "timeSpentVideo": "0",
+    "submissions": 897,
+    "submissionsCorrect": 734,
+    "accuracy": 0.8182831661092531,
+    "difficulty": 0.46364092276830493
+  },
+  "resources": [],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "cdebee18-ee6a-4383-93f6-b61699bd9921",
+    "body": "",
+    "questionId": "49fdac98-3dd1-46d2-af7d-9fb3783f2b10",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

@@ -1,0 +1,144 @@
+{
+  "id": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the following pseudocode snippet, what is the tightest worst-case complexity for the number of array accesses in term of n? Assume all variables are integers.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "19917120-b581-45e5-b7d1-2df7000f70e4",
+        "index": 0,
+        "body": "$O(n^2)$",
+        "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+        "stats": {
+          "count": 1231
+        },
+        "resources": []
+      },
+      {
+        "id": "2fa10813-bd5b-4889-8cb9-5a1219c439dd",
+        "index": 1,
+        "body": "$O(n \\log{(n)})$",
+        "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "c49d7086-e22c-4795-b917-83bb215fac7f",
+        "index": 2,
+        "body": "$O(\\log{(n)})$",
+        "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "23a9dc30-c7c5-4de4-87ac-1ccc15c0231b",
+        "index": 3,
+        "body": "$O(n)$",
+        "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "f4cce183-95d0-4d29-994b-5f06eaa39c2f",
+        "index": 4,
+        "body": "$O(1)$",
+        "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "155794612",
+    "timeSpentVideo": "0",
+    "submissions": 1381,
+    "submissionsCorrect": 1230,
+    "accuracy": 0.8906589427950761,
+    "difficulty": 0.3857191087103309
+  },
+  "resources": [
+    {
+      "id": "484f1a1d-abab-4dea-8d79-686fb35631e6",
+      "type": "CODE",
+      "data": {
+        "content": "a = an array of n integers\ncount = 0\n\nfor (i = n \u2013 1, i >= 0, i = i - 1)\n   for (j = i + 1, j < n, j = j + 1)\n      if (a[i] == a[j])\n         count = count + 1\n      end if\n   end for\nend for\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "68605ffe-9e46-404d-8d51-e600406e6247",
+    "body": null,
+    "questionId": "46030d8c-f716-4f85-b7e3-3bbde1a73ad9",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

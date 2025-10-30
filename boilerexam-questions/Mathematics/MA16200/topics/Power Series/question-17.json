@@ -1,0 +1,143 @@
+{
+  "id": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the power series that represents $\\frac{1}{(1+2 x)^{2}}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3863f9cf-a74c-4a51-a754-d16fbb32c1bb",
+        "index": 0,
+        "body": "$\\sum_{k=0}^{\\infty}(2 x)^{2 k}$",
+        "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "81f0aa6a-9a76-4534-bf81-3146cc8d035f",
+        "index": 1,
+        "body": "$\\sum_{k=0}^{\\infty} 2 k(2 x)^{k}$",
+        "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "df61e6e1-4616-415d-aa1b-b5ee90b9a44b",
+        "index": 2,
+        "body": "$\\sum_{k=1}^{\\infty} k(-2)^{k-1} x^{k-1}$",
+        "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+        "stats": {
+          "count": 2146
+        },
+        "resources": []
+      },
+      {
+        "id": "02a85d11-7f12-4139-9038-bb2ece537a9e",
+        "index": 3,
+        "body": "$\\sum_{k=1}^{\\infty} k^{2}(2)^{-k} x^{2 k-1}$",
+        "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+        "stats": {
+          "count": 228
+        },
+        "resources": []
+      },
+      {
+        "id": "70684672-3c84-4895-8db2-88cb24665404",
+        "index": 4,
+        "body": "$\\sum_{k=1}^{\\infty} (-1)^{k}(2)^{2k-1} x^{2 k+1}$",
+        "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+        "stats": {
+          "count": 569
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "928473145",
+    "timeSpentVideo": "316473473",
+    "submissions": 4471,
+    "submissionsCorrect": 2146,
+    "accuracy": 0.4799821069112055,
+    "difficulty": 0.7695799606213083
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14951284288",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81377,
+      "submissionsCorrect": 50800,
+      "questions": 25,
+      "accuracy": 0.624255010629539,
+      "difficulty": 0.6258974925439081
+    }
+  },
+  "explanation": {
+    "id": "c86d91ca-26d0-4e34-9d63-3e89a01c0682",
+    "body": "",
+    "questionId": "5ca00be3-d115-4a83-b7ae-2886c8f30dad",
+    "resources": [
+      {
+        "id": "ffa2cbe2-df72-4b9c-a879-e3c2d846d039",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Leo8UMHCXzs?t=432\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c86d91ca-26d0-4e34-9d63-3e89a01c0682",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    }
+  ],
+  "children": []
+}

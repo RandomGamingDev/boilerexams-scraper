@@ -1,0 +1,120 @@
+{
+  "id": "969a6c2b-7bed-4e54-b547-9ae766e04560",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the following matrix\n\n\\[ A= \\begin{bmatrix}\n0 & 1 & 2 \\\\\n1 & 0 & 3 \\\\\n4 & -3 & 8 \n\\end{bmatrix}\\]\n\n(1) Find the determinant of $A$. \n\n(2) Find the determinant of 2$A$ and the determinant of $(2A)^{-1}$.\n\n(3) Let $B$ be the inverse matrix of $A$, find the (2,3) entry of matrix $B$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "188030061",
+    "timeSpentVideo": "31234926",
+    "submissions": 603,
+    "submissionsCorrect": 172,
+    "accuracy": 0.28524046434494194,
+    "difficulty": 0.9342105263157895
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "53578f35-b87f-4cfe-b22e-3576dd6c6a64",
+    "body": null,
+    "questionId": "969a6c2b-7bed-4e54-b547-9ae766e04560",
+    "resources": [
+      {
+        "id": "9b9ac02a-084f-47d0-b98b-1494b99310d5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?si=P1QWGB_FyrrwLbvH&t=2188"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "53578f35-b87f-4cfe-b22e-3576dd6c6a64",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

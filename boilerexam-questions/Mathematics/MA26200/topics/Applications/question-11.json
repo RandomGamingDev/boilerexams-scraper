@@ -1,0 +1,143 @@
+{
+  "id": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a spring-mass system whose motion is governed by $y''+y=4\\sin (t),y(0)=2,y'(0)=0.$ Find the solution of the above initial value problem.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "acd79970-b369-4748-ad80-db5d9180152e",
+        "index": 0,
+        "body": "$y(t)=2 \\cos (t)-\\sin (t)$",
+        "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "17542f8f-f4e3-49d2-bfd1-3f567e47e377",
+        "index": 1,
+        "body": "$y(t)=\\cos (t)+2 \\sin (t)$",
+        "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "5cb41f6f-e068-42c6-b40a-02a8ec4852a7",
+        "index": 2,
+        "body": "$y(t)=\\cos (t)+\\sin (t)-t \\cos (t)$",
+        "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "42e20792-e7e0-4349-a744-956933e55c42",
+        "index": 3,
+        "body": "$y(t)=2 \\cos (t)+2 \\sin (t)-2 t \\cos (t)$",
+        "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "13cc9288-e80d-4ce5-8abe-468037228400",
+        "index": 4,
+        "body": "$y(t)=2 \\cos (t)-2 \\sin (t)+t \\cos (t)$",
+        "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "180867124",
+    "timeSpentVideo": "96406117",
+    "submissions": 595,
+    "submissionsCorrect": 251,
+    "accuracy": 0.4218487394957983,
+    "difficulty": 0.8169064748201439
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "b60b8dae-249f-4435-affc-c0d601eca3e2",
+    "body": "",
+    "questionId": "7b64b2ab-3164-4dcd-beac-f1d8185a1a93",
+    "resources": [
+      {
+        "id": "ce9caa43-fe69-41e6-9ada-db3c8affb9e7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=V4EcXzNs-IXiC2eg&t=1645\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b60b8dae-249f-4435-affc-c0d601eca3e2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "bec1ed30-697b-4af3-8a9e-0e4c7b7819f3",
+      "name": "Applications",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5830257196",
+        "timeSpentVideo": "645845621",
+        "submissions": 10650,
+        "submissionsCorrect": 5531,
+        "questions": 12,
+        "accuracy": 0.5193427230046949,
+        "difficulty": 0.7308372093023255
+      }
+    }
+  ],
+  "children": []
+}

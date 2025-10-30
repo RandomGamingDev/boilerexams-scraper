@@ -1,0 +1,133 @@
+{
+  "id": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Now is the time to discuss the customer generation function. For the code below, the function \\verb|getBonuses(customers)| returns a list with an integer number per customer as they are found (i.e., same order) in the \\verb|customers| dictionary.\n\nAndy thinks that recycling code is good. So, here is also his \u201crecycled\u201d version of the \\verb|buildCustomers()| function\n\nAndy\u2019s \u201crecycled\u201d code runs! But is it correct?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "37cd54cc-89be-458e-a175-0711d282d7b3",
+        "index": 0,
+        "body": "No. The customer order given by \\verb|for customerDict in customers| is not the same as \\verb|for i in range(len(customers))|.",
+        "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "4f928121-4467-497a-aee0-22916a68aec8",
+        "index": 1,
+        "body": "Yes. Because both customers and bonuses are lists, and the bonuses are per customer as they are found in the file.",
+        "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+        "stats": {
+          "count": 369
+        },
+        "resources": []
+      },
+      {
+        "id": "3a9f05c6-50b2-48ef-8845-82212dae858f",
+        "index": 2,
+        "body": "No. We cannot get access to the customers by a numerical index.",
+        "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "48638904-a5ce-4f30-a679-aed9b789fed2",
+        "index": 3,
+        "body": "Yes. Because the implementation of the for loop in the original function does not guarantee the correct order of customers with respect to the list of bonuses.",
+        "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "88750823",
+    "timeSpentVideo": "13885390",
+    "submissions": 710,
+    "submissionsCorrect": 369,
+    "accuracy": 0.5197183098591549,
+    "difficulty": 0.7327160493827161
+  },
+  "resources": [
+    {
+      "id": "5acd1deb-b60c-4d61-ae77-a89d8fc46286",
+      "type": "CODE",
+      "data": {
+        "content": "def buildCustomers():\n    C = []\n    customers = readCustomersData()\n    bonuses = getBonuses(len(customers))\n    i = 0\n    for customerDict in customers:\n        C.append(GoldenCustomer(customerDict, bonuses[i]))\n        i += 1\n    return C\n\n\ndef recycledBuildCustomers():\n    C = []\n    customers = readCustomersData()\n    bonuses = getBonuses(len(customers))\n    for i in range(len(customers)):\n        C.append(GoldenCustomer(customers[i], bonuses[i]))\n    return C\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "5f07bbd3-fe51-406f-901d-f74dc1cf01da",
+    "body": "",
+    "questionId": "abd2b209-7bcf-452b-abac-47ade1abcc80",
+    "resources": [
+      {
+        "id": "71205add-92e6-4f7f-bc6e-b87352692a68",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=PfZ4oyZoU7Mup7Qs&t=4028"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5f07bbd3-fe51-406f-901d-f74dc1cf01da",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

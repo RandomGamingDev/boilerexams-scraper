@@ -1,0 +1,143 @@
+{
+  "id": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \\verb|tail(L)| be a function that returns the pointer to the last node of the linked list $L$. $L$ has $n$ nodes. If $L$ is a traditional linked list (i.e., it has a single pointer to the head of the list), then $\\verb|tail(L)|$ is $O(n)$. If $L$ is an enhanced linked list (i.e., it has pointers to the head and tail of the list), then $\\verb|tail(L)|$ is $O(1)$. Let $L_1$ and $L_2$ be two linked lists. The function \\verb|concatenate(L_1,L_2)| sets the next pointer of the tail node of $L_1$ to the head node of $L_2$. The function \\verb|concatenate(L_1, L_2)| will run in $O(1)$ if:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f98374cb-8340-4175-adb2-4db2211a05bd",
+        "index": 0,
+        "body": "$L_1$ is a traditional linked list",
+        "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "c882dc3c-018d-4418-a6c8-84139c3a0a18",
+        "index": 1,
+        "body": "$L_2$ is a traditional linked list",
+        "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "adfe85a7-eb19-497e-aef2-24cc4ee6f939",
+        "index": 2,
+        "body": "$L_1$ is an enhanced linked list",
+        "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+        "stats": {
+          "count": 1187
+        },
+        "resources": []
+      },
+      {
+        "id": "93f41905-8a28-4f57-947d-4d4f5e5c286d",
+        "index": 3,
+        "body": "$L_2$ is an enhanced linked list",
+        "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "8d85b64b-fd46-4293-9e79-3087c1b4a26d",
+        "index": 4,
+        "body": "It is not possible for \\verb|concatenate(L_1 L_2)| to be $O(1)$",
+        "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "221157467",
+    "timeSpentVideo": "0",
+    "submissions": 1407,
+    "submissionsCorrect": 1187,
+    "accuracy": 0.84363894811656,
+    "difficulty": 0.429163901791639
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "5b9dbc94-f203-4dc5-b898-bac873f4f1fe",
+    "body": null,
+    "questionId": "16493ddf-6813-41e0-8a38-9ca6e072b09d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    },
+    {
+      "id": "8f922ded-ebc9-4288-8b42-8e18707ba7b3",
+      "name": "Linked List",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1433058389",
+        "timeSpentVideo": "0",
+        "submissions": 3006,
+        "submissionsCorrect": 2542,
+        "questions": 2,
+        "accuracy": 0.8456420492348636,
+        "difficulty": 0.41548615582743076
+      }
+    }
+  ],
+  "children": []
+}

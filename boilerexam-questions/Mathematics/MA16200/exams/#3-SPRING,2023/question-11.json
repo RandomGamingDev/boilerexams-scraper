@@ -1,0 +1,143 @@
+{
+  "id": "fde9873f-0023-450a-8410-3f45e91a4648",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute \n$\\sum_{k=1}^{\\infty} \\left(\\ln(k) - \\ln(k+1)\\right)$\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a0cc274c-8c07-42f9-9200-7eac85e3b26a",
+        "index": 0,
+        "body": "$\\frac{1}{e}$",
+        "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "2799d4dd-5f47-4829-b5d7-101a805c12d6",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      },
+      {
+        "id": "2c5dfc8d-6881-4f71-b745-40470a190250",
+        "index": 2,
+        "body": "Series diverges",
+        "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+        "stats": {
+          "count": 2053
+        },
+        "resources": []
+      },
+      {
+        "id": "7ac27362-3334-4544-9e70-cd606f3a69b6",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+        "stats": {
+          "count": 945
+        },
+        "resources": []
+      },
+      {
+        "id": "191265ec-4a95-4374-bb2c-8572a4d56de5",
+        "index": 4,
+        "body": "$\\ln (2)$",
+        "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+        "stats": {
+          "count": 137
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "375634891",
+    "timeSpentVideo": "242385088",
+    "submissions": 3977,
+    "submissionsCorrect": 2053,
+    "accuracy": 0.5162182549660548,
+    "difficulty": 0.7341795437821927
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "0b986525-3d08-49e5-97d1-c894507cd9b1",
+    "body": "",
+    "questionId": "fde9873f-0023-450a-8410-3f45e91a4648",
+    "resources": [
+      {
+        "id": "7117bdf9-7e42-4824-bd26-c42ad626fc2d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=1932\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0b986525-3d08-49e5-97d1-c894507cd9b1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fa0243e3-a11b-44ee-a861-2c4b26d2a6d6",
+      "name": "Telescoping Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4707561548",
+        "timeSpentVideo": "823788408",
+        "submissions": 14835,
+        "submissionsCorrect": 8585,
+        "questions": 5,
+        "accuracy": 0.5786990225817323,
+        "difficulty": 0.6718279209909608
+      }
+    }
+  ],
+  "children": []
+}

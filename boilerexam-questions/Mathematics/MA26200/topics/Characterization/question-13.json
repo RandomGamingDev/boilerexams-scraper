@@ -1,0 +1,128 @@
+{
+  "id": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve this initial value problem: $\\left\\{\\begin{array}{l}y^{\\prime \\prime \\prime}+3 y^{\\prime \\prime}=0 \\\\ y(0)=2, y^{\\prime}(0)=1, y^{\\prime \\prime}(0)=9\\end{array}\\right.$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e4640d7f-9eb6-4e3c-b472-3054f0107f86",
+        "index": 0,
+        "body": "$y=1-2 x+e^{3 x}$",
+        "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "3016149b-f056-41d9-8f00-5a6a3cedfb26",
+        "index": 1,
+        "body": "$y=2-2 x-e^{-3 x}$",
+        "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "93d69152-358a-4468-a9dd-218edee51ee9",
+        "index": 2,
+        "body": "$y=-5 x-\\frac{9}{2} x^{2}+2 e^{3 x}$",
+        "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "4b3d4ec6-b60f-4708-9a65-3320ccab5d14",
+        "index": 3,
+        "body": "$y=1+4 x+e^{-3 x}$",
+        "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+        "stats": {
+          "count": 264
+        },
+        "resources": []
+      },
+      {
+        "id": "ef5a1662-35bd-499a-a166-9fbc9845afc5",
+        "index": 4,
+        "body": "$y=2-e^{-3 x}$",
+        "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "89410207",
+    "timeSpentVideo": "0",
+    "submissions": 311,
+    "submissionsCorrect": 264,
+    "accuracy": 0.8488745980707395,
+    "difficulty": 0.48600973236009737
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "872160a1-e49a-417d-bb3a-b443c36d52ee",
+    "body": "",
+    "questionId": "e851bea3-4110-4373-b9a5-b0bc5a5c5aba",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0319c3c3-8269-4637-9189-12380f165495",
+      "name": "Characterization",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1198107393",
+        "timeSpentVideo": "69856422",
+        "submissions": 3254,
+        "submissionsCorrect": 2223,
+        "questions": 6,
+        "accuracy": 0.683159188690842,
+        "difficulty": 0.5723017292784734
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,149 @@
+{
+  "id": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What are the LAST TWO lines of output generated?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8ca6ecef-1227-407d-9942-8bf9a5b7f2e4",
+        "index": 0,
+        "body": "\\texttt{Longitude:  43/<br>=-=-=-=-=-=-=-+}",
+        "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+        "stats": {
+          "count": 732
+        },
+        "resources": []
+      },
+      {
+        "id": "e82bfb5d-f51a-4839-aa0f-ab88b33ceed9",
+        "index": 1,
+        "body": "\\texttt{Longitude: 42 /<br>=-=-=-=-=-=-=-+}",
+        "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+        "stats": {
+          "count": 991
+        },
+        "resources": []
+      },
+      {
+        "id": "45715a14-6dc5-4bf3-aee9-40a66b593c50",
+        "index": 2,
+        "body": "\\texttt{Longitude: 43 /<br>=-=-=-=-=-=-=-+}",
+        "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+        "stats": {
+          "count": 2607
+        },
+        "resources": []
+      },
+      {
+        "id": "5c6dd450-4317-41cf-916e-03e249f85c03",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+        "stats": {
+          "count": 404
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "376564648",
+    "timeSpentVideo": "0",
+    "submissions": 4778,
+    "submissionsCorrect": 2607,
+    "accuracy": 0.5456257848472164,
+    "difficulty": 0.705309553095531
+  },
+  "resources": [
+    {
+      "id": "14d984a9-35be-4416-8184-5e47c1abd4dc",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void)\n{\n  int latitude = 9.6;\n  double longitude = 42.8;\n  \n  printf(\"=-=-=-=-=-=-=-+\\n\");\n  printf(\"Latitude: %4d/\\n\", latitude);\n  printf(\"Longitude: %-3.0lf/\\n\", longitude);\n  printf(\"=-=-=-=-=-=-=-+\\n\");\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "d5d5fa31-b969-48c7-b2c3-a144f8e752f9",
+    "body": "",
+    "questionId": "97e19fe9-0215-41db-9914-1ef5eca8f449",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    },
+    {
+      "id": "5559976b-c520-4f0b-a5f8-868dbd5d8f7b",
+      "name": "printf & scanf",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23602771123",
+        "timeSpentVideo": "187685305",
+        "submissions": 73478,
+        "submissionsCorrect": 48225,
+        "questions": 24,
+        "accuracy": 0.656318898173603,
+        "difficulty": 0.5938935551387643
+      }
+    }
+  ],
+  "children": []
+}

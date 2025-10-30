@@ -1,0 +1,160 @@
+{
+  "id": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following input sequences generate the following Binary Search Tree:",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f501174d-8e67-4e5b-827b-d5c258d9e4f2",
+        "index": 0,
+        "body": "5, 2, 1, 3, 8, 6, 7, 10",
+        "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "34b9e280-c9a8-4a86-9938-144deb38edd2",
+        "index": 1,
+        "body": "1, 2, 3, 5, 6, 7, 8, 10",
+        "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "f003dd61-efcc-4aa2-a2ac-d75026e4ea05",
+        "index": 2,
+        "body": "1, 3, 2, 6, 10, 8, 7, 5",
+        "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "e54fdfab-26a9-4c1a-8c5b-c1b8a9f5671b",
+        "index": 3,
+        "body": "5, 2, 3, 10, 8, 1, 6, 7",
+        "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "2597115f-bb41-4587-b419-994a545cbedc",
+        "index": 4,
+        "body": "5, 2, 3, 7, 8, 1, 6, 10",
+        "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+        "stats": {
+          "count": 1341
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "148805285",
+    "timeSpentVideo": "5775529",
+    "submissions": 1599,
+    "submissionsCorrect": 1341,
+    "accuracy": 0.8386491557223265,
+    "difficulty": 0.4312831077104179
+  },
+  "resources": [
+    {
+      "id": "be27f474-3ecf-4bfa-87e4-fa99d09287f9",
+      "type": "IMAGE",
+      "data": {
+        "key": "VNbw27dTLDUUhboMTTI_7",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/VNbw27dTLDUUhboMTTI_7",
+        "altText": "image"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1449075382",
+      "timeSpentVideo": "76169212",
+      "submissions": 7807,
+      "submissionsCorrect": 5561,
+      "questions": 5,
+      "accuracy": 0.7123094658639683,
+      "difficulty": 0.5403756165423043
+    }
+  },
+  "explanation": {
+    "id": "531082a2-e8e0-4a3f-8a51-900df1a8c356",
+    "body": "",
+    "questionId": "c085f329-8e39-4131-9d5a-bfbbe9c49cd7",
+    "resources": [
+      {
+        "id": "a6ac6d3e-9efc-4dcc-9b97-dd5e46bfc185",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/bgThrmIdCmI?si=9lCWNuz_P367gkHD"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "531082a2-e8e0-4a3f-8a51-900df1a8c356",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17a3959f-bfec-46b4-b484-343beba28722",
+      "name": "Binary Search Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3196225368",
+        "timeSpentVideo": "132107689",
+        "submissions": 7887,
+        "submissionsCorrect": 5730,
+        "questions": 7,
+        "accuracy": 0.7265119817421073,
+        "difficulty": 0.5263240265431326
+      }
+    }
+  ],
+  "children": []
+}

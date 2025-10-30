@@ -1,0 +1,158 @@
+{
+  "id": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\overrightarrow{\\mathbf{F}}=\\left\\langle-y, x, z^{3}\\right\\rangle, S$ is part of the sphere $x^{2}+y^{2}+z^{2}=4$ above $z=1$, with upward orientation. Compute $\\iint_{S}(\\vec{\\nabla} \\times \\overrightarrow{\\mathbf{F}}) \\cdot d \\vec{S}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "39f48f72-5a71-41ce-9bdd-b3f5142d7a36",
+        "index": 0,
+        "body": "$-6 \\pi$",
+        "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "98c09cee-bcbc-4398-8ea6-2a52072751d7",
+        "index": 1,
+        "body": "$6 \\pi$",
+        "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+        "stats": {
+          "count": 2640
+        },
+        "resources": []
+      },
+      {
+        "id": "f6a389b6-c61c-4732-a04a-904c30664cc2",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "b229e48a-57f9-4149-9940-e083c4a77276",
+        "index": 3,
+        "body": "$3 \\pi$",
+        "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+        "stats": {
+          "count": 305
+        },
+        "resources": []
+      },
+      {
+        "id": "29507d5b-69c8-4431-b985-e14df27da252",
+        "index": 4,
+        "body": "$-3 \\pi$",
+        "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+        "stats": {
+          "count": 662
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1689771534",
+    "timeSpentVideo": "459430294",
+    "submissions": 6450,
+    "submissionsCorrect": 2640,
+    "accuracy": 0.40930232558139534,
+    "difficulty": 0.8393129770992367
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "3584751f-2048-437c-b35c-243052e2c71a",
+    "body": "",
+    "questionId": "d15a36b7-35b0-4de7-98b0-f85cc2ca22f0",
+    "resources": [
+      {
+        "id": "1b452b0f-47cc-461a-ad34-fc6ce629f689",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=4-8Nu5IjSqNVoCd2&t=1966"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3584751f-2048-437c-b35c-243052e2c71a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18541413657",
+        "timeSpentVideo": "1965130455",
+        "submissions": 30673,
+        "submissionsCorrect": 12770,
+        "questions": 6,
+        "accuracy": 0.4163270628891859,
+        "difficulty": 0.8334010333734118
+      }
+    },
+    {
+      "id": "215e4a67-a284-47cb-ac38-dc66fee57f98",
+      "name": "Surface Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29586551748",
+        "timeSpentVideo": "3554402214",
+        "submissions": 50906,
+        "submissionsCorrect": 20491,
+        "questions": 12,
+        "accuracy": 0.4025262248065061,
+        "difficulty": 0.8472826726267497
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the initial value problem: $t(t-10) y^{\\prime \\prime}+y^{\\prime}-\\frac{1}{t-3} y=\\ln (t-5), y(6)=0, y^{\\prime}(6)=1$. Find the largest interval for which the above initial value problem has a unique solution.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "78c9ab51-3529-4886-9c9c-bb0eb4649a5e",
+        "index": 0,
+        "body": "$(0,5)$",
+        "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "a9a54d5a-dac3-4fde-b9ee-810b5151bad5",
+        "index": 1,
+        "body": "$(0,10)$",
+        "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "3b37285b-72cb-4da2-9b66-1ededfd6e218",
+        "index": 2,
+        "body": "$(5,+\\infty)$",
+        "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "8cbc9929-8a17-460f-92f8-7ff2768b8188",
+        "index": 3,
+        "body": "$(10,+\\infty)$",
+        "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "d8fdd31f-fc76-4881-88e4-1534b92c1ad3",
+        "index": 4,
+        "body": "$(5,10)$",
+        "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+        "stats": {
+          "count": 303
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "139258010",
+    "timeSpentVideo": "74049996",
+    "submissions": 735,
+    "submissionsCorrect": 303,
+    "accuracy": 0.4122448979591837,
+    "difficulty": 0.8272455089820359
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "b2cd9c5a-9404-44bb-a663-bdd72b7a39a8",
+    "body": "",
+    "questionId": "523193c7-d785-43dc-bccf-01ba3efd76b6",
+    "resources": [
+      {
+        "id": "669c93ee-d354-4de8-bcf3-95c125a99953",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=3KNmHaG2q9umRSNB&t=206\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b2cd9c5a-9404-44bb-a663-bdd72b7a39a8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e98c0082-99ea-4f58-9381-ecbf89fd0937",
+      "name": "Existance and Uniqueness",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1484729983",
+        "timeSpentVideo": "121939776",
+        "submissions": 4064,
+        "submissionsCorrect": 1917,
+        "questions": 6,
+        "accuracy": 0.4717027559055118,
+        "difficulty": 0.7776176753121998
+      }
+    }
+  ],
+  "children": []
+}

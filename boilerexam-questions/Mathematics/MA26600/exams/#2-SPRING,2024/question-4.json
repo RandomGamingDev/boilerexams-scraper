@@ -1,0 +1,158 @@
+{
+  "id": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear system of differential equations\n\n\\[\nx' =\n\\begin{bmatrix}\n1 & -\\alpha \\\\\n4 & -1\n\\end{bmatrix}\nx.\n\\]\n\nFor what values of the parameter \\( \\alpha \\) is the origin a saddle point for this system?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "22d0e49f-eec8-4d3f-b903-e409e0a05c1a",
+        "index": 0,
+        "body": "\\( \\frac{1}{4} < \\alpha < 4 \\)",
+        "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "983d5798-832d-4966-81c2-7120fb1fc869",
+        "index": 1,
+        "body": "\\( \\alpha < \\frac{1}{4} \\)",
+        "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+        "stats": {
+          "count": 540
+        },
+        "resources": []
+      },
+      {
+        "id": "638ed3ad-35bc-4ea8-a121-65d8a7e51e48",
+        "index": 2,
+        "body": "\\( -4 < \\alpha < 0 \\)",
+        "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "f0052cd4-38a0-4660-9e6c-74a2e960f933",
+        "index": 3,
+        "body": "\\( \\alpha > 4 \\)",
+        "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "c69496ab-e0b9-46e8-bf7f-5b39417d212e",
+        "index": 4,
+        "body": "\\( \\alpha < 0 \\)",
+        "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "155983623",
+    "timeSpentVideo": "13665985",
+    "submissions": 761,
+    "submissionsCorrect": 540,
+    "accuracy": 0.709592641261498,
+    "difficulty": 0.5647502903600464
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "4bb4b628-962b-443d-a024-82ddd9a24b08",
+    "body": null,
+    "questionId": "d5cc904b-2c30-4456-8282-e78814c49fe8",
+    "resources": [
+      {
+        "id": "ded52237-93b3-4aa1-8c3b-ff97a25573bc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/r3C5y0jwPno?si=FDB-iULWmbrwIuzq&t=1423"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4bb4b628-962b-443d-a024-82ddd9a24b08",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    },
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

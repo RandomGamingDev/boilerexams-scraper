@@ -1,0 +1,133 @@
+{
+  "id": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the usage of the <font style=\"font-family:'Courier New'\">switch</font> construct is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "eb6cb55d-7437-475d-8835-9c36ddbda11e",
+        "index": 0,
+        "body": "No two <font style=\"font-family:'Courier New'\">switch</font> case labels can represent the SAME constant expression value.",
+        "questionId": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+        "stats": {
+          "count": 619
+        },
+        "resources": []
+      },
+      {
+        "id": "242c11e6-0a5c-4f7f-9a5b-498e7bffe7b6",
+        "index": 1,
+        "body": "The association of two <font style=\"font-family:'Courier New'\">switch</font> case labels with a common set of actions is ALWAYS a logical error.",
+        "questionId": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+        "stats": {
+          "count": 3826
+        },
+        "resources": []
+      },
+      {
+        "id": "d2012f7a-f69f-4c1f-b047-4c037fdabe22",
+        "index": 2,
+        "body": "Each <font style=\"font-family:'Courier New'\">switch</font> case label is the keyword <font style=\"font-family:'Courier New'\">case</font> followed by a constant expression.",
+        "questionId": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "887a2d09-53e8-45a2-b00c-593b6ec04604",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+        "stats": {
+          "count": 448
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "446397402",
+    "timeSpentVideo": "0",
+    "submissions": 5103,
+    "submissionsCorrect": 3826,
+    "accuracy": 0.7497550460513424,
+    "difficulty": 0.5050451662502402
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "1e0f86a3-eb09-4bc2-95d3-79e21a95afda",
+    "body": "",
+    "questionId": "d1a351cc-a806-4ea2-b9b1-2630002de4a8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

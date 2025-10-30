@@ -1,0 +1,149 @@
+{
+  "id": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the program is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "bd71f5f1-e908-407f-bdbe-66cf5709e7e3",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Every element of the array is changed at least one time during the execution of the program.</font>",
+        "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+        "stats": {
+          "count": 784
+        },
+        "resources": []
+      },
+      {
+        "id": "4a77096d-2d28-4108-86e0-e2ec42365dde",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">There is no index range violation during the execution of the program.</font>",
+        "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "a839e98b-7a53-47c1-9ab5-6c503906f8ef",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Multiple elements in the array are changed more than a single time during the execution of the program.</font>",
+        "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "1f1da0a5-7c03-4064-a7f3-a174a456dc20",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "57819123",
+    "timeSpentVideo": "0",
+    "submissions": 1092,
+    "submissionsCorrect": 784,
+    "accuracy": 0.717948717948718,
+    "difficulty": 0.5503355704697986
+  },
+  "resources": [
+    {
+      "id": "4e2d4973-464c-4756-bb8d-7099ccb360fa",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 8\n\nvoid changeArray(int[], int);\n\nint main()\n{\n  int x[SIZE] = {3, 0, 4, 1, 6, 5, 7, 2};\n  int i;\n  \n  for(i = 0; i <= SIZE / 2; i++) {\n    changeArray(x, x[i]);\n  }\n  \n  return(0); \n}\n\nvoid changeArray(int x[], int val)\n{\n  int i;\n  int j;\n  \n  for(i = 0; i < val; i++)\n  {\n    j = x[i];\n    x[j] += x[j] >= SIZE - 1 ? -1 : 1;\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "9d211fbb-149a-4098-a01b-46327dec1dbd",
+    "body": "",
+    "questionId": "10bd7842-5783-4706-b4b4-d4d23875a0f8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    },
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

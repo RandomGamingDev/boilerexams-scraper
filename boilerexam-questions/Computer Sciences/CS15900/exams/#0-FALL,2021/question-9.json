@@ -1,0 +1,134 @@
+{
+  "id": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the VALUE of the LARGEST element in the array after the <font style=\"font-family:'Courier New'\">for</font> loop in the <font style=\"font-family:'Courier New'\">main</font> function of the program above terminates?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "451f2bd5-4190-4b26-86f2-e9d4cbb119b0",
+        "index": 0,
+        "body": "9",
+        "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+        "stats": {
+          "count": 1769
+        },
+        "resources": []
+      },
+      {
+        "id": "3a34db2f-42c1-4096-a6fd-bb2fc669e4d2",
+        "index": 1,
+        "body": "11",
+        "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+        "stats": {
+          "count": 222
+        },
+        "resources": []
+      },
+      {
+        "id": "331871f3-71a2-4ecb-81f5-16805d7b6a7c",
+        "index": 2,
+        "body": "10",
+        "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+        "stats": {
+          "count": 463
+        },
+        "resources": []
+      },
+      {
+        "id": "0197413f-9156-4542-ab28-2d61fcb92abc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1055271741",
+    "timeSpentVideo": "0",
+    "submissions": 2747,
+    "submissionsCorrect": 1769,
+    "accuracy": 0.6439752457226064,
+    "difficulty": 0.6110818405338954
+  },
+  "resources": [
+    {
+      "id": "2f91c664-3c99-4ead-ae30-a1d05c4d630f",
+      "type": "CODE",
+      "data": {
+        "content": "#define SIZE 7\nvoid changeData(int[], int);\n\nint main()\n{\n  int x[SIZE] = { 3, 4, 2, 0, 1, 3, 2 };\n  int i;\n\n  for (i = 0; i < SIZE; i++)\n  {\n    changeData(x, x[i] % 3 + 1);\n  }\n\n  return (0);\n}\n\nvoid changeData(int y[], int chg)\n{\n  int i;\n\n  for (i = chg; i < SIZE; i += chg)\n  {\n    y[i] += 1;\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "f015c054-6190-485f-8b11-34aa092ad74b",
+    "body": "",
+    "questionId": "f11caf3e-88cf-4a27-9e92-6039b8b3cb68",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Taylor Series for $f(x)=\\sin (\\pi x)$ centered at $a=1$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a5d11eee-f41d-494c-be23-011dadeba2a8",
+        "index": 0,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k+1} \\pi^{k}}{k !}(x-1)^{k}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "e9ddb2f2-1c9b-477c-9d7e-352f09470b98",
+        "index": 1,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k+1} \\pi^{2 k+1}}{(2 k+1) !}(x-1)^{2 k+1}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 1100
+        },
+        "resources": []
+      },
+      {
+        "id": "5afb779d-3dce-4b41-bd7d-16e22483aaca",
+        "index": 2,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k} \\pi^{k}}{(2 k+1) !}(x-1)^{2 k+1}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "0024f413-2e0b-4062-a406-5426c3f24dba",
+        "index": 3,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k} \\pi^{2 k+1}}{(2 k+1) !}(x-1)^{2 k+1}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 520
+        },
+        "resources": []
+      },
+      {
+        "id": "cba7d698-2c73-46d1-a958-604bff4dcb1e",
+        "index": 4,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k} \\pi^{k}}{k !}(x-1)^{k}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "c66c447a-9cbf-4755-968f-4e9232c3df8d",
+        "index": 5,
+        "body": "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k} \\pi^{k+1}}{(2 k+1) !}(x-1)^{2 k+1}$",
+        "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "428044668",
+    "timeSpentVideo": "71279941",
+    "submissions": 2526,
+    "submissionsCorrect": 1100,
+    "accuracy": 0.43547110055423593,
+    "difficulty": 0.812071591774562
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444048911",
+      "timeSpentVideo": "2335774508",
+      "submissions": 74336,
+      "submissionsCorrect": 39139,
+      "questions": 25,
+      "accuracy": 0.526514743865691,
+      "difficulty": 0.7235208769950024
+    }
+  },
+  "explanation": {
+    "id": "a76cdac5-f954-437c-af93-a776a136dbcf",
+    "body": "",
+    "questionId": "2f599e46-f7b4-4e28-b38e-52b7dbb953aa",
+    "resources": [
+      {
+        "id": "568a6f46-cf8e-47c0-a596-33e957f0e80c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3cm65JbMGM8?t=778\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a76cdac5-f954-437c-af93-a776a136dbcf",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fa192135-b4e1-40e8-85ce-a3b292efe1e7",
+      "name": "Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11213666000",
+        "timeSpentVideo": "825768661",
+        "submissions": 23782,
+        "submissionsCorrect": 12883,
+        "questions": 12,
+        "accuracy": 0.5417122193255404,
+        "difficulty": 0.7084624403316305
+      }
+    }
+  ],
+  "children": []
+}

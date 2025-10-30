@@ -1,0 +1,143 @@
+{
+  "id": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The flux of the vector field $\\overrightarrow{\\mathbf{F}}(x, y, z)=x \\overrightarrow{\\mathbf{i}}+(x+y) \\overrightarrow{\\mathbf{j}}+z \\overrightarrow{\\mathbf{k}}$ across the surface of the plane $x+y+z=1$ in the first octant, oriented upward, is equal to:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ea895aeb-50a2-4bc5-b40f-65648fe27c63",
+        "index": 0,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "94d6a103-64b2-4865-843f-f36b1838f666",
+        "index": 1,
+        "body": "$\\frac{4}{3}$",
+        "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "c4424f60-170d-47aa-8e4e-ca582eb22b84",
+        "index": 2,
+        "body": "$\\frac{2}{3}$",
+        "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+        "stats": {
+          "count": 1489
+        },
+        "resources": []
+      },
+      {
+        "id": "280531f3-84cd-4ae0-8987-83cb882122e4",
+        "index": 3,
+        "body": "$\\frac{3}{2}$",
+        "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+        "stats": {
+          "count": 256
+        },
+        "resources": []
+      },
+      {
+        "id": "823f7ccc-ded6-4bc6-820b-5cec7efa4adc",
+        "index": 4,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+        "stats": {
+          "count": 282
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "813091707",
+    "timeSpentVideo": "265130285",
+    "submissions": 3923,
+    "submissionsCorrect": 1489,
+    "accuracy": 0.3795564618914096,
+    "difficulty": 0.8674496644295302
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "1e15cb11-ba1d-4c48-989f-c47d29383214",
+    "body": "Please note that the video uses $n$ as a non-unit vector.\n\nThis is ok: we know that $dS=\\sqrt{1+z_x^2+z_y^2}\\,dA$ in a surface integral.\n\nSo: $\\displaystyle \\iint_S \\bold{\\vec F} \\cdot \\bold{\\hat n} \\,dS$, with $\\bold{\\hat n}$ a \\textit{unit} normal vector\n$= \\displaystyle \\iint_S \\bold{\\vec F} \\cdot \\frac{\\bold n}{|\\bold n|} \\,dS$, with $\\bold n$ a \\textit{non-unit} normal vector.\n\nSubstituting $dS$:\n$\\displaystyle \\iint_S \\bold{\\vec F} \\cdot \\frac{\\bold n}{|\\bold n|} \\sqrt{1+z_x^2+z_y^2} \\, dA$.\n\nAnd it is the case that $\\sqrt{1+z_x^2+z_y^2} = |\\bold n|$, so the terms cancel.\n",
+    "questionId": "6e38aa81-2d0a-44b3-b856-c1efa14ad8ca",
+    "resources": [
+      {
+        "id": "1bdef071-dbaf-4e19-a1d9-d36b5dd94de0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=b_CAgn3dEp7isOv0&t=2721\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1e15cb11-ba1d-4c48-989f-c47d29383214",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6eea2d38-e964-4d09-ba3a-850374ec1486",
+      "name": "Flux Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12286638245",
+        "timeSpentVideo": "1355004033",
+        "submissions": 21592,
+        "submissionsCorrect": 10341,
+        "questions": 5,
+        "accuracy": 0.47892738051130046,
+        "difficulty": 0.7709754748294302
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "7379b6ec-e9f0-4ba8-b83e-1022ec1444d8",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let $\\mathbb{P}_2$ be the vector space consisting of all polynomials of degree at most 2. Note that $\\mathbb{P}_2$ contains the zero polynomial. Consider the linear transformation $T : \\mathbb{P}_2\n\\longrightarrow \\mathbb{P}_2$ defined by\n\n\\[T(\\mathbf{p}(t)) = \\mathbf{p}(0) + \\mathbf{p}(1)t+ \\mathbf{p}(2)t^2\\]\n\n(1) Find the image of $p(t) = t^2-1$ under the linear transformation $T$. \n\n(2) Find the matrix $[T]_\\mathcal{B}$ for $T$ relative to the ordered basis $\\mathcal{B} = \\{1, t, t^2\\}$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "b1eedefe-c17a-4318-ab53-31ad8f7b4c37",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "31221738",
+    "timeSpentVideo": "8070999",
+    "submissions": 118,
+    "submissionsCorrect": 39,
+    "accuracy": 0.3305084745762712,
+    "difficulty": 0.841743119266055
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1eedefe-c17a-4318-ab53-31ad8f7b4c37",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4132830778",
+      "timeSpentVideo": "1850726117",
+      "submissions": 31097,
+      "submissionsCorrect": 17311,
+      "questions": 10,
+      "accuracy": 0.5566774930057562,
+      "difficulty": 0.6935041830945283
+    }
+  },
+  "explanation": {
+    "id": "8c960bd6-990c-4cb4-9f2a-65239eae7be2",
+    "body": null,
+    "questionId": "7379b6ec-e9f0-4ba8-b83e-1022ec1444d8",
+    "resources": [
+      {
+        "id": "3c95c888-9180-43cc-a692-e2b74eb040d5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/i6KtsdOXtE0?si=il1QE-itk7vxTfmn&t=3770"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8c960bd6-990c-4cb4-9f2a-65239eae7be2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

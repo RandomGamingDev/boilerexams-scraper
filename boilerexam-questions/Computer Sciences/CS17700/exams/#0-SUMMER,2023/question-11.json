@@ -1,0 +1,133 @@
+{
+  "id": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "You are hired as a software engineer for a bank. On your first day on the job, your boss tasks you with creating a Python program that will store information about the customer's credit cards. At an intimidating first meeting, you propose the following solution:\n\nA dev team member is confused about why you passed CreditCard as an argument of the Card class. Which of the following is the correct explanation?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "82a6969d-7e38-419e-9546-e395173fec7d",
+        "index": 0,
+        "body": "To enable the Card class to access attributes from the CreditCard class.",
+        "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "2f684fd3-a361-443d-955b-b19dd0eb77b5",
+        "index": 1,
+        "body": "To enable the Card class to access methods from the CreditCard class.",
+        "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "e8597c70-fece-453c-beaf-54083fae84ea",
+        "index": 2,
+        "body": "Both A and B are true.",
+        "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+        "stats": {
+          "count": 163
+        },
+        "resources": []
+      },
+      {
+        "id": "3fadd9af-de6a-43e8-8d85-25d772aad532",
+        "index": 3,
+        "body": "Neither A and B are true.",
+        "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "28012711",
+    "timeSpentVideo": "776674",
+    "submissions": 216,
+    "submissionsCorrect": 163,
+    "accuracy": 0.7546296296296297,
+    "difficulty": 0.5759493670886076
+  },
+  "resources": [
+    {
+      "id": "e83b5482-6d01-4728-8a7b-557604745f9a",
+      "type": "CODE",
+      "data": {
+        "content": "class CreditCard:\n    def __init__(self, balance, interest_rate):\n        self.balance = balance\n        self.interest_rate = interest_rate\n    def calculate_interest(self):\n        monthly_interest_rate = self.interest_rate / 12 \n        monthly_interest = self.balance * monthly_interest_rate \n        return monthly_interest\n    def calculate_total_payment(self):\n        monthly_interest = self.calculate_interest() \n        total_payment = self.balance + monthly_interest \n        return total_payment\nclass Card(CreditCard):\n    def __init__(self, card_number, card_holder, balance, interest_rate):\n        super().__init__(balance, interest_rate) \n        self.card_number = card_number \n        self.card_holder = card_holder",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "825fac34-0341-4f13-beaa-69fa839f1fcf",
+    "body": "",
+    "questionId": "2eba5fea-e1b7-483b-9e1c-1852e7c38a84",
+    "resources": [
+      {
+        "id": "90d7799e-d609-45ff-bd78-bfa9c8aab4f5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=Ob5gBZLgeuvM23w-&t=3947"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "825fac34-0341-4f13-beaa-69fa839f1fcf",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

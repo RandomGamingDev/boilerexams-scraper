@@ -1,0 +1,143 @@
+{
+  "id": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve $\\ln \\left(x^{2}-9\\right)-\\ln (x-3)=2$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "16b3a882-1c7c-457a-930d-34e8dbf5575b",
+        "index": 0,
+        "body": "$e^{2}-3$",
+        "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+        "stats": {
+          "count": 742
+        },
+        "resources": []
+      },
+      {
+        "id": "335bdbcf-d473-4578-b6fc-10575d5ab9da",
+        "index": 1,
+        "body": "$e^{2}+3$",
+        "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "21583a8a-bc81-4bc7-832e-82d6df21f15f",
+        "index": 2,
+        "body": "$\\frac{1}{e^{2}}-3$",
+        "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "479506fd-098d-444f-8316-2255bc7afaa6",
+        "index": 3,
+        "body": "$\\frac{1}{e^{2}}+3$",
+        "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "84ae4e19-4fc5-4d11-af9d-bbf5e86ca947",
+        "index": 4,
+        "body": "$e+3$",
+        "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "125963256",
+    "timeSpentVideo": "13428115",
+    "submissions": 1002,
+    "submissionsCorrect": 742,
+    "accuracy": 0.7405189620758483,
+    "difficulty": 0.5313067150635209
+  },
+  "resources": [],
+  "exam": {
+    "id": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1684158045",
+      "timeSpentVideo": "349622968",
+      "submissions": 13494,
+      "submissionsCorrect": 8398,
+      "questions": 12,
+      "accuracy": 0.6223506743737958,
+      "difficulty": 0.6285493600117699
+    }
+  },
+  "explanation": {
+    "id": "f993464e-22af-47a9-8a1a-ca0ad52562f4",
+    "body": "",
+    "questionId": "5ed215ab-6a55-4a29-8d38-16d2f7618dcb",
+    "resources": [
+      {
+        "id": "3d458755-dfba-45b2-8273-3f89c3289a0a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cnbnleugAKA?t=1269"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f993464e-22af-47a9-8a1a-ca0ad52562f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "25d7a724-98c8-4792-ac97-da58dbc53f3d",
+      "name": "Properties of Logarithms",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2230447009",
+        "timeSpentVideo": "205484576",
+        "submissions": 5660,
+        "submissionsCorrect": 3749,
+        "questions": 4,
+        "accuracy": 0.6623674911660777,
+        "difficulty": 0.5904513888888889
+      }
+    }
+  ],
+  "children": []
+}

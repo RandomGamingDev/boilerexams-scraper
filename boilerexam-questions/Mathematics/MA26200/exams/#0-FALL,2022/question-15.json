@@ -1,0 +1,128 @@
+{
+  "id": "752dd142-1afd-4042-879e-ed4631258439",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be a $2 \\times 2$ matrix whose entries are real numbers. If $\\lambda=2+3 i$ is a complex eigenvalue of $A$ with corresponding complex eigenvector $\\mathbf{w}=\\left[\\begin{array}{c}1-i \\\\ 4\\end{array}\\right]$, then the general solution to $\\mathbf{x}^{\\prime}=A \\mathbf{x}$ is:",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b2eef605-7623-4f1d-99b1-228cd596fb3f",
+        "index": 0,
+        "body": "$\\mathbf{x}=C_{1} e^{2 t}\\left[\\begin{array}{c}\\cos 3 t+\\sin 3 t \\\\ 4 \\cos 3 t\\end{array}\\right]+C_{2} e^{2 t}\\left[\\begin{array}{c}\\sin 3 t-\\cos 3 t \\\\ 4 \\sin 3 t\\end{array}\\right]$",
+        "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "4514613f-26e0-4640-b51b-85abbbb3288f",
+        "index": 1,
+        "body": "$\\mathbf{x}=C_{1} e^{2 t}\\left[\\begin{array}{c}\\cos 3 t-\\sin 3 t \\\\ 4 \\cos 3 t\\end{array}\\right]+C_{2} e^{2 t}\\left[\\begin{array}{c}\\sin 3 t-\\cos 3 t \\\\ 4 \\sin 3 t\\end{array}\\right]$",
+        "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "1d58276e-76ce-4557-a699-b13da2c5e915",
+        "index": 2,
+        "body": "$\\mathbf{x}=C_{1} e^{3 t}\\left[\\begin{array}{c}\\cos 2 t+\\sin 2 t \\\\ 4 \\cos 2 t\\end{array}\\right]+C_{2} e^{3 t}\\left[\\begin{array}{c}\\sin 2 t-\\cos 2 t \\\\ 4 \\sin 2 t\\end{array}\\right]$",
+        "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "c67ed1d3-0880-497b-b498-22ab70bc0f1c",
+        "index": 3,
+        "body": "$\\mathbf{x}=C_{1} e^{2 t}\\left[\\begin{array}{c}\\cos 3 t+\\sin 3 t \\\\ 4 \\cos 3 t\\end{array}\\right]+C_{2} e^{2 t}\\left[\\begin{array}{c}\\sin 3 t+\\cos 3 t \\\\ 4 \\sin 3 t\\end{array}\\right]$",
+        "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "7abbf126-04f9-4c91-ba62-815515b442f5",
+        "index": 4,
+        "body": "$\\mathbf{x}=C_{1} e^{2 t}\\left[\\begin{array}{c}\\cos 3 t+\\sin 3 t \\\\ 4 \\cos 3 t\\end{array}\\right]+C_{2} e^{2 t}\\left[\\begin{array}{c}\\sin 3 t-\\cos 3 t \\\\ -4 \\sin 3 t\\end{array}\\right]$",
+        "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "87271438",
+    "timeSpentVideo": "0",
+    "submissions": 278,
+    "submissionsCorrect": 190,
+    "accuracy": 0.6834532374100719,
+    "difficulty": 0.6150793650793651
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "deb5cd5f-5bb0-454f-b36e-1ca9e5a6c180",
+    "body": "",
+    "questionId": "752dd142-1afd-4042-879e-ed4631258439",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "5e4387fc-2000-4da7-bb38-ec017f8d7870",
+      "name": "Eigenvalues",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2488615864",
+        "timeSpentVideo": "230395100",
+        "submissions": 6150,
+        "submissionsCorrect": 3469,
+        "questions": 9,
+        "accuracy": 0.5640650406504065,
+        "difficulty": 0.68696
+      }
+    }
+  ],
+  "children": []
+}

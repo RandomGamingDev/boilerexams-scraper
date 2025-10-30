@@ -1,0 +1,90 @@
+{
+  "id": "3b398df4-3755-4f0c-a844-0d6b397f23bc",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Write the mesh equations in terms of $I_1, I_2$ and $I_3$. Show all your work. Simplify each mesh equation as much as possible, but you do not need to solve the system of equations. ",
+    "solution": "$I_1 = I_{s1}$\n$-\\alpha I_0 + R_2(I_2-I_3) + V_{s2} = 0$\n$R_3I_3+R_2(I_3-I_2)+R_1(I_3-I_1)=0$",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "402d95fc-7394-4eca-b576-a7ce6072857a",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "146110321",
+    "timeSpentVideo": "30440594",
+    "submissions": 505,
+    "submissionsCorrect": 305,
+    "accuracy": 0.6039603960396039,
+    "difficulty": 0.6632231404958677
+  },
+  "resources": [
+    {
+      "id": "aa0c98be-0073-4ab2-8990-2aa5e3413553",
+      "type": "IMAGE",
+      "data": {
+        "key": "1U1kF79ZC6fxy8kgeg6O6",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/1U1kF79ZC6fxy8kgeg6O6"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3b398df4-3755-4f0c-a844-0d6b397f23bc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "402d95fc-7394-4eca-b576-a7ce6072857a",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1697983104",
+      "timeSpentVideo": "373207434",
+      "submissions": 9646,
+      "submissionsCorrect": 5975,
+      "questions": 10,
+      "accuracy": 0.6194277420692516,
+      "difficulty": 0.6317976605786989
+    }
+  },
+  "explanation": {
+    "id": "347bd930-3cae-480a-a82d-a46ee311c580",
+    "body": null,
+    "questionId": "3b398df4-3755-4f0c-a844-0d6b397f23bc",
+    "resources": [
+      {
+        "id": "69d3d6cf-f1f9-42e4-8f55-879c09729b92",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QzErBGDwnwI?si=0HwW3uTg9VG0zsZ8&t=2295"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "347bd930-3cae-480a-a82d-a46ee311c580",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

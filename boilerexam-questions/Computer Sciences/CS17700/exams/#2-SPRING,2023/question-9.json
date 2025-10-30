@@ -1,0 +1,133 @@
+{
+  "id": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Andy got tired of the constructor of the super class. So, he proposes the following changes\n\nAndy\u2019s new constructor and modifications are:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "66dd27f5-4a67-4a24-b3aa-1a69a2efc076",
+        "index": 0,
+        "body": "Correct. The constructor copies the content from the given dictionaries to the objects created using the Customer class.",
+        "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "9cd434e8-6b92-4fca-b96c-64a9b2ccfa59",
+        "index": 1,
+        "body": "Wrong. The constructor copies the address in memory of the given customer dictionary but does not copy its actual content. So, a change in a dictionary will affect the correctness of the respective object\u2019s data.",
+        "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+        "stats": {
+          "count": 346
+        },
+        "resources": []
+      },
+      {
+        "id": "1bb5c8cc-ff59-4dd1-8c9a-257133229dd7",
+        "index": 2,
+        "body": "Correct. By adding the balance and other attributes as keys in the attributes dictionary, the correctness of the objects\u2019 data is not compromised as intended with the original constructor.",
+        "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "00e9d2c5-5614-4fde-b89f-22455e2b8f67",
+        "index": 3,
+        "body": "Wrong. Balance is not a key in the customer's dictionary. So, line 5 will cause an error.",
+        "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "46243606",
+    "timeSpentVideo": "8212323",
+    "submissions": 617,
+    "submissionsCorrect": 346,
+    "accuracy": 0.5607779578606159,
+    "difficulty": 0.6976987447698745
+  },
+  "resources": [
+    {
+      "id": "1c7c1809-24d3-4645-9e08-07fa56323843",
+      "type": "CODE",
+      "data": {
+        "content": "class Customer:\n\n   def __init__(self, customerDict):\n      self.attributes = customerDict\n      self.attributes[\u201cbalance\u201d] = 0\n\n# Everywhere that is self.<attribute> is now self.attributes[\u201c<attribute>\u201d]\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "a3553496-d1dc-41e3-86ee-74e17c21e95e",
+    "body": "",
+    "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
+    "resources": [
+      {
+        "id": "63fd7218-04b4-4e81-b464-a13b36c1f4ae",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=v0k3R8JCLIp6VCfP&t=3713"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3553496-d1dc-41e3-86ee-74e17c21e95e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

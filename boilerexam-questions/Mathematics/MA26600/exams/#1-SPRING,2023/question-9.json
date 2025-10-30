@@ -1,0 +1,90 @@
+{
+  "id": "edc88ea7-65fa-4938-98a7-fedde84dcaf2",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "It is known that one of the solutions of the differential equation \n\n\\[\nx^2 y'' - x y' - 15y = 0 \\quad (x > 0)\n\\]\n\nis $y_1(x)=x^5$. Use the method of reduction of order to find a second linearly independent solution $y_2(x)$. Recall that this method consists of substituting $y_2(x) = v(x)y_1(x)$ into the differential equation above and reducing it to a first order equation for $v'$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "202875004",
+    "timeSpentVideo": "62048296",
+    "submissions": 707,
+    "submissionsCorrect": 154,
+    "accuracy": 0.21782178217821782,
+    "difficulty": 0.9972118959107807
+  },
+  "resources": [],
+  "exam": {
+    "id": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4565094176",
+      "timeSpentVideo": "320264183",
+      "submissions": 16700,
+      "submissionsCorrect": 9862,
+      "questions": 10,
+      "accuracy": 0.5905389221556886,
+      "difficulty": 0.66
+    }
+  },
+  "explanation": {
+    "id": "8ea24014-2afb-44af-a74e-a09d166ecf8b",
+    "body": null,
+    "questionId": "edc88ea7-65fa-4938-98a7-fedde84dcaf2",
+    "resources": [
+      {
+        "id": "eeabe66a-6025-44bf-9800-47fab09f7887",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ire22BvRNw4?si=Y4Cs2NpsTJg_WbOz&t=1310"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8ea24014-2afb-44af-a74e-a09d166ecf8b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a3465684-5862-4195-970d-c0f371a3c108",
+      "name": "Reduction of Order",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1736068095",
+        "timeSpentVideo": "180927057",
+        "submissions": 2723,
+        "submissionsCorrect": 1021,
+        "questions": 2,
+        "accuracy": 0.3749540947484392,
+        "difficulty": 0.8706163655685442
+      }
+    }
+  ],
+  "children": []
+}

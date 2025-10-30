@@ -1,0 +1,133 @@
+{
+  "id": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the following logical expression:<br><font style=\"font-family:'Courier New'\">x < a || x > b && x != c</font><br>Which of the following logical expressions is one possible complement of the logical expression above?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "1b3db3d0-d60e-43c9-ba18-3164981eb37f",
+        "index": 0,
+        "body": "x >= a && x <= b || x == c",
+        "questionId": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+        "stats": {
+          "count": 1263
+        },
+        "resources": []
+      },
+      {
+        "id": "d42b1cd4-b27e-4474-9f2d-8dcd5ecd02d8",
+        "index": 1,
+        "body": "!(x < a) || !(x > b && x != c)",
+        "questionId": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+        "stats": {
+          "count": 690
+        },
+        "resources": []
+      },
+      {
+        "id": "292ab9af-be52-41bb-bcf3-a2e00320b85e",
+        "index": 2,
+        "body": "!(x < a && x > b) || x == c",
+        "questionId": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+        "stats": {
+          "count": 438
+        },
+        "resources": []
+      },
+      {
+        "id": "6d3ab824-9c8e-4d18-8294-b01970a4ea1a",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+        "stats": {
+          "count": 1891
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "325308983",
+    "timeSpentVideo": "141895526",
+    "submissions": 4624,
+    "submissionsCorrect": 1891,
+    "accuracy": 0.40895328719723184,
+    "difficulty": 0.8391193903471634
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "8b080649-90ae-46bf-849d-08b70436b860",
+    "body": "",
+    "questionId": "dce0bc31-247f-4df9-8fb3-d8ef08123227",
+    "resources": [
+      {
+        "id": "0e34cee9-e34f-4c55-9983-45844639dbc3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=2782"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8b080649-90ae-46bf-849d-08b70436b860",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

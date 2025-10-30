@@ -1,0 +1,128 @@
+{
+  "id": "76765994-73ff-42cd-b540-813c90ddbe8a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(x)$ be the solution to the initial value problem\n\n\n\n\\[\ny^{\\prime \\prime}-10 y^{\\prime}+25 y=0, \\quad y(0)=1, y^{\\prime}(0)=3\n\\]\n\nThen $y(1)=$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1ff173f1-0eba-407c-8b69-0225cf2ba56f",
+        "index": 0,
+        "body": "$-e^{5}$",
+        "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+        "stats": {
+          "count": 362
+        },
+        "resources": []
+      },
+      {
+        "id": "89f7e46b-c357-478f-897b-1b3682961c87",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "08135f62-dd95-4913-bbe8-4c35f7dcb57b",
+        "index": 2,
+        "body": "$e^{5}$",
+        "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "7909bd7c-eeb3-4748-b1bf-d95218327b39",
+        "index": 3,
+        "body": "$\\frac{4}{5} e^{5}+\\frac{1}{5} e^{-5}$",
+        "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "f5a4cfb4-8fc7-4c63-b609-ec0fb8c47068",
+        "index": 4,
+        "body": "$e^{-5}$",
+        "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "102762003",
+    "timeSpentVideo": "0",
+    "submissions": 447,
+    "submissionsCorrect": 362,
+    "accuracy": 0.8098434004474273,
+    "difficulty": 0.496800731261426
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "5b938a0f-c3e5-4df8-a9ba-ae04d5865f2d",
+    "body": "",
+    "questionId": "76765994-73ff-42cd-b540-813c90ddbe8a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

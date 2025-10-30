@@ -1,0 +1,134 @@
+{
+  "id": "86a2de90-e59f-4c54-8790-f49218413333",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the attached pie plot.\n\nThe arguments of the pie function to generate the plot above are not",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f2c14ad1-ab0f-48aa-bdd6-5bbb3b50ff20",
+        "index": 0,
+        "body": "\\verb|plt.pie(counts, labels=types)|",
+        "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "b02e3248-5bdb-4ed6-a717-2c7f00201c84",
+        "index": 1,
+        "body": "\\verb|plt.pie(counts, labels=types.keys())|",
+        "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "b4f58715-46ea-4b2f-a1b5-eb7f37b72bb6",
+        "index": 2,
+        "body": "\\verb|plt.pie(counts, labels=types.items())|",
+        "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "92f1ed98-4d97-4fef-91aa-6e601fa739b3",
+        "index": 3,
+        "body": "\\verb|plt.pie(counts, labels=types.values())|",
+        "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13912364",
+    "timeSpentVideo": "7286525",
+    "submissions": 541,
+    "submissionsCorrect": 270,
+    "accuracy": 0.49907578558225507,
+    "difficulty": 0.750780031201248
+  },
+  "resources": [
+    {
+      "id": "0dd1a8f7-18b6-473f-9da0-46da520f4056",
+      "type": "IMAGE",
+      "data": {
+        "key": "jUfaLBdG9FK8r2fojzWc2",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/jUfaLBdG9FK8r2fojzWc2",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "35aafbd1-ad3e-4f37-ab0e-d047fe77b805",
+    "body": "",
+    "questionId": "86a2de90-e59f-4c54-8790-f49218413333",
+    "resources": [
+      {
+        "id": "9a04ecdc-5bf2-4f89-9b6a-f6437ca0b4dc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=cQrf2FFerXNi5EN0&t=5424"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "35aafbd1-ad3e-4f37-ab0e-d047fe77b805",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

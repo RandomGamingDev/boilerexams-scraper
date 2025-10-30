@@ -1,0 +1,117 @@
+{
+  "id": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given\u00a0<font style=\"font-family:'Courier New'\">x</font>\u00a0is a positive integer variable, which of the following expressions will generate a value in the range from 1 to\u00a0<font style=\"font-family:'Courier New'\">x</font>\u00a0inclusive of the end points?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "de256166-470d-41ff-8f13-102e9bb18a68",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % x</font>",
+        "questionId": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "bebdd71d-45d8-44e5-8fd8-4b40f2f6941b",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (x + 1)</font>",
+        "questionId": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+        "stats": {
+          "count": 253
+        },
+        "resources": []
+      },
+      {
+        "id": "00886e79-7f2f-49e1-9aab-ea4e1ec98a80",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % x + 1</font>",
+        "questionId": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+        "stats": {
+          "count": 430
+        },
+        "resources": []
+      },
+      {
+        "id": "84075f08-df4b-4dd3-bab4-ac785548f77a",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "36217222",
+    "timeSpentVideo": "8432894",
+    "submissions": 843,
+    "submissionsCorrect": 430,
+    "accuracy": 0.5100830367734283,
+    "difficulty": 0.7409862142099682
+  },
+  "resources": [],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "d84c5b3e-177e-46d9-9891-e23f92672185",
+    "body": "",
+    "questionId": "2f916e55-aa9c-414a-8e42-ae1a549349ee",
+    "resources": [
+      {
+        "id": "e01ccc7f-528b-4868-b26c-7b76dc48588f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=4358"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d84c5b3e-177e-46d9-9891-e23f92672185",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

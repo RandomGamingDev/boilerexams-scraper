@@ -1,0 +1,106 @@
+{
+  "id": "ba63cf08-043a-477b-b834-61fe524c0c97",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let U be a Union-Find data structure using the Quick-Union approach (implemented below). U has 10 items numbered from 0 to 9. Show the initial state of U and its respective state after each of the following calls:\n$union(5,2), union(7,9), union(0,1), union(4,5), union(8,1), union(3,0)$",
+    "solution": "Initial: $\\{0,1,2,3,4,5,6,7,8,9\\}$\nAfter $union(5,2)$: $\\{0,1,2,3,4,2,6,7,8,9\\}$\nAfter $union(7,9)$: $\\{0,1,2,3,4,2,6,9,8,9\\}$\nAfter $union(0,1)$: $\\{1,1,2,3,4,2,6,9,8,9\\}$\nAfter $union(4,5)$: $\\{1,1,2,3,2,2,6,9,8,9\\}$\nAfter $union(8,1)$: $\\{1,1,2,3,2,2,6,9,1,9\\}$\nAfter $union(3,0)$: $\\{1,1,2,1,2,2,6,9,1,9\\}$\n\nThus the final state of U is composed of the following union groups:\n0, 1, 3, and 8\n2, 4, and 5\n6\n7 and 9\n",
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "185993863",
+    "timeSpentVideo": "18835702",
+    "submissions": 536,
+    "submissionsCorrect": 414,
+    "accuracy": 0.7723880597014925,
+    "difficulty": 0.5204402515723271
+  },
+  "resources": [
+    {
+      "id": "5f586d8c-7552-4bca-951f-e338b6a7c8be",
+      "type": "CODE",
+      "data": {
+        "content": "class UF:\n    \n    UF(n)\n        count = n\n        for (i=0 to n-1)\n            id[i] = i\n        \n    function union(p,q)\n        idP = find(p)\n        idQ = find(q)\n        id[idP] = idQ\n        count = count-1\n        \n    function find(p)\n        while(p != id[p])\n            p = id[p]\n        return p\n    \n    function connected(p,q)\n        return find(p) == find(q)\n    \n    function count()\n        return count\n\nend class",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ba63cf08-043a-477b-b834-61fe524c0c97",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "14b568dc-d615-49e6-bb24-74c641078217",
+    "body": null,
+    "questionId": "ba63cf08-043a-477b-b834-61fe524c0c97",
+    "resources": [
+      {
+        "id": "9b8daa72-f165-41a9-ab00-2e7bec4446e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4xCSOJgJ9V4?t=8033"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "14b568dc-d615-49e6-bb24-74c641078217",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fc472b40-5aa0-4f5b-9f16-192dbb369dc0",
+      "name": "Union-Find",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1009479997",
+        "timeSpentVideo": "18835702",
+        "submissions": 1554,
+        "submissionsCorrect": 1304,
+        "questions": 2,
+        "accuracy": 0.8391248391248392,
+        "difficulty": 0.4313784764207981
+      }
+    }
+  ],
+  "children": []
+}

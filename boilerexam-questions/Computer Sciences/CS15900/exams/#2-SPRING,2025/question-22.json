@@ -1,0 +1,133 @@
+{
+  "id": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding selection constructs in the C programming language is <b>FALSE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c3257b41-5d8f-42b4-9781-c0f8302c065e",
+        "index": 0,
+        "body": "When the selection is based on a range of values the <code>else-if</code> should be used for multiway selection.",
+        "questionId": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c1e35764-873c-4073-9b09-20b16ff5465e",
+        "index": 1,
+        "body": "The result of the control expression of a <code>switch</code> should have a limited number of common results.",
+        "questionId": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "81fcaa09-e52f-4307-bf74-7a020e087b70",
+        "index": 2,
+        "body": "Unlike the <code>else-if</code> which does not require a final <code>else</code>, the <code>switch</code> construct requires the use of a <code>default</code> label.",
+        "questionId": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "840745bd-f678-404a-918c-f04199651ced",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "103596",
+    "timeSpentVideo": "0",
+    "submissions": 4,
+    "submissionsCorrect": 3,
+    "accuracy": 0.75,
+    "difficulty": 0.7403846153846154
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "50530701-2344-4b55-b737-d139a467cb4f",
+    "body": null,
+    "questionId": "315b1145-6d9c-43f3-a6eb-907368b0576f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    },
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    }
+  ],
+  "children": []
+}

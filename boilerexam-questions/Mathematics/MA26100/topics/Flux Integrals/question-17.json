@@ -1,0 +1,158 @@
+{
+  "id": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be the part of the plane $y+z=10$ that lies inside the cylinder $x^{2}+y^{2}=1$. Compute $\\iint_{S} \\mathbf{F} \\cdot \\mathbf{n} d S$ for $\\mathbf{F}(x, y, z)=\\left\\langle x, 1-y+e^{z}, y-e^{z}\\right\\rangle$ with $S$ oriented by the upward normal.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6c78e3a6-4956-47ca-903f-4252e43edc76",
+        "index": 0,
+        "body": "$2 e \\pi$",
+        "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      },
+      {
+        "id": "8770e33a-d16f-4b07-800d-b69585e41f85",
+        "index": 1,
+        "body": "$-\\pi e^{2}$",
+        "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "b7a191ff-5353-44bf-9945-9bb3b07fcf18",
+        "index": 2,
+        "body": "$-2 \\pi$",
+        "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+        "stats": {
+          "count": 346
+        },
+        "resources": []
+      },
+      {
+        "id": "0c68d768-8924-4754-baea-5b6d1ba556ae",
+        "index": 3,
+        "body": "$\\pi$",
+        "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+        "stats": {
+          "count": 2918
+        },
+        "resources": []
+      },
+      {
+        "id": "cc8c6ded-0f67-46c3-90ec-90f335c9c826",
+        "index": 4,
+        "body": "$1-4 \\pi$",
+        "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1788093819",
+    "timeSpentVideo": "345545369",
+    "submissions": 5940,
+    "submissionsCorrect": 2918,
+    "accuracy": 0.49124579124579126,
+    "difficulty": 0.7586092715231788
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "6fb2f346-852b-4b8c-9136-3a0888b02965",
+    "body": "",
+    "questionId": "7dc25220-096a-4912-aaec-a9bfe5bc8f4b",
+    "resources": [
+      {
+        "id": "56d52d24-de38-4395-8c15-26ce56ebdaaf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=TqGM7Yc164XNwREd&t=3302"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6fb2f346-852b-4b8c-9136-3a0888b02965",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "215e4a67-a284-47cb-ac38-dc66fee57f98",
+      "name": "Surface Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29586551748",
+        "timeSpentVideo": "3554402214",
+        "submissions": 50906,
+        "submissionsCorrect": 20491,
+        "questions": 12,
+        "accuracy": 0.4025262248065061,
+        "difficulty": 0.8472826726267497
+      }
+    },
+    {
+      "id": "6eea2d38-e964-4d09-ba3a-850374ec1486",
+      "name": "Flux Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12286638245",
+        "timeSpentVideo": "1355004033",
+        "submissions": 21592,
+        "submissionsCorrect": 10341,
+        "questions": 5,
+        "accuracy": 0.47892738051130046,
+        "difficulty": 0.7709754748294302
+      }
+    }
+  ],
+  "children": []
+}

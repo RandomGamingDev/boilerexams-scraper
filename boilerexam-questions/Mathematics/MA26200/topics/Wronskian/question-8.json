@@ -1,0 +1,128 @@
+{
+  "id": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Wronskian determinant $W(f, g, h)$ for the three functions\n\n\n\\[\nf(x)=x, \\quad g(x)=e^{x}, \\quad h(x)=e^{2 x}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "ddfa31d8-81a0-4786-b78e-ffd9c448c92d",
+        "index": 0,
+        "body": "$-e^{3 x}$",
+        "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "aef3f066-e40a-4db6-be3f-4640e96a161b",
+        "index": 1,
+        "body": "$x(2 x+3) e^{3 x}$",
+        "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "bbbba6f5-34f3-43a7-85b5-80f57dbf277c",
+        "index": 2,
+        "body": "$(2 x+3) e^{3 x}$",
+        "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "ca2af778-8778-43f3-a4b8-c7718d387949",
+        "index": 3,
+        "body": "$2 x-3$",
+        "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "b369f202-585b-415b-88c6-78ea280767fb",
+        "index": 4,
+        "body": "$(2 x-3)e^{3x}$",
+        "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+        "stats": {
+          "count": 840
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "203987459",
+    "timeSpentVideo": "0",
+    "submissions": 1065,
+    "submissionsCorrect": 840,
+    "accuracy": 0.7887323943661971,
+    "difficulty": 0.48605150214592274
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "352e7adb-0190-4454-9e6e-d3eb61f5b968",
+    "body": "",
+    "questionId": "60d681d6-ba4d-48b1-a5de-91de49b22ca2",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "20548a82-92ab-4a33-ad54-a44b03e6ddd1",
+      "name": "Wronskian",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "794944326",
+        "timeSpentVideo": "27015954",
+        "submissions": 2213,
+        "submissionsCorrect": 1577,
+        "questions": 2,
+        "accuracy": 0.7126073203795752,
+        "difficulty": 0.5465845222654561
+      }
+    }
+  ],
+  "children": []
+}

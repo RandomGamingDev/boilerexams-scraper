@@ -1,0 +1,143 @@
+{
+  "id": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "After applying the Laplace transform to the differential equation\n\\[\nx'' + a x = b t^3, \\quad x(0) = 1, \\, x'(0) = 0,\n\\]\none obtains that \\(X(s) = \\mathcal{L}\\{x(t)\\}\\) is given by the algebraic formula\n\\[\nX(s) = \\frac{1}{s} + \\frac{1}{s^6}.\n\\]\nFind the values of \\(a\\) and \\(b\\).",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2b9dbde4-c93a-40fc-a246-5498b4eed75e",
+        "index": 0,
+        "body": "\\(a = 0, \\, b = \\frac{1}{3}\\)",
+        "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "8120e45d-3e87-4754-ba27-629fd9b4e861",
+        "index": 1,
+        "body": "\\(a = 0, \\, b = \\frac{1}{6}\\)",
+        "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+        "stats": {
+          "count": 346
+        },
+        "resources": []
+      },
+      {
+        "id": "d3eed358-1894-40b1-9bec-35d17bcc1fe6",
+        "index": 2,
+        "body": "\\(a = -1, \\, b = \\frac{1}{2}\\)",
+        "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "c1caac87-f0ad-4c14-b9a1-98de23ade68c",
+        "index": 3,
+        "body": "\\(a = 1, \\, b = \\frac{1}{6}\\)",
+        "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "f00e0734-1012-4eb2-9325-edde80124d8b",
+        "index": 4,
+        "body": "\\(a = 1, \\, b = 3\\)",
+        "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "147794713",
+    "timeSpentVideo": "25013231",
+    "submissions": 564,
+    "submissionsCorrect": 346,
+    "accuracy": 0.6134751773049646,
+    "difficulty": 0.6536144578313253
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "6ef4aacc-3bb9-4d6c-852e-00edbec4e787",
+    "body": null,
+    "questionId": "1296f426-e6d0-48c8-a07e-dfc61f3f3161",
+    "resources": [
+      {
+        "id": "aab7a2c6-66e9-4271-88e4-cbb91e02ee29",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=kllwmAS6xX8yMakE&t=3092"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6ef4aacc-3bb9-4d6c-852e-00edbec4e787",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

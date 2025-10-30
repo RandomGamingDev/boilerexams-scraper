@@ -1,0 +1,125 @@
+{
+  "id": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $G$ be the graph represented by the edge list below. $G$ is directed and unweighted. Each tuple $(u, v)$ represents the edge between vertices $u$ and $v$.\n$${(2,3),(3,1),(4,0),(4,1),(5,2),(5,0)}$$\nFind all the topological sorts for $G$\n(Then select all that are valid topological sortings from the multiple choice question below)",
+    "solution": [
+      5,
+      4,
+      2,
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a0d6016b-ce45-4931-8fa6-1b8bf981ce1f",
+        "index": 0,
+        "body": "4,5,2,0,3,1",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 638
+        },
+        "resources": []
+      },
+      {
+        "id": "c9c399a1-0edb-4ce6-87ff-f1383f586459",
+        "index": 1,
+        "body": "4,5,3,0,2,1",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "7702988f-899c-4728-9865-5c1e7fe7b4e6",
+        "index": 2,
+        "body": "5,4,0,2,3,1",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 643
+        },
+        "resources": []
+      },
+      {
+        "id": "487f2169-4166-418f-ba30-0ea6b4e481a8",
+        "index": 3,
+        "body": "5,0,2,3,1,4\n",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "9509edad-a56d-4c54-818b-919522d99cf7",
+        "index": 4,
+        "body": "5,2,3,4,0,1",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 625
+        },
+        "resources": []
+      },
+      {
+        "id": "1cf08c62-72bb-4ecc-a2e1-679833c656de",
+        "index": 5,
+        "body": "4,5,0,2,3,1",
+        "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+        "stats": {
+          "count": 638
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "229548416",
+    "timeSpentVideo": "0",
+    "submissions": 838,
+    "submissionsCorrect": 652,
+    "accuracy": 0.7780429594272077,
+    "difficulty": 0.5015991471215352
+  },
+  "resources": [],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "bb671cf4-3579-4276-a1ce-4a910425ade3",
+    "body": "",
+    "questionId": "83c76fe4-afab-415c-84a3-c0d634f2281f",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

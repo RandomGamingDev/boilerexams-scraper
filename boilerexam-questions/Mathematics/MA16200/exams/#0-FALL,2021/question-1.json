@@ -1,0 +1,153 @@
+{
+  "id": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int e^{3 x} \\sin x d x$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4a893bd6-d34e-44d6-bcad-84d0dfc84da2",
+        "index": 0,
+        "body": "$\\frac{e^{3 x}(\\sin x+3 \\cos x)}{8}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "1f82ea1c-7b26-44ad-ac01-8478ae14d3a9",
+        "index": 1,
+        "body": "$\\frac{e^{3 x}(\\sin x+\\cos x)}{10}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "95ce29bc-3e2d-4cfd-b758-50f00b0359df",
+        "index": 2,
+        "body": "$\\frac{e^{3 x}(3 \\sin x-\\cos x)}{10}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 1807
+        },
+        "resources": []
+      },
+      {
+        "id": "89437744-e829-4468-ab03-6faf2290ea9a",
+        "index": 3,
+        "body": "$\\frac{e^{3 x}(\\sin x+3 \\cos x)}{10}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "b2d3de33-494c-438c-97f9-1352e00e47d4",
+        "index": 4,
+        "body": "$\\frac{e^{3 x}(\\sin x+\\cos x)}{8}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "34c177ec-d337-4c00-8900-6e4bba4f0f7d",
+        "index": 5,
+        "body": "$\\frac{e^{3 x}(\\cos x-3 \\sin x)}{8}+C$",
+        "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1051973827",
+    "timeSpentVideo": "186690256",
+    "submissions": 3336,
+    "submissionsCorrect": 1807,
+    "accuracy": 0.5416666666666666,
+    "difficulty": 0.7095459837019791
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444048911",
+      "timeSpentVideo": "2335774508",
+      "submissions": 74336,
+      "submissionsCorrect": 39139,
+      "questions": 25,
+      "accuracy": 0.526514743865691,
+      "difficulty": 0.7235208769950024
+    }
+  },
+  "explanation": {
+    "id": "b0eb2027-3bef-492b-bb3b-aabdc6d48725",
+    "body": "",
+    "questionId": "799740ef-6b4e-42a7-b492-f97b7b23dd09",
+    "resources": [
+      {
+        "id": "29d76075-3a1a-4b86-944a-6b34a4fc6ed0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/c6Qq5JvsFkw?t=1\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b0eb2027-3bef-492b-bb3b-aabdc6d48725",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

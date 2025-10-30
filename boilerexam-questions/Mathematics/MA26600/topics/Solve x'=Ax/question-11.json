@@ -1,0 +1,128 @@
+{
+  "id": "25d04560-00b6-43fe-8763-f072ae0199f3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider\n\\[\nx(t) = C_1 \\begin{bmatrix}1\\\\1\\end{bmatrix} e^t + C_2\\left(\\begin{bmatrix}1\\\\0\\end{bmatrix}+t\\begin{bmatrix}1\\\\1\\end{bmatrix}\\right)e^t.\n\\]\nThen $x(t)$ is a general solution of the system $x'=Ax$ with",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "31845ae8-c93e-4bb7-9f12-f8fe62ef8db3",
+        "index": 0,
+        "body": "$A = \\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}$",
+        "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "c04d6ca0-fa5b-4319-90e7-79631e0297b8",
+        "index": 1,
+        "body": "$A = \\begin{bmatrix}1&1\\\\0&0\\end{bmatrix}$",
+        "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "2dc511bb-7cd8-495a-a92d-75afc95d7883",
+        "index": 2,
+        "body": "$A = \\begin{bmatrix}2&-1\\\\1&0\\end{bmatrix}$",
+        "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "2fc044fe-3cd5-4ad2-8e81-a7ea82bd464f",
+        "index": 3,
+        "body": "$A = \\begin{bmatrix}0&1\\\\-1&0\\end{bmatrix}$",
+        "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "20a3dd5f-a82a-4a78-a4c6-3757f314c2d5",
+        "index": 4,
+        "body": "$A = \\begin{bmatrix}2&1\\\\0&2\\end{bmatrix}$",
+        "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1047353",
+    "timeSpentVideo": "0",
+    "submissions": 3,
+    "submissionsCorrect": 2,
+    "accuracy": 0.6666666666666666,
+    "difficulty": 0.7451456310679612
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "8b2e0ff8-424a-4c7a-bc4e-0b6c37f5db8e",
+    "body": null,
+    "questionId": "25d04560-00b6-43fe-8763-f072ae0199f3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

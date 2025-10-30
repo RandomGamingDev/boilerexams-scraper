@@ -1,0 +1,190 @@
+{
+  "id": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, find $V_c(s)$ in s-domain. Assume the capacitor initial voltage $v_c(0)$ = 0 V and the inductor initial current $i_L$ = 0 A. [Note] Do not perform partial fraction.",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "e9512241-ad67-4401-84b2-a5ad0161d1ca",
+        "index": 0,
+        "body": "$V_{c}\\left(s\\right)=\\frac{s+2}{2\\left(s^{2}+s+1\\right)}$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "a36f8990-7a90-4c73-8fb2-43c4153f5779",
+        "index": 1,
+        "body": "$V_{c}\\left(s\\right)=\\frac{s+2}{\\left(s^{2}+s+1\\right)}$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "8dc16ee0-9c74-4ff9-a934-3044e9ec5b25",
+        "index": 2,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{s^{2}+s+1}{s+2}\\right)$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "8e03e4df-1293-4219-a269-701c9ffaa2a0",
+        "index": 3,
+        "body": "$V_{c}\\left(s\\right)=\\frac{2\\left(s^{2}+s+1\\right)}{s+2}$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "a316bd76-f236-4191-9c8e-50b38caefa26",
+        "index": 4,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s^{2}+s+1}\\right)\\left(\\frac{1}{s+2}\\right)$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "6540ab68-2897-4792-8e9b-fb259a10bece",
+        "index": 5,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s^{2}+s+1}\\right)\\left(\\frac{2}{s+2}\\right)$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 384
+        },
+        "resources": []
+      },
+      {
+        "id": "35166e61-71db-4121-af8a-c847d47c311e",
+        "index": 6,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s^{2}+2s+1}\\right)\\left(\\frac{1}{s+2}\\right)$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "0b18de1c-1997-4820-9f0d-8d782f363462",
+        "index": 7,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s^{2}+2s+1}\\right)\\left(\\frac{2}{s+2}\\right)$",
+        "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "177555068",
+    "timeSpentVideo": "48712362",
+    "submissions": 702,
+    "submissionsCorrect": 384,
+    "accuracy": 0.5470085470085471,
+    "difficulty": 0.7088528678304239
+  },
+  "resources": [
+    {
+      "id": "999709d2-bcd7-4a86-9cad-ceaec488557c",
+      "type": "IMAGE",
+      "data": {
+        "key": "tIk5Rnv2LkZtGVe68hOrw",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/tIk5Rnv2LkZtGVe68hOrw",
+        "altText": "circuit"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "84a8a82d-4590-4185-922b-68f239cdaf1f",
+    "body": "",
+    "questionId": "a7af9ba7-d9d9-4fe1-939f-7f4b79a91abb",
+    "resources": [
+      {
+        "id": "de5a75d5-1f0e-4bfa-8fd3-d4182de17e2d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=14s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "84a8a82d-4590-4185-922b-68f239cdaf1f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f1e0e2bc-43d6-4807-a1a2-13ddbd2e82b4",
+      "name": "Zero State Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1038953163",
+        "timeSpentVideo": "86528643",
+        "submissions": 1238,
+        "submissionsCorrect": 597,
+        "questions": 2,
+        "accuracy": 0.48222940226171246,
+        "difficulty": 0.7664424514200299
+      }
+    }
+  ],
+  "children": []
+}

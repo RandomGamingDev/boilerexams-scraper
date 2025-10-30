@@ -1,0 +1,158 @@
+{
+  "id": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A blue plane $B: x+3 y-2 z=6$ and a yellow plane $Y: 2 x+y+z=3$ intersect in a green line $G$. A projectile at $P(1,-2,-1)$ starts moving in the direction $\\vec{v}=\\langle 1,2,1\\rangle$. Which of the following statements is true?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8f18f9bb-97d9-46a7-9518-2e32542048eb",
+        "index": 0,
+        "body": "The projectile intersects the blue plane first and then intersects the yellow plane",
+        "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+        "stats": {
+          "count": 608
+        },
+        "resources": []
+      },
+      {
+        "id": "2bd3ab02-ec9a-4ece-8f74-20c19379db46",
+        "index": 1,
+        "body": "The projectile intersects the yellow plane first and then intersects the blue plane",
+        "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+        "stats": {
+          "count": 3247
+        },
+        "resources": []
+      },
+      {
+        "id": "82256e76-d3be-4d25-9df6-1f043fc54dd1",
+        "index": 2,
+        "body": "The projectile intersects the green line first",
+        "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "75d76e33-b658-45ea-b953-ef33a2ecbcca",
+        "index": 3,
+        "body": "The projectile intersects the blue plane and does not intersect the yellow plane",
+        "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "eb01b2dd-ffae-4dd0-9e31-d4f4d8561411",
+        "index": 4,
+        "body": "The projectile intersects the yellow plane and does not intersect the blue plane",
+        "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+        "stats": {
+          "count": 295
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1725630490",
+    "timeSpentVideo": "402471461",
+    "submissions": 6672,
+    "submissionsCorrect": 3247,
+    "accuracy": 0.48666067146282976,
+    "difficulty": 0.7631423508564679
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "98df6e0a-5f9e-4a77-8c88-e5a3e9cad0a2",
+    "body": "",
+    "questionId": "6a4a06c8-a8d1-479b-a33a-4a50693d577e",
+    "resources": [
+      {
+        "id": "09b978be-96a7-4be6-984a-ec80a340f2c9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=303"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "98df6e0a-5f9e-4a77-8c88-e5a3e9cad0a2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "55882876-1e46-49db-8e29-a03e4795c756",
+      "name": "Intersection of planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19130514840",
+        "timeSpentVideo": "1496645436",
+        "submissions": 33770,
+        "submissionsCorrect": 18600,
+        "questions": 5,
+        "accuracy": 0.5507847201658277,
+        "difficulty": 0.6993652199586655
+      }
+    },
+    {
+      "id": "8d28ace7-00c7-4a8c-bbb1-40b1561b8293",
+      "name": "Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "31735377285",
+        "timeSpentVideo": "2565238981",
+        "submissions": 51989,
+        "submissionsCorrect": 30288,
+        "questions": 8,
+        "accuracy": 0.5825847775490969,
+        "difficulty": 0.6675737679740444
+      }
+    }
+  ],
+  "children": []
+}

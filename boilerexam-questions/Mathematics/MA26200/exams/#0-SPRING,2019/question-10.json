@@ -1,0 +1,143 @@
+{
+  "id": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{P}_{2} \\rightarrow \\mathbb{R}^{2}$ be the linear transformation satisfying $T\\left(x^{2}+x\\right)=\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right], T(2 x+1)=\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$, and $T(2)=\\left[\\begin{array}{c}2 \\\\ -2\\end{array}\\right]$. Find $T\\left(x^{2}\\right)$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b058b7c3-ce19-42aa-8e29-53df9970e981",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right]$",
+        "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "6caf361b-bc2a-4367-a618-494d8264ad20",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "94706fd3-8b03-40df-b918-58289fde7c73",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right]$",
+        "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "9ddad089-12a0-41ba-9542-adcd0ea2732c",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{c}-1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "d18527b5-f46a-4892-9d13-416ce9ac8b59",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{c}1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+        "stats": {
+          "count": 307
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "150101183",
+    "timeSpentVideo": "61959617",
+    "submissions": 763,
+    "submissionsCorrect": 307,
+    "accuracy": 0.40235910878112713,
+    "difficulty": 0.8363267670915411
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "8e7db7f8-666c-44b0-b741-f698886091f1",
+    "body": "",
+    "questionId": "e0edab6f-3a61-4427-9ccd-82b968e74d5f",
+    "resources": [
+      {
+        "id": "9ce9a7f0-a500-4288-8ca0-41ae76fccc6e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=dvk8K7p0O9dMG5D4&t=1627\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8e7db7f8-666c-44b0-b741-f698886091f1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d73acaab-566a-4ec1-be75-3ce2df6df65f",
+      "name": "Linear Transformation",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1453127788",
+        "timeSpentVideo": "142777332",
+        "submissions": 2940,
+        "submissionsCorrect": 1638,
+        "questions": 4,
+        "accuracy": 0.5571428571428572,
+        "difficulty": 0.6947368421052632
+      }
+    }
+  ],
+  "children": []
+}

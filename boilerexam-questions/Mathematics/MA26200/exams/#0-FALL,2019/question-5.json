@@ -1,0 +1,143 @@
+{
+  "id": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $V$ be the set of positive real numbers. Let the definition of vector addition be $\\mathbf{u} \\oplus \\mathbf{v}=e^{\\mathbf{u}} e^{\\mathbf{v}}$ for every $\\mathbf{u}$ and $\\mathbf{v}$ in $V$ and the definition of multiplication by a scalar be $c \\odot \\mathbf{u}=e^{c \\mathbf{u}}$ for every real number $c$ and every $\\mathbf{u}$ in $V$. Which statement below is not true?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6da2e616-f021-448e-8694-35b48467ddd7",
+        "index": 0,
+        "body": "$V$ is closed under vector addition.",
+        "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "04743b67-3ea0-4b0e-93c1-2c16c6355127",
+        "index": 1,
+        "body": "$V$ is closed under scalar multiplication.",
+        "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "10b46516-6558-4e9e-b765-3288444b7a30",
+        "index": 2,
+        "body": "The vector addition is commutative: $\\mathbf{u} \\oplus \\mathbf{v}=\\mathbf{v} \\oplus \\mathbf{u}$ for every $\\mathbf{u}$ and $\\mathbf{v}$ in $V$.",
+        "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "4b60f8a1-310b-4e35-b04a-f78e50adc5c0",
+        "index": 3,
+        "body": "It is true that $1 \\odot \\mathbf{u}=\\mathbf{u}$ for every $\\mathbf{u}$ in $V$.",
+        "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+        "stats": {
+          "count": 371
+        },
+        "resources": []
+      },
+      {
+        "id": "7ec6a283-3c2b-4e02-b4e6-117b94886c8a",
+        "index": 4,
+        "body": "It is true that $0 \\odot \\mathbf{u}=1$ for every $\\mathbf{u}$ in $V$.",
+        "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "91378409",
+    "timeSpentVideo": "38615886",
+    "submissions": 727,
+    "submissionsCorrect": 371,
+    "accuracy": 0.5103163686382394,
+    "difficulty": 0.7409310761789601
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "b7d24652-65d1-4afe-b400-e89e3e736310",
+    "body": "",
+    "questionId": "5a828a94-59b6-4727-97b0-1604c0ca736a",
+    "resources": [
+      {
+        "id": "9c67e9d2-29a1-49dc-b928-35248a0d2b42",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=SatGQM_SxKrQrimY&t=721\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b7d24652-65d1-4afe-b400-e89e3e736310",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e22c480c-610c-4e4a-bfed-d65f19584a5d",
+      "name": "Vector Calculations",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "243236788",
+        "timeSpentVideo": "42346763",
+        "submissions": 727,
+        "submissionsCorrect": 371,
+        "questions": 1,
+        "accuracy": 0.5103163686382394,
+        "difficulty": 0.7409310761789601
+      }
+    }
+  ],
+  "children": []
+}

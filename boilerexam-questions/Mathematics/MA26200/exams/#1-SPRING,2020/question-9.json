@@ -1,0 +1,143 @@
+{
+  "id": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose\n\n\n\\[\nA=\\left[\\begin{array}{lll}\n1 & 2 & 3 \\\\\n1 & 5 & 3 \\\\\n0 & 1 & 2\n\\end{array}\\right], \\quad \\mathbf{x}=\\left[\\begin{array}{l}\nx_{1} \\\\\nx_{2} \\\\\nx_{3}\n\\end{array}\\right], \\quad \\mathbf{b}=\\left[\\begin{array}{c}\n-3 \\\\\n9 \\\\\n-2\n\\end{array}\\right]\n\\]\n\nIf $A \\mathbf{x}=\\mathbf{b}$, then $x_{3}=$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6a92fd11-6030-40b7-b78a-dc38faefcce6",
+        "index": 0,
+        "body": "$-5$",
+        "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "36b84663-0abc-4d88-b21f-cc4a12f1e0a8",
+        "index": 1,
+        "body": "$-3$",
+        "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+        "stats": {
+          "count": 535
+        },
+        "resources": []
+      },
+      {
+        "id": "1e60100d-72eb-4132-83fd-fc0e79deebc8",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "d9443117-d36c-49c2-9e8a-590982cfcc1b",
+        "index": 3,
+        "body": "$2$",
+        "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "88744ada-49cb-406a-ac3f-e1d5eaf7132f",
+        "index": 4,
+        "body": "$4$",
+        "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "234143184",
+    "timeSpentVideo": "18764941",
+    "submissions": 857,
+    "submissionsCorrect": 535,
+    "accuracy": 0.6242707117852976,
+    "difficulty": 0.6387147335423198
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "6df47798-cac4-4030-9cc3-6e76d70e1bbb",
+    "body": "",
+    "questionId": "c577455c-94ab-41bc-acfe-43959aa22c9c",
+    "resources": [
+      {
+        "id": "408d3ccb-3ce1-4ec5-8fde-1789d8516aed",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=5Xzkx-VxYRuZP5hc&t=1643\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6df47798-cac4-4030-9cc3-6e76d70e1bbb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

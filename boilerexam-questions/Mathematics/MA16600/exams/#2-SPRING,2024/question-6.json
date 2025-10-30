@@ -1,0 +1,143 @@
+{
+  "id": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $$\\int_{-2}^{-1} \\frac{x+2}{\\sqrt{x^2+4x+5}} dx.$$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6e27ee9b-c4f2-4af7-a897-9de928e119c1",
+        "index": 0,
+        "body": "$\\sqrt{3}-1$",
+        "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "665fc280-10f7-4d5a-86ba-3eb136ea9741",
+        "index": 1,
+        "body": "$\\sqrt{2}-1$",
+        "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+        "stats": {
+          "count": 137
+        },
+        "resources": []
+      },
+      {
+        "id": "b56c43a7-c82d-4c5c-8b6c-3e7dd48a8591",
+        "index": 2,
+        "body": "1",
+        "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "0d4f68bb-3c70-494e-ab00-51502f2b58d7",
+        "index": 3,
+        "body": "$\\pi-1$",
+        "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "d3483469-8c1f-4dff-b30d-c0d68f05927d",
+        "index": 4,
+        "body": "$\\frac{\\pi}{3}$",
+        "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "51978262",
+    "timeSpentVideo": "6052493",
+    "submissions": 382,
+    "submissionsCorrect": 137,
+    "accuracy": 0.3586387434554974,
+    "difficulty": 0.8620331950207469
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "c514b78f-fe00-4b1d-975a-627fb5bfd930",
+    "body": null,
+    "questionId": "2ff4fd6b-7ba3-4698-91ec-22497c97e794",
+    "resources": [
+      {
+        "id": "735229d0-5cc5-413b-9c53-9216cf58af14",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=SY6KuI_VQ5PlOaKo&t=2388"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c514b78f-fe00-4b1d-975a-627fb5bfd930",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    }
+  ],
+  "children": []
+}

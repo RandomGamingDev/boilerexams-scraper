@@ -1,0 +1,135 @@
+{
+  "id": "366c347c-cf16-47ea-9bb0-88c203a55989",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": " A group of dietitians conducted a study to investigate the impact of consuming pasta with and without a source of protein on the post-meal rise in blood sugar levels. They collected an SRS of 50 participants and randomly assigned each to either group 1 or group 2, until one group reached the size of 25. The remaining participants were assigned to the other group.  During the experiment, all the participants were on an identical, strictly controlled diet for one week. At the end of the week, Group 1 was given a meal consisting of pasta with an additional source of protein, and group 2 was given the same pasta dish without any additional source of protein. Blood sugar levels were measured for each participant both before and after the meal, and the differences (\u201cafter\u201d minus \u201cbefore\u201d measured in milligrams per deciliter, mg/dL) were recorded. The summary statistics are shown in the table below. \n\n(C) No explanation is required for this part. Assuming that all the assumptions are met\nand that the test statistic has been computed correctly and stored as test_statistic, and the degrees of freedom are correctly computed for both the two-independent and paired procedures. Select the most appropriate code for computing the \ud835\udc91-value and type the answer in a capitalized form. Separate the values with a comma. \n\n1) \n\u24b6 pt(test_statistic, df = 24, lower.tail = TRUE) = 0.01385\n\u24b7 2*pt(test_statistic, df = 47.173, lower.tail = TRUE) = 0.036\n\u24b8 2*pt(test_statistic, df = 24, lower.tail = TRUE) = 0.0277\n\u24b9 pt(test_statistic, df = 47.173, lower.tail = TRUE) = 0.018\n2) \n Select the correct decision based on your choice of \ud835\udc91-value and type the answer in a capitalized form. \n\u24b6 Reject H_0\n\u24b7 Accept H_a\n\u24b8 Fail to reject H_0\n\u24b9 Accept H_a\n\n(E) How does zero relate to your selection in part (c)? In other words, if you opted for a confidence bound, is zero positioned above or below the bound? If you selected a confidence interval, is zero situated within or outside the interval? Clearly explain how you were able to determine this without explicitly computing the confidence bound or interval. \n",
+    "solution": "C 1) D\nC 2) A\n\n(E) The true mean difference between the change in blood pressure of those with protein and those without protein would be bounded above by a negative quantity because we rejected the null hypothesis. Therefore, since we are using the appropriate confidence level \ud835\udfcf\ud835\udfce\ud835\udfce% \u2212 \ud835\udfd3% = \ud835\udfd7\ud835\udfd3%, 0 would be above the confidence upper bound. ",
+    "answerChoices": []
+  },
+  "number": 14,
+  "disclaimer": "This question deals with Problem 5 c and e, not d!",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "7291791",
+    "timeSpentVideo": "1310138",
+    "submissions": 40,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.8928571428571428
+  },
+  "resources": [
+    {
+      "id": "a5f41cda-7cf0-41b2-bfdd-4bb31f19c943",
+      "type": "IMAGE",
+      "data": {
+        "key": "6m8ZIKchn1XMWSzE95uL7",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/6m8ZIKchn1XMWSzE95uL7"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "366c347c-cf16-47ea-9bb0-88c203a55989",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "be15533f-9c1d-4195-8a41-1b111d6d514c",
+    "body": null,
+    "questionId": "366c347c-cf16-47ea-9bb0-88c203a55989",
+    "resources": [
+      {
+        "id": "88739d27-d198-4e03-aa6b-abfb009e0da1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=2120"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "be15533f-9c1d-4195-8a41-1b111d6d514c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "77d04786-9f70-4ef2-976f-7f50ce455e80",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=2271"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "be15533f-9c1d-4195-8a41-1b111d6d514c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2d4bca4c-e95e-4169-9fb3-5bdca682428f",
+      "name": "Confidence Bound",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "13774057",
+        "timeSpentVideo": "2251112",
+        "submissions": 89,
+        "submissionsCorrect": 0,
+        "questions": 2,
+        "accuracy": 0,
+        "difficulty": 0.9854497354497355
+      }
+    },
+    {
+      "id": "6156c8d5-08cc-438f-b2cf-2399869445c0",
+      "name": "p-value",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "313349612",
+        "timeSpentVideo": "66966288",
+        "submissions": 655,
+        "submissionsCorrect": 221,
+        "questions": 5,
+        "accuracy": 0.3374045801526718,
+        "difficulty": 0.8910596026490066
+      }
+    }
+  ],
+  "children": []
+}

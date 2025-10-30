@@ -1,0 +1,118 @@
+{
+  "id": "cad70356-f624-496b-9e5f-8df061ec492f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below:<br><font style=\"font-family:'Courier New'\">12 17 11 21 13 15</font><br>identify which of the following configurations is NOT possible after TWO passes through the INSERTION sorting algorithm.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f9c0c86a-f6ee-45b9-a2bc-9cb481263041",
+        "index": 0,
+        "body": "12 17 11 21 15 13",
+        "questionId": "cad70356-f624-496b-9e5f-8df061ec492f",
+        "stats": {
+          "count": 1390
+        },
+        "resources": []
+      },
+      {
+        "id": "72a0b65d-9c1b-424a-8f53-48bc0b8468f0",
+        "index": 1,
+        "body": "11 12 17 21 13 15",
+        "questionId": "cad70356-f624-496b-9e5f-8df061ec492f",
+        "stats": {
+          "count": 355
+        },
+        "resources": []
+      },
+      {
+        "id": "eaa4b164-2c59-40f3-8b97-9fe054a23dc9",
+        "index": 2,
+        "body": "21 17 12 11 13 15",
+        "questionId": "cad70356-f624-496b-9e5f-8df061ec492f",
+        "stats": {
+          "count": 3415
+        },
+        "resources": []
+      },
+      {
+        "id": "3a841f30-0b72-4edd-b05a-23a60fd5a73c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "cad70356-f624-496b-9e5f-8df061ec492f",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "843184988",
+    "timeSpentVideo": "0",
+    "submissions": 5371,
+    "submissionsCorrect": 3415,
+    "accuracy": 0.6358220070750326,
+    "difficulty": 0.6166605739352952
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "38f9c584-0048-4258-b2c1-555749401277",
+    "body": "",
+    "questionId": "cad70356-f624-496b-9e5f-8df061ec492f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

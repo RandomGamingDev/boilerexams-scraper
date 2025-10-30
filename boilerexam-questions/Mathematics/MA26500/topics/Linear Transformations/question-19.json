@@ -1,0 +1,173 @@
+{
+  "id": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "942fb05e-e8e1-470a-8e83-f573b798c0c2",
+        "index": 0,
+        "body": "If rows of an $m \\times n$ matrix $A$ are orthonormal, then the linear transformation $\\mathbf{x} \\rightarrow A \\mathbf{x}$ preserves lengths.",
+        "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+        "stats": {
+          "count": 1267
+        },
+        "resources": []
+      },
+      {
+        "id": "3d7a82ee-7297-4d7e-965e-c2dfaa5558d9",
+        "index": 1,
+        "body": "If columns of a $k \\times m$ matrix $A$ are orthonormal and columns of an $m \\times n$ matrix $B$ are orthonormal, then the columns of their product $A B$ are also orthonormal.",
+        "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+        "stats": {
+          "count": 436
+        },
+        "resources": []
+      },
+      {
+        "id": "36efec74-21a0-427a-a819-b73e571ddf2a",
+        "index": 2,
+        "body": "If $A$ is an orthogonal $n \\times n$ matrix and $B$ is an $n \\times n$ matrix obtained from $A$ by interchanging some rows, then $B$ is also orthogonal.",
+        "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+        "stats": {
+          "count": 252
+        },
+        "resources": []
+      },
+      {
+        "id": "eda550e2-13ac-49d8-9e5e-6a1c31533536",
+        "index": 3,
+        "body": "If columns of an $m \\times n$ matrix $A$ are orthonormal, then the linear transformation $\\mathbf{x} \\rightarrow A \\mathbf{x}$ preserves lengths.",
+        "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      },
+      {
+        "id": "d77a9e2b-6448-4573-a363-d99bb2427f6b",
+        "index": 4,
+        "body": "If $A$ and $B$ are two orthogonal $n \\times n$ matrices, then $A B^{T}$ is also orthogonal.",
+        "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "482975204",
+    "timeSpentVideo": "182393644",
+    "submissions": 2690,
+    "submissionsCorrect": 1267,
+    "accuracy": 0.47100371747211894,
+    "difficulty": 0.7779569892473118
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "83b39dfd-dd38-4892-979f-d1f2614b81f9",
+    "body": "",
+    "questionId": "6e1ad760-2a8f-48fa-91d5-145102a438d9",
+    "resources": [
+      {
+        "id": "d455bcc5-3ff7-40b7-acbc-8a3533e47add",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=5487\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "83b39dfd-dd38-4892-979f-d1f2614b81f9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "98f7aa52-6b10-415c-b269-3991425de277",
+      "name": "Orthogonality",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295748992",
+        "timeSpentVideo": "694299197",
+        "submissions": 13140,
+        "submissionsCorrect": 7059,
+        "questions": 6,
+        "accuracy": 0.5372146118721461,
+        "difficulty": 0.7130664652567976
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    }
+  ],
+  "children": []
+}

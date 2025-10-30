@@ -1,0 +1,143 @@
+{
+  "id": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If\n\n\n\\[\n\\left|\\begin{array}{lll}\na & b & c \\\\\nd & e & f \\\\\ng & h & k\n\\end{array}\\right|=-5\n\\]\n\nfind\n\n\\[\n\\left|\\begin{array}{ccc}\n2 d-3 f & e & f \\\\\n2 a-3 c & b & c \\\\\n2(a+g)-3(c+k) & b+h & c+k\n\\end{array}\\right|\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "d3738bb5-b456-4099-bb43-82d51edf937f",
+        "index": 0,
+        "body": "$5$",
+        "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "cf68e000-d869-44da-a510-baa635db4bf2",
+        "index": 1,
+        "body": "$-5$",
+        "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "cd9d96f6-8c60-4fd8-a94d-9217a6a15f4b",
+        "index": 2,
+        "body": "$10$",
+        "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+        "stats": {
+          "count": 1590
+        },
+        "resources": []
+      },
+      {
+        "id": "b630aa28-2c66-4951-87cd-7c9edff6a804",
+        "index": 3,
+        "body": "$-10$",
+        "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "5fdd82d7-e7e1-424d-83dd-9303faf1655d",
+        "index": 4,
+        "body": "$30$",
+        "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "312843504",
+    "timeSpentVideo": "61288691",
+    "submissions": 2310,
+    "submissionsCorrect": 1590,
+    "accuracy": 0.6883116883116883,
+    "difficulty": 0.5695020746887967
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "89d859e8-9698-4138-8456-876dbedf4d75",
+    "body": "",
+    "questionId": "3a206f6a-8f57-49ae-a83d-6cb8dc980cf3",
+    "resources": [
+      {
+        "id": "873b81ef-00e4-4a28-89f4-7f63d62474c4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=3295\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89d859e8-9698-4138-8456-876dbedf4d75",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

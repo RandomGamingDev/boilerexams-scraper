@@ -1,0 +1,149 @@
+{
+  "id": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements best describes the behavior of the <font style=\"font-family:'Courier New'\">for</font> loop on lines #12 \u2013 15 in the program above?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8f540cd1-395f-45ac-8f2f-261dfdb09dec",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">There are FIVE evaluations of the loop control expression but only FOUR iterations.</font>",
+        "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "ff06e131-3b77-47c2-8947-6d77d82c3322",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">There are SIX evaluations of the loop control expression but only FIVE iterations.</font>",
+        "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+        "stats": {
+          "count": 632
+        },
+        "resources": []
+      },
+      {
+        "id": "64232c62-f4f3-45fb-87a9-6bcad19f4556",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">There are SEVEN evaluations of the loop control expression but only SIX iterations.</font>",
+        "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "0d9b4a7e-6267-4c87-a7ce-12b5ae80708d",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "28342041",
+    "timeSpentVideo": "2698023",
+    "submissions": 810,
+    "submissionsCorrect": 632,
+    "accuracy": 0.7802469135802469,
+    "difficulty": 0.5005494505494505
+  },
+  "resources": [
+    {
+      "id": "d22b3442-96e6-4edf-a2d9-6809da6497ae",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 6\n\nint testElements(int, int, int);\n\nint main(void)\n{\n  int i;\n  int x[SIZE] = {10, 5, 1, 4, 2};\n  int y = 0;\n\n  for (i = 1; i < SIZE; i++)\n  {\n    y += testElements(i, x[i - 1], x[i]);\n  }\n\n  return 0;\n}\n\nint testElements(int k, int v, int w)\n{\n  return (v++ % k ? ++w % k ? 2 : 1 : 0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "d0f34975-0ad6-4b81-9f6b-1cd766eb1b66",
+    "body": "",
+    "questionId": "a4ea4970-ed52-4f96-b0ea-dfa8fef7fcb4",
+    "resources": [
+      {
+        "id": "92269e2d-bd62-41ea-a657-93aa9e79dfc8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=2831"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d0f34975-0ad6-4b81-9f6b-1cd766eb1b66",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute curl $\\mathbf{F}(\\pi, 1,1)$, where $\\mathbf{F}=\\langle x+y, y z, \\sin (x)\\rangle$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "53e6a7f5-f15f-456f-a1f9-6cb170190fd0",
+        "index": 0,
+        "body": "$\\langle 1,1,-1\\rangle$",
+        "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "5e97e26c-2ffe-4398-aeff-741898c22cee",
+        "index": 1,
+        "body": "$\\langle 1,1,1\\rangle$",
+        "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "2ed7ee64-c3a3-4f63-8099-a080f4f77317",
+        "index": 2,
+        "body": "$\\langle-1,1,-1\\rangle$",
+        "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+        "stats": {
+          "count": 1883
+        },
+        "resources": []
+      },
+      {
+        "id": "3a63cf3c-1e7d-4e2c-aa83-75ea7bc8eb82",
+        "index": 3,
+        "body": "$\\langle-1,-1,-1\\rangle$",
+        "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      },
+      {
+        "id": "781ec733-2c39-4dc8-9b52-e2316b7345aa",
+        "index": 4,
+        "body": "$\\langle 1,-1,-1\\rangle$",
+        "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "408146680",
+    "timeSpentVideo": "115912846",
+    "submissions": 2795,
+    "submissionsCorrect": 1883,
+    "accuracy": 0.6737030411449016,
+    "difficulty": 0.5822970639032815
+  },
+  "resources": [],
+  "exam": {
+    "id": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11087296287",
+      "timeSpentVideo": "3285469005",
+      "submissions": 57424,
+      "submissionsCorrect": 31424,
+      "questions": 20,
+      "accuracy": 0.5472276400111452,
+      "difficulty": 0.7028544607468187
+    }
+  },
+  "explanation": {
+    "id": "805c0916-3020-4bf2-9bb6-4f766e81a4af",
+    "body": "",
+    "questionId": "63a8a1d2-6b5b-4b85-b15e-61ecc0d02e1f",
+    "resources": [
+      {
+        "id": "ce6874cd-cc55-49c8-8f86-403638cc6bdb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YYp45Q6cmLo?si=QTiJ5XUGJGNHjfbR&t=1026\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "805c0916-3020-4bf2-9bb6-4f766e81a4af",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

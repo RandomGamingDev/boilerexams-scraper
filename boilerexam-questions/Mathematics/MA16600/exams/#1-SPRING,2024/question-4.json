@@ -1,0 +1,158 @@
+{
+  "id": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The area of a triangle with vertices $(2,1,1), (2,2,3)$ and $(1,2,2)$ is",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "02c5b926-c3d5-4f7a-b004-04bb69dd61e0",
+        "index": 0,
+        "body": "$\\sqrt{6}$",
+        "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "598d733b-bb3c-4d41-bb2b-6a58e32d626c",
+        "index": 1,
+        "body": "$\\sqrt{6}/2$",
+        "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "65259340-f208-4218-a90b-4516f66b4b00",
+        "index": 2,
+        "body": "$\\sqrt{15}/2$",
+        "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "e10b2823-870a-4e94-8011-3c443fdc7288",
+        "index": 3,
+        "body": "$\\sqrt{15}$",
+        "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "1f94c06c-9261-4430-8bb8-551e4e373f8c",
+        "index": 4,
+        "body": "2",
+        "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13190954",
+    "timeSpentVideo": "1316060",
+    "submissions": 66,
+    "submissionsCorrect": 45,
+    "accuracy": 0.6818181818181818,
+    "difficulty": 0.677710843373494
+  },
+  "resources": [],
+  "exam": {
+    "id": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "172622659",
+      "timeSpentVideo": "15425885",
+      "submissions": 780,
+      "submissionsCorrect": 456,
+      "questions": 12,
+      "accuracy": 0.5846153846153846,
+      "difficulty": 0.675
+    }
+  },
+  "explanation": {
+    "id": "be6ee66d-6f3d-453c-abfe-05fffcf3f775",
+    "body": null,
+    "questionId": "64d9c9ff-153a-4cb0-bea6-779914d949b9",
+    "resources": [
+      {
+        "id": "160fefe2-03ae-4d94-9ac2-b39306e429c6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/mOcl8_sNs7M?si=I19szpaa0nAkC-qj&t=1027"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "be6ee66d-6f3d-453c-abfe-05fffcf3f775",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "107863d9-d112-4416-a93d-5b33721c1436",
+      "name": "Area of Triangle",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "62600487",
+        "timeSpentVideo": "1316060",
+        "submissions": 66,
+        "submissionsCorrect": 45,
+        "questions": 1,
+        "accuracy": 0.6818181818181818,
+        "difficulty": 0.677710843373494
+      }
+    },
+    {
+      "id": "d7d4059a-564d-4770-ad46-1228bc03c37d",
+      "name": "Cross Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "113091805",
+        "timeSpentVideo": "2766445",
+        "submissions": 125,
+        "submissionsCorrect": 76,
+        "questions": 2,
+        "accuracy": 0.608,
+        "difficulty": 0.69
+      }
+    }
+  ],
+  "children": []
+}

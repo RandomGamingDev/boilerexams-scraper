@@ -1,0 +1,143 @@
+{
+  "id": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $y_{1}(t)=t$ is a solution to $t^{2} y^{\\prime \\prime}-t y^{\\prime}+y=0, t>0$, find a second linearly independent solution $y_{2}(t)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ec30b048-5c4c-4a4a-91aa-cb944b14a055",
+        "index": 0,
+        "body": "$t^{2}$",
+        "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "318cea02-83cb-4e12-98d3-2d71cb889e40",
+        "index": 1,
+        "body": "$t \\ln t$",
+        "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+        "stats": {
+          "count": 286
+        },
+        "resources": []
+      },
+      {
+        "id": "44b5a835-feab-4c70-bde2-74ddb1a371e1",
+        "index": 2,
+        "body": "$\\ln t$",
+        "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "22d4c9c2-7495-468c-8bb1-f9e4187b5b5e",
+        "index": 3,
+        "body": "$t^{2} \\ln t$",
+        "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "e5a809ac-4deb-40f4-9dec-a529300804ac",
+        "index": 4,
+        "body": "$t e^{t}$",
+        "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "162144773",
+    "timeSpentVideo": "85062430",
+    "submissions": 726,
+    "submissionsCorrect": 286,
+    "accuracy": 0.3939393939393939,
+    "difficulty": 0.8432203389830508
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "5b119bca-d6b1-48bb-99e4-d3f1b87f0c29",
+    "body": "",
+    "questionId": "950b3b53-a5b6-4f71-b99a-4221d53f0c62",
+    "resources": [
+      {
+        "id": "10938fa1-2381-4019-94d8-1b505de5caca",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=lIjjY4wGOXNsQzTT&t=1479\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5b119bca-d6b1-48bb-99e4-d3f1b87f0c29",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

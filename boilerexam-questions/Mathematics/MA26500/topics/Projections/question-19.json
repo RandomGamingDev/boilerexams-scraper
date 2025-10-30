@@ -1,0 +1,173 @@
+{
+  "id": "a23069b4-e4d8-409c-b901-ab4431065b56",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $C[-1,1]$ be the vector space of all continuous functions defined on $[-1,1]$. Define with the inner product on $C[-1,1]$ by\n\n\\[\n\\langle f, g\\rangle=\\int_{-1}^{1} f(t) g(t) d t .\n\\]\n\nFind the orthogonal projection of $10 t^{3}-5$ onto the subspace spanned by $1$ and $t$ (with respect to the above inner product on $C[-1,1])$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "4e068067-1955-4534-9dd3-7e0439f66428",
+        "index": 0,
+        "body": "$6 t-10$",
+        "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "62b966eb-a39b-4b24-a744-5d5ad7e3eeea",
+        "index": 1,
+        "body": "$6 t+5$",
+        "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "5c979a60-2e2d-4f9c-8ce1-62a1bc8f781f",
+        "index": 2,
+        "body": "$10 t^{3}-6 t$",
+        "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+        "stats": {
+          "count": 141
+        },
+        "resources": []
+      },
+      {
+        "id": "493e98f7-406b-4e7c-a77d-c24fa9bc833e",
+        "index": 3,
+        "body": "$10 t^{3}-5$",
+        "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "40529ade-692b-43e9-ae4d-e3fc4f02a9c2",
+        "index": 4,
+        "body": "$6 t-5$",
+        "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+        "stats": {
+          "count": 749
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "355766459",
+    "timeSpentVideo": "54794692",
+    "submissions": 1467,
+    "submissionsCorrect": 749,
+    "accuracy": 0.5105657805044308,
+    "difficulty": 0.7401084875558391
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "634951e9-f97c-4ea1-9257-f47e6abded06",
+    "body": "",
+    "questionId": "a23069b4-e4d8-409c-b901-ab4431065b56",
+    "resources": [
+      {
+        "id": "07e789af-fba8-4c29-b1fe-d0f2ecdb5ae2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4130"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "634951e9-f97c-4ea1-9257-f47e6abded06",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "4b2b3533-6f35-42c3-807a-958b6e2580b2",
+      "name": "Projections",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6028478978",
+        "timeSpentVideo": "611094532",
+        "submissions": 13315,
+        "submissionsCorrect": 6424,
+        "questions": 7,
+        "accuracy": 0.48246338715734133,
+        "difficulty": 0.7674058889303019
+      }
+    },
+    {
+      "id": "640baa0d-5555-4cf9-8d6a-025905365429",
+      "name": "Inner Product",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2813088455",
+        "timeSpentVideo": "237315094",
+        "submissions": 5585,
+        "submissionsCorrect": 2916,
+        "questions": 3,
+        "accuracy": 0.5221128021486123,
+        "difficulty": 0.7282761653474055
+      }
+    }
+  ],
+  "children": []
+}

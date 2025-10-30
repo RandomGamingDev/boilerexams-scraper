@@ -1,0 +1,143 @@
+{
+  "id": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral\n\n\n\n\\[\n\\int_{0}^{1} x 2^{x} d x\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "02ebc3fa-8adb-4034-9f9c-70642f46ca57",
+        "index": 0,
+        "body": "$\\frac{\\ln 2-1}{\\ln 2}$",
+        "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+        "stats": {
+          "count": 157
+        },
+        "resources": []
+      },
+      {
+        "id": "cc65fc84-5f2c-4599-a703-0ea57f760e8b",
+        "index": 1,
+        "body": "$\\frac{2 \\ln 2-1}{2 \\ln 2}$",
+        "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+        "stats": {
+          "count": 159
+        },
+        "resources": []
+      },
+      {
+        "id": "ccbe7ff0-43cd-4d63-8ab3-453ad575b4e1",
+        "index": 2,
+        "body": "$\\frac{\\ln 2-1}{(\\ln 2)^{2}}$",
+        "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+        "stats": {
+          "count": 225
+        },
+        "resources": []
+      },
+      {
+        "id": "a2c18877-3ee0-4d11-9fff-6df48c699d34",
+        "index": 3,
+        "body": "$\\frac{2 \\ln 2-1}{(\\ln 2)^{2}}$",
+        "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+        "stats": {
+          "count": 1448
+        },
+        "resources": []
+      },
+      {
+        "id": "e8167a6f-b05f-43ad-8029-a99071b63c76",
+        "index": 4,
+        "body": "$\\frac{\\ln 2-1}{2 \\ln 2}$",
+        "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "712712767",
+    "timeSpentVideo": "77092943",
+    "submissions": 3107,
+    "submissionsCorrect": 1448,
+    "accuracy": 0.46604441583521083,
+    "difficulty": 0.782896788275647
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14951284288",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81377,
+      "submissionsCorrect": 50800,
+      "questions": 25,
+      "accuracy": 0.624255010629539,
+      "difficulty": 0.6258974925439081
+    }
+  },
+  "explanation": {
+    "id": "4ab45ebe-0fb5-4033-a5b6-e5fbcc42b215",
+    "body": "",
+    "questionId": "3d262f4d-cd21-4938-aa75-a4af9fe8ad6f",
+    "resources": [
+      {
+        "id": "cc89447d-3a4b-4bf7-b452-a2f2e43036a7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/E9OXgxHncdE?t=779\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4ab45ebe-0fb5-4033-a5b6-e5fbcc42b215",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

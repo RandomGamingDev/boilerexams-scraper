@@ -1,0 +1,133 @@
+{
+  "id": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding looping constructs is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1a1ed530-c360-434e-bf3c-14342f06f8d6",
+        "index": 0,
+        "body": "Immediately following the update action of a <font style=\"font-family:'Courier New'\">for</font> loop will be the evaluation of the loop control expression.",
+        "questionId": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+        "stats": {
+          "count": 371
+        },
+        "resources": []
+      },
+      {
+        "id": "a704b450-f9c4-465c-99e2-4b77ab9f1c71",
+        "index": 1,
+        "body": "The initialization of the loop control variable must take place outside the body of a <font style=\"font-family:'Courier New'\">do-while</font> loop.",
+        "questionId": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+        "stats": {
+          "count": 1219
+        },
+        "resources": []
+      },
+      {
+        "id": "afebb6fc-325a-4c3f-ab84-8b84c7413dfb",
+        "index": 2,
+        "body": "In a <font style=\"font-family:'Courier New'\">while</font> loop the number of times the loop control expression is evaluated is one more than the number of times the loop will iterate.",
+        "questionId": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "30db12ea-a344-4721-9fce-e99ca6169c9b",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+        "stats": {
+          "count": 341
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 40,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "189464614",
+    "timeSpentVideo": "0",
+    "submissions": 2223,
+    "submissionsCorrect": 1219,
+    "accuracy": 0.5483580746738641,
+    "difficulty": 0.7037236332328886
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "247bb067-8234-49c8-894a-a9f16f0242a4",
+    "body": "",
+    "questionId": "4fd5977f-6f36-41da-8d6b-6baea6831bc0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

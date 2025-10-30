@@ -1,0 +1,158 @@
+{
+  "id": "182e6cad-68fe-4e60-b280-8900253baeeb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose the trajectories of two particles are given by\n\n\n\\[\n\\begin{aligned}\n& \\mathbf{r}_{1}(t)=\\left\\langle t+1,2 t^{1 / 2}, 2^{1 / 2} t\\right\\rangle \\\\\n& \\mathbf{r}_{2}(t)=\\left\\langle 2 t, t^{2}+1, t^{2}-2 t+2^{1 / 2}+1\\right\\rangle\n\\end{aligned}\n\\]\n\nFind the angle between their tangent vectors at their point of collision.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2ac642f1-75c1-4831-b6bf-2ce828095350",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+        "stats": {
+          "count": 384
+        },
+        "resources": []
+      },
+      {
+        "id": "18cf0a51-1823-4305-a50b-5f29e69f7224",
+        "index": 1,
+        "body": "$\\frac{\\pi}{6}$",
+        "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "32cd7b83-71c8-4269-89cc-8c31cc43270f",
+        "index": 2,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+        "stats": {
+          "count": 2487
+        },
+        "resources": []
+      },
+      {
+        "id": "86787306-d97d-4b14-aafa-a91d4f552f14",
+        "index": 3,
+        "body": "$\\frac{\\pi}{3}$",
+        "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+        "stats": {
+          "count": 214
+        },
+        "resources": []
+      },
+      {
+        "id": "a0422222-91e7-4ce4-aa20-5d1f2de60f7e",
+        "index": 4,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1708350004",
+    "timeSpentVideo": "292587972",
+    "submissions": 5903,
+    "submissionsCorrect": 2486,
+    "accuracy": 0.4211417923089954,
+    "difficulty": 0.8275445610528069
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "05f964d2-2920-4c0e-a306-96f7779f7d5a",
+    "body": "",
+    "questionId": "182e6cad-68fe-4e60-b280-8900253baeeb",
+    "resources": [
+      {
+        "id": "e8c2478e-6533-4b93-9996-de802068f30f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=220"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "05f964d2-2920-4c0e-a306-96f7779f7d5a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9e9ef065-904e-46d2-83fa-5523cf6462b2",
+      "name": "Geometric Dot Product",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11851987391",
+        "timeSpentVideo": "746342719",
+        "submissions": 18799,
+        "submissionsCorrect": 10161,
+        "questions": 3,
+        "accuracy": 0.540507473801798,
+        "difficulty": 0.7097068627969734
+      }
+    },
+    {
+      "id": "fe495424-96c9-4ab3-a311-e1b78224e99b",
+      "name": "Particle Motion",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27632325273",
+        "timeSpentVideo": "1513879566",
+        "submissions": 59316,
+        "submissionsCorrect": 39641,
+        "questions": 15,
+        "accuracy": 0.6683019758581159,
+        "difficulty": 0.5819812845024909
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank has the shape obtained by rotating the curve $y=x^3 (0\\leq x \\leq 2)$ about the $y$-axis with unit in foot. The tank is full of liquid, of which each cubic foot weights 3 lb (pounds). The work required to empty the tank by pumping out all the liquid from the top of the tank is given by the formula",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "45410029-dd8a-415d-a421-8a6dcd1fe045",
+        "index": 0,
+        "body": "$\\pi \\int_0^2 x^2 dx$ ft-lb.",
+        "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "48787028-4ffe-45ed-9225-e3b2ab507ade",
+        "index": 1,
+        "body": "$\\pi \\int_0^{16} x^2 dy$ ft-lb.",
+        "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c1e24355-d0ef-479f-8401-8435dc2a34ac",
+        "index": 2,
+        "body": "$3\\pi \\int_0^2 x^2(2-x) dx$ ft-lb.",
+        "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "ad77dae6-a2f7-41ea-85e2-f7d3436b2190",
+        "index": 3,
+        "body": "$3\\pi \\int_0^2 y^2(16-y) dy$ ft-lb.",
+        "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "91d97d7c-9363-4718-98c0-7a110fc38daa",
+        "index": 4,
+        "body": "$3\\pi \\int_0^8 y^{\\frac{2}{3}}(8-y) dy$ ft-lb.",
+        "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "11348833",
+    "timeSpentVideo": "1829091",
+    "submissions": 45,
+    "submissionsCorrect": 24,
+    "accuracy": 0.5333333333333333,
+    "difficulty": 0.7396551724137931
+  },
+  "resources": [],
+  "exam": {
+    "id": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "172622659",
+      "timeSpentVideo": "15425885",
+      "submissions": 780,
+      "submissionsCorrect": 456,
+      "questions": 12,
+      "accuracy": 0.5846153846153846,
+      "difficulty": 0.675
+    }
+  },
+  "explanation": {
+    "id": "892b51f5-2105-4b6f-bc7d-51b62847a9b3",
+    "body": null,
+    "questionId": "5d770fb3-75d2-49d9-b4ce-8ca8dc644af7",
+    "resources": [
+      {
+        "id": "a22b6cc0-0bcb-47d5-ba51-4624b899f8cd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/mOcl8_sNs7M?si=I19szpaa0nAkC-qj&t=2584"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "892b51f5-2105-4b6f-bc7d-51b62847a9b3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "81c96465-1f5d-4c1f-98fd-2b7e0f8ae510",
+      "name": "Work",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "160011165",
+        "timeSpentVideo": "3401008",
+        "submissions": 127,
+        "submissionsCorrect": 76,
+        "questions": 3,
+        "accuracy": 0.5984251968503937,
+        "difficulty": 0.6949339207048458
+      }
+    }
+  ],
+  "children": []
+}

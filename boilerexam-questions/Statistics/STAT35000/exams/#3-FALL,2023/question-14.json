@@ -1,0 +1,121 @@
+{
+  "id": "f6a16d83-8055-4df8-82e8-d0c8bd8e710c",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A college dietitian has developed three diet plans, namely Diet 1, Diet 2, and Diet 3, to assist college students in losing weight. The weight of participants who followed these diet programs was measured in pounds both before starting the diet and after completing three months on the respective diet plan. The dietitian is investigating whether there are any differences in the effectiveness of these three diets in terms of the average weight loss achieved. Weight loss is defined as the difference between the weight measured after three months and the weight measured before starting the diet. The summary information for each diet is provided below.\n\n(e) At 5% level of significance, is there evidence that the average weight lost due to at-least one Diet is different? Provide a formal decision and conclusion in context. (Hint: Use the ANOVA table)",
+    "solution": "Decision: The \ud835\udc91-value = 0.001327266 \u2264 \ud835\udfce. \ud835\udfce\ud835\udfd3; therefore, we have evidence to reject the null hypothesis.\n\nThe data does give strong support (\ud835\udc91-value = 0.001327266) to the claim that that the true\naverage weight lost due to at least one diet is different from the other two diets.",
+    "answerChoices": []
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "5109521",
+    "timeSpentVideo": "544526",
+    "submissions": 67,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.9505988023952097
+  },
+  "resources": [
+    {
+      "id": "7eddf24f-1b14-485e-8648-424112e9bddd",
+      "type": "IMAGE",
+      "data": {
+        "key": "8-NABi_JF_FYwS8a7FVXN",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8-NABi_JF_FYwS8a7FVXN"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f6a16d83-8055-4df8-82e8-d0c8bd8e710c",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "d020decf-5be2-4493-9b6f-bf07c8dd2e0e",
+    "body": null,
+    "questionId": "f6a16d83-8055-4df8-82e8-d0c8bd8e710c",
+    "resources": [
+      {
+        "id": "665ffc3c-9193-4a78-87bf-661ed932517e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=895"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d020decf-5be2-4493-9b6f-bf07c8dd2e0e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+      "name": "ANOVA",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "266660238",
+        "timeSpentVideo": "81603699",
+        "submissions": 1126,
+        "submissionsCorrect": 390,
+        "questions": 6,
+        "accuracy": 0.3463587921847247,
+        "difficulty": 0.8911092985318108
+      }
+    },
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

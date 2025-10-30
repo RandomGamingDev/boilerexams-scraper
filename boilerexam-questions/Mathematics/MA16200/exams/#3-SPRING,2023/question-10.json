@@ -1,0 +1,143 @@
+{
+  "id": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Approximate $e^{-0.1}$ using a 2nd-order Taylor polynomial centered at $a=0$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c6d22b29-2614-4065-b5bf-ef3816af35da",
+        "index": 0,
+        "body": "$0.895$",
+        "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      },
+      {
+        "id": "968a2158-13c8-4999-b2e7-a6c22fdf2b51",
+        "index": 1,
+        "body": "$0.91$",
+        "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "4c79fc2f-e7b9-417c-a9a8-f9dbe2a62a6d",
+        "index": 2,
+        "body": "$0.89$",
+        "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "91adc53e-3707-4781-a912-305a2d108051",
+        "index": 3,
+        "body": "$0.915$",
+        "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "518cc8b7-e695-4179-9007-363a5262b3df",
+        "index": 4,
+        "body": "$0.905$",
+        "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+        "stats": {
+          "count": 1805
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "498488247",
+    "timeSpentVideo": "98913812",
+    "submissions": 2889,
+    "submissionsCorrect": 1805,
+    "accuracy": 0.6247836621668398,
+    "difficulty": 0.6293911007025761
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "ee03930f-e1eb-4672-bb77-538bb5b2482e",
+    "body": "",
+    "questionId": "2e3e8e53-a857-4c63-b747-7dba2559b253",
+    "resources": [
+      {
+        "id": "9abc001a-100d-458d-a7bc-66a6d6547adc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=1744\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ee03930f-e1eb-4672-bb77-538bb5b2482e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "58e98ebf-e8a1-4bf5-8c67-d568da7b5f65",
+      "name": "Taylor Polynomial",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7926557724",
+        "timeSpentVideo": "579629183",
+        "submissions": 19196,
+        "submissionsCorrect": 12410,
+        "questions": 8,
+        "accuracy": 0.6464888518441342,
+        "difficulty": 0.6042703150912107
+      }
+    }
+  ],
+  "children": []
+}

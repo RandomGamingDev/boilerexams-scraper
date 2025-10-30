@@ -1,0 +1,143 @@
+{
+  "id": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\cos \\left(\\sin ^{-1}(x)\\right)=$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c5533551-a092-49a0-8575-f0a2dc42adf7",
+        "index": 0,
+        "body": "$\\sqrt{1-x^{2}}$",
+        "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+        "stats": {
+          "count": 1106
+        },
+        "resources": []
+      },
+      {
+        "id": "29ada10d-4dc1-46f6-89a7-1877fab1871d",
+        "index": 1,
+        "body": "$\\frac{\\sqrt{1-x^{2}}}{x}$",
+        "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "d8a465d7-1d5c-41b4-b234-0e35d8b94613",
+        "index": 2,
+        "body": "$\\frac{x}{\\sqrt{1-x^{2}}}$",
+        "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "0552c6b1-f3aa-45e0-bee8-21af9667de8d",
+        "index": 3,
+        "body": "$\\sqrt{x^{2}-1}$",
+        "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "8c3fac0e-668c-4b5c-952e-10a78b76ad0b",
+        "index": 4,
+        "body": "$1-x$ ",
+        "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "207441991",
+    "timeSpentVideo": "70656572",
+    "submissions": 1841,
+    "submissionsCorrect": 1106,
+    "accuracy": 0.6007604562737643,
+    "difficulty": 0.6544307058217413
+  },
+  "resources": [],
+  "exam": {
+    "id": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3559385729",
+      "timeSpentVideo": "911881661",
+      "submissions": 26164,
+      "submissionsCorrect": 15867,
+      "questions": 12,
+      "accuracy": 0.6064439688121083,
+      "difficulty": 0.6439613158696315
+    }
+  },
+  "explanation": {
+    "id": "6fae0144-002e-4d58-83c6-119fba1981c6",
+    "body": "",
+    "questionId": "b25e15e3-e984-4a98-b3e4-a498b8f327bf",
+    "resources": [
+      {
+        "id": "a12807c6-ae5d-4fbb-831e-53c928d8461d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4c4tD0-xJw4?t=2744"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6fae0144-002e-4d58-83c6-119fba1981c6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d2498fba-6ed9-45b1-b019-b3fe63a47613",
+      "name": "Properties of Trig Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2381383556",
+        "timeSpentVideo": "264454353",
+        "submissions": 6203,
+        "submissionsCorrect": 3472,
+        "questions": 4,
+        "accuracy": 0.5597291633080768,
+        "difficulty": 0.6912184673964779
+      }
+    }
+  ],
+  "children": []
+}

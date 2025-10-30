@@ -1,0 +1,133 @@
+{
+  "id": "f304fa15-49af-4007-b595-64e375cd9745",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding passing parameters by address is <b>TRUE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9e849858-97e0-4d43-beea-5755dc93ceac",
+        "index": 0,
+        "body": "The identifiers of the variables in the function call must match the parameter identifiers of the called function.",
+        "questionId": "f304fa15-49af-4007-b595-64e375cd9745",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "1eeeeefe-f9be-470b-bafb-9a8765c899f8",
+        "index": 1,
+        "body": "Functions that pass parameters by address must be <code>void</code>.",
+        "questionId": "f304fa15-49af-4007-b595-64e375cd9745",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c12da048-44f4-4241-a7fd-dfcc48724206",
+        "index": 2,
+        "body": "The data type of each parameter must match the address type of each variable that is to be passed by address.",
+        "questionId": "f304fa15-49af-4007-b595-64e375cd9745",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "34f87624-0d47-420c-a838-de25f0494e41",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f304fa15-49af-4007-b595-64e375cd9745",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "829355",
+    "timeSpentVideo": "0",
+    "submissions": 7,
+    "submissionsCorrect": 4,
+    "accuracy": 0.5714285714285714,
+    "difficulty": 0.7453271028037384
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "0b2a7bc0-94e0-4aa2-854b-6867013b17be",
+    "body": null,
+    "questionId": "f304fa15-49af-4007-b595-64e375cd9745",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    },
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

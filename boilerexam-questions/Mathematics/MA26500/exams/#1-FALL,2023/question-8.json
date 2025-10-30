@@ -1,0 +1,90 @@
+{
+  "id": "b4f64c36-ddec-49c3-8fc8-dc169e4e1468",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the linear system \n\n\\[\n\\left[\\begin{array}{ccc}\n1 & 1 & a\\\\\n0 & 1 & a^2-2 \\\\\n3 & 2 & 2\n\\end{array}\\right]\\textrm{\\textbf{x}} = \n\\left[\\begin{array}{c} 1\\\\ a \\\\3  \\end{array} \\right]\n\\]\n(1) Find a row echelon form for the augmented matrix of the system. \n\n(2) For which value(s) of $a$ does this system have an infinite number of solutions? \n\n(3) For which value(s) of $a$ does this system have no solution? \n\n(4) For which value(s) of $a$ does this system have a unique solution? ",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "205883210",
+    "timeSpentVideo": "60715752",
+    "submissions": 711,
+    "submissionsCorrect": 225,
+    "accuracy": 0.31645569620253167,
+    "difficulty": 0.9109124537607891
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "78d178aa-0c93-4a55-b10f-d82deff486ba",
+    "body": null,
+    "questionId": "b4f64c36-ddec-49c3-8fc8-dc169e4e1468",
+    "resources": [
+      {
+        "id": "ebd6d743-8134-4769-a5a8-3c952d9b7b6d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/MB-5ODp29gM?si=-hEy38ybC0PwMRia"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "78d178aa-0c93-4a55-b10f-d82deff486ba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

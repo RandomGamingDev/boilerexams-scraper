@@ -1,0 +1,91 @@
+{
+  "id": "8e1c3be6-00f5-432d-9252-a9e6e9ecc14d",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Define the runtime expressions that count the number of variable updates (e.g., statements where a\nvariable changes its value, not including variable initialization) in terms of n (i.e., the length of the input\narray). What are the best-case and worst-case runtime complexities? Can we claim a $\u0398 (g (n))$? Assume\nall values and variables are integers.",
+    "solution": "Worst case: $T(n)=n^2$\nBest case: $T(n)=\\frac{n^2}{2}+\\frac{n}{2}$\n$T(n) \\in O(n^2)$\n$T(n) \\in \\Omega (n^2)$\nYes, $T(n) \\in \\Theta (n^2)$",
+    "answerChoices": []
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "262465508",
+    "timeSpentVideo": "0",
+    "submissions": 667,
+    "submissionsCorrect": 485,
+    "accuracy": 0.7271364317841079,
+    "difficulty": 0.5524771838331161
+  },
+  "resources": [
+    {
+      "id": "d77532c8-b34d-4533-8e10-4cbe3d584e70",
+      "type": "CODE",
+      "data": {
+        "content": "algorithm EqualCount(A: an array of integers)\n    n = length of A\n    count = 0\n    for i = 0 to n - 1 do\n        for j = n - 1 down to i + 1 do\n            if A[i] == A[j] then\n                count = count + 1\n            end if\n        end for\n    end for\n    return count\nend algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "8e1c3be6-00f5-432d-9252-a9e6e9ecc14d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "9cef12c5-413e-4fd7-8fa3-6b3c2efef906",
+    "body": null,
+    "questionId": "8e1c3be6-00f5-432d-9252-a9e6e9ecc14d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

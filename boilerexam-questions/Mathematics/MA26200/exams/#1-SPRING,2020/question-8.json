@@ -1,0 +1,143 @@
+{
+  "id": "70081a6a-bf39-41df-ae51-94c552f598c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $A \\mathbf{x}=\\mathbf{b}$, where $A$ is a matrix and $\\mathbf{x}$ and $\\mathbf{b}$ are vectors, which of the following statements is NOT necessarily true?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0e7912ab-aef4-4f87-bb02-1fac1c7ecc39",
+        "index": 0,
+        "body": "If $A$ has $3$ columns, then $\\mathbf{x}$ has $3$ entries",
+        "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "54e54627-57c2-4f00-94b2-46033a8a89ec",
+        "index": 1,
+        "body": "If $A$ has $5$ rows, then $\\mathbf{b}$ has $5$ entries",
+        "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "8007b328-19ee-41a4-bd14-3d5442a8f288",
+        "index": 2,
+        "body": "If $\\mathbf{x}=\\mathbf{0}$, then $\\mathbf{b}=\\mathbf{0}$ regardless of the entries of $A$",
+        "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "28935fc4-9496-4019-8e5f-aa482ea569b1",
+        "index": 3,
+        "body": "If $\\mathbf{b}=\\mathbf{0}$, then $\\mathbf{x}=\\mathbf{0}$ regardless of the entries of $A$",
+        "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+        "stats": {
+          "count": 444
+        },
+        "resources": []
+      },
+      {
+        "id": "dfa0a4bc-be1d-4d7e-b887-0237b2283cfd",
+        "index": 4,
+        "body": "$\\mathbf{b}$ is in the span of the columns of $A$",
+        "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "83069172",
+    "timeSpentVideo": "28520493",
+    "submissions": 803,
+    "submissionsCorrect": 444,
+    "accuracy": 0.5529265255292652,
+    "difficulty": 0.7029346622369879
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "33833d60-dacb-4bde-8a84-1ebf60a0fa0d",
+    "body": "",
+    "questionId": "70081a6a-bf39-41df-ae51-94c552f598c0",
+    "resources": [
+      {
+        "id": "0291caea-5649-4a9e-9337-15b99fb9ff91",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=ctXX7EeNd898t4S5&t=1272\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "33833d60-dacb-4bde-8a84-1ebf60a0fa0d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

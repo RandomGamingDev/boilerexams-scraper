@@ -1,0 +1,143 @@
+{
+  "id": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is an implicit solution to the differential equation\n\\[\n    (2x+ 7y)dx+ (7x+ 8y)dy = 0\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a4b88d25-f957-4abb-b89b-f56e8459e312",
+        "index": 0,
+        "body": "$\n    x^2 + 7xy + 4y^2 = C\n$",
+        "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+        "stats": {
+          "count": 558
+        },
+        "resources": []
+      },
+      {
+        "id": "ef3494b2-0a94-4f6d-a84a-bd311c9d2737",
+        "index": 1,
+        "body": "$\n    x^2 - 7xy - 4y^2 = C\n$",
+        "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "b4f54519-9835-4365-8071-50d3c66e359d",
+        "index": 2,
+        "body": "$\n    x^2 + 4y^2 = C\n$",
+        "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "98f8e7f4-29a2-4cc8-a8ab-e8158e43f3ac",
+        "index": 3,
+        "body": "$\n    x^2 - 4y^2 = C\n$",
+        "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "33f90672-db4a-4703-9c5c-0622222fe5e4",
+        "index": 4,
+        "body": "$\n    x^3 - 7xy + 4y^2 = C\n$",
+        "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "112259538",
+    "timeSpentVideo": "9270364",
+    "submissions": 703,
+    "submissionsCorrect": 558,
+    "accuracy": 0.7937411095305832,
+    "difficulty": 0.4928393524283935
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "9384beac-5181-4909-9f41-5d9952164afe",
+    "body": null,
+    "questionId": "8bcc30db-7a2a-4ef0-a8d7-36ea5c5aab28",
+    "resources": [
+      {
+        "id": "891290e6-ee7b-494e-92f3-8d2dd870ef3a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=lcr7yCD-Tse35zry&t=236"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9384beac-5181-4909-9f41-5d9952164afe",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "22844638-9a38-4c16-98e5-6e5ced2e330b",
+      "name": "Exact Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4092456179",
+        "timeSpentVideo": "374640397",
+        "submissions": 10203,
+        "submissionsCorrect": 6475,
+        "questions": 10,
+        "accuracy": 0.6346172694305596,
+        "difficulty": 0.6166893137920993
+      }
+    }
+  ],
+  "children": []
+}

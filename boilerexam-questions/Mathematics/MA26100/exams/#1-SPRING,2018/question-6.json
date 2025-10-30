@@ -1,0 +1,143 @@
+{
+  "id": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the length of the curve:\n\\[\n\\overrightarrow{\\mathbf{r}}(t)=\\langle 4 \\sin t, 3 t,-4 \\cos t\\rangle, \\quad 0 \\leq t \\leq \\frac{1}{2} .\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "16a6976e-8e58-4612-87ec-b84a1118ef7e",
+        "index": 0,
+        "body": "$\\frac{8}{3} \\sinh ^{-1}\\left(\\frac{3}{8}\\right)$",
+        "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "da484aa2-5f4c-4c84-be9a-120d5f5149a7",
+        "index": 1,
+        "body": "$\\frac{8}{3} \\sinh ^{-1}\\left(\\frac{3}{8}\\right)+\\frac{\\sqrt{73}}{8}$",
+        "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "9b51c4c9-433d-4323-94f1-7b6374603e6b",
+        "index": 2,
+        "body": "$2.5$",
+        "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+        "stats": {
+          "count": 4719
+        },
+        "resources": []
+      },
+      {
+        "id": "63ae3c29-980b-4ee6-82f9-d3ca133beadd",
+        "index": 3,
+        "body": "$5$",
+        "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+        "stats": {
+          "count": 287
+        },
+        "resources": []
+      },
+      {
+        "id": "2e0af636-5890-4c46-ab09-f2cc6673c467",
+        "index": 4,
+        "body": "$5 \\pi$",
+        "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "848719345",
+    "timeSpentVideo": "56359135",
+    "submissions": 5627,
+    "submissionsCorrect": 4719,
+    "accuracy": 0.8386351519459747,
+    "difficulty": 0.41727780687969274
+  },
+  "resources": [],
+  "exam": {
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+    "number": 1,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14045692220",
+      "timeSpentVideo": "2133559776",
+      "submissions": 68612,
+      "submissionsCorrect": 42252,
+      "questions": 12,
+      "accuracy": 0.6158106453681572,
+      "difficulty": 0.6343578996390732
+    }
+  },
+  "explanation": {
+    "id": "c12d3e8d-ca80-48ed-90e0-f95b0c776151",
+    "body": "",
+    "questionId": "c8fdcb4d-3d50-4c39-8ead-3b2fa7e01f88",
+    "resources": [
+      {
+        "id": "8c588a9a-6c08-4c58-86e3-42bd1af0c1fc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QLbA7GKKkPs?t=563"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c12d3e8d-ca80-48ed-90e0-f95b0c776151",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae4e633c-83e3-4b7d-9cdb-f01a1cf447b1",
+      "name": "Arc Length",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17928813611",
+        "timeSpentVideo": "694988862",
+        "submissions": 43309,
+        "submissionsCorrect": 31254,
+        "questions": 7,
+        "accuracy": 0.7216513888568196,
+        "difficulty": 0.5288592227418277
+      }
+    }
+  ],
+  "children": []
+}

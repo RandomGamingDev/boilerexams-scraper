@@ -1,0 +1,150 @@
+{
+  "id": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Amy developed an algorithm and ran several experiments on it to analyze its runtime. She collected the following data.\n\n(a) The algorithm took too long for an input size of $n=640$. Assuming we can use the Power Law $T(n)=an^b$ to propose a runtime expression of the algorithm, make a reasonable prediction for $T(640)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a9fe6b4b-c813-4b52-ba14-61163aa86ea9",
+        "index": 0,
+        "body": "1920",
+        "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "45cf6131-d141-4d78-91d2-4df31a92276a",
+        "index": 1,
+        "body": "3840",
+        "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+        "stats": {
+          "count": 894
+        },
+        "resources": []
+      },
+      {
+        "id": "f9818621-738a-4397-9b99-d720c912d970",
+        "index": 2,
+        "body": "7680",
+        "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "7804673d-e26b-43d6-b00c-d389e1870613",
+        "index": 3,
+        "body": "You cannot provide a reasonable prediction for $T(640)$.",
+        "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "242745128",
+    "timeSpentVideo": "41204974",
+    "submissions": 1330,
+    "submissionsCorrect": 894,
+    "accuracy": 0.6721804511278195,
+    "difficulty": 0.5898601398601399
+  },
+  "resources": [
+    {
+      "id": "ca6230da-8f34-4086-a71b-cd677e426038",
+      "type": "IMAGE",
+      "data": {
+        "key": "YYD1Ay9JatUiGDPQGQggs",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/YYD1Ay9JatUiGDPQGQggs",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "4145d51e-1b5b-46f4-a604-cb239edf08e8",
+    "body": "",
+    "questionId": "c6fd6a4a-6341-4be5-b13a-ef3a950717a4",
+    "resources": [
+      {
+        "id": "6ec79245-8294-4471-9824-4b9dca0e55d3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=24"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4145d51e-1b5b-46f4-a604-cb239edf08e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9497f217-0b8b-480c-8ff8-e1ed96c6623b",
+      "name": "Power Law",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1967928710",
+        "timeSpentVideo": "59718052",
+        "submissions": 4108,
+        "submissionsCorrect": 2611,
+        "questions": 4,
+        "accuracy": 0.6355890944498539,
+        "difficulty": 0.6176330798479087
+      }
+    }
+  ],
+  "children": []
+}

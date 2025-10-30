@@ -1,0 +1,153 @@
+{
+  "id": "c223b993-5e1a-4ade-910b-82ace1704133",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\n\\[\nf(x)= \\begin{cases}5x & x < 1 \\\\ 20-x & 1\\leq x<3 \\\\ 2x^2-1 & x \\geq 3\\end{cases}\n\\]\n\nWhich statement is true about the discontinuties of $f(x)$. ",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9e26d04c-90a2-4bf2-8660-e4adb67efcaa",
+        "index": 0,
+        "body": "$f(x)$ is only discontinuous at $x=19$.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "4cd79616-c03d-40fa-99fa-3bf00a8b29ea",
+        "index": 1,
+        "body": "$f(x)$ is only discontinuous at $x=3$.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "c3198f6c-dbec-4420-8ed4-36d729d1a1c2",
+        "index": 2,
+        "body": "$f(x)$ is only discontinuous at $x=1$.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "8124cd8e-5d1d-477d-ab47-6e02f2f25e13",
+        "index": 3,
+        "body": "$f(x)$ is only discontinuous at $x=17$.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "437b8dab-3239-4690-b4ee-51dbcc526148",
+        "index": 4,
+        "body": "$f(x)$ is only discontinuous at $x=5$.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "edb55a53-633a-4845-a88e-fc8e6990a8fc",
+        "index": 5,
+        "body": "$f(x)$ does not have any discontinuties.",
+        "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "54956848",
+    "timeSpentVideo": "6377146",
+    "submissions": 325,
+    "submissionsCorrect": 201,
+    "accuracy": 0.6184615384615385,
+    "difficulty": 0.6594117647058824
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "0e6c434b-111e-42c9-8a14-3d40ca689a07",
+    "body": null,
+    "questionId": "c223b993-5e1a-4ade-910b-82ace1704133",
+    "resources": [
+      {
+        "id": "0c757bb1-9894-4456-a1fc-1b7ba2682d96",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=nlzdEMTGMOJZ_pwU&t=607"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0e6c434b-111e-42c9-8a14-3d40ca689a07",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "558eea1e-3391-489f-8a70-bc037064aa5d",
+      "name": "Limits and Continuity",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "791045936",
+        "timeSpentVideo": "29781570",
+        "submissions": 1379,
+        "submissionsCorrect": 882,
+        "questions": 4,
+        "accuracy": 0.6395939086294417,
+        "difficulty": 0.6198444895199459
+      }
+    }
+  ],
+  "children": []
+}

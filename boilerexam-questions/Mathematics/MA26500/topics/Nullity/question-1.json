@@ -1,0 +1,173 @@
+{
+  "id": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is not always true?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f96e3e69-36b7-4058-bc67-4a464eda3645",
+        "index": 0,
+        "body": "If $\\mathbf{u}, \\mathbf{v}$, and $\\mathbf{w}$ are linearly independent vectors in a vector space, then $\\mathbf{u}+\\mathbf{v}, \\mathbf{v}+\\mathbf{w}$, and $\\mathbf{w}$ are also linearly independent vectors in the vector space.",
+        "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+        "stats": {
+          "count": 881
+        },
+        "resources": []
+      },
+      {
+        "id": "4c37d210-20b9-4a59-bc31-e2ce0e53286c",
+        "index": 1,
+        "body": "Every linearly independent set of vectors in $\\mathbb{R}^{n}$ consists of at most $n$ vectors.",
+        "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+        "stats": {
+          "count": 350
+        },
+        "resources": []
+      },
+      {
+        "id": "b59bbde1-4e93-4524-ab35-458d2fdd5c84",
+        "index": 2,
+        "body": "Every spanning set of $\\mathbb{R}^{n}$ contains a basis of $\\mathbb{R}^{n}$.",
+        "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+        "stats": {
+          "count": 647
+        },
+        "resources": []
+      },
+      {
+        "id": "4cdad886-89a4-4728-a7f2-500055c0d2eb",
+        "index": 3,
+        "body": "If the nullity of a matrix $A$ is zero, then linear system $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for every b.",
+        "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+        "stats": {
+          "count": 2594
+        },
+        "resources": []
+      },
+      {
+        "id": "7b149870-44dc-478e-a513-cd2ea164fd36",
+        "index": 4,
+        "body": "Any integer between $0$ and $4$, inclusive, can be the rank of a $6 \\times 4$ matrix.",
+        "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+        "stats": {
+          "count": 411
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "849989167",
+    "timeSpentVideo": "546031991",
+    "submissions": 5821,
+    "submissionsCorrect": 2594,
+    "accuracy": 0.44562789898642846,
+    "difficulty": 0.8034538084782976
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "898fff60-6ac1-4721-b3ad-2d2e5677c7c7",
+    "body": "",
+    "questionId": "af4cd8c8-4116-43c8-a3dc-5820a89e2695",
+    "resources": [
+      {
+        "id": "fce50179-0ed2-490d-ba3e-db648cd58f10",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?t=1"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "898fff60-6ac1-4721-b3ad-2d2e5677c7c7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "68f7e308-95fe-41c8-9410-cc4b40d9b519",
+      "name": "Nullity",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8372451403",
+        "timeSpentVideo": "1247678872",
+        "submissions": 19960,
+        "submissionsCorrect": 11815,
+        "questions": 5,
+        "accuracy": 0.591933867735471,
+        "difficulty": 0.6585244267198405
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    }
+  ],
+  "children": []
+}

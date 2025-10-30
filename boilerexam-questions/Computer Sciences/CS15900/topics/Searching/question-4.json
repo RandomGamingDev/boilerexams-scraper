@@ -1,0 +1,133 @@
+{
+  "id": "50d16eb1-7628-457e-805b-d7685066ee38",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below and a target of 75,<br><font style=\"font-family:'Courier New'\">51 54 58 59 63 65 66 70 71 74</font><br>which of the following represents the final values of the\u00a0<font style=\"font-family:'Courier New'\">first</font> and <font style=\"font-family:'Courier New'\">last</font>\u00a0variables when the binary search is applied?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "74efc498-40a1-4887-a8c1-1b6408255a48",
+        "index": 0,
+        "body": "first = 9, last = 8",
+        "questionId": "50d16eb1-7628-457e-805b-d7685066ee38",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "9310168a-0741-43b2-b501-dd387f18488e",
+        "index": 1,
+        "body": "first = 10, last = 9",
+        "questionId": "50d16eb1-7628-457e-805b-d7685066ee38",
+        "stats": {
+          "count": 1475
+        },
+        "resources": []
+      },
+      {
+        "id": "8de216fa-7135-47a4-8129-d9f5c8ee19d4",
+        "index": 2,
+        "body": "first = 9, last = 9",
+        "questionId": "50d16eb1-7628-457e-805b-d7685066ee38",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "b687e890-153f-4973-97bd-91a21b10055b",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "50d16eb1-7628-457e-805b-d7685066ee38",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "193732065",
+    "timeSpentVideo": "37969987",
+    "submissions": 2232,
+    "submissionsCorrect": 1475,
+    "accuracy": 0.66084229390681,
+    "difficulty": 0.5960548885077187
+  },
+  "resources": [],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "872576f8-2ecf-45a5-bcbb-990c566095f4",
+    "body": "",
+    "questionId": "50d16eb1-7628-457e-805b-d7685066ee38",
+    "resources": [
+      {
+        "id": "d10ab29b-1ec2-456d-b415-da806c9a17fa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=345"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "872576f8-2ecf-45a5-bcbb-990c566095f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

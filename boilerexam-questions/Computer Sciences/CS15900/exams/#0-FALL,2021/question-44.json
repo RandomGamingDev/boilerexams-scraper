@@ -1,0 +1,134 @@
+{
+  "id": "37f6517c-9649-42f2-9f29-041768f521c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is NOT a valid function declaration for <font style=\"font-family:'Courier New'\">splitDate</font> that could be used on line #2?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "72847ead-c408-46bc-a323-3e271d8d7ce8",
+        "index": 0,
+        "body": "void splitDate(int, int*, int*, int*);",
+        "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+        "stats": {
+          "count": 246
+        },
+        "resources": []
+      },
+      {
+        "id": "a2f92a5d-b08d-4dc0-86fa-0c270f3e4fd8",
+        "index": 1,
+        "body": "void splitDate(int x, int *m, int *d, int *y);",
+        "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+        "stats": {
+          "count": 862
+        },
+        "resources": []
+      },
+      {
+        "id": "8a863b71-5d63-45cb-b871-991425e71265",
+        "index": 2,
+        "body": "void splitDate(int, int *, int *, int *);",
+        "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+        "stats": {
+          "count": 517
+        },
+        "resources": []
+      },
+      {
+        "id": "7ab941de-58bc-4d2b-82f6-1b46e0a211cc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+        "stats": {
+          "count": 1671
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 44,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "273414649",
+    "timeSpentVideo": "0",
+    "submissions": 3325,
+    "submissionsCorrect": 1671,
+    "accuracy": 0.5025563909774436,
+    "difficulty": 0.7475182481751825
+  },
+  "resources": [
+    {
+      "id": "9b9f8d86-428d-4a31-b117-89d6e29a2ba1",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n// Question #44\n\nint main(void)\n{\n  int mo;\n  int day;\n  int yr;\n\n  splitDate(11210, &mo, &day, &yr);\n  yr += 2000;\n\n  printf(\"%4d/%02d/%02d\", yr, mo, day);\t// Question #43\n  return 0;\n}\n\nvoid splitDate(int date, int *mo, int *day, int *yr)\n{\n  *yr = date % 100;\n  date /= 100;\n\n  *day = date % 100;\n  date /= 100;\n\n  *mo = date;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "43d08423-aeef-4841-8028-f67d6caf7d65",
+    "body": "",
+    "questionId": "37f6517c-9649-42f2-9f29-041768f521c8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2bd450d2-6b6f-4334-9cce-ec32bb051b73",
+      "name": "Pointers",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23135421221",
+        "timeSpentVideo": "108143106",
+        "submissions": 72257,
+        "submissionsCorrect": 45875,
+        "questions": 26,
+        "accuracy": 0.6348865853827311,
+        "difficulty": 0.6152998327736087
+      }
+    }
+  ],
+  "children": []
+}

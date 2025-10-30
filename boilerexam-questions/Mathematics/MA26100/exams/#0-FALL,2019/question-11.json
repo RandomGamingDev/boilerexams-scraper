@@ -1,0 +1,157 @@
+{
+  "id": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the line integral $\\int_{C}^{}(4x^{3}+y^{3})ds$, where C is the line segment from (0, 0) to (1, 2).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "35093ac4-d881-4fdc-93d9-ef719f2dac89",
+        "index": 0,
+        "body": "$3 \\sqrt{5}$",
+        "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+        "stats": {
+          "count": 3892
+        },
+        "resources": []
+      },
+      {
+        "id": "aef91b2b-8394-4e42-8981-f503fa4e737e",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "cee03eb8-4c3f-49f4-9788-a47a08c2697b",
+        "index": 2,
+        "body": "$\\sqrt{5} \\pi$",
+        "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "5062d1a6-d683-451b-afae-d2a2485a9386",
+        "index": 3,
+        "body": "$5 \\sqrt{5} / 4$",
+        "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      },
+      {
+        "id": "aad67251-8acf-4efe-9552-4763cc262c5f",
+        "index": 4,
+        "body": "$-5$",
+        "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "950183709",
+    "timeSpentVideo": "80261422",
+    "submissions": 4815,
+    "submissionsCorrect": 3892,
+    "accuracy": 0.8083073727933541,
+    "difficulty": 0.44796541200406914
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "29a78148-fee9-4499-8e95-a07d267e5c2e",
+    "body": "",
+    "questionId": "fc324857-3a53-488b-872a-031d1fa0c0ec",
+    "resources": [
+      {
+        "id": "c9b7579c-c115-4021-95aa-7164bdd382f0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=K7dKb1CPNiHt0iSu&t=2096"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "29a78148-fee9-4499-8e95-a07d267e5c2e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "1e331608-3a05-4a0d-9f1d-ec58c9f728c2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=K7dKb1CPNiHt0iSu&t=2096"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "29a78148-fee9-4499-8e95-a07d267e5c2e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "334db9c7-f3fb-4b31-b85f-4831cd44188e",
+      "name": "Line Integral - ds",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15511711835",
+        "timeSpentVideo": "1844731217",
+        "submissions": 37740,
+        "submissionsCorrect": 21910,
+        "questions": 8,
+        "accuracy": 0.5805511393746687,
+        "difficulty": 0.669661733615222
+      }
+    }
+  ],
+  "children": []
+}

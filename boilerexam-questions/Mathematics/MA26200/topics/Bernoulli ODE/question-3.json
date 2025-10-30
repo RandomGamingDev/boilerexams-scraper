@@ -1,0 +1,128 @@
+{
+  "id": "f30445d1-5726-44cc-91f5-1acc7636338d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(x)$ be the solution of the following initial value problem\n\n\\[\nxy'=y+\\frac{3}{2}(x^2y)^{\\frac{1}{3}}, \\quad y(1)=1.\n\\]\n\nFind the value $y\\left(e^{3}\\right)$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ceceda1b-0f00-4de2-a6a3-f688ab469bc3",
+        "index": 0,
+        "body": "$e^{3}$",
+        "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      },
+      {
+        "id": "3177ce34-78e0-42f8-b7de-5bf30d700348",
+        "index": 1,
+        "body": "$4 e^{3}$",
+        "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "e5fb66d8-47e3-44ce-bc0e-84dfc30348e4",
+        "index": 2,
+        "body": "$8 e^{3}$",
+        "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+        "stats": {
+          "count": 561
+        },
+        "resources": []
+      },
+      {
+        "id": "69d42a38-df02-497f-930b-b82ddeabe9c6",
+        "index": 3,
+        "body": "$\\frac{3}{2} e^{3}$",
+        "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+        "stats": {
+          "count": 186
+        },
+        "resources": []
+      },
+      {
+        "id": "b2dab15f-0429-4fda-89d2-547e401da6cc",
+        "index": 4,
+        "body": "$\\frac{1}{2} e^{3}$.",
+        "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "1ecdca57-69e3-435e-90bb-22530ca3cbdd",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "618994895",
+    "timeSpentVideo": "0",
+    "submissions": 1052,
+    "submissionsCorrect": 561,
+    "accuracy": 0.5332699619771863,
+    "difficulty": 0.7196180555555556
+  },
+  "resources": [],
+  "exam": {
+    "id": "1ecdca57-69e3-435e-90bb-22530ca3cbdd",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2798742274",
+      "timeSpentVideo": "0",
+      "submissions": 8366,
+      "submissionsCorrect": 6072,
+      "questions": 11,
+      "accuracy": 0.7257948840545063,
+      "difficulty": 0.5268721946609969
+    }
+  },
+  "explanation": {
+    "id": "5dd7011a-0e95-440f-964f-35608b965406",
+    "body": "",
+    "questionId": "f30445d1-5726-44cc-91f5-1acc7636338d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "088d5d55-901f-48db-9a68-742ba728e61f",
+      "name": "Bernoulli ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5259709166",
+        "timeSpentVideo": "298135909",
+        "submissions": 8242,
+        "submissionsCorrect": 4655,
+        "questions": 8,
+        "accuracy": 0.5647900994904149,
+        "difficulty": 0.6859865739630784
+      }
+    }
+  ],
+  "children": []
+}

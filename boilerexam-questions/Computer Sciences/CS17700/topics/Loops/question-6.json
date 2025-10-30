@@ -1,0 +1,149 @@
+{
+  "id": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "S1 remembers that some \\verb|while| loops can be stated as \\verb|for| loops. Is the \\verb|while| loop in line 6 of the given function one of those cases?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e26d0b28-f229-4b07-892c-c814243006f4",
+        "index": 0,
+        "body": "No. This \\verb|while| loop cannot be stated as a \\verb|for| loop.",
+        "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "92208189-805d-4cb0-b460-2333007a7de9",
+        "index": 1,
+        "body": "Yes. Delete lines 4 and 10 and replace line 6 with \\verb|for i in range(1, n + 1): |",
+        "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "07101d8f-ec13-4574-b40d-b2da36d48bba",
+        "index": 2,
+        "body": "Yes. Delete lines 4 and 10 and replace line 6 with \\verb|for i in range(1, n - 1): |",
+        "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "72befe44-3f52-4307-a165-db4f779039db",
+        "index": 3,
+        "body": "Yes. Delete lines 4 and 10 and replace line 6 with \\verb|for i in range(1, n): |",
+        "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+        "stats": {
+          "count": 738
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "162812370",
+    "timeSpentVideo": "2821414",
+    "submissions": 1110,
+    "submissionsCorrect": 738,
+    "accuracy": 0.6648648648648648,
+    "difficulty": 0.5987603305785124
+  },
+  "resources": [
+    {
+      "id": "ce03f0df-ae95-4f99-a97d-58f2a47bdec5",
+      "type": "CODE",
+      "data": {
+        "content": "def sumDivisorsExcludingItself(n):\n\n    sum = 0\n    i = 1\n\n    while i < n:\n    \n        sum += i if n % i == 0 else 0\n\n        i += 1\n\n    return sum\n   \nfor i in range(0, 11):\n   print(\"Sum of the divisors of\", i, \"is\", sumDivisorsExcludingItself(i))\n\n# Prints:\n# Sum of the divisors of 0 is 0\n# Sum of the divisors of 1 is 0\n# Sum of the divisors of 2 is 1\n# Sum of the divisors of 3 is 1\n# Sum of the divisors of 4 is 3\n# Sum of the divisors of 5 is 1\n# Sum of the divisors of 6 is 6\n# Sum of the divisors of 7 is 1\n# Sum of the divisors of 8 is 7\n# Sum of the divisors of 9 is 4\n# Sum of the divisors of 10 is 8\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1663379579",
+      "timeSpentVideo": "70548358",
+      "submissions": 16006,
+      "submissionsCorrect": 11041,
+      "questions": 15,
+      "accuracy": 0.6898038235661627,
+      "difficulty": 0.56137464299019
+    }
+  },
+  "explanation": {
+    "id": "ad6be4a4-66ae-4a3a-a077-514bbc12c8a6",
+    "body": "",
+    "questionId": "27e0970e-cef7-40f8-84e2-1fd9eb8033f9",
+    "resources": [
+      {
+        "id": "2ba8f109-cfd6-4369-9080-85c9c53d9b47",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=r7Etv32FJDbnhCMt&t=2430"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ad6be4a4-66ae-4a3a-a077-514bbc12c8a6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

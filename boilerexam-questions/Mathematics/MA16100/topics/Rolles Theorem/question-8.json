@@ -1,0 +1,173 @@
+{
+  "id": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements are true?\n\n\n\nI. $\\sqrt{x}$ has an absolute maximum\n\nII. $f(x)=x^{3},-3 \\leq x \\leq 1$ satisfies the requirements of the Mean Value Theorem.\n\nIII. Rolle's Theorem guarantees at least one value of $c, 0<c<1$ where the graph of $f(x)=\\tan (\\pi x)$ has a horizontal tangent line.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "badafff9-b1c9-454c-9bc2-10b028fb1edb",
+        "index": 0,
+        "body": "I only",
+        "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "57e3e257-0a10-4f05-aab6-3f40047bca80",
+        "index": 1,
+        "body": "II only",
+        "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+        "stats": {
+          "count": 617
+        },
+        "resources": []
+      },
+      {
+        "id": "76d158de-b79b-40bc-9236-ed320b2524c6",
+        "index": 2,
+        "body": "III only",
+        "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "0b829c16-fe6a-4dfb-bebf-cf8b2deb3074",
+        "index": 3,
+        "body": "II and III",
+        "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+        "stats": {
+          "count": 309
+        },
+        "resources": []
+      },
+      {
+        "id": "5f788a56-72a4-463d-893e-c679aafa6118",
+        "index": 4,
+        "body": "None of them is true",
+        "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "156790930",
+    "timeSpentVideo": "46823937",
+    "submissions": 1212,
+    "submissionsCorrect": 617,
+    "accuracy": 0.509075907590759,
+    "difficulty": 0.7416158536585366
+  },
+  "resources": [],
+  "exam": {
+    "id": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+    "number": 3,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1283672642",
+      "timeSpentVideo": "378435870",
+      "submissions": 9367,
+      "submissionsCorrect": 5449,
+      "questions": 12,
+      "accuracy": 0.5817230703533682,
+      "difficulty": 0.6691401711207352
+    }
+  },
+  "explanation": {
+    "id": "6ca3f0af-74ef-487c-a20d-e7de1d708ac8",
+    "body": "",
+    "questionId": "768c64ba-a2f9-4594-be85-6eeb1097bc2b",
+    "resources": [
+      {
+        "id": "6c411975-2c38-4503-891c-e1f5687e6321",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9FE9_1hSM6w?t=1540"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6ca3f0af-74ef-487c-a20d-e7de1d708ac8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34940ec6-d9a9-4c21-9082-d0edad149780",
+      "name": "Rolles Theorem",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "645650632",
+        "timeSpentVideo": "92816782",
+        "submissions": 2063,
+        "submissionsCorrect": 1115,
+        "questions": 2,
+        "accuracy": 0.5404750363548231,
+        "difficulty": 0.7113962089690246
+      }
+    },
+    {
+      "id": "cd781bf0-83b9-4aef-b279-fd6dff9beb54",
+      "name": "Mean Value Theorem",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1496297678",
+        "timeSpentVideo": "141015084",
+        "submissions": 4784,
+        "submissionsCorrect": 2511,
+        "questions": 4,
+        "accuracy": 0.5248745819397993,
+        "difficulty": 0.7256347256347256
+      }
+    },
+    {
+      "id": "e0ec9598-b00c-4960-b404-54e5272db131",
+      "name": "Maximums and Minimums",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4731300981",
+        "timeSpentVideo": "597045292",
+        "submissions": 12816,
+        "submissionsCorrect": 6886,
+        "questions": 12,
+        "accuracy": 0.5372971285892634,
+        "difficulty": 0.7129916382781046
+      }
+    }
+  ],
+  "children": []
+}

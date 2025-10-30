@@ -1,0 +1,173 @@
+{
+  "id": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Test the following series for convergence:\n\n$\\textrm{I.} \\sum_{k=1} ^ \\infty \\frac{3^k}{k^2}$\n\n$\\textrm{II.} \\sum_{k=1} ^ \\infty \\frac{5}{k^3}$\n\n$\\textrm{III.} \\sum_{k=1} ^ \\infty e^{-2k}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2ed6747a-185f-4996-8f05-dca5750dd944",
+        "index": 0,
+        "body": "I and II are convergent, and III is divergent. ",
+        "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "b9c8fa3c-9d1f-4557-9a72-05941c89899e",
+        "index": 1,
+        "body": "I, II, and III are convergent. ",
+        "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "b00acab8-07e2-401e-8b72-313f1fedb8f8",
+        "index": 2,
+        "body": "II and III are convergent, and I is divergent. ",
+        "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+        "stats": {
+          "count": 458
+        },
+        "resources": []
+      },
+      {
+        "id": "0adb4e43-3718-48b9-967d-8dc772c2f592",
+        "index": 3,
+        "body": "II is convergent, and I and III are divergent. ",
+        "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "22c25ab5-5b8a-47f0-96ec-35de622ec0c9",
+        "index": 4,
+        "body": "I, II, and III are divergent. ",
+        "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "139675326",
+    "timeSpentVideo": "34593544",
+    "submissions": 784,
+    "submissionsCorrect": 458,
+    "accuracy": 0.5841836734693877,
+    "difficulty": 0.6753393665158371
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "63325d75-3636-45bf-94df-3548a03d1795",
+    "body": null,
+    "questionId": "1f5c7e48-4b31-4438-b638-e87e8a343909",
+    "resources": [
+      {
+        "id": "a82acb5f-82b4-4cf7-8872-9da2ebbc9916",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=nSj81Yx3Yd4IJLQ7"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "63325d75-3636-45bf-94df-3548a03d1795",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "18bb1f1e-6a94-4790-88ce-77d5d3808838",
+      "name": "Ratio Test",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "814826940",
+        "timeSpentVideo": "52583038",
+        "submissions": 1297,
+        "submissionsCorrect": 745,
+        "questions": 2,
+        "accuracy": 0.574402467232074,
+        "difficulty": 0.68092340730136
+      }
+    },
+    {
+      "id": "1ae6a5aa-dd74-4a3e-b7d6-5afba6224f0a",
+      "name": "Geometric Series",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "653961990",
+        "timeSpentVideo": "52472070",
+        "submissions": 1091,
+        "submissionsCorrect": 617,
+        "questions": 2,
+        "accuracy": 0.5655362053162236,
+        "difficulty": 0.6899664147774979
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

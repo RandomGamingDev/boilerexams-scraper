@@ -1,0 +1,143 @@
+{
+  "id": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Rewrite the integral as an iterated integral in polar coordinates. Do not evaluate the integral.\n\\[\n\\int_{0}^{1} \\int_{-\\sqrt{1-y^{2}}}^{\\sqrt{1-y^{2}}}\\left(x^{2}+y^{2}\\right)^{\\frac{1}{2}} d x d y\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "33de272d-45e7-4cb6-85fe-6203dc56f28f",
+        "index": 0,
+        "body": "$\\displaystyle \\int_{0}^{\\pi} \\int_{0}^{1} r \\,d r \\, d \\theta$",
+        "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+        "stats": {
+          "count": 252
+        },
+        "resources": []
+      },
+      {
+        "id": "80a0969a-49cd-4fab-aef6-4f0ca25ad362",
+        "index": 1,
+        "body": "$\\displaystyle \\int_{0}^{2 \\pi} \\int_{0}^{1} r \\,d r \\, d \\theta$",
+        "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "5daf1f72-5d3c-4a80-ba9f-abc1763fe43f",
+        "index": 2,
+        "body": "$\\displaystyle \\int_{0}^{\\pi} \\int_{0}^{1} r^{2} \\,d r \\, d \\theta$",
+        "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+        "stats": {
+          "count": 3405
+        },
+        "resources": []
+      },
+      {
+        "id": "5e82946e-6a0b-403e-a007-789c1309ed2c",
+        "index": 3,
+        "body": "$\\displaystyle \\int_{0}^{\\pi / 2} \\int_{0}^{1} r^{2} \\,d r \\, d \\theta$",
+        "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+        "stats": {
+          "count": 647
+        },
+        "resources": []
+      },
+      {
+        "id": "99f3d6bd-a10c-4106-b19b-e1c1331a53ca",
+        "index": 4,
+        "body": "$\\displaystyle \\int_{0}^{\\pi / 2} \\int_{0}^{1} r \\,d r \\, d \\theta$",
+        "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "677880245",
+    "timeSpentVideo": "120851879",
+    "submissions": 5001,
+    "submissionsCorrect": 3405,
+    "accuracy": 0.6808638272345531,
+    "difficulty": 0.572681827092727
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "0ec5d796-b2d6-477d-a585-eed449a0cd07",
+    "body": "",
+    "questionId": "02a19a55-9b03-45a8-8928-61f304b7c7fb",
+    "resources": [
+      {
+        "id": "7afbb773-9190-4093-9f46-a858ea976f57",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=Z56RBMwJtJWlNBO0&t=1427"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0ec5d796-b2d6-477d-a585-eed449a0cd07",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

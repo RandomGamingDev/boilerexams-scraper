@@ -1,0 +1,128 @@
+{
+  "id": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the appropriate form for a particular solution $y_p$ of the following fifth order nonhomogeneous equation, using the method of undetermined coefficients:\n\\[\ny^{(5)} + 6y^{(4)} + 13y^{(3)} + 14y'' + 12y' + 8y = x(e^{-2x} + \\cos x).\n\\]\nUse that $r^5+6r^4+13r^3+14r^2+12r+8=(r+2)^3(r^2+1)$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d577275c-0fe6-470a-aa10-baa3362be6b6",
+        "index": 0,
+        "body": "$y_p = x^3[(Ax+B)e^{-2x} + (Cx+D)\\cos x + (Ex+F)\\sin x]$",
+        "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "ca8950e6-dfe2-4bbb-83cc-7bc790a5c1e3",
+        "index": 1,
+        "body": "$y_p = (Ax+B)e^{-2x} + (Cx+D)\\cos x + (Ex+F)\\sin x$",
+        "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "8ad34af1-ece5-4a76-905d-681be6defd9b",
+        "index": 2,
+        "body": "$y_p = (Ax^3+Bx^2)e^{-2x} + (Cx^2+Dx)\\cos x + (Ex^2+Fx)\\sin x$",
+        "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "e9682734-d9f8-4171-a339-678389636013",
+        "index": 3,
+        "body": "$y_p = (Ax^4+Bx^3)e^{-2x} + (Cx^2+Dx)\\cos x$",
+        "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "370c1448-b682-4fab-a8ac-aa39c981a746",
+        "index": 4,
+        "body": "$y_p = (Ax^4+Bx^3)e^{-2x} + (Cx^2+Dx)\\cos x + (Ex^2+Fx)\\sin x$",
+        "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "418514",
+    "timeSpentVideo": "0",
+    "submissions": 4,
+    "submissionsCorrect": 2,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "2c2a80c6-05e4-431b-bf56-c89efb640770",
+    "body": null,
+    "questionId": "e4d46265-dca1-4a1a-a232-4f764263ccf8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

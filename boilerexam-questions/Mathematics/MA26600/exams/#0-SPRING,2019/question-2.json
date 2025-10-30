@@ -1,0 +1,143 @@
+{
+  "id": "89a1f622-01c0-4315-b35f-c985db84c361",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution to $x^{2} y^{\\prime}+2 x y=e^{3 x}$ is\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1cf745bd-519c-4f70-9d4e-d450ac65195a",
+        "index": 0,
+        "body": "$y=\\frac{3}{x^{2}} e^{3 x}+c$",
+        "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "40fdef2f-2d62-4ec9-9cba-74271ce8ab95",
+        "index": 1,
+        "body": "$y=c e^{3 x}$",
+        "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "8ffd2a9c-f834-4972-86c9-82e36c28f1f9",
+        "index": 2,
+        "body": "$y=\\frac{1}{3 x^{2}} e^{3 x}+c x^{-2}$",
+        "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+        "stats": {
+          "count": 1737
+        },
+        "resources": []
+      },
+      {
+        "id": "7c9fceb9-e49c-441a-8d32-72ac312a304a",
+        "index": 3,
+        "body": "$y=\\frac{1}{2 x^{2}} e^{3 x}$",
+        "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "45817297-f0e2-4990-ae77-337fc6a20845",
+        "index": 4,
+        "body": "$y=\\frac{1}{3 x} e^{3 x}+c x^{-2}$",
+        "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "560609619",
+    "timeSpentVideo": "67324058",
+    "submissions": 2539,
+    "submissionsCorrect": 1737,
+    "accuracy": 0.684127609294998,
+    "difficulty": 0.5728495642288746
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "ed3fbc81-63f2-4946-8cd5-6d5bfd706bb4",
+    "body": "",
+    "questionId": "89a1f622-01c0-4315-b35f-c985db84c361",
+    "resources": [
+      {
+        "id": "721e4e0e-519a-4f41-8c33-3ba77f455005",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=5bZMeONSTtXYQadh&t=95"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ed3fbc81-63f2-4946-8cd5-6d5bfd706bb4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

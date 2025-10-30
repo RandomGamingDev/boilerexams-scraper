@@ -1,0 +1,179 @@
+{
+  "id": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the circuit below, the voltage source is \\(v_s(t)=(12u(-t)+4u(t))\\) V. Find the inductor current \\(i_L(t)\\) for \\(t>0\\).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b6f36986-4989-4199-8fee-0d8480a6514a",
+        "index": 0,
+        "body": "\\(i_L=(2+4e^{-\\frac{t}{5}})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 363
+        },
+        "resources": []
+      },
+      {
+        "id": "0ab8530e-77c2-4563-81db-58a827faf6df",
+        "index": 1,
+        "body": "\\(i_L=(12+4e^{-\\frac{t}{4}})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "080dacd7-b5b4-402e-a5cc-66d5ff78a70c",
+        "index": 2,
+        "body": "\\(i_L=(2+6e^{-\\frac{t}{20}})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "fc812386-4f45-4142-a391-cb70d30d704a",
+        "index": 3,
+        "body": "\\(i_L=(2+4e^{-\\frac{t}{10}})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "fd6fe5d4-2136-4480-b882-57d987036eec",
+        "index": 4,
+        "body": "\\(i_L=(4e^{-\\frac{t}{4}})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "a06e2e92-0fa0-46f5-87a7-a6645049b32f",
+        "index": 5,
+        "body": "\\(i_L=(6+2e^{-5t})\\) A",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "a294efe8-16b0-4b4c-8201-992847cb2f64",
+        "index": 6,
+        "body": "None of the above.",
+        "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "47938ecb-0f8a-4823-9125-517a8e495225",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "138079182",
+    "timeSpentVideo": "27159538",
+    "submissions": 542,
+    "submissionsCorrect": 363,
+    "accuracy": 0.6697416974169742,
+    "difficulty": 0.6066978193146417
+  },
+  "resources": [
+    {
+      "id": "473f8172-2373-43a8-93b5-7fa3d06e8d82",
+      "type": "IMAGE",
+      "data": {
+        "key": "VwEU7GLqGnq0PwvMhwP2U",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/VwEU7GLqGnq0PwvMhwP2U"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "47938ecb-0f8a-4823-9125-517a8e495225",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2395544564",
+      "timeSpentVideo": "514343691",
+      "submissions": 13650,
+      "submissionsCorrect": 8624,
+      "questions": 24,
+      "accuracy": 0.6317948717948718,
+      "difficulty": 0.6191636363636364
+    }
+  },
+  "explanation": {
+    "id": "16b4b460-af5f-4f29-beb2-20a7e4ba7da6",
+    "body": null,
+    "questionId": "b829d4a9-3e62-44be-b489-d45a5e25cafc",
+    "resources": [
+      {
+        "id": "d7410a49-3e3b-45a1-95e5-50525c7bd855",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/554OfdqcTQo?si=rph_l6YnaM41fblv&t=1121"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "16b4b460-af5f-4f29-beb2-20a7e4ba7da6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "72da8cca-0a60-4f6e-b8df-8417ce9702ba",
+      "name": "Unit Step Function",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1971539380",
+        "timeSpentVideo": "243081257",
+        "submissions": 2657,
+        "submissionsCorrect": 1846,
+        "questions": 3,
+        "accuracy": 0.6947685359427926,
+        "difficulty": 0.5622959738846572
+      }
+    }
+  ],
+  "children": []
+}

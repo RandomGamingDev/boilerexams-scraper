@@ -1,0 +1,113 @@
+{
+  "id": "7bbfd618-ddc5-45c9-a969-390a60f08f37",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Andy got enlightened and proposes the following function to rewrite the customers file and remove all the mess with excessive space characters\n\nWill it work?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "fc8d28b5-2384-4ff2-be86-322cedb0e89d",
+        "index": 0,
+        "body": "Yes",
+        "questionId": "7bbfd618-ddc5-45c9-a969-390a60f08f37",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "6bd16ce6-d7e7-4acb-af9a-fa5930dffb3b",
+        "index": 1,
+        "body": "No",
+        "questionId": "7bbfd618-ddc5-45c9-a969-390a60f08f37",
+        "stats": {
+          "count": 638
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "50335312",
+    "timeSpentVideo": "18589724",
+    "submissions": 788,
+    "submissionsCorrect": 638,
+    "accuracy": 0.8096446700507615,
+    "difficulty": 0.47522522522522526
+  },
+  "resources": [
+    {
+      "id": "20421d77-081d-4ff1-b103-11eb19b0bff4",
+      "type": "CODE",
+      "data": {
+        "content": "def updatedReadCustomersData():\n   customers = []\n   with open(\"customers.txt\", \"r\") as file:\n      for line in file:\n         customers.append(customerData(line))\n      file.write(str(customers.sort()))\n   return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "7bbfd618-ddc5-45c9-a969-390a60f08f37",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "7b356d7c-ee8d-4594-a563-bf65bd438d42",
+    "body": "",
+    "questionId": "7bbfd618-ddc5-45c9-a969-390a60f08f37",
+    "resources": [
+      {
+        "id": "7f18ea36-3387-4aaf-a6d5-cc0ad9f8f9a7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=pTYkXZom-Lky-YAS&t=3407"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7b356d7c-ee8d-4594-a563-bf65bd438d42",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

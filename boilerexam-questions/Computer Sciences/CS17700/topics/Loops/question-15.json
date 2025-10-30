@@ -1,0 +1,149 @@
+{
+  "id": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "To modify the code to print in the console the number of items that are equal to the first item of the list, we must:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "3a043651-8e70-4dda-be7e-310c8a9fb179",
+        "index": 0,
+        "body": "Change the value of \\verb|currentMax| in line 2 to some large initial value.",
+        "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "42f0bf59-cb49-4e15-89ec-fea78a312be7",
+        "index": 1,
+        "body": "Change the value of \\verb|currentMax| in line 2 to some small initial value.",
+        "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "84082cc7-c3f0-4dd9-a5d4-8fe114d2e689",
+        "index": 2,
+        "body": "Change the comparison operator in line 6 to \\verb|==|.",
+        "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "fd77a1ae-4c86-4d64-a5f4-21f9999d329b",
+        "index": 3,
+        "body": "None of these changes alone is enough to make the code to count the equal items.",
+        "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+        "stats": {
+          "count": 352
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "21143328",
+    "timeSpentVideo": "4395",
+    "submissions": 478,
+    "submissionsCorrect": 352,
+    "accuracy": 0.7364016736401674,
+    "difficulty": 0.5544982698961938
+  },
+  "resources": [
+    {
+      "id": "f39ccfb7-5ed7-4515-bbff-cbfd6a15980a",
+      "type": "CODE",
+      "data": {
+        "content": "list = [4, 3, 6, 1, 7, 0, 9, 2]\ncurrentMax = list[0]\nlength = len(list)\n\nfor i in range(1, length):\n\tif list[i] > currentMax:\n\t\tcurrentMax = list[i]\n\nprint(currentMax)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "c0bebbcf-b924-42a7-ad1c-68dab080ae98",
+    "body": "",
+    "questionId": "855cf1a4-5fef-4103-b811-6ae597f517a9",
+    "resources": [
+      {
+        "id": "8d5f6f0a-e7ae-4259-98b6-ee6da2b2143a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=r-DQOVDB5Z12vCvy&t=5286"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c0bebbcf-b924-42a7-ad1c-68dab080ae98",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

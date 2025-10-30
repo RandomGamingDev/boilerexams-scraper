@@ -1,0 +1,128 @@
+{
+  "id": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all constants $b$ such that the origin is a spiral source of the system\n\n\\[\nX^{\\prime}(t)=\\left[\\begin{array}{ll}\n3 & b \\\\\n1 & 4\n\\end{array}\\right] X(t), \\quad b \\text { in } \\mathbb{R}\n\\]\n\nare",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b23064dc-be3f-4838-bbfa-6fbb9fcb0230",
+        "index": 0,
+        "body": "$b<-\\frac{1}{3}$",
+        "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "81f49d44-00bc-4e53-867a-ca9d2cc8b76f",
+        "index": 1,
+        "body": "$b>-\\frac{1}{3}$",
+        "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "76a3561b-8d11-48ec-ab4c-ce1507d66c2e",
+        "index": 2,
+        "body": "$-\\frac{1}{4}<b<-\\frac{1}{4}$",
+        "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "bbd008b5-232c-4c02-ac9e-2d0af2575fa7",
+        "index": 3,
+        "body": "$b>-\\frac{1}{4}$",
+        "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "d6e84560-cf12-44c3-b355-7434aeab4797",
+        "index": 4,
+        "body": "$b<-\\frac{1}{4}$",
+        "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+        "stats": {
+          "count": 191
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "71822252",
+    "timeSpentVideo": "0",
+    "submissions": 262,
+    "submissionsCorrect": 191,
+    "accuracy": 0.7290076335877863,
+    "difficulty": 0.5842541436464088
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "3aa3beb2-31af-4d84-ad61-3ae5079bca23",
+    "body": "",
+    "questionId": "91968bc1-0fac-4f17-9adb-c1884629f0f8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4a0dc780-9f5c-4a97-9f9c-82f56b841b3a",
+      "name": "Phase Portrait",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "674446336",
+        "timeSpentVideo": "0",
+        "submissions": 915,
+        "submissionsCorrect": 656,
+        "questions": 3,
+        "accuracy": 0.7169398907103826,
+        "difficulty": 0.5544334975369458
+      }
+    }
+  ],
+  "children": []
+}

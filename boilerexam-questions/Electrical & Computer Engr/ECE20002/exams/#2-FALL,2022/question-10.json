@@ -1,0 +1,190 @@
+{
+  "id": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n$F(s) = \\frac{s^2+8s+3}{(s+1)(s+1)(s+3)}$.\n\nFind an expression for $f(t)$, its inverse Laplace transform.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9e25c3d9-a61f-4829-a733-f0cb994a9789",
+        "index": 0,
+        "body": "$\\left(2e^{-t}-6e^{-2t}-4e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "c34b1612-e2be-404a-94db-f289f4096ebd",
+        "index": 1,
+        "body": "$\\left(6e^{-t}-3e^{-t}-2e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "4f7340ce-114a-4579-b124-26f44e42a606",
+        "index": 2,
+        "body": "$\\left(4e^{-t}-2te^{-t}-3e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 194
+        },
+        "resources": []
+      },
+      {
+        "id": "570127e3-97dc-4ef9-b4bc-4c6ce7d9f44b",
+        "index": 3,
+        "body": "$\\left(3e^{-t}-4te^{-2t}-6e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "c945e700-9dad-4d9c-bef7-fb2c11eee328",
+        "index": 4,
+        "body": "$\\left(2e^{-t}-6\\cos\\left(2t\\right)-4e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "a4ecca42-888f-499b-adca-6b3e2be9c371",
+        "index": 5,
+        "body": "$\\left(6e^{-t}-3\\cos\\left(t\\right)e^{-t}-2e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "d8315c69-691d-48bd-8485-7100dd12a47a",
+        "index": 6,
+        "body": "$\\left(4e^{-t}-2\\cos\\left(t\\right)-3e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "8af62e6f-7ef7-422e-b4b6-0a2d072b374c",
+        "index": 7,
+        "body": "$\\left(3e^{-t}-4\\cos\\left(2t\\right)e^{-2t}-6e^{-3t}\\right)u\\left(t\\right)$",
+        "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "121595472",
+    "timeSpentVideo": "6289327",
+    "submissions": 344,
+    "submissionsCorrect": 194,
+    "accuracy": 0.563953488372093,
+    "difficulty": 0.7004504504504504
+  },
+  "resources": [
+    {
+      "id": "5ab26fe8-3524-43f5-bf1e-e983e4260bfc",
+      "type": "IMAGE",
+      "data": {
+        "key": "PCBezA2KPzSYz9Gv9pe62",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/PCBezA2KPzSYz9Gv9pe62",
+        "altText": "L"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "d70d9d9e-b47c-49f4-a799-79c4cc39b357",
+    "body": "",
+    "questionId": "76675c6f-4775-4013-8345-cb0266cd1d2b",
+    "resources": [
+      {
+        "id": "c462697b-6b41-40bf-8b45-f3bf8ed03201",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=5860s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d70d9d9e-b47c-49f4-a799-79c4cc39b357",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "70cd4801-7869-438a-bf80-a03cb0be1c08",
+      "name": "Inverse Laplace",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "441093915",
+        "timeSpentVideo": "18775961",
+        "submissions": 720,
+        "submissionsCorrect": 417,
+        "questions": 2,
+        "accuracy": 0.5791666666666667,
+        "difficulty": 0.6804878048780488
+      }
+    }
+  ],
+  "children": []
+}

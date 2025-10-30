@@ -1,0 +1,118 @@
+{
+  "id": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following expressions would generate a random number between positive integers <font style=\"font-family:'Courier New'\">low</font> and <font style=\"font-family:'Courier New'\">high</font> inclusive?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3e3058b0-6fd6-42e1-a769-87e101623700",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (high - low) + low</font>",
+        "questionId": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+        "stats": {
+          "count": 473
+        },
+        "resources": []
+      },
+      {
+        "id": "5bbabce0-4bfb-40b9-b26d-640efaa6965f",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (high - low + 1)</font>",
+        "questionId": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+        "stats": {
+          "count": 493
+        },
+        "resources": []
+      },
+      {
+        "id": "dcbd5a0f-2e76-4755-aadc-9fc370318878",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (high - low + 1) + low</font>",
+        "questionId": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+        "stats": {
+          "count": 3257
+        },
+        "resources": []
+      },
+      {
+        "id": "43b1ad80-7e87-4f05-98d3-73e4a9756ddb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+        "stats": {
+          "count": 96
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "202074522",
+    "timeSpentVideo": "0",
+    "submissions": 4368,
+    "submissionsCorrect": 3257,
+    "accuracy": 0.7456501831501832,
+    "difficulty": 0.509847806624888
+  },
+  "resources": [],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "8cada3f1-32b7-4519-9013-c6fdaf3964ae",
+    "body": "",
+    "questionId": "ac1d4695-3961-4b35-a279-977afb26eb7e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

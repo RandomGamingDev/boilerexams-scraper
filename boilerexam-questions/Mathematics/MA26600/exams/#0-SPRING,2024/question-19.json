@@ -1,0 +1,158 @@
+{
+  "id": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of $f(t)=\\begin{cases}1,\\text{ if } 0\\le t<2,\\\\t^2,\\text{ if }2\\le t.\\end{cases}$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f068156b-9808-4ac5-befd-d09ab0009870",
+        "index": 0,
+        "body": "$\\frac{1}{s}+e^{-2s}(\\frac{2}{s^3}-\\frac{4}{s^2}+\\frac{4}{s})$",
+        "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "0ee585e0-3670-48e9-a76f-857582cd1d1c",
+        "index": 1,
+        "body": "$\\frac{1}{s}+e^{-2s}(\\frac{2}{s^3}+\\frac{4}{s^2}+\\frac{3}{s})$",
+        "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+        "stats": {
+          "count": 407
+        },
+        "resources": []
+      },
+      {
+        "id": "e2630010-d60e-4ceb-94f2-9d30bcd8a127",
+        "index": 2,
+        "body": "$\\frac{1}{s}+e^{-2s}\\frac{2}{s^3}$",
+        "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "2289d355-b98e-4f04-9792-07e1ccd60612",
+        "index": 3,
+        "body": "$\\frac{1}{s}+e^{-2s}(\\frac{2}{s^3}-\\frac{1}{s})$",
+        "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "cac7eea1-554e-40fe-842f-1d18217e8426",
+        "index": 4,
+        "body": "$\\frac{1}{s}+e^{-2s}(\\frac{2}{s^3}-\\frac{5}{s^2}+\\frac{6}{s})$",
+        "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "264130801",
+    "timeSpentVideo": "104381267",
+    "submissions": 1034,
+    "submissionsCorrect": 407,
+    "accuracy": 0.39361702127659576,
+    "difficulty": 0.8470017636684304
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "70b5050e-eb83-4356-b08b-59fefe8f20ae",
+    "body": null,
+    "questionId": "69ef22d6-ab00-45a7-a1a8-6c7d409ee770",
+    "resources": [
+      {
+        "id": "7dfa9892-12d6-4b8c-9090-fa5b192f716d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=9263s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "70b5050e-eb83-4356-b08b-59fefe8f20ae",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    },
+    {
+      "id": "e340eada-2bd4-4ea7-beaa-06c7c577be81",
+      "name": "Piecewise Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2894059979",
+        "timeSpentVideo": "350356691",
+        "submissions": 3998,
+        "submissionsCorrect": 1780,
+        "questions": 4,
+        "accuracy": 0.4452226113056528,
+        "difficulty": 0.8034407027818449
+      }
+    }
+  ],
+  "children": []
+}

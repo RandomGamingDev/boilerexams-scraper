@@ -1,0 +1,134 @@
+{
+  "id": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following sorting algorithm.\n\n(a) Is the sorting algorithm correct? Explain your reasoning.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "58800324-2862-4949-a34d-25497da504d1",
+        "index": 0,
+        "body": "Yes. The in-order traversal of a binary search tree will always print the nodes in a sorted order.",
+        "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+        "stats": {
+          "count": 619
+        },
+        "resources": []
+      },
+      {
+        "id": "653af4b5-077f-4c9b-a2cd-91c2dc074618",
+        "index": 1,
+        "body": "Yes. Any traversal through a binary search tree will print the nodes in a sorted order.",
+        "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "6943881a-a6f5-483e-8e81-c7cd444c9791",
+        "index": 2,
+        "body": "No. It is not guaranteed that the in-order traversal will produce a sorted list.",
+        "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "966a2568-e251-4a4a-8a85-df1db445633b",
+        "index": 3,
+        "body": "No. Not enough information is given in the problem setup.",
+        "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "82045671",
+    "timeSpentVideo": "0",
+    "submissions": 843,
+    "submissionsCorrect": 619,
+    "accuracy": 0.734282325029656,
+    "difficulty": 0.5405620360551432
+  },
+  "resources": [
+    {
+      "id": "2fe8053d-615a-4c58-b8e8-2740a1f715e0",
+      "type": "CODE",
+      "data": {
+        "content": "1. input - A list L of n numbers.\n2. Iterate through L and add each number to a regular Binary Search Tree T.\n3. return the in-order traversal of T.",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "878d4812-6748-4b32-8805-224268fc8959",
+    "body": null,
+    "questionId": "f85cc5f0-0b1f-423a-8117-c732597794ed",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

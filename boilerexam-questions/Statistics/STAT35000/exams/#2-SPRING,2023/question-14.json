@@ -1,0 +1,121 @@
+{
+  "id": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+  "type": "PARENT",
+  "data": {
+    "body": "A research team is conducting a study to evaluate the effectiveness of a general algorithmic modification for generative AI models that create natural images from text prompts. The team will use the same fixed set of text prompts to generate images both with and without the new algorithmic modification. A random sample of different AI models are selected for testing. The Fr\u00e9chet Inception Distance (FID) is a metric that will be used as a measurement of the difference between the generated images and the real images. A lower FID score indicates better performance. You may assume that all assumptions are met in this study. The R output of various tests is provided. Note more information is provided than is needed to answer the questions.\n\n<table style=\"border-collapse: collapse;\"><tr><th style=\"border: 1px solid black; padding: 4px;\">Source</th><th style=\"border: 1px solid black; padding: 4px;\">$n$</th><th style=\"border: 1px solid black; padding: 4px;\">$\\bar{x}$</th><th style=\"border: 1px solid black; padding: 4px;\">$s$</th></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">Algorithmic Modification (M)</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">20.401</td><td style=\"border: 1px solid black; padding: 4px;\">10.910</td></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">Standard Algorithm (S)</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">21.872</td><td style=\"border: 1px solid black; padding: 4px;\">10.081</td></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">M - S</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">-1.471</td><td style=\"border: 1px solid black; padding: 4px;\">6.560</td></tr></table>",
+    "numberingType": "LOWERCASE",
+    "answerChoices": []
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "15859410",
+    "timeSpentVideo": "4528352",
+    "submissions": 63,
+    "submissionsCorrect": 2,
+    "accuracy": 0.031746031746031744,
+    "difficulty": 0.9309815950920246
+  },
+  "resources": [
+    {
+      "id": "4e4532f0-4226-4294-98a0-8111f6d0a91a",
+      "type": "CODE",
+      "data": {
+        "content": "Output 1\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -6.170136 3.227281\n \nOutput 2\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -Inf 2.426865\n \nOutput 3\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -5.36972 Inf\n \nOutput 4\n   Paired t-test\n97.5 percent confidence interval:\n   -3.5802517 0.6373965\n\nOutput 5\n   Paired t-test\n97.5 percent confidence interval:\n   -Inf 0.2712962\n \nOutput 6\n   Paired t-test\n97.5 percent confidence interval:\n   -3.214151 Inf",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "499829109",
+      "timeSpentVideo": "154037265",
+      "submissions": 4760,
+      "submissionsCorrect": 2550,
+      "questions": 15,
+      "accuracy": 0.5357142857142857,
+      "difficulty": 0.7150205761316872
+    }
+  },
+  "explanation": {
+    "id": "d0965fe3-63dc-4c50-bd35-8a5cc89887c1",
+    "body": null,
+    "questionId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+    "resources": [
+      {
+        "id": "1d03bbf1-d9f6-4202-8915-892127f65120",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=rRDuaKnGF94&t=1102s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d0965fe3-63dc-4c50-bd35-8a5cc89887c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4948b137-9f66-4e89-ada0-ea9b2aec329c",
+      "name": "Sampling",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "63444690",
+        "timeSpentVideo": "5280100",
+        "submissions": 292,
+        "submissionsCorrect": 193,
+        "questions": 2,
+        "accuracy": 0.660958904109589,
+        "difficulty": 0.6301020408163265
+      }
+    },
+    {
+      "id": "cc2d1383-add6-4d57-9e43-5738986d38f2",
+      "name": "Validity of Statistical Inference",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "79314286",
+        "timeSpentVideo": "14673503",
+        "submissions": 170,
+        "submissionsCorrect": 6,
+        "questions": 2,
+        "accuracy": 0.03529411764705882,
+        "difficulty": 1.0425925925925925
+      }
+    }
+  ],
+  "children": []
+}

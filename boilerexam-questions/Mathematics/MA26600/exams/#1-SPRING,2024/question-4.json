@@ -1,0 +1,143 @@
+{
+  "id": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "User Euler's method with two steps of size $h=0.5$ to estimate $y(2)$, where $y(x)$ solves the initial value problem \\[y'=2xy-1-\\frac{y}{2x}\\]\\[y(1)=2\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "e18e452b-234e-41eb-a814-0e7927afb2f1",
+        "index": 0,
+        "body": "4",
+        "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "34b4efa6-353a-4b8f-b326-cfe47213c534",
+        "index": 1,
+        "body": "6.5",
+        "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+        "stats": {
+          "count": 635
+        },
+        "resources": []
+      },
+      {
+        "id": "733c815e-e29c-43b6-a424-63dea5ce9837",
+        "index": 2,
+        "body": "7.5",
+        "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "9b73e205-8282-4aa1-8589-9d9522283f84",
+        "index": 3,
+        "body": "3",
+        "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "94c9c0b4-6788-4a3d-8564-93d5cc5c8713",
+        "index": 4,
+        "body": "7",
+        "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "82301abe-9979-4c8e-83ea-541af6ca5559",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "210610570",
+    "timeSpentVideo": "13085170",
+    "submissions": 849,
+    "submissionsCorrect": 635,
+    "accuracy": 0.7479387514723204,
+    "difficulty": 0.5281875658587988
+  },
+  "resources": [],
+  "exam": {
+    "id": "82301abe-9979-4c8e-83ea-541af6ca5559",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2354479366",
+      "timeSpentVideo": "420622954",
+      "submissions": 9906,
+      "submissionsCorrect": 5799,
+      "questions": 10,
+      "accuracy": 0.5854027861901878,
+      "difficulty": 0.6654507295622626
+    }
+  },
+  "explanation": {
+    "id": "cc6b463e-d2f4-4290-bea7-5cfe25d37fa5",
+    "body": null,
+    "questionId": "42be9a2e-5c25-4add-b8ff-81d750f0f69a",
+    "resources": [
+      {
+        "id": "d2e758fc-03f8-4d45-9bce-022edd95b7c8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Uo3rS0KPQXM&t=1023s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cc6b463e-d2f4-4290-bea7-5cfe25d37fa5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "581ba71e-2ec0-47ae-aba4-2436e968c5c1",
+      "name": "Euler's Method",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4816796605",
+        "timeSpentVideo": "91964031",
+        "submissions": 10171,
+        "submissionsCorrect": 8188,
+        "questions": 8,
+        "accuracy": 0.805033919968538,
+        "difficulty": 0.4479359361308538
+      }
+    }
+  ],
+  "children": []
+}

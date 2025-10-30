@@ -1,0 +1,128 @@
+{
+  "id": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all values of the numbers $a$ and $b$ so that the column vector $\\mathbf{v}=\\left[\\begin{array}{l}4 \\\\ a \\\\ b\\end{array}\\right]$ will always belong to the span of the vectors $\\mathbf{v}_{1}, \\mathbf{v}_{2}$, and $\\mathbf{v}_{3}$, where\n\n\n\\[\n\\mathbf{v}_{1}=\\left[\\begin{array}{l}\n1 \\\\\n2 \\\\\n3\n\\end{array}\\right], \\quad \\mathbf{v}_{2}=\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n1\n\\end{array}\\right], \\quad \\mathbf{v}_{3}=\\left[\\begin{array}{l}\n2 \\\\\n2 \\\\\n4\n\\end{array}\\right]\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0739b368-08eb-450f-9dad-b2a9b1d0f1c5",
+        "index": 0,
+        "body": "All numbers $a$ and $b$ satisfying $b-a=4$",
+        "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+        "stats": {
+          "count": 1157
+        },
+        "resources": []
+      },
+      {
+        "id": "9971d806-84c5-443a-8ec2-865def002528",
+        "index": 1,
+        "body": "All numbers $a$ and $b$ satisfying $a+b=5$",
+        "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "dc2ec3f7-bd52-40cf-a2e9-dbff21587612",
+        "index": 2,
+        "body": "All numbers $a$ and $b$ satisfying $2 a-b=0$",
+        "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "aa8fe9eb-b7db-4b5a-a28e-ebfc0bb887c5",
+        "index": 3,
+        "body": "All numbers $a$ and $b$ satisfying $a+b=4$",
+        "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "bdb1f220-cb93-4b4d-be93-76657274b530",
+        "index": 4,
+        "body": "Only when $a=8$ and $b=12$",
+        "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "417213960",
+    "timeSpentVideo": "0",
+    "submissions": 1497,
+    "submissionsCorrect": 1157,
+    "accuracy": 0.772879091516366,
+    "difficulty": 0.4942078897933626
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "86fda392-b898-42fd-b368-ca8393cc215d",
+    "body": "",
+    "questionId": "f806cfeb-0541-46f9-992f-3bc6ea4820ea",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6aa3a4e9-0077-46db-a681-526529c3c72e",
+      "name": "Span",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2485112252",
+        "timeSpentVideo": "188769225",
+        "submissions": 5730,
+        "submissionsCorrect": 3585,
+        "questions": 6,
+        "accuracy": 0.6256544502617801,
+        "difficulty": 0.6265008576329331
+      }
+    }
+  ],
+  "children": []
+}

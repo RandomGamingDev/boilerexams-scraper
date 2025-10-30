@@ -1,0 +1,149 @@
+{
+  "id": "96df65db-2d38-4f05-8e61-625fba68073c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Townsfolk in Encanto are uneasy with line 21. They say the casting is unnecessary, and we must use commas rather than pluses. Luisa says, \"I'm on it.\" What should Luisa do?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e9d79f20-786d-436e-abf0-251b5e4ffa1e",
+        "index": 0,
+        "body": "Leave it as it is. Casting and plusses are necessary.",
+        "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+        "stats": {
+          "count": 1090
+        },
+        "resources": []
+      },
+      {
+        "id": "075dc683-7357-41a7-9d55-9701a498ae11",
+        "index": 1,
+        "body": "Remove the casting. Python can infer that we are building a string using numbers.",
+        "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "f0f01afb-a5c6-48fe-b1db-9b15702b8a11",
+        "index": 2,
+        "body": "Remove plusses. Python can infer that we are concatenating multiple strings together as one.",
+        "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "3942e1d1-e241-461a-9beb-033654eaa7dc",
+        "index": 3,
+        "body": "Replace lines 21 and 22 with \\verb|print(\"The message has \" + vowels + \" vowels and \" + others + \" others.\")|",
+        "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "250201597",
+    "timeSpentVideo": "13105616",
+    "submissions": 1559,
+    "submissionsCorrect": 1089,
+    "accuracy": 0.6985246953175113,
+    "difficulty": 0.5634418324291742
+  },
+  "resources": [
+    {
+      "id": "8ecf532a-9f4f-451a-9a9e-c5bb118ea661",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nmessage = input(\"Write a message: \")\n\nvowels = 0\nothers = 0\nindex = 0\nlength = len(message)\n\nwhile index < length:\n\n    l = message[index]\n\n    if l == \"a\" or l == \"e\" or l == \"i\" or l == \"o\" or l == \"u\":\n        vowels = vowels + 1\n\n    else:\n        others = others + 1\n\n    index = index + 1\n\ntally = \"The message has \" + str(vowels) + \" vowels and \" + str(others) + \" others.\"\nprint(tally)",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1663379579",
+      "timeSpentVideo": "70548358",
+      "submissions": 16006,
+      "submissionsCorrect": 11041,
+      "questions": 15,
+      "accuracy": 0.6898038235661627,
+      "difficulty": 0.56137464299019
+    }
+  },
+  "explanation": {
+    "id": "28816b4b-346a-4cb5-af49-f6ce620cbaec",
+    "body": "",
+    "questionId": "96df65db-2d38-4f05-8e61-625fba68073c",
+    "resources": [
+      {
+        "id": "118a20ba-dcad-47d8-a412-870a6bcf177b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=PpuuEzB1k6Y74c6u&t=1"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "28816b4b-346a-4cb5-af49-f6ce620cbaec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b091430a-5e7f-4a1f-a5c4-bc5306d9fecb",
+      "name": "Casting",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "767469226",
+        "timeSpentVideo": "18991410",
+        "submissions": 2293,
+        "submissionsCorrect": 1704,
+        "questions": 2,
+        "accuracy": 0.7431312690798081,
+        "difficulty": 0.5170288340994568
+      }
+    }
+  ],
+  "children": []
+}

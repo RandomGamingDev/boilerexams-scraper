@@ -1,0 +1,118 @@
+{
+  "id": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the expression:\n\n<code>a % 5 == 0 || b < 10 && !(c % 3 != 0)</code>\n\nWhich of the following is a complement of the expression above?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "bb700890-430e-4baf-a58e-8d66a73fde54",
+        "index": 0,
+        "body": "<code>!(a % 5) && !(b >= 10 && c % 3)</code>",
+        "questionId": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "f33f8988-9b7c-4fe3-bad5-b899b0b5021a",
+        "index": 1,
+        "body": "<code>a % 5 != 0 && b >= 10 || c % 3 == 0</code>",
+        "questionId": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "a7f3bc2d-110e-4a06-9b2e-5861669f92dc",
+        "index": 2,
+        "body": "<code>a % 5 && (b >= 10 || c % 3)</code>",
+        "questionId": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "c9874c8a-8df6-4bcd-a236-f5f35dd67045",
+        "index": 3,
+        "body": "More than one of the above.",
+        "questionId": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2929925",
+    "timeSpentVideo": "0",
+    "submissions": 25,
+    "submissionsCorrect": 14,
+    "accuracy": 0.56,
+    "difficulty": 0.738
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "086782e6-6ed2-4442-8119-9346718bce77",
+    "body": null,
+    "questionId": "88bc0b55-9baf-4516-a8d4-6736fa64c8b4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

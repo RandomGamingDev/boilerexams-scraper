@@ -1,0 +1,158 @@
+{
+  "id": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be the part of the circular paraboloid $z=x^{2}+y^{2}$ below the plane $z=4$ with upward orientation. Let $\\overrightarrow{\\mathbf{F}}(x, y, z)=x z \\overrightarrow{\\mathbf{j}}+y z \\overrightarrow{\\mathbf{k}}$. Compute $\\iint_{S} \\operatorname{curl} \\overrightarrow{\\mathbf{F}} \\cdot \\overrightarrow{\\mathbf{n}} d S$. Hint: You may need to use one or both of these integrals: $\\int_{0}^{2 \\pi}(\\cos t)^{2} d t=\\pi$ and $\\int_{0}^{2 \\pi}(\\sin t)^{2} d t=\\pi$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "21f92ce9-4861-457c-ada3-08fbcf2acdaa",
+        "index": 0,
+        "body": "$32 \\pi$",
+        "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "5880b64a-3446-4265-a431-472d8fab75c4",
+        "index": 1,
+        "body": "$16 \\pi$",
+        "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+        "stats": {
+          "count": 2075
+        },
+        "resources": []
+      },
+      {
+        "id": "bdc0df98-361a-46e5-998f-56167d8ee299",
+        "index": 2,
+        "body": "$8 \\pi$",
+        "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+        "stats": {
+          "count": 318
+        },
+        "resources": []
+      },
+      {
+        "id": "54f6082b-89b4-4e0c-b517-be25ea647136",
+        "index": 3,
+        "body": "$4 \\pi$",
+        "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "81590945-75c0-4a23-aeb8-7661818daa0a",
+        "index": 4,
+        "body": "$2 \\pi$",
+        "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1298038592",
+    "timeSpentVideo": "243452681",
+    "submissions": 4635,
+    "submissionsCorrect": 2075,
+    "accuracy": 0.447680690399137,
+    "difficulty": 0.8012143611404435
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "9acd844b-4424-40d9-ad86-a7eddf4460bf",
+    "body": "",
+    "questionId": "72dbecbc-0838-472a-b6a6-a6201f03b11d",
+    "resources": [
+      {
+        "id": "c855ca63-a981-45d9-9d83-dac01273ea22",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=0Ia3oWfSvHanTfbH&t=2917\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9acd844b-4424-40d9-ad86-a7eddf4460bf",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18541413657",
+        "timeSpentVideo": "1965130455",
+        "submissions": 30673,
+        "submissionsCorrect": 12770,
+        "questions": 6,
+        "accuracy": 0.4163270628891859,
+        "difficulty": 0.8334010333734118
+      }
+    },
+    {
+      "id": "215e4a67-a284-47cb-ac38-dc66fee57f98",
+      "name": "Surface Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29586551748",
+        "timeSpentVideo": "3554402214",
+        "submissions": 50906,
+        "submissionsCorrect": 20491,
+        "questions": 12,
+        "accuracy": 0.4025262248065061,
+        "difficulty": 0.8472826726267497
+      }
+    }
+  ],
+  "children": []
+}

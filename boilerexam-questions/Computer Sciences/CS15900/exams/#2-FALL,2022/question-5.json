@@ -1,0 +1,134 @@
+{
+  "id": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For which of the following ranges do code segment A and code segment B in <font style=\"font-family:'Courier New'\">main</font> generate the same output?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0820a535-68ea-4aed-99cc-7b522e808767",
+        "index": 0,
+        "body": "r >= 25 && r < 75",
+        "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+        "stats": {
+          "count": 3067
+        },
+        "resources": []
+      },
+      {
+        "id": "97fd3577-6591-4c48-970d-19230ad6bc3c",
+        "index": 1,
+        "body": "r < 25 || r > 100",
+        "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+        "stats": {
+          "count": 784
+        },
+        "resources": []
+      },
+      {
+        "id": "675ee7c5-bf41-46da-9a70-53a1615297fb",
+        "index": 2,
+        "body": "r >= 75 && r <= 100",
+        "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+        "stats": {
+          "count": 812
+        },
+        "resources": []
+      },
+      {
+        "id": "d10cfdf8-1e92-4060-bea1-26bb058e5b3f",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+        "stats": {
+          "count": 813
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "724955588",
+    "timeSpentVideo": "0",
+    "submissions": 5515,
+    "submissionsCorrect": 3067,
+    "accuracy": 0.5561196736174071,
+    "difficulty": 0.694879786286732
+  },
+  "resources": [
+    {
+      "id": "9b4deca1-aeb9-40d8-9f7e-220889964e0a",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void) \n{\n  /*============\n  CODE SEGMENT A\n  ==============*/\n  char c = '?';\n  int r = 51;\n  \n  if(r < 25)\n  {\n    c = 'E';\n  }\n  else if(r < 50)\n  {\n    c = 'F';\n  }\n  else if(r < 75)\n  {\n    c = 'L';\n  }\n  else if(r < 100)\n  {\n    c = 'R';\n  }\n  \n  printf(\"Category: %c\\n\", c);\n  \n  /*============\n  CODE SEGMENT B\n  ==============*/\n  r = 80;\n  \n  switch(r / 25)\n  {\n    case 0: c = 'E';\n    case 1: c = 'F';\n            break; \n    case 2: c = 'L'; \n            break;\n    case 3: c = 'R';\n    default: c = '?';\n  }\n  \n  printf(\"Category: %c\\n\", c);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "c67efcb1-77fa-4b42-80fc-f61472f4fabb",
+    "body": "",
+    "questionId": "35f59c94-ade3-48e6-9d8a-fa224f0d3b42",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    }
+  ],
+  "children": []
+}

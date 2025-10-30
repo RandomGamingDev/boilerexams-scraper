@@ -1,0 +1,197 @@
+{
+  "id": "9e437272-16b6-4961-8a30-ef3ddb487810",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The company has a customer type model. A customer could be casual, subscribed, loyal, or diamond. The code below builds a dictionary for storing the number of customers per type. The argument \\verb|customers| is built using the function \\verb|buildCustomers()|.\n\nAndy thinks the function \\verb|getCustomerTypeCounts| can be rewritten with less code, which is true. Which of the following implementations is equivalent  to the original code?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "61c052cf-4e40-4cd0-9520-1fc95bf61b2f",
+        "index": 0,
+        "body": "$ $",
+        "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+        "stats": {
+          "count": 48
+        },
+        "resources": [
+          {
+            "id": "3122780c-d25e-4849-b4d0-b598e6dd9853",
+            "type": "CODE",
+            "data": {
+              "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 1 if customer.type not in typeCounts else typeCounts[customer.type]\n    return typeCounts\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "61c052cf-4e40-4cd0-9520-1fc95bf61b2f",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "c94ba158-a8a4-4c59-b183-11a97911ecfe",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+        "stats": {
+          "count": 320
+        },
+        "resources": [
+          {
+            "id": "612d7407-20c7-4115-92ea-72e1cfbead1b",
+            "type": "CODE",
+            "data": {
+              "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 0 if customer.type not in typeCounts else typeCounts[customer.type] + 1\n    return typeCounts\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "c94ba158-a8a4-4c59-b183-11a97911ecfe",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "27edd97a-9613-4e6c-bcf8-9198a9f7ed28",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+        "stats": {
+          "count": 291
+        },
+        "resources": [
+          {
+            "id": "dbbcb4bc-02bd-44dd-b3d4-480a62008aac",
+            "type": "CODE",
+            "data": {
+              "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 1 if customer.type not in typeCounts else typeCounts[customer.type] + 1\n    return typeCounts\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "27edd97a-9613-4e6c-bcf8-9198a9f7ed28",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "841ed4bb-14c9-4191-a5ce-a8145689ab13",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+        "stats": {
+          "count": 43
+        },
+        "resources": [
+          {
+            "id": "b8ace1cf-5a6d-4fe5-bdac-d55496bc6499",
+            "type": "CODE",
+            "data": {
+              "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 0 if customer.type not in typeCounts else typeCounts[customer.type]\n    return typeCounts\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "841ed4bb-14c9-4191-a5ce-a8145689ab13",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85927823",
+    "timeSpentVideo": "22668630",
+    "submissions": 712,
+    "submissionsCorrect": 291,
+    "accuracy": 0.40870786516853935,
+    "difficulty": 0.8300492610837438
+  },
+  "resources": [
+    {
+      "id": "e1fbd89f-fc6e-4593-8cef-481be3bce582",
+      "type": "CODE",
+      "data": {
+        "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:        \n        if customer.type not in typeCounts:\n            typeCounts[customer.type] = 0\n        typeCounts[customer.type] += 1\n    return typeCounts\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "5512f9ed-8096-4bd3-8dc9-4b780dd6ac7d",
+    "body": "",
+    "questionId": "9e437272-16b6-4961-8a30-ef3ddb487810",
+    "resources": [
+      {
+        "id": "53617ac0-589b-4a56-b30a-8190086039d2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=6W4CogSAiWdKuL36&t=4532"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5512f9ed-8096-4bd3-8dc9-4b780dd6ac7d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

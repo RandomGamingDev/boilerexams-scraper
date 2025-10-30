@@ -1,0 +1,143 @@
+{
+  "id": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the Bernoulli equation $y^{\\prime}+2 x^{-1} y=6 x^{4} y^{2}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "122c5088-26f7-449e-9df3-50222721d93b",
+        "index": 0,
+        "body": "$y=-2 x^{5}+C x^{2}$",
+        "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "1421fed2-bd74-46f5-acb0-a6398668f823",
+        "index": 1,
+        "body": "$y=\\frac{1}{-2 x^{5}+C x^{2}}$",
+        "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+        "stats": {
+          "count": 616
+        },
+        "resources": []
+      },
+      {
+        "id": "74f040d8-a41b-4432-b4d8-06b780b4eae3",
+        "index": 2,
+        "body": "$y=\\frac{1}{2 x^{5}+C x^{2}}$",
+        "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "b635af2b-243e-4b54-a5c6-850edcdecb4e",
+        "index": 3,
+        "body": "$y=2 x^{5}+C x^{2}$",
+        "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "dd0653ba-229a-4fe6-9a2c-9f6f40f359b7",
+        "index": 4,
+        "body": "$y=\\frac{1}{-x^{5}+C x^{2}}$",
+        "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "37a9b809-1ed0-4027-940c-334b3253b165",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "382768792",
+    "timeSpentVideo": "46095716",
+    "submissions": 1216,
+    "submissionsCorrect": 616,
+    "accuracy": 0.506578947368421,
+    "difficulty": 0.743920972644377
+  },
+  "resources": [],
+  "exam": {
+    "id": "37a9b809-1ed0-4027-940c-334b3253b165",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2217727037",
+      "timeSpentVideo": "358505559",
+      "submissions": 8725,
+      "submissionsCorrect": 4631,
+      "questions": 11,
+      "accuracy": 0.5307736389684814,
+      "difficulty": 0.7195750708215297
+    }
+  },
+  "explanation": {
+    "id": "b2a12f8a-f7d0-4087-b7d7-a9e451ad6ffd",
+    "body": "",
+    "questionId": "335120f7-6f5a-466b-8ac0-58702e3ec408",
+    "resources": [
+      {
+        "id": "3344d92a-1bde-4207-9d09-2d902b5fd4d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/RcpPdDbJQtQ?si=Rn6YDk8ngVUiHKOq&t=1012\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b2a12f8a-f7d0-4087-b7d7-a9e451ad6ffd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "088d5d55-901f-48db-9a68-742ba728e61f",
+      "name": "Bernoulli ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5259709166",
+        "timeSpentVideo": "298135909",
+        "submissions": 8242,
+        "submissionsCorrect": 4655,
+        "questions": 8,
+        "accuracy": 0.5647900994904149,
+        "difficulty": 0.6859865739630784
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\n\n\\[\ny^{\\prime \\prime}+6 y^{\\prime}+34 y=0 ; \\quad y(0)=4, \\quad y^{\\prime}(0)=-10\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ef6c2702-0ce2-48a3-8206-b9e8131d3777",
+        "index": 0,
+        "body": "$y(t)=4 e^{-3 t}+\\frac{2}{5} e^{-3 t}$",
+        "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "ca0e814e-6b37-4a64-8d3b-4c669eb4986f",
+        "index": 1,
+        "body": "$y(t)=4 e^{-3 t} \\cos (5 t)+\\frac{2}{5} e^{-3 t} \\sin (5 t)$",
+        "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+        "stats": {
+          "count": 1375
+        },
+        "resources": []
+      },
+      {
+        "id": "3ab93a1f-42b6-4177-98ac-03536e55aae0",
+        "index": 2,
+        "body": "$y(t)=e^{-6 t} \\cos (10 t)+\\frac{2}{5} e^{-6 t} \\sin (10 t)$",
+        "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "c006743e-e193-4c50-a732-6e9c4c3d7c05",
+        "index": 3,
+        "body": "$y(t)=4 e^{-3 t} \\cos (5 t)$",
+        "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "a2a586b1-bc6d-4936-bfd2-267916e47913",
+        "index": 4,
+        "body": "$y(t)=4 e^{-3 t} \\cos (\\sqrt{34} t)+\\frac{2}{\\sqrt{34}} e^{-3 t} \\sin (\\sqrt{34} t)$",
+        "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "500206929",
+    "timeSpentVideo": "20186854",
+    "submissions": 1745,
+    "submissionsCorrect": 1375,
+    "accuracy": 0.7879656160458453,
+    "difficulty": 0.47764227642276424
+  },
+  "resources": [],
+  "exam": {
+    "id": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4565094176",
+      "timeSpentVideo": "320264183",
+      "submissions": 16700,
+      "submissionsCorrect": 9862,
+      "questions": 10,
+      "accuracy": 0.5905389221556886,
+      "difficulty": 0.66
+    }
+  },
+  "explanation": {
+    "id": "e134f440-d3ab-4e18-ac5a-9cd1264afd57",
+    "body": "",
+    "questionId": "440ae471-b075-4c75-b1b6-2b0de4c60e3f",
+    "resources": [
+      {
+        "id": "6d733edd-d725-4a16-940c-05b60b3eb147",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ire22BvRNw4?si=NxgWflCLlkWg9rYr&t=895"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e134f440-d3ab-4e18-ac5a-9cd1264afd57",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

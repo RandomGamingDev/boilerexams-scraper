@@ -1,0 +1,143 @@
+{
+  "id": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that the characteristic polynomial of the homogeneous differential equation $y^{(6)}-6y^{(5)}+y^{(4)}+54y'''-90y''=0$ is \\[P(r)=(r^4-9r^2)(r^2-6r+10),\\] use the method of undetermined coefficients to find the form of a particular solution to \\[y^{(6)}-6y^{(5)}+y^{(4)}+54y'''-90y''=1+4xe^{3x}-\\sin{3x}.\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f4518397-d87a-4b10-b13a-1c5b08146a91",
+        "index": 0,
+        "body": "$y_p=A+Bx^2e^{3x}+Cxe^{3x}+D\\sin{3x}+E\\cos{3x}$",
+        "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "985d94ea-4102-435d-9642-13c5d3ad9387",
+        "index": 1,
+        "body": "$y_p=Ax+Bxe^{3x}+Ce^{3x}+D\\cos{3x}+E\\sin{3x}$",
+        "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "c76628a2-3aaf-4bf4-b5cc-04db3b0448d0",
+        "index": 2,
+        "body": "$y_p=Ax^2+Bx^3e^{3x}+Cx^2e^{3x}+D\\sin{3x}+E\\cos{3x}$",
+        "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "becc2f35-5f2c-494e-a3fa-dc62b4d3f609",
+        "index": 3,
+        "body": "$y_p=Ax^2+Bx^2e^{3x}+Cxe^{3x}+D\\cos{3x}+E\\sin{3x}$",
+        "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+        "stats": {
+          "count": 353
+        },
+        "resources": []
+      },
+      {
+        "id": "9cbe6b1a-571f-411e-8259-0886000da481",
+        "index": 4,
+        "body": "$y_p=Ax^2+Bx+Cx^2e^{3x}+Dxe^{3x}-E\\cos{3x}$",
+        "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "195011466",
+    "timeSpentVideo": "53661442",
+    "submissions": 713,
+    "submissionsCorrect": 353,
+    "accuracy": 0.4950911640953717,
+    "difficulty": 0.7543050430504306
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "17c6e6d6-59f7-49e0-800d-2f220639863b",
+    "body": null,
+    "questionId": "e231a681-1ce3-40e6-b310-accfbf67da6f",
+    "resources": [
+      {
+        "id": "b68e4b5f-1b86-494b-ad48-23d70318f48a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=3692s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "17c6e6d6-59f7-49e0-800d-2f220639863b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

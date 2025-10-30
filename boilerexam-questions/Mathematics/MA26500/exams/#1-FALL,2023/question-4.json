@@ -1,0 +1,158 @@
+{
+  "id": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Let $\\mathbf{v}_{1}=\\left[\\begin{array}{l}0 \\\\ 4 \\\\ 1 \\\\ 3\\end{array}\\right], \\mathbf{v}_{2}=\\left[\\begin{array}{l}3 \\\\ 3 \\\\ 1 \\\\ 2\\end{array}\\right], \\mathbf{v}_{3}=\\left[\\begin{array}{l}3 \\\\ 7 \\\\ 2 \\\\ 6\\end{array}\\right]$, which of the following statements is always true?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c7894f24-1fac-48f9-81c0-a2b723d973d2",
+        "index": 0,
+        "body": "$\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3}$ are linearly dependent.",
+        "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+        "stats": {
+          "count": 474
+        },
+        "resources": []
+      },
+      {
+        "id": "dc77f446-d5a0-4c5b-a04b-5b50207b365b",
+        "index": 1,
+        "body": "$\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3} \\operatorname{span} \\mathbb{R}^{4}$.",
+        "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "c08d985a-8fb8-44c5-84b5-986065166106",
+        "index": 2,
+        "body": "Any vector in $\\mathbb{R}^{4}$ can be written as a linear combination of $\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3}$.",
+        "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "911f6771-ecb2-413f-9f05-9642b7b2e737",
+        "index": 3,
+        "body": "Let $A$ be the matrix whose column vectors are given by $\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3}$. Then $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for any vector $\\mathbf{b}$ in $\\mathbb{R}^{4}$.",
+        "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+        "stats": {
+          "count": 249
+        },
+        "resources": []
+      },
+      {
+        "id": "ae085441-c5fb-4d93-aecc-ae56683238a6",
+        "index": 4,
+        "body": "Let $A$ be the matrix whose column vectors are given by $\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3}$. Then $A \\mathbf{x}=\\mathbf{0}$ always has a unique solution.",
+        "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+        "stats": {
+          "count": 1373
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "527474507",
+    "timeSpentVideo": "184628143",
+    "submissions": 2727,
+    "submissionsCorrect": 1373,
+    "accuracy": 0.5034836817015035,
+    "difficulty": 0.7466395472232048
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "add9c4d2-1444-4c83-b5d1-3be8cb43bd62",
+    "body": "",
+    "questionId": "cd8a8f22-d66f-4015-9ddf-17533fd3da6c",
+    "resources": [
+      {
+        "id": "d85240c5-a33c-4e66-adc2-ba3dc6319bd8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/llMPDRaxhNU?si=RKupPIQkVhhC-MPb&t=1447"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "add9c4d2-1444-4c83-b5d1-3be8cb43bd62",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "185dcc47-0d3b-48c4-8121-6d92056c8993",
+      "name": "Span",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3148922494",
+        "timeSpentVideo": "421416606",
+        "submissions": 6903,
+        "submissionsCorrect": 3594,
+        "questions": 3,
+        "accuracy": 0.5206431986093003,
+        "difficulty": 0.7296515778951878
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    }
+  ],
+  "children": []
+}

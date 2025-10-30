@@ -1,0 +1,158 @@
+{
+  "id": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=x \\sin x$, find $f^{\\prime \\prime}(\\pi)$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "df3f83ae-252c-4ef4-a6e6-7db84a4969e6",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+        "stats": {
+          "count": 775
+        },
+        "resources": []
+      },
+      {
+        "id": "cc61b428-d5e9-46e2-981e-b3b50105ad55",
+        "index": 1,
+        "body": "$2$",
+        "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "e25e587f-c069-48a1-9215-2d5a53e99c22",
+        "index": 2,
+        "body": "$\\pi$",
+        "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "f6ebe474-7ff8-461f-9d9d-0dae3c947d4c",
+        "index": 3,
+        "body": "$-\\pi$",
+        "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "377a0a7b-722c-4500-a7ec-b7ee584bdb2e",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "178283814",
+    "timeSpentVideo": "24284628",
+    "submissions": 1244,
+    "submissionsCorrect": 775,
+    "accuracy": 0.6229903536977492,
+    "difficulty": 0.6361607142857143
+  },
+  "resources": [],
+  "exam": {
+    "id": "41023ec0-450f-41d2-bf28-cdccc8f40ed5",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1770975501",
+      "timeSpentVideo": "298645152",
+      "submissions": 11631,
+      "submissionsCorrect": 7465,
+      "questions": 12,
+      "accuracy": 0.6418192760725647,
+      "difficulty": 0.609389651351121
+    }
+  },
+  "explanation": {
+    "id": "2f1dbd63-4eaa-4be9-9e37-75b05587e176",
+    "body": "",
+    "questionId": "91cfedc3-1ffb-4173-b195-8985e4b3ecb5",
+    "resources": [
+      {
+        "id": "502e31cc-ae32-4ac9-b934-36ad543d2446",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/clRJJDp2Mg0?t=1123"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2f1dbd63-4eaa-4be9-9e37-75b05587e176",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1c8d7944-b88e-4f0c-a752-2ca769777e2c",
+      "name": "Product Rule",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2297538107",
+        "timeSpentVideo": "117868196",
+        "submissions": 5528,
+        "submissionsCorrect": 3668,
+        "questions": 4,
+        "accuracy": 0.6635311143270622,
+        "difficulty": 0.5893745557924662
+      }
+    },
+    {
+      "id": "b1d051a2-03fc-4c82-bb72-7130dba4c197",
+      "name": "Derivatives of Trig Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6136025937",
+        "timeSpentVideo": "295249733",
+        "submissions": 15252,
+        "submissionsCorrect": 9815,
+        "questions": 11,
+        "accuracy": 0.6435221610280619,
+        "difficulty": 0.6074127149557061
+      }
+    }
+  ],
+  "children": []
+}

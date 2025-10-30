@@ -1,0 +1,143 @@
+{
+  "id": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose a $3 \\times 3$ matrix $A=\\left[\\begin{array}{lll}a & b & c \\\\ d & e & f \\\\ g & h & i\\end{array}\\right]$ has determinant $4$. What is the determinant of\n\n\\[\nB=\\left[\\begin{array}{ccc}\na & 2 b & c \\\\\ng & 2 h & i \\\\\nd+3 a & 2 e+6 b & f+3 c\n\\end{array}\\right] ?\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "68ebf14c-a18e-42fe-8af4-5449779eca43",
+        "index": 0,
+        "body": "$4$.",
+        "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "419e4ade-fec5-4793-ab31-304d8d1138a6",
+        "index": 1,
+        "body": "$8$.",
+        "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "55b054e8-6775-4d69-ba2f-55567f3db66d",
+        "index": 2,
+        "body": "$-8$.",
+        "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+        "stats": {
+          "count": 1375
+        },
+        "resources": []
+      },
+      {
+        "id": "c15e4293-c8e5-4b56-8bd5-fad0ef403c21",
+        "index": 3,
+        "body": "$24$.",
+        "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "32ff8895-1fea-474a-9dbb-08996ec58334",
+        "index": 4,
+        "body": "$-24$.",
+        "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "160774862",
+    "timeSpentVideo": "19046544",
+    "submissions": 1701,
+    "submissionsCorrect": 1375,
+    "accuracy": 0.8083480305702528,
+    "difficulty": 0.45877290394225434
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "0f50362a-fee3-4cac-8096-c0bcfebba3af",
+    "body": "",
+    "questionId": "7a3f9e8a-040b-4a24-b900-0f9edff21eb2",
+    "resources": [
+      {
+        "id": "a79aa2df-467c-441b-bc9a-ccc243152d92",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1819\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0f50362a-fee3-4cac-8096-c0bcfebba3af",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

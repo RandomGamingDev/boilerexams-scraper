@@ -1,0 +1,143 @@
+{
+  "id": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a general solution of $y^{(4)} - 2 y'' + y = 0$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "0a9a201c-fcf0-4efb-9b7c-4c211705a7f1",
+        "index": 0,
+        "body": "$y = \\cos x (C_1 + C_2 x) + \\sin x (C_3 + C_4 x)$",
+        "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "3cead54c-7f28-4875-a8f9-7be9ba6361fc",
+        "index": 1,
+        "body": "$y = (C_1 e^x + C_2 e^{-x})(C_3 + C_4 x)$",
+        "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "2589e628-bb63-4983-838c-5d664f527f56",
+        "index": 2,
+        "body": "$y = C_1 + C_2 x + C_3 x^2 + C_4 x^3$",
+        "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "d35002e1-1800-4450-a344-7f511b014091",
+        "index": 3,
+        "body": "$y = C_1 e^x + C_2 e^{-x}$",
+        "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "2278fbd2-5379-4ae7-aa0f-82cf3cd5e74b",
+        "index": 4,
+        "body": "$y = e^{-x} (C_1 + C_2 x) + e^x (C_3 + C_4 x)$",
+        "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+        "stats": {
+          "count": 527
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "116139738",
+    "timeSpentVideo": "8486755",
+    "submissions": 716,
+    "submissionsCorrect": 527,
+    "accuracy": 0.7360335195530726,
+    "difficulty": 0.5428921568627451
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "1424c2c2-0734-41e4-8dfe-6da9f70a40db",
+    "body": null,
+    "questionId": "3a8f7b62-36d7-4000-b60b-14e82d73e54a",
+    "resources": [
+      {
+        "id": "a0fded41-ff44-4330-8806-45e61ca27523",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=lU6WOgSbFDmy4_Nz&t=1597"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1424c2c2-0734-41e4-8dfe-6da9f70a40db",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

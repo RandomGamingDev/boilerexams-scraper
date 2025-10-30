@@ -1,0 +1,173 @@
+{
+  "id": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ and $B$ be similar $n \\times n$ matrices with real entries. Which of the following statements must be TRUE?\n\n\n(i) $A$ and $B$ have the same characteristic polynomial.\n\n(ii) If the columns of $A$ are linearly independent, then $0$ is an eigenvalue of $A$.\n\n(iii) If $A$ is diagonalizable, then all the eigenvalues of $A$ must be nonzero.\n\n(iv) If $-\\lambda$ is an eigenvalue of $A$, then $\\lambda^{4}$ is an eigenvalue of $B^{4}$.\n\n(v) If $A$ is diagonalizable, then $B$ is diagonalizable.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e0a34424-3240-4f17-a5b4-3a3cf622c08a",
+        "index": 0,
+        "body": "(i), (ii), (v)",
+        "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "1e851444-73cd-4b35-ae31-275d96aa6a4a",
+        "index": 1,
+        "body": "(i), (iii), (iv), (v)",
+        "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+        "stats": {
+          "count": 872
+        },
+        "resources": []
+      },
+      {
+        "id": "11a1ef12-7bfa-41ea-9802-eeeef2ec9e2d",
+        "index": 2,
+        "body": "(iv), (v)",
+        "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      },
+      {
+        "id": "7ba4ccb3-8aa8-4ec4-998b-b78bfa3f042a",
+        "index": 3,
+        "body": "(i), (iv), (v)",
+        "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+        "stats": {
+          "count": 2265
+        },
+        "resources": []
+      },
+      {
+        "id": "19c188c1-0c0e-4169-bd0e-2909e6b7c898",
+        "index": 4,
+        "body": "(i), (iii), (iv)",
+        "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+        "stats": {
+          "count": 385
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "605843438",
+    "timeSpentVideo": "308050262",
+    "submissions": 4186,
+    "submissionsCorrect": 2265,
+    "accuracy": 0.5410893454371716,
+    "difficulty": 0.7098693420438638
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "4cfe0a21-f357-4731-a998-94bfbb2e4a56",
+    "body": "",
+    "questionId": "022d7b13-e272-45e6-976c-da4625fbe3e3",
+    "resources": [
+      {
+        "id": "b99609d4-2ee7-4856-9f0a-0a74f8f1b006",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?t=945\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4cfe0a21-f357-4731-a998-94bfbb2e4a56",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "a3570757-7047-470a-89ce-5c99dbec87a7",
+      "name": "Similar Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4521017404",
+        "timeSpentVideo": "814684003",
+        "submissions": 11775,
+        "submissionsCorrect": 6389,
+        "questions": 3,
+        "accuracy": 0.5425902335456475,
+        "difficulty": 0.7077684210526316
+      }
+    }
+  ],
+  "children": []
+}

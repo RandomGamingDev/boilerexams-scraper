@@ -1,0 +1,143 @@
+{
+  "id": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The nonhomogenous differential equation\n\\[\nx^2y'' - 4xy' + 6y = x^3, \\quad x > 0\n\\]\nhas complementary solution $y_c(x) = c_1x^2+c_2x^3$. Using the method of variation of parameters, the particular solution $y_p(x)$ is given by",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "eec62fe5-c30a-4167-948f-2e96bb81a90d",
+        "index": 0,
+        "body": "$\n    y_p(x) = 4x^5 - 6x^4\n$",
+        "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "423a4e5e-e46e-4fdc-adf0-72db9aefa7c0",
+        "index": 1,
+        "body": "$\n    y_p(x) = x^{5/3} - x^4$\n",
+        "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "49e81f31-da9c-4e3d-b0f2-210c2a63ea34",
+        "index": 2,
+        "body": "$    y_p(x) = x^3 - x^2 \\ln x$\n",
+        "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "8df40219-6f1d-486d-af97-9e93e3830407",
+        "index": 3,
+        "body": "  $  y_p(x) = x^5/6$",
+        "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "26a0410b-26dc-47af-be90-f3587d749491",
+        "index": 4,
+        "body": "    $y_p(x) = x^3(\\ln x - 1)$",
+        "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+        "stats": {
+          "count": 348
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "147395728",
+    "timeSpentVideo": "17245578",
+    "submissions": 649,
+    "submissionsCorrect": 348,
+    "accuracy": 0.5362095531587057,
+    "difficulty": 0.7186248331108144
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "1839faf7-bccb-41dd-9278-2291b2198ded",
+    "body": null,
+    "questionId": "ceb5df3e-1f34-42ab-a2f5-a99722254408",
+    "resources": [
+      {
+        "id": "8d4bbc43-27df-4476-b237-32d5d6d9883d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=prd6IiGCM3K_Wf6X&t=767"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1839faf7-bccb-41dd-9278-2291b2198ded",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

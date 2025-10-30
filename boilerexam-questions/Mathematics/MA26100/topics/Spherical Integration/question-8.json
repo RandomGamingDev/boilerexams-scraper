@@ -1,0 +1,143 @@
+{
+  "id": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Choose the triple integral in spherical coordinates that represents the volume of the solid bounded by the cone $z=\\sqrt{x^2+y^2}$ and the sphere $x^2+y^2+z^2=8.$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f5822abb-ba20-42c0-9f96-a71bd6141521",
+        "index": 0,
+        "body": "$\\displaystyle \\int_0^{2\\pi} \\int_0^{\\frac{\\pi}{4}} \\int_0^8 \\rho^2 \\sin \\varphi \\,d\\rho\\,d\\varphi \\, d\\theta$",
+        "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "bb67c5ae-f201-4718-82da-f545930b2819",
+        "index": 1,
+        "body": "$\\displaystyle \\int_0^{2\\pi} \\int_0^{\\frac{\\pi}{4}} \\int_0^{\\sqrt8} \\rho \\sin \\varphi \\,d\\rho\\,d\\varphi \\, d\\theta$",
+        "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "05658f69-ebec-4d1c-9941-53192c90dd57",
+        "index": 2,
+        "body": "$\\displaystyle \\int_0^{2\\pi} \\int_0^{\\frac{\\pi}{4}} \\int_0^{\\sqrt8} \\rho \\sin^2 \\varphi \\,d\\rho\\,d\\varphi \\, d\\theta$",
+        "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+        "stats": {
+          "count": 156
+        },
+        "resources": []
+      },
+      {
+        "id": "a4a8ff9c-08ab-44e2-82f5-3de033bd09b5",
+        "index": 3,
+        "body": "$\\displaystyle \\int_0^{2\\pi} \\int_0^{\\frac{\\pi}{4}} \\int_0^{\\sqrt8} \\rho^2 \\sin \\varphi \\,d\\rho\\,d\\varphi \\, d\\theta$",
+        "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+        "stats": {
+          "count": 3369
+        },
+        "resources": []
+      },
+      {
+        "id": "690510f8-9837-4d70-aafe-ac793e0eeafd",
+        "index": 4,
+        "body": "$\\displaystyle \\int_0^{2\\pi} \\int_0^{\\frac{\\pi}{2}} \\int_0^{\\sqrt8} \\rho^2 \\sin \\varphi \\,d\\rho\\,d\\varphi \\, d\\theta$",
+        "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+        "stats": {
+          "count": 452
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "809481342",
+    "timeSpentVideo": "169371946",
+    "submissions": 4609,
+    "submissionsCorrect": 3369,
+    "accuracy": 0.7309611629420698,
+    "difficulty": 0.5239435124230197
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "6f02d706-e838-4241-a90a-92c2af2c79e7",
+    "body": "",
+    "questionId": "4fe3563c-4464-4f59-8947-3f81c8fb58aa",
+    "resources": [
+      {
+        "id": "cb0d8378-d23e-4969-8dc0-1d4229d35ba3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=887"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6f02d706-e838-4241-a90a-92c2af2c79e7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe98730e-b232-4fb3-95e2-f2a219718e24",
+      "name": "Spherical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16366452649",
+        "timeSpentVideo": "2568706851",
+        "submissions": 35157,
+        "submissionsCorrect": 18862,
+        "questions": 8,
+        "accuracy": 0.5365076656142447,
+        "difficulty": 0.7135958816688884
+      }
+    }
+  ],
+  "children": []
+}

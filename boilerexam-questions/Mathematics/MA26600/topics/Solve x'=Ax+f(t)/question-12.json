@@ -1,0 +1,128 @@
+{
+  "id": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the appropriate form of a particular solution $x_p(t)$ of the nonhomogeneous linear system\n\n\\[\nx' = \\begin{bmatrix}1 & 2\\\\ 1 & 0\\end{bmatrix}x + \\begin{bmatrix}te^t \\\\ e^{2t}\\end{bmatrix}\n\\]\nby using the method of undetermined coefficients.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "519f97db-d415-4f6e-9cea-2f9cd8cafc55",
+        "index": 0,
+        "body": "$x_p(t) = (at+b)e^t + ce^{2t}$",
+        "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "1829eba4-839d-47a0-8963-324b44cb6329",
+        "index": 1,
+        "body": "$x_p(t) = (at+b)e^t + (ct+d)e^{2t}$",
+        "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "4fd71f3f-f8ef-479a-bb52-535a35eed63c",
+        "index": 2,
+        "body": "$x_p(t) = (at+b)e^t + cte^{2t}$",
+        "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "fcdc3781-b92d-4ada-b97a-37932a65e60d",
+        "index": 3,
+        "body": "$x_p(t) = (at^2+bt+c)e^t + de^{2t}$",
+        "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "40f85bcf-b2e5-408a-ba2c-102af49a5dae",
+        "index": 4,
+        "body": "The system has no solution, so no form is appropriate.",
+        "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "542358",
+    "timeSpentVideo": "0",
+    "submissions": 5,
+    "submissionsCorrect": 1,
+    "accuracy": 0.2,
+    "difficulty": 0.7642857142857142
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "f9b8bd21-5302-4823-94fc-53babaa06da0",
+    "body": null,
+    "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

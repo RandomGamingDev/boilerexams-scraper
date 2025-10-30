@@ -1,0 +1,158 @@
+{
+  "id": "c240c66b-cf75-4427-b724-24f55158cd03",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $\\int _0 ^\\frac{\\pi}{4} \\tan (x)\\sec ^3 (x) dx$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "782b236d-11d8-4ac5-9623-18cc74231289",
+        "index": 0,
+        "body": "$\\frac{4\\sqrt{2}-1}{5}$",
+        "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "394345b6-14fb-4f5b-abdc-9b059112cfe6",
+        "index": 1,
+        "body": "$\\frac{4\\sqrt{2}}{5}$",
+        "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "199e7e5a-a49e-46af-9788-1ff6faf69a9c",
+        "index": 2,
+        "body": "$\\frac{2\\sqrt{2}-1}{3}$",
+        "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "f2bf5e2f-522f-46fb-87ee-a2ac6fb98c1c",
+        "index": 3,
+        "body": "$\\frac{2\\sqrt{2}}{3}$",
+        "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "ac55e8b4-d958-4fd3-97ca-f07ce63a4a49",
+        "index": 4,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "33718896",
+    "timeSpentVideo": "1996921",
+    "submissions": 177,
+    "submissionsCorrect": 128,
+    "accuracy": 0.7231638418079096,
+    "difficulty": 0.6074007220216606
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "b4708348-a766-45b3-9c19-1e01819e1bc9",
+    "body": null,
+    "questionId": "c240c66b-cf75-4427-b724-24f55158cd03",
+    "resources": [
+      {
+        "id": "fb1d2c2c-df88-435d-a078-910a020d5ff4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=dBb_ZgbFyzuSbs5q&t=1785"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b4708348-a766-45b3-9c19-1e01819e1bc9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

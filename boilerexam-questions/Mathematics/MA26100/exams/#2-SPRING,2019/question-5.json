@@ -1,0 +1,143 @@
+{
+  "id": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the tetrahderon $E$ with vertices $(0,0,0), (1,0,0), (0,2,0), (0,0,3)$. Express\n$$ \\iiint_E x\\;dV $$\nas an iterated integral in the order $dz\\;dy\\;dx$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "14141604-2d1a-4c37-82c4-a74e8caa38d4",
+        "index": 0,
+        "body": "$\\int_{0}^{1} \\int_{0}^{2-2 x} \\int_{0}^{-3 x-\\frac{3}{2} y-3} x\\;dz\\;dy\\;dx$",
+        "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+        "stats": {
+          "count": 210
+        },
+        "resources": []
+      },
+      {
+        "id": "2bef4efa-d0bd-4da4-af8e-14373f03d6e6",
+        "index": 1,
+        "body": "$\\int_{0}^{1} \\int_{0}^{2-2 x} \\int_{0}^{-3 x+\\frac{3}{2} y+3} x\\;dz\\;dy\\;dx$",
+        "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+        "stats": {
+          "count": 242
+        },
+        "resources": []
+      },
+      {
+        "id": "442c012a-490c-4b2c-9dfe-552c507f7d25",
+        "index": 2,
+        "body": "$\\int_{0}^{1} \\int_{0}^{2-2 x} \\int_{0}^{-3 x-\\frac{3}{2} y+3} x\\;dz\\;dy\\;dx$",
+        "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+        "stats": {
+          "count": 2542
+        },
+        "resources": []
+      },
+      {
+        "id": "01601b1e-d154-4fee-be46-baf082fdeb7e",
+        "index": 3,
+        "body": "$\\int_{0}^{1} \\int_{0}^{2-2 x} \\int_{0}^{3 x+\\frac{3}{2} y-3} x\\;dz\\;dy\\;dx$",
+        "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "65e823d9-a938-42d5-9744-be447f3b2b0a",
+        "index": 4,
+        "body": "$\\int_{0}^{1} \\int_{0}^{2-2 x} \\int_{0}^{3 x-\\frac{3}{2} y-3} x\\;dz\\;dy\\;dx$",
+        "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "680067785",
+    "timeSpentVideo": "185182657",
+    "submissions": 3927,
+    "submissionsCorrect": 2542,
+    "accuracy": 0.6473134708428826,
+    "difficulty": 0.6063446734541843
+  },
+  "resources": [],
+  "exam": {
+    "id": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10604032967",
+      "timeSpentVideo": "2972029862",
+      "submissions": 47734,
+      "submissionsCorrect": 27532,
+      "questions": 10,
+      "accuracy": 0.576779653915448,
+      "difficulty": 0.6733808588033616
+    }
+  },
+  "explanation": {
+    "id": "6931fca4-9ad4-4ec4-b33e-ab8b43f7a36a",
+    "body": "",
+    "questionId": "dd807aa1-39dd-4049-b5f9-b8b6b3604a97",
+    "resources": [
+      {
+        "id": "ac307db3-778e-4912-8a2b-432ac28005e7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/xQFS-kwpzfo?t=803"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6931fca4-9ad4-4ec4-b33e-ab8b43f7a36a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "dc2044ef-ec52-4c11-8af4-edbab2a75731",
+      "name": "Triple Integral to Rectangular",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1986603023",
+        "timeSpentVideo": "274370226",
+        "submissions": 6123,
+        "submissionsCorrect": 3855,
+        "questions": 2,
+        "accuracy": 0.6295933365997061,
+        "difficulty": 0.6224891531415716
+      }
+    }
+  ],
+  "children": []
+}

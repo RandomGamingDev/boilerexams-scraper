@@ -1,0 +1,143 @@
+{
+  "id": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a general solution to the following differential equation\n\\[\n    \\frac{dy}{dx} + 3y = 3x^2e^{-3x} + 2xe^{-3x}\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "758f0af3-eba6-45b8-ba5c-142a16a903e2",
+        "index": 0,
+        "body": "$\ny = (x^3 + x^2)e^{-3x} + C\n$\n",
+        "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "c866df23-f244-4317-8a4e-7e7509e6c0ed",
+        "index": 1,
+        "body": "$\n    y = (x^3 + x^2 + C)e^{-3x}\n$",
+        "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+        "stats": {
+          "count": 534
+        },
+        "resources": []
+      },
+      {
+        "id": "7d614934-8022-4415-a86a-bd1840a5cc62",
+        "index": 2,
+        "body": "$\n    y = (3x^2 + 2x+ C)e^{-3x}\n$",
+        "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "8c8f425a-1880-4959-8adc-9fe2a1955b7b",
+        "index": 3,
+        "body": "$\n    y = -\\left(x^2 + \\frac{4}{3}x+ \\frac{4}{9}\\right)e^{-3x} + C\n$",
+        "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "bb92e128-0707-48d4-827b-a5f098f3e6a2",
+        "index": 4,
+        "body": "$\n    y = (x^3 + x^2)e^{-3x} + Ce^{3x}\n$",
+        "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "143504184",
+    "timeSpentVideo": "12271054",
+    "submissions": 797,
+    "submissionsCorrect": 534,
+    "accuracy": 0.6700125470514429,
+    "difficulty": 0.5989409141583054
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "0d018391-338d-45fc-b328-1c57a1bc3b55",
+    "body": null,
+    "questionId": "cc66cf61-d1d5-4e96-a191-df7fe8ebc5c1",
+    "resources": [
+      {
+        "id": "0a0f367f-3702-403c-80bc-cb126356ccfe",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=2DwB8N4yfixCs7f9&t=108"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0d018391-338d-45fc-b328-1c57a1bc3b55",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

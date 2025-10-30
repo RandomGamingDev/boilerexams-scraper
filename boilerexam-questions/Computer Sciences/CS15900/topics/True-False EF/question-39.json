@@ -1,0 +1,133 @@
+{
+  "id": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the formatting of output with the <font style=\"font-family:'Courier New'\">printf</font> function is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "57b3496f-2280-4cab-a1aa-222e774bb871",
+        "index": 0,
+        "body": "The size modifier is used to specify the minimum number of positions to reserve for the output of a value.",
+        "questionId": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+        "stats": {
+          "count": 505
+        },
+        "resources": []
+      },
+      {
+        "id": "f24d5db0-80d8-42c1-97d9-db1871c16dbf",
+        "index": 1,
+        "body": "A width modifier may be used for the output of any numeric value.",
+        "questionId": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+        "stats": {
+          "count": 1341
+        },
+        "resources": []
+      },
+      {
+        "id": "4c41a78f-5a24-4a76-bd2e-35dae1e7b1e7",
+        "index": 2,
+        "body": "Conversion codes are needed only for the printing of data that is stored in the memory of a variable.",
+        "questionId": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+        "stats": {
+          "count": 206
+        },
+        "resources": []
+      },
+      {
+        "id": "accb9f6b-c358-4bbe-8197-6b54dec1e095",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 39,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "204849798",
+    "timeSpentVideo": "0",
+    "submissions": 2157,
+    "submissionsCorrect": 1341,
+    "accuracy": 0.6216968011126565,
+    "difficulty": 0.6336951705804165
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "afb39b1c-57f1-4377-b094-2c21478924e1",
+    "body": "",
+    "questionId": "28dd4c75-b3ce-4070-ba35-e3ac4619d677",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "5559976b-c520-4f0b-a5f8-868dbd5d8f7b",
+      "name": "printf & scanf",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23602771123",
+        "timeSpentVideo": "187685305",
+        "submissions": 73478,
+        "submissionsCorrect": 48225,
+        "questions": 24,
+        "accuracy": 0.656318898173603,
+        "difficulty": 0.5938935551387643
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

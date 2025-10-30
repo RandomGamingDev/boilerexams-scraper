@@ -1,0 +1,143 @@
+{
+  "id": "e8f4ca1f-1519-4633-9594-122712ec822c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Let $\\boldsymbol{v}_{1}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 5\\end{array}\\right], \\boldsymbol{v}_{2}=\\left[\\begin{array}{c}3 \\\\ -1 \\\\ 4\\end{array}\\right]$ and $\\boldsymbol{x}=\\left[\\begin{array}{l}1 \\\\ 3 \\\\ 6\\end{array}\\right]$, and $\\boldsymbol{B}=\\left\\{\\boldsymbol{v}_{1}, \\boldsymbol{v}_{2}\\right\\}$. Then $\\boldsymbol{B}$ is a basis for $H=\\operatorname{span}\\left\\{\\boldsymbol{v}_{1}, \\boldsymbol{v}_{2}\\right\\}$. Determine if $\\boldsymbol{x}$ is in $H$, and if it is, find the coordinate vector of $\\boldsymbol{x}$ relative to $\\boldsymbol{B}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "83af5701-fbb0-4332-a252-ac840eedcd73",
+        "index": 0,
+        "body": "Yes, $\\boldsymbol{x}$ is in $H$, and $[\\boldsymbol{x}]_{\\boldsymbol{B}}=\\left[\\begin{array}{c}-4 \\\\ 3\\end{array}\\right]$",
+        "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "de53d7bb-3e69-4be8-aa38-a8f2952130fc",
+        "index": 1,
+        "body": "Yes, $\\boldsymbol{x}$ is in $H$, and $[\\boldsymbol{x}]_{\\boldsymbol{B}}=\\left[\\begin{array}{c}2 \\\\ -1\\end{array}\\right]$",
+        "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+        "stats": {
+          "count": 1177
+        },
+        "resources": []
+      },
+      {
+        "id": "7bf44be4-a81b-41b9-a636-97520820cd98",
+        "index": 2,
+        "body": "Yes, $\\boldsymbol{x}$ is in $H$, and $[\\boldsymbol{x}]_{\\boldsymbol{B}}=\\left[\\begin{array}{c}5 \\\\ -3\\end{array}\\right]$",
+        "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "44075a5c-d2d0-47cb-9c09-62c7ee8c5822",
+        "index": 3,
+        "body": "Yes, $\\boldsymbol{x}$ is in $H$, and $[\\boldsymbol{x}]_{\\boldsymbol{B}}=\\left[\\begin{array}{c}-1 \\\\ 2\\end{array}\\right]$",
+        "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "d51da9c5-e90f-42ab-8087-0b9975daee92",
+        "index": 4,
+        "body": "No, $\\boldsymbol{x}$ is not in $H$.",
+        "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "342695572",
+    "timeSpentVideo": "42264266",
+    "submissions": 1692,
+    "submissionsCorrect": 1177,
+    "accuracy": 0.6956264775413712,
+    "difficulty": 0.5652901785714286
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "dddc676d-9b44-4e07-b140-1707d2bedcb0",
+    "body": "",
+    "questionId": "e8f4ca1f-1519-4633-9594-122712ec822c",
+    "resources": [
+      {
+        "id": "6df9ebbd-1de7-471b-9d61-07cd43e7085f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/llMPDRaxhNU?si=D6fOzXcOoFRmxOwm&t=2824"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dddc676d-9b44-4e07-b140-1707d2bedcb0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    }
+  ],
+  "children": []
+}

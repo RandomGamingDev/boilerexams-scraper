@@ -1,0 +1,143 @@
+{
+  "id": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $y_{1}=t$ is a solution of the following equation:\n\n\n\\[\nt^{3} y^{\\prime \\prime}-t y^{\\prime}+y=0 \\text {. }\n\\]\n\nWhich of the following is also a solution?\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "7046b3a9-b4c4-41fe-b330-de11893525d4",
+        "index": 0,
+        "body": "$t^{2} e^{-1 / t}$",
+        "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "d60bdacc-47fe-46b2-b641-16789204c3d3",
+        "index": 1,
+        "body": "$t \\ln (t)$",
+        "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "f3cf558b-3fc0-4c35-9023-abf42ffd9afa",
+        "index": 2,
+        "body": "$t \\ln ^{2}(t)$",
+        "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "503fc04d-b73a-4cc4-bed9-2b815b92cd06",
+        "index": 3,
+        "body": "$t^{2} e^{t}$",
+        "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "f597a30d-7f46-4dc6-ac83-997e4091eeba",
+        "index": 4,
+        "body": "$t e^{-1 / t}$",
+        "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+        "stats": {
+          "count": 867
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "582775700",
+    "timeSpentVideo": "114808257",
+    "submissions": 2016,
+    "submissionsCorrect": 867,
+    "accuracy": 0.43005952380952384,
+    "difficulty": 0.8166351606805293
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "9d1ac696-49d3-4655-8eae-2b3b60fff3de",
+    "body": "",
+    "questionId": "638a1155-21fb-4cc8-b4df-114606eef6a6",
+    "resources": [
+      {
+        "id": "2248e687-44d4-4e99-9cc5-4f5b9c88f987",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-SBK3TWBnLc"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9d1ac696-49d3-4655-8eae-2b3b60fff3de",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a3465684-5862-4195-970d-c0f371a3c108",
+      "name": "Reduction of Order",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1736068095",
+        "timeSpentVideo": "180927057",
+        "submissions": 2723,
+        "submissionsCorrect": 1021,
+        "questions": 2,
+        "accuracy": 0.3749540947484392,
+        "difficulty": 0.8706163655685442
+      }
+    }
+  ],
+  "children": []
+}

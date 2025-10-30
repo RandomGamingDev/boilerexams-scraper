@@ -1,0 +1,133 @@
+{
+  "id": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding random number generation is FALSE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a6b4a37e-99da-4651-ad08-bc935b38b1ce",
+        "index": 0,
+        "body": "Each call to the <font style=\"font-family:'Courier New'\">rand</font> function returns the next integer in the series of random numbers.",
+        "questionId": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+        "stats": {
+          "count": 1020
+        },
+        "resources": []
+      },
+      {
+        "id": "c35eb4e6-f759-4b8f-abb9-ae7c9e07aaea",
+        "index": 1,
+        "body": "The <font style=\"font-family:'Courier New'\">srand</font> function must be called only once for each desired series of random numbers.",
+        "questionId": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+        "stats": {
+          "count": 681
+        },
+        "resources": []
+      },
+      {
+        "id": "f76b0e5b-53d2-49a1-a776-29feaa6010ca",
+        "index": 2,
+        "body": "A call to the <font style=\"font-family:'Courier New'\">srand</font> function includes the seed value as a parameter.",
+        "questionId": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+        "stats": {
+          "count": 458
+        },
+        "resources": []
+      },
+      {
+        "id": "53936e5b-6c25-4770-a4dd-dc07f365a549",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+        "stats": {
+          "count": 2875
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "282916914",
+    "timeSpentVideo": "30123341",
+    "submissions": 5219,
+    "submissionsCorrect": 2875,
+    "accuracy": 0.5508718145238551,
+    "difficulty": 0.7000846023688664
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "e94b5f14-6c94-4db5-977b-dba22453366b",
+    "body": "",
+    "questionId": "c1c33de0-5104-44c2-a397-ebbc45d584ae",
+    "resources": [
+      {
+        "id": "2c49b7f1-3657-421f-a472-a7250964a594",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=3417"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e94b5f14-6c94-4db5-977b-dba22453366b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

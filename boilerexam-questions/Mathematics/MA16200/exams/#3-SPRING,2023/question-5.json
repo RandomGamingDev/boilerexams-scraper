@@ -1,0 +1,143 @@
+{
+  "id": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements are true? \n\n I. If $\\lim_{n\\to\\infty} a_n = 0$, then $\\sum_{n=1}^{\\infty} a_n$ converges.\n\nII. If $\\sum_{n=1}^{\\infty} |a_n|$ converges, then $\\sum_{n=1}^{\\infty} a_n$ converges.\n\nIII. If the sequence $\\{a_n\\}$ is decreasing, then $\\sum_{n=1}^{\\infty} (-1)^{n+1}a_n$ converges.\n\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "85fdee9d-db83-4003-97ff-d75041dc615b",
+        "index": 0,
+        "body": "III only",
+        "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+        "stats": {
+          "count": 405
+        },
+        "resources": []
+      },
+      {
+        "id": "18c7a2da-db98-4c90-9ec2-2f2a33c5d5ae",
+        "index": 1,
+        "body": "II and III only",
+        "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+        "stats": {
+          "count": 826
+        },
+        "resources": []
+      },
+      {
+        "id": "31f3ae22-dd94-461f-a9fc-1b3321e04d2c",
+        "index": 2,
+        "body": "I and II only",
+        "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+        "stats": {
+          "count": 370
+        },
+        "resources": []
+      },
+      {
+        "id": "d365846d-2073-4dac-8fe7-11d997f4dd56",
+        "index": 3,
+        "body": "I and III only",
+        "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+        "stats": {
+          "count": 298
+        },
+        "resources": []
+      },
+      {
+        "id": "ce5d8cb1-274c-4d47-91e8-e7867e920595",
+        "index": 4,
+        "body": "II only",
+        "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+        "stats": {
+          "count": 2545
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "413125643",
+    "timeSpentVideo": "155585910",
+    "submissions": 4615,
+    "submissionsCorrect": 2545,
+    "accuracy": 0.551462621885157,
+    "difficulty": 0.6996288441145281
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "55094e71-340a-4b76-b5c4-480917de7dce",
+    "body": "",
+    "questionId": "d67b97f0-bf2c-4ff8-ad61-aad433dfc2da",
+    "resources": [
+      {
+        "id": "0045d668-3042-43f9-9ebc-630cf04d2ea0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=533\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "55094e71-340a-4b76-b5c4-480917de7dce",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

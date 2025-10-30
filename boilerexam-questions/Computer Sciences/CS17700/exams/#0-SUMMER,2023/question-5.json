@@ -1,0 +1,133 @@
+{
+  "id": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a 2D matrix of size \ud835\udc5b \u00d7 \ud835\udc5b. You are tasked with writing a Python function to convert this matrix into an identity matrix (a square matrix in which all the elements of the principal diagonal are ones, and all other elements are zeros). Below is a piece of code that attempts to achieve this:\nWhich of the following statements about the above code is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8997483b-0769-47f0-a65d-b15e78d772d3",
+        "index": 0,
+        "body": "The code correctly initializes a square matrix of size \ud835\udc5b \u00d7 \ud835\udc5b filled with zeros.",
+        "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "e25e7f0b-c39c-411a-abde-fbd6330f34ae",
+        "index": 1,
+        "body": "The while loop runs \ud835\udc5b times to set the diagonal elements to 1.",
+        "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "4dd80abe-745f-41b7-963d-58855e32a925",
+        "index": 2,
+        "body": "The code will result in an IndexError when i is equal to \ud835\udc5b.",
+        "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "d4d4c35a-3ce9-4521-8806-cd386fa1bb9b",
+        "index": 3,
+        "body": "The code successfully creates and returns an identity matrix for any given positive integer \ud835\udc5b",
+        "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "42243141",
+    "timeSpentVideo": "6781355",
+    "submissions": 274,
+    "submissionsCorrect": 152,
+    "accuracy": 0.5547445255474452,
+    "difficulty": 0.7098930481283422
+  },
+  "resources": [
+    {
+      "id": "b3ea761a-a7e5-4cec-8171-c9d59a60f16d",
+      "type": "CODE",
+      "data": {
+        "content": "def create_identity_matrix(n):\n    matrix = [[0]*n for _ in range(n)]\n    i = 0\n    while i < n:\n        matrix[i][i] = 1\n        i += 1\n    return matrix",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "3d33d937-f51c-483c-a56d-2823705e9c8d",
+    "body": "",
+    "questionId": "d3f46a7c-36b5-4e18-b273-4aa234fc3b40",
+    "resources": [
+      {
+        "id": "4065be99-c89e-47f2-a14f-14c2416fa45c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=jtKI8NdawN0p_kZI&t=1768"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3d33d937-f51c-483c-a56d-2823705e9c8d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

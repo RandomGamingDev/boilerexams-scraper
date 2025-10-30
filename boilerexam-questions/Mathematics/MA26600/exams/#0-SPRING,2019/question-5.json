@@ -1,0 +1,143 @@
+{
+  "id": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the values of $\\alpha,$ if any, for which all solutions of the differential equation\n\n\\[y^{\\prime\\prime}-(2\\alpha+4)y^{\\prime}+\\left(\\alpha^{2}+4 \\alpha+3\\right) y=0\\]\n\n\ntend to zero as $t \\rightarrow \\infty$.\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c1a6c2f6-0589-4cea-85e3-35bb75f7e49b",
+        "index": 0,
+        "body": "$\\alpha>-3$",
+        "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "aa3fd019-dfe5-4df0-aa2c-27edf5a8e6dd",
+        "index": 1,
+        "body": "$\\alpha<-1$",
+        "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "bbe51272-7536-44be-8f44-048d87bf2a04",
+        "index": 2,
+        "body": "$\\alpha>-1$",
+        "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+        "stats": {
+          "count": 170
+        },
+        "resources": []
+      },
+      {
+        "id": "093e8b6d-8127-4c33-b310-bff6dcaf3356",
+        "index": 3,
+        "body": "$\\alpha<-3$",
+        "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+        "stats": {
+          "count": 1085
+        },
+        "resources": []
+      },
+      {
+        "id": "3d48071c-2e2f-4b21-a914-90d64e725671",
+        "index": 4,
+        "body": "There is no $\\alpha$ for which all solutions tend to zero as $t \\rightarrow \\infty$.",
+        "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "549635900",
+    "timeSpentVideo": "167997795",
+    "submissions": 2455,
+    "submissionsCorrect": 1085,
+    "accuracy": 0.4419551934826884,
+    "difficulty": 0.8057729941291585
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "c73e374d-f7b7-4230-afd2-52ba2896da71",
+    "body": "",
+    "questionId": "31d7f8cb-842f-4d3c-986e-0d730866b924",
+    "resources": [
+      {
+        "id": "7310194c-9168-4caf-81d3-f8c9a57392df",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=F2j5L_AKhwxDc4pA&t=426"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c73e374d-f7b7-4230-afd2-52ba2896da71",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

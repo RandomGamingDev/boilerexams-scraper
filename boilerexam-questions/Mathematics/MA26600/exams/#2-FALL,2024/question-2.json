@@ -1,0 +1,143 @@
+{
+  "id": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Select a differential equation which is equivalent to the following first order system:\n\\[\n\\begin{cases}\nx_1' = x_2, \\\\\nx_2' = x_3, \\\\\nx_3' = 2tx_1 - t^2x_2 - x_3 - 3e^t.\n\\end{cases}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4f7fa37f-4ffe-41c4-bc87-535936640263",
+        "index": 0,
+        "body": "$x''' - 2tx'' + t^2x' + x = -3e^t$",
+        "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "7ade40f2-0bfb-4aa5-aad5-ed20f5499fee",
+        "index": 1,
+        "body": "$(x_3)' + x_3 + t^2x_2 - 2tx = -3e^t$",
+        "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "1d4767bc-1c90-4ede-8a99-87c12b3225e7",
+        "index": 2,
+        "body": "$x''' + x'' + t^2x' - 2tx = -3e^t$",
+        "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "a830e35c-d23e-426c-b031-07211c0edb7d",
+        "index": 3,
+        "body": "$x^{(4)} - 2tx' + t^2x'' + x''' + 3e^t x = 0$",
+        "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "43eeaf4d-1c41-455c-b288-c3e03022ad6f",
+        "index": 4,
+        "body": "$x''' - x'' - t^2x' + 2tx - 3e^t = 0$",
+        "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "4492544",
+    "timeSpentVideo": "692901",
+    "submissions": 21,
+    "submissionsCorrect": 12,
+    "accuracy": 0.5714285714285714,
+    "difficulty": 0.737603305785124
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "38fe97b5-f2be-4a39-a969-3981ed3110d6",
+    "body": null,
+    "questionId": "0a8cf753-67a5-4fde-8147-1fca1fc93764",
+    "resources": [
+      {
+        "id": "f862bfd7-5fa8-4dd3-8b70-228314d91082",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=ZdHO7P-N1JeLP0mN&t=371"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "38fe97b5-f2be-4a39-a969-3981ed3110d6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8a469da1-2abb-4afc-a453-d3d3d7225815",
+      "name": "System of Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2751687092",
+        "timeSpentVideo": "157437810",
+        "submissions": 6359,
+        "submissionsCorrect": 4496,
+        "questions": 9,
+        "accuracy": 0.7070294071394874,
+        "difficulty": 0.5461758786189813
+      }
+    }
+  ],
+  "children": []
+}

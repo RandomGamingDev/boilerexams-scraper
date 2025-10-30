@@ -1,0 +1,143 @@
+{
+  "id": "e65dc684-7052-490a-8e27-ba369338fcde",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which one of the following is the correct form of the partial fraction decomposition of \\[\\frac{1}{x^5+2x^3+x} ?\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f7f4834d-8e9d-4556-b85c-4e53b9b9c3c2",
+        "index": 0,
+        "body": "$\\frac{A}{x} + \\frac{B}{x+1} + \\frac{C}{x-1} + \\frac{D}{(x+1)^2} + \\frac{E}{(x-1)^2}$",
+        "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "e6415242-f648-458d-8221-1b4d262c7ea2",
+        "index": 1,
+        "body": "$\\frac{A}{x} + \\frac{B}{x^2+1} + \\frac{C}{(x^2+1)^2}$",
+        "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "eaa7eea8-dacb-4e5c-97b9-ba23b7a104bc",
+        "index": 2,
+        "body": "$\\frac{A}{x} + \\frac{B}{x^2} + \\frac{C}{x^3} + \\frac{D}{x^4}$",
+        "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "623b8c4d-46c1-47b7-bd70-2d79d8cbbd4b",
+        "index": 3,
+        "body": "$\\frac{A}{x}+\\frac{Bx+C}{x^2+1}+\\frac{Dx+E}{(x^2+1)^2}$",
+        "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+        "stats": {
+          "count": 957
+        },
+        "resources": []
+      },
+      {
+        "id": "5f8327dc-4403-48a9-b2c1-a4d4ba24b056",
+        "index": 4,
+        "body": "$\\frac{A}{x} + \\frac{B}{x+1} + \\frac{C}{x-1}$",
+        "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "152930831",
+    "timeSpentVideo": "14257316",
+    "submissions": 1212,
+    "submissionsCorrect": 957,
+    "accuracy": 0.7896039603960396,
+    "difficulty": 0.4824695121951219
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "60f34e5e-d1d1-4343-b3bf-7c4907a93e8b",
+    "body": null,
+    "questionId": "e65dc684-7052-490a-8e27-ba369338fcde",
+    "resources": [
+      {
+        "id": "3f8dec73-ad7c-4824-a8f7-53cc6b9a3b91",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=1245s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "60f34e5e-d1d1-4343-b3bf-7c4907a93e8b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182337043",
+        "timeSpentVideo": "951958617",
+        "submissions": 36368,
+        "submissionsCorrect": 22498,
+        "questions": 15,
+        "accuracy": 0.618620765508139,
+        "difficulty": 0.6317045080618624
+      }
+    }
+  ],
+  "children": []
+}

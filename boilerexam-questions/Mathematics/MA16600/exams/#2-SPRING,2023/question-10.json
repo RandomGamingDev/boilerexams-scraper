@@ -1,0 +1,143 @@
+{
+  "id": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Write out the form of the partial fraction decomposition of the function\n\n\\[\n\\frac{1}{(x-2)^2(x^2-4)(x^2 + 4)}.\n\\]\nNote: The letters $A,B,C,D,E,F$ in the partial fractions above represent some appropriate constants. ",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b78d62b0-a002-43de-860d-05008ee61ae1",
+        "index": 0,
+        "body": "$\\frac{A}{x-2}+\\frac{B}{(x-2)^2}+\\frac{C}{(x-2)^3}+\\frac{D}{x+2}+\\frac{E}{x^2+4}$",
+        "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "aa22dbe3-f9fd-4612-b406-e4b3d70e095a",
+        "index": 1,
+        "body": "$\\frac{A}{x-2}+\\frac{B}{(x-2)^2}+\\frac{C}{(x-2)^3}+\\frac{D}{x+2}+\\frac{E}{(x+2)^2}$",
+        "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "efe171c8-8530-4e1c-bdf4-85c91f741309",
+        "index": 2,
+        "body": "$\\frac{Ax+B}{(x-2)^2}+\\frac{Cx+D}{x^2-4}+\\frac{Ex+F}{x^2+4}$",
+        "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "b4139192-8d29-4c5a-84e8-2fe57139efb1",
+        "index": 3,
+        "body": "$\\frac{A}{x-2}+\\frac{B}{(x-2)^2}+\\frac{Cx+D}{x^2-4}+\\frac{Ex+F}{x^2+4}$",
+        "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "8bda2eb5-f121-41b2-8e1a-8f1e70ec40db",
+        "index": 4,
+        "body": "$\\frac{A}{x-2}+\\frac{B}{(x-2)^2}+\\frac{C}{(x-2)^3}+\\frac{D}{x+2}+\\frac{Ex+F}{x^2+4}$",
+        "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "20233876",
+    "timeSpentVideo": "1044292",
+    "submissions": 167,
+    "submissionsCorrect": 102,
+    "accuracy": 0.6107784431137725,
+    "difficulty": 0.6807116104868914
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "ccb20356-48cf-4d62-8447-6030ef02bd01",
+    "body": null,
+    "questionId": "4e8b5e1a-4383-4f12-b750-8e270e009568",
+    "resources": [
+      {
+        "id": "f77e9d4b-6736-4639-af41-f99500d5b16c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=FrYD7LEi5Xo5uU71&t=4256"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ccb20356-48cf-4d62-8447-6030ef02bd01",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "379288288",
+        "timeSpentVideo": "11959782",
+        "submissions": 821,
+        "submissionsCorrect": 489,
+        "questions": 4,
+        "accuracy": 0.5956151035322778,
+        "difficulty": 0.6647665580890336
+      }
+    }
+  ],
+  "children": []
+}

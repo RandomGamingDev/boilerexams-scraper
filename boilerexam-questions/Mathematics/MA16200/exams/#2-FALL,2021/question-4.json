@@ -1,0 +1,153 @@
+{
+  "id": "e8895d89-580e-4f4e-b449-57142299f7bd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the correct form of the partial fraction decomposition of the following function:\n\n\n\\[\n\\frac{x^{6}+x^{3}-x^{2}+1}{\\left(x^{5}+x^{3}\\right)(x-1)^{2}}\n\\]",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "7c6c30ca-fe2a-4fe6-9eea-ee151ef2d136",
+        "index": 0,
+        "body": "$\\frac{A x+B}{x^{5}+x^{3}}+\\frac{C}{x-1}+\\frac{D}{(x-1)^{2}}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 195
+        },
+        "resources": []
+      },
+      {
+        "id": "35a340b9-c004-4e77-b91f-27ecdf75a821",
+        "index": 1,
+        "body": "$\\frac{A}{x^{2}+1}+\\frac{B}{x^{3}}+\\frac{C}{(x-1)^{2}}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "8d73df59-2c16-4775-8ce3-0eaa55420d78",
+        "index": 2,
+        "body": "$\\frac{A}{x}+\\frac{B}{x^{2}}+\\frac{C}{x^{3}}+\\frac{D}{x^{2}+1}+\\frac{E}{x-1}+\\frac{F}{x+1}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "5a6cfc2f-2604-4716-8ea3-ba28ee7773cb",
+        "index": 3,
+        "body": "$\\frac{A x+B}{x^{5}+x^{3}}+\\frac{C}{x+1}+\\frac{D}{x-1}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "a03144e1-e692-4327-ad59-a1fd1f070e2b",
+        "index": 4,
+        "body": "$\\frac{A x+B}{(x-1)^{2}}+\\frac{C x+D}{x^{2}+1}+\\frac{E}{x^{3}}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "f2b76d27-a5c2-4667-abc4-13500c3ee411",
+        "index": 5,
+        "body": "$\\frac{A x + B}{x^2 + 1} + \\frac{C}{x} + \\frac{D}{x^2} + \\frac{E}{x^3} + \\frac{F}{x - 1} + \\frac{G}{(x - 1)^2}$",
+        "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+        "stats": {
+          "count": 1628
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "ac49247a-ff75-4fad-81ea-c684ca361961",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "247110281",
+    "timeSpentVideo": "19951607",
+    "submissions": 2139,
+    "submissionsCorrect": 1628,
+    "accuracy": 0.7611033193080879,
+    "difficulty": 0.5005582849486377
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac49247a-ff75-4fad-81ea-c684ca361961",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6303658106",
+      "timeSpentVideo": "685020582",
+      "submissions": 32950,
+      "submissionsCorrect": 20812,
+      "questions": 12,
+      "accuracy": 0.6316236722306525,
+      "difficulty": 0.6187745839636913
+    }
+  },
+  "explanation": {
+    "id": "41f7c169-0631-4a99-a67a-acbe5cc06d1d",
+    "body": "",
+    "questionId": "e8895d89-580e-4f4e-b449-57142299f7bd",
+    "resources": [
+      {
+        "id": "477a7722-aece-46d8-88a8-5271675bdc55",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YXRnrX7N3w4?t=801\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "41f7c169-0631-4a99-a67a-acbe5cc06d1d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182337043",
+        "timeSpentVideo": "951958617",
+        "submissions": 36368,
+        "submissionsCorrect": 22498,
+        "questions": 15,
+        "accuracy": 0.618620765508139,
+        "difficulty": 0.6317045080618624
+      }
+    }
+  ],
+  "children": []
+}

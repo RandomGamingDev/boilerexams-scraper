@@ -1,0 +1,149 @@
+{
+  "id": "d5b584ef-2293-4499-aa67-5c487c467a87",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the program is TRUE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2eb7bbba-0abf-4239-8abb-e2417e8c5808",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logic in the program above includes nested repetition.</font>",
+        "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+        "stats": {
+          "count": 4004
+        },
+        "resources": []
+      },
+      {
+        "id": "eeb8defd-8568-42ac-b7a6-f6f013d8870f",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The process being implemented using the</font> do-while <font style=\"font-family:'Times New Roman'\">loop is event-controlled.</font>",
+        "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+        "stats": {
+          "count": 913
+        },
+        "resources": []
+      },
+      {
+        "id": "e2f53abc-2deb-436a-ab02-36db640c3b9f",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The number of times the</font> while <font style=\"font-family:'Times New Roman'\">loop iterates is equal to the number of digits in the integer</font> n.",
+        "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+        "stats": {
+          "count": 619
+        },
+        "resources": []
+      },
+      {
+        "id": "f35ba2e9-c0f4-4d6e-acea-35ccc44af0a8",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "398580126",
+    "timeSpentVideo": "59162922",
+    "submissions": 5738,
+    "submissionsCorrect": 4004,
+    "accuracy": 0.6978041129313349,
+    "difficulty": 0.5555841041452553
+  },
+  "resources": [
+    {
+      "id": "58f5bd8a-44b9-4953-9739-eb54e9fe2e21",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\nint makeCalculation(int, int);\n\nint main(void)\n{\n  int n = 53642;\n  int total = 0;\n\n  do\n  {\n    total += makeCalculation(n, n % 2);\n    n /= 10;\n  } while (n > 0);\n\n  printf(\"total: %d\\n\", total);\n\n  return (0);\n}\n\nint makeCalculation(int n, int start)\n{\n  int result;\n\n  result = start;\n  while (n % 10 > 0)\n  {\n    switch (start)\n    {\n    case 0:\n      result += n % 10;\n      break;\n    case 1:\n      result *= n % 10;\n    }\n    n--;\n  }\n  return (result);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "0c5061ca-5499-4301-af55-73d29842d16a",
+    "body": "",
+    "questionId": "d5b584ef-2293-4499-aa67-5c487c467a87",
+    "resources": [
+      {
+        "id": "fafc4162-774a-4399-b678-fbffdc4b77ce",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=1628"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0c5061ca-5499-4301-af55-73d29842d16a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

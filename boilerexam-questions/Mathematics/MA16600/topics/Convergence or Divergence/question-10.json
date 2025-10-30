@@ -1,0 +1,158 @@
+{
+  "id": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following improper integrals converge? \n\n$\\textrm{ }\\textrm{ I:} \\int_0^{\\infty}xe^{-x^2}dx.$\n$\\textrm{ II:} \\int_0^2 \\frac{1}{x-1}dx.$\n$\\textrm{III:} \\int_0^2 \\frac{1}{(x-1)^{1/2}}dx.$\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c8f9c8cf-c1b8-4665-87fb-0e3ee897c59d",
+        "index": 0,
+        "body": "I and III only.",
+        "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+        "stats": {
+          "count": 276
+        },
+        "resources": []
+      },
+      {
+        "id": "10ad983e-bf26-4fd9-bd35-0ad7d2f09d0c",
+        "index": 1,
+        "body": "I, II, and III. ",
+        "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "46b4da3c-af87-4a9c-a5cc-8f9891b4b66f",
+        "index": 2,
+        "body": "II and III only. ",
+        "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "b7e4b4bd-b760-479a-8b48-cbfb68cef5bf",
+        "index": 3,
+        "body": "I and II only. ",
+        "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "4b478fe3-4d41-46eb-8794-29e05b835476",
+        "index": 4,
+        "body": "None of the Above. ",
+        "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105885300",
+    "timeSpentVideo": "20230301",
+    "submissions": 523,
+    "submissionsCorrect": 276,
+    "accuracy": 0.5277246653919694,
+    "difficulty": 0.7267255216693419
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "d063d6bd-76cd-43d3-8d70-67cf4ae88895",
+    "body": null,
+    "questionId": "a2d6ad78-a46d-4239-9615-c7e9a35f5787",
+    "resources": [
+      {
+        "id": "4bcb63ee-71e5-4a2b-8a83-68a9ca118f78",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=J1Z2SiuXTLjMa5RE&t=3723"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d063d6bd-76cd-43d3-8d70-67cf4ae88895",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    },
+    {
+      "id": "beb83d2b-504b-449b-8f24-b39998ba7f7b",
+      "name": "Improper Integral",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "592633495",
+        "timeSpentVideo": "28444555",
+        "submissions": 1140,
+        "submissionsCorrect": 612,
+        "questions": 3,
+        "accuracy": 0.5368421052631579,
+        "difficulty": 0.7161290322580646
+      }
+    }
+  ],
+  "children": []
+}

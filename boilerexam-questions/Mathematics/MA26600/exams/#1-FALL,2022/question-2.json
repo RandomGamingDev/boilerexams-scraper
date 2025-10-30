@@ -1,0 +1,128 @@
+{
+  "id": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank initially contains $80 \\mathrm{gal}$ of brine containing $40 \\mathrm{lb}$ of salt. Brine containing $2 \\mathrm{lb}$ of salt per gallon enters the tank at the rate of $2 \\mathrm{gal} / \\mathrm{min}$ and the perfectly mixed brine in the tank flows out at the rate of $4 \\mathrm{gal} / \\mathrm{min}$. Let $x(t)$ be the amount of salt at a time $t$ in minutes. Then, the initial value problem that $x(t)$ satisfies is",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "79e8074d-191a-4ef9-a7b1-d20fb6a2445a",
+        "index": 0,
+        "body": "$x^{\\prime}=8-\\frac{4 x}{40-t}, \\quad x(0)=80$",
+        "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "e8593f1b-d46e-4b62-8129-8fb6930e2f6d",
+        "index": 1,
+        "body": "$x^{\\prime}=4-\\frac{4 x}{80-2 t}, \\quad x(0)=40$",
+        "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+        "stats": {
+          "count": 1745
+        },
+        "resources": []
+      },
+      {
+        "id": "ea352510-07ce-437a-83d6-de6a100cf58c",
+        "index": 2,
+        "body": "$x^{\\prime}=4-\\frac{x}{80-2 t}, \\quad x(0)=40$",
+        "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "391b5dda-58c9-4fd0-8ddd-e3c82124ccea",
+        "index": 3,
+        "body": "$x^{\\prime}=1-\\frac{3 x}{60-2 t}, \\quad x(0)=80$",
+        "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "5ce96d71-efbe-4f39-b050-66fba05b1735",
+        "index": 4,
+        "body": "$x^{\\prime}=2-\\frac{4x}{80-t}, \\quad x(0)=80$",
+        "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "425970530",
+    "timeSpentVideo": "0",
+    "submissions": 2023,
+    "submissionsCorrect": 1745,
+    "accuracy": 0.8625803262481463,
+    "difficulty": 0.40449835138954315
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3954427074",
+      "timeSpentVideo": "0",
+      "submissions": 13844,
+      "submissionsCorrect": 11189,
+      "questions": 10,
+      "accuracy": 0.8082201675816238,
+      "difficulty": 0.4439902467010901
+    }
+  },
+  "explanation": {
+    "id": "850b7879-c322-4015-972e-8cfbc60f44a8",
+    "body": "",
+    "questionId": "723f9cd0-3468-400d-959f-a1c131c6db8a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

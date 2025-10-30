@@ -1,0 +1,143 @@
+{
+  "id": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The solution of $\\frac{dy}{dx}=4xy^{2}, \n\\;y(0)=1$ is:",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "7fd6a5ab-67b4-41c9-b2c6-29c8c9ddef44",
+        "index": 0,
+        "body": "$y=\\left(\\frac{1}{3 x^{2}-1}\\right)^{\\frac{1}{3}}$",
+        "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "abb4fd3d-7549-4d99-b14d-233214718ea3",
+        "index": 1,
+        "body": "$y=\\left(\\frac{-1}{3 x^{2}-1}\\right)^{\\frac{1}{3}}$",
+        "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "2ca2be15-de96-478c-8527-20816b0ca518",
+        "index": 2,
+        "body": "$y=e^{\\frac{x^{2}}{2}}$",
+        "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "1c540e29-d772-4534-a2ef-4efc8506548c",
+        "index": 3,
+        "body": "$y=\\frac{1}{2 x^{2}+1}$",
+        "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "49b779f0-4fd5-4e84-9c63-cd05fb58599f",
+        "index": 4,
+        "body": "$y=\\frac{-1}{2 x^{2}-1}$",
+        "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+        "stats": {
+          "count": 680
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "152552189",
+    "timeSpentVideo": "7972772",
+    "submissions": 831,
+    "submissionsCorrect": 680,
+    "accuracy": 0.8182912154031288,
+    "difficulty": 0.4658968850698174
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "0c9c5f12-1be8-4431-ae4d-9657c64e98da",
+    "body": "",
+    "questionId": "817ae1a8-c416-4c8c-98e6-bd0424e09595",
+    "resources": [
+      {
+        "id": "b17fd4fe-2b1b-47ac-8d49-b4f2d1ba8d10",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=8ncGkHKdYCheQi5v&t=414\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0c9c5f12-1be8-4431-ae4d-9657c64e98da",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "278176f9-7b3a-45a2-a36a-5f61982afec7",
+      "name": "Separable ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4032162233",
+        "timeSpentVideo": "137485658",
+        "submissions": 6995,
+        "submissionsCorrect": 4862,
+        "questions": 8,
+        "accuracy": 0.6950679056468906,
+        "difficulty": 0.5576814658210008
+      }
+    }
+  ],
+  "children": []
+}

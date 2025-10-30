@@ -1,0 +1,173 @@
+{
+  "id": "943e369d-b229-47df-826d-381f9e153a11",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $L: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{2}$ be a linear transformation and $S=\\left\\{\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3}\\right\\}$ be a basis for $\\mathbb{R}^{3}$, where\n\n\\[\n\\mathbf{v}_{1}=\\left[\\begin{array}{l}\n1 \\\\\n1 \\\\\n0\n\\end{array}\\right], \\quad \\mathbf{v}_{2}=\\left[\\begin{array}{r}\n1 \\\\\n0 \\\\\n-1\n\\end{array}\\right], \\quad \\mathbf{v}_{3}=\\left[\\begin{array}{r}\n0 \\\\\n1 \\\\\n-1\n\\end{array}\\right] \\text {. }\n\\]\n\nSuppose that\n\n\\[\nL\\left(\\mathbf{v}_{1}\\right)=\\left[\\begin{array}{r}\n-2 \\\\\n1\n\\end{array}\\right], \\quad L\\left(\\mathbf{v}_{2}\\right)=\\left[\\begin{array}{l}\n1 \\\\\n0\n\\end{array}\\right], \\quad L\\left(\\mathbf{v}_{3}\\right)=\\left[\\begin{array}{r}\n1 \\\\\n-1\n\\end{array}\\right]\n\\]\n\nWhat is the standard matrix for the linear transformation $L$ (relative to the standard bases on $\\mathbb{R}^{3}$ and $\\left.\\mathbb{R}^{2}\\right)$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ab855552-6cd7-4d3a-9acb-c3e1a6d2285f",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{rrr}-1 & 1 & -2 \\\\ 1 & 2 & 1\\end{array}\\right]$",
+        "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "1f3b7942-7592-4ef3-a726-a9a798a1e49e",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{rrr}-1 & 0 & -2 \\\\ 1 & 1 & 1\\end{array}\\right]$",
+        "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "658dc2a0-7456-4e9a-8295-c2249ac9be6f",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{rrr}1 & 0 & 1 \\\\ -1 & 1 & -2\\end{array}\\right]$",
+        "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "a7ae1053-6f82-4e14-8be4-7a5f2d9f8bdf",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{rrr}-1 & -1 & -2 \\\\ 1 & 0 & 1\\end{array}\\right]$",
+        "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+        "stats": {
+          "count": 1303
+        },
+        "resources": []
+      },
+      {
+        "id": "58918e12-744f-4bbd-a0de-7f892243e44a",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{rrr}-1 & -1 & -2 \\\\ 1 & 1 & 1\\end{array}\\right]$",
+        "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "705926091",
+    "timeSpentVideo": "227210905",
+    "submissions": 2653,
+    "submissionsCorrect": 1303,
+    "accuracy": 0.49114210327930646,
+    "difficulty": 0.7585361423901198
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "0a1dc4b8-1d9a-4d13-b093-d31b07f31e8e",
+    "body": "",
+    "questionId": "943e369d-b229-47df-826d-381f9e153a11",
+    "resources": [
+      {
+        "id": "001885d6-4358-4e59-b3c1-6bd0f67b238a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=846"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0a1dc4b8-1d9a-4d13-b093-d31b07f31e8e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7399288103",
+        "timeSpentVideo": "847747211",
+        "submissions": 14733,
+        "submissionsCorrect": 8390,
+        "questions": 7,
+        "accuracy": 0.5694698975089935,
+        "difficulty": 0.6809984494033574
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "97d31621-206d-4652-8ead-28991bbafc5b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=\\cosh (\\sinh (x))$, find $f^{\\prime}(x)$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "ea9fb212-cd00-4e05-aee1-ba47ed686c27",
+        "index": 0,
+        "body": "$-\\sinh (\\cosh (x))$",
+        "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "16e71135-ae4f-46ab-9f95-1abb2c717f7b",
+        "index": 1,
+        "body": "$\\sinh (\\cosh (x))$",
+        "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "196f57f1-bd4b-4a8c-a398-8b0cc6585957",
+        "index": 2,
+        "body": "$-\\sinh (x) \\cosh (x)$",
+        "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "3f1a4dbb-d819-4344-b0ac-1ff3069af492",
+        "index": 3,
+        "body": "$-\\sinh (\\sinh (x)) \\cosh (x)$",
+        "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+        "stats": {
+          "count": 295
+        },
+        "resources": []
+      },
+      {
+        "id": "6f1f22c8-af05-4941-9d2f-f9b7621c42c9",
+        "index": 4,
+        "body": "$\\sinh (\\sinh (x)) \\cosh (x)$",
+        "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "53251532",
+    "timeSpentVideo": "32671586",
+    "submissions": 672,
+    "submissionsCorrect": 266,
+    "accuracy": 0.3958333333333333,
+    "difficulty": 0.8406735751295337
+  },
+  "resources": [],
+  "exam": {
+    "id": "54ebb97e-1995-4580-8a5d-60c8b3290abe",
+    "number": 3,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1283672642",
+      "timeSpentVideo": "378435870",
+      "submissions": 9367,
+      "submissionsCorrect": 5449,
+      "questions": 12,
+      "accuracy": 0.5817230703533682,
+      "difficulty": 0.6691401711207352
+    }
+  },
+  "explanation": {
+    "id": "35bd9daf-8907-44e3-91ce-76f4982727fa",
+    "body": "",
+    "questionId": "97d31621-206d-4652-8ead-28991bbafc5b",
+    "resources": [
+      {
+        "id": "2dd0d12d-a5f5-412f-8ffb-c8da3f7721f6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9FE9_1hSM6w?t=166"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "35bd9daf-8907-44e3-91ce-76f4982727fa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fc8f8ab7-ab77-4453-9a6f-a0dce9662f6d",
+      "name": "Derivatives of Hyperbolic Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "88962188",
+        "timeSpentVideo": "32671586",
+        "submissions": 672,
+        "submissionsCorrect": 266,
+        "questions": 1,
+        "accuracy": 0.3958333333333333,
+        "difficulty": 0.8406735751295337
+      }
+    }
+  ],
+  "children": []
+}

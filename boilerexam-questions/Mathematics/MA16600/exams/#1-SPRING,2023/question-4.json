@@ -1,0 +1,143 @@
+{
+  "id": "d22d06ee-45db-4f39-8376-a30728d39c36",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find Proj$_{\\vec{v}}\\vec{u}$ (the orthogonal projection of $\\vec{u}$ onto $\\vec{v}$), where $\\vec{u} = \\langle 1, -3, 2 \\rangle$ and $\\vec{v} = \\langle 3, 1, 5 \\rangle$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "10a8b94b-53f9-4faf-94ff-eb95ba531618",
+        "index": 0,
+        "body": "$\\frac{10}{35}\\vec{v}$",
+        "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "d9759f75-2784-48bd-8a0c-57766c323288",
+        "index": 1,
+        "body": "$\\frac{10}{35}\\vec{u}$",
+        "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "764e4af7-b33c-48dd-9397-ae0d8b8fb853",
+        "index": 2,
+        "body": "$\\frac{10}{\\sqrt{35}}\\vec{v}$",
+        "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "1337dd3b-6b7b-431b-a483-27f4031cded4",
+        "index": 3,
+        "body": "$\\frac{10}{\\sqrt{35}}\\vec{u}$",
+        "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "2a26f101-8921-407c-a569-edcec4867d1c",
+        "index": 4,
+        "body": "$\\frac{1}{35}\\vec{v}$",
+        "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "7461713",
+    "timeSpentVideo": "491051",
+    "submissions": 45,
+    "submissionsCorrect": 29,
+    "accuracy": 0.6444444444444445,
+    "difficulty": 0.7051724137931035
+  },
+  "resources": [],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "d8c2166a-aa51-4b94-96e7-4c59429814c6",
+    "body": null,
+    "questionId": "d22d06ee-45db-4f39-8376-a30728d39c36",
+    "resources": [
+      {
+        "id": "babd45e3-4065-4d9a-b0a3-2c5b74db5aa3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=gHSPxigTOQwrqwBk&t=1248"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d8c2166a-aa51-4b94-96e7-4c59429814c6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "76f22a88-44c7-44d4-863c-e3464539805c",
+      "name": "Orthogonal Projection",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "156913771",
+        "timeSpentVideo": "1641186",
+        "submissions": 115,
+        "submissionsCorrect": 74,
+        "questions": 2,
+        "accuracy": 0.6434782608695652,
+        "difficulty": 0.6732558139534883
+      }
+    }
+  ],
+  "children": []
+}

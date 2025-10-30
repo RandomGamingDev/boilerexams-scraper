@@ -1,0 +1,143 @@
+{
+  "id": "463f8c4f-2658-42af-a899-959277426a96",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use the method of undetermined coefficients to find a particular solution $x_p(t)$ of\n\\[\nx' = \\begin{bmatrix} 1 & 1 \\\\ 4 & 1 \\end{bmatrix}x +\n\\begin{bmatrix} 2 \\\\ -1 \\end{bmatrix} e^t,\n\\]\ngiven that\n\\[\nx_c(t) = c_1 \\begin{bmatrix} -1 \\\\ 2 \\end{bmatrix} e^{-t}\n+ c_2 \\begin{bmatrix} 1 \\\\ 2 \\end{bmatrix} e^{3t}.\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1ad8aa8d-9b4f-4e10-9a7b-e5a0b43323c4",
+        "index": 0,
+        "body": "$\\begin{bmatrix} -1/4 \\\\ 2 \\end{bmatrix} e^t$",
+        "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "477aa640-f3f3-4ff1-ba1a-7324f1099695",
+        "index": 1,
+        "body": "$\\begin{bmatrix} 1/4 \\\\ 2 \\end{bmatrix} e^t$",
+        "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "ea8ee890-21dd-44b7-a415-deaecb2e817c",
+        "index": 2,
+        "body": "$\\begin{bmatrix} 1/4 \\\\ -2 \\end{bmatrix} e^t$",
+        "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "42b41de2-3224-4c2d-b7fc-f248740b064d",
+        "index": 3,
+        "body": "$\\begin{bmatrix} -1/2 \\\\ 2 \\end{bmatrix} e^t$\n",
+        "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "aa1f0d05-4022-416a-a084-90fa8b29cf99",
+        "index": 4,
+        "body": "$\\begin{bmatrix} 1/2 \\\\ -2 \\end{bmatrix} e^t$",
+        "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1570494",
+    "timeSpentVideo": "1489906",
+    "submissions": 10,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.7954545454545454
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "6a758f52-0f06-4dde-b5da-2737e512e5a9",
+    "body": null,
+    "questionId": "463f8c4f-2658-42af-a899-959277426a96",
+    "resources": [
+      {
+        "id": "b586e494-c018-457f-9501-e320bbeb5bf2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=S38WLYmvB4-2RJNP&t=999"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6a758f52-0f06-4dde-b5da-2737e512e5a9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

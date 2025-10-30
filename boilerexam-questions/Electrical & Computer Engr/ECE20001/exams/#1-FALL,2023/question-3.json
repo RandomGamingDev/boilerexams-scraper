@@ -1,0 +1,173 @@
+{
+  "id": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which is the correct KCL equation at node 2?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1cf88f73-ecc4-470f-b7fc-64b215aa8201",
+        "index": 0,
+        "body": "$-I_1+I_2-\\frac{V_2}{R_3}-\\frac{V_2}{R_1+R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "cf29d2d9-5ee0-4758-977c-27a927c9a779",
+        "index": 1,
+        "body": "$-I_1+I_2+\\frac{V_2}{R_3}+\\frac{V_2}{R_1+R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 414
+        },
+        "resources": []
+      },
+      {
+        "id": "bd4a2aa0-0dc8-4236-a47d-b8850f52cdf8",
+        "index": 2,
+        "body": "$-I_1+I_2-\\frac{V_2}{R_3}-\\frac{V_2}{R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "643d02f7-199d-4b93-9d26-0b854bb9d7dc",
+        "index": 3,
+        "body": "$-I_1+I_2-\\frac{V_2}{R_3}+\\frac{V_2}{R_1+R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "23de5068-feb2-4ebc-be0b-cadfc986272d",
+        "index": 4,
+        "body": "$-I_1-I_2-\\frac{V_2}{R_3}-\\frac{V_2}{R_1+R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "2dbcf79f-2918-4307-8daf-1ed5329beb19",
+        "index": 5,
+        "body": "$+I_1+\\frac{V_2}{R_3}+\\frac{V_2}{R_1+R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "274e8d9c-ed00-4f1c-bb63-b947775b8148",
+        "index": 6,
+        "body": "$I_1+I_2+\\frac{V_2}{R_3}+\\frac{V_2}{R_2}=0$",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "31921121-25c0-4a49-a44f-00cfcdab2c9f",
+        "index": 7,
+        "body": "None of the above",
+        "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "539ea3fa-f121-4a83-b81c-d56dca66d322",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "100527749",
+    "timeSpentVideo": "12149925",
+    "submissions": 570,
+    "submissionsCorrect": 414,
+    "accuracy": 0.7263157894736842,
+    "difficulty": 0.5574626865671641
+  },
+  "resources": [
+    {
+      "id": "8ae24e44-a5ae-4891-ad50-bc2bbb7bed78",
+      "type": "IMAGE",
+      "data": {
+        "key": "j3R-BvMV5dP5UHcfXEhyN",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/j3R-BvMV5dP5UHcfXEhyN"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "539ea3fa-f121-4a83-b81c-d56dca66d322",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1116046718",
+      "timeSpentVideo": "207884731",
+      "submissions": 4919,
+      "submissionsCorrect": 2774,
+      "questions": 10,
+      "accuracy": 0.5639357593006709,
+      "difficulty": 0.687338115162383
+    }
+  },
+  "explanation": {
+    "id": "1bed51d5-e900-4a65-839e-3d237355c280",
+    "body": null,
+    "questionId": "07f32db8-b06c-433e-8f86-f4ede13bc3a6",
+    "resources": [
+      {
+        "id": "7502b9a7-1ecb-4cbb-821b-fed0b38d1f04",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/WVtto6BB6B4?si=R6NdLTieb7Dfjn2h&t=504"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1bed51d5-e900-4a65-839e-3d237355c280",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

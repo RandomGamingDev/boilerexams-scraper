@@ -1,0 +1,143 @@
+{
+  "id": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particular solution for the nonhomogeneous linear system\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{cc}\n1 & 0 \\\\\n1 & -1\n\\end{array}\\right]x +\\left[\\begin{array}{l}\nt \\\\\n1\n\\end{array}\\right]\n\\]\n\nis given by",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f7a8a119-262c-40ee-9d55-a24e5e29dc2e",
+        "index": 0,
+        "body": "$\\mathbf{x}_{\\mathbf{p}}(t)=\\left[\\begin{array}{l}1-t \\\\ 1+t\\end{array}\\right]$",
+        "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "457ca59b-ef4f-45ce-97d5-419f15684a78",
+        "index": 1,
+        "body": "$\\mathbf{x}_{\\mathbf{p}}(t)=\\left[\\begin{array}{l}1-t \\\\ 1-t\\end{array}\\right]$",
+        "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "dcb32cc3-e25f-4218-a16c-9b00e8fdcab1",
+        "index": 2,
+        "body": "$\\mathbf{x}_{\\mathbf{p}}(t)=\\left[\\begin{array}{l}1+t \\\\ 1+t\\end{array}\\right]$",
+        "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "d442b56f-8e65-484d-8f81-00ab2647d8bb",
+        "index": 3,
+        "body": "$\\mathbf{x}_{\\mathbf{p}}(t)=\\left[\\begin{array}{l}1+t \\\\ 1-t\\end{array}\\right]$",
+        "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "5feb6147-4845-4ed8-b2fc-f67277c4e5ce",
+        "index": 4,
+        "body": "$\\mathbf{x}_{\\mathbf{p}}(t)=\\left[\\begin{array}{c}-1-t \\\\ 1-t\\end{array}\\right]$",
+        "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+        "stats": {
+          "count": 593
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "390212656",
+    "timeSpentVideo": "186456882",
+    "submissions": 1674,
+    "submissionsCorrect": 593,
+    "accuracy": 0.35424133811230585,
+    "difficulty": 0.8875422773393461
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "09c23f67-406f-4794-b553-71d1994748fa",
+    "body": "",
+    "questionId": "91a5d711-bffe-4cd2-980d-871e4f8d5100",
+    "resources": [
+      {
+        "id": "41fba5d6-462f-4870-ad5a-47c7002ae511",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=OtgeNUo59Xr6Ix4q&t=2574"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "09c23f67-406f-4794-b553-71d1994748fa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "d5fb63db-2500-4fe0-9cc4-38a1af899894",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear system\n\\[\n\\begin{align*}\n  x-z &= \\,1 \\\\ \n  x+y+(h-1)z &= 3 \\\\ \n  2y+(h^2-3)z &= \\,h+1\n\\end{align*}\n\\]\n(1) Find a row echelon form for the augmented matrix of the system.\n\n(2) For which value(s) of $h$ does this system have an infinite number of solutions?\n\n(3) For which value(s) of $h$ does this system have no solution?\n\n(4) For which value(s) of $h$ does this system have a unique solution?\n\n",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "137898655",
+    "timeSpentVideo": "25598804",
+    "submissions": 518,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 1.169093851132686
+  },
+  "resources": [],
+  "exam": {
+    "id": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7451087147",
+      "timeSpentVideo": "1937973629",
+      "submissions": 38138,
+      "submissionsCorrect": 20922,
+      "questions": 10,
+      "accuracy": 0.548586711416435,
+      "difficulty": 0.7015403525288979
+    }
+  },
+  "explanation": {
+    "id": "8fbfe005-949b-4bd6-bbaf-f6534c47036a",
+    "body": null,
+    "questionId": "d5fb63db-2500-4fe0-9cc4-38a1af899894",
+    "resources": [
+      {
+        "id": "8f2b1a46-3ae9-4816-af87-2b3fdb04bb7a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QzrKd21HPn8?si=TceuBYsmNrgnIsbA&t=3099"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8fbfe005-949b-4bd6-bbaf-f6534c47036a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

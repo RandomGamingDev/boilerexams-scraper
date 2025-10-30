@@ -1,0 +1,153 @@
+{
+  "id": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Describe the following two series: $\\quad \\sum_{k=1}^{\\infty} \\frac{(-1)^{k+1}}{\\sqrt{k}} \\quad$ and $\\quad \\sum_{k=2}^{\\infty} \\frac{(-1)^{k} \\ln k}{k}$",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "6873fbb1-558a-44c0-b51d-996ae6f7fd8b",
+        "index": 0,
+        "body": "Both series converge absolutely.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "d6d99581-a2d2-49c0-8b06-3172cc47d619",
+        "index": 1,
+        "body": "Both series diverge.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "e37c76a7-7564-4bb0-b94b-0659feaec065",
+        "index": 2,
+        "body": "One series converges conditionally, and one series converges absolutely.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 496
+        },
+        "resources": []
+      },
+      {
+        "id": "7b3ad741-cc9a-4adf-be96-7e640c2cfeaf",
+        "index": 3,
+        "body": "One series diverges, and one series converges absolutely.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 181
+        },
+        "resources": []
+      },
+      {
+        "id": "e392e1a3-0b6d-4fb4-a4c0-66bf53305151",
+        "index": 4,
+        "body": "One series diverges, and one series converges conditionally.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 436
+        },
+        "resources": []
+      },
+      {
+        "id": "fe8cdb08-87ae-4d19-a6e9-a8b10a6af361",
+        "index": 5,
+        "body": "Both series converge conditionally.",
+        "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+        "stats": {
+          "count": 1541
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "7036f41b-5805-452b-baaf-0193db73eeda",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "476577910",
+    "timeSpentVideo": "205552078",
+    "submissions": 3136,
+    "submissionsCorrect": 1541,
+    "accuracy": 0.491390306122449,
+    "difficulty": 0.7583436341161929
+  },
+  "resources": [],
+  "exam": {
+    "id": "7036f41b-5805-452b-baaf-0193db73eeda",
+    "number": 3,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5928094961",
+      "timeSpentVideo": "1683952161",
+      "submissions": 36694,
+      "submissionsCorrect": 22035,
+      "questions": 12,
+      "accuracy": 0.6005068948601952,
+      "difficulty": 0.6497662662390608
+    }
+  },
+  "explanation": {
+    "id": "a1247830-2a34-4c55-aa8a-7f897aefc1e4",
+    "body": "",
+    "questionId": "eb8711fc-6c5a-4e73-86d8-6528aaec5795",
+    "resources": [
+      {
+        "id": "5331baea-f6db-4b08-833c-f958dec31a28",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ivT2sj6CbnA?t=210\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a1247830-2a34-4c55-aa8a-7f897aefc1e4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

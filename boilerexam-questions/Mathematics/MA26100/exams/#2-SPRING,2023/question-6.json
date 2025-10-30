@@ -1,0 +1,143 @@
+{
+  "id": "5a283737-9255-414a-be07-d01f65eafdc7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\\[\n\\iint_{R} \\frac{\\sin x}{x} \\, dA\n\\]\nwhere $R$ is the region in the $x y$-plane bounded by the $x$-axis, the line $y=x$, and the line $x=1$. Integrate with respect to $y$ first and then with respect to $x$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ed6d15d5-9ad7-4163-8d40-ae896118cc4b",
+        "index": 0,
+        "body": "$1-\\cos (1)$",
+        "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+        "stats": {
+          "count": 3644
+        },
+        "resources": []
+      },
+      {
+        "id": "de1fd0b4-8638-4506-9b03-eb1b8eda9b93",
+        "index": 1,
+        "body": "$1+\\cos (1)$",
+        "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      },
+      {
+        "id": "77528b45-89c3-4fed-bb47-469f6469100a",
+        "index": 2,
+        "body": "$-1-\\cos (1)$",
+        "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+        "stats": {
+          "count": 452
+        },
+        "resources": []
+      },
+      {
+        "id": "6dfb9634-c70f-483c-b79b-b39b6b4b7d78",
+        "index": 3,
+        "body": "$-1+\\cos (1)$",
+        "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+        "stats": {
+          "count": 292
+        },
+        "resources": []
+      },
+      {
+        "id": "292cfd54-f784-436e-8c8d-e22ddd2efb0f",
+        "index": 4,
+        "body": "$2+\\cos (1)$",
+        "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1134928229",
+    "timeSpentVideo": "132160023",
+    "submissions": 5587,
+    "submissionsCorrect": 3644,
+    "accuracy": 0.652228387327725,
+    "difficulty": 0.6004483910673466
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "9c60da91-5ba1-4e2a-9e87-4a69b31916ac",
+    "body": "",
+    "questionId": "5a283737-9255-414a-be07-d01f65eafdc7",
+    "resources": [
+      {
+        "id": "82a3d461-d078-4d5e-bde0-aa62fa262d56",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=EfQn6qV8OiNOXhrv&t=1258"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9c60da91-5ba1-4e2a-9e87-4a69b31916ac",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    }
+  ],
+  "children": []
+}

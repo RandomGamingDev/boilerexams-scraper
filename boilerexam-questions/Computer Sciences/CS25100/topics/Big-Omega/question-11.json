@@ -1,0 +1,113 @@
+{
+  "id": "90639681-2849-4da9-a948-baf18d8876f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(n)\u2208\u03a9(g(n)), g(n)\u2208O(h(n))$, and $f(n)\u2208\u03a9(h(n))$, then $g(n)+h(n)\u2208O(f(n))$. Hint: Use the inequalities from the respective definitions to reach a conclusion. Assume $n_0$ exists.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "9adbc8fc-ead6-4be8-9698-a45a2b451589",
+        "index": 0,
+        "body": "True",
+        "questionId": "90639681-2849-4da9-a948-baf18d8876f0",
+        "stats": {
+          "count": 1080
+        },
+        "resources": []
+      },
+      {
+        "id": "d62f65e3-2065-4a99-81c0-bbf7bee4fbe7",
+        "index": 1,
+        "body": "False",
+        "questionId": "90639681-2849-4da9-a948-baf18d8876f0",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "173260940",
+    "timeSpentVideo": "0",
+    "submissions": 1362,
+    "submissionsCorrect": 1080,
+    "accuracy": 0.7929515418502202,
+    "difficulty": 0.47708618331053354
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "36afb35d-8eb1-48d2-b137-616355588842",
+    "body": null,
+    "questionId": "90639681-2849-4da9-a948-baf18d8876f0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

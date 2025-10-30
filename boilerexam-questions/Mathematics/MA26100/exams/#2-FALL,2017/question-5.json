@@ -1,0 +1,160 @@
+{
+  "id": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is an INCORRECT setup for $\\iiint_{E} f(x, y, z) d V$, where $E$ is the solid region in the first octant bounded by the surface $x^{2}+z+y=9$ and the three planes $x=0, y=0$, and $z=0$ ? (see figure below)\n\n\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a0c8f5bb-5872-49e6-a2ea-2cc8670204fe",
+        "index": 0,
+        "body": "$\\int_{0}^{3} \\int_{0}^{9-x^{2}} \\int_{0}^{9-y-x^{2}} f(x, y, z) d z d y d x$",
+        "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+        "stats": {
+          "count": 195
+        },
+        "resources": []
+      },
+      {
+        "id": "faef56d2-2db7-4648-90cd-6bee989e193f",
+        "index": 1,
+        "body": "$\\int_{0}^{9} \\int_{0}^{9-z} \\int_{0}^{9-z-x^{2}} f(x, y, z) d y d x d z$",
+        "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+        "stats": {
+          "count": 1313
+        },
+        "resources": []
+      },
+      {
+        "id": "09ef8d5e-9c3d-48c1-89ed-86c391fc7392",
+        "index": 2,
+        "body": "$\\int_{0}^{3} \\int_{0}^{9-x^{2}} \\int_{0}^{9-z-x^{2}} f(x, y, z) d y d z d x$",
+        "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "d500ddb7-3db2-4a84-8f73-8d328c9900c8",
+        "index": 3,
+        "body": "$\\int_{0}^{9} \\int_{0}^{9-z} \\int_{0}^{\\sqrt{9-z-y}} f(x, y, z) d x d y d z$",
+        "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+        "stats": {
+          "count": 240
+        },
+        "resources": []
+      },
+      {
+        "id": "525c7659-3276-42de-b564-1fbb464799b8",
+        "index": 4,
+        "body": "$\\int_{0}^{9} \\int_{0}^{\\sqrt{9-y}} \\int_{0}^{9-y-x^{2}} f(x, y, z) d z d x d y$",
+        "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "388900050",
+    "timeSpentVideo": "61095386",
+    "submissions": 2196,
+    "submissionsCorrect": 1313,
+    "accuracy": 0.5979052823315119,
+    "difficulty": 0.6563588850174216
+  },
+  "resources": [
+    {
+      "id": "9e3e4169-5e74-49aa-abd1-12257f784d1c",
+      "type": "IMAGE",
+      "data": {
+        "key": "JxBB93MYxhnny2o9fxK7h",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/JxBB93MYxhnny2o9fxK7h",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "0a3226c3-1f2c-4f67-ae6d-997ce6077ef2",
+    "body": "",
+    "questionId": "66a5f1d8-416f-4d10-91bd-dc24d0a73af5",
+    "resources": [
+      {
+        "id": "cf6aafe7-9276-4db8-9734-5c1adc59e58c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=503"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0a3226c3-1f2c-4f67-ae6d-997ce6077ef2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "dc2044ef-ec52-4c11-8af4-edbab2a75731",
+      "name": "Triple Integral to Rectangular",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1986603023",
+        "timeSpentVideo": "274370226",
+        "submissions": 6123,
+        "submissionsCorrect": 3855,
+        "questions": 2,
+        "accuracy": 0.6295933365997061,
+        "difficulty": 0.6224891531415716
+      }
+    }
+  ],
+  "children": []
+}

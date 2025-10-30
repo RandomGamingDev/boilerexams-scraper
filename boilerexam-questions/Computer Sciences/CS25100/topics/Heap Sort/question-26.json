@@ -1,0 +1,158 @@
+{
+  "id": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following runtime expressions $T(n)$ describes Heap Sort using Top-Down to build the heap?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b0126a96-71fb-43f5-809d-5f7a603f2b16",
+        "index": 0,
+        "body": "$T(n)=O(n\\log{(n)})$",
+        "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+        "stats": {
+          "count": 628
+        },
+        "resources": []
+      },
+      {
+        "id": "43db5d7b-87de-4aad-9ab9-62820fb2923c",
+        "index": 1,
+        "body": "$T(n)=O(n\\log{(n)}) + O(n\\log{(n)})$",
+        "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+        "stats": {
+          "count": 873
+        },
+        "resources": []
+      },
+      {
+        "id": "1fa91d37-0067-4754-82ca-da0ac01c581b",
+        "index": 2,
+        "body": "$T(n) = O(\\log{(n)}) + O(n\\log{(n)})$",
+        "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "1c791afe-214a-41eb-a38f-94fb6c332b8c",
+        "index": 3,
+        "body": "$T(n) = O(\\log{(n)}) + O(\\log{(n)})$",
+        "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "f63a2b28-9c2d-4d73-9a7b-8f00913b5b82",
+        "index": 4,
+        "body": "$T(n) = O(n) + O(n\\log{(n)})$",
+        "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+        "stats": {
+          "count": 446
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 26,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "246712746",
+    "timeSpentVideo": "0",
+    "submissions": 2262,
+    "submissionsCorrect": 1043,
+    "accuracy": 0.46109637488947836,
+    "difficulty": 0.7872565622353938
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "74148bf4-cc55-42f4-bad0-97e6ff0079d8",
+    "body": "Building the heap itself from an array takes O(nlogn) time for the top down approach (it wouldve taken O(n) time if bottom up approach was used)\n\nDoing the sorting itself once a heap is built takes O(nlogn) time\n\nBoth the heapify and the sort are part of the general HeapSort function thus we need to add them together. (While O(nlogn) as a final answer is not incorrect, it is better to show the way the function breaks down by separating into the runtime of the two main components when the question offers that to you)",
+    "questionId": "fbe57ebd-f433-4d4c-8b93-e26a1d912553",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "c9b87c7d-257a-4e91-b06f-bc9c2a2f6d0c",
+      "name": "Heap Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "931174572",
+        "timeSpentVideo": "0",
+        "submissions": 2262,
+        "submissionsCorrect": 1043,
+        "questions": 1,
+        "accuracy": 0.46109637488947836,
+        "difficulty": 0.7872565622353938
+      }
+    },
+    {
+      "id": "d249b138-0988-4240-9ecc-e5c92da2404e",
+      "name": "Heaps",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3695583741",
+        "timeSpentVideo": "126176007",
+        "submissions": 7624,
+        "submissionsCorrect": 4702,
+        "questions": 6,
+        "accuracy": 0.6167366211962224,
+        "difficulty": 0.634774728120145
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Choose the appropriate trignometric substitution to compute the integral\n\\[\\int \\sqrt{7+12x+4x^2}dx.\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "4baf4cd1-989a-473c-a8d3-0cd7412a4958",
+        "index": 0,
+        "body": "$2x+3 = \\sqrt{2}\\sin \\theta$",
+        "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "7515c291-90a3-4865-82f7-aacf6a616986",
+        "index": 1,
+        "body": "$2x = \\sqrt{7}\\tan \\theta$",
+        "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "5a1d4f34-ae4d-4a50-a32c-c50026b0c538",
+        "index": 2,
+        "body": "$2x+3 = \\sec \\theta$",
+        "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "1aae1f44-1acf-4d7e-9930-58f983867a52",
+        "index": 3,
+        "body": "$2x+3 = \\sqrt{2}\\tan \\theta$",
+        "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "c72e1416-7c5a-46c7-9819-63a017d8f5fe",
+        "index": 4,
+        "body": "$2x+3 = \\sqrt{2}\\sec \\theta$",
+        "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "18205929",
+    "timeSpentVideo": "1662816",
+    "submissions": 119,
+    "submissionsCorrect": 72,
+    "accuracy": 0.6050420168067226,
+    "difficulty": 0.6929223744292238
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "9c53b0b9-88a4-4c92-a9e3-baa074d9c0c1",
+    "body": null,
+    "questionId": "1fbe0bdf-d4ea-485e-8b28-8ca7c4c635f7",
+    "resources": [
+      {
+        "id": "e46407c3-dc8f-4ea4-b059-b03bc400a660",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=bKNE36rmybqQFXa1&t=3824"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9c53b0b9-88a4-4c92-a9e3-baa074d9c0c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "512369716",
+        "timeSpentVideo": "27938167",
+        "submissions": 1029,
+        "submissionsCorrect": 547,
+        "questions": 5,
+        "accuracy": 0.531584062196307,
+        "difficulty": 0.7212134632418069
+      }
+    }
+  ],
+  "children": []
+}

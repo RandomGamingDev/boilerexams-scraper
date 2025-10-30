@@ -1,0 +1,143 @@
+{
+  "id": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What must $a$ and $b$ satisfy such that the set of vectors\n\n\n\\[\n\\left[\\begin{array}{l}\n1 \\\\\n1 \\\\\n1\n\\end{array}\\right],\\left[\\begin{array}{l}\n1 \\\\\na \\\\\n2\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n0 \\\\\nb \\\\\n1\n\\end{array}\\right]\n\\]\n\nis a basis for the vector space $\\mathbb{R}^{3}$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "4b7c521d-6c2b-4b15-a305-3eb02478c997",
+        "index": 0,
+        "body": "$a-b-1 \\neq 0$",
+        "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+        "stats": {
+          "count": 243
+        },
+        "resources": []
+      },
+      {
+        "id": "1dab131e-4129-4017-9cc4-fbd8f6ef6928",
+        "index": 1,
+        "body": "$a-b-1=0$",
+        "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "182ea4c6-ddaf-44d4-8647-45159bd788a7",
+        "index": 2,
+        "body": "$a \\neq b$",
+        "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "0a269981-0ee8-4493-a2a4-9ba3c7fbaec5",
+        "index": 3,
+        "body": "$a=b$",
+        "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f9601d50-ca9e-4979-a014-cae0bd657905",
+        "index": 4,
+        "body": "$a \\neq 0$ and $b \\neq 1$",
+        "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "74270950",
+    "timeSpentVideo": "0",
+    "submissions": 366,
+    "submissionsCorrect": 243,
+    "accuracy": 0.6639344262295082,
+    "difficulty": 0.621244635193133
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "4fbc704b-907e-4e2f-a718-c534cb556efb",
+    "body": "",
+    "questionId": "a3924393-6eb3-49c2-9b1e-0b70d9f39cbb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    },
+    {
+      "id": "6aa3a4e9-0077-46db-a681-526529c3c72e",
+      "name": "Span",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2485112252",
+        "timeSpentVideo": "188769225",
+        "submissions": 5730,
+        "submissionsCorrect": 3585,
+        "questions": 6,
+        "accuracy": 0.6256544502617801,
+        "difficulty": 0.6265008576329331
+      }
+    }
+  ],
+  "children": []
+}

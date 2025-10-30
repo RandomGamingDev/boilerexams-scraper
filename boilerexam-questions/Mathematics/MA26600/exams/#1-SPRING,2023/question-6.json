@@ -1,0 +1,143 @@
+{
+  "id": "baf56c52-c185-4487-82dc-4f0eeac97051",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following forms a fundamental set of solutions to the homogeneous differential equation\n\n\n\\[\ny^{(4)}+8 y^{\\prime \\prime}+16 y=0 ?\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "115206f8-0276-43c0-adf7-85f1a639ef1b",
+        "index": 0,
+        "body": "$\\{\\cos 2 t, t \\sin 2 t, t \\cos 2 t, \\sin 2 t\\}$",
+        "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+        "stats": {
+          "count": 1356
+        },
+        "resources": []
+      },
+      {
+        "id": "588579c0-ee00-4f95-9160-de63c886453f",
+        "index": 1,
+        "body": "$\\left\\{\\cos 2 t, \\sin 2 t, e^{2 t}, e^{-2 t}\\right\\}$",
+        "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "fa250c82-dcec-45ec-9be7-65be5ebfe0df",
+        "index": 2,
+        "body": "$\\left\\{e^{2 t}, t e^{2 t}, e^{-2 t}, t e^{-2 t}\\right\\}$",
+        "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+        "stats": {
+          "count": 203
+        },
+        "resources": []
+      },
+      {
+        "id": "b6eab67a-6ffd-424e-b8f7-5f38cfb6e9c1",
+        "index": 3,
+        "body": "$\\left\\{e^{2 t}, e^{-2 t}\\right\\}$",
+        "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "e2bac942-0253-40ce-a348-8d5d542c1fd7",
+        "index": 4,
+        "body": "$\\left\\{e^{2 t} \\cos 2 t, e^{2 t} \\sin 2 t, e^{-2 t} \\cos 2 t, e^{-2 t} \\sin 2 t\\right\\}$",
+        "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+        "stats": {
+          "count": 185
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "324310726",
+    "timeSpentVideo": "10244883",
+    "submissions": 1964,
+    "submissionsCorrect": 1356,
+    "accuracy": 0.6904276985743381,
+    "difficulty": 0.5687984496124031
+  },
+  "resources": [],
+  "exam": {
+    "id": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4565094176",
+      "timeSpentVideo": "320264183",
+      "submissions": 16700,
+      "submissionsCorrect": 9862,
+      "questions": 10,
+      "accuracy": 0.5905389221556886,
+      "difficulty": 0.66
+    }
+  },
+  "explanation": {
+    "id": "54233644-748e-4a01-ac58-96535923cbec",
+    "body": "",
+    "questionId": "baf56c52-c185-4487-82dc-4f0eeac97051",
+    "resources": [
+      {
+        "id": "f792eec9-213b-4f22-a558-0f2e8f66ac0e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ire22BvRNw4?si=qqy5cGsEo-chaJ3u&t=800"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "54233644-748e-4a01-ac58-96535923cbec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

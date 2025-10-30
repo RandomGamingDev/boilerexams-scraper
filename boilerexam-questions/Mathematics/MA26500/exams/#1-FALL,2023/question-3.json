@@ -1,0 +1,143 @@
+{
+  "id": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Let $\\mathrm{L}$ be a linear transformation from $\\mathbb{R}^{3}$ to $\\mathbb{R}^{3}$ whose standard matrix is\n\n\n\\[\n\\left[\\begin{array}{ccc}\n1 & a & a+1 \\\\\n2 & a+2 & a-1 \\\\\n2-a & 0 & 0\n\\end{array}\\right]\n\\]\n\nwhere $a$ is a real number. Find all values of $a$ such that $\\mathrm{L}$ is not one-to-one.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f7e43eab-2806-4eec-b0dd-13d88dacbfc6",
+        "index": 0,
+        "body": "$2$ only",
+        "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+        "stats": {
+          "count": 434
+        },
+        "resources": []
+      },
+      {
+        "id": "1a761423-adaf-43e8-8480-aab9bc5b8c35",
+        "index": 1,
+        "body": "$2$ or $\\frac{1}{2}$",
+        "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "7f08fc57-16c2-4cf9-b998-635d62507213",
+        "index": 2,
+        "body": "$2$ or $-\\frac{1}{2}$",
+        "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+        "stats": {
+          "count": 993
+        },
+        "resources": []
+      },
+      {
+        "id": "ca86cc50-42e6-42b9-8dac-e2e0d23dcb8c",
+        "index": 3,
+        "body": "$2$ or $-2$",
+        "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "8ff3210d-64b2-4b95-8e4b-9893e2bfc3fa",
+        "index": 4,
+        "body": "$2$ or $0$",
+        "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "627077349",
+    "timeSpentVideo": "136660139",
+    "submissions": 2277,
+    "submissionsCorrect": 993,
+    "accuracy": 0.43610013175230566,
+    "difficulty": 0.8112116112747161
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "709ac39a-4722-41f8-93dc-117ab33b2d6f",
+    "body": "",
+    "questionId": "ef4cb2a9-c9e7-423b-9e8a-b7a404a038b4",
+    "resources": [
+      {
+        "id": "1a63edad-16ba-44b0-8546-1915932a0904",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/llMPDRaxhNU?si=M4N4c7GSFaNAfwni&t=1026"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "709ac39a-4722-41f8-93dc-117ab33b2d6f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    }
+  ],
+  "children": []
+}

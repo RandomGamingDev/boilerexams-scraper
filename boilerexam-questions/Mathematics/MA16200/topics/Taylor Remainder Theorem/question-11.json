@@ -1,0 +1,143 @@
+{
+  "id": "8d809850-a4ae-4119-9a09-7387be34459b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the remainder term $R_n(x)$ in the nth-order Taylor polynomial centered at $a = 2$ for the function $f(x) = e^{-3x}$. In the choices below c is some numbers between x and 2.  ",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "123a4d36-0877-480c-987f-fde0ba655079",
+        "index": 0,
+        "body": "\\[ R_n(x) = \\frac{(-3)^n e^{-3c}}{(n+1)! } {(x-2)^{n+1}} \\]",
+        "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+        "stats": {
+          "count": 386
+        },
+        "resources": []
+      },
+      {
+        "id": "54278ed5-e3e5-4751-bf4e-f6ac0adc1e62",
+        "index": 1,
+        "body": "\\[ R_n(x) = \\frac{(-3)^n e^{-3c}}{(n+1)! } {(x-2)^{n}} \\]",
+        "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "03cbd513-9c10-4a59-acb1-6e5845671985",
+        "index": 2,
+        "body": "\\[ R_n(x) = \\frac{(-3)^{n+1} e^{-3c}}{(n+1)! } {(x-2)^{n+1}} \\]",
+        "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+        "stats": {
+          "count": 1611
+        },
+        "resources": []
+      },
+      {
+        "id": "432901cd-05db-4c9e-b3aa-55bf6568d62f",
+        "index": 3,
+        "body": "\\[ R_n(x) = \\frac{(-3)^{n+1} e^{3c}}{(n+1)! } {(x-2)^{n+1}} \\]",
+        "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "ec9cca23-cf30-41d8-a57a-305e5d491e0b",
+        "index": 4,
+        "body": "\\[ R_n(x) = \\frac{(-3)^{n+1} e^{3c}}{(n+1)! } {(x-2)^{n}} \\]",
+        "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "17daeae2-a682-4ad4-9c07-770985239130",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "356422934",
+    "timeSpentVideo": "38934809",
+    "submissions": 2376,
+    "submissionsCorrect": 1611,
+    "accuracy": 0.678030303030303,
+    "difficulty": 0.5791599353796446
+  },
+  "resources": [],
+  "exam": {
+    "id": "17daeae2-a682-4ad4-9c07-770985239130",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5437941173",
+      "timeSpentVideo": "1847956959",
+      "submissions": 38382,
+      "submissionsCorrect": 25576,
+      "questions": 12,
+      "accuracy": 0.6663540201135949,
+      "difficulty": 0.5840782703601684
+    }
+  },
+  "explanation": {
+    "id": "a5c0abe4-5ac5-4368-9a41-249966e00698",
+    "body": "",
+    "questionId": "8d809850-a4ae-4119-9a09-7387be34459b",
+    "resources": [
+      {
+        "id": "c38f33d3-0101-4817-aa7d-fa7be1ba99b7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NCyzwVKmqqw?t=1570\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a5c0abe4-5ac5-4368-9a41-249966e00698",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "447e9d46-aae9-459b-acfa-80b9bb90645a",
+      "name": "Taylor Remainder Theorem",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2951134647",
+        "timeSpentVideo": "241550046",
+        "submissions": 6234,
+        "submissionsCorrect": 3658,
+        "questions": 2,
+        "accuracy": 0.5867821623355791,
+        "difficulty": 0.6645879381117777
+      }
+    }
+  ],
+  "children": []
+}

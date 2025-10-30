@@ -1,0 +1,143 @@
+{
+  "id": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system\n\n\n\\[\n\\left\\{\\begin{array}{l}\nx^{\\prime}=\\alpha x+y \\\\\ny^{\\prime}=-x\n\\end{array}\\right.\n\\]\n\nFor what value of $\\alpha$ is the origin a center?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e673dae7-ad96-4e32-93a4-0342fcdcf9df",
+        "index": 0,
+        "body": "$\\alpha=0$",
+        "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+        "stats": {
+          "count": 1204
+        },
+        "resources": []
+      },
+      {
+        "id": "f4cb004e-3aa6-47a9-9a1c-790861815c07",
+        "index": 1,
+        "body": "$\\alpha=-2$",
+        "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "ab78613c-a22f-4a68-abc9-e37e4cecb122",
+        "index": 2,
+        "body": "$\\alpha<-2$",
+        "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "ef8e1c38-bae3-4659-8c33-a489bbd2f7fe",
+        "index": 3,
+        "body": "$-2<\\alpha<0$",
+        "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "fbd2b9a1-962c-42ef-8274-0fb90c8d1f3a",
+        "index": 4,
+        "body": "$0<\\alpha<2$",
+        "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "272258316",
+    "timeSpentVideo": "22360684",
+    "submissions": 1780,
+    "submissionsCorrect": 1204,
+    "accuracy": 0.6764044943820224,
+    "difficulty": 0.5829787234042553
+  },
+  "resources": [],
+  "exam": {
+    "id": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2952599483",
+      "timeSpentVideo": "291927434",
+      "submissions": 15841,
+      "submissionsCorrect": 10121,
+      "questions": 10,
+      "accuracy": 0.6389116848683796,
+      "difficulty": 0.6119597264914372
+    }
+  },
+  "explanation": {
+    "id": "746c30d3-e06a-474e-9771-c4f4f94e4eec",
+    "body": "",
+    "questionId": "70f82b60-2a1b-48dd-962a-6f456d173a53",
+    "resources": [
+      {
+        "id": "3b2ee218-c65e-4bc5-a434-337301eebafa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Mzmq6p1n4Vk?si=FtI2TmNMn7s0AwOd&t=1347"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "746c30d3-e06a-474e-9771-c4f4f94e4eec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

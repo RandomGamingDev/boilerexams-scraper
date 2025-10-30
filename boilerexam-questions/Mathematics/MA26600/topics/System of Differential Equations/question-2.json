@@ -1,0 +1,143 @@
+{
+  "id": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Transform the given differential equation\n\n\\[\nx'' + 2x' - 2x = \\cos(4t)\n\\]\n\ninto an equivalent system of first-order differential equations.\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "5b0b06f8-dca3-46f6-a07b-e12d43d65bfb",
+        "index": 0,
+        "body": "\\( x_1' = 2x_2, \\quad x_2' = x_1 + x_2 + \\cos(4t) \\)",
+        "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "4799c553-4037-406e-91cc-2e2c3e8ef4d4",
+        "index": 1,
+        "body": "\\( x_1' = 2x_2, \\quad x_2' = x_1 - x_2 + \\cos(4t) \\)",
+        "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "f1f4ef86-615d-41dd-8dfd-82d84ab5e233",
+        "index": 2,
+        "body": "\\( x_1' = x_2, \\quad x_2' = \\cos(4t) \\)",
+        "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "99908948-b18b-4ae9-a402-b7504792ab2c",
+        "index": 3,
+        "body": "\\( x_1' = x_2, \\quad x_2' = -2x_1 + 2x_2 - \\cos(4t) \\)",
+        "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "37195a5a-ae09-4550-befe-047e4164fcf3",
+        "index": 4,
+        "body": "\\( x_1' = x_2, \\quad x_2' = 2x_1 - 2x_2 + \\cos(4t) \\)",
+        "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+        "stats": {
+          "count": 609
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "103427018",
+    "timeSpentVideo": "16802845",
+    "submissions": 760,
+    "submissionsCorrect": 609,
+    "accuracy": 0.8013157894736842,
+    "difficulty": 0.48372093023255813
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "92d52304-67d6-4244-9e03-6ea505bc2b30",
+    "body": null,
+    "questionId": "0423112f-e4f8-4cba-9ef2-2cee2dd39dec",
+    "resources": [
+      {
+        "id": "736466ad-01bd-498b-838b-ea8ca3520c0c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/r3C5y0jwPno?si=KrUdw30FSV8PKuNP&t=586"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "92d52304-67d6-4244-9e03-6ea505bc2b30",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8a469da1-2abb-4afc-a453-d3d3d7225815",
+      "name": "System of Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2751687092",
+        "timeSpentVideo": "157437810",
+        "submissions": 6359,
+        "submissionsCorrect": 4496,
+        "questions": 9,
+        "accuracy": 0.7070294071394874,
+        "difficulty": 0.5461758786189813
+      }
+    }
+  ],
+  "children": []
+}

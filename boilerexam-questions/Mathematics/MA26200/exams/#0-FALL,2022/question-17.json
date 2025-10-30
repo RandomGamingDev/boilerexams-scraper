@@ -1,0 +1,128 @@
+{
+  "id": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{x}(t)=\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t)\\end{array}\\right]$ be the solution of the system of differential equations\n\n\n\\[\n\\mathbf{x}^{\\prime}=A \\mathbf{x}, \\quad A=\\left[\\begin{array}{ll}\n4 & -3 \\\\\n6 & -7\n\\end{array}\\right]\n\\]\n\nwith the initial data $\\mathbf{x}(0)=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$. Given that the eigenvalues of $A$ and their corresponding eigenvectors of $A$ are $\\lambda_{1}=-5, V_{1}=\\left[\\begin{array}{l}1 \\\\ 3\\end{array}\\right]$ and $\\lambda_{2}=2, V_{2}=\\left[\\begin{array}{l}3 \\\\ 2\\end{array}\\right]$, find $x_{1}(1)$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7f5e4a50-0d54-4e12-af71-dd224956ce96",
+        "index": 0,
+        "body": "$3 e^{2}$",
+        "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "1848b156-c8f0-4d2b-8b52-60de4b0e3783",
+        "index": 1,
+        "body": "$-2 e^{-5}$",
+        "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "d32fa971-1ca4-4481-95b6-24077675a3b8",
+        "index": 2,
+        "body": "$e^{-5}$",
+        "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      },
+      {
+        "id": "b150e848-a5f5-440d-8523-610ff3f5091d",
+        "index": 3,
+        "body": "$-3 e^{-5}$",
+        "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "a02e760e-b9b8-47f8-ac72-bf1541949564",
+        "index": 4,
+        "body": "$e^{-5}+3 e^{2}$",
+        "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "61343624",
+    "timeSpentVideo": "0",
+    "submissions": 228,
+    "submissionsCorrect": 197,
+    "accuracy": 0.8640350877192983,
+    "difficulty": 0.4969512195121951
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "fb6435ce-4831-433c-b3b3-d44efdc74368",
+    "body": "",
+    "questionId": "a2259dae-e393-440a-84e1-8a79ee0c55c6",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9ac2c30c-1366-47fa-9e41-85ba124887ec",
+      "name": "System of Diff. Equations",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "932820903",
+        "timeSpentVideo": "0",
+        "submissions": 1661,
+        "submissionsCorrect": 1306,
+        "questions": 6,
+        "accuracy": 0.786273329319687,
+        "difficulty": 0.4799829642248722
+      }
+    }
+  ],
+  "children": []
+}

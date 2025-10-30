@@ -1,0 +1,143 @@
+{
+  "id": "65475d44-7fff-4db7-866f-d0c92390f561",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x, y)=e^{x+3 y-3} \\sin (\\pi x y)$. Find $\\frac{\\partial f}{\\partial x}(1,1)$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9149e793-6286-4ecc-ae00-2bd3f566f6fb",
+        "index": 0,
+        "body": "$-\\pi$",
+        "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "3dfd5bf1-ab3d-44e1-abf6-d6e344b37cb9",
+        "index": 1,
+        "body": "$e \\pi$",
+        "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+        "stats": {
+          "count": 568
+        },
+        "resources": []
+      },
+      {
+        "id": "0a1c980e-19cf-43b0-8c30-390c12b94cc8",
+        "index": 2,
+        "body": "$-e \\pi$",
+        "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+        "stats": {
+          "count": 3050
+        },
+        "resources": []
+      },
+      {
+        "id": "8d956ca1-af1e-4828-a0b5-0a216642917a",
+        "index": 3,
+        "body": "$-e \\pi^{2}$",
+        "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "eb20f0ad-0f80-4101-b96c-acca747068d9",
+        "index": 4,
+        "body": "$-e$",
+        "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+        "stats": {
+          "count": 248
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "628733113",
+    "timeSpentVideo": "34214096",
+    "submissions": 4196,
+    "submissionsCorrect": 3050,
+    "accuracy": 0.726882745471878,
+    "difficulty": 0.5283985102420856
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "4a3a3f04-cd1a-46ff-87b7-4a0df894d31a",
+    "body": "",
+    "questionId": "65475d44-7fff-4db7-866f-d0c92390f561",
+    "resources": [
+      {
+        "id": "06d5560a-f247-43c8-a1f7-c13fcab5b29d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=BhTa1Em_Bt0TKGDz&t=670"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a3a3f04-cd1a-46ff-87b7-4a0df894d31a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e4a570fd-6b1f-4901-8f82-df33cfc1e01a",
+      "name": "Partial Derivatives",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17536639564",
+        "timeSpentVideo": "661682215",
+        "submissions": 41021,
+        "submissionsCorrect": 27618,
+        "questions": 9,
+        "accuracy": 0.6732649130932937,
+        "difficulty": 0.5771564407480363
+      }
+    }
+  ],
+  "children": []
+}

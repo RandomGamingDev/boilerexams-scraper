@@ -1,0 +1,143 @@
+{
+  "id": "d70c659b-e45d-4b17-9f61-81210beda04a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Represent $\\int_{0}^{1} \\cos x^{2} d x$ as an infinite series.\n\n\n\nHint: $\\cos x=\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{x^{2 k}}{(2 k) !}$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c54c1492-914a-494f-be25-95941a798919",
+        "index": 0,
+        "body": "$\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{1}{(2 k) !}$",
+        "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+        "stats": {
+          "count": 290
+        },
+        "resources": []
+      },
+      {
+        "id": "b971b578-3a5d-40a6-a678-d6a438fc457a",
+        "index": 1,
+        "body": "$\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{1}{(2 k+1) !}$",
+        "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      },
+      {
+        "id": "4c3140b2-c88b-4c40-9ca4-06e00aeab11c",
+        "index": 2,
+        "body": "$\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{1}{(4 k) !}$",
+        "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+        "stats": {
+          "count": 218
+        },
+        "resources": []
+      },
+      {
+        "id": "9dfd969e-04e6-41dd-95ca-c7d9469dbe17",
+        "index": 3,
+        "body": "$\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{1}{(4 k+1) !}$",
+        "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+        "stats": {
+          "count": 172
+        },
+        "resources": []
+      },
+      {
+        "id": "4c267bfe-f062-4cb1-bce2-d5726d36167d",
+        "index": 4,
+        "body": "$\\sum_{k=0}^{\\infty}(-1)^{k} \\frac{1}{(2k)!(4 k+1) }$",
+        "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+        "stats": {
+          "count": 1747
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "475993641",
+    "timeSpentVideo": "91495233",
+    "submissions": 3135,
+    "submissionsCorrect": 1747,
+    "accuracy": 0.5572567783094099,
+    "difficulty": 0.6945131375579598
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "d6fa0587-aefb-48fa-adca-bf23bd308843",
+    "body": "",
+    "questionId": "d70c659b-e45d-4b17-9f61-81210beda04a",
+    "resources": [
+      {
+        "id": "b02fdf0b-c6f8-4917-a4a2-570486eb0c32",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Leo8UMHCXzs?t=293\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d6fa0587-aefb-48fa-adca-bf23bd308843",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fa192135-b4e1-40e8-85ce-a3b292efe1e7",
+      "name": "Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11213666000",
+        "timeSpentVideo": "825768661",
+        "submissions": 23782,
+        "submissionsCorrect": 12883,
+        "questions": 12,
+        "accuracy": 0.5417122193255404,
+        "difficulty": 0.7084624403316305
+      }
+    }
+  ],
+  "children": []
+}

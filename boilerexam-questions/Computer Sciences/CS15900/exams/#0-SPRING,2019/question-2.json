@@ -1,0 +1,118 @@
+{
+  "id": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below:<br><font style=\"font-family:'Courier New'\">15 12 8 11 17 13</font><br>which of the following is NOT a possible configuration of the array after two passes through the insertion sorting algorithm?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "55fd3653-7062-4683-a97e-908d08d5040b",
+        "index": 0,
+        "body": "{8, 12, 15, 11, 17, 13}",
+        "questionId": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+        "stats": {
+          "count": 263
+        },
+        "resources": []
+      },
+      {
+        "id": "bee778d1-e012-44e5-bac2-ed5589b3ff94",
+        "index": 1,
+        "body": "{15, 12, 11, 8, 17, 13}",
+        "questionId": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+        "stats": {
+          "count": 1975
+        },
+        "resources": []
+      },
+      {
+        "id": "a61a4766-a93d-472c-946f-adba5102f0c4",
+        "index": 2,
+        "body": "{15, 12, 8, 11, 13, 17}",
+        "questionId": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+        "stats": {
+          "count": 341
+        },
+        "resources": []
+      },
+      {
+        "id": "92e4bda7-7415-4f1c-b26d-9e8d9e782f72",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "395649439",
+    "timeSpentVideo": "0",
+    "submissions": 2702,
+    "submissionsCorrect": 1975,
+    "accuracy": 0.730940044411547,
+    "difficulty": 0.5273019271948608
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "d68a12ab-cd41-4b2a-a575-8d32a2279c0d",
+    "body": "",
+    "questionId": "d9bbdc89-b4d1-49ad-8dea-50dead8d3fd2",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

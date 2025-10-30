@@ -1,0 +1,158 @@
+{
+  "id": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\int \\sin ^3(x) \\cos^{3/2}(x) dx$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b339bd7e-2f91-44ff-9bed-0981b430e67f",
+        "index": 0,
+        "body": "$-\\frac{2}{5}\\cos^{\\frac{5}{2}}(x)-\\frac{2}{7}\\cos^{\\frac{7}{2}}(x)+C$",
+        "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "3e6b21bc-3013-4446-b290-631322c05a8d",
+        "index": 1,
+        "body": "$\\frac{2}{5}\\cos^{\\frac{5}{2}}(x)-\\frac{2}{9}\\cos^{\\frac{9}{2}}(x)+C$",
+        "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "952286f3-f418-48a6-ae35-9fd309ec58e0",
+        "index": 2,
+        "body": "$\\frac{2}{3}\\cos^{\\frac{3}{2}}(x)-\\frac{2}{9}\\cos^{\\frac{9}{2}}(x)+C$",
+        "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "274d0712-981e-4884-b85a-ab1937b677a6",
+        "index": 3,
+        "body": "$\\frac{2}{9}\\cos^{\\frac{9}{2}}(x)-\\frac{2}{5}\\cos^{\\frac{5}{2}}(x)+C$",
+        "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+        "stats": {
+          "count": 195
+        },
+        "resources": []
+      },
+      {
+        "id": "15847e0f-59a7-4904-832d-ad07eafd332a",
+        "index": 4,
+        "body": "$\\frac{2}{9}\\sin^{\\frac{9}{2}}(x)-\\frac{2}{5}\\sin^{\\frac{5}{2}}(x)+C$",
+        "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "79451149",
+    "timeSpentVideo": "8781510",
+    "submissions": 398,
+    "submissionsCorrect": 195,
+    "accuracy": 0.4899497487437186,
+    "difficulty": 0.7580321285140562
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "561f947b-e0ec-4577-b20e-db903304473a",
+    "body": null,
+    "questionId": "b8e6b5c5-6da2-43e5-b1c0-4ac7130c7ca9",
+    "resources": [
+      {
+        "id": "63aca1e8-3340-40bb-8d9c-b5cafc52905a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=av3qsbj9J0c"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "561f947b-e0ec-4577-b20e-db903304473a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$D$ is the region between the circles $x^{2}+y^{2}=1$ and $x^{2}+y^{2}=2$. Find $\\iint_{D} e^{x^{2}+y^{2}} d A$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ec0d314f-d25d-4eb6-a069-a926b0487308",
+        "index": 0,
+        "body": "$\\pi e^{2}-\\pi e$",
+        "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+        "stats": {
+          "count": 1788
+        },
+        "resources": []
+      },
+      {
+        "id": "194d1124-ed7c-4af8-8487-b61d11caba25",
+        "index": 1,
+        "body": "$2 \\pi e^{2}-2 \\pi e$",
+        "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+        "stats": {
+          "count": 127
+        },
+        "resources": []
+      },
+      {
+        "id": "c64cad0b-c1e6-4304-b632-5d191970a45b",
+        "index": 2,
+        "body": "$\\pi e^{4}-\\pi e$",
+        "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+        "stats": {
+          "count": 276
+        },
+        "resources": []
+      },
+      {
+        "id": "31b7b75a-b8d2-4e1f-99bf-1eb37ff51acb",
+        "index": 3,
+        "body": "$2 \\pi e^{2}$",
+        "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "e5ebf232-9fe5-4afb-99a8-42e379afbf89",
+        "index": 4,
+        "body": "$6 \\pi e^{4}$",
+        "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "306388368",
+    "timeSpentVideo": "43437451",
+    "submissions": 2375,
+    "submissionsCorrect": 1788,
+    "accuracy": 0.7528421052631579,
+    "difficulty": 0.5073737373737374
+  },
+  "resources": [],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "6e64ad56-a1bc-4114-97e4-960ebecdabcf",
+    "body": "",
+    "questionId": "56ac332d-573f-4d6c-b8e1-a070ca2989e8",
+    "resources": [
+      {
+        "id": "b9de71dc-e2b2-49a2-9d8b-eedbd05976ce",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=227"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6e64ad56-a1bc-4114-97e4-960ebecdabcf",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

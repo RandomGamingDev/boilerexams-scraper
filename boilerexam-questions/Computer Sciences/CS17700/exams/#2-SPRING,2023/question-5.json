@@ -1,0 +1,197 @@
+{
+  "id": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Congratulations! You are the new intern at Very Good Food & Stuff Company, a business \u201cfor all of your food and stuff needs\u201d. The chairman expects everyone to show up on time, speak honestly, and treat everyone with fairness to get along just fine.\n\nThe company just started, and thanks in large part to the stewardship of the chairman, it has built a good customer base. The following is the content of the customers file (customers.txt):\n\n<div class=\"text-justify w-full bg-dark-gray rounded-lg p-2\">type : subscribed,  age :43 ,firstname: Barney ,id:313, lastname  :  Lewis\nfirstname: Leslie ,  age :33 , lastname  :  Traeger,id:442, type : subscribed\n lastname  :  Varmn,firstname: Diane ,id:682,  age :43 , type : casual\n lastname  :  Gergich,  age :40 , type : loyal,firstname: Diane ,id:644\n type : subscribed,  age :45 ,id:890,firstname: Lucy , lastname  :  Varmn\nid:502,  age :28 , type : casual, lastname  :  Lewis,firstname: Tom \n lastname  :  Malwae-Tweep, type : subscribed,id:346,  age :38 ,firstname: Leslie \nfirstname: Janet ,id:187,  age :42 , type : casual, lastname  :  Santodomingo\nfirstname: Ann ,id:574, lastname  :  Traeger, type : casual,  age :36 \n  age :25 , type : diamond,firstname: Leslie ,id:149, lastname  :  Dwyer\nid:827, type : casual,  age :23 ,firstname: Garry , lastname  :  Wyatt\nfirstname: Jean-Ralphio , type : loyal,id:194, lastname  :  Santodomingo,  age :50 \n type : subscribed,  age :34 , lastname  :  Newport,firstname: Tom ,id:969\nfirstname: Diane , type : subscribed, lastname  :  Gergich,  age :47 ,id:857\nfirstname: Donna ,id:552, type : casual,  age :25 , lastname  :  Saperstein\nid:373,  age :33 ,firstname: Bobby , type : diamond, lastname  :  Gergich\n lastname  :  Knope,  age :38 ,firstname: Shauna , type : casual,id:588\n type : loyal, lastname  :  Dwyer,  age :34 ,id:538,firstname: Leslie \n type : casual,id:169,  age :22 , lastname  :  Wyatt,firstname: Diane \n  age :36 , lastname  :  Saperstein,id:671, type : loyal,firstname: Diane</div>\n\nEvery line in the file is the data of a customer stored as four name:value pairs separated by comma. Pair keys are firstname, lastname, age, id, and type. Pairs appear shuffled in each line of the file, and with extra space characters all over the place, but the content is correct.\n\nYour main task is to understand the code base. The first function to consider is customerData, which transforms a string of data (as found in the customers file) and returns a dictionary with the respective customer attributes. Andy Dwyer, your manager (completely oblivious about Python, yet well intended) has some claims about the code base in general. You need to avoid a system collapsing due to the manager\u2019s lack of knowledge!\n\nAndy says, \u201cOhhh, we can definitely reduce the length of this function\u201d, which is true. Which of the following implementations  is equivalent to \\verb|customerData()|?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2f1f9444-8ced-4c33-80f6-fe415facf74f",
+        "index": 0,
+        "body": "$ $",
+        "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+        "stats": {
+          "count": 65
+        },
+        "resources": [
+          {
+            "id": "7f0db19e-42ab-4502-a42e-f10f9f14ee0f",
+            "type": "CODE",
+            "data": {
+              "content": "def customerData(data):\n    entries = [entry.split(\":\") for entry in data.split(\",\")]\n    return {field[1].strip():field[0].strip() for field in entries}\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "2f1f9444-8ced-4c33-80f6-fe415facf74f",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "0fb3643a-71a7-4e56-84b9-00199fa3e892",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+        "stats": {
+          "count": 626
+        },
+        "resources": [
+          {
+            "id": "baeeee60-9c61-46cb-8a4d-3ff4dbfd576f",
+            "type": "CODE",
+            "data": {
+              "content": "def customerData(data):\n    entries = [entry.split(\":\") for entry in data.split(\",\")]\n    return {field[0].strip():field[1].strip() for field in entries}\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "0fb3643a-71a7-4e56-84b9-00199fa3e892",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "617a01c6-ef88-4af2-9546-ad9f36179114",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+        "stats": {
+          "count": 138
+        },
+        "resources": [
+          {
+            "id": "77701e8e-bd96-469b-b8c1-1ca180b934d8",
+            "type": "CODE",
+            "data": {
+              "content": "def customerData(data):\t\n    entries = [entry.split(\",\") for entry in data.split(\":\")]\n    return {field[0].strip():field[1].strip() for field in entries}\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "617a01c6-ef88-4af2-9546-ad9f36179114",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "74ba2663-9197-4b3a-96e2-86adab3d1e60",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+        "stats": {
+          "count": 36
+        },
+        "resources": [
+          {
+            "id": "801c34f5-7835-42cc-af44-d98422fa1d86",
+            "type": "CODE",
+            "data": {
+              "content": "def customerData(data):\n    entries = [entry.split(\",\") for entry in data.split(\":\")]\n    return {field[1].strip():field[0].strip() for field in entries}\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "74ba2663-9197-4b3a-96e2-86adab3d1e60",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86733195",
+    "timeSpentVideo": "12516647",
+    "submissions": 870,
+    "submissionsCorrect": 608,
+    "accuracy": 0.6988505747126437,
+    "difficulty": 0.5716494845360824
+  },
+  "resources": [
+    {
+      "id": "e0474c1c-bf25-462e-8df0-2ec586318638",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    dataList = data.split(\",\")\n    dataDict = dict()\n    \n    for entry in dataList:\n        key, value = entry.split(\":\")\n        key = key.strip()\n        value = value.strip()\n        dataDict[key] = value\n    \n    return dataDict",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "a98be700-1eea-4c89-b6da-75ec3f57a2f9",
+    "body": "",
+    "questionId": "19cf2561-3e55-495f-b5b0-64ee3791cd1f",
+    "resources": [
+      {
+        "id": "ff7750d0-7222-4694-8287-850c7a500cb8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=N5FYuZU430BSu391&t=2345"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a98be700-1eea-4c89-b6da-75ec3f57a2f9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

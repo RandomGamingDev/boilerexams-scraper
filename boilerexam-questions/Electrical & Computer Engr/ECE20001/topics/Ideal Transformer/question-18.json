@@ -1,0 +1,170 @@
+{
+  "id": "190278b1-6391-450b-9577-903cee65a0b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the load voltage \\(V_L\\).",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2cbcb17b-2bcd-4444-9c1c-39a1cf46412c",
+        "index": 0,
+        "body": "\\(V_L\\) = 25 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "97a30f4e-e91d-4388-97fe-cd0748d0dd62",
+        "index": 1,
+        "body": "\\(V_L\\) = 50 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "d1e4b06b-bfb1-484a-93d8-aafaa9bc6d0e",
+        "index": 2,
+        "body": "\\(V_L\\) = -5 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "e7fe5d8c-681e-4f0d-9b6a-54133586f399",
+        "index": 3,
+        "body": "\\(V_L\\) = -25 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "a813d2fe-0bf3-4826-952c-52c8ec572175",
+        "index": 4,
+        "body": "\\(V_L\\) = 10 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "bae731df-e7ef-4465-831b-25c28ce089a1",
+        "index": 5,
+        "body": "\\(V_L\\) = -50 \\(V_{RMS}\\)",
+        "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "4405d079-e632-465f-8dbc-06059a1f55cf",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "177372292",
+    "timeSpentVideo": "84159605",
+    "submissions": 669,
+    "submissionsCorrect": 192,
+    "accuracy": 0.28699551569506726,
+    "difficulty": 0.9353055916775033
+  },
+  "resources": [
+    {
+      "id": "8579ce4c-1b9a-4b33-8880-dec3b1fb3b60",
+      "type": "IMAGE",
+      "data": {
+        "key": "8ePyaBUO1os2tkTzOjlek",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8ePyaBUO1os2tkTzOjlek",
+        "altText": "Two circuits connected through mutual inductance. The first circuit contains an AC voltage source, 2 resistors, and the inductor. The second circuit contains the inductor and a resistor."
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "4405d079-e632-465f-8dbc-06059a1f55cf",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2949930495",
+      "timeSpentVideo": "869333877",
+      "submissions": 14560,
+      "submissionsCorrect": 7658,
+      "questions": 21,
+      "accuracy": 0.5259615384615385,
+      "difficulty": 0.7242155525238745
+    }
+  },
+  "explanation": {
+    "id": "25eb0397-1d58-4311-b18d-d53b9f040b5d",
+    "body": "",
+    "questionId": "190278b1-6391-450b-9577-903cee65a0b4",
+    "resources": [
+      {
+        "id": "467c162d-69ac-44ee-b4a7-2fcacd755476",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_ogLTc8yFtQ?si=hPByfT8vrZW6KuNz&t=5246"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "25eb0397-1d58-4311-b18d-d53b9f040b5d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2f579dbd-7b1c-4c13-a316-e2ebb60a8bd4",
+      "name": "Ideal Transformer",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1133373711",
+        "timeSpentVideo": "145643902",
+        "submissions": 2328,
+        "submissionsCorrect": 1200,
+        "questions": 4,
+        "accuracy": 0.5154639175257731,
+        "difficulty": 0.735172981878089
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,157 @@
+{
+  "id": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the tangent plane to the level surface $x y^{2} z^{3}=12$ at $(3,2,1)$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "517c76fc-e4d8-4941-9226-1df76ddd305c",
+        "index": 0,
+        "body": "$x+2 y+3 z=10$",
+        "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "ece65c9c-af21-4093-822c-11192f7b5c80",
+        "index": 1,
+        "body": "$x+y+z=6$",
+        "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "b86ce323-057e-42b3-9acc-a86759ebb72a",
+        "index": 2,
+        "body": "$3 x+2 y+z=14$",
+        "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "d86d88c5-9347-49e0-8b1a-6ff044d9aa01",
+        "index": 3,
+        "body": "$x+3 y+6 z=15$",
+        "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "3963f5c3-2452-4704-86aa-0f32458404ac",
+        "index": 4,
+        "body": "$x+3 y+9 z=18$",
+        "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+        "stats": {
+          "count": 854
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "261016731",
+    "timeSpentVideo": "13067967",
+    "submissions": 1211,
+    "submissionsCorrect": 854,
+    "accuracy": 0.7052023121387283,
+    "difficulty": 0.5604500381388253
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "9ba2c757-d739-46cd-a0ed-e2e3128893ad",
+    "body": null,
+    "questionId": "f1af6131-a29e-4d59-a6ba-c12bb11561ec",
+    "resources": [
+      {
+        "id": "e33ce3b5-a953-4c57-abf1-2f38acf89e3c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=H5n02xmmshW2TZti&t=1925"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9ba2c757-d739-46cd-a0ed-e2e3128893ad",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "dbc7cefb-4bde-4ae3-974c-7c38f232047d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=H5n02xmmshW2TZti&t=1925"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9ba2c757-d739-46cd-a0ed-e2e3128893ad",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28626287773",
+        "timeSpentVideo": "2457957445",
+        "submissions": 63369,
+        "submissionsCorrect": 35272,
+        "questions": 15,
+        "accuracy": 0.5566128548659439,
+        "difficulty": 0.6934763427815154
+      }
+    }
+  ],
+  "children": []
+}

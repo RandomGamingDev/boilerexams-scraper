@@ -1,0 +1,119 @@
+{
+  "id": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following graph $G(V,E)$\n\nShow the content of the dist and prev arrays after calling DijkstraShortestPath($G$,0)",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9583a7b2-f197-4482-951a-44bf93a4b6e6",
+        "index": 0,
+        "body": "dist: $[0, 5, 3, 4, 7, 8]$\nprev: $[null/0, 3, 0, 0, 1, 3]$",
+        "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "6f622f5e-28ba-43e0-8d74-3ce154a61d48",
+        "index": 1,
+        "body": "dist: $[0, 3, 8, 7, 5, 4]$\nprev: $[null/0, 0, 3, 0, 1, 3]$",
+        "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "ffd7088b-c125-4227-808c-768ad2152090",
+        "index": 2,
+        "body": "dist: $[0, 3, 5, 4, 8, 7]$\nprev: $[3, 1, 0, 1, 1, 0]$",
+        "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "2be03098-fdc5-4dab-8b0b-b973a61be336",
+        "index": 3,
+        "body": "dist: $[0, 3, 5, 4, 8, 7]$\nprev: $[null/0, 0, 3, 0, 1, 3]$",
+        "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+        "stats": {
+          "count": 707
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "275844082",
+    "timeSpentVideo": "0",
+    "submissions": 884,
+    "submissionsCorrect": 707,
+    "accuracy": 0.7997737556561086,
+    "difficulty": 0.4806910569105691
+  },
+  "resources": [
+    {
+      "id": "df34ccef-5e3a-4a38-aae4-516831c3e299",
+      "type": "IMAGE",
+      "data": {
+        "key": "Xksm3L4jFCQat9lFkEahp",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Xksm3L4jFCQat9lFkEahp",
+        "altText": " "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "204eab15-79b1-41fb-8dab-4437173bdf99",
+    "body": "",
+    "questionId": "1e2ecdf9-0204-425a-98d6-f4bf07d9681b",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

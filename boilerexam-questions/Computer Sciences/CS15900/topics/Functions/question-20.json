@@ -1,0 +1,134 @@
+{
+  "id": "b491515a-bd79-416b-8608-6824a43a2a79",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Based on how they are called, how many of the user-defined functions used in the <font style=\"font-family:'Courier New'\">main</font> function can be considered <font style=\"font-family:'Courier New'\">void</font> functions?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9e7cdfaa-3a8c-4288-a822-e8719bcd0642",
+        "index": 0,
+        "body": "1",
+        "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+        "stats": {
+          "count": 611
+        },
+        "resources": []
+      },
+      {
+        "id": "6c6a1e69-a33b-4d16-838e-dd78205e9fde",
+        "index": 1,
+        "body": "2",
+        "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+        "stats": {
+          "count": 1668
+        },
+        "resources": []
+      },
+      {
+        "id": "2f9fb987-1441-4f3b-8fdd-8972773ebb1b",
+        "index": 2,
+        "body": "3",
+        "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "c878f37a-62e7-46dd-8a49-8c48f4ce5c89",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "217602124",
+    "timeSpentVideo": "0",
+    "submissions": 2504,
+    "submissionsCorrect": 1668,
+    "accuracy": 0.6661341853035144,
+    "difficulty": 0.5902457757296466
+  },
+  "resources": [
+    {
+      "id": "585fd3e4-d302-4e99-8720-5453c40328fd",
+      "type": "CODE",
+      "data": {
+        "content": "int main()\n{\n  float radius;\n  double circ;\n  double surfArea;\n  float volume;\n  float totalVol = 0;\n  double totalArea = 0;\n\n  radius = getRadius();\n  circ = calcCirc(radius);\n  surfArea = calcSurfArea(radius);\n  volume = calcVolume(radius);\n\n  printData(radius, circ, surfArea, volume, 1);\n  totalVol += volume;\n  totalArea += surfArea;\n\n  printTotals(totalVol, totalArea);\n\n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "4ac79164-6234-4567-b5ee-fcc647688708",
+    "body": "",
+    "questionId": "b491515a-bd79-416b-8608-6824a43a2a79",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

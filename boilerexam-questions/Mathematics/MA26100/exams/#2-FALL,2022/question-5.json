@@ -1,0 +1,143 @@
+{
+  "id": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following $\\textbf{DOES NOT}$ equal the volume of the solid bounded by $x=0$, $y=0$, $z=0$, and $3x+y+z=3$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d6abaed6-11b2-49e3-86e4-69fcc138491b",
+        "index": 0,
+        "body": "$\\displaystyle \\int_0^1 \\int_0^{3-3x} \\int_0^{3-z-3x} dy\\,dz\\,dx$",
+        "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "66797576-9df8-4151-98d8-e15266ad0c9b",
+        "index": 1,
+        "body": "$\\displaystyle \\int_0^3 \\int_0^{\\frac{3-y}{3}} \\int_0^{3-y-3x} dz\\,dx\\,dy$",
+        "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+        "stats": {
+          "count": 177
+        },
+        "resources": []
+      },
+      {
+        "id": "fa255953-730f-44cd-bdb2-d3c4d4f5ae10",
+        "index": 2,
+        "body": "$\\displaystyle \\int_0^3 \\int_0^{\\frac{3-z}{3}} \\int_0^{3-z-3x} dy\\,dx\\,dz$",
+        "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "cdb258ec-ae83-4055-a441-caab6053bf56",
+        "index": 3,
+        "body": "$\\displaystyle \\int_0^1 \\int_0^{3-3x} \\int_0^{3-y-3x} dz\\,dy\\,dx$",
+        "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+        "stats": {
+          "count": 299
+        },
+        "resources": []
+      },
+      {
+        "id": "3564b49f-ad24-49ce-ba1b-7379fddb3a38",
+        "index": 4,
+        "body": "$\\displaystyle \\int_0^1 \\int_0^{3-z} \\int_0^{3-y-z} dx\\,dy\\,dz$",
+        "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+        "stats": {
+          "count": 3045
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "703219635",
+    "timeSpentVideo": "92471768",
+    "submissions": 4259,
+    "submissionsCorrect": 3045,
+    "accuracy": 0.714956562573374,
+    "difficulty": 0.5399747648543244
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "96468dc5-4f03-492d-840f-67dcaec61685",
+    "body": "",
+    "questionId": "620d3dd2-9fae-4b33-92e5-2bd8478c7881",
+    "resources": [
+      {
+        "id": "e64e5822-5c68-4ef2-b3b9-46849cd7f6fd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=414"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "96468dc5-4f03-492d-840f-67dcaec61685",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    }
+  ],
+  "children": []
+}

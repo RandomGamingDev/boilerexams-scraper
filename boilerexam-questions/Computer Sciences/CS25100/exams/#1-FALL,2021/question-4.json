@@ -1,0 +1,128 @@
+{
+  "id": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The dominant term a runtime expression is $\\frac{1}{2} \\log{(n)}$. The runtime expression that fits with such a term is:",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "dd82d666-5ffc-43d4-b08d-3297ff4727d7",
+        "index": 0,
+        "body": "$T(n) = \\frac{1}{2}n\\log{(n)}+\\frac{1}{2}\\log{(n)}$",
+        "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "3df1ac06-31ed-4a7a-add8-d594be33f407",
+        "index": 1,
+        "body": "$T(n)=n^2+\\frac{1}{2}\\log{(n)}$",
+        "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "24cfb12b-0a62-44cb-98ac-696d715903db",
+        "index": 2,
+        "body": "$T(n)=\\frac{1}{2}n+\\frac{1}{3}\\log{(n)}$",
+        "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "3ca9e5ee-ce85-425d-80f7-a2fa0187414d",
+        "index": 3,
+        "body": "$T(n)=\\frac{1}{2}\\log^2{(n)}+\\frac{1}{2}\\log{(n)}$",
+        "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "b1ac4ca5-2226-46dd-ab91-ffe310bdd151",
+        "index": 4,
+        "body": "$T(n)=\\frac{1}{3}+\\frac{1}{2}\\log{(n)}$",
+        "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+        "stats": {
+          "count": 1187
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "64606747",
+    "timeSpentVideo": "0",
+    "submissions": 1264,
+    "submissionsCorrect": 1187,
+    "accuracy": 0.9390822784810127,
+    "difficulty": 0.343108504398827
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "ee960eaf-7f55-4db1-9f3b-be1cc7b2105f",
+    "body": null,
+    "questionId": "6c46e1c3-00c8-43ad-b27c-e562bc6051f5",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "23266cc7-7a97-42ff-8732-7efb067c6455",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the first-order system \\[x' = y, y' = 3x \\textrm{ with } x(0) = 4, y(0) = 2\\sqrt{3}\\] Find the solution and show that its trajectory is a branch of a hyperbola. (Hint: Calculate $x^2-\\frac{y^2}{3}$ along the solution.)",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "102374509",
+    "timeSpentVideo": "56491328",
+    "submissions": 486,
+    "submissionsCorrect": 119,
+    "accuracy": 0.2448559670781893,
+    "difficulty": 0.96160409556314
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "c7a36d7b-d5df-4a48-ad2b-8c23ee895a00",
+    "body": "Skip to 1:30:35 to go straight to the visualization of trajectories being hyperbolas",
+    "questionId": "23266cc7-7a97-42ff-8732-7efb067c6455",
+    "resources": [
+      {
+        "id": "d57f7973-8dc4-4d38-b0f7-0ce1d078187a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=r3C5y0jwPno&t=5019s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c7a36d7b-d5df-4a48-ad2b-8c23ee895a00",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    },
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

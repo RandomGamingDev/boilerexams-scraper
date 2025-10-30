@@ -1,0 +1,143 @@
+{
+  "id": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a vector function that represents the curve of intersection of the cylinder $y^{2}+z^{2}=1$ and the plane $x+y+2 z=3$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "060cb582-844d-41a6-a6ae-9c7524688ee5",
+        "index": 0,
+        "body": "$\\mathbf{r}(t)=<3-\\cos t-\\sin t, \\cos t, \\sin t>, \\quad 0 \\leq t \\leq 2 \\pi$",
+        "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      },
+      {
+        "id": "0e1433ae-22b3-4aed-bd71-36d2278d7d8a",
+        "index": 1,
+        "body": "$\\mathbf{r}(t)=<3-\\cos t-2 \\sin t, \\cos t, \\sin t>, \\quad 0 \\leq t \\leq 2 \\pi$",
+        "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+        "stats": {
+          "count": 2770
+        },
+        "resources": []
+      },
+      {
+        "id": "2df6221f-4288-4eff-98ea-b62d1e4889bb",
+        "index": 2,
+        "body": "$\\mathbf{r}(t)=<1-\\cos t-2 \\sin t, \\cos t, \\sin t>, \\quad 0 \\leq t \\leq 2 \\pi$",
+        "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+        "stats": {
+          "count": 157
+        },
+        "resources": []
+      },
+      {
+        "id": "fd89f96a-cfd1-48ab-85f4-54fe8d312b5e",
+        "index": 3,
+        "body": "$\\mathbf{r}(t)=<3-\\cos t-\\sin t, 2 \\cos t, \\sin t>, \\quad 0 \\leq t \\leq 2 \\pi$",
+        "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "ef49c1e7-fc75-4112-a4f0-6fdd7ce54892",
+        "index": 4,
+        "body": "$\\mathbf{r}(t)=<3-\\cos t-2 \\sin t, \\cos t, 2 \\sin t>, \\quad 0 \\leq t \\leq 2 \\pi$",
+        "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+        "stats": {
+          "count": 376
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1075994269",
+    "timeSpentVideo": "261140019",
+    "submissions": 5646,
+    "submissionsCorrect": 2765,
+    "accuracy": 0.489727240524265,
+    "difficulty": 0.7600939784197702
+  },
+  "resources": [],
+  "exam": {
+    "id": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12086253065",
+      "timeSpentVideo": "1355220987",
+      "submissions": 54401,
+      "submissionsCorrect": 32892,
+      "questions": 11,
+      "accuracy": 0.6046212385801731,
+      "difficulty": 0.6455707234729638
+    }
+  },
+  "explanation": {
+    "id": "758e1cf8-2290-4359-81c2-f14d0fcf37a4",
+    "body": "",
+    "questionId": "4a6173d3-4aa9-4a91-bcf6-dc6c1dff30df",
+    "resources": [
+      {
+        "id": "839c982d-46d8-4b98-8a62-f39200f56057",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TA9-ezOW78k?feature=shared&t=294"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "758e1cf8-2290-4359-81c2-f14d0fcf37a4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d59f2f05-af8a-424a-a7d5-e843ca9fa9e1",
+      "name": "Intersection Parameterization",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2982361840",
+        "timeSpentVideo": "261140019",
+        "submissions": 5646,
+        "submissionsCorrect": 2765,
+        "questions": 1,
+        "accuracy": 0.489727240524265,
+        "difficulty": 0.7600939784197702
+      }
+    }
+  ],
+  "children": []
+}

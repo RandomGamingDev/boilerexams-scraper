@@ -1,0 +1,143 @@
+{
+  "id": "fce43ea6-284e-4347-ab51-b0b32184c310",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Classify the critical points $(2,2)$ and $(-3,0)$ of $g(x, y)$ if\n\n\n\\[\n\\begin{gathered}\ng_{x}(2,2)=0, g_{y}(2,2)=0, g_{x x}(2,2)=-2, g_{y y}(2,2)=-2, g_{x y}(2,2)=-1 \\\\\ng_{x}(-3,0)=0, g_{y}(-3,0)=0, g_{x x}(-3,0)=0, g_{y y}(-3,0)=-6, g_{x y}(-3,0)=-3\n\\end{gathered}\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "313f0291-2114-4798-b718-4f268e2b9a79",
+        "index": 0,
+        "body": "A local maximum at $(2,2)$ and a saddle point at $(-3,0)$",
+        "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "stats": {
+          "count": 3163
+        },
+        "resources": []
+      },
+      {
+        "id": "338d5cbf-96c7-4463-b80e-d4b45ec847da",
+        "index": 1,
+        "body": "A local minimum at $(2,2)$ and a saddle point at $(-3,0)$",
+        "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "stats": {
+          "count": 450
+        },
+        "resources": []
+      },
+      {
+        "id": "c283aafd-91d1-4b29-9785-69e2390d2449",
+        "index": 2,
+        "body": "A local maximum at $(2,2)$ and a local minimum at $(-3,0)$",
+        "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      },
+      {
+        "id": "889ebd44-56d8-4e9f-807f-314df074913b",
+        "index": 3,
+        "body": "A local minimum at $(2,2)$ and a local maximum at $(-3,0)$",
+        "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "a59b6384-0680-4a9a-bb06-aea9f85ace6b",
+        "index": 4,
+        "body": "A saddle point at $(2,2)$ and a local minimum at $(-3,0)$",
+        "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+        "stats": {
+          "count": 230
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "669384057",
+    "timeSpentVideo": "104388107",
+    "submissions": 4515,
+    "submissionsCorrect": 3163,
+    "accuracy": 0.7005537098560355,
+    "difficulty": 0.5537919826652221
+  },
+  "resources": [],
+  "exam": {
+    "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+    "number": 1,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16275685192",
+      "timeSpentVideo": "2484670091",
+      "submissions": 84914,
+      "submissionsCorrect": 53089,
+      "questions": 12,
+      "accuracy": 0.625209035023671,
+      "difficulty": 0.6249382454654527
+    }
+  },
+  "explanation": {
+    "id": "03d3fae2-7309-4e69-a5f9-29128a0821aa",
+    "body": "",
+    "questionId": "fce43ea6-284e-4347-ab51-b0b32184c310",
+    "resources": [
+      {
+        "id": "48d1fd52-3df9-448c-9674-9642f8a15fa5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PId1CHqVGmE?t=1536"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "03d3fae2-7309-4e69-a5f9-29128a0821aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7ebf9728-5c70-4eca-bcfc-b664e78b78c8",
+      "name": "Min Max",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28196006115",
+        "timeSpentVideo": "2853105166",
+        "submissions": 55506,
+        "submissionsCorrect": 29731,
+        "questions": 16,
+        "accuracy": 0.5356357871221129,
+        "difficulty": 0.7144282991044132
+      }
+    }
+  ],
+  "children": []
+}

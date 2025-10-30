@@ -1,0 +1,143 @@
+{
+  "id": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the most appropriate substitution to compute\n\n\n\n\\[\n\\int_{0}^{\\frac{\\pi}{4}} \\sec ^{6} x d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cb836ca8-61c2-404d-8049-d25a7cfcceea",
+        "index": 0,
+        "body": "$u=\\tan x$",
+        "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+        "stats": {
+          "count": 2260
+        },
+        "resources": []
+      },
+      {
+        "id": "bdd102bc-45c2-4ba0-9ff0-7d8cba883143",
+        "index": 1,
+        "body": "$u=\\sec x$",
+        "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      },
+      {
+        "id": "7237372a-7c2a-4b2e-8a70-3558a5c074a5",
+        "index": 2,
+        "body": "$u=\\tan ^{2} x$",
+        "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+        "stats": {
+          "count": 183
+        },
+        "resources": []
+      },
+      {
+        "id": "89295a49-aa34-4234-a31c-6873a788dbfb",
+        "index": 3,
+        "body": "$u=\\sec ^{2} x$",
+        "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      },
+      {
+        "id": "fbfe910d-57b1-4ae0-8ae1-2ce32be0e6db",
+        "index": 4,
+        "body": "$u=\\cos ^{2} x$",
+        "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "306097602",
+    "timeSpentVideo": "29987995",
+    "submissions": 3122,
+    "submissionsCorrect": 2260,
+    "accuracy": 0.7238949391415759,
+    "difficulty": 0.5330540037243948
+  },
+  "resources": [],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838346198",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83620,
+      "submissionsCorrect": 49984,
+      "questions": 25,
+      "accuracy": 0.5977517340349199,
+      "difficulty": 0.6523650262780698
+    }
+  },
+  "explanation": {
+    "id": "356650cb-98ec-426c-bf11-925e2ffa6c8c",
+    "body": "",
+    "questionId": "7b84e1d7-c2ef-4b7b-b67f-d7f7e5d9f205",
+    "resources": [
+      {
+        "id": "c1c63ee5-df36-4a34-84f8-7200bde7b276",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D9ac4PPWgKc?t=1053\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "356650cb-98ec-426c-bf11-925e2ffa6c8c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

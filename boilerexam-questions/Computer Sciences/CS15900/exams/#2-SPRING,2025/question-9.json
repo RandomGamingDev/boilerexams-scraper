@@ -1,0 +1,278 @@
+{
+  "id": "2324bf27-55c7-4de8-9f8a-4a525be8829a",
+  "type": "PARENT",
+  "data": {
+    "body": "",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": "Lines 15 through the end of the code segment were not part of the original exam.",
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "924491",
+    "timeSpentVideo": "0",
+    "submissions": 2,
+    "submissionsCorrect": 1,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [
+    {
+      "id": "76536810-750c-48fd-98c1-0da0e7ce50ce",
+      "type": "CODE",
+      "data": {
+        "content": "int calcTotal(int num)\n{\n  int test;\n  int change;\n  int total = 0;\n  change = 1 + (1 - num % 2);\n  test = num - change;\n  while(test > 0)\n  {\n    total += num % test ? 0 : test;\n    test -= change;\n  }\n  return(total);\n}\n\nint main(void)\n{\n  printf(\"Q15 A): %3d\\n\", calcTotal(18));\n  printf(\"    B): %3d\\n\", calcTotal(12));\n  printf(\"    C): %3d\\n\\n\", calcTotal(8));\n  \n  printf(\"Q16 A): %3d\\n\", calcTotal(27));\n  printf(\"    B): %3d\\n\", calcTotal(35));\n  printf(\"    C): %3d\\n\", calcTotal(33));\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2324bf27-55c7-4de8-9f8a-4a525be8829a",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "0b2d1ad9-b331-4de9-8747-6001ee55961c",
+    "body": null,
+    "questionId": "2324bf27-55c7-4de8-9f8a-4a525be8829a",
+    "resources": []
+  },
+  "topics": [],
+  "children": [
+    {
+      "id": "da75d413-1245-4089-a295-732ae7ab2733",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following calls to the <code>calcTotal</code> function above will return the value <code>8</code>?",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "ed440feb-b40f-40ef-a257-edfc82805d07",
+            "index": 0,
+            "body": "<code>calcTotal(18)</code>",
+            "questionId": "da75d413-1245-4089-a295-732ae7ab2733",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "15a81974-be0b-4ee0-90e9-76e6c32f2138",
+            "index": 1,
+            "body": "<code>calcTotal(12)</code>",
+            "questionId": "da75d413-1245-4089-a295-732ae7ab2733",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "4e313e0d-3724-4903-ad1d-116a5e7f71b4",
+            "index": 2,
+            "body": "<code>calcTotal(8)</code>",
+            "questionId": "da75d413-1245-4089-a295-732ae7ab2733",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "cb82d7b1-80c4-4ed7-84a4-0d9e55c483ff",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "da75d413-1245-4089-a295-732ae7ab2733",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "2324bf27-55c7-4de8-9f8a-4a525be8829a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 3,
+        "submissionsCorrect": 1,
+        "accuracy": 0.3333333333333333,
+        "difficulty": 0.7548543689320388
+      },
+      "resources": [],
+      "exam": {
+        "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+        "number": 2,
+        "year": 2025,
+        "season": "SPRING",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "16161623",
+          "timeSpentVideo": "0",
+          "submissions": 243,
+          "submissionsCorrect": 141,
+          "questions": 44,
+          "accuracy": 0.5802469135802469,
+          "difficulty": 0.6931486880466472
+        }
+      },
+      "explanation": {
+        "id": "5fddf9e1-34e8-442d-8d05-38e763009f37",
+        "body": null,
+        "questionId": "da75d413-1245-4089-a295-732ae7ab2733",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "35fca08c-4860-4f74-bd73-935d2166062d",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following calls to the <code>calcTotal</code> function above will return the value <code>15</code>?",
+        "solution": [
+          2
+        ],
+        "answerChoices": [
+          {
+            "id": "c6c273a2-1434-4554-895e-8ef8ab5c70a8",
+            "index": 0,
+            "body": "<code>calcTotal(27)</code>",
+            "questionId": "35fca08c-4860-4f74-bd73-935d2166062d",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "d039f576-018a-4095-b745-0e2689ce5940",
+            "index": 1,
+            "body": "<code>calcTotal(35)</code>",
+            "questionId": "35fca08c-4860-4f74-bd73-935d2166062d",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "c79d59de-83de-4857-af03-d165804650a0",
+            "index": 2,
+            "body": "<code>calcTotal(33)</code>",
+            "questionId": "35fca08c-4860-4f74-bd73-935d2166062d",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "d2ebfdb3-4115-4097-8c64-da7f09b96912",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "35fca08c-4860-4f74-bd73-935d2166062d",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "2324bf27-55c7-4de8-9f8a-4a525be8829a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 3,
+        "submissionsCorrect": 2,
+        "accuracy": 0.6666666666666666,
+        "difficulty": 0.7451456310679612
+      },
+      "resources": [],
+      "exam": {
+        "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+        "number": 2,
+        "year": 2025,
+        "season": "SPRING",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "16161623",
+          "timeSpentVideo": "0",
+          "submissions": 243,
+          "submissionsCorrect": 141,
+          "questions": 44,
+          "accuracy": 0.5802469135802469,
+          "difficulty": 0.6931486880466472
+        }
+      },
+      "explanation": {
+        "id": "2270e69b-e7db-4c95-be07-46d96ec3b082",
+        "body": null,
+        "questionId": "35fca08c-4860-4f74-bd73-935d2166062d",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

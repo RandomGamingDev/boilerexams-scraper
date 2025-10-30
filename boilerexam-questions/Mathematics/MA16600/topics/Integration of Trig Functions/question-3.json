@@ -1,0 +1,158 @@
+{
+  "id": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\int_0^{2\\pi}\\sin^2(x)\\cos^2(x)dx.$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "779c3ea0-6b03-4427-aaf0-85fcfaf8d787",
+        "index": 0,
+        "body": "$\\frac{\\pi}{8}-\\frac{1}{16}$",
+        "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "781edcb4-4857-49ac-9c4a-f624c2ca026e",
+        "index": 1,
+        "body": "$\\frac{\\pi}{8}$",
+        "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "20044398-2ab9-48ef-a772-40407a890a21",
+        "index": 2,
+        "body": "$\\frac{\\pi}{4}-\\frac{1}{16}$",
+        "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "5deb905b-4978-4660-a199-56f884796866",
+        "index": 3,
+        "body": "$\\frac{\\pi}{4}-\\frac{1}{32}$",
+        "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "fa0bdbb0-8148-4d2a-a8d3-16e832d38a22",
+        "index": 4,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "49805133",
+    "timeSpentVideo": "6377214",
+    "submissions": 215,
+    "submissionsCorrect": 123,
+    "accuracy": 0.5720930232558139,
+    "difficulty": 0.7007936507936507
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "8aac4013-da43-4086-ae28-7ecc5c4328b2",
+    "body": null,
+    "questionId": "b5b13e0e-a487-4bcf-9ddb-411238ef6ed3",
+    "resources": [
+      {
+        "id": "b5738ae3-c5fa-47a9-8430-56d8bba85c2b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=9GXevTNyS7BLTJ2_&t=976"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8aac4013-da43-4086-ae28-7ecc5c4328b2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

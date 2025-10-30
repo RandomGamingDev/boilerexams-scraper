@@ -1,0 +1,139 @@
+{
+  "id": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(b) Suppose instead that we run Prim\u2019s algorithm to find a MST $T$ starting from node A. List the edges of T in the order that they are added.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "fc3bd3b4-1881-4c4e-ac94-918de642f7e7",
+        "index": 0,
+        "body": "(C,D), (B,C), (A,B), (C,F), (E,F)",
+        "questionId": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      },
+      {
+        "id": "3c7d3bfd-f4d8-454a-b315-fb55581405f3",
+        "index": 1,
+        "body": "",
+        "questionId": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "d51127a0-e17a-42e4-957a-c11170f6a9b1",
+        "index": 2,
+        "body": "(A,B), (B,C), (C,D), (C,F), (E,F)",
+        "questionId": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+        "stats": {
+          "count": 905
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "231067253",
+    "timeSpentVideo": "9618977",
+    "submissions": 1127,
+    "submissionsCorrect": 905,
+    "accuracy": 0.80301685891748,
+    "difficulty": 0.471678891605542
+  },
+  "resources": [
+    {
+      "id": "eea88321-68c1-4123-83cf-27556550e898",
+      "type": "IMAGE",
+      "data": {
+        "key": "0EABWNo5W0poYct-bFZ1s",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0EABWNo5W0poYct-bFZ1s"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "e1734f12-6858-4595-9577-770fb173581e",
+    "body": null,
+    "questionId": "f0bd9400-ce6d-4ea4-b31d-58b845f23073",
+    "resources": [
+      {
+        "id": "14fde486-85aa-4e1d-bbd1-cec80cdb3b7b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pWW8sjCGSxY?t=344"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e1734f12-6858-4595-9577-770fb173581e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

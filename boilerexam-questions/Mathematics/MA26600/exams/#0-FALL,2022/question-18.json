@@ -1,0 +1,112 @@
+{
+  "id": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The Laplace transform of\n\n\n\\[\nf(t)=\\int_{0}^{t}(t-\\tau) e^{t-\\tau} \\cos (2 \\tau) d \\tau\n\\]\n\nis",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "505f59ab-9edf-4615-8946-b99d823d2a40",
+        "index": 0,
+        "body": "$F(s)=\\frac{2}{\\left(s^{2}+1\\right)(s+4)^{2}}$",
+        "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "980b9033-f3f4-4252-af3b-085603146987",
+        "index": 1,
+        "body": "$F(s)=\\frac{s}{(s-4)^{2}(s-1)}$",
+        "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "cb939564-c713-4f81-9e94-72a36d05f42b",
+        "index": 2,
+        "body": "$F(s)=\\frac{1}{(s-1)\\left(s^{2}+4\\right)}$",
+        "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "0c0b5e36-2fd5-43f5-9cdf-c78de6424d3d",
+        "index": 3,
+        "body": "$F(s)=\\frac{s}{(s-1)^{2}\\left(s^{2}+4\\right)}$",
+        "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "da4f9620-df19-4d46-8606-6d34a4a127b5",
+        "index": 4,
+        "body": "$F(s)=\\frac{s}{\\left(s^{2}+1\\right)\\left(s^{2}+4\\right)}$",
+        "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "35057393",
+    "timeSpentVideo": "0",
+    "submissions": 186,
+    "submissionsCorrect": 158,
+    "accuracy": 0.8494623655913979,
+    "difficulty": 0.5227272727272727
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "29b0701d-209e-44eb-bbf9-eade28869e10",
+    "body": "",
+    "questionId": "a0a0c93c-0f2b-4929-92f7-822b876b3e8b",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

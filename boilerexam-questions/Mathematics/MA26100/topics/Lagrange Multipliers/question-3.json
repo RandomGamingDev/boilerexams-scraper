@@ -1,0 +1,143 @@
+{
+  "id": "d97847ca-263c-452c-98b8-b70a2e56d711",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the maximum of $f(x, y, z) = x + y + z$ subject to the constraint $(x \u2212 1)^2 + y^2 + z^2 = 1$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7937e8b3-c271-42e3-a96a-9343dfc2ce51",
+        "index": 0,
+        "body": "$1+\\sqrt{3}$",
+        "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+        "stats": {
+          "count": 2873
+        },
+        "resources": []
+      },
+      {
+        "id": "97dd3e68-210e-4520-88b3-1349e26e6883",
+        "index": 1,
+        "body": "$1-\\sqrt{3}$",
+        "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "6818bb59-11a4-4b64-9306-c8b787ae600a",
+        "index": 2,
+        "body": "$\\sqrt{3}$",
+        "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "fe60e64e-a11b-4d55-9e62-76d15011695d",
+        "index": 3,
+        "body": "$1+2 \\sqrt{3}$",
+        "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "312c2ce5-c195-4b50-923a-8c276a2ab307",
+        "index": 4,
+        "body": "$1+3 \\sqrt{3}$",
+        "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+        "stats": {
+          "count": 344
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1609961383",
+    "timeSpentVideo": "332195672",
+    "submissions": 5285,
+    "submissionsCorrect": 2873,
+    "accuracy": 0.5436140018921476,
+    "difficulty": 0.7071959145775302
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "977c7054-2499-4ca0-98ca-860eb22ed446",
+    "body": "",
+    "questionId": "d97847ca-263c-452c-98b8-b70a2e56d711",
+    "resources": [
+      {
+        "id": "44862576-7cad-4ee5-b7ac-a4fa03e20d90",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=6ahJl43dqQc3rYlw&t=437"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "977c7054-2499-4ca0-98ca-860eb22ed446",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3ff61fda-168d-4685-9596-9c9cbd9f36c6",
+      "name": "Lagrange Multipliers",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23687011243",
+        "timeSpentVideo": "2391172133",
+        "submissions": 47469,
+        "submissionsCorrect": 30167,
+        "questions": 10,
+        "accuracy": 0.6355094904042639,
+        "difficulty": 0.6147753789232483
+      }
+    }
+  ],
+  "children": []
+}

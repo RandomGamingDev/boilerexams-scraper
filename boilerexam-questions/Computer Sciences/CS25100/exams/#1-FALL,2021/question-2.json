@@ -1,0 +1,144 @@
+{
+  "id": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Fry wrote an algorithm to find a good path to deliver boxes in a day. He ran several experiments on it to analyze its runtime and collected the following data (see image). \nThe algorithm took too long for an input value of n=72900. Assuming we can use the Power Law T(n)=an^b to describe a runtime expression of the algorithm, a reasonable prediction for T(72900) is:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ba49af72-7edb-4936-8287-db96a52b1e6a",
+        "index": 0,
+        "body": "105892.6",
+        "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "96124466-5add-464d-8f5e-a296b1eefdfa",
+        "index": 1,
+        "body": "1568497.5",
+        "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+        "stats": {
+          "count": 431
+        },
+        "resources": []
+      },
+      {
+        "id": "d5a98e8b-815d-49d7-aa2f-1289bb45b295",
+        "index": 2,
+        "body": "172362.4",
+        "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "50ec78bb-2fca-4650-9e27-f78b4294cb9e",
+        "index": 3,
+        "body": "6559.8",
+        "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "83d3b1aa-dade-43ea-b7b2-2c43e5ab0b06",
+        "index": 4,
+        "body": "2179.3",
+        "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "90932742",
+    "timeSpentVideo": "0",
+    "submissions": 658,
+    "submissionsCorrect": 431,
+    "accuracy": 0.6550151975683891,
+    "difficulty": 0.6154353562005277
+  },
+  "resources": [
+    {
+      "id": "2471a5dc-abfe-46c8-997b-ba6ac958962c",
+      "type": "IMAGE",
+      "data": {
+        "key": "9wLGqMGArUnRiP6Cg8u55",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9wLGqMGArUnRiP6Cg8u55"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "daa70f4b-07b7-40f4-b2ab-e1a1d4f850ee",
+    "body": null,
+    "questionId": "efc920f5-2216-49a4-b747-08c7e47d6e48",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9497f217-0b8b-480c-8ff8-e1ed96c6623b",
+      "name": "Power Law",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1967928710",
+        "timeSpentVideo": "59718052",
+        "submissions": 4108,
+        "submissionsCorrect": 2611,
+        "questions": 4,
+        "accuracy": 0.6355890944498539,
+        "difficulty": 0.6176330798479087
+      }
+    }
+  ],
+  "children": []
+}

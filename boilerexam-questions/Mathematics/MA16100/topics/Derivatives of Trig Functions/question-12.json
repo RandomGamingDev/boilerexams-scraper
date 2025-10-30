@@ -1,0 +1,158 @@
+{
+  "id": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=\\left(1-x^{2}\\right) \\sin ^{-1}(x)$ then $f^{\\prime}(x)=$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c0006237-6d76-462f-b7dd-fdf17668b6fe",
+        "index": 0,
+        "body": "$\\frac{-2 x}{\\sqrt{1-x^{2}}}$",
+        "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "94461343-36d0-49ff-b57f-5f93a9b8bacf",
+        "index": 1,
+        "body": "$\\sqrt{1-x^{2}}-2 x \\sin ^{-1}(x)$",
+        "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+        "stats": {
+          "count": 861
+        },
+        "resources": []
+      },
+      {
+        "id": "e8f68082-c7a2-4bb1-97d6-1489dbfc8db5",
+        "index": 2,
+        "body": "$1-2 x \\sin ^{-1}(x)$",
+        "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "121a00e2-70b7-4f48-bda8-09a56dcb4058",
+        "index": 3,
+        "body": "$-2 x \\cos ^{-1}(x)$",
+        "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "105524dd-2f72-4a56-abad-516b03e18b57",
+        "index": 4,
+        "body": "$\\frac{1-x^{2}}{1+x^{2}}-2 x \\sin ^{-1}(x)$",
+        "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+        "stats": {
+          "count": 246
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "295141279",
+    "timeSpentVideo": "35509781",
+    "submissions": 1475,
+    "submissionsCorrect": 861,
+    "accuracy": 0.583728813559322,
+    "difficulty": 0.6715873015873016
+  },
+  "resources": [],
+  "exam": {
+    "id": "562fc4bc-8320-43fe-a65a-bc31cf37578c",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5313299544",
+      "timeSpentVideo": "826163148",
+      "submissions": 30063,
+      "submissionsCorrect": 17013,
+      "questions": 25,
+      "accuracy": 0.5659115856700928,
+      "difficulty": 0.6843069323343168
+    }
+  },
+  "explanation": {
+    "id": "8818b321-5ebc-4b63-b3b7-b9476a806701",
+    "body": "",
+    "questionId": "ec2f6f2c-e714-4441-8aa9-39f1c2e989ae",
+    "resources": [
+      {
+        "id": "eef91b7f-0291-4b8b-b245-d7fc4d4c39f0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/IMxMhKHHFYI?t=1176"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8818b321-5ebc-4b63-b3b7-b9476a806701",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1c8d7944-b88e-4f0c-a752-2ca769777e2c",
+      "name": "Product Rule",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2297538107",
+        "timeSpentVideo": "117868196",
+        "submissions": 5528,
+        "submissionsCorrect": 3668,
+        "questions": 4,
+        "accuracy": 0.6635311143270622,
+        "difficulty": 0.5893745557924662
+      }
+    },
+    {
+      "id": "b1d051a2-03fc-4c82-bb72-7130dba4c197",
+      "name": "Derivatives of Trig Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6136025937",
+        "timeSpentVideo": "295249733",
+        "submissions": 15252,
+        "submissionsCorrect": 9815,
+        "questions": 11,
+        "accuracy": 0.6435221610280619,
+        "difficulty": 0.6074127149557061
+      }
+    }
+  ],
+  "children": []
+}

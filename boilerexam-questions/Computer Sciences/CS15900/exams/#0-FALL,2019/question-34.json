@@ -1,0 +1,133 @@
+{
+  "id": "032a781f-d568-4665-b82a-995a7e14471b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is NOT a possible outcome of exceeding the defined index range of an array?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7e489001-66ee-4efd-b2f7-67869a4410f9",
+        "index": 0,
+        "body": "The program may terminate prior to running to completion.",
+        "questionId": "032a781f-d568-4665-b82a-995a7e14471b",
+        "stats": {
+          "count": 563
+        },
+        "resources": []
+      },
+      {
+        "id": "e0c1ef21-c773-470c-adb9-ef8601bb095f",
+        "index": 1,
+        "body": "The program may produce unexpected output.",
+        "questionId": "032a781f-d568-4665-b82a-995a7e14471b",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      },
+      {
+        "id": "58bee492-325d-4c88-8959-cb5e06f52e60",
+        "index": 2,
+        "body": "The compiler may issue a warning message.",
+        "questionId": "032a781f-d568-4665-b82a-995a7e14471b",
+        "stats": {
+          "count": 1594
+        },
+        "resources": []
+      },
+      {
+        "id": "4618b0a8-9181-4667-96bb-71714b5cb5e1",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "032a781f-d568-4665-b82a-995a7e14471b",
+        "stats": {
+          "count": 414
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 34,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "166427708",
+    "timeSpentVideo": "0",
+    "submissions": 2709,
+    "submissionsCorrect": 1594,
+    "accuracy": 0.5884090070136582,
+    "difficulty": 0.6647383410466358
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "d8b2a167-a928-4860-9e5d-d7a2cde9990e",
+    "body": "",
+    "questionId": "032a781f-d568-4665-b82a-995a7e14471b",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

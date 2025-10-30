@@ -1,0 +1,143 @@
+{
+  "id": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem \\[y''-10y'+26y=0,y(0)=1,y'(0)=4\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c8dc49a7-1911-4609-ba18-03ab2b689d9e",
+        "index": 0,
+        "body": "$y(t)=e^t(\\cos{5t}-\\frac{2}{5}\\sin5t)$",
+        "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "c1b34e08-dfd5-425e-bc65-c439065be191",
+        "index": 1,
+        "body": "$y(t)=e^{5t}(\\cos{t}+4\\sin{t})$",
+        "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "c6b08d1b-74aa-4671-9c43-f87fa35b80e7",
+        "index": 2,
+        "body": "$y(t)=e^t(\\cos{5t}+\\frac{3}{5}\\sin{5t})$",
+        "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "f88c9e10-405b-4e8e-9676-099de1254ee9",
+        "index": 3,
+        "body": "$y(t)=e^t(\\cos{t}+2\\sin{t})$",
+        "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "86879cb6-cf42-4212-926f-f1aeee931fe3",
+        "index": 4,
+        "body": "$y(t)=e^{5t}(\\cos{t}-\\sin{t})$",
+        "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+        "stats": {
+          "count": 538
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "215514065",
+    "timeSpentVideo": "24960724",
+    "submissions": 882,
+    "submissionsCorrect": 538,
+    "accuracy": 0.6099773242630385,
+    "difficulty": 0.6512219959266803
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "bed6da32-70c2-4f10-b9c3-f97617ea03e9",
+    "body": null,
+    "questionId": "aa4a1959-540e-49fd-9489-1b7a7e3ba9a2",
+    "resources": [
+      {
+        "id": "632423b6-d986-4e65-a620-12b120f2e97d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=2431s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bed6da32-70c2-4f10-b9c3-f97617ea03e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

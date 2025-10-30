@@ -1,0 +1,118 @@
+{
+  "id": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following would be the <font style=\"font-family:'Courier New'\">index</font> returned when using the binary search algorithm on the array below given a target value of 49?\n<br><font style=\"font-family:'Courier New'\">18  21  24  26  28  35  38  40  49  49  49  55</font><br>",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "487310a9-2b03-4054-9fe5-a8cac607031c",
+        "index": 0,
+        "body": "index = 8",
+        "questionId": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+        "stats": {
+          "count": 2722
+        },
+        "resources": []
+      },
+      {
+        "id": "034b210c-6646-4561-9447-556535e49930",
+        "index": 1,
+        "body": "index = 9",
+        "questionId": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+        "stats": {
+          "count": 562
+        },
+        "resources": []
+      },
+      {
+        "id": "a853d7ec-8ad2-4599-99d2-121c4bf3948b",
+        "index": 2,
+        "body": "index = 10",
+        "questionId": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "e646654d-348d-48f4-a65b-605867782c9c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 41,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "284372030",
+    "timeSpentVideo": "0",
+    "submissions": 3527,
+    "submissionsCorrect": 2722,
+    "accuracy": 0.7717607031471505,
+    "difficulty": 0.4857320099255583
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "2161c763-061e-4c86-b288-6ab3c803a1bd",
+    "body": "",
+    "questionId": "55845b0f-c7a8-44c2-9a5c-59d7fdb0e6a6",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The triple integral\n\n\n\\[\n\\int_{-3}^{3} \\int_{0}^{\\sqrt{9-x^{2}}} \\int_{0}^{\\sqrt{x^{2}+y^{2}}} 8\\left(x^{2}+y^{2}\\right)dz\\;dy\\;dx\n\\]\n\nwhen converted to cylindrical coordinates becomes",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d8165225-c94f-4dff-8294-4838f7920515",
+        "index": 0,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{3} \\int_{0}^{r} 8 r^{3} dz\\; dr\\; d \\theta$",
+        "questionId": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+        "stats": {
+          "count": 3152
+        },
+        "resources": []
+      },
+      {
+        "id": "00f08d8e-70dd-43ce-8b9e-7e31ded7021e",
+        "index": 1,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{3} \\int_{0}^{r} 8 r^{3} z d z\\; d r\\; d \\theta$",
+        "questionId": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+        "stats": {
+          "count": 216
+        },
+        "resources": []
+      },
+      {
+        "id": "b8d46227-e9a3-45ce-831b-571e80273843",
+        "index": 2,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{9} \\int_{0}^{r} 8 r^{2} d z\\; d r\\; d \\theta$",
+        "questionId": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "aa6aa256-c933-4629-9e9d-2a935079b9f3",
+        "index": 3,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{3} \\int_{0}^{r} 8 r^{2} z d z\\; d r\\; d \\theta$",
+        "questionId": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "454203921",
+    "timeSpentVideo": "76116567",
+    "submissions": 3799,
+    "submissionsCorrect": 3152,
+    "accuracy": 0.8296920242168991,
+    "difficulty": 0.42876378558604766
+  },
+  "resources": [],
+  "exam": {
+    "id": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10604032967",
+      "timeSpentVideo": "2972029862",
+      "submissions": 47734,
+      "submissionsCorrect": 27532,
+      "questions": 10,
+      "accuracy": 0.576779653915448,
+      "difficulty": 0.6733808588033616
+    }
+  },
+  "explanation": {
+    "id": "3427a39f-1aa7-4f15-bf0b-157a396e2166",
+    "body": "",
+    "questionId": "0faa9739-4dbe-404f-811d-622dc3d7b8b5",
+    "resources": [
+      {
+        "id": "2b73ff34-8853-49c2-bec0-185d2a6b2c0d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/xQFS-kwpzfo?t=923"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3427a39f-1aa7-4f15-bf0b-157a396e2166",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "87ae231c-a4a0-4a4f-8668-5f9031f21aee",
+      "name": "Rectangular to Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1377803230",
+        "timeSpentVideo": "182939434",
+        "submissions": 6190,
+        "submissionsCorrect": 4741,
+        "questions": 2,
+        "accuracy": 0.7659127625201939,
+        "difficulty": 0.48831478537360895
+      }
+    }
+  ],
+  "children": []
+}

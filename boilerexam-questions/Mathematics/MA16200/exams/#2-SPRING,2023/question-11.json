@@ -1,0 +1,158 @@
+{
+  "id": "98641545-b95d-473c-b9df-790f256390bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\n\n\\[\n\\int \\sin ^{4}(x) d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d342e58b-85e9-4882-801c-8d05e728f823",
+        "index": 0,
+        "body": "$\\frac{3 x}{8}-\\frac{\\sin (2 x)}{4}+\\frac{\\sin (4 x)}{32}+C$",
+        "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+        "stats": {
+          "count": 2069
+        },
+        "resources": []
+      },
+      {
+        "id": "1801cca3-32e9-4884-90e9-27904578601e",
+        "index": 1,
+        "body": "$\\frac{3 x}{8}+\\frac{\\sin (2 x)}{4}+\\frac{\\sin (4 x)}{32}+C$",
+        "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+        "stats": {
+          "count": 263
+        },
+        "resources": []
+      },
+      {
+        "id": "47806012-b64f-486f-80b4-21487c17394e",
+        "index": 2,
+        "body": "$\\frac{3 x}{8}+\\frac{\\cos (2 x)}{4}+\\frac{\\cos (4 x)}{32}+C$",
+        "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "cc171e99-d761-4adf-a70f-54057d6a7570",
+        "index": 3,
+        "body": "$\\frac{3 x}{8}-\\frac{\\cos (2 x)}{4}+\\frac{\\cos (4 x)}{32}+C$",
+        "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "9de81ed3-f75a-4243-978c-b322415e3f01",
+        "index": 4,
+        "body": "$\\frac{3 x}{8}+\\frac{\\sin (4 x)}{32}+C$",
+        "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "767940655",
+    "timeSpentVideo": "111303649",
+    "submissions": 3792,
+    "submissionsCorrect": 2069,
+    "accuracy": 0.5456223628691983,
+    "difficulty": 0.7055498458376156
+  },
+  "resources": [],
+  "exam": {
+    "id": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8244103510",
+      "timeSpentVideo": "1068074029",
+      "submissions": 46306,
+      "submissionsCorrect": 27622,
+      "questions": 12,
+      "accuracy": 0.5965101714680603,
+      "difficulty": 0.6536977976985735
+    }
+  },
+  "explanation": {
+    "id": "84a9bf5a-f2d6-4f47-97f0-d99b60330081",
+    "body": "",
+    "questionId": "98641545-b95d-473c-b9df-790f256390bb",
+    "resources": [
+      {
+        "id": "8aeb8a40-e5a9-458a-8973-1add167b2e8a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ezJ9t_oy2s0?t=1827\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "84a9bf5a-f2d6-4f47-97f0-d99b60330081",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "518d7710-468f-4482-a18e-00c07665b3b0",
+      "name": "Integration of Trigonometric Function",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14052004562",
+        "timeSpentVideo": "815295856",
+        "submissions": 32440,
+        "submissionsCorrect": 20084,
+        "questions": 11,
+        "accuracy": 0.6191122071516646,
+        "difficulty": 0.6312538414259373
+      }
+    }
+  ],
+  "children": []
+}

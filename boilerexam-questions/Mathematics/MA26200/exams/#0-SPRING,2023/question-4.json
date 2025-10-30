@@ -1,0 +1,128 @@
+{
+  "id": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of this Bernoulli differential equation: $\\frac{d y}{d x}-\\frac{1}{x} y=3 x y^{2}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "981f8cb2-d8a8-4c43-bb07-d144467a437a",
+        "index": 0,
+        "body": "$y(x)=\\frac{x}{C-x^{3}}$",
+        "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+        "stats": {
+          "count": 299
+        },
+        "resources": []
+      },
+      {
+        "id": "84745663-0735-4325-99a6-484b076ac5c3",
+        "index": 1,
+        "body": "$y(x)=\\frac{1}{x}\\left(C-x^{2}\\right)$",
+        "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "8d476d3a-88e8-4352-b9f0-e856b72c9345",
+        "index": 2,
+        "body": "$y(x)=\\frac{x^{2}}{C-x^{3}}$",
+        "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "44dce0ff-1d00-4afd-8857-1ce9b36795cd",
+        "index": 3,
+        "body": "$y(x)=\\frac{C-x^{3}}{x^{2}}$",
+        "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "34533890-0df4-4334-a988-59dc6cba058e",
+        "index": 4,
+        "body": "$y(x)=\\frac{x}{C-x}$",
+        "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "141428453",
+    "timeSpentVideo": "0",
+    "submissions": 364,
+    "submissionsCorrect": 299,
+    "accuracy": 0.8214285714285714,
+    "difficulty": 0.49784482758620685
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "0320bcd0-9850-4c83-8d74-395584f03a57",
+    "body": "",
+    "questionId": "a7ed3fe9-a9ff-4cfd-a7a4-dca14d03af16",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "088d5d55-901f-48db-9a68-742ba728e61f",
+      "name": "Bernoulli ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5259709166",
+        "timeSpentVideo": "298135909",
+        "submissions": 8242,
+        "submissionsCorrect": 4655,
+        "questions": 8,
+        "accuracy": 0.5647900994904149,
+        "difficulty": 0.6859865739630784
+      }
+    }
+  ],
+  "children": []
+}

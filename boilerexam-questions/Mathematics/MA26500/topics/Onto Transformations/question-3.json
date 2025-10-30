@@ -1,0 +1,188 @@
+{
+  "id": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{R}^{n} \\rightarrow \\mathbb{R}^{m}$ be a linear transformation and $T(\\mathbf{x})=A \\mathbf{x}$, where $A$ is the standard matrix for $T$. Which of the following statements must be TRUE?\n\n(i) $A$ is an $n \\times m$ matrix.\n\n(ii) If the columns of $A$ are linearly independent, then $T$ is one-to-one.\n\n(iii) If $m>n$, then $T$ is onto.\n\n(iv) If $n>m$, then $T$ is one-to-one.\n\n(v) If the columns of $A$ span $\\mathbb{R}^{m}$, then $T$ is onto.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4a0d9280-38c8-4ed8-901a-831ee50465c1",
+        "index": 0,
+        "body": "(i), (ii), (iii), (iv), and (v)",
+        "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+        "stats": {
+          "count": 238
+        },
+        "resources": []
+      },
+      {
+        "id": "d034be20-e769-4e78-8fd9-5e2bb287fb5d",
+        "index": 1,
+        "body": "(i), (ii), and (iii) only",
+        "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+        "stats": {
+          "count": 339
+        },
+        "resources": []
+      },
+      {
+        "id": "c6de5f5d-61e2-4668-b56f-98473a438fc6",
+        "index": 2,
+        "body": "(ii) and (v) only",
+        "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+        "stats": {
+          "count": 2149
+        },
+        "resources": []
+      },
+      {
+        "id": "7b884ccb-67a1-4807-8010-61a0f85c15f3",
+        "index": 3,
+        "body": "(ii), (iii), and (iv) only",
+        "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "fb884079-34ce-46be-bd21-fe3c5d7c8116",
+        "index": 4,
+        "body": "(iii) and (iv) only",
+        "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "685447699",
+    "timeSpentVideo": "124932355",
+    "submissions": 3465,
+    "submissionsCorrect": 2149,
+    "accuracy": 0.6202020202020202,
+    "difficulty": 0.6331697054698457
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "80a12588-58bf-49f4-bba2-0b1cd989c4e9",
+    "body": "",
+    "questionId": "ad86d4e5-9dec-4057-a7e5-6f8c843e82e3",
+    "resources": [
+      {
+        "id": "063f5d6f-42a8-4202-89c2-d5efc705bbcd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=639\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "80a12588-58bf-49f4-bba2-0b1cd989c4e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "8e39155e-e6f2-40e0-8f19-8a84d7b742c5",
+      "name": "Onto Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3472792632",
+        "timeSpentVideo": "342523146",
+        "submissions": 6016,
+        "submissionsCorrect": 3436,
+        "questions": 2,
+        "accuracy": 0.5711436170212766,
+        "difficulty": 0.6800196206671026
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

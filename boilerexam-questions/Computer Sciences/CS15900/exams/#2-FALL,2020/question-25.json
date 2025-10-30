@@ -1,0 +1,117 @@
+{
+  "id": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Assuming that variables\u00a0x\u00a0and\u00a0y\u00a0are non-negative integers, which of the following is the complement to the expression below?<br><font style=\"font-family:'Courier New'\">x == 1 || x == 0 && y == 0 || y == 1</font>",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b5ae2291-6832-4123-aa61-f9bf95e48735",
+        "index": 0,
+        "body": "x != 1 && x != 0 || y != 0 && y != 1",
+        "questionId": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+        "stats": {
+          "count": 274
+        },
+        "resources": []
+      },
+      {
+        "id": "ccf34bfc-c153-429f-88b6-cfc675106fa2",
+        "index": 1,
+        "body": "x != 1 && (x || y) && y != 1",
+        "questionId": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+        "stats": {
+          "count": 599
+        },
+        "resources": []
+      },
+      {
+        "id": "8ff3257c-4ba7-466a-acca-8a3c179d11cf",
+        "index": 2,
+        "body": "!(x != 1 || x != 0 && y != 0 || y != 1)",
+        "questionId": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "f5b7a492-b688-4500-8cbd-3ccf8492d75c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "66721768",
+    "timeSpentVideo": "20791081",
+    "submissions": 1021,
+    "submissionsCorrect": 599,
+    "accuracy": 0.5866797257590598,
+    "difficulty": 0.6710526315789473
+  },
+  "resources": [],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "76315618-e0fc-40e2-8bdd-f32f05e91529",
+    "body": "",
+    "questionId": "c88cb3d7-448c-4bdf-b168-72f0cc60df5d",
+    "resources": [
+      {
+        "id": "f68e9f92-64dc-4782-b3f9-1c9fc155a999",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=4358"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "76315618-e0fc-40e2-8bdd-f32f05e91529",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

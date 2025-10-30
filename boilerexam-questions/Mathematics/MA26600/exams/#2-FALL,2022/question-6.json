@@ -1,0 +1,143 @@
+{
+  "id": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{cc}\n3 & -4 \\\\\n1 & 7\n\\end{array}\\right] \\mathbf{x}\n\\]\n\nIt is known that the system has one defective eigenvalue $\\lambda=5$. Find its general solution.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "78a4f9d2-e8c5-4171-812b-82788de3941b",
+        "index": 0,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-2 t+1 \\\\ t\\end{array}\\right] e^{5 t}$",
+        "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+        "stats": {
+          "count": 351
+        },
+        "resources": []
+      },
+      {
+        "id": "b86a1f3e-3a4d-4982-b986-d4bbb6ce78af",
+        "index": 1,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] e^{5 t}$",
+        "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "6369181e-de60-4168-8b4e-f24379d7b032",
+        "index": 2,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}4 \\\\ -2\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}4 t+1 \\\\ -2 t\\end{array}\\right] e^{5 t}$",
+        "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "746aa173-d409-479c-b28c-56b532c1a82c",
+        "index": 3,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}2 \\\\ -1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}2 t+1 \\\\ -t\\end{array}\\right] e^{5 t}$",
+        "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "4e88abc5-67f2-4662-ab6f-73323dec9e20",
+        "index": 4,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-2 t \\\\ t+1\\end{array}\\right] e^{5 t}$",
+        "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "117778211",
+    "timeSpentVideo": "13077080",
+    "submissions": 500,
+    "submissionsCorrect": 351,
+    "accuracy": 0.702,
+    "difficulty": 0.5816666666666667
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "29303544-aeeb-4961-adc1-8db48e726380",
+    "body": "",
+    "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
+    "resources": [
+      {
+        "id": "1b067abc-2b3b-4590-9ec2-ef47454d1f40",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=3IU2zh8OPt47grPB&t=1994"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "29303544-aeeb-4961-adc1-8db48e726380",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

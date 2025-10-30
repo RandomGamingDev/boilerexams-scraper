@@ -1,0 +1,143 @@
+{
+  "id": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbb{P}_3$ denote the vector space of all polynomials of degree at most 3, which\nof the following subsets are subspaces of either  $\\mathbb{R}^3$ or  $\\mathbb{P}_3$?\n(i) The set of all vectors\n[x y z] in  $\\mathbb{R}^3$ such that $x + 2y + 3z = 1.$\n(ii) The set of all vectors\n[x y z] in  $\\mathbb{R}^3$ such that $10x \u2212 2y = z.$\n(iii) The set of all polynomials $p(t)$ in $\\mathbb{P}_3$such that the degree of $p(t)$ is 3.\n(iv) The set of all polynomials p(t) in $\\mathbb{P}_3$ satisfying $p(2) = 0.$\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2a1ce832-d548-4a23-9288-aebb087bf6c4",
+        "index": 0,
+        "body": "(ii) and (iv) only",
+        "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+        "stats": {
+          "count": 1628
+        },
+        "resources": []
+      },
+      {
+        "id": "e34eb010-5f78-42b3-81db-ad210ad63c4d",
+        "index": 1,
+        "body": "(i), (ii) and (iv) only",
+        "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+        "stats": {
+          "count": 232
+        },
+        "resources": []
+      },
+      {
+        "id": "18e4fe73-f6cb-4a2f-abce-28d61ef6612d",
+        "index": 2,
+        "body": "(ii) and (iii) only",
+        "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+        "stats": {
+          "count": 429
+        },
+        "resources": []
+      },
+      {
+        "id": "d0ff91ba-40dd-41bc-bdaa-2810feecd4ba",
+        "index": 3,
+        "body": "(ii), (iii) and (iv) only",
+        "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+        "stats": {
+          "count": 614
+        },
+        "resources": []
+      },
+      {
+        "id": "7bb83f23-52a8-477a-b9a8-d825b9e9fe1b",
+        "index": 4,
+        "body": "(iii) and (iv) only",
+        "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "542110922",
+    "timeSpentVideo": "297229573",
+    "submissions": 3516,
+    "submissionsCorrect": 1628,
+    "accuracy": 0.4630261660978385,
+    "difficulty": 0.7859513274336283
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "e250926f-ebd3-4ae7-9822-31047460b178",
+    "body": "",
+    "questionId": "f192bd79-41ec-495f-b6ab-86c09dc54dbd",
+    "resources": [
+      {
+        "id": "0b65d369-1178-4db9-9b77-9123017cc605",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?t=2134\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e250926f-ebd3-4ae7-9822-31047460b178",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    }
+  ],
+  "children": []
+}

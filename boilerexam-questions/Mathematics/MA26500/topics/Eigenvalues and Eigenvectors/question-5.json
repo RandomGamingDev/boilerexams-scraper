@@ -1,0 +1,158 @@
+{
+  "id": "2f35a513-06b5-4162-8046-11316612eac7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the differential equation\n\n\\[\n\\left[\\begin{array}{l}\nx^{\\prime}(t) \\\\\ny^{\\prime}(t)\n\\end{array}\\right]=\\left[\\begin{array}{cc}\n1 & 3 \\\\\n-2 & 2\n\\end{array}\\right]\\left[\\begin{array}{l}\nx(t) \\\\\ny(t)\n\\end{array}\\right]\n\\]\n\nThen the origin is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0693ef07-068c-4304-8bef-698b041c720e",
+        "index": 0,
+        "body": "an attractor",
+        "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "69a0d886-68dd-4076-bcb1-dc56598c5a7b",
+        "index": 1,
+        "body": "a repeller",
+        "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+        "stats": {
+          "count": 213
+        },
+        "resources": []
+      },
+      {
+        "id": "a9242e7d-b698-493d-a1af-9d1260a299c8",
+        "index": 2,
+        "body": "a saddle point",
+        "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+        "stats": {
+          "count": 348
+        },
+        "resources": []
+      },
+      {
+        "id": "d83d7e35-0ab1-4f4a-9485-f549fb1fea6c",
+        "index": 3,
+        "body": "a spiral point",
+        "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+        "stats": {
+          "count": 1958
+        },
+        "resources": []
+      },
+      {
+        "id": "fd7def16-0464-4f65-b898-a6afa28d33e5",
+        "index": 4,
+        "body": "none of the above",
+        "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "332364800",
+    "timeSpentVideo": "109359081",
+    "submissions": 2939,
+    "submissionsCorrect": 1958,
+    "accuracy": 0.6662129976182375,
+    "difficulty": 0.5892563343205002
+  },
+  "resources": [],
+  "exam": {
+    "id": "ecd4d6d3-e581-411b-b35c-2c3527ecdb04",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3858235430",
+      "timeSpentVideo": "1767207244",
+      "submissions": 26747,
+      "submissionsCorrect": 15288,
+      "questions": 10,
+      "accuracy": 0.5715781209107563,
+      "difficulty": 0.6786884940589265
+    }
+  },
+  "explanation": {
+    "id": "d83a87a9-f684-4d67-b105-adbe90f5d89a",
+    "body": "",
+    "questionId": "2f35a513-06b5-4162-8046-11316612eac7",
+    "resources": [
+      {
+        "id": "30da858f-4025-49ea-80d5-721db5860a21",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/eSWeX98Q0fE?t=2317\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d83a87a9-f684-4d67-b105-adbe90f5d89a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "99a7ff97-9f32-46ad-9af5-54bbdf4250dd",
+      "name": "Differential Equations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16253734334",
+        "timeSpentVideo": "1861609104",
+        "submissions": 38354,
+        "submissionsCorrect": 23397,
+        "questions": 20,
+        "accuracy": 0.6100276372738176,
+        "difficulty": 0.6402584906641702
+      }
+    }
+  ],
+  "children": []
+}

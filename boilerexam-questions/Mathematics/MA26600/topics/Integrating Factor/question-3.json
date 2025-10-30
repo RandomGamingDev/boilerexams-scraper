@@ -1,0 +1,143 @@
+{
+  "id": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution to the differential equation\n\\[e^x \\frac{dy}{dx} + 2y = 2e^{x + 2e^{-x}}.\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "3c9b911a-8086-4823-973c-32bd65b35c74",
+        "index": 0,
+        "body": "$y = x^2 e^{2e^{-x}} + C e^{2e^{-x}}$",
+        "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "0a40ac71-37a0-4f66-b3b1-71e5399aaa4d",
+        "index": 1,
+        "body": "$y = x e^{x + 2e^{-x}} + C e^{x + 2e^{-x}}$",
+        "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "ecd4f97f-837b-423a-b10d-f519256d0559",
+        "index": 2,
+        "body": "$y = x^2 e^x + C e^x$",
+        "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "e32ddf61-f3fc-485e-9ae9-956928b8ebcb",
+        "index": 3,
+        "body": "$y = x^2 e^{-x} + C e^{x + 2e^{-x}}$",
+        "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "55135619-20b5-4ac5-bf64-8c8149a1bf18",
+        "index": 4,
+        "body": "$y = 2x e^{2e^{-x}} + C e^{2e^{-x}}$",
+        "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+        "stats": {
+          "count": 710
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "346019730",
+    "timeSpentVideo": "60245843",
+    "submissions": 1104,
+    "submissionsCorrect": 710,
+    "accuracy": 0.6431159420289855,
+    "difficulty": 0.6187707641196013
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2771132684",
+      "timeSpentVideo": "371825714",
+      "submissions": 10438,
+      "submissionsCorrect": 6508,
+      "questions": 10,
+      "accuracy": 0.6234910902471738,
+      "difficulty": 0.6276807743404821
+    }
+  },
+  "explanation": {
+    "id": "ff98d294-160a-48c3-8588-3e12110a4f63",
+    "body": null,
+    "questionId": "73e3e54e-9199-4338-bfe8-8b70eee8d1f0",
+    "resources": [
+      {
+        "id": "e880eba6-664e-47fa-9c28-bd930eb1a732",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/goF0nLKveuM?t=542"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ff98d294-160a-48c3-8588-3e12110a4f63",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

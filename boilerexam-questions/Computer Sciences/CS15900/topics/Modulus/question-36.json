@@ -1,0 +1,118 @@
+{
+  "id": "b59f5d49-349e-473f-bd08-731a654aa51a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the result of the modulus operator is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "5993d2c6-09a4-4ee0-b179-3c43e960820b",
+        "index": 0,
+        "body": "The possible result of the following for any non-negative integer x is 0 or 1: <font style=\"font-family:'Courier New'\">(x + 1) % x</font>",
+        "questionId": "b59f5d49-349e-473f-bd08-731a654aa51a",
+        "stats": {
+          "count": 317
+        },
+        "resources": []
+      },
+      {
+        "id": "2fe28e80-4337-48e4-b591-91dc7bc1b919",
+        "index": 1,
+        "body": "The result of the following for any non-negative integer x is 1: <font style=\"font-family:'Courier New'\">(x + 2) % (x + 1)</font>",
+        "questionId": "b59f5d49-349e-473f-bd08-731a654aa51a",
+        "stats": {
+          "count": 349
+        },
+        "resources": []
+      },
+      {
+        "id": "b6bc60e9-9fb3-4226-8e34-0ee119e60e57",
+        "index": 2,
+        "body": "The result of the following for any non-negative integer x is 0: <font style=\"font-family:'Courier New'\">1 - (x + 2) % (x + 1)</font>",
+        "questionId": "b59f5d49-349e-473f-bd08-731a654aa51a",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "9f0c4471-b61b-4270-a095-133ce9248886",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "b59f5d49-349e-473f-bd08-731a654aa51a",
+        "stats": {
+          "count": 871
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 36,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "135966657",
+    "timeSpentVideo": "0",
+    "submissions": 1639,
+    "submissionsCorrect": 871,
+    "accuracy": 0.5314215985356925,
+    "difficulty": 0.7203852788959172
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "687d9869-1d88-46c4-affa-962220654c10",
+    "body": "",
+    "questionId": "b59f5d49-349e-473f-bd08-731a654aa51a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "36b2d3fd-ae6f-41b8-b72c-6c707b28daa8",
+      "name": "Modulus",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2568256807",
+        "timeSpentVideo": "31894298",
+        "submissions": 13086,
+        "submissionsCorrect": 8542,
+        "questions": 7,
+        "accuracy": 0.6527586733914107,
+        "difficulty": 0.598399817988776
+      }
+    }
+  ],
+  "children": []
+}

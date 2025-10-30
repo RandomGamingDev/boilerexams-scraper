@@ -1,0 +1,118 @@
+{
+  "id": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The logical complement of the expression defined below would be which of the following?\n<br><font style=\"font-family:'Courier New'\">year % 4 == 0 && year % 100 != 0 || year % 400 == 0</font><br>",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "fdb39a29-815a-4c2f-a478-7f6f54e01422",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">!(year % 4) && year % 100 || !(year % 400)</font>",
+        "questionId": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+        "stats": {
+          "count": 953
+        },
+        "resources": []
+      },
+      {
+        "id": "db2166a4-a844-44bc-8a38-b97d92b34c63",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\"> (year % 4 || year % 100 != 0) && year % 400</font>",
+        "questionId": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+        "stats": {
+          "count": 925
+        },
+        "resources": []
+      },
+      {
+        "id": "046609ff-ffd5-4bf3-a600-2e77dee58dca",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">(year % 4 || !(year % 100)) && year % 400</font>",
+        "questionId": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+        "stats": {
+          "count": 3917
+        },
+        "resources": []
+      },
+      {
+        "id": "b515c41b-2d3e-456f-983d-e0bcbcb46483",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+        "stats": {
+          "count": 856
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "665225485",
+    "timeSpentVideo": "0",
+    "submissions": 6688,
+    "submissionsCorrect": 3917,
+    "accuracy": 0.5856758373205742,
+    "difficulty": 0.6655863288155569
+  },
+  "resources": [],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "cb3c5aad-b3c4-410e-a21b-0c3665298641",
+    "body": "",
+    "questionId": "dae7f66c-c98b-4e62-9078-60013afce7a9",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Convert the integral to spherical coordinates and compute it:\n\n\n\\[\n\\int_{-2}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{\\sqrt{x^{2}+y^{2}}}^{\\sqrt{8-x^{2}-y^{2}}} 3 \\mathrm{~d} z \\mathrm{~d} y \\mathrm{~d} x\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "28bbe4eb-f4c5-4eab-bfcf-a64726cb8868",
+        "index": 0,
+        "body": "$2(\\sqrt{2}-1) \\pi$",
+        "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "1e2c72c2-0e3a-4e29-9aa9-8b8ca744d136",
+        "index": 1,
+        "body": "$8(\\sqrt{2}-1) \\pi$",
+        "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+        "stats": {
+          "count": 322
+        },
+        "resources": []
+      },
+      {
+        "id": "5fc52dc5-2efa-464d-aca0-03c5924d0b22",
+        "index": 2,
+        "body": "$10(\\sqrt{2}-1) \\pi$",
+        "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "b773cc94-48cd-46e6-a5b2-447ea755992e",
+        "index": 3,
+        "body": "$16(\\sqrt{2}-1) \\pi$",
+        "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+        "stats": {
+          "count": 1250
+        },
+        "resources": []
+      },
+      {
+        "id": "cbf76187-02f0-4915-a562-c5ed45b987b1",
+        "index": 4,
+        "body": "$12(\\sqrt{2}-1)\\pi$",
+        "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "681133578",
+    "timeSpentVideo": "253959245",
+    "submissions": 2649,
+    "submissionsCorrect": 1250,
+    "accuracy": 0.4718761796904492,
+    "difficulty": 0.7771007639141506
+  },
+  "resources": [],
+  "exam": {
+    "id": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11087296287",
+      "timeSpentVideo": "3285469005",
+      "submissions": 57424,
+      "submissionsCorrect": 31424,
+      "questions": 20,
+      "accuracy": 0.5472276400111452,
+      "difficulty": 0.7028544607468187
+    }
+  },
+  "explanation": {
+    "id": "f81dbf81-3f8e-4816-a3a1-0824ba8c81f9",
+    "body": "",
+    "questionId": "d060b0b0-2d92-41df-9dee-fade5d3ca619",
+    "resources": [
+      {
+        "id": "a0028c2f-1497-42ef-a1e6-3bcddddd1159",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YYp45Q6cmLo?si=QF-FwvR7AmVHOrAx&t=2357\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f81dbf81-3f8e-4816-a3a1-0824ba8c81f9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

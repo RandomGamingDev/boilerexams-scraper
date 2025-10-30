@@ -1,0 +1,158 @@
+{
+  "id": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the determinant of $A$, where\n\n\\[\nA=\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n2 & 5 & 4 & 2 \\\\\n0 & 0 & 0 & 2 \\\\\n0 & -3 & 0 & -4 \\\\\n1 & 0 & -1 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]^{-1}\n\\]\n\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "40bbae82-61d2-4b34-9198-06682d8a67b8",
+        "index": 0,
+        "body": "$\\operatorname{det}(A)=-36$",
+        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "9b8f9df9-914c-4b33-8b78-d9262f473ccc",
+        "index": 1,
+        "body": "$\\operatorname{det}(A)=5$",
+        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "99ac9fb1-02ae-4b75-bf02-84d7fe69b81b",
+        "index": 2,
+        "body": "$\\operatorname{det}(A)=0$",
+        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      },
+      {
+        "id": "e2ce08e4-2369-45d6-bd3b-9450bc35e6a4",
+        "index": 3,
+        "body": "$\\operatorname{det}(A)=-13$",
+        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "a369583d-97fc-4043-9601-cb6d29b1b57f",
+        "index": 4,
+        "body": "$\\operatorname{det}(A)=36$",
+        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "stats": {
+          "count": 755
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "236603516",
+    "timeSpentVideo": "45118869",
+    "submissions": 1431,
+    "submissionsCorrect": 755,
+    "accuracy": 0.527603074772886,
+    "difficulty": 0.7241998693664272
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+    "body": "",
+    "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+    "resources": [
+      {
+        "id": "3d302321-1a67-46f5-9ec3-fa40793f82c8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1qA9exO23-k?t=884\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

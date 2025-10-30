@@ -1,0 +1,158 @@
+{
+  "id": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The integral \\[\\int\\frac{e^{2x}-1}{x}dx\\] is equal to",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d79929bf-dbf7-41e3-bd6d-e62d55d7efc0",
+        "index": 0,
+        "body": "\\[\\sum_{n=1}^\\infty\\frac{2^{n+1}x^n}{n!\\cdot n}+c\\]",
+        "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "5d728cfa-a1c4-4ca8-a405-b1b3d19c2391",
+        "index": 1,
+        "body": "\\[\\sum_{n=1}^\\infty\\frac{2^nx^n}{n!}+c\\]",
+        "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "fddeb5e2-cf55-4519-98c1-b338428d448d",
+        "index": 2,
+        "body": "\\[\\sum_{n=1}^\\infty\\frac{2^nx^n}{n}+c\\]",
+        "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "b0cb787f-0f1e-4028-a865-46aa4e9b969e",
+        "index": 3,
+        "body": "\\[\\sum_{n=1}^\\infty\\frac{2^nx^{n+1}}{(n+1)!}+c\\]",
+        "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "53375b48-be4f-4408-b57f-e26494d4ca95",
+        "index": 4,
+        "body": "\\[\\sum_{n=1}^\\infty\\frac{2^nx^n}{n!\\cdot n}+c\\]",
+        "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+        "stats": {
+          "count": 292
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105898455",
+    "timeSpentVideo": "33920216",
+    "submissions": 643,
+    "submissionsCorrect": 292,
+    "accuracy": 0.45412130637636083,
+    "difficulty": 0.7897039030955586
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "d1660142-8a05-4012-aee1-1b81a8eeffef",
+    "body": "",
+    "questionId": "c0e889a5-544c-4899-af22-8cc95eef8aa1",
+    "resources": [
+      {
+        "id": "1d6c04a3-1e54-43d5-bfac-1ec1289d0950",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=8282s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d1660142-8a05-4012-aee1-1b81a8eeffef",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "af1917e5-c711-4300-80e6-b84026e04e20",
+      "name": "Maclaurin series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5239364953",
+        "timeSpentVideo": "442589834",
+        "submissions": 10988,
+        "submissionsCorrect": 6068,
+        "questions": 7,
+        "accuracy": 0.5522388059701493,
+        "difficulty": 0.6982323232323232
+      }
+    }
+  ],
+  "children": []
+}

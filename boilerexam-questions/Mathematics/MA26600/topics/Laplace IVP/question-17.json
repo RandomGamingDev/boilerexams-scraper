@@ -1,0 +1,128 @@
+{
+  "id": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The solution of the initial value problem\n\n\n\\[\nx^{\\prime \\prime}+8 x^{\\prime}+16 x=f(t) ; \\quad x(0)=0, \\quad x^{\\prime}(0)=0\n\\]\n\nis",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5af33aef-5f46-4336-b8de-377973bb3ee1",
+        "index": 0,
+        "body": "$\\int_{0}^{t} \\tau e^{-4 \\tau} f(t-\\tau) d \\tau$",
+        "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+        "stats": {
+          "count": 308
+        },
+        "resources": []
+      },
+      {
+        "id": "61dc7528-af72-4318-aebd-13f44a536604",
+        "index": 1,
+        "body": "$\\int_{0}^{t} \\tau e^{4 \\tau} f(t-\\tau) d \\tau$",
+        "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "ed241370-dc26-4e07-9d54-97914a3d8fd0",
+        "index": 2,
+        "body": "$\\int_{0}^{t} \\tau e^{-4 \\tau} f(t-\\tau) d \\tau-\\cos 4 t$",
+        "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "04684332-9fba-4511-91ff-00a699c977f0",
+        "index": 3,
+        "body": "$\\int_{0}^{t} \\tau e^{4 \\tau} f(t-\\tau) d \\tau+\\sin 4 t$",
+        "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "8c222e7e-37c7-4f09-b0af-bb09b9d9d2fd",
+        "index": 4,
+        "body": "$\\int_{0}^{t} \\tau e^{4 \\tau} f(\\tau-t) d \\tau$",
+        "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "110385317",
+    "timeSpentVideo": "0",
+    "submissions": 390,
+    "submissionsCorrect": 308,
+    "accuracy": 0.7897435897435897,
+    "difficulty": 0.5193877551020408
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "63ade4d8-dd7c-4e4e-ace1-3210f1b11ff2",
+    "body": "",
+    "questionId": "baaceb45-3ac3-4241-a7bf-89e907d951ff",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

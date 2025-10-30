@@ -1,0 +1,154 @@
+{
+  "id": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We would like to find the Minimum Weight Spanning Tree (MST) for the weighted graph G defined below.\n\n(a) Suppose that we run Kruskal\u2019s algorithm to find an MST $T$. List the edges of T in the order that they are added.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b2a0b47b-8c88-4bc5-8051-c204521c9949",
+        "index": 0,
+        "body": "(C,D), (B,C), (A,B), (C,F), (E,F)",
+        "questionId": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+        "stats": {
+          "count": 1074
+        },
+        "resources": []
+      },
+      {
+        "id": "fac5748c-9d9a-42a3-982f-fcd19edab402",
+        "index": 1,
+        "body": "(C,D), (B,C), (A,B), (C,F), (A,C), (E,F)",
+        "questionId": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "86d9773e-b21b-470e-828e-bd9e2581879d",
+        "index": 2,
+        "body": "None of the above",
+        "questionId": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "243798902",
+    "timeSpentVideo": "11506010",
+    "submissions": 1273,
+    "submissionsCorrect": 1074,
+    "accuracy": 0.8436763550667714,
+    "difficulty": 0.4313546977421704
+  },
+  "resources": [
+    {
+      "id": "c78294e8-af02-43e9-baef-9437a6e1c3f0",
+      "type": "IMAGE",
+      "data": {
+        "key": "xJZjq9jUiHSc1QKLYb37i",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/xJZjq9jUiHSc1QKLYb37i"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "0d217867-98b3-4a76-bca5-36801f6509ee",
+    "body": null,
+    "questionId": "6cd1f09e-76fd-4ed2-8c44-658a9e80e8db",
+    "resources": [
+      {
+        "id": "9cf761a8-1d3e-4150-b6e9-7c35fd78870a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=pWW8sjCGSxY"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0d217867-98b3-4a76-bca5-36801f6509ee",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4cf68d5a-1218-4522-aa8f-bb2e2e2d5a75",
+      "name": "Kruskals Algorithm",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "693634667",
+        "timeSpentVideo": "11506010",
+        "submissions": 1273,
+        "submissionsCorrect": 1074,
+        "questions": 1,
+        "accuracy": 0.8436763550667714,
+        "difficulty": 0.4313546977421704
+      }
+    },
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

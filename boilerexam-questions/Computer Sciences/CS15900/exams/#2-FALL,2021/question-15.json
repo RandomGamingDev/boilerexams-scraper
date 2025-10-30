@@ -1,0 +1,149 @@
+{
+  "id": "4c028fdf-f207-47a3-ada7-beabf84356db",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following best describes the different cases of the recursive <font style=\"font-family:'Courier New'\">calc</font> function in the program?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "93351c6f-594a-4828-823e-01b108f19505",
+        "index": 0,
+        "body": "n < 2 <font style=\"font-family:'Times New Roman'\">is the recursive case and</font> n >= 2 <font style=\"font-family:'Times New Roman'\">is the base case.</font>",
+        "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+        "stats": {
+          "count": 207
+        },
+        "resources": []
+      },
+      {
+        "id": "a31a1348-c082-45a5-8495-4623272a72c7",
+        "index": 1,
+        "body": "n >= 2 <font style=\"font-family:'Times New Roman'\">is the recursive case and </font> n < 2<font style=\"font-family:'Times New Roman'\"> is the base case.</font>",
+        "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+        "stats": {
+          "count": 1302
+        },
+        "resources": []
+      },
+      {
+        "id": "550daa11-4e2b-4d1d-baea-e217c08fc737",
+        "index": 2,
+        "body": "n > 2 <font style=\"font-family:'Times New Roman'\">is the recursive case and </font> n <= 2<font style=\"font-family:'Times New Roman'\"> is the base case.</font>",
+        "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "489ff20c-8cca-4a52-9996-5f37a82ca323",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "91843770",
+    "timeSpentVideo": "6836756",
+    "submissions": 1665,
+    "submissionsCorrect": 1302,
+    "accuracy": 0.781981981981982,
+    "difficulty": 0.4839943342776204
+  },
+  "resources": [
+    {
+      "id": "a8020a07-23cd-46cb-8d59-e29c2cbbe0c1",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\nint calc(int n);\n\nint main(void)\n{\n  calc(5);\n  return 0;\n}\n\nint calc(int n)\n{\n  int level = n;\n  int mid = n / 2;\n\n  if (n < 2)\n  {\n    n = 1;\n  }\n  else\n  {\n    n = n * calc(n - 1) / (n - mid);\n  }\n\n  printf(\"%d: %d\\n\", level, n);\n\n  return n;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "a8dabaaa-e188-49c8-a9e5-40dae2daba98",
+    "body": "",
+    "questionId": "4c028fdf-f207-47a3-ada7-beabf84356db",
+    "resources": [
+      {
+        "id": "6e6ac95e-f802-406a-8539-b47e949a1fa6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=2062"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a8dabaaa-e188-49c8-a9e5-40dae2daba98",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "159fdad5-f22e-4728-bac7-6952d8c569ac",
+      "name": "Recursion",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7354252330",
+        "timeSpentVideo": "203712680",
+        "submissions": 24127,
+        "submissionsCorrect": 15897,
+        "questions": 9,
+        "accuracy": 0.6588883823102748,
+        "difficulty": 0.5917674495397697
+      }
+    }
+  ],
+  "children": []
+}

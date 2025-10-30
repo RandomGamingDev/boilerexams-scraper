@@ -1,0 +1,133 @@
+{
+  "id": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let's keep working with the same code as the previous question:\n\nYour boss likes your program (phew), but he wants you to implement a RewardsCard class, which inherits from CreditCard. In this class, he would like for the interest to be lowered by 2% if the card holder has a credit score above 700. You propose the following class, where credit_card is a CreditCard object:\n\n\nHow would your boss most likely react to this implementation of his idea?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "5b265f07-84ed-4ed1-b8a2-740875f4d059",
+        "index": 0,
+        "body": "Your boss is happy because the code works as intended.",
+        "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "aa583d26-5c1a-49e0-b859-3573716853a8",
+        "index": 1,
+        "body": "Your boss is disappointed because you reused the function name of \"calculate_interest\", which will not work, because you already have a method by that name in the super class.",
+        "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "fae01fc6-d139-4dae-8ea2-eea8d29cea3e",
+        "index": 2,
+        "body": "Your boss is disappointed because the Reward Card's adjusted_interest_rate was never modified.",
+        "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "0d3eee1f-7060-400d-8508-ad093df00770",
+        "index": 3,
+        "body": "Both B and C are correct.",
+        "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "31828882",
+    "timeSpentVideo": "6147143",
+    "submissions": 246,
+    "submissionsCorrect": 112,
+    "accuracy": 0.45528455284552843,
+    "difficulty": 0.7817919075144508
+  },
+  "resources": [
+    {
+      "id": "be751363-b43d-4b05-af7f-9553224f6a9e",
+      "type": "CODE",
+      "data": {
+        "content": "#  Let's keep working with the same code as the previous question:\n\nclass CreditCard:\n    def __init__(self, balance, interest_rate):\n        self.balance = balance\n        self.interest_rate = interest_rate\n    def calculate_interest(self):\n        monthly_interest_rate = self.interest_rate / 12 \n        monthly_interest = self.balance * monthly_interest_rate \n        return monthly_interest\n    def calculate_total_payment(self):\n        monthly_interest = self.calculate_interest() \n        total_payment = self.balance + monthly_interest \n        return total_payment\nclass Card(CreditCard):\n    def __init__(self, card_number, card_holder, balance, interest_rate):\n        super().__init__(balance, interest_rate) \n        self.card_number = card_number \n        self.card_holder = card_holder\n        \n# New code for this question:\n\nclass RewardsCard(CreditCard):\n    def __init__(self, credit_card, credit_score):\n        super().__init__(credit_card.balance, credit_card.interest_rate) \n        self.credit_score = credit_score\n        self.adjusted_interest_rate = credit_card.interest_rate\n    def calculate_interest(self):\n        if self.credit_score > 700:\n            adjusted_interest_rate = self.adjusted_interest_rate - 2.0\n            return adjusted_interest_rate\n        else:\n            return super().calculate_interest()",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "a4df2f83-e6fe-420a-a78d-9cf77f4657b9",
+    "body": "",
+    "questionId": "28d9200e-9cdd-40bc-803a-dda1e3334a63",
+    "resources": [
+      {
+        "id": "b0ba9d8c-9b17-430c-a03b-891e79f82eaf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=jLiI0XzDcDUVyLWv&t=4127"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a4df2f83-e6fe-420a-a78d-9cf77f4657b9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

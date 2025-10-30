@@ -1,0 +1,91 @@
+{
+  "id": "e3cc9cc5-2911-4cdf-94f0-35ef564d011d",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Find the runtime expression for the factorial function in terms of n. Assume all variables are integers.",
+    "solution": "Verify that your solution is $\\Theta(n)$\nOne specific answer could be:\n$T(n)=A+T(n-1); T(1)=B$\nThus\n$T(n)=A*n+B$",
+    "answerChoices": []
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "109360828",
+    "timeSpentVideo": "0",
+    "submissions": 624,
+    "submissionsCorrect": 533,
+    "accuracy": 0.8541666666666666,
+    "difficulty": 0.44475138121546964
+  },
+  "resources": [
+    {
+      "id": "fadbae81-48e2-47e4-92f5-362b9503825a",
+      "type": "CODE",
+      "data": {
+        "content": "function factorial(n)\n    if (n <= 1)\n        return 1\n    end if\n    return n * factorial(n - 1)\nend function\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e3cc9cc5-2911-4cdf-94f0-35ef564d011d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "1de3b056-4e8f-43ca-bfb5-785158c6782e",
+    "body": null,
+    "questionId": "e3cc9cc5-2911-4cdf-94f0-35ef564d011d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

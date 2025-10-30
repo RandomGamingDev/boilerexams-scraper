@@ -1,0 +1,158 @@
+{
+  "id": "0226e996-bda1-416c-bd1f-87debde82814",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the matrix $A=\\left[\\begin{array}{ll}5 & 1 \\\\ 0 & 5\\end{array}\\right]$, which of the following statements is true?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "65d1298d-1e69-4d85-a335-51f5055d9d5c",
+        "index": 0,
+        "body": "$A$ is both invertible and diagonalizable.",
+        "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+        "stats": {
+          "count": 177
+        },
+        "resources": []
+      },
+      {
+        "id": "2f78be2f-0959-4d30-af95-c6404f87bc7f",
+        "index": 1,
+        "body": "$A$ is invertible but not diagonalizable.",
+        "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+        "stats": {
+          "count": 1052
+        },
+        "resources": []
+      },
+      {
+        "id": "bf4a675d-bf4d-428d-a434-b87d8b5c01d0",
+        "index": 2,
+        "body": "$A$ is diagonalizable but not invertible.",
+        "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "7f092b71-ddc2-472c-9015-ff7e1519c9ea",
+        "index": 3,
+        "body": "$A$ is neither invertible nor diagonalizable.",
+        "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "0675d2d6-8f84-451c-95ac-9ab1db1bf469",
+        "index": 4,
+        "body": "There is not enough information to determine whether $A$ is diagonalizable or invertible.",
+        "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "102546442",
+    "timeSpentVideo": "25620621",
+    "submissions": 1380,
+    "submissionsCorrect": 1052,
+    "accuracy": 0.7623188405797101,
+    "difficulty": 0.5054054054054054
+  },
+  "resources": [],
+  "exam": {
+    "id": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5256686073",
+      "timeSpentVideo": "817078114",
+      "submissions": 28962,
+      "submissionsCorrect": 18421,
+      "questions": 25,
+      "accuracy": 0.636040328706581,
+      "difficulty": 0.6144277751015071
+    }
+  },
+  "explanation": {
+    "id": "48662616-5e1a-4a79-bccf-a85e6dcbeb27",
+    "body": "",
+    "questionId": "0226e996-bda1-416c-bd1f-87debde82814",
+    "resources": [
+      {
+        "id": "740d7ff4-01de-4a77-9d4c-04b3b48bc17b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/HumaprXFL5g?t=2756\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "48662616-5e1a-4a79-bccf-a85e6dcbeb27",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    }
+  ],
+  "children": []
+}

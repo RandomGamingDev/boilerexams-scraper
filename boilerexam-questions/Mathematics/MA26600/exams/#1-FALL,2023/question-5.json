@@ -1,0 +1,143 @@
+{
+  "id": "a3346366-f4d9-46f9-a195-f542890d0746",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $y(x)$ is the solution to the initial value problem\n\\[\ny'' + y' - 2 y = 0, \\quad y(0) = 4, \\quad y'(0) = 1,\n\\]\nthen $y(1) + y'(1) = ?$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "129a55e6-d3e9-4424-b000-b8876eac7071",
+        "index": 0,
+        "body": "$6 e - e^{-2}$",
+        "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+        "stats": {
+          "count": 544
+        },
+        "resources": []
+      },
+      {
+        "id": "309fa5f0-ccb0-4f9d-a098-7dc64a1512bb",
+        "index": 1,
+        "body": "$3 e - e^2$",
+        "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "0f434370-3239-4095-afb4-2fd0146bd1f7",
+        "index": 2,
+        "body": "$6 e$",
+        "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "039dee4e-6b8b-4bab-ae42-f992e72c2cc6",
+        "index": 3,
+        "body": "$e - 3 e^{-2}$",
+        "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "8af80e4e-622c-402d-8a9b-4cd2f0dcd8c9",
+        "index": 4,
+        "body": "$-3 e^{-2}$",
+        "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "175115960",
+    "timeSpentVideo": "6373282",
+    "submissions": 674,
+    "submissionsCorrect": 544,
+    "accuracy": 0.8071216617210683,
+    "difficulty": 0.4825581395348837
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "1c755e27-804f-40be-a427-b910a8d4bbc1",
+    "body": null,
+    "questionId": "a3346366-f4d9-46f9-a195-f542890d0746",
+    "resources": [
+      {
+        "id": "9001f9f2-ba88-4221-b308-14c315882604",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=Ga1rGH8A_oRrbsTs&t=1317"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1c755e27-804f-40be-a427-b910a8d4bbc1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

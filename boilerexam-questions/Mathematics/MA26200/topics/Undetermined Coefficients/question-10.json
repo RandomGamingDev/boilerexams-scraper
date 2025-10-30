@@ -1,0 +1,128 @@
+{
+  "id": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the general solution to the differential equation\n\n\n\n\\[\ny^{(5)}+4 y^{(4)}+5 y^{\\prime \\prime \\prime}=0\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "133654cf-5aba-45fb-8cdd-069ffd02098b",
+        "index": 0,
+        "body": "$y=C_{1}+C_{2} e^{-2 x} \\cos x+C_{3} e^{-2 x} \\sin x$",
+        "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "53d8a828-11e9-4a7c-855a-dfbc5b03348f",
+        "index": 1,
+        "body": "$y=C_{1}+C_{2} x+C_{3} x^{2}+C_{4} e^{-2 x} \\cos x+C_{5} e^{-2 x} \\sin x$",
+        "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+        "stats": {
+          "count": 714
+        },
+        "resources": []
+      },
+      {
+        "id": "d7afe4ce-fa54-4384-9276-d6ab32cd4d9c",
+        "index": 2,
+        "body": "$y=C_{1} e^{x}+C_{2} x e^{x}+C_{3} x^{2} e^{x}+C_{4} e^{-2 x} \\cos x+C_{5} e^{-2 x} \\sin x$",
+        "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "b5984809-01a7-4c1b-93c5-0805e69317b7",
+        "index": 3,
+        "body": "$y=C_{1}+C_{2} x+C_{3} x^{2}+C_{4} e^{-x}+C_{5} e^{-5 x}$",
+        "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "9e390e41-e120-47ba-8e82-868141fb6c66",
+        "index": 4,
+        "body": "$y=C_{1}+C_{2} x+C_{3} x^{2}+C_{4} e^{x} \\cos 2 x+C_{5} e^{x} \\sin 2 x$",
+        "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "172601158",
+    "timeSpentVideo": "0",
+    "submissions": 1012,
+    "submissionsCorrect": 714,
+    "accuracy": 0.7055335968379447,
+    "difficulty": 0.5629496402877698
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "764c6f40-322b-438f-ac78-16e4fd08e5a7",
+    "body": "",
+    "questionId": "9ec67dd9-e2f5-40a9-ab46-775231fa7226",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "041a4bc4-e76d-4d3e-98c1-1db1398ffae8",
+      "name": "Undetermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "798212898",
+        "timeSpentVideo": "0",
+        "submissions": 2226,
+        "submissionsCorrect": 1419,
+        "questions": 3,
+        "accuracy": 0.637466307277628,
+        "difficulty": 0.6184436801375752
+      }
+    }
+  ],
+  "children": []
+}

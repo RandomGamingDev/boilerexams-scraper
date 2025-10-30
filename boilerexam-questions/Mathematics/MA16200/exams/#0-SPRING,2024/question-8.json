@@ -1,0 +1,158 @@
+{
+  "id": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the value of A if \\[\\int_0^{\\pi/2}e^{2t}\\sin{(t)}dt=A+\\int_0^{\\pi/2}2e^{2t}\\cos{(t)}dt.\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "eb6e560b-2d31-40cc-a9ae-f439c38628c4",
+        "index": 0,
+        "body": "-1",
+        "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "5cfe526d-e17a-46db-b2e5-ede331061318",
+        "index": 1,
+        "body": "1/2",
+        "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "537e2259-4648-4cdf-8f1d-15cac7873905",
+        "index": 2,
+        "body": "2",
+        "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "1196cb36-eb13-4ca2-97a7-63fa5695ad31",
+        "index": 3,
+        "body": "$-e^\\pi$",
+        "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "46719757-b7a9-43a5-89ad-003f8d0f9fe3",
+        "index": 4,
+        "body": "1",
+        "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+        "stats": {
+          "count": 495
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "202043206",
+    "timeSpentVideo": "31336040",
+    "submissions": 1044,
+    "submissionsCorrect": 495,
+    "accuracy": 0.47413793103448276,
+    "difficulty": 0.7736013986013985
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "0422ad6d-3054-4f54-9c44-5d50ed71be68",
+    "body": "In the computation for this question I made a typo around 54:30. After plugging in my values into the formula for integration by parts, I wrote out $e^{2t}(-\\cos{(t)})+\\int_0^{\\pi/2}e^{2t}\\cos{(t)}dt$. This equation should actually be $e^{2t}(-\\cos{(t)})+\\int_0^{\\pi/2}2e^{2t}\\cos{(t)}dt$",
+    "questionId": "90dfe32d-d4e5-4648-a570-ac9b9445cee3",
+    "resources": [
+      {
+        "id": "49dc1ff0-26a3-440e-bf36-fb802cc4f592",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=2937s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0422ad6d-3054-4f54-9c44-5d50ed71be68",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

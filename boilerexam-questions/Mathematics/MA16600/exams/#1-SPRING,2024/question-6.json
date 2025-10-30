@@ -1,0 +1,143 @@
+{
+  "id": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the region enclosed by the line $y=x$ and $y=x^3$ in the first quadrant. Find the formula for the volume of the solid obtained by rotating the region about the $x$-axis by the Washer method. ",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cbe3204a-53a5-4f73-b257-49bd51594f0c",
+        "index": 0,
+        "body": "$\\int_0^1 \\pi(x^2-x^6)dx$",
+        "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "92f2681b-294a-4982-a472-eb4e07818059",
+        "index": 1,
+        "body": "$\\int_0^1 \\pi(x^2-x^9)dx$",
+        "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "658e82e5-7258-4313-8721-7c5d6a682dc8",
+        "index": 2,
+        "body": "$\\int_0^1 2\\pi(y^{2/3}-y^2)dy$",
+        "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "0077aed0-847f-4618-98db-7e9796c16538",
+        "index": 3,
+        "body": "$\\int_0^1 \\pi(x-x^3)dx$",
+        "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "a93939fc-d56c-4f3e-b823-336a7cae0251",
+        "index": 4,
+        "body": "$\\int_0^1 2\\pi y(y-y^{1/3})dy$",
+        "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "9126164",
+    "timeSpentVideo": "316739",
+    "submissions": 59,
+    "submissionsCorrect": 36,
+    "accuracy": 0.6101694915254238,
+    "difficulty": 0.7091194968553459
+  },
+  "resources": [],
+  "exam": {
+    "id": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "172622659",
+      "timeSpentVideo": "15425885",
+      "submissions": 780,
+      "submissionsCorrect": 456,
+      "questions": 12,
+      "accuracy": 0.5846153846153846,
+      "difficulty": 0.675
+    }
+  },
+  "explanation": {
+    "id": "3f89d505-1fd2-4498-8568-9373c5dee453",
+    "body": null,
+    "questionId": "b0cb6f26-d9be-48cf-b92d-babc44d3dd14",
+    "resources": [
+      {
+        "id": "ef2c9304-f000-4be1-863f-aea4407d8336",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/mOcl8_sNs7M?si=I19szpaa0nAkC-qj&t=1600"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3f89d505-1fd2-4498-8568-9373c5dee453",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75951154-7b2d-4eb9-b027-5eace6f0ac0f",
+      "name": "Volume of Solid",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "262466516",
+        "timeSpentVideo": "3325340",
+        "submissions": 220,
+        "submissionsCorrect": 138,
+        "questions": 5,
+        "accuracy": 0.6272727272727273,
+        "difficulty": 0.6625
+      }
+    }
+  ],
+  "children": []
+}

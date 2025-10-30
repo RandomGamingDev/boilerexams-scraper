@@ -1,0 +1,91 @@
+{
+  "id": "20653e45-0c19-42ac-996c-b64e48d62c08",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let $L$ be a list of n 10-digit numbers. Bruno proposes the attached algorithm for sorting the n numbers:\n\nPeople say we don\u2019t talk about Bruno\u2019s algorithm because it doesn\u2019t work. Describe the correction(s)\nthat would make Bruno Sort work on all values in $L$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 25,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "26724947",
+    "timeSpentVideo": "0",
+    "submissions": 321,
+    "submissionsCorrect": 277,
+    "accuracy": 0.8629283489096573,
+    "difficulty": 0.4732779097387173
+  },
+  "resources": [
+    {
+      "id": "721770f1-c34e-4b06-85de-014fe3b5169e",
+      "type": "CODE",
+      "data": {
+        "content": "algorithm BrunoSort(L):\n    for (i = 0; i < 9; i = i + 1)\n        // Use Selection Sort to sort the numbers based on the i-th digit.\n    end for\nend algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "20653e45-0c19-42ac-996c-b64e48d62c08",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "cc0f1615-352f-43cb-908a-84bcad3257fb",
+    "body": null,
+    "questionId": "20653e45-0c19-42ac-996c-b64e48d62c08",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

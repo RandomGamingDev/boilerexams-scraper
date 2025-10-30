@@ -1,0 +1,143 @@
+{
+  "id": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the method of undetermined coefficients, find the correct form of a particular\nsolution $y_p$ of\n\\[\ny''' - 4y' = t + 3\\cos(t) + e^{-2t}.\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "e0db431f-7e59-43b9-945a-091da2fb079f",
+        "index": 0,
+        "body": "$At + B + C\\cos(t) + D\\sin(t) + Ete^{-2t}$",
+        "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "f2716ae3-b8e3-4baa-8eb1-8b7fdd08ea49",
+        "index": 1,
+        "body": "$At^2 + Bt + C\\cos(t) + D\\sin(t) + Ee^{-2t}$",
+        "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "bd791bd0-a01a-49d9-9f63-ebe87a465c61",
+        "index": 2,
+        "body": "$At^2 + Bt + Ct\\cos(t) + Dt\\sin(t) + Ete^{-2t}$",
+        "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "740d2e08-ba8a-415c-9419-41c10c11f708",
+        "index": 3,
+        "body": "$At + B + Ct\\cos(t) + Dt\\sin(t) + Ete^{-2t}$",
+        "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "265ad9ba-71a5-4caf-b5a3-33639da66585",
+        "index": 4,
+        "body": "$At^2 + Bt + C\\cos(t) + D\\sin(t) + Ete^{-2t}$",
+        "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "10223656",
+    "timeSpentVideo": "2913015",
+    "submissions": 34,
+    "submissionsCorrect": 11,
+    "accuracy": 0.3235294117647059,
+    "difficulty": 0.7947761194029851
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "2516065f-f8e1-43b3-b61f-5b9390c536ea",
+    "body": null,
+    "questionId": "58418ed1-c1be-4506-b611-81078a0f6c2c",
+    "resources": [
+      {
+        "id": "5d46c765-a4fa-4168-988b-500d904dad9c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-0V2dZjptNg"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2516065f-f8e1-43b3-b61f-5b9390c536ea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

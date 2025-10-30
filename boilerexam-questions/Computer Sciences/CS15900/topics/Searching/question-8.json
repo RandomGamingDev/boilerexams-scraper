@@ -1,0 +1,133 @@
+{
+  "id": "3b5de9cf-1856-4e09-960a-e72383645838",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the searching algorithms introduced this semester is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "e41ccfda-53f7-439d-b58f-966e564a82ba",
+        "index": 0,
+        "body": "In the binary search the <font style=\"font-family:'Courier New'\">last</font> variable is only equal to the <font style=\"font-family:'Courier New'\">mid</font> variable when only a single location remains as possible location of the target value.",
+        "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
+        "stats": {
+          "count": 874
+        },
+        "resources": []
+      },
+      {
+        "id": "ddfe59f5-e303-4b7f-9661-b10745c1911e",
+        "index": 1,
+        "body": "Due to the cost associated with sorting data the binary search should be used with large data sets WITHOUT considering the frequency at which the data is searched.",
+        "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
+        "stats": {
+          "count": 4566
+        },
+        "resources": []
+      },
+      {
+        "id": "fa2f680c-8ed4-479d-9e44-fc85f33c6f71",
+        "index": 2,
+        "body": "With each unsuccessful comparison the binary search will eliminate approximately half of the remaining elements in the array as potential locations for the target.",
+        "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
+        "stats": {
+          "count": 185
+        },
+        "resources": []
+      },
+      {
+        "id": "c785bab8-aa26-476c-9351-6f3a73c53f99",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
+        "stats": {
+          "count": 361
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "898743613",
+    "timeSpentVideo": "0",
+    "submissions": 6025,
+    "submissionsCorrect": 4566,
+    "accuracy": 0.7578423236514523,
+    "difficulty": 0.4963673469387755
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "4fddc0b8-2545-4399-bfa3-395f77d352ba",
+    "body": "",
+    "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

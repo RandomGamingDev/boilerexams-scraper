@@ -1,0 +1,149 @@
+{
+  "id": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "\nA college dietitian has developed three diet plans, namely Diet 1, Diet 2, and Diet 3, to assist college students in losing weight. The weight of participants who followed these diet programs was measured in pounds both before starting the diet and after completing three months on the respective diet plan. The dietitian is investigating whether there are any differences in the effectiveness of these three diets in terms of the average weight loss achieved. Weight loss is defined as the difference between the weight measured after three months and the weight measured before starting the diet. The summary information for each diet is provided below.\n\nChoose the correct p-value associated with the ANOVA table in part (b) from the options below. Assume that F-ts, df-factor and df-error are the correct test statistic, degrees of freedom for factor, and degrees of freedom for error, respectively.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "e85f0512-63eb-4fcc-ae62-a25cfffec41b",
+        "index": 0,
+        "body": "pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = TRUE) = 0.9986727",
+        "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "145f9923-6b6c-4886-8f15-9b11eb10c732",
+        "index": 1,
+        "body": "pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = FALSE) = 0.001327266",
+        "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "efc22d89-497a-4063-befe-5bee6003a0fa",
+        "index": 2,
+        "body": "2*pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = FALSE) = 0.002654533",
+        "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "51428ac8-f1c7-4c17-bdf5-2a6a5dacdab8",
+        "index": 3,
+        "body": "pf(F-ts/2, df1 = df-factor, df2 = df-error, lower.tail = TRUE) = 0.9756361",
+        "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "8085091",
+    "timeSpentVideo": "2530063",
+    "submissions": 104,
+    "submissionsCorrect": 65,
+    "accuracy": 0.625,
+    "difficulty": 0.6862745098039216
+  },
+  "resources": [
+    {
+      "id": "673aa241-5f8e-4af7-ba05-4017e662fd1d",
+      "type": "IMAGE",
+      "data": {
+        "key": "cg_9UrtnBtqt-bBGxWnpq",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/cg_9UrtnBtqt-bBGxWnpq"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "c5b5fe74-2ea4-47ac-806c-53ef34771bed",
+    "body": null,
+    "questionId": "e612b375-dda9-4ed9-998f-a5f95b6f653c",
+    "resources": [
+      {
+        "id": "8cc8b331-b939-49cd-8645-8062573b7227",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=838"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c5b5fe74-2ea4-47ac-806c-53ef34771bed",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+      "name": "ANOVA",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "266660238",
+        "timeSpentVideo": "81603699",
+        "submissions": 1126,
+        "submissionsCorrect": 390,
+        "questions": 6,
+        "accuracy": 0.3463587921847247,
+        "difficulty": 0.8911092985318108
+      }
+    }
+  ],
+  "children": []
+}

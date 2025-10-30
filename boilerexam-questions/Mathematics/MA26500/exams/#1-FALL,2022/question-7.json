@@ -1,0 +1,158 @@
+{
+  "id": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $v_1=\\left[\\begin{array}{c}1 \\\\ 2 \\\\ 5\\end{array}\\right], \nv_2=\\left[\\begin{array}{c}-2 \\\\ -3 \\\\ 1\\end{array}\\right],\nx=\\left[\\begin{array}{c}-4 \\\\ -5 \\\\ 13\\end{array}\\right]$, and $B = \\{ v_1, v_2\\}$. Then $B$ is a basis for $H = span\\{v_1, v_2 \\}$. Determine if $x$ is in $H$, and if it is, find the coordinate vector of $x$ relative to $B$. \n\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c3cbc7ce-7837-4a51-8d2e-22fd4802a86a",
+        "index": 0,
+        "body": "$ [x]_B = \\left[\\begin{array}{c}1 \\\\ 2 \\end{array}\\right]$",
+        "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "5fa4637a-a639-4a4c-be4b-74dc45fbbb82",
+        "index": 1,
+        "body": "$ [x]_B = \\left[\\begin{array}{c}2 \\\\ 1 \\end{array}\\right]$",
+        "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "7a37a92f-3662-494c-8e08-5b85b59e3f02",
+        "index": 2,
+        "body": "$ [x]_B = \\left[\\begin{array}{c}2 \\\\ 2 \\end{array}\\right]$",
+        "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "8909e0c0-9a10-4711-a9f1-de868cbd932a",
+        "index": 3,
+        "body": "$ [x]_B = \\left[\\begin{array}{c}3 \\\\ 2 \\end{array}\\right]$",
+        "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "f11671af-1762-4131-9c70-9b3b1a0f808e",
+        "index": 4,
+        "body": "$ [x]_B = \\left[\\begin{array}{c}2\\\\ 3 \\end{array}\\right]$",
+        "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+        "stats": {
+          "count": 3141
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "876540317",
+    "timeSpentVideo": "195783563",
+    "submissions": 4348,
+    "submissionsCorrect": 3141,
+    "accuracy": 0.7224011039558418,
+    "difficulty": 0.5325989208633094
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "e357e7c1-5cea-4d8f-8524-0ca2efa60dba",
+    "body": "",
+    "questionId": "073e57a4-a506-4db3-8109-1d0b8a47b760",
+    "resources": [
+      {
+        "id": "f9da9f03-78dd-4d8f-b221-953de6c5c8b1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/d1_WSP0AS6c?t=2127"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e357e7c1-5cea-4d8f-8524-0ca2efa60dba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "49c9fcc9-6fa7-455b-8da5-060a1492f26b",
+      "name": "Coordinate Vectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7480608544",
+        "timeSpentVideo": "732924362",
+        "submissions": 13820,
+        "submissionsCorrect": 7773,
+        "questions": 4,
+        "accuracy": 0.5624457308248915,
+        "difficulty": 0.6880028735632184
+      }
+    }
+  ],
+  "children": []
+}

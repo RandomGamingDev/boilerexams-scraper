@@ -1,0 +1,197 @@
+{
+  "id": "44a89c89-098f-42d8-a110-d27c4842fb39",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Now is the time to consider the function that reads the customers file and loads its content into a list of dictionaries\n\nAndy says, \u201cWe can also reduce the length of this function, because files.\u201d And again, he is somehow correct. Which of the following implementations is equivalent to \\verb|readCustomersData()|?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e46a2080-acb8-476d-87ce-0615109087f9",
+        "index": 0,
+        "body": "$ $",
+        "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+        "stats": {
+          "count": 66
+        },
+        "resources": [
+          {
+            "id": "0fb2b62b-cfdc-403e-84b3-962375cc45a2",
+            "type": "CODE",
+            "data": {
+              "content": "def readCustomersData():\n    with open(\"customers.txt\", \"w\") as file:    \n        customers = [customerData(line) for line in file]\n    return customers\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "e46a2080-acb8-476d-87ce-0615109087f9",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "182fc9b0-1982-45d2-8ae6-ca10281f820f",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+        "stats": {
+          "count": 139
+        },
+        "resources": [
+          {
+            "id": "c14b790e-ce2f-4c19-92e3-a99ba36d551b",
+            "type": "CODE",
+            "data": {
+              "content": "def readCustomersData():\n    with open(\"customers.txt\", \"r\") as file:    \n        customers = [customerData(file) for line in file]\n    return customers\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "182fc9b0-1982-45d2-8ae6-ca10281f820f",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "d9167943-dcf4-4848-b0ab-665f06d74543",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+        "stats": {
+          "count": 23
+        },
+        "resources": [
+          {
+            "id": "c8ce212d-ed6f-4400-8255-dfc6687de5d1",
+            "type": "CODE",
+            "data": {
+              "content": "def readCustomersData():\n    with open(\"customers.txt\", \"w\") as file:    \n        customers = [customerData(file) for line in file]\n    return customers\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "d9167943-dcf4-4848-b0ab-665f06d74543",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "5374b55c-b521-455f-bc64-ae63da25aef5",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+        "stats": {
+          "count": 603
+        },
+        "resources": [
+          {
+            "id": "cd7991f4-0eb1-4198-a51a-5868e676b35c",
+            "type": "CODE",
+            "data": {
+              "content": "def readCustomersData():\n    with open(\"customers.txt\", \"r\") as file:    \n        customers = [customerData(line) for line in file]\n    return customers\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "5374b55c-b521-455f-bc64-ae63da25aef5",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "83651049",
+    "timeSpentVideo": "11983528",
+    "submissions": 839,
+    "submissionsCorrect": 603,
+    "accuracy": 0.7187127532777116,
+    "difficulty": 0.5545793397231097
+  },
+  "resources": [
+    {
+      "id": "30d6d692-1390-46f5-be00-db9150b6dd5b",
+      "type": "CODE",
+      "data": {
+        "content": "def readCustomersData():\n    customers = []\n    with open(\"customers.txt\", \"r\") as file:\n        for line in file:\n            customers.append(customerData(line))\n    return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "aeb6d727-11ae-4392-ace8-cc0924621a60",
+    "body": "",
+    "questionId": "44a89c89-098f-42d8-a110-d27c4842fb39",
+    "resources": [
+      {
+        "id": "a2bf6f6a-4c06-4049-9232-8674e28c1c40",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=KEwbU-jdGTM563Fw&t=2925"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aeb6d727-11ae-4392-ace8-cc0924621a60",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

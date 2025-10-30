@@ -1,0 +1,133 @@
+{
+  "id": "31c94457-7f5a-4c47-a834-ea8db809af07",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding functional cohesion is TRUE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2952616e-ba53-46dc-a5c4-84528c336cd8",
+        "index": 0,
+        "body": "Functional cohesion is a measure of how closely the processes in a function are related.",
+        "questionId": "31c94457-7f5a-4c47-a834-ea8db809af07",
+        "stats": {
+          "count": 1362
+        },
+        "resources": []
+      },
+      {
+        "id": "849f4535-8be4-4e22-a8aa-c73e69ec3f3e",
+        "index": 1,
+        "body": "The measure of functional cohesion is related to the number of times a function is called in a program.",
+        "questionId": "31c94457-7f5a-4c47-a834-ea8db809af07",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "43a94ccc-24bc-45ea-89a5-f2fc38bef719",
+        "index": 2,
+        "body": "A user-defined function that is never called in a program lacks functional cohesion.",
+        "questionId": "31c94457-7f5a-4c47-a834-ea8db809af07",
+        "stats": {
+          "count": 635
+        },
+        "resources": []
+      },
+      {
+        "id": "288d9c17-33d9-45a7-baf4-9797f3e14a29",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "31c94457-7f5a-4c47-a834-ea8db809af07",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 47,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "126085034",
+    "timeSpentVideo": "0",
+    "submissions": 2153,
+    "submissionsCorrect": 1362,
+    "accuracy": 0.6326056665118439,
+    "difficulty": 0.6232800710164226
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "741d79e1-6d3c-47aa-aa15-a14074a4d1d9",
+    "body": "",
+    "questionId": "31c94457-7f5a-4c47-a834-ea8db809af07",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine which of the following statements are true and which are false.\n\n\n\n(I) If $\\sum_{n=1}^{\\infty} a_{n}$ is convergent, then $\\sum_{n=1}^{\\infty}\\left|a_{n}\\right|$ is convergent.\n\n(II) If $a_{n}>0, b_{n}>0, \\sum_{n=1}^{\\infty} b_{n}$ is convergent, and $b_{n} \\leq a_{n}$, then $\\sum_{n=1}^{\\infty} a_{n}$ is convergent.\n\n(III) If $a_{n}>0, b_{n}>0, \\sum_{n=1}^{\\infty} b_{n}$ is convergent, and $\\lim _{n \\rightarrow \\infty} \\frac{a_{n}}{b_{n}}=\\frac{1}{2}$, then $\\sum_{n=1}^{\\infty} a_{n}$ is convergent.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4de2c39a-306e-4ae3-9822-9de5c88d899f",
+        "index": 0,
+        "body": "II is true; I and III are false.",
+        "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+        "stats": {
+          "count": 238
+        },
+        "resources": []
+      },
+      {
+        "id": "64f84160-6cfe-48f3-becd-9e61d3bee510",
+        "index": 1,
+        "body": "III is true; I and II are false.",
+        "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+        "stats": {
+          "count": 1914
+        },
+        "resources": []
+      },
+      {
+        "id": "4550cbd3-d922-48ce-bb8f-267de40b5f40",
+        "index": 2,
+        "body": "I is true; II and III are false.",
+        "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+        "stats": {
+          "count": 224
+        },
+        "resources": []
+      },
+      {
+        "id": "46d83624-f04b-41df-8219-7e6adf63692a",
+        "index": 3,
+        "body": "I and II are true; III is false.",
+        "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "590dc44c-cb0e-4f4d-b36a-2cde1ee3c8dd",
+        "index": 4,
+        "body": " I, II, and III are false",
+        "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "331090320",
+    "timeSpentVideo": "28299289",
+    "submissions": 2719,
+    "submissionsCorrect": 1914,
+    "accuracy": 0.7039352703199706,
+    "difficulty": 0.5532990422135509
+  },
+  "resources": [],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838494299",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83621,
+      "submissionsCorrect": 49985,
+      "questions": 25,
+      "accuracy": 0.5977565444087012,
+      "difficulty": 0.652360220255372
+    }
+  },
+  "explanation": {
+    "id": "9974a420-0d6f-4e74-b3f6-3e60e5396d45",
+    "body": "",
+    "questionId": "0fc707f0-3eef-477f-951c-05f92e8ea0a5",
+    "resources": [
+      {
+        "id": "163cce3e-2754-4cad-9c59-7f484b833952",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/dqI7VYbGoVc?t=365\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9974a420-0d6f-4e74-b3f6-3e60e5396d45",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266771297",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102215,
+        "submissionsCorrect": 63359,
+        "questions": 31,
+        "accuracy": 0.6198600988113291,
+        "difficulty": 0.630257049308508
+      }
+    }
+  ],
+  "children": []
+}

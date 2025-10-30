@@ -1,0 +1,153 @@
+{
+  "id": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the derivative of $y = 6\\sqrt{x}-\\frac{3}{x^2}-8\\sqrt[4]{x^5}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "907241d7-5d12-474c-9ce0-e89d76c3c99f",
+        "index": 0,
+        "body": "$\\frac{6}{\\sqrt{x}}+\\frac{6}{x^3}-10\\sqrt[4]{x}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "b2a644f3-a413-4bf1-b257-9c9cd705bdd0",
+        "index": 1,
+        "body": "$\\frac{3}{\\sqrt{x}}-\\frac{3}{2x}-10\\sqrt[4]{x}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "b0945b84-e099-4e0f-ab9e-0b7e11a1328e",
+        "index": 2,
+        "body": "$\\frac{6}{\\sqrt{x}}-\\frac{3}{2x}-\\frac{32}{5\\sqrt[4]{x}}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "57bbe6a9-363c-48d2-9977-654df9c76a45",
+        "index": 3,
+        "body": "$\\frac{3}{\\sqrt{x}}+\\frac{6}{x^3}-10\\sqrt[4]{x}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      },
+      {
+        "id": "7dfa003e-6834-4b69-bb2c-acd5f4c24693",
+        "index": 4,
+        "body": "$\\frac{6}{\\sqrt{x}}+\\frac{6}{x^3}-\\frac{32}{5\\sqrt[4]{x}}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "99cafb42-15c2-48c6-9544-69473dc34586",
+        "index": 5,
+        "body": "$\\frac{3}{\\sqrt{x}}+\\frac{6}{x^3}-\\frac{32}{5\\sqrt[4]{x}}$",
+        "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "66852276",
+    "timeSpentVideo": "5574331",
+    "submissions": 288,
+    "submissionsCorrect": 189,
+    "accuracy": 0.65625,
+    "difficulty": 0.634020618556701
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "424b6d4e-b020-49ed-b03a-ee252c9604b4",
+    "body": null,
+    "questionId": "0c4a29f2-abf0-4b79-84e6-4eebeb777e26",
+    "resources": [
+      {
+        "id": "a8f42b8b-dae5-4084-bbb8-874f9ee7bf54",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=BqNu8G8-5XAFW48r&t=1269"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "424b6d4e-b020-49ed-b03a-ee252c9604b4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cae2ab69-f512-4331-bace-ce5036bbdc52",
+      "name": "Derivatives E1",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1110546051",
+        "timeSpentVideo": "26984983",
+        "submissions": 1834,
+        "submissionsCorrect": 1230,
+        "questions": 7,
+        "accuracy": 0.6706652126499455,
+        "difficulty": 0.5881592554291624
+      }
+    }
+  ],
+  "children": []
+}

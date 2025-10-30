@@ -1,0 +1,143 @@
+{
+  "id": "432f9259-a55b-4da6-9c91-57417d0c6525",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$ $ The region enclosed by the curve \\(y = \\sin x\\), \\(0 \\leq x \\leq \\pi\\), and the x-axis is rotated about the line \\(y = -1\\). The volume of the generated solid is:\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "468741c4-1da8-4e9e-bd05-91d4c11a0d60",
+        "index": 0,
+        "body": "$ $ \\[\u03c0 \\int_{0}^{\u03c0} \\ ((sin x + 1)^2 - 1) \\,dx \\]",
+        "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+        "stats": {
+          "count": 2715
+        },
+        "resources": []
+      },
+      {
+        "id": "128fefa6-b9a6-49d3-94e5-7cc8f2f6b6b7",
+        "index": 1,
+        "body": "$ $ \\[\u03c0 \\int_{0}^{\u03c0} \\ (sin ^2x + 1)\\,dx \\]",
+        "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+        "stats": {
+          "count": 797
+        },
+        "resources": []
+      },
+      {
+        "id": "3a41a8bb-7b30-46b7-ab4b-ff079d19e042",
+        "index": 2,
+        "body": "$ $\\[2\u03c0 \\int_{0}^{\u03c0} \\ x(sin x + 1)\\,dx \\]",
+        "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+        "stats": {
+          "count": 319
+        },
+        "resources": []
+      },
+      {
+        "id": "69045aac-8111-4211-a45b-950823d56164",
+        "index": 3,
+        "body": "$ $\\[2\u03c0 \\int_{0}^{\u03c0} \\ x(sin x + 1)^{2}\\,dx \\]",
+        "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+        "stats": {
+          "count": 173
+        },
+        "resources": []
+      },
+      {
+        "id": "925210e5-6ce8-4389-9b6e-5833961d6070",
+        "index": 4,
+        "body": "$ $\\[\u03c0 \\int_{0}^{\u03c0} \\ (sin ^2x - 1)^2\\,dx \\]",
+        "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "75544df7-aaa9-4e3b-aa64-5278d1003abb",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "837105373",
+    "timeSpentVideo": "87047730",
+    "submissions": 4514,
+    "submissionsCorrect": 2715,
+    "accuracy": 0.6014621178555605,
+    "difficulty": 0.6507368877329865
+  },
+  "resources": [],
+  "exam": {
+    "id": "75544df7-aaa9-4e3b-aa64-5278d1003abb",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11628555345",
+      "timeSpentVideo": "833542538",
+      "submissions": 51944,
+      "submissionsCorrect": 32761,
+      "questions": 12,
+      "accuracy": 0.6306984444786693,
+      "difficulty": 0.6195526861886096
+    }
+  },
+  "explanation": {
+    "id": "89a0e2f1-45cd-4e0a-a02c-bac3bbf61f27",
+    "body": "",
+    "questionId": "432f9259-a55b-4da6-9c91-57417d0c6525",
+    "resources": [
+      {
+        "id": "2ba27ede-a142-4f59-8877-20890744900a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8_y0-lzxvN0?t=845"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89a0e2f1-45cd-4e0a-a02c-bac3bbf61f27",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79755eab-93f7-44ec-9e79-cedd45a22d1a",
+      "name": "Volume of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23308108625",
+        "timeSpentVideo": "1117444870",
+        "submissions": 50426,
+        "submissionsCorrect": 30657,
+        "questions": 16,
+        "accuracy": 0.6079601792725975,
+        "difficulty": 0.6422534932509995
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "When input into a binary search tree, which of the following insert orders for the values 1-10 will NOT result in a worst-case structure?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f4fd7a71-3ef5-4fec-bcb7-9e1c6af63b46",
+        "index": 0,
+        "body": "10, 9, 2, 4, 3, 7, 5, 6, 1, 8",
+        "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+        "stats": {
+          "count": 1129
+        },
+        "resources": []
+      },
+      {
+        "id": "a9cda963-327a-445c-a274-b2c1fc0388c7",
+        "index": 1,
+        "body": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+        "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "cbdb7f9f-7a68-4c8f-9164-d61122cc34ff",
+        "index": 2,
+        "body": "1, 10, 9, 2, 3, 8, 4, 7, 5, 6",
+        "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+        "stats": {
+          "count": 206
+        },
+        "resources": []
+      },
+      {
+        "id": "2cf280fc-8edc-4a82-93d8-ea7fb215d0e4",
+        "index": 3,
+        "body": "10, 9, 8, 1, 2, 3, 7, 6, 4, 5",
+        "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "c4f50142-21b1-431f-b6d3-3ec4733166c1",
+        "index": 4,
+        "body": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1",
+        "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "273481991",
+    "timeSpentVideo": "24016335",
+    "submissions": 1764,
+    "submissionsCorrect": 1097,
+    "accuracy": 0.6218820861678005,
+    "difficulty": 0.634656652360515
+  },
+  "resources": [],
+  "exam": {
+    "id": "dd3912da-1c23-4c2e-906e-d207d1b20505",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1449075382",
+      "timeSpentVideo": "76169212",
+      "submissions": 7807,
+      "submissionsCorrect": 5561,
+      "questions": 5,
+      "accuracy": 0.7123094658639683,
+      "difficulty": 0.5403756165423043
+    }
+  },
+  "explanation": {
+    "id": "f134abb1-f307-435a-8a95-fca383939047",
+    "body": "",
+    "questionId": "5ac58efb-5032-4157-8d2f-37512f4a01f5",
+    "resources": [
+      {
+        "id": "9484e32e-f02f-4f71-8159-1b25f935c591",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QSvOryxofV4?si=CFaoiKSJ0TboZqsP"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f134abb1-f307-435a-8a95-fca383939047",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17a3959f-bfec-46b4-b484-343beba28722",
+      "name": "Binary Search Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3196225368",
+        "timeSpentVideo": "132107689",
+        "submissions": 7887,
+        "submissionsCorrect": 5730,
+        "questions": 7,
+        "accuracy": 0.7265119817421073,
+        "difficulty": 0.5263240265431326
+      }
+    }
+  ],
+  "children": []
+}

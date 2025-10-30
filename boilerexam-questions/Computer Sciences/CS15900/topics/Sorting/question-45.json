@@ -1,0 +1,134 @@
+{
+  "id": "4dba8773-5495-4265-ab87-cd539deab6bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following sorting algorithms is being implemented in the program?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f7ab5a2c-b31c-4c55-90e3-a0e23a111745",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Selection sort.</font>",
+        "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+        "stats": {
+          "count": 555
+        },
+        "resources": []
+      },
+      {
+        "id": "676b1a2c-dd9f-4775-b8f7-f1d708d2625b",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">Bubble sort.</font>",
+        "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+        "stats": {
+          "count": 911
+        },
+        "resources": []
+      },
+      {
+        "id": "86064778-616d-49fb-829c-db608619ca91",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Insertion sort.</font>",
+        "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+        "stats": {
+          "count": 1930
+        },
+        "resources": []
+      },
+      {
+        "id": "19589c98-e145-46c2-af56-ebd395e4100f",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 45,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "573209818",
+    "timeSpentVideo": "0",
+    "submissions": 3495,
+    "submissionsCorrect": 1930,
+    "accuracy": 0.5522174535050072,
+    "difficulty": 0.6992350486787204
+  },
+  "resources": [
+    {
+      "id": "fc53db70-d6b7-401f-99ac-a69c208b70ed",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nvoid sortArray(int[], int);\n\nint main(void)\n{\n  int list[10] = {10, 2, 4, 3, 6, 8, 7, 9, 5, 1};\n  sortArray(list, 10);\n  \n  return(0);\n}\n\nvoid sortArray(int list[], int last)\n{\n  int counter;\n  int temp;\n  int located;\n  int current;\n  \n  for(current = 1; current < last; current++)\n  {\n    located = 0;\n    temp = list[current];\n    counter = current - 1;\n    while(counter >= 0 && !located)\n    {\n      if(temp < list[counter])\n      {\n        list[counter + 1] = list[counter];\n        counter--;\n      }\n      else\n      {\n        located = 1;\n      }\n        list[counter + 1] = temp;\n    }\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "0109c337-614d-4a2a-8ead-a230e3683da1",
+    "body": "",
+    "questionId": "4dba8773-5495-4265-ab87-cd539deab6bc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

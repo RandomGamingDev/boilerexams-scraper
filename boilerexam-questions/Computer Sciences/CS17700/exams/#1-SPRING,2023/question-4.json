@@ -1,0 +1,149 @@
+{
+  "id": "f3067447-d1f3-492e-aa37-deb935426099",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Julieta, the healer of the family, notices that replacing lines 13 and 14 using either Bruno's or Mariano's statement will introduce an issue in the code. Which issue is Julieta referring to?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "bef70a74-1876-40b3-8983-fb1b0ef80cd7",
+        "index": 0,
+        "body": "A syntax error in line 16 because the \\verb|else| statement will not have a previous \\verb|if| statement.",
+        "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+        "stats": {
+          "count": 778
+        },
+        "resources": []
+      },
+      {
+        "id": "aa863554-8131-47ab-91aa-3d79b92a7171",
+        "index": 1,
+        "body": "An out-of-range error due to accessing a character index beyond the message length.",
+        "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "ae2ccc75-c3ce-4f14-9648-d3cb67d70076",
+        "index": 2,
+        "body": "Variable \\verb|others| will always be 0.",
+        "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+        "stats": {
+          "count": 177
+        },
+        "resources": []
+      },
+      {
+        "id": "3c1f2f21-a3d6-46a0-8405-58ed0dbc980c",
+        "index": 3,
+        "body": "The \\verb|while| loop in line 9 will run forever.",
+        "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "69994973",
+    "timeSpentVideo": "4309004",
+    "submissions": 1128,
+    "submissionsCorrect": 778,
+    "accuracy": 0.6897163120567376,
+    "difficulty": 0.5757328990228013
+  },
+  "resources": [
+    {
+      "id": "4370e1aa-0030-4e14-b76e-6e4c2498b93c",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nmessage = input(\"Write a message: \")\n\nvowels = 0\nothers = 0\nindex = 0\nlength = len(message)\n\nwhile index < length:\n\n    l = message[index]\n\n    if l == \"a\" or l == \"e\" or l == \"i\" or l == \"o\" or l == \"u\":\n        vowels = vowels + 1\n\n    else:\n        others = others + 1\n\n    index = index + 1\n\ntally = \"The message has \" + str(vowels) + \" vowels and \" + str(others) + \" others.\"\nprint(tally)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1663379579",
+      "timeSpentVideo": "70548358",
+      "submissions": 16006,
+      "submissionsCorrect": 11041,
+      "questions": 15,
+      "accuracy": 0.6898038235661627,
+      "difficulty": 0.56137464299019
+    }
+  },
+  "explanation": {
+    "id": "aac1f4eb-c493-4bb8-83fb-c4872caa5775",
+    "body": "",
+    "questionId": "f3067447-d1f3-492e-aa37-deb935426099",
+    "resources": [
+      {
+        "id": "6c626de2-6d87-4197-8948-2a1ba05c5309",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=eVo1TLR_4Jaul8SU&t=1562"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aac1f4eb-c493-4bb8-83fb-c4872caa5775",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "370b1649-4c4e-4d91-9429-64041ebfe509",
+      "name": "Ternary Operators",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1062752701",
+        "timeSpentVideo": "16009852",
+        "submissions": 5344,
+        "submissionsCorrect": 4008,
+        "questions": 6,
+        "accuracy": 0.75,
+        "difficulty": 0.5045922116091109
+      }
+    }
+  ],
+  "children": []
+}

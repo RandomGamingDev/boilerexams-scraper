@@ -1,0 +1,128 @@
+{
+  "id": "8851fb89-a3db-4024-96b0-08faa867facc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the method of variation of parameters, we know that a particular solution to the differential equation\n\n\n\\[\ny^{\\prime \\prime}+4 y=2 \\sec x\n\\]\n\nis of the form\n\n\\[\ny_{p}(x)=u_{1}(x) \\cos 2 x+u_{2}(x) \\sin 2 x \\text {. }\n\\]\n\nThen",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6d884c32-3efb-4c11-9ab1-3610b1c13fcf",
+        "index": 0,
+        "body": "$u_{1}^{\\prime}(x)=\\sin 2 x \\sec x, \\quad u_{2}^{\\prime}(x)=\\cos 2 x \\sec x$",
+        "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "94d0ccc6-ca54-45c4-b320-317ccbc6032e",
+        "index": 1,
+        "body": "$u_{1}^{\\prime}(x)=-\\sin 2 x \\sec x, \\quad u_{2}^{\\prime}(x)=\\cos 2 x \\sec x$",
+        "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "33628a96-eccd-4dc0-b174-cd90aa9c2f86",
+        "index": 2,
+        "body": "$u_{1}^{\\prime}(x)=-2 \\sin 2 x \\sec x, \\quad u_{2}^{\\prime}(x)=-2 \\cos 2 x \\sec x$",
+        "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "8e34e37d-8bb5-4668-8340-1af68f1461a4",
+        "index": 3,
+        "body": "$u_{1}^{\\prime}(x)=2 \\sin 2 x \\sec x, \\quad u_{2}^{\\prime}(x)=-2 \\cos 2 x \\sec x$",
+        "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "0f0113d1-c72e-44cc-9589-d6973e297a13",
+        "index": 4,
+        "body": "$u_{1}^{\\prime}(x)=-2 \\sin 2 x \\sec x, \\quad u_{2}^{\\prime}(x)=2 \\cos 2 x \\sec x$",
+        "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "92279188",
+    "timeSpentVideo": "0",
+    "submissions": 264,
+    "submissionsCorrect": 201,
+    "accuracy": 0.7613636363636364,
+    "difficulty": 0.5604395604395604
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "65841dde-2174-4941-89cf-2f5cda4d1bae",
+    "body": "",
+    "questionId": "8851fb89-a3db-4024-96b0-08faa867facc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

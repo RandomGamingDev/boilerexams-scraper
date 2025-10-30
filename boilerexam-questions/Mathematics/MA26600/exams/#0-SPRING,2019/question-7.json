@@ -1,0 +1,143 @@
+{
+  "id": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The homogeneous differential equation\n\n\\[\nx^{2} y^{\\prime \\prime}-x y^{\\prime}+y=0\n\\]\n\nhas a set of fundamental solutions given by\n\n\\[\ny_{1}(x)=x, \\quad y_{2}(x)=x \\ln x\n\\]\n\nApplying the method of Variation of Parameters, find a particular solution to the nonhomogeneous equation\n\n\\[\nx^{2} y^{\\prime \\prime}-x y^{\\prime}+y=x, x>0\n\\]\n\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "76a41847-a6bf-4cc3-aae7-da9873a3246c",
+        "index": 0,
+        "body": "$y(x)=x \\ln x$",
+        "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "81e29859-4c58-4fc2-941e-802184477475",
+        "index": 1,
+        "body": "$y(x)=\\frac{x(\\ln x)^{3}}{3}$",
+        "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "c44bfbd9-eb2e-456f-9d0e-ad704140a7c2",
+        "index": 2,
+        "body": "$y(x)=\\frac{x(\\ln x)^{2}}{2}$",
+        "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+        "stats": {
+          "count": 1015
+        },
+        "resources": []
+      },
+      {
+        "id": "2e203a1f-1e0b-4f6d-b0fe-49a6ae5bd403",
+        "index": 3,
+        "body": "$y(x)=\\frac{x^{2} \\ln x}{4}$",
+        "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "9b265501-8185-4f14-acd8-5029c7678a42",
+        "index": 4,
+        "body": "$y(x)=\\frac{x^{3}}{x}$",
+        "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "572282772",
+    "timeSpentVideo": "80286137",
+    "submissions": 1860,
+    "submissionsCorrect": 1015,
+    "accuracy": 0.5456989247311828,
+    "difficulty": 0.7066326530612245
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "f962ac8f-9628-4da1-84f8-cf662fd836c0",
+    "body": "",
+    "questionId": "745c64ff-cf13-475b-9cbc-a9def56bbf29",
+    "resources": [
+      {
+        "id": "575d5ba0-e170-4c02-a2d0-6f8869fc6f1a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=-A3IIt8ucsW0GGhw&t=689"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f962ac8f-9628-4da1-84f8-cf662fd836c0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

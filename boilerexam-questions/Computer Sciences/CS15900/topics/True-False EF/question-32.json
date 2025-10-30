@@ -1,0 +1,133 @@
+{
+  "id": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following describes what is meant by strings being \u201cvariable-length\u201d in the C programming language?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b4213114-9815-4161-8bab-ce3ec43dda0c",
+        "index": 0,
+        "body": "The capacity of the character array can change during the execution of the program.",
+        "questionId": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+        "stats": {
+          "count": 319
+        },
+        "resources": []
+      },
+      {
+        "id": "ed728797-930a-42b6-a3c0-96c3136627de",
+        "index": 1,
+        "body": "The portion of the total capacity of the character array being used can change during the execution of the program.",
+        "questionId": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+        "stats": {
+          "count": 665
+        },
+        "resources": []
+      },
+      {
+        "id": "a5f1e42b-d2d0-4131-a339-5637aef237af",
+        "index": 2,
+        "body": "The capacity of the character array is not set until its first use in the program.",
+        "questionId": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+        "stats": {
+          "count": 229
+        },
+        "resources": []
+      },
+      {
+        "id": "2f4ca4b8-8108-4417-96a8-2890f1cf1df8",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 32,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "107126314",
+    "timeSpentVideo": "0",
+    "submissions": 1339,
+    "submissionsCorrect": 665,
+    "accuracy": 0.49663928304705,
+    "difficulty": 0.7531271716469771
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "07d146b4-5b02-45a3-a5e2-f9ad99aacdbb",
+    "body": "",
+    "questionId": "a5083727-7c41-4076-b8d9-8e19cd16d440",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "fad16a8a-4b31-410a-a0d0-85692ae1666d",
+      "name": "Strings",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3696901024",
+        "timeSpentVideo": "0",
+        "submissions": 12342,
+        "submissionsCorrect": 5528,
+        "questions": 13,
+        "accuracy": 0.4479014746394426,
+        "difficulty": 0.8016797942452982
+      }
+    }
+  ],
+  "children": []
+}

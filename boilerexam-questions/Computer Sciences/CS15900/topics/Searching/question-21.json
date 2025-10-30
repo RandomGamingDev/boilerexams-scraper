@@ -1,0 +1,118 @@
+{
+  "id": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below:\n\n<code>{ 2, 4, 9, 12, 18, 23, 30, 38, 41, 50, 55 }</code>\n\nWhich of the following are the <b>FINAL</b> values of the <code>first</code> and <code>last</code> variables when using the binary search algorithm to find the <code>target</code> <code>60</code>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "dc7d90a1-9d28-4037-8a3d-f94543517388",
+        "index": 0,
+        "body": "<code>first = 10</code>, <code>last = 9</code>",
+        "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "f082224f-0aed-4346-aa7d-df4543ba0ba6",
+        "index": 1,
+        "body": "<code>first = 10</code>, <code>last = 10</code>",
+        "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "b42c3d00-f986-4c67-bcd8-18fe470ba176",
+        "index": 2,
+        "body": "<code>first = 11</code>, <code>last = 9</code>",
+        "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "0d59d98f-525c-48f0-ac1b-d9439e0498bb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1614172",
+    "timeSpentVideo": "0",
+    "submissions": 11,
+    "submissionsCorrect": 3,
+    "accuracy": 0.2727272727272727,
+    "difficulty": 0.7725225225225225
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "07555d03-cab8-48c7-8d16-31e681ffcab4",
+    "body": null,
+    "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

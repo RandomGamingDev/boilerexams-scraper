@@ -1,0 +1,143 @@
+{
+  "id": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the determinant\n\n\\[\n\\left|\\begin{array}{ccc}\n2 & d & a+3 d \\\\\n2 & e & b+3 e \\\\\n10 & 5 f & 5 c+15 f\n\\end{array}\\right|=120\n\\]\nwhat is the determinant\n\\[\n\\left|\\begin{array}{lll}\na & b & c \\\\\nd & e & f \\\\\n1 & 1 & 1\n\\end{array}\\right| ?\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "94f5e078-bd22-47b9-8b02-37c9d7733de9",
+        "index": 0,
+        "body": "$-4$",
+        "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "4a507ed6-0ebc-4f95-8d8c-ebec846e7e47",
+        "index": 1,
+        "body": "$12$",
+        "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+        "stats": {
+          "count": 434
+        },
+        "resources": []
+      },
+      {
+        "id": "97d6f56b-c241-40d5-8d3f-0be87b00475e",
+        "index": 2,
+        "body": "$120$",
+        "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "0cb769e8-1bc4-45a7-9943-61519bd729c3",
+        "index": 3,
+        "body": "$-12$",
+        "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+        "stats": {
+          "count": 1417
+        },
+        "resources": []
+      },
+      {
+        "id": "a303f2a1-e8d9-4b5c-b60f-755050a83c53",
+        "index": 4,
+        "body": "$4$",
+        "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "430517959",
+    "timeSpentVideo": "132847114",
+    "submissions": 2316,
+    "submissionsCorrect": 1417,
+    "accuracy": 0.6118307426597582,
+    "difficulty": 0.6427980132450332
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "df4c02d0-ab2c-4c33-a017-3eb3872290af",
+    "body": "",
+    "questionId": "3d28ac84-a4d1-4292-8cff-ad2da3fa6fc2",
+    "resources": [
+      {
+        "id": "9bb63551-6363-4ed1-9b09-7469ac1314d4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "df4c02d0-ab2c-4c33-a017-3eb3872290af",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

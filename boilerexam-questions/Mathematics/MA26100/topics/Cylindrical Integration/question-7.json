@@ -1,0 +1,143 @@
+{
+  "id": "381c5024-63c6-43ef-acb0-279e0092b302",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Rewrite the triple integral $\\displaystyle \\int_{2}^{6} \\int_{0}^{\\sqrt{2}} \\int_{x}^{\\sqrt{4-x^{2}}} e^{-x^{2}-y^{2}} dy \\, dx \\, dz$ in Cylindrical coordinates.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "db46a352-e866-4dc6-ba08-27ce4fdf106d",
+        "index": 0,
+        "body": "$\\displaystyle \\int_{2}^{6} \\int_{0}^{2 \\pi} \\int_{0}^{2} r e^{-r^{2}} d r \\,d \\theta \\,d z$",
+        "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+        "stats": {
+          "count": 234
+        },
+        "resources": []
+      },
+      {
+        "id": "4371b011-8ddf-4533-b155-434b0ec1a79b",
+        "index": 1,
+        "body": "$\\displaystyle \\int_{2}^{6} \\int_{0}^{\\frac{\\pi}{4}} \\int_{0}^{2} r e^{-r^{2}} d r \\,d \\theta \\,d z$",
+        "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+        "stats": {
+          "count": 984
+        },
+        "resources": []
+      },
+      {
+        "id": "abf09e72-9b99-413e-ad89-a1a668629fee",
+        "index": 2,
+        "body": "$\\displaystyle \\int_{2}^{6} \\int_{\\frac{\\pi}{4}}^{\\frac{\\pi}{2}} \\int_{0}^{2} r e^{-r^{2}} d r \\,d \\theta \\,d z$",
+        "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+        "stats": {
+          "count": 3215
+        },
+        "resources": []
+      },
+      {
+        "id": "077dd755-7f22-4700-8bb3-ae9f9744c9f9",
+        "index": 3,
+        "body": "$\\displaystyle \\int_{2}^{6} \\int_{0}^{\\frac{\\pi}{4}} \\int_{0}^{2} e^{-r^{2}} d r \\,d \\theta \\,d z$",
+        "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "1bf5a8c0-bfc6-4cdf-b3c7-16e9a78788c8",
+        "index": 4,
+        "body": "$\\displaystyle \\int_{2}^{6} \\int_{\\frac{\\pi}{4}}^{\\frac{\\pi}{2}} \\int_{0}^{2} e^{-r^{2}} d r \\,d \\theta \\,d z$",
+        "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "920246849",
+    "timeSpentVideo": "152379789",
+    "submissions": 4956,
+    "submissionsCorrect": 3215,
+    "accuracy": 0.6487086359967716,
+    "difficulty": 0.6042325949367089
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "4d2c2984-4654-4f49-a32e-241cec1b057a",
+    "body": "",
+    "questionId": "381c5024-63c6-43ef-acb0-279e0092b302",
+    "resources": [
+      {
+        "id": "f1d6868a-f564-414e-a5a9-f6fe8cd030e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=768"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4d2c2984-4654-4f49-a32e-241cec1b057a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

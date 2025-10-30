@@ -1,0 +1,133 @@
+{
+  "id": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following code that classifies an integer:\n\nWhat will happy_function(32) return?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ca4f78d3-356c-4aa2-8a5a-b724416b0453",
+        "index": 0,
+        "body": "\"Okay\"",
+        "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "a35f352a-3705-4a0b-8e54-0d599e12ba18",
+        "index": 1,
+        "body": "\"Yay\"",
+        "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "b9441e07-72b1-4a52-9256-fb1856ae9d4b",
+        "index": 2,
+        "body": "The function does not work properly because there are no \"elif\" or \"else\" statements.",
+        "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "5c0e72b9-071c-4a8b-b9ab-c10f2c6ee5e6",
+        "index": 3,
+        "body": "The function will not return anything.",
+        "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "17302912",
+    "timeSpentVideo": "86271",
+    "submissions": 250,
+    "submissionsCorrect": 193,
+    "accuracy": 0.772,
+    "difficulty": 0.5557142857142857
+  },
+  "resources": [
+    {
+      "id": "1aabcc05-6996-40f2-b027-051e1c0ec004",
+      "type": "CODE",
+      "data": {
+        "content": "def happy_function(char):\n    if char < 32:\n        return \"Okay\"\n    if char > 32:\n        return \"Yay\"\n    if char == 33:\n      return \"Nay\"",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "091cf7cd-bbe0-438f-a5b8-c7cdb23e1333",
+    "body": "",
+    "questionId": "8a4232ed-70ce-4197-ae2e-bdf2ae5e1dfc",
+    "resources": [
+      {
+        "id": "92589bd9-a321-488e-9e56-9d1f6446c2e1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=6DFIwz_jx_cYrXbA&t=3108"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "091cf7cd-bbe0-438f-a5b8-c7cdb23e1333",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

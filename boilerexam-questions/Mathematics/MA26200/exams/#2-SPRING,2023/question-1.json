@@ -1,0 +1,128 @@
+{
+  "id": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The matrix $A=\\left[\\begin{array}{lll}1 & 0 & 2 \\\\ 2 & 1 & 0 \\\\ 0 & 1 & 1\\end{array}\\right]$ has $\\operatorname{det} A=5$. Find the $(1,2)$ entry of $A^{-1}$ (the entry in row $1$ and column $2$ of the matrix $A^{-1}$ ).",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "bc313fcf-9559-46ca-ba19-b280fd830443",
+        "index": 0,
+        "body": "$-\\frac{2}{5}$",
+        "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+        "stats": {
+          "count": 391
+        },
+        "resources": []
+      },
+      {
+        "id": "b0cb9ac4-9bd5-4cd7-a08b-6d0d5f39800e",
+        "index": 1,
+        "body": "$\\frac{2}{5}$",
+        "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+        "stats": {
+          "count": 1266
+        },
+        "resources": []
+      },
+      {
+        "id": "9808cb0a-d556-4927-a07e-9dc4ac7f34da",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+        "stats": {
+          "count": 248
+        },
+        "resources": []
+      },
+      {
+        "id": "4e4218c0-44e7-4512-a3e9-e0484a811464",
+        "index": 3,
+        "body": "$\\frac{1}{5}$",
+        "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "071086ae-7a68-48b4-accc-c81718b12e8d",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "601603687",
+    "timeSpentVideo": "0",
+    "submissions": 2088,
+    "submissionsCorrect": 1266,
+    "accuracy": 0.6063218390804598,
+    "difficulty": 0.6485374771480804
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "f2693411-e7ce-41cc-8511-8c4e0f28dd36",
+    "body": "",
+    "questionId": "35022f62-4bd7-41f5-864f-92a0cb5d3bd2",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    }
+  ],
+  "children": []
+}

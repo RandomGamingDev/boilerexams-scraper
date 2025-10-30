@@ -1,0 +1,511 @@
+{
+  "id": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+  "type": "PARENT",
+  "data": {
+    "body": "",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 32,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13594035",
+    "timeSpentVideo": "0",
+    "submissions": 43,
+    "submissionsCorrect": 18,
+    "accuracy": 0.4186046511627907,
+    "difficulty": 0.7744755244755245
+  },
+  "resources": [
+    {
+      "id": "25474e0e-4aae-4a42-9e79-ce33050c4aea",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <stdlib.h>\n\nint main(void)\n{\n  int seed;\n  long long lower;\n  long long upper;\n  int i;\n  int j;\n  long long num;\n\n  printf(\"Enter [seed lower upper] -> \");\n  scanf(\"%d %lld %lld\", &seed, &lower, &upper);\n  srand(seed);\n\n  do\n    {\n    // Part 1 inserts code here.\n    for(i = seed % 2; i < 10; i += 2)\n    {\n      j = num;\n      while(j > 0)\n      {\n        j = (j % 10 == i) ? (-1) : (j / 10);\n      }\n      if(j != -1)\n      {\n        i = 10;\n      }\n    }\n  } while(j != -1);\n\n  printf(\"num = %lld\\n\", num);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "c23c16a4-0a75-4273-bc89-54163609faf0",
+    "body": null,
+    "questionId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    },
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "0e2d4962-7e37-49c1-b669-780055c7822f",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following statements, when inserted on line 19 in the code segment above, will store a random value into the <code>num</code> variable such that <code>num >= lower && num <= upper</code> ?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "ee0c1c02-0b25-4bf8-b547-b1dcd21698a7",
+            "index": 0,
+            "body": "<code>num = rand() % (upper - lower) + lower;</code>",
+            "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          },
+          {
+            "id": "006527fd-ae9f-4486-9e8b-f664aada5a1a",
+            "index": 1,
+            "body": "<code>num = rand() % (upper - lower + 1) + lower;</code>",
+            "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
+            "stats": {
+              "count": 38
+            },
+            "resources": []
+          },
+          {
+            "id": "7eeff45a-3f61-4e89-8ba0-9ef1025e06a9",
+            "index": 2,
+            "body": "<code>num = rand() % upper + lower;</code>",
+            "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "ea4e7474-8a60-4abc-869c-59253c097322",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 42,
+        "submissionsCorrect": 38,
+        "accuracy": 0.9047619047619048,
+        "difficulty": 0.6302816901408451
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "34429085-588d-43fd-b998-9c3b51601c77",
+        "body": null,
+        "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Assume the correct code is inserted into line 19 of the code segment  above according to the previous problem, such that <code>num >= lower && num <= upper</code>.\n\nWhich of the following is a <b>POSSIBLE</b> final line of output generated if the input <code>1 0 999</code> were provided?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "990ffcac-fa17-4c00-9b75-426f8fe555f8",
+            "index": 0,
+            "body": "<code>num = 0</code>",
+            "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          },
+          {
+            "id": "6c8e0df2-305d-4396-a755-517ccc42a97a",
+            "index": 1,
+            "body": "<code>num = 13</code>",
+            "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+            "stats": {
+              "count": 11
+            },
+            "resources": []
+          },
+          {
+            "id": "00be1824-bdfd-40c7-9e41-60353f8ab5bc",
+            "index": 2,
+            "body": "<code>num = 555</code>",
+            "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "dbe57f47-a07c-49de-a38e-9424d910ff34",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+            "stats": {
+              "count": 10
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 31,
+        "submissionsCorrect": 10,
+        "accuracy": 0.3225806451612903,
+        "difficulty": 0.7919847328244275
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "3df1f249-bf4f-49bc-8da7-3bdc44f9a128",
+        "body": null,
+        "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Assume the correct code is inserted into line 19 of the code segment  above according to the previous problem, such that <code>num >= lower && num <= upper</code>.\n\nWhich of the following is a <b>POSSIBLE</b> final line of output generated if the input <code>4 0 99999</code> were provided?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "b4d8fdab-3816-4916-9d5f-95f5e8b92593",
+            "index": 0,
+            "body": "<code>num = 28642</code>",
+            "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          },
+          {
+            "id": "f42bd3a4-8f26-474f-8a63-7ef89729df4a",
+            "index": 1,
+            "body": "<code>num = 48026</code>",
+            "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          },
+          {
+            "id": "9406f0a4-4bef-42dd-a011-862d40826000",
+            "index": 2,
+            "body": "<code>num = 79531</code>",
+            "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "f6c63fc8-2c7c-4cc6-b3f0-bccc12cd997c",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 30,
+        "submissionsCorrect": 15,
+        "accuracy": 0.5,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "cf52a4b1-f13d-4cc7-8927-cb701c9af437",
+        "body": null,
+        "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The parentheses on which line of the code segment above can be removed without introducing a syntax error?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "46541399-dd11-4832-a87a-3e22a8fad86a",
+            "index": 0,
+            "body": "Line 23.",
+            "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+            "stats": {
+              "count": 5
+            },
+            "resources": []
+          },
+          {
+            "id": "0ec5dff4-bd88-4e7b-ab5a-d7edcd8afc37",
+            "index": 1,
+            "body": "Line 25.",
+            "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+            "stats": {
+              "count": 19
+            },
+            "resources": []
+          },
+          {
+            "id": "48ad4ebe-9a39-434f-89e0-fb452c53ad90",
+            "index": 2,
+            "body": "Line 27.",
+            "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "280cfd6d-9993-471b-ae12-1cadcae6797e",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "8ba15c23-cf94-4281-aab8-8c753f1323df",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 33,
+        "submissionsCorrect": 19,
+        "accuracy": 0.5757575757575758,
+        "difficulty": 0.731203007518797
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "005bb2fd-c884-4894-8edb-b0197f79e88e",
+        "body": null,
+        "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

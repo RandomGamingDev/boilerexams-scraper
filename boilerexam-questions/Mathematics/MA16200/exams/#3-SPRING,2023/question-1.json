@@ -1,0 +1,143 @@
+{
+  "id": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the $2$ nd order Taylor polynomial of $f(x)=\\ln (x)$ centered at $a=3$,\n\n\\[\n\\ln (\\pi) \\approx \\ln (3)+\\frac{1}{3}(\\pi-3)-\\frac{1}{18}(\\pi-3)^{2}\n\\]\n\nAccording to the Taylor Remainder Theorem, this approximation has error equal to",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d90e83f8-9e5a-4871-8278-af8a41bc865d",
+        "index": 0,
+        "body": "$\\frac{(\\pi-3)^{3}}{6 c^{3}}$ for some $c$ between $3$ and $\\pi$",
+        "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+        "stats": {
+          "count": 553
+        },
+        "resources": []
+      },
+      {
+        "id": "2e7a6181-07c0-4a71-86be-2dfd8761f76f",
+        "index": 1,
+        "body": "$\\frac{(\\pi-3)^{2}}{2 c^{2}}$ for some $c$ between $3$ and $\\pi$",
+        "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "946834bf-805d-42bc-bad8-01eca030a521",
+        "index": 2,
+        "body": "$\\frac{(\\pi-3)^{2}}{c^{2}}$ for some $c$ between $3$ and $\\pi$",
+        "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "1e099918-f20c-459f-8a49-ba1475ea2158",
+        "index": 3,
+        "body": "$\\frac{(\\pi-3)^{3}}{6 c^{2}}$ for some $c$ between $3$ and $\\pi$",
+        "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+        "stats": {
+          "count": 262
+        },
+        "resources": []
+      },
+      {
+        "id": "0f68939e-70d7-41f8-b4ce-859e4ddb785f",
+        "index": 4,
+        "body": "$\\frac{(\\pi-3)^{3}}{3 c^{3}}$ for some $c$ between $3$ and $\\pi$",
+        "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+        "stats": {
+          "count": 2047
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "822057687",
+    "timeSpentVideo": "178103269",
+    "submissions": 3858,
+    "submissionsCorrect": 2047,
+    "accuracy": 0.5305857957490928,
+    "difficulty": 0.7201869631126832
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "ef6e6c70-609b-4543-8444-e08b81577e65",
+    "body": "",
+    "questionId": "05396d4e-855c-4ebd-ab41-44543e4b846b",
+    "resources": [
+      {
+        "id": "1872b50e-1843-4df6-bab1-6424242d0dd6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=1\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ef6e6c70-609b-4543-8444-e08b81577e65",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "447e9d46-aae9-459b-acfa-80b9bb90645a",
+      "name": "Taylor Remainder Theorem",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2951134647",
+        "timeSpentVideo": "241550046",
+        "submissions": 6234,
+        "submissionsCorrect": 3658,
+        "questions": 2,
+        "accuracy": 0.5867821623355791,
+        "difficulty": 0.6645879381117777
+      }
+    }
+  ],
+  "children": []
+}

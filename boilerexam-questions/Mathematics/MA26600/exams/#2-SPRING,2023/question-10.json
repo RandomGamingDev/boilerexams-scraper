@@ -1,0 +1,90 @@
+{
+  "id": "b4d43f95-095a-4c4a-9547-80a1a5ad70be",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Use the method of Variation of Parameters to find the general solution of the nonhomogenous equation\n\\[\ny'' + 6y' + 9y = \\frac{e^{-3t}}{t^2} \\quad (t > 0).\n\\]\n",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104575202",
+    "timeSpentVideo": "13025060",
+    "submissions": 389,
+    "submissionsCorrect": 135,
+    "accuracy": 0.34704370179948585,
+    "difficulty": 0.871676891615542
+  },
+  "resources": [],
+  "exam": {
+    "id": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1365441067",
+      "timeSpentVideo": "306856488",
+      "submissions": 6299,
+      "submissionsCorrect": 3282,
+      "questions": 10,
+      "accuracy": 0.5210350849341165,
+      "difficulty": 0.7292936396311924
+    }
+  },
+  "explanation": {
+    "id": "7012ef2a-3e31-4c6f-aa80-10b86b458309",
+    "body": "A negative sign was missed in the video, $y_p =  -e^{-3t}(1+ln(t))$ is the correct answer.",
+    "questionId": "b4d43f95-095a-4c4a-9547-80a1a5ad70be",
+    "resources": [
+      {
+        "id": "2f33e85a-b24d-485f-aed4-52caaa164047",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lizUKYezcSc?si=stV3rjaMkJv7i9Zh&t=3269"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7012ef2a-3e31-4c6f-aa80-10b86b458309",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

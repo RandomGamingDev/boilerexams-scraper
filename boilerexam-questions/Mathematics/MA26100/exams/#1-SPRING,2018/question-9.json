@@ -1,0 +1,143 @@
+{
+  "id": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \\(f(x, y, z)\\) be a function which is differentiable at \\((1, 1, 1)\\) and \\(\\frac{\\partial f}{\\partial x}(1, 1, 1) = -6\\), \\(\\frac{\\partial f}{\\partial y}(1, 1, 1) = 2\\), and \\(\\frac{\\partial f}{\\partial z}(1, 1, 1) = -1\\).\n\nLet \\(\\boldsymbol{\\gamma}(t) = \\langle x(t), y(t), z(t) \\rangle\\) be the parametric equation of a differentiable curve in \\(\\mathbb{R}^3\\), and suppose \\(\\boldsymbol{\\gamma}(0) = \\langle 1, 1, 1 \\rangle\\) and \\(\\frac{d\\boldsymbol{\\gamma}}{dt}(0) = 3\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}\\).\n\nWe can conclude that \\(\\frac{d}{dt}f(\\boldsymbol{\\gamma}(t))\\) at \\(t = 0\\) is equal to\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "9ad6dd65-0a90-4869-b2ee-1b24b17275ff",
+        "index": 0,
+        "body": "$-25$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+        "stats": {
+          "count": 3568
+        },
+        "resources": []
+      },
+      {
+        "id": "43b6edc4-28c0-49fa-aec0-d6e3f85ae4ca",
+        "index": 1,
+        "body": "$-14$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      },
+      {
+        "id": "429dca4d-d8b5-46d2-9de6-a2891e7dc699",
+        "index": 2,
+        "body": "$-13$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+        "stats": {
+          "count": 164
+        },
+        "resources": []
+      },
+      {
+        "id": "8136bea0-8c93-4e46-9360-655f548c1862",
+        "index": 3,
+        "body": "$-11$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "0871f2e5-01c7-4bf1-871f-ad701cf364e4",
+        "index": 4,
+        "body": "$-4$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1436209048",
+    "timeSpentVideo": "215280517",
+    "submissions": 5479,
+    "submissionsCorrect": 3568,
+    "accuracy": 0.6512137251323235,
+    "difficulty": 0.6014966839935473
+  },
+  "resources": [],
+  "exam": {
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+    "number": 1,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14045692220",
+      "timeSpentVideo": "2133559776",
+      "submissions": 68612,
+      "submissionsCorrect": 42252,
+      "questions": 12,
+      "accuracy": 0.6158106453681572,
+      "difficulty": 0.6343578996390732
+    }
+  },
+  "explanation": {
+    "id": "3a11f348-372a-4518-bf57-94a708aeac1d",
+    "body": "",
+    "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
+    "resources": [
+      {
+        "id": "aea809e5-f560-4536-b8ff-87efdf665dd9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QLbA7GKKkPs?t=894"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3a11f348-372a-4518-bf57-94a708aeac1d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    }
+  ],
+  "children": []
+}

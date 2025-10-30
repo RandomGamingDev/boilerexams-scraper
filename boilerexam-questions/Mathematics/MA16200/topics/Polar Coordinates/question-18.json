@@ -1,0 +1,158 @@
+{
+  "id": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the area between the spirals $r=\\theta$ and $r=2\\theta$, with $0\\le\\theta\\le\\pi/4$?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1646b354-855f-416d-ba2e-c9efe2773e27",
+        "index": 0,
+        "body": "$\\pi^3/64$",
+        "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "ff88b455-d75b-4522-bd1b-6933cc5b3143",
+        "index": 1,
+        "body": "$\\pi^3/128$",
+        "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+        "stats": {
+          "count": 272
+        },
+        "resources": []
+      },
+      {
+        "id": "909ed6b1-59f0-4182-bcc1-ddc11acc77b8",
+        "index": 2,
+        "body": "$\\pi^3/16$",
+        "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "8f9cb830-e992-4311-a882-4d7868c1b98d",
+        "index": 3,
+        "body": "$\\pi^3/32$",
+        "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "7256ad28-309d-460c-bf62-2bd4cdf355f9",
+        "index": 4,
+        "body": "$\\pi^3/4$",
+        "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "79617633",
+    "timeSpentVideo": "16526126",
+    "submissions": 479,
+    "submissionsCorrect": 259,
+    "accuracy": 0.5407098121085595,
+    "difficulty": 0.716321243523316
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "96aca654-1d49-4fa4-bd13-099b82ded160",
+    "body": "",
+    "questionId": "1b5ac25a-f8e4-453f-b98f-b0e52ba6c3ad",
+    "resources": [
+      {
+        "id": "c330e40b-2683-4350-aa8f-1648a30f484c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=6491s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "96aca654-1d49-4fa4-bd13-099b82ded160",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "24cbbc40-79a2-43c0-bc60-d909a4fbbc1f",
+      "name": "Polar Coordinates",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5292923715",
+        "timeSpentVideo": "268260904",
+        "submissions": 12013,
+        "submissionsCorrect": 7338,
+        "questions": 9,
+        "accuracy": 0.610838258553234,
+        "difficulty": 0.6400767770164286
+      }
+    },
+    {
+      "id": "681ff12b-6d73-448b-bea0-2b82805337a9",
+      "name": "Area of Polar Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4146470115",
+        "timeSpentVideo": "354656077",
+        "submissions": 9942,
+        "submissionsCorrect": 5167,
+        "questions": 4,
+        "accuracy": 0.5197143431905049,
+        "difficulty": 0.7304819757020514
+      }
+    }
+  ],
+  "children": []
+}

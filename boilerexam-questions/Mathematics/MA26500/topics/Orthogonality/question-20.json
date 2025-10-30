@@ -1,0 +1,158 @@
+{
+  "id": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $W=\\operatorname{Span}\\left\\{\\mathbf{u}_{1}, \\mathbf{u}_{2}\\right\\}$ where $\\mathbf{u}_{1}=\\left[\\begin{array}{c}2 \\\\ 5 \\\\ -1\\end{array}\\right]$ and $\\mathbf{u}_{2}=\\left[\\begin{array}{c}-2 \\\\ 1 \\\\ 1\\end{array}\\right]$. Let $\\mathbf{y}=\\left[\\begin{array}{l}3 \\\\ 2 \\\\ 1\\end{array}\\right]$, find the orthogonal projection of $\\mathbf{y}$ onto $W$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e51c2b58-647a-4350-9ccc-38f4a51c8abc",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{c}2 \\\\ 2 \\\\ -1\\end{array}\\right]$",
+        "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+        "stats": {
+          "count": 718
+        },
+        "resources": []
+      },
+      {
+        "id": "6c714470-ef9d-428c-896e-d9ba896009da",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{c}3 \\\\ -2 \\\\ 1\\end{array}\\right]$",
+        "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "46e693b7-bba5-4e1e-85ca-1a94bd27c94c",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{c}-2 \\\\ 2 \\\\ -1\\end{array}\\right]$",
+        "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "74690341-b607-489b-9530-ad290b485696",
+        "index": 3,
+        "body": "$\\quad\\left[\\begin{array}{l}-2 \\\\ -2 \\\\ -1\\end{array}\\right]$",
+        "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "77c69165-8f3c-4473-90b9-972b7e6ca6de",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{l}2 \\\\ 2 \\\\ 1\\end{array}\\right]$",
+        "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "318387748",
+    "timeSpentVideo": "35498093",
+    "submissions": 1248,
+    "submissionsCorrect": 718,
+    "accuracy": 0.5753205128205128,
+    "difficulty": 0.68026706231454
+  },
+  "resources": [],
+  "exam": {
+    "id": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5256686073",
+      "timeSpentVideo": "817078114",
+      "submissions": 28962,
+      "submissionsCorrect": 18421,
+      "questions": 25,
+      "accuracy": 0.636040328706581,
+      "difficulty": 0.6144277751015071
+    }
+  },
+  "explanation": {
+    "id": "581d58c5-2205-4cfa-a1b8-00001836049a",
+    "body": "",
+    "questionId": "48ce20a0-b2aa-4f8f-a2c4-2de8c5f86278",
+    "resources": [
+      {
+        "id": "eb8f58db-d255-47a3-81d1-f4ff5ff3291f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/HumaprXFL5g?t=2603\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "581d58c5-2205-4cfa-a1b8-00001836049a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4b2b3533-6f35-42c3-807a-958b6e2580b2",
+      "name": "Projections",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6028478978",
+        "timeSpentVideo": "611094532",
+        "submissions": 13315,
+        "submissionsCorrect": 6424,
+        "questions": 7,
+        "accuracy": 0.48246338715734133,
+        "difficulty": 0.7674058889303019
+      }
+    },
+    {
+      "id": "98f7aa52-6b10-415c-b269-3991425de277",
+      "name": "Orthogonality",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295748992",
+        "timeSpentVideo": "694299197",
+        "submissions": 13140,
+        "submissionsCorrect": 7059,
+        "questions": 6,
+        "accuracy": 0.5372146118721461,
+        "difficulty": 0.7130664652567976
+      }
+    }
+  ],
+  "children": []
+}

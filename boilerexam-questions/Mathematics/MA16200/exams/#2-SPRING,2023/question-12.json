@@ -1,0 +1,143 @@
+{
+  "id": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\n\n\\[\n\\int \\frac{d x}{\\left(1+9 x^{2}\\right)^{3 / 2}}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "e7d11e0f-80bc-4f58-8ffe-bb214d067775",
+        "index": 0,
+        "body": "$\\frac{x}{3}-\\frac{1}{\\sqrt{1+9 x^{2}}}+C$",
+        "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "a11cd18f-668f-45cf-a941-e5d2ce6f95f4",
+        "index": 1,
+        "body": "$\\frac{1}{3 \\sqrt{1+9 x^{2}}}+C$",
+        "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "f691efb5-784a-4e84-b108-95c6d77e82d7",
+        "index": 2,
+        "body": "$\\frac{x}{\\sqrt{1+9 x^{2}}}+C$",
+        "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+        "stats": {
+          "count": 1381
+        },
+        "resources": []
+      },
+      {
+        "id": "94372396-9a83-4ab4-81f5-930fab0d1069",
+        "index": 3,
+        "body": "$\\sin \\left(\\sqrt{1+9 x^{2}}\\right)+C$",
+        "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "7041c137-ac8e-4303-8ce6-ebe1958e5718",
+        "index": 4,
+        "body": "$\\left\\{\\tan ^{-1}\\left(\\frac{x}{3}\\right)\\right\\}^{2}+\\sqrt{1+9 x^{2}}+C$ ",
+        "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "439567478",
+    "timeSpentVideo": "71011362",
+    "submissions": 2619,
+    "submissionsCorrect": 1381,
+    "accuracy": 0.5273004963726613,
+    "difficulty": 0.7237035674880471
+  },
+  "resources": [],
+  "exam": {
+    "id": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8244103510",
+      "timeSpentVideo": "1068074029",
+      "submissions": 46306,
+      "submissionsCorrect": 27622,
+      "questions": 12,
+      "accuracy": 0.5965101714680603,
+      "difficulty": 0.6536977976985735
+    }
+  },
+  "explanation": {
+    "id": "80b9af4d-1676-40d2-b500-84fed5756447",
+    "body": "",
+    "questionId": "ace7f685-ea8d-40b7-ac75-6d219a430286",
+    "resources": [
+      {
+        "id": "2fa0fb02-9023-4428-9eba-4196cd1e1c29",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ezJ9t_oy2s0?t=2101"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "80b9af4d-1676-40d2-b500-84fed5756447",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "68ac0637-24cf-429e-9492-8b9fae11e287",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the initial value problem $y^{\\prime}=y+t^{2}, y(0)=1$, if we choose to use the Euler method with $h=\\frac{1}{2}$ to compute an approximate value of $y(1)$, then what will we obtain?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f5f58150-18e9-493c-af5e-ac8bdf54c16c",
+        "index": 0,
+        "body": "$\\frac{23}{8}$",
+        "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "88db9044-653d-4427-8623-d70baee94fec",
+        "index": 1,
+        "body": "$\\frac{19}{8}$",
+        "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+        "stats": {
+          "count": 1334
+        },
+        "resources": []
+      },
+      {
+        "id": "e07cd85d-92c0-47f7-9853-621e604cd905",
+        "index": 2,
+        "body": "$\\frac{15}{8}$",
+        "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "89271ad4-e336-4d31-a4af-09408d001cef",
+        "index": 3,
+        "body": "$\\frac{17}{8}$",
+        "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "a3aa22cb-f8f1-4c53-8e32-234a06ad2dea",
+        "index": 4,
+        "body": "$\\frac{21}{8}$",
+        "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "406072254",
+    "timeSpentVideo": "8118257",
+    "submissions": 1661,
+    "submissionsCorrect": 1334,
+    "accuracy": 0.8031306441902468,
+    "difficulty": 0.4640829074389552
+  },
+  "resources": [],
+  "exam": {
+    "id": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4565094176",
+      "timeSpentVideo": "320264183",
+      "submissions": 16700,
+      "submissionsCorrect": 9862,
+      "questions": 10,
+      "accuracy": 0.5905389221556886,
+      "difficulty": 0.66
+    }
+  },
+  "explanation": {
+    "id": "4c94a9b3-7eac-4f4e-95b5-5c8656c501ac",
+    "body": "",
+    "questionId": "68ac0637-24cf-429e-9492-8b9fae11e287",
+    "resources": [
+      {
+        "id": "839c9856-4d7f-491b-bfb3-39bc761e0605",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ire22BvRNw4?si=yhjQM-um5b-W_MRg&t=327"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4c94a9b3-7eac-4f4e-95b5-5c8656c501ac",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "581ba71e-2ec0-47ae-aba4-2436e968c5c1",
+      "name": "Euler's Method",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4816796605",
+        "timeSpentVideo": "91964031",
+        "submissions": 10171,
+        "submissionsCorrect": 8188,
+        "questions": 8,
+        "accuracy": 0.805033919968538,
+        "difficulty": 0.4479359361308538
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the line integral $\\int_{C} y d s$ where $C$ is the curve parametrized by $\\overrightarrow{\\mathbf{r}}(t)=\\cos (2 t) \\overrightarrow{\\mathbf{i}}+t \\overrightarrow{\\mathbf{j}}+\\sin (2 t) \\overrightarrow{\\mathbf{k}}$ and $0 \\leq t \\leq \\pi$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "acbc7820-9512-402c-aa3f-aa694d52e239",
+        "index": 0,
+        "body": "$2 \\pi^{2}$",
+        "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "19e8ae05-5cca-4759-91a5-4f8f7a0f0ad3",
+        "index": 1,
+        "body": "$\\frac{\\sqrt{5}}{2} \\pi^{2}$",
+        "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+        "stats": {
+          "count": 3257
+        },
+        "resources": []
+      },
+      {
+        "id": "69716768-3bd3-4b81-821b-8266256aac88",
+        "index": 2,
+        "body": "$\\frac{2 \\sqrt{5}}{3} \\pi^{2}$",
+        "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "e682cd59-90e1-40d6-95da-23e7d07e1a47",
+        "index": 3,
+        "body": "$\\pi^{2}$",
+        "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "fcc20bc0-0e55-450e-a5f7-be01093aff00",
+        "index": 4,
+        "body": "$\\sqrt{5} \\pi^{2}$ ",
+        "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+        "stats": {
+          "count": 137
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1217618321",
+    "timeSpentVideo": "156831850",
+    "submissions": 5162,
+    "submissionsCorrect": 3257,
+    "accuracy": 0.6309569934134056,
+    "difficulty": 0.621531736982136
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+    "number": 2,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9009337690",
+      "timeSpentVideo": "2108033112",
+      "submissions": 39483,
+      "submissionsCorrect": 21279,
+      "questions": 11,
+      "accuracy": 0.5389408099688473,
+      "difficulty": 0.7111575676426749
+    }
+  },
+  "explanation": {
+    "id": "102422ba-7878-4778-8a81-d7737e0e5131",
+    "body": "",
+    "questionId": "b882305a-2ddb-408b-b6de-ffe8496f2092",
+    "resources": [
+      {
+        "id": "5b96f5e3-8198-4304-ab73-b8af647c4efa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tE3sxPzvjrQ?t=1462\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "102422ba-7878-4778-8a81-d7737e0e5131",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "334db9c7-f3fb-4b31-b85f-4831cd44188e",
+      "name": "Line Integral - ds",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15511711835",
+        "timeSpentVideo": "1844731217",
+        "submissions": 37740,
+        "submissionsCorrect": 21910,
+        "questions": 8,
+        "accuracy": 0.5805511393746687,
+        "difficulty": 0.669661733615222
+      }
+    }
+  ],
+  "children": []
+}

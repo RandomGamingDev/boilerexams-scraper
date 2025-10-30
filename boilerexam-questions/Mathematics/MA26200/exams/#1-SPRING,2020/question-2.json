@@ -1,0 +1,128 @@
+{
+  "id": "02de4b25-fc00-441c-b1bf-be947d155224",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following three differential equations:\n\n\n\\[\n\\text { (i) } \\frac{d y}{d x}+2 y^{4}=x^{4}, \\quad \\text { (ii) } y^{3} \\frac{d y}{d x}=\\sin x, \\quad \\text { (iii) } \\frac{d y}{d x}=\\sin x,\n\\]\n\nwith initial condition $y(0)=0$. Which of these problems has a unique solution in some interval $a<x<b$ containing $0$ because we can apply the Existence and Uniqueness of Solutions Theorem?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2b370d4c-689e-4962-b35f-2cc668988b36",
+        "index": 0,
+        "body": "(i) and (ii) only",
+        "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "998f0eee-5fdc-4eea-812d-cc8d7a0f86ed",
+        "index": 1,
+        "body": "(i) and (iii) only",
+        "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      },
+      {
+        "id": "f4cb1788-43d6-4a76-a63d-3b43f921f2df",
+        "index": 2,
+        "body": "(ii) and (iii) only",
+        "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "08ff8d1f-4a26-41f6-9967-6e67c3a16dc1",
+        "index": 3,
+        "body": "(i), (ii), and (iii)",
+        "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "1c843605-47db-4d68-8de5-1062ca6edaa5",
+        "index": 4,
+        "body": "None of the three problems",
+        "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "134581892",
+    "timeSpentVideo": "11785986",
+    "submissions": 812,
+    "submissionsCorrect": 303,
+    "accuracy": 0.3731527093596059,
+    "difficulty": 0.8629385964912281
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "31273e6e-de3f-46f8-88ca-05fcf0eb26dc",
+    "body": "Video is incorrect.      \n\nfor (i), Solve for dy/dy. The domain of x^4-2y^4 is all values. Solve for the partial with respect to y. The domain of -8y^3 is also all values. Because y(0)=0 exists in both of these domains, existence and uniqueness applies.\n\nfor (ii) solve for dy/dx. The domain of sinx/y^3 is (-infinity, 0)U(0, infinity). Because y(0)=0 does not exist in this domain (discontinuous function), existence and uniqueness does not apply.\n\nfor (iii) the domain of sinx is all values. Find the partial with respect to y. Because the partial equals 0 and y(0)=0, existence and uniqueness applies.\n\nThus, the answer is B: (i) and (iii) only",
+    "questionId": "02de4b25-fc00-441c-b1bf-be947d155224",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e98c0082-99ea-4f58-9381-ecbf89fd0937",
+      "name": "Existance and Uniqueness",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1484729983",
+        "timeSpentVideo": "121939776",
+        "submissions": 4064,
+        "submissionsCorrect": 1917,
+        "questions": 6,
+        "accuracy": 0.4717027559055118,
+        "difficulty": 0.7776176753121998
+      }
+    }
+  ],
+  "children": []
+}

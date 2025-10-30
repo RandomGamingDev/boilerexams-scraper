@@ -1,0 +1,173 @@
+{
+  "id": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $M_{3\\times3}$ be the real vector space of all $3 \\times 3$ real matrices. Which of the following sets is/are subspace(s) of $M_{3\\times3}$ ?\n\n\n(i) The set of all $3 \\times 3$ orthogonal real matrices\n\n(ii) The set of all $3 \\times 3$ symmetric real matrices\n\n(iii) The set of all $3 \\times 3$ singular real matrices",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a33252ea-7d23-42e9-ad82-638f9c5b5fa3",
+        "index": 0,
+        "body": "(ii) and (iii) only",
+        "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+        "stats": {
+          "count": 295
+        },
+        "resources": []
+      },
+      {
+        "id": "dd9fe8ad-be45-4808-af61-363ada807f90",
+        "index": 1,
+        "body": "(iii) only",
+        "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "5a75392f-288a-497c-9877-1b347f9d84b9",
+        "index": 2,
+        "body": "(i) and (iii) only",
+        "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+        "stats": {
+          "count": 234
+        },
+        "resources": []
+      },
+      {
+        "id": "2c8f3aae-3f14-4719-bd93-7ecfd1d8bf5f",
+        "index": 3,
+        "body": "(ii) only",
+        "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+        "stats": {
+          "count": 865
+        },
+        "resources": []
+      },
+      {
+        "id": "a7540789-fa1a-48dc-bbb7-4ca16871e24d",
+        "index": 4,
+        "body": "(i) only",
+        "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+        "stats": {
+          "count": 163
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "298928221",
+    "timeSpentVideo": "99484368",
+    "submissions": 1887,
+    "submissionsCorrect": 865,
+    "accuracy": 0.4583995760466349,
+    "difficulty": 0.7895067941620533
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "f10094f2-ffab-4a6a-8dbb-4dc2aca269a6",
+    "body": "",
+    "questionId": "43cffe0a-4f00-47b7-946f-7085aee640e1",
+    "resources": [
+      {
+        "id": "6c386a0a-4c29-4dbc-9b75-1bc8777eef1b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1qA9exO23-k?t=1232\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f10094f2-ffab-4a6a-8dbb-4dc2aca269a6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0096a6fd-c9e0-45e5-a558-d8cdbd75301f",
+      "name": "Symmetric Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3208026615",
+        "timeSpentVideo": "442646788",
+        "submissions": 9357,
+        "submissionsCorrect": 5324,
+        "questions": 5,
+        "accuracy": 0.568985786042535,
+        "difficulty": 0.68174368192873
+      }
+    },
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "98f7aa52-6b10-415c-b269-3991425de277",
+      "name": "Orthogonality",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295748992",
+        "timeSpentVideo": "694299197",
+        "submissions": 13140,
+        "submissionsCorrect": 7059,
+        "questions": 6,
+        "accuracy": 0.5372146118721461,
+        "difficulty": 0.7130664652567976
+      }
+    }
+  ],
+  "children": []
+}

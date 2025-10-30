@@ -1,0 +1,112 @@
+{
+  "id": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the inverse Laplace transform $\\mathcal{L}^{-1}\\{F(s)\\}$ of the function\n\n\n\\[\nF(s)=\\frac{13}{s\\left(s^{2}+4 s+13\\right)}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "62250d61-235b-47a9-bc28-184a5d290d39",
+        "index": 0,
+        "body": "$2+\\cos 3 t+\\frac{1}{2} \\sin 3 t$",
+        "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "0e1e7fd2-20d6-477d-9f36-6d6442440c19",
+        "index": 1,
+        "body": "$3+e^{-2 t} \\cos 3 t-e^{-2 t} \\sin 3 t$",
+        "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "65b3173c-537d-413e-bb80-83881414376f",
+        "index": 2,
+        "body": "$1-\\frac{2}{3} e^{-2 t} \\sin 3 t$",
+        "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "5845035b-2430-438c-85a4-61c5d10bb682",
+        "index": 3,
+        "body": "$e^{-2 t} \\cos 3 t+e^{-2 t} \\sin 3 t$",
+        "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "5f5d5255-e13c-4ce8-8460-c5e05f9ccf9d",
+        "index": 4,
+        "body": "$1-e^{-2 t} \\cos 3 t-\\frac{2}{3} e^{-2 t} \\sin 3 t$",
+        "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "72079908",
+    "timeSpentVideo": "0",
+    "submissions": 178,
+    "submissionsCorrect": 142,
+    "accuracy": 0.797752808988764,
+    "difficulty": 0.5593525179856115
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "055c4a9b-6c5b-4621-92cd-ec75996ec975",
+    "body": "",
+    "questionId": "0ca09ec5-7a4b-47c5-808d-e489abed8095",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

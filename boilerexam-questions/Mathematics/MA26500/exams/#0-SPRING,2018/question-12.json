@@ -1,0 +1,158 @@
+{
+  "id": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all real number(s) a such that the following vectors form a basis for $R^{3}$ (the real vector space of all $n \\times 1$ real vectors):\n\n\n\\[\n\\left[\\begin{array}{l}\na \\\\\n1 \\\\\n2\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\na \\\\\n1 \\\\\n3\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n1 \\\\\n1 \\\\\n1\n\\end{array}\\right] .\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1ef6c3e2-16a4-42c4-bf03-2842db4bfe89",
+        "index": 0,
+        "body": "$a \\neq 1$",
+        "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+        "stats": {
+          "count": 1582
+        },
+        "resources": []
+      },
+      {
+        "id": "3c771835-6868-48af-b803-ccebef2e20c4",
+        "index": 1,
+        "body": "$a \\neq 2$",
+        "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "2bb7005e-c43b-48be-bb56-d14337610a47",
+        "index": 2,
+        "body": "$a=1$",
+        "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      },
+      {
+        "id": "cf1acc1e-147e-432f-935d-f4622b4cac4d",
+        "index": 3,
+        "body": "$a=2$",
+        "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "fec97e26-b138-4555-9354-24dc8994498f",
+        "index": 4,
+        "body": "$a$ can be any real number",
+        "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+        "stats": {
+          "count": 297
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "354218201",
+    "timeSpentVideo": "49076315",
+    "submissions": 2356,
+    "submissionsCorrect": 1582,
+    "accuracy": 0.6714770797962648,
+    "difficulty": 0.5855048859934854
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "7c22007e-5d90-40d8-ae4c-e6ac98ab1c3d",
+    "body": "",
+    "questionId": "4b2d5dfd-ef13-458c-a7e9-60bd566174f5",
+    "resources": [
+      {
+        "id": "a9517549-079b-4d35-8eac-9e97044dc4e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1qA9exO23-k?t=1617\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7c22007e-5d90-40d8-ae4c-e6ac98ab1c3d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    }
+  ],
+  "children": []
+}

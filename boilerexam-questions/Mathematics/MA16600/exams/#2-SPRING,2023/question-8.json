@@ -1,0 +1,158 @@
+{
+  "id": "05cb839e-3811-4ec0-9549-fd0174b31020",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral \n\\[\n\\int \\frac{\\sqrt{x^2-49}}{7x} dx \\textrm{ with condition } x > 7.\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3d612d4a-328a-4eea-bceb-26cfc2272b96",
+        "index": 0,
+        "body": "$\\frac{1}{7}\\sqrt{x^2-49}-\\sec ^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "68783cac-36fe-4cf5-a6bc-75ec23fd4be1",
+        "index": 1,
+        "body": "$\\sqrt{x^2-7}-\\sec ^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "1abb6b7f-44fc-4892-8008-8ab5e68c778a",
+        "index": 2,
+        "body": "$7\\sqrt{x^2-49}-\\sec ^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "3259f113-cd5f-4e06-a4c5-26a79cdac193",
+        "index": 3,
+        "body": "$\\sqrt{x^2-7}-7\\sec ^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "14a3466c-443d-4ebc-85af-c99d235af7a2",
+        "index": 4,
+        "body": "$\\frac{1}{7}\\sqrt{x^2-49}-\\sec ^{-1}\\left(x\\right) + C$",
+        "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "36565827",
+    "timeSpentVideo": "3352309",
+    "submissions": 171,
+    "submissionsCorrect": 102,
+    "accuracy": 0.5964912280701754,
+    "difficulty": 0.6891143911439115
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "7890a211-4a12-4fd6-b195-165994c71a21",
+    "body": null,
+    "questionId": "05cb839e-3811-4ec0-9549-fd0174b31020",
+    "resources": [
+      {
+        "id": "28f46cb9-95c0-4644-a908-5e44b46383c9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=CP8nmHP6LuqcIlL_&t=3223"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7890a211-4a12-4fd6-b195-165994c71a21",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "512369716",
+        "timeSpentVideo": "27938167",
+        "submissions": 1029,
+        "submissionsCorrect": 547,
+        "questions": 5,
+        "accuracy": 0.531584062196307,
+        "difficulty": 0.7212134632418069
+      }
+    }
+  ],
+  "children": []
+}

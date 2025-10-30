@@ -1,0 +1,133 @@
+{
+  "id": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following code:\nWhich statement accurately describes the behavior of read_file_into_list?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "076c9b03-7942-4ecc-84a0-342d1b2b93b5",
+        "index": 0,
+        "body": "If the file only contains whitespaces, the function will return a list of zeroes.",
+        "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "ea8f9ca9-428d-490f-939b-19eb4172d5ff",
+        "index": 1,
+        "body": "The function raises an exception if the file contains a mix of integer and non-integer value.",
+        "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+        "stats": {
+          "count": 181
+        },
+        "resources": []
+      },
+      {
+        "id": "41541dbb-17cb-42a3-9a7c-80a6b79a65c2",
+        "index": 2,
+        "body": "If the file is empty, the function will return a list with a single element containing the string \"Empty data read.\"",
+        "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "d9b3b90d-d256-42b0-983c-9515577a34ae",
+        "index": 3,
+        "body": "The function ignores any lines in the file that can't be converted to integer.",
+        "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "79691727",
+    "timeSpentVideo": "12239001",
+    "submissions": 339,
+    "submissionsCorrect": 181,
+    "accuracy": 0.5339233038348082,
+    "difficulty": 0.7238041002277904
+  },
+  "resources": [
+    {
+      "id": "5d109372-c5a8-49bf-9716-58222c60ff8a",
+      "type": "CODE",
+      "data": {
+        "content": "def read_file_into_list(filename):\n    data = []\n    try:\n        with open(filename, 'r') as f:\n            for line in f:\n                data.append(int(line.strip())\n            assert len(data) > 0, \"Empty data read\"\n            return data\n    except FileNotFoundError:\n        return \"File not found\"\n    except ValueError:\n        return \"Invalid data in file\"\n    except AssertionError as e:\n        return str(e)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "dced8ac8-df63-4ff9-93bc-fcb37dee5d32",
+    "body": "",
+    "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
+    "resources": [
+      {
+        "id": "ccbf1e2a-ac74-4264-b2db-4e02ea7c0a62",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=csqyU6wj5qA"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dced8ac8-df63-4ff9-93bc-fcb37dee5d32",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

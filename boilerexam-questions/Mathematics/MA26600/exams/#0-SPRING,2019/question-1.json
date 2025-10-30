@@ -1,0 +1,143 @@
+{
+  "id": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the interval where the solution guaranteed to exist for the following initial value problem\n\n\\[\n(t+2) y^{\\prime}+y=\\frac{1}{t-1}, \\quad y(0)=\\frac{1}{2}\n\\]\n\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "92ae9717-f1eb-4bcb-aff2-8a6fc4f52030",
+        "index": 0,
+        "body": "$(1,+\\infty)$",
+        "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+        "stats": {
+          "count": 333
+        },
+        "resources": []
+      },
+      {
+        "id": "15647851-2866-4f09-8e54-de976597ddfa",
+        "index": 1,
+        "body": "$(-2,1)$",
+        "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+        "stats": {
+          "count": 2135
+        },
+        "resources": []
+      },
+      {
+        "id": "c6bdd94a-6598-4724-8978-8b1d467efdb1",
+        "index": 2,
+        "body": "$(-2,+\\infty)$",
+        "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "9d327a72-f708-4cd1-8ac0-6c4485af105a",
+        "index": 3,
+        "body": "$(-\\infty,-2)$",
+        "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "2be38080-9f2c-4c09-8d65-c748259af24b",
+        "index": 4,
+        "body": "$(-\\infty,1)$",
+        "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "558613061",
+    "timeSpentVideo": "213889530",
+    "submissions": 3470,
+    "submissionsCorrect": 2135,
+    "accuracy": 0.6152737752161384,
+    "difficulty": 0.6379551820728291
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "700c4d0e-db74-4cd5-ba6b-905b055e6048",
+    "body": "",
+    "questionId": "278ebccf-ad21-46b8-a3d5-21dc346ceaf1",
+    "resources": [
+      {
+        "id": "2de783bb-368f-4f12-b1ff-87ccb2ae45d4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=FeZwGE3bGqve5z7I&t=26"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "700c4d0e-db74-4cd5-ba6b-905b055e6048",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "94723094-ed9a-4a09-b629-4a9cd877ef8a",
+      "name": "Existence and Uniqueness Theorem",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6660983736",
+        "timeSpentVideo": "356068835",
+        "submissions": 10997,
+        "submissionsCorrect": 6335,
+        "questions": 4,
+        "accuracy": 0.5760661998726926,
+        "difficulty": 0.6746192664684149
+      }
+    }
+  ],
+  "children": []
+}

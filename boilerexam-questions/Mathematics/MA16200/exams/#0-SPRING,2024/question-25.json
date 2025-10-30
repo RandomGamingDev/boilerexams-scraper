@@ -1,0 +1,143 @@
+{
+  "id": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that \\[\\ln(1+x)=\\sum_{n=1}^\\infty(-1)^{(n+1)}\\frac{x^n}{n},\\] find the smallest number of terms of the series we need to add to compute the value of ln(1.1) with an error of less than or equal to $10^{-8}.$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "dce5dba8-f29b-430a-aab4-8610a7d11536",
+        "index": 0,
+        "body": "2",
+        "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "7ca4f280-2fb2-4363-a965-7bfcb06da7bd",
+        "index": 1,
+        "body": "5",
+        "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "7c02cb00-3663-4faa-aa03-086b5dbdb2b8",
+        "index": 2,
+        "body": "9",
+        "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "6814dd6c-2736-4abb-ba05-1068bed22182",
+        "index": 3,
+        "body": "7",
+        "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+        "stats": {
+          "count": 296
+        },
+        "resources": []
+      },
+      {
+        "id": "edd91a5c-bb83-44cc-8b96-2ad036d9daca",
+        "index": 4,
+        "body": "3",
+        "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "80604357",
+    "timeSpentVideo": "25503457",
+    "submissions": 567,
+    "submissionsCorrect": 296,
+    "accuracy": 0.5220458553791887,
+    "difficulty": 0.7312593703148426
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "5cea7b5a-e3ea-461f-89ec-6a7ae969f960",
+    "body": null,
+    "questionId": "49e4e53b-c2b5-4e7a-a7d5-e63a80d3e10d",
+    "resources": [
+      {
+        "id": "a02bc950-f32a-47fe-bcf2-f4df7d30ec6e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=9960s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5cea7b5a-e3ea-461f-89ec-6a7ae969f960",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a2308e3-4426-469d-b5ed-452bd4a2df9b",
+      "name": "Alternating Series Estimation",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4852295915",
+        "timeSpentVideo": "689161792",
+        "submissions": 16864,
+        "submissionsCorrect": 11105,
+        "questions": 6,
+        "accuracy": 0.6585033206831119,
+        "difficulty": 0.5924310304173543
+      }
+    }
+  ],
+  "children": []
+}

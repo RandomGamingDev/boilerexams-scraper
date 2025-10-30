@@ -1,0 +1,158 @@
+{
+  "id": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine which of the following statements are true and which are false.\n\nI. The series $\\sum_{k=1}^\\infty \\frac{1}{k^4+1}$ is convergent by the limit comparison test with $\\sum_{k=1}^\\infty \\frac{1}{k^4}$. \n\nII. The series $\\sum_{k=1}^\\infty \\frac{1}{k^4+1}$ is convergent by the comparison test with $\\sum_{k=1}^\\infty \\frac{1}{k^4}$. \n\nIII. The series $\\sum_{k=1}^\\infty \\frac{1}{k^4+1}$ is convergent by the ratio test. ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6b6727b7-be98-4a93-83cb-62d97b6e4072",
+        "index": 0,
+        "body": "I and III are true, II is false. ",
+        "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "32293687-8793-43be-bc46-1480884774dd",
+        "index": 1,
+        "body": "I, II and III are true. ",
+        "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "ca840be9-ae1c-4e3d-84bb-602a559ee120",
+        "index": 2,
+        "body": "II and III are true, I is false. ",
+        "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "3a340c87-ac27-43ea-99d5-16343d8fe2a6",
+        "index": 3,
+        "body": "I and II are true, III is false. ",
+        "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+        "stats": {
+          "count": 287
+        },
+        "resources": []
+      },
+      {
+        "id": "9367ce5e-6720-4b67-b8da-b371494791dc",
+        "index": 4,
+        "body": "II is true, I and III are false. ",
+        "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "91473648",
+    "timeSpentVideo": "10220743",
+    "submissions": 513,
+    "submissionsCorrect": 287,
+    "accuracy": 0.5594541910331384,
+    "difficulty": 0.7002446982055465
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "ff67cc61-7d74-4143-8e04-386b4570ac6c",
+    "body": null,
+    "questionId": "8e00c969-cb5f-4e85-9dfe-1a5177abf8a7",
+    "resources": [
+      {
+        "id": "bff8b4b8-98d7-4e24-be91-d3a7c52cf940",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=rgm6AAJJ2s0tkNJa&t=2615"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ff67cc61-7d74-4143-8e04-386b4570ac6c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "18bb1f1e-6a94-4790-88ce-77d5d3808838",
+      "name": "Ratio Test",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "814826940",
+        "timeSpentVideo": "52583038",
+        "submissions": 1297,
+        "submissionsCorrect": 745,
+        "questions": 2,
+        "accuracy": 0.574402467232074,
+        "difficulty": 0.68092340730136
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

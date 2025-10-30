@@ -1,0 +1,158 @@
+{
+  "id": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system of linear equations\n\n\n\\[\n\\begin{aligned}\nx+3 y-z & =5 \\\\\n2 x+5 y+a z & =9 \\\\\nx+y+a^{2} z & =a\n\\end{aligned}\n\\]\n\nUnder which conditions does this system have infinitely many solutions?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "419b63eb-d48a-4c32-824a-99fdfb22aaed",
+        "index": 0,
+        "body": "$a \\neq-1$",
+        "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "5d156093-b01d-4e44-bb8a-e5d36d919d71",
+        "index": 1,
+        "body": "$a \\neq 3$",
+        "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+        "stats": {
+          "count": 202
+        },
+        "resources": []
+      },
+      {
+        "id": "34882930-27f3-4d7a-aa04-79927165d628",
+        "index": 2,
+        "body": "$a=-1$",
+        "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "e18a485a-869c-4238-b51e-e0242922b358",
+        "index": 3,
+        "body": "$a=3$",
+        "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+        "stats": {
+          "count": 1713
+        },
+        "resources": []
+      },
+      {
+        "id": "578f9e6e-afa1-4b9a-9720-0cd398846da2",
+        "index": 4,
+        "body": "$a \\neq-1$ and $a \\neq 3$",
+        "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+        "stats": {
+          "count": 428
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "719194999",
+    "timeSpentVideo": "69123451",
+    "submissions": 2919,
+    "submissionsCorrect": 1713,
+    "accuracy": 0.5868448098663926,
+    "difficulty": 0.6660317986088109
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "a560e20d-68ce-40d7-9736-e3c512ea3950",
+    "body": "",
+    "questionId": "65effc27-949b-4afc-b10b-f0783bcfe67c",
+    "resources": [
+      {
+        "id": "01202d94-2ee3-4e2f-8197-445d71c55fee",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=889\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a560e20d-68ce-40d7-9736-e3c512ea3950",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

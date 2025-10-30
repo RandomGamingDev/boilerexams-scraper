@@ -1,0 +1,133 @@
+{
+  "id": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the correct use for the srand function call?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1f589662-e516-40f0-a76e-aac1dfb46239",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">seed = srand();</font>",
+        "questionId": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+        "stats": {
+          "count": 678
+        },
+        "resources": []
+      },
+      {
+        "id": "aa059f0c-2eaa-4531-b5da-d9431c1f34c1",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">srand(seed);</font>",
+        "questionId": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+        "stats": {
+          "count": 2398
+        },
+        "resources": []
+      },
+      {
+        "id": "0b1a49bf-a09c-46ba-9802-fcf7983f644a",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">seed = rand(seed);</font>",
+        "questionId": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "9c94d55c-1394-470f-81f8-ac44b0cf04ef",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "107234458",
+    "timeSpentVideo": "3593943",
+    "submissions": 3446,
+    "submissionsCorrect": 2398,
+    "accuracy": 0.6958792803250146,
+    "difficulty": 0.5596446700507615
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "6897d357-6c43-45bc-8989-850ad35664cd",
+    "body": "",
+    "questionId": "a9d775c8-3985-4118-9e2d-f958f42f86c1",
+    "resources": [
+      {
+        "id": "0dc5ae2f-2c87-47c1-a20b-e680d7301858",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=Z8f8fdBVFTJP_cF6&t=2079"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6897d357-6c43-45bc-8989-850ad35664cd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

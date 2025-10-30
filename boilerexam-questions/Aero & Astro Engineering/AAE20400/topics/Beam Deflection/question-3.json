@@ -1,0 +1,151 @@
+{
+  "id": "76f772cc-7e03-40b1-91e5-261c382ead96",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider a simply supported beam of length L with a force P applied at x = L/2, as shown in the figure below. The elastic modulus is E and the cross-sectional moment of inertia is I.\n\na) Use Castigliano\u2019s theorem to find the downward deflection at x = L/2. \n\nb) Without performing any calculations, describe in words how you would find the deflection of the above beam at x = L/4 using Castigliano\u2019s theorem. Write no more than three complete sentences.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 3,
+  "disclaimer": "Integration was performed incorrectly in the video. The correct equation for U found by integration is (P^2*L^3)/(96*E*I). This then makes the final equation for the deflection (P*L^3)/(48*E*I).",
+  "examId": "d3478294-0225-467c-8a47-befc274df050",
+  "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "97246479",
+    "timeSpentVideo": "10096744",
+    "submissions": 226,
+    "submissionsCorrect": 26,
+    "accuracy": 0.11504424778761062,
+    "difficulty": 1.0168711656441718
+  },
+  "resources": [
+    {
+      "id": "ade72f22-9f9d-4637-b9df-7b1f343f5051",
+      "type": "IMAGE",
+      "data": {
+        "key": "EuNNS-Xn4g0kwKvb_0n3k",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/EuNNS-Xn4g0kwKvb_0n3k"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "76f772cc-7e03-40b1-91e5-261c382ead96",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d3478294-0225-467c-8a47-befc274df050",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "357376191",
+      "timeSpentVideo": "62646898",
+      "submissions": 1383,
+      "submissionsCorrect": 150,
+      "questions": 4,
+      "accuracy": 0.10845986984815618,
+      "difficulty": 1.1151382333108564
+    }
+  },
+  "explanation": {
+    "id": "5e50125a-1730-4391-a8e7-381dbd41a3aa",
+    "body": "Integration was performed incorrectly in the video. The correct equation for U found by integration is (P^2*L^3)/(96*E*I). This then makes the final equation for the deflection (P*L^3)/(48*E*I).",
+    "questionId": "76f772cc-7e03-40b1-91e5-261c382ead96",
+    "resources": [
+      {
+        "id": "9d5efaa3-1ce5-46e0-9131-4a51987783ad",
+        "type": "IMAGE",
+        "data": {
+          "key": "DnQf5y4y5Poa61eFjULnd",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/DnQf5y4y5Poa61eFjULnd"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e50125a-1730-4391-a8e7-381dbd41a3aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "915f8db2-d349-4bad-9da0-58566979a87f",
+        "type": "IMAGE",
+        "data": {
+          "key": "eeFXSLpZXMDMh0O27dpVe",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/eeFXSLpZXMDMh0O27dpVe"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e50125a-1730-4391-a8e7-381dbd41a3aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "a58f5906-1bbe-476f-9eca-e8094f83780c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/CFJeee0hZro?si=WnoQS_F-cvxFfXks&t=1514"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e50125a-1730-4391-a8e7-381dbd41a3aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "482cceec-712b-4961-8843-023933089e09",
+      "name": "Strain Energy and Castiglianos Theorem",
+      "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+      "stats": {
+        "count": 1,
+        "timeSpent": "160870396",
+        "timeSpentVideo": "10096744",
+        "submissions": 226,
+        "submissionsCorrect": 26,
+        "questions": 1,
+        "accuracy": 0.11504424778761062,
+        "difficulty": 1.0168711656441718
+      }
+    },
+    {
+      "id": "812a0053-5f0a-4dfb-810b-0ccb92b6f92e",
+      "name": "Beam Deflection",
+      "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+      "stats": {
+        "count": 1,
+        "timeSpent": "394435193",
+        "timeSpentVideo": "39088226",
+        "submissions": 967,
+        "submissionsCorrect": 82,
+        "questions": 2,
+        "accuracy": 0.08479834539813857,
+        "difficulty": 1.1262886597938144
+      }
+    }
+  ],
+  "children": []
+}

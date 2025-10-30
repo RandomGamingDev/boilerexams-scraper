@@ -1,0 +1,158 @@
+{
+  "id": "49c96f40-c727-4c9a-b937-1d209855a719",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\oint_{C} y^{2} d x+x d y$, where the curve $C$ is the boundary of the half-disk\n\n\n\n\\[\nR=\\left\\{(x, y): x^{2}+y^{2} \\leq 9 \\text { and } x \\geq 0\\right\\}\n\\]\n\nwith clockwise orientation.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "5923c74c-4860-4875-b801-a6bbadce9023",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+        "stats": {
+          "count": 604
+        },
+        "resources": []
+      },
+      {
+        "id": "0bf40808-a718-4739-a71f-629fa9f976d5",
+        "index": 1,
+        "body": "$9 \\pi / 2$",
+        "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+        "stats": {
+          "count": 1936
+        },
+        "resources": []
+      },
+      {
+        "id": "06b34e54-8902-4886-b102-5af3da17c820",
+        "index": 2,
+        "body": "$9 \\pi$",
+        "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+        "stats": {
+          "count": 455
+        },
+        "resources": []
+      },
+      {
+        "id": "5edc3394-be62-4f9f-9990-80b27d395bc2",
+        "index": 3,
+        "body": "$-9 \\pi / 2$",
+        "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+        "stats": {
+          "count": 3625
+        },
+        "resources": []
+      },
+      {
+        "id": "9006764c-5c61-47e4-b815-d2c5e4e863d3",
+        "index": 4,
+        "body": "$-3 \\pi$",
+        "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+        "stats": {
+          "count": 300
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1917286673",
+    "timeSpentVideo": "222023212",
+    "submissions": 8012,
+    "submissionsCorrect": 3625,
+    "accuracy": 0.45244633050424365,
+    "difficulty": 0.7969674556213018
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "730bfbe7-5194-428f-8412-086bfa6246eb",
+    "body": "",
+    "questionId": "49c96f40-c727-4c9a-b937-1d209855a719",
+    "resources": [
+      {
+        "id": "23b1e5e6-8b64-48c9-bbf7-db3c00bdcf58",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=sr7Pa75HKxS5UBto&t=2673"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "730bfbe7-5194-428f-8412-086bfa6246eb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a401e6c-1dd8-4203-9a76-d81212bfdecd",
+      "name": "Line Integral - dx dy",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7208319456",
+        "timeSpentVideo": "751877078",
+        "submissions": 14175,
+        "submissionsCorrect": 6680,
+        "questions": 2,
+        "accuracy": 0.4712522045855379,
+        "difficulty": 0.7785464098073556
+      }
+    },
+    {
+      "id": "6b00f507-0e71-49ad-b1c7-8bab72eafe3e",
+      "name": "Greens Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18846148338",
+        "timeSpentVideo": "1774541677",
+        "submissions": 39505,
+        "submissionsCorrect": 21958,
+        "questions": 7,
+        "accuracy": 0.5558283761549171,
+        "difficulty": 0.6943125867945966
+      }
+    }
+  ],
+  "children": []
+}

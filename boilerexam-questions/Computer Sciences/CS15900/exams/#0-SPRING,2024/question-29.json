@@ -1,0 +1,118 @@
+{
+  "id": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below:\n\n<code>{ 45, 23, 43, 20, 30, 13, 35 }</code>\n\nWhich of the following configurations of the array is <b>NOT</b> possible after <b>TWO</b> passes through the <b>INSERTION</b> sorting algorithm?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "061439fe-8989-41f9-8f01-a9f1ec41c82f",
+        "index": 0,
+        "body": "<code>{ 45, 43, 23, 20, 30, 13, 35 }</code>",
+        "questionId": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "4ee152b2-594d-4611-a275-f57bb145183d",
+        "index": 1,
+        "body": "<code>{ 45, 23, 43, 20, 13, 30, 35 }</code>",
+        "questionId": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "b6ed9c28-85cc-43c0-b926-f5f2132866c8",
+        "index": 2,
+        "body": "<code>{ 20, 23, 43, 45, 30, 13, 35 }</code>",
+        "questionId": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "7cad23c1-ceb3-4541-9441-b09d2e72528a",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1705934",
+    "timeSpentVideo": "0",
+    "submissions": 6,
+    "submissionsCorrect": 2,
+    "accuracy": 0.3333333333333333,
+    "difficulty": 0.7594339622641509
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "6c964ca5-3960-4eae-9403-37899164ec40",
+    "body": null,
+    "questionId": "f0fd6e49-d407-4109-b1d2-f7cdaec0d243",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

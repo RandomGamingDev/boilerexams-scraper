@@ -1,0 +1,133 @@
+{
+  "id": "65812870-a621-46d5-9a94-d5655c182242",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the concept of scope is <b>FALSE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2af8ca91-9c34-44bd-9bdc-1192e4819944",
+        "index": 0,
+        "body": "The scope of a variable determines the region of the program in which it can be referred to by its identifier.",
+        "questionId": "65812870-a621-46d5-9a94-d5655c182242",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "6a589804-21bd-4317-8eb6-4affa421ac98",
+        "index": 1,
+        "body": "A variable declared inside of a function has a scope that extends until the end of the program.",
+        "questionId": "65812870-a621-46d5-9a94-d5655c182242",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "ebebedcb-55cb-47ca-ad94-0dca959b62a6",
+        "index": 2,
+        "body": "Parameters received by a function have the same scope as those variables declared inside of the same function.",
+        "questionId": "65812870-a621-46d5-9a94-d5655c182242",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "2f05df86-9578-4e9f-b934-8efc94917e86",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "65812870-a621-46d5-9a94-d5655c182242",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1104304",
+    "timeSpentVideo": "0",
+    "submissions": 10,
+    "submissionsCorrect": 8,
+    "accuracy": 0.8,
+    "difficulty": 0.7227272727272728
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "ed6c8d2f-3f54-41ca-857c-1c75d21f1ec9",
+    "body": null,
+    "questionId": "65812870-a621-46d5-9a94-d5655c182242",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    },
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

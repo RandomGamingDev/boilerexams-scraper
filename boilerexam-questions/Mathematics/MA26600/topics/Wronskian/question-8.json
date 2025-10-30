@@ -1,0 +1,105 @@
+{
+  "id": "1ee803ab-a2bb-41c1-963b-6b9d6861e359",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "The homogeneous differential equation \\[y''-\\frac{3}{x}y'+\\frac{4}{x^2}y=0, \\textrm{  }x>0\\] has two solutions $y_1(x)=x^2$ and $y_2(x)=x^2\\ln{(x)}$. Use the method of variation of parameters to find a particular solution of the nonhomogeneous differential equation \\[y''-\\frac{3}{x}y'+\\frac{4}{x^2}y=2,\\textrm{  }x>0\\]",
+    "solution": "",
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "219450729",
+    "timeSpentVideo": "49049367",
+    "submissions": 729,
+    "submissionsCorrect": 243,
+    "accuracy": 0.3333333333333333,
+    "difficulty": 0.896562123039807
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "4e7c8e75-237f-44fa-a3a9-c25be5a7a640",
+    "body": "Note: in the explanation I accidentally wrote $x(t)$ instead of $y(x)$ throughout the computation for the particular solution. Treat each $x(t)$ or $x_p(t)$ term as $y(x)$ and $y_p(x)$.\n\nThe particular solution $y_p(x)$ for this inhomogeneous differential equation can be found using the variation of parameters by using the formula \\[y_p(x)=-y_1(x)\\int\\frac{y_2(x)f(x)}{det(W)}dx+y_2(x)\\int\\frac{y_1(x)f(x)}{det(W)}dx\\] Where $f(x)$ is equal to the inhomogenous portion of the differential equation (in this case 2) and $det(W)$ is the determinant of the Wronskian matrix of the given solutions to the homogeneous differential equation (in this case $x^3$). \\[\\]Plugging the given values in the formula for variation of parameters results in a particular solution of \\[y_p(x)=x^2(ln(x))^2\\]",
+    "questionId": "1ee803ab-a2bb-41c1-963b-6b9d6861e359",
+    "resources": [
+      {
+        "id": "30f0bb44-341b-4ff6-823f-1c1dc069520f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=r3C5y0jwPno&t=3611s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4e7c8e75-237f-44fa-a3a9-c25be5a7a640",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "01e06b91-18fe-4c84-91c8-3c31284c54cc",
+      "name": "Wronskian",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3865909676",
+        "timeSpentVideo": "107031537",
+        "submissions": 6559,
+        "submissionsCorrect": 4363,
+        "questions": 5,
+        "accuracy": 0.6651928647659704,
+        "difficulty": 0.5872878810632227
+      }
+    },
+    {
+      "id": "9afbe3f6-5b29-4e84-91f7-8119c279e6f6",
+      "name": "Variation of parameters",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5315244737",
+        "timeSpentVideo": "392226818",
+        "submissions": 9653,
+        "submissionsCorrect": 5071,
+        "questions": 11,
+        "accuracy": 0.5253289132912048,
+        "difficulty": 0.724930790525992
+      }
+    }
+  ],
+  "children": []
+}

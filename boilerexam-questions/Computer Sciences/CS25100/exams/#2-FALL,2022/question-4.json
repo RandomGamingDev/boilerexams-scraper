@@ -1,0 +1,150 @@
+{
+  "id": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $L$ be a list of $n$ 10\u2013digit numbers. Bruno proposes the following algorithm for sorting the $n$ numbers.\n\nRemember: digit 9 is the unit, digit 8 is the ten, digit 7 is the hundred, digit 6 is the thousand... (e.g., for the number 5432198760 the 9th digit is 0, the 8th digit is 6 and so on...)\n\nWhat, if any, correction(s) are to be made so that BrunoSort will work on all values in $L$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4250d454-6181-4c18-846b-7367d1a1068a",
+        "index": 0,
+        "body": "Bruno is wrong. \\verb|BrunoSort| takes a painfully long time to sort each element in the list of numbers, so we can fix this by just merge-sorting everything instead.",
+        "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "52a8a4a3-dc0b-4f0c-b530-171b4509f06b",
+        "index": 1,
+        "body": "Bruno is wrong. The outer \\verb|for| loop of \\verb|BrunoSort| is fine, but the use of Selection Sort is not, and wouldn't accurately sort the values of $L$.",
+        "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "03f56d61-c696-4154-8483-fbbe3668c47c",
+        "index": 2,
+        "body": "Bruno is wrong. \\verb|BrunoSort| sorts the digits in the wrong order. To fix this, just have the loop go from 9 to 0 instead of from 0 to 9. We also need to replace selection sort with a stable sorting algorithm.",
+        "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+        "stats": {
+          "count": 1044
+        },
+        "resources": []
+      },
+      {
+        "id": "c1e9dfaa-e484-417d-8156-f555621f5d42",
+        "index": 3,
+        "body": "Bruno is right, and no changes need to be made.",
+        "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "271249702",
+    "timeSpentVideo": "22007056",
+    "submissions": 1456,
+    "submissionsCorrect": 1044,
+    "accuracy": 0.717032967032967,
+    "difficulty": 0.5469151670951157
+  },
+  "resources": [
+    {
+      "id": "33264ce5-0e5e-4407-aeff-87b0d50dc328",
+      "type": "IMAGE",
+      "data": {
+        "key": "NqK35xwKyIUh8o9GfGJx_",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/NqK35xwKyIUh8o9GfGJx_",
+        "altText": "image"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1946630963",
+      "timeSpentVideo": "322126112",
+      "submissions": 12485,
+      "submissionsCorrect": 8220,
+      "questions": 8,
+      "accuracy": 0.6583900680816981,
+      "difficulty": 0.5928684942391736
+    }
+  },
+  "explanation": {
+    "id": "fec1ea16-0c03-4225-95af-ecd014d300a2",
+    "body": "",
+    "questionId": "26072525-be8d-4fe7-b67a-e7854edddf4e",
+    "resources": [
+      {
+        "id": "6079fbba-a540-40c3-8016-0b37c975f9db",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aMC7yAJuKrg?t=931"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fec1ea16-0c03-4225-95af-ecd014d300a2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "da64a574-a050-486a-a121-d4540ef6d32f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If the power series $\\sum_{k=1}^\\infty c_k(x-1)^k$ converges at x = -1 and diverges at x = 4 what can be said about its radius of convergence R?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "74028cde-a647-495c-8f74-226812ce3799",
+        "index": 0,
+        "body": "$2\\le R\\le3$",
+        "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+        "stats": {
+          "count": 245
+        },
+        "resources": []
+      },
+      {
+        "id": "1aacd0a3-557a-42d9-98e7-e63544ee71ce",
+        "index": 1,
+        "body": "$2<R<3$",
+        "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "d76dbcfb-e94c-4927-8bc1-2102186f72b0",
+        "index": 2,
+        "body": "$1\\le R\\le2$",
+        "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "09e1cb51-5c49-49fd-9242-d95259dfb840",
+        "index": 3,
+        "body": "$2\\le R<3$",
+        "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      },
+      {
+        "id": "97dde602-5f98-40f8-b6c5-bd5593126113",
+        "index": 4,
+        "body": "$1\\le R\\le4$",
+        "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "76266710",
+    "timeSpentVideo": "32930460",
+    "submissions": 602,
+    "submissionsCorrect": 245,
+    "accuracy": 0.4069767441860465,
+    "difficulty": 0.8297720797720798
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "68f9b415-c372-4058-97c1-122d3b4e17f0",
+    "body": null,
+    "questionId": "da64a574-a050-486a-a121-d4540ef6d32f",
+    "resources": [
+      {
+        "id": "b1ba71dc-3cc1-4da4-bebe-bf0f4ce59c9a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=3379s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "68f9b415-c372-4058-97c1-122d3b4e17f0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    },
+    {
+      "id": "d811d117-988e-4d83-b478-5bbe42e4b600",
+      "name": "Radius of Convergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2642845522",
+        "timeSpentVideo": "372375429",
+        "submissions": 6850,
+        "submissionsCorrect": 3931,
+        "questions": 4,
+        "accuracy": 0.5738686131386861,
+        "difficulty": 0.6771942446043165
+      }
+    }
+  ],
+  "children": []
+}

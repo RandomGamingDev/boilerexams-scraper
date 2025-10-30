@@ -1,0 +1,158 @@
+{
+  "id": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following series converge?\n\n$\\textrm{I.} \\sum_{n=2} ^ {\\infty}\\frac{1}{n(\\ln{(n)})^2}$\n\n$\\textrm{II.} \\sum_{n=2} ^ \\infty \\frac{1}{n\\ln{(n)}}$\n\n$\\textrm{III.} \\sum_{n=2} ^ \\infty \\frac{(-1)^n}{n\\ln{(n)}}$\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2054496d-56aa-4e2c-aec1-3d151d9b0c38",
+        "index": 0,
+        "body": "I and II only. ",
+        "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "9318924a-333d-4477-b113-6ec61d505165",
+        "index": 1,
+        "body": "II and III only. ",
+        "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "bc1c7482-f8ac-43fe-a081-91589a16b4be",
+        "index": 2,
+        "body": "All. ",
+        "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "a12e7d32-c1e7-40b9-8c8f-711dd90c863d",
+        "index": 3,
+        "body": "I and III only. ",
+        "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+        "stats": {
+          "count": 318
+        },
+        "resources": []
+      },
+      {
+        "id": "0f3d62b4-26bd-4022-9625-c37e4bf65c56",
+        "index": 4,
+        "body": "III only. ",
+        "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105508012",
+    "timeSpentVideo": "17412884",
+    "submissions": 578,
+    "submissionsCorrect": 318,
+    "accuracy": 0.5501730103806228,
+    "difficulty": 0.7072271386430679
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "40001726-de67-4aef-bef8-8137d0837236",
+    "body": null,
+    "questionId": "b5b6d2f9-8b53-4f96-97c1-47aa7c16640e",
+    "resources": [
+      {
+        "id": "81708606-3766-46a8-8eaa-3e9764aef841",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=uWn0GyYfpCyJ48Sg&t=750"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "40001726-de67-4aef-bef8-8137d0837236",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5938145e-a0a7-40ad-a835-f7093577722c",
+      "name": "Integral Test",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "384761217",
+        "timeSpentVideo": "17412884",
+        "submissions": 578,
+        "submissionsCorrect": 318,
+        "questions": 1,
+        "accuracy": 0.5501730103806228,
+        "difficulty": 0.7072271386430679
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

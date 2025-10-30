@@ -1,0 +1,143 @@
+{
+  "id": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following vectors\n\n\\[\n\\mathbf{u}=\\left[\\begin{array}{l}\n1 \\\\\n0\n\\end{array}\\right], \\quad \\mathbf{v}=\\left[\\begin{array}{c}\n-1 \\\\\n1\n\\end{array}\\right], \\quad \\mathbf{w}=\\left[\\begin{array}{c}\n2 \\\\\n-2\n\\end{array}\\right]\n\\]\n\nWhich of the following statements is wrong?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9fd36709-524f-4ca3-910d-cd8a57e1fd50",
+        "index": 0,
+        "body": "$\\mathbf{u} \\cdot \\mathbf{v}=-1$",
+        "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "acc61ab9-0892-4e28-9e93-6396897b0026",
+        "index": 1,
+        "body": "$\\mathbf{u}^{T} \\mathbf{v}=\\mathbf{v}^{T} \\mathbf{u}$",
+        "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "0164e8fb-a9f0-4840-84f5-95dffdf740e7",
+        "index": 2,
+        "body": "$\\{\\mathbf{u}, \\mathbf{v}, \\mathbf{w}\\}$ is linearly independent",
+        "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+        "stats": {
+          "count": 321
+        },
+        "resources": []
+      },
+      {
+        "id": "efd73190-997e-44ca-8c31-af930a983526",
+        "index": 3,
+        "body": "$\\{\\mathbf{v}, \\mathbf{w}\\}$ is linearly dependent",
+        "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "439b2427-48d2-4bf1-b4d4-87cd0053a62a",
+        "index": 4,
+        "body": "$\\mathbf{w}$ is a linear combination of $\\mathbf{u}$ and $\\mathbf{v}$",
+        "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "84414615",
+    "timeSpentVideo": "29032477",
+    "submissions": 702,
+    "submissionsCorrect": 321,
+    "accuracy": 0.45726495726495725,
+    "difficulty": 0.7874064837905237
+  },
+  "resources": [],
+  "exam": {
+    "id": "704e9d8e-dde0-4f87-b04b-e586bd3eb8ad",
+    "number": 1,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1771712154",
+      "timeSpentVideo": "273680111",
+      "submissions": 9144,
+      "submissionsCorrect": 5353,
+      "questions": 12,
+      "accuracy": 0.585411198600175,
+      "difficulty": 0.6655127650367806
+    }
+  },
+  "explanation": {
+    "id": "e0896b81-90bd-4173-9133-1bfb351c8ba3",
+    "body": "",
+    "questionId": "c1f5414d-8f17-4c30-91a3-d7e1751d5703",
+    "resources": [
+      {
+        "id": "0a7c0fc0-29f1-444d-87db-53427d6f8f8a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3TDiyc6mziY?si=lCEJi0DU1WTCQ__o&t=1858\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e0896b81-90bd-4173-9133-1bfb351c8ba3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

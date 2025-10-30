@@ -1,0 +1,158 @@
+{
+  "id": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Convert the polar coordinates $(4,7\\pi/2)$ to Cartesian coordinates.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f218e151-5b40-42e1-9f3c-feedde95044c",
+        "index": 0,
+        "body": "$(-2\\sqrt{2},2\\sqrt{2})$",
+        "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "d29cf328-78e2-4878-8d51-14914963cde0",
+        "index": 1,
+        "body": "$(2\\sqrt{2},-2\\sqrt{2})$",
+        "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "f8fb130f-b829-4543-be6e-0335801abbf2",
+        "index": 2,
+        "body": "$(2\\sqrt{3},2)$",
+        "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "998fbc91-2328-426a-9aca-d191b13e2bfb",
+        "index": 3,
+        "body": "(0, -4)",
+        "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+        "stats": {
+          "count": 342
+        },
+        "resources": []
+      },
+      {
+        "id": "040dec7e-d3e7-4b4c-95e8-1d79ba2ea104",
+        "index": 4,
+        "body": "(0,4)",
+        "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "67341195",
+    "timeSpentVideo": "3841897",
+    "submissions": 492,
+    "submissionsCorrect": 342,
+    "accuracy": 0.6951219512195121,
+    "difficulty": 0.5878378378378378
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "fcb77fc0-cf24-4b23-92d1-b46811455c2c",
+    "body": null,
+    "questionId": "5e42f75b-7e94-431d-9c12-702ef1a9227f",
+    "resources": [
+      {
+        "id": "50af862e-3706-4455-b668-be43356065d8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=3657s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fcb77fc0-cf24-4b23-92d1-b46811455c2c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "24cbbc40-79a2-43c0-bc60-d909a4fbbc1f",
+      "name": "Polar Coordinates",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5292923715",
+        "timeSpentVideo": "268260904",
+        "submissions": 12013,
+        "submissionsCorrect": 7338,
+        "questions": 9,
+        "accuracy": 0.610838258553234,
+        "difficulty": 0.6400767770164286
+      }
+    },
+    {
+      "id": "c1db643c-cb4c-490b-ac79-9107f7049575",
+      "name": "PolarCartesian Conversion",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2950549358",
+        "timeSpentVideo": "113884363",
+        "submissions": 8751,
+        "submissionsCorrect": 6303,
+        "questions": 4,
+        "accuracy": 0.7202605416523826,
+        "difficulty": 0.5322279968365157
+      }
+    }
+  ],
+  "children": []
+}

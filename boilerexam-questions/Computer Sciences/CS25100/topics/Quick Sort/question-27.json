@@ -1,0 +1,159 @@
+{
+  "id": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The worst policy for selecting a pivot value in Quick Sort is?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "541ad7c0-b15c-479e-8eb4-53fd48114b25",
+        "index": 0,
+        "body": "Pick an element randomly from the array",
+        "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "ccf59d3b-2a92-435e-b6f8-44dfd60f6631",
+        "index": 1,
+        "body": "Use the last element of the array",
+        "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+        "stats": {
+          "count": 207
+        },
+        "resources": []
+      },
+      {
+        "id": "9caff7be-a699-4b8b-844c-6ac58e9c2a8f",
+        "index": 2,
+        "body": "Use the first element of the array",
+        "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "73a392c6-a0e8-426d-aa83-4d62af384c96",
+        "index": 3,
+        "body": "Use element at the middle of the array",
+        "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "9e4bbeba-71c4-4956-9731-dd92e98f8be6",
+        "index": 4,
+        "body": "There is no such a policy",
+        "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+        "stats": {
+          "count": 885
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "68800094",
+    "timeSpentVideo": "0",
+    "submissions": 1323,
+    "submissionsCorrect": 885,
+    "accuracy": 0.6689342403628118,
+    "difficulty": 0.592937456078707
+  },
+  "resources": [
+    {
+      "id": "3137c62a-6786-43d4-9330-aa3cb77439c6",
+      "type": "CODE",
+      "data": {
+        "content": "Algorithm partition(A, left, right) \n   let pivot = A[right]\n   let i = left - 1 \n  \n   for(j = left, j < right, j = j + 1)\n      if (compare(A[j], pivot) < 0)\n         i = i + 1\n         swap(A, i, j)\n      end if\n   end for\n   \n   i = i + 1\n   swap(A, i, right)\n   return i\nEnd algorithm\n\nAlgorithm QuickSort(A, left, right) \n   if (left < right) \n      let idx = partition(A, left, right)\n      QuickSort(A, left, idx - 1)\n      QuickSort(A, idx + 1, right)\n   end if\nEnd algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "8bb8efb1-bb55-4b5d-9275-2b30ee60f6ca",
+    "body": "In the best case for quick sort, we always pick the median value of an array to be our pivot index but with truly random arrays, what is the most effective way of picking the median value (without going through to find the median which creates extra overhead time)? There is none, thus there is no best policy",
+    "questionId": "5c044bd3-e7b1-45cc-b53e-8741ec10bf50",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "45f48c88-a7fb-4023-892e-85acf7112604",
+      "name": "Quick Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1924558900",
+        "timeSpentVideo": "0",
+        "submissions": 5186,
+        "submissionsCorrect": 3445,
+        "questions": 4,
+        "accuracy": 0.6642884689548785,
+        "difficulty": 0.5888195232690124
+      }
+    }
+  ],
+  "children": []
+}

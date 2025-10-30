@@ -1,0 +1,188 @@
+{
+  "id": "477031e1-2a29-4b31-849b-461da2f00485",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is correct about the convergence of the series \\[S_1=\\sum_{k=1}^{\\infty}\\frac{(-1)^k\\sqrt{k}}{k+4}\\text{    and    }S_2=\\sum_{k=1}^{\\infty}\\frac{(-1)^k2k^2}{3k^2+1}\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "28fe1828-7e93-4a13-9ff1-9ab8344f6f13",
+        "index": 0,
+        "body": "$S_1$ and $S_2$ are divergent.",
+        "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+        "stats": {
+          "count": 145
+        },
+        "resources": []
+      },
+      {
+        "id": "c4d5685c-e0a2-4b6f-a049-1e1324292aa6",
+        "index": 1,
+        "body": "$S_1$ is absolutely convergent and $S_2$ is conditionally convergent.",
+        "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+        "stats": {
+          "count": 247
+        },
+        "resources": []
+      },
+      {
+        "id": "02b6cbeb-69b7-4abe-add1-59afe1241913",
+        "index": 2,
+        "body": "$S_1$ is conditionally convergent and $S_2$ is divergent.",
+        "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+        "stats": {
+          "count": 1200
+        },
+        "resources": []
+      },
+      {
+        "id": "1de6146d-976c-4588-9814-0fd73a22866d",
+        "index": 3,
+        "body": "$S_1$ and $S_2$ are conditionally convergent.",
+        "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "09a2b204-0a61-44de-a0b4-7f6328dd5a80",
+        "index": 4,
+        "body": "$S_1$ and $S_2$ are absolutely convergent.",
+        "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+        "stats": {
+          "count": 156
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "523751003",
+    "timeSpentVideo": "80292355",
+    "submissions": 2197,
+    "submissionsCorrect": 1200,
+    "accuracy": 0.5461993627674101,
+    "difficulty": 0.7058119286025251
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3456260593",
+      "timeSpentVideo": "520083877",
+      "submissions": 18340,
+      "submissionsCorrect": 11369,
+      "questions": 12,
+      "accuracy": 0.6199018538713196,
+      "difficulty": 0.6307483731019523
+    }
+  },
+  "explanation": {
+    "id": "959e8495-f275-40cb-9410-31094e09e6a8",
+    "body": null,
+    "questionId": "477031e1-2a29-4b31-849b-461da2f00485",
+    "resources": [
+      {
+        "id": "6058418c-49d0-49ec-8666-d75a4d00ee50",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eulVR-n2sNg&t=3762s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "959e8495-f275-40cb-9410-31094e09e6a8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "90aefd56-8ed4-4b24-ab50-35e95ad67472",
+      "name": "Abs or Conditionally Convergent",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5890053487",
+        "timeSpentVideo": "746679403",
+        "submissions": 10193,
+        "submissionsCorrect": 6011,
+        "questions": 4,
+        "accuracy": 0.5897184342195625,
+        "difficulty": 0.6611532109200428
+      }
+    },
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    },
+    {
+      "id": "fa192135-b4e1-40e8-85ce-a3b292efe1e7",
+      "name": "Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11213666000",
+        "timeSpentVideo": "825768661",
+        "submissions": 23782,
+        "submissionsCorrect": 12883,
+        "questions": 12,
+        "accuracy": 0.5417122193255404,
+        "difficulty": 0.7084624403316305
+      }
+    }
+  ],
+  "children": []
+}

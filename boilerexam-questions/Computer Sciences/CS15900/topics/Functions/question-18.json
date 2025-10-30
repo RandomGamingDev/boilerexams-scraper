@@ -1,0 +1,133 @@
+{
+  "id": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding functions and variables is <b>FALSE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "74539fc8-3e15-43f8-9328-3edd9df47008",
+        "index": 0,
+        "body": "Data sent from the calling function to the function being called will be received in the same order in which it was passed.",
+        "questionId": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "20105005-4665-456c-b81f-b662ac5b6bef",
+        "index": 1,
+        "body": "A local variable cannot be referenced through its identifier outside of the function in which it is defined.",
+        "questionId": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "954e0f8b-58e9-4db8-a273-54f665dfdd7e",
+        "index": 2,
+        "body": "A variable declared in the local declaration section of a function can have the same identifier as one of the parameters of the same function.",
+        "questionId": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+        "stats": {
+          "count": 531
+        },
+        "resources": []
+      },
+      {
+        "id": "d9b12729-b703-4acd-95b0-cd7ee391ab2c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "65975773-d891-4987-ad37-0525d9a54288",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "59170618",
+    "timeSpentVideo": "0",
+    "submissions": 684,
+    "submissionsCorrect": 531,
+    "accuracy": 0.7763157894736842,
+    "difficulty": 0.5089285714285714
+  },
+  "resources": [],
+  "exam": {
+    "id": "65975773-d891-4987-ad37-0525d9a54288",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2179307861",
+      "timeSpentVideo": "0",
+      "submissions": 24300,
+      "submissionsCorrect": 16378,
+      "questions": 44,
+      "accuracy": 0.6739917695473251,
+      "difficulty": 0.5767213114754098
+    }
+  },
+  "explanation": {
+    "id": "e87d4453-89a2-4fee-b42c-509bdafc49c8",
+    "body": null,
+    "questionId": "03a606b0-c4cd-42b0-8c05-92b1bbdee83f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

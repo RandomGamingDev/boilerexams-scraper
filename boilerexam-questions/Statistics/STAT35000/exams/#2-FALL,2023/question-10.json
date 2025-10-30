@@ -1,0 +1,123 @@
+{
+  "id": "d93c2f9f-0c22-42b1-ae28-232454dee221",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "The local environmental task force is conducting a study to estimate the average CO2 emissions in hectograms per mile (hectogram/mi) of vehicles in a city. A simple random sample of 22 vehicles was taken, and the data is collected. The task force is interested in making inferences about the population mean CO2 emissions. The following graphs were generated from the above sample.\n\n(A) Using the above provided figures, what specific assumption(s) about the data can be tested to ensure the validity of performing statistical inference regarding the population mean CO2 emission of vehicles in a city? Please explain your answer and assess whether these assumptions are met based on the provided graphs. Be clear about what information is conveyed in each graph\n\n(B) If the assumptions mentioned in (A) are not met, how could you adjust the data, to potentially satisfy these assumptions? If your answer to (A) is affirmative regarding the assumptions, specify any additional assumptions required for the analysis that cannot be determined from the graphs alone and explain how you would verify their validity.",
+    "solution": "(A) The histogram and normal probability plots of the sample CO2 emission measurements both provide insights into the possible shape of the population CO2 emissions in the city and allow us to check whether the normality assumption is reasonable.  Considering that the sample size is 22 any strong deviations from normality can be problematic. The histogram is clearly positively skewed and not a symmetric distribution. This same behavior is confirmed in the normal probability plot points above the line at the ends and below the line in the middle. Since the data is moderately positively skewed the assumption of normality is not valid. \n\n(B) Assumptions not met: We can possibly transform the CO2 emissions using a log transformation. Applying the log transformation can make the data become closer to a normal distribution. \n",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "19744785",
+    "timeSpentVideo": "10145151",
+    "submissions": 107,
+    "submissionsCorrect": 4,
+    "accuracy": 0.037383177570093455,
+    "difficulty": 0.9891304347826086
+  },
+  "resources": [
+    {
+      "id": "35ed4ccf-0aa5-4da0-8bf2-0ba4037b64d4",
+      "type": "IMAGE",
+      "data": {
+        "key": "9tSSlsEPb0SYrlcF_kTbW",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9tSSlsEPb0SYrlcF_kTbW",
+        "altText": "Histogram "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d93c2f9f-0c22-42b1-ae28-232454dee221",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "55d09d7b-45d8-4b6c-8bc0-b2b97c7a73bd",
+      "type": "IMAGE",
+      "data": {
+        "key": "jOJAk6C18Z5dQ3Kpuqid5",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/jOJAk6C18Z5dQ3Kpuqid5",
+        "altText": "Normal Probability Plot"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d93c2f9f-0c22-42b1-ae28-232454dee221",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "abae7b72-d4a1-4d3d-9f06-25c1124d925d",
+    "body": "",
+    "questionId": "d93c2f9f-0c22-42b1-ae28-232454dee221",
+    "resources": [
+      {
+        "id": "abe6ea23-c6bc-40a7-9465-18753cfe997e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=827"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "abae7b72-d4a1-4d3d-9f06-25c1124d925d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cc2d1383-add6-4d57-9e43-5738986d38f2",
+      "name": "Validity of Statistical Inference",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "79314286",
+        "timeSpentVideo": "14673503",
+        "submissions": 170,
+        "submissionsCorrect": 6,
+        "questions": 2,
+        "accuracy": 0.03529411764705882,
+        "difficulty": 1.0425925925925925
+      }
+    }
+  ],
+  "children": []
+}

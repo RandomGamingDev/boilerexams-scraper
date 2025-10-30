@@ -1,0 +1,143 @@
+{
+  "id": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all the values of $a$ such that\n\n\\[\nA=\\left[\\begin{array}{ccc}\n1 & 1-a & 0 \\\\\n1 & 0 & 0 \\\\\n1 & 2 & a\n\\end{array}\\right]\n\\]\n\nis invertible.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ba4a23e0-762a-4b8c-8422-727ace76fdd1",
+        "index": 0,
+        "body": "$a \\neq 0$ and $a \\neq 1$.",
+        "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+        "stats": {
+          "count": 896
+        },
+        "resources": []
+      },
+      {
+        "id": "6b7f28bf-d351-43a7-9a41-ee84ab8c1a9d",
+        "index": 1,
+        "body": "$a \\neq 2$.",
+        "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "e555563f-6e65-4485-98b2-ed36ea9c957a",
+        "index": 2,
+        "body": "$a \\neq-1$.",
+        "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "4eb045e5-00fb-4045-917f-3d9aa21913cc",
+        "index": 3,
+        "body": "It is invertible for all values of $a$.",
+        "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "43af8b3e-93b8-4ba3-b77a-e3368d25f804",
+        "index": 4,
+        "body": "$a \\neq 0$",
+        "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "201136537",
+    "timeSpentVideo": "33725895",
+    "submissions": 1220,
+    "submissionsCorrect": 896,
+    "accuracy": 0.7344262295081967,
+    "difficulty": 0.5333333333333333
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "d802960e-243e-4554-bc4a-d08cbfce5b6f",
+    "body": "",
+    "questionId": "d60520d3-4db3-4d4c-9fcd-e331b55f9229",
+    "resources": [
+      {
+        "id": "29957da1-bd2b-49e9-a488-e17b6ca4d6dd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=2isb5WFU8mJhSwzu&t=364\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d802960e-243e-4554-bc4a-d08cbfce5b6f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

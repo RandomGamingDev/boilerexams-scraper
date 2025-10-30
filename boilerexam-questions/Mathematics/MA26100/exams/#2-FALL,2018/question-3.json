@@ -1,0 +1,143 @@
+{
+  "id": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We can approximate the double integral $\\int_{0}^{6} \\int_{0}^{6} \\frac{x+y}{3} d y\\; d x$ with a Riemann sum by partitioning the region $D=\\{(x, y) \\mid 0 \\leq x \\leq 6,0 \\leq y \\leq 6\\}$ into four equal squares. And if we choose the upper right corner of each square as the sample point, which of the following is the approximated value of the double integral?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "600cb947-7de7-42c0-a510-bac96c58d705",
+        "index": 0,
+        "body": "$144$",
+        "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "76a312aa-6032-47f4-b4ae-069734195a74",
+        "index": 1,
+        "body": "$108$",
+        "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+        "stats": {
+          "count": 1144
+        },
+        "resources": []
+      },
+      {
+        "id": "fc2b9161-2994-4514-98fa-2f530424ca12",
+        "index": 2,
+        "body": "$72$",
+        "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+        "stats": {
+          "count": 478
+        },
+        "resources": []
+      },
+      {
+        "id": "1308b3e7-68c2-424c-b53f-9b896327f9e1",
+        "index": 3,
+        "body": "$48$",
+        "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "ed88277c-95c1-41ff-a846-53df94c2a077",
+        "index": 4,
+        "body": "$36$",
+        "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "398597141",
+    "timeSpentVideo": "213259248",
+    "submissions": 2761,
+    "submissionsCorrect": 1144,
+    "accuracy": 0.41434262948207173,
+    "difficulty": 0.8326634044040545
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "4ea4e2eb-4261-48b2-8096-c577a9ddb322",
+    "body": "",
+    "questionId": "09a5cb61-2ce6-43d7-96c5-e7c97a5caba7",
+    "resources": [
+      {
+        "id": "3cafcb24-078b-436d-ab0f-224f499cc73a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=382"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4ea4e2eb-4261-48b2-8096-c577a9ddb322",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c9cc5f18-9d1c-4015-abd7-98f7d34ce171",
+      "name": "Riemann Sum on a Rectangle",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "783108327",
+        "timeSpentVideo": "234858499",
+        "submissions": 2761,
+        "submissionsCorrect": 1144,
+        "questions": 1,
+        "accuracy": 0.41434262948207173,
+        "difficulty": 0.8326634044040545
+      }
+    }
+  ],
+  "children": []
+}

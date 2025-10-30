@@ -1,0 +1,160 @@
+{
+  "id": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The graph below most closely resembles the gradient vector field of which function?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "9d41ac9d-079a-471b-9ef9-fba8fa8c1c40",
+        "index": 0,
+        "body": "$f(x, y)=x e^{y}$",
+        "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+        "stats": {
+          "count": 316
+        },
+        "resources": []
+      },
+      {
+        "id": "7d26647a-8220-43d6-8321-ec49a185e3b7",
+        "index": 1,
+        "body": "$f(x, y)=y e^{x}$",
+        "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+        "stats": {
+          "count": 412
+        },
+        "resources": []
+      },
+      {
+        "id": "e9622ff8-444f-4843-a5d4-03409c530086",
+        "index": 2,
+        "body": "$f(x, y)=\\frac{y}{x}$",
+        "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+        "stats": {
+          "count": 499
+        },
+        "resources": []
+      },
+      {
+        "id": "104534bd-dc3b-44a8-a62b-7f20868c6f49",
+        "index": 3,
+        "body": "$f(x, y)=x^{2}+y^{2}+10$",
+        "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+        "stats": {
+          "count": 225
+        },
+        "resources": []
+      },
+      {
+        "id": "0a35b407-0f87-4e52-8e30-18ef988945f7",
+        "index": 4,
+        "body": "$f(x, y)=y^{2}-x^{2}-10$",
+        "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+        "stats": {
+          "count": 2747
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "431521401",
+    "timeSpentVideo": "250443275",
+    "submissions": 4692,
+    "submissionsCorrect": 2747,
+    "accuracy": 0.585464620630861,
+    "difficulty": 0.6663188647746243
+  },
+  "resources": [
+    {
+      "id": "e9579d5d-cca0-4399-bc09-4220ec2527a0",
+      "type": "IMAGE",
+      "data": {
+        "key": "vYjXF-A2nCNz5nAiKzhwB",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/vYjXF-A2nCNz5nAiKzhwB",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "1d1f8f8b-f44c-4c36-9a49-5c4064726b32",
+    "body": "",
+    "questionId": "59d58cbe-0806-4c91-9957-28ab244d1fa5",
+    "resources": [
+      {
+        "id": "65885258-fc5d-4663-9c67-28db61321517",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=2332"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1d1f8f8b-f44c-4c36-9a49-5c4064726b32",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e4e08f3b-1ad0-4808-a7ea-5503bd128c32",
+      "name": "Gradient Vector Fields",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3464786088",
+        "timeSpentVideo": "446760841",
+        "submissions": 12585,
+        "submissionsCorrect": 8574,
+        "questions": 3,
+        "accuracy": 0.6812872467222885,
+        "difficulty": 0.5701418998817501
+      }
+    }
+  ],
+  "children": []
+}

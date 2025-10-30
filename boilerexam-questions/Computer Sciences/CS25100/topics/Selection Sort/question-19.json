@@ -1,0 +1,129 @@
+{
+  "id": "f6eba1b2-adf9-46ec-bbef-ad00b32fa8ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The number of swaps performed by Selection Sort is O(n). ",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "8e171602-ae0b-424b-86fe-d84ef92081bc",
+        "index": 0,
+        "body": "True",
+        "questionId": "f6eba1b2-adf9-46ec-bbef-ad00b32fa8ee",
+        "stats": {
+          "count": 1084
+        },
+        "resources": []
+      },
+      {
+        "id": "50dcca46-b069-4438-8705-90d9841b63f5",
+        "index": 1,
+        "body": "False",
+        "questionId": "f6eba1b2-adf9-46ec-bbef-ad00b32fa8ee",
+        "stats": {
+          "count": 478
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "172315038",
+    "timeSpentVideo": "0",
+    "submissions": 1597,
+    "submissionsCorrect": 1084,
+    "accuracy": 0.6787726988102692,
+    "difficulty": 0.5817619328226281
+  },
+  "resources": [
+    {
+      "id": "8162a81c-cdd9-43b8-a448-2125f1499833",
+      "type": "CODE",
+      "data": {
+        "content": "Algorithm SelectionSort(A)\nlet n = |A| //Array length\nfor (i = 0, i < n - 1, 1) \n  let idx = i\n  for (j = i + 1, j < n, 1) \n\t if (A[j] < A[idx]) \n\t\tidx = j\n\t end if\n  end for\n  if (i != idx) \n\t swap(A, i, idx)\n  end if\nend for\nreturn A\nEnd Algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f6eba1b2-adf9-46ec-bbef-ad00b32fa8ee",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "2b9c6d78-95b3-442b-b030-dd28bb0cb41c",
+    "body": null,
+    "questionId": "f6eba1b2-adf9-46ec-bbef-ad00b32fa8ee",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "f4419c6f-b2f6-4a23-8acb-b8f0fc3d6553",
+      "name": "Selection Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "646990405",
+        "timeSpentVideo": "0",
+        "submissions": 1597,
+        "submissionsCorrect": 1084,
+        "questions": 1,
+        "accuracy": 0.6787726988102692,
+        "difficulty": 0.5817619328226281
+      }
+    }
+  ],
+  "children": []
+}

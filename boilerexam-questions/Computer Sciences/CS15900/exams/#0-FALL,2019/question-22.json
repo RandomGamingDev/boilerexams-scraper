@@ -1,0 +1,133 @@
+{
+  "id": "694916aa-59b3-48b7-a265-c87066672022",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding pointer variables is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5b4a6f53-c289-44fa-8539-3c3637f94159",
+        "index": 0,
+        "body": "Working with an uninitialized pointer variable is a compile-time error.",
+        "questionId": "694916aa-59b3-48b7-a265-c87066672022",
+        "stats": {
+          "count": 1496
+        },
+        "resources": []
+      },
+      {
+        "id": "3bf6b643-ac3b-4bc5-a6a0-22d210d6fc6d",
+        "index": 1,
+        "body": "The asterisk character (*) is used in two different contexts for pointer variables; for declaration and for\ndereferencing.",
+        "questionId": "694916aa-59b3-48b7-a265-c87066672022",
+        "stats": {
+          "count": 275
+        },
+        "resources": []
+      },
+      {
+        "id": "24f06459-bf93-4eb8-8873-47fa0d9fcfae",
+        "index": 2,
+        "body": "The value of a pointer variable can change during the execution of a program.",
+        "questionId": "694916aa-59b3-48b7-a265-c87066672022",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "33efa75b-6d24-4a65-8de8-a20ffc43639f",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "694916aa-59b3-48b7-a265-c87066672022",
+        "stats": {
+          "count": 488
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "174945034",
+    "timeSpentVideo": "0",
+    "submissions": 2373,
+    "submissionsCorrect": 1496,
+    "accuracy": 0.6304256215760641,
+    "difficulty": 0.6248483623129801
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "686161e7-56a1-41a3-bce5-15ca890082d3",
+    "body": "",
+    "questionId": "694916aa-59b3-48b7-a265-c87066672022",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2bd450d2-6b6f-4334-9cce-ec32bb051b73",
+      "name": "Pointers",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23135421221",
+        "timeSpentVideo": "108143106",
+        "submissions": 72257,
+        "submissionsCorrect": 45875,
+        "questions": 26,
+        "accuracy": 0.6348865853827311,
+        "difficulty": 0.6152998327736087
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

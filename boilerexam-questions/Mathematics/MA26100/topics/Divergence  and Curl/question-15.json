@@ -1,0 +1,143 @@
+{
+  "id": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given a two-dimensional vector field F(x, y) = $\\langle x^{2} + \\frac{y}{x^{2}+y^{2}},x- \\frac{x}{x^{2}+y^{2}}\\rangle$  compute the value of the scalar curl of F(x, y) at the point (2, 1).\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "de6c14b2-c746-4bfc-b473-9be72a0e0136",
+        "index": 0,
+        "body": "$3$",
+        "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+        "stats": {
+          "count": 161
+        },
+        "resources": []
+      },
+      {
+        "id": "3439f7ef-946f-433c-8a8a-27044b481766",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+        "stats": {
+          "count": 2090
+        },
+        "resources": []
+      },
+      {
+        "id": "58c841e5-980c-46d7-83e4-30079b3f10f8",
+        "index": 2,
+        "body": "$7 / \\sqrt{5}$",
+        "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+        "stats": {
+          "count": 315
+        },
+        "resources": []
+      },
+      {
+        "id": "bc880050-8d6f-49aa-9f12-0b54e5e41d52",
+        "index": 3,
+        "body": "$4 / \\sqrt{5}$",
+        "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      },
+      {
+        "id": "5a0d4589-4703-4532-859e-e724af7a1400",
+        "index": 4,
+        "body": "$5 / \\sqrt{5}$",
+        "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1036110913",
+    "timeSpentVideo": "130642238",
+    "submissions": 3742,
+    "submissionsCorrect": 2090,
+    "accuracy": 0.5585248530197755,
+    "difficulty": 0.6929984383133785
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "40421e26-ab2b-40e7-8e2d-911c72484bec",
+    "body": "",
+    "questionId": "1494dbe2-39fc-4d25-b9fd-d1af0186f111",
+    "resources": [
+      {
+        "id": "c48e1e51-ee02-4626-8642-fe1ab24e2f21",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=ApKB5K2qJaze0-28&t=2949"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "40421e26-ab2b-40e7-8e2d-911c72484bec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12211665531",
+        "timeSpentVideo": "1608395474",
+        "submissions": 32383,
+        "submissionsCorrect": 17165,
+        "questions": 8,
+        "accuracy": 0.530062069604422,
+        "difficulty": 0.7200304774805283
+      }
+    }
+  ],
+  "children": []
+}

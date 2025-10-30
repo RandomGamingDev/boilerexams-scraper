@@ -1,0 +1,128 @@
+{
+  "id": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a 2 x 2 matrix $A = \\begin{bmatrix}2 & -1 \\\\ 1 & 2\\end{bmatrix}$ Then, a general solution of the linear system $ x' = Ax$ is",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e0384029-6874-47ea-a0d3-6ec5767e8e63",
+        "index": 0,
+        "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} e^{2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{2t}$",
+        "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "5d32b719-d92c-4536-93a9-17cc166cc69e",
+        "index": 1,
+        "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix}$",
+        "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "56c93c36-1ef1-43d5-9be2-6fe055b3d435",
+        "index": 2,
+        "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} e^{-2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{-2t}$",
+        "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "076a13b2-fadd-453e-8a21-1d9cac584ca7",
+        "index": 3,
+        "body": "$x = c_1 \\begin{bmatrix}\\sin t \\\\ \\cos t\\end{bmatrix} e^{2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{2t}$",
+        "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "a911c641-c006-4d88-b20a-e6e138ff9124",
+        "index": 4,
+        "body": "$x = c_1 \\begin{bmatrix}\\sin t \\\\ \\cos t\\end{bmatrix} e^{-2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{-2t}$",
+        "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1089747",
+    "timeSpentVideo": "0",
+    "submissions": 6,
+    "submissionsCorrect": 4,
+    "accuracy": 0.6666666666666666,
+    "difficulty": 0.7405660377358491
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "7a50aa55-07de-44a4-956a-375effabec96",
+    "body": null,
+    "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

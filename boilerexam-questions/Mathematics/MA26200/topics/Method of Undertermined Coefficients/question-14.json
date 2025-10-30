@@ -1,0 +1,128 @@
+{
+  "id": "a38a7754-f52a-4358-bfbb-0571363addc0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the method of Undetermined Coefficients, which of the following is the correct form of a particular solution $y_{p}$ to the nonhomogeneous differential equation\n\n\n\n\\[\ny^{(4)}-y=x e^{x}+3 \\cos x-4 x ?\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b6cab589-519c-4784-a2a9-e92a3ef5d7f6",
+        "index": 0,
+        "body": "$y_{p}=x(A+B x) e^{x}+(C \\cos x+D \\sin x)+E x$",
+        "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "e5e42de5-6d06-4306-b4fe-2a8dfbff0ffc",
+        "index": 1,
+        "body": "$y_{p}=(A+B x) e^{x}+(C \\cos x+D \\sin x)+E+F x$",
+        "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "d50e047d-edde-44f6-841c-1acf52bf22a3",
+        "index": 2,
+        "body": "$y_{p}=(A+B x) e^{x}+x(C \\cos x+D \\sin x)+x(E+F x)$",
+        "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "f7d50b9e-8d5a-4567-b771-7468c363dc4b",
+        "index": 3,
+        "body": "$y_{p}=x(A+B x) e^{x}+x(C \\cos x)-D x$",
+        "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "bfb5d46f-ab9e-4b08-b6f6-472c9b5427dd",
+        "index": 4,
+        "body": "$y_{p}=x(A+B x) e^{x}+x(C \\cos x+D \\sin x)+E+F x$",
+        "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+        "stats": {
+          "count": 272
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "98551223",
+    "timeSpentVideo": "0",
+    "submissions": 416,
+    "submissionsCorrect": 272,
+    "accuracy": 0.6538461538461539,
+    "difficulty": 0.625968992248062
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "991a42a6-34f3-4f40-98d3-aca0391ab4c7",
+    "body": "",
+    "questionId": "a38a7754-f52a-4358-bfbb-0571363addc0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "a2d7f9e3-6709-45a9-b68e-6a6a3d37fc69",
+      "name": "Method of Undertermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "929177082",
+        "timeSpentVideo": "59317379",
+        "submissions": 1612,
+        "submissionsCorrect": 946,
+        "questions": 3,
+        "accuracy": 0.586848635235732,
+        "difficulty": 0.6682242990654206
+      }
+    }
+  ],
+  "children": []
+}

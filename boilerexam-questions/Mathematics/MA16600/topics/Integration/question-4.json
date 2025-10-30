@@ -1,0 +1,158 @@
+{
+  "id": "ee555c69-0cbf-4871-8411-7917135993c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $\\int \\tan^4(x) \\sec ^4 (x)dx. $",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "87ee9f39-a801-441f-9078-7a6a418d2b6d",
+        "index": 0,
+        "body": "$\\frac{1}{7}\\tan^7(x)-\\frac{1}{5}\\tan^5(x)+C$",
+        "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "d5075917-4626-4a1f-913b-0ab90bfa30d5",
+        "index": 1,
+        "body": "$\\frac{1}{6}\\tan^5(x)-\\frac{1}{4}\\tan^3(x)+C$",
+        "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "b5ea027d-90b4-42dc-9062-956d1321838c",
+        "index": 2,
+        "body": "$\\frac{1}{7}\\tan^7(x)+\\frac{1}{5}\\tan^5(x)+C$",
+        "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "6bd39937-5685-4d9e-bca4-dc6819f48fe7",
+        "index": 3,
+        "body": "$\\frac{1}{7}\\tan^7(x)-\\frac{1}{5}\\tan^3(x)+C$",
+        "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "fef2c89c-a4db-48e8-972b-faf897ad73c8",
+        "index": 4,
+        "body": "$\\frac{1}{6}\\tan^6(x)-\\frac{1}{4}\\tan^4(x)+C$",
+        "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "38054884",
+    "timeSpentVideo": "966747",
+    "submissions": 187,
+    "submissionsCorrect": 113,
+    "accuracy": 0.6042780748663101,
+    "difficulty": 0.6820557491289199
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "a329976d-2714-4655-ade9-c429fe064eec",
+    "body": null,
+    "questionId": "ee555c69-0cbf-4871-8411-7917135993c8",
+    "resources": [
+      {
+        "id": "9ae6d112-6eac-4a52-8e51-983291fc8202",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=TORFwwsT7MzdGc5Y&t=1388"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a329976d-2714-4655-ade9-c429fe064eec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

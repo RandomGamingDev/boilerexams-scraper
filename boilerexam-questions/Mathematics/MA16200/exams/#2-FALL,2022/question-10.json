@@ -1,0 +1,143 @@
+{
+  "id": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\int_{0}^{1} \\frac{x+2}{(x+3)(x+1)} d x$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "322f4f84-7599-4a61-9fbb-dbe6f29bec6d",
+        "index": 0,
+        "body": "$\\ln (2 \\sqrt{3})$",
+        "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "eb5165bb-4dbe-4ba4-8cac-5f695b5e99d3",
+        "index": 1,
+        "body": "$\\ln \\left(\\frac{2}{\\sqrt{3}}\\right)$",
+        "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "f3d0f850-54b7-4d9b-8500-c9c820ad7d6a",
+        "index": 2,
+        "body": "$\\frac{1}{2} \\ln (8 \\sqrt{3})$",
+        "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "ea9eccf8-1b10-4a8a-a9fd-99976c36d5ed",
+        "index": 3,
+        "body": "$\\ln \\left(\\frac{4}{\\sqrt{3}}\\right)$",
+        "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "0d6781e7-1c8c-4048-8291-5d6c8266d723",
+        "index": 4,
+        "body": "$\\frac{1}{2} \\ln \\left(\\frac{8}{3}\\right)$",
+        "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+        "stats": {
+          "count": 1293
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "379242698",
+    "timeSpentVideo": "44288255",
+    "submissions": 1721,
+    "submissionsCorrect": 1293,
+    "accuracy": 0.7513073794305636,
+    "difficulty": 0.5124931356397584
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "eaf0ad61-d06a-4192-84e9-268210831641",
+    "body": "",
+    "questionId": "ea855670-9b26-42fc-a0e1-9547e98d23ab",
+    "resources": [
+      {
+        "id": "efabd7ff-cd00-4883-bb5f-f6589924e7cb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=1702\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eaf0ad61-d06a-4192-84e9-268210831641",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182337043",
+        "timeSpentVideo": "951958617",
+        "submissions": 36368,
+        "submissionsCorrect": 22498,
+        "questions": 15,
+        "accuracy": 0.618620765508139,
+        "difficulty": 0.6317045080618624
+      }
+    }
+  ],
+  "children": []
+}

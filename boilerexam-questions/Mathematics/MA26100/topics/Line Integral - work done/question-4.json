@@ -1,0 +1,143 @@
+{
+  "id": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{F}$ be the conservative vector field given by $\\mathbf{F}(x, y)=\\left\\langle y^3+1,3 x y^2+1\\right\\rangle$. Consider a semicircular path $C_1$ from $(0,0)$ to $(2,0)$, that is\n$$\nC_1:\\{\\mathbf{r}(t)=\\langle 1-\\cos (t), \\sin (t)\\rangle; 0 \\leq t \\leq \\pi\\} .\n$$\nEvaluate $\\int_{C_1} \\mathbf{F} \\cdot \\mathrm{d} \\mathbf{r}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c9a38f5b-10c9-4e66-83f8-825d31edcdcf",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+        "stats": {
+          "count": 650
+        },
+        "resources": []
+      },
+      {
+        "id": "02d97a8e-30f2-4de3-a453-ec6340940d60",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "bba504a7-822f-4c3f-84fb-4a36e08d0243",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "d7a6ab2d-6d33-4c84-9fa4-5b1f62a030d0",
+        "index": 3,
+        "body": "$2$",
+        "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+        "stats": {
+          "count": 3438
+        },
+        "resources": []
+      },
+      {
+        "id": "0f5e53c7-7d45-41c5-8b7c-4e04a53a8c1a",
+        "index": 4,
+        "body": "$-2$",
+        "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+        "stats": {
+          "count": 146
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1405871926",
+    "timeSpentVideo": "255884637",
+    "submissions": 6198,
+    "submissionsCorrect": 3438,
+    "accuracy": 0.5546950629235237,
+    "difficulty": 0.6961733883772626
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "1dbb3ccf-36a7-4d9c-9365-bd55f7c40785",
+    "body": "",
+    "questionId": "5fd4f6b3-617a-4729-9b9a-98c3e21eb797",
+    "resources": [
+      {
+        "id": "b4c15ea4-df45-4076-905f-680e6f32aad2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=R-X1kdv6FcAtboLB&t=725"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1dbb3ccf-36a7-4d9c-9365-bd55f7c40785",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

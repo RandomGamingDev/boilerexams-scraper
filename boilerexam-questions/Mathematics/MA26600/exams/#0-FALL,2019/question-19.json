@@ -1,0 +1,143 @@
+{
+  "id": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y=y(t)$ be the solution of the initial value problem \n\n$y^{\\prime\\prime}+4y^{\\prime}+3y=$\\(\\int_{0}^{t} \\cos (\\tau)\\sinh (t-\\tau) \\,d\\tau\\); $\\;\\;\\;\\;\\;\\;y(0)=y^{\\prime}(0)=1.$\n\nFind $Y(s)=\\mathcal{L}\\{y(t)\\}$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "55e81acd-2929-4cc9-8750-1c81ba7169f9",
+        "index": 0,
+        "body": "$\\frac{1}{s^{2}+4 s+3}\\left[\\frac{s}{s^{4}-1}+s+5\\right]$",
+        "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+        "stats": {
+          "count": 715
+        },
+        "resources": []
+      },
+      {
+        "id": "01a94f35-e9fd-47bf-b655-70399ab8e7de",
+        "index": 1,
+        "body": "$\\frac{s}{\\left(s^{4}-1\\right)\\left(s^{2}+4 s+3\\right)}$",
+        "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "6a45268d-dc16-4373-80c9-a2fa7265e86a",
+        "index": 2,
+        "body": "$\\frac{1}{s^{2}+4 s+3}+\\frac{s}{s^{2}+1}+\\frac{1}{s^{2}-1}$",
+        "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "703bbd2a-bd26-41cb-a740-4b7cbbf0c271",
+        "index": 3,
+        "body": "$\\frac{s}{s^{4}-1}\\left[\\frac{1}{s^{2}+4 s+3}-s-5\\right]$",
+        "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "bb031665-dac4-469f-ab0c-8d00e4d50515",
+        "index": 4,
+        "body": "$\\frac{1}{s^{2}+4 s+3}\\left[\\frac{s}{s^{4}-1}-s-5\\right]$ ",
+        "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "328436090",
+    "timeSpentVideo": "58023146",
+    "submissions": 1206,
+    "submissionsCorrect": 715,
+    "accuracy": 0.5928689883913765,
+    "difficulty": 0.6642419601837672
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "21a96d4a-f175-4ceb-92fb-483c409cc2ab",
+    "body": "",
+    "questionId": "9faa2a79-9b0c-4fa3-accf-206a942cadee",
+    "resources": [
+      {
+        "id": "b716a21f-3458-4bdd-949a-ac1d8ee56e25",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=WAJkOrGfavK7idHQ&t=4296"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "21a96d4a-f175-4ceb-92fb-483c409cc2ab",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

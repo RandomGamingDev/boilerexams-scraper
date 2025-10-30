@@ -1,0 +1,143 @@
+{
+  "id": "d623776f-f072-4b46-b137-f603d32ff3bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What value of $c$ makes the function\n\\[\nf(x, y)=\\left\\{\\begin{array}{lll}\n\\frac{x^{2}-y^{2}}{x-y} & \\text { if } & x \\neq y \\\\\nc x & \\text { if } & x=y\n\\end{array}\\right.\n\\]\ncontinuous?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "730e177f-dbba-43bb-94f4-60ce468ac3a3",
+        "index": 0,
+        "body": "$2$",
+        "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+        "stats": {
+          "count": 4319
+        },
+        "resources": []
+      },
+      {
+        "id": "a2b7b238-899a-4923-a690-536690febac9",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+        "stats": {
+          "count": 546
+        },
+        "resources": []
+      },
+      {
+        "id": "591b59fe-9c73-4d4e-b2b5-1915fca42768",
+        "index": 2,
+        "body": "$16$",
+        "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "22bd66d3-214a-471c-afe7-e03ddcd302bb",
+        "index": 3,
+        "body": "$1$",
+        "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+        "stats": {
+          "count": 305
+        },
+        "resources": []
+      },
+      {
+        "id": "0a664cb1-0e47-4ad1-a2dc-aef343686014",
+        "index": 4,
+        "body": "Such a $c$ does not exist",
+        "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "This question is a near duplicate of fall 2022 final exam question 7. We are aware of this and it reflects the exams as they were given.",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "579968551",
+    "timeSpentVideo": "146871651",
+    "submissions": 6158,
+    "submissionsCorrect": 4319,
+    "accuracy": 0.7013640792465086,
+    "difficulty": 0.5518536273569831
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "1aede825-9a48-46b1-b7f5-044319fe6fcd",
+    "body": "",
+    "questionId": "d623776f-f072-4b46-b137-f603d32ff3bc",
+    "resources": [
+      {
+        "id": "cb3ec277-6cab-473b-96f5-5be8c50ac58a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=646"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1aede825-9a48-46b1-b7f5-044319fe6fcd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9c99be08-0dc5-4e06-beb4-b3ff43c28cb6",
+      "name": "3D Limits",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18513073335",
+        "timeSpentVideo": "1326895986",
+        "submissions": 54610,
+        "submissionsCorrect": 36571,
+        "questions": 8,
+        "accuracy": 0.6696758835378136,
+        "difficulty": 0.5806342533357705
+      }
+    }
+  ],
+  "children": []
+}

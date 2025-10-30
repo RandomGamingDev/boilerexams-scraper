@@ -1,0 +1,128 @@
+{
+  "id": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "According to the method of undetermined coefficients, to find a particular solution of the differential equation\n\n\n\\[\ny^{\\prime \\prime}-2 y^{\\prime}+y=3 x e^{x}+x e^{x} \\sin x+e^{2 x}\n\\]\n\none must try a solution of the form",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "629f1417-dac8-4f83-85d8-e290e32e96c7",
+        "index": 0,
+        "body": "$y_{p}(x)=C_{1} e^{2 x}+\\left(D_{1}+D_{2} x\\right) e^{x}+\\left(E_{1}+E_{2} x\\right) e^{x} \\sin x+\\left(F_{1}+F_{2} x\\right) e^{x} \\cos x$",
+        "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "5affbab8-323f-4ded-9a12-7c793f1b7c09",
+        "index": 1,
+        "body": "$y_{p}(x)=C_{1} e^{2 x}+x\\left(D_{1}+D_{2} x\\right) e^{x}+x\\left(E_{1}+E_{2} x\\right) e^{x} \\sin x+x\\left(F_{1}+F_{2} x\\right) e^{x} \\cos x$",
+        "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "c5254e6e-1e57-4f3d-827f-884f6b2b6c9b",
+        "index": 2,
+        "body": "$y_{p}(x)=C_{1} e^{2 x}+x^{2}\\left(D_{1}+D_{2} x\\right) e^{x}+x^{2}\\left(E_{1}+E_{2} x\\right) e^{x} \\sin x+x^{2}\\left(F_{1}+F_{2} x\\right) e^{x} \\cos x$",
+        "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "2f15518c-f044-4770-a8bc-e0464e5d42ab",
+        "index": 3,
+        "body": "$y_{p}(x)=C_{1} e^{2 x}+x^{2}\\left(D_{1}+D_{2} x\\right) e^{x}+\\left(E_{1}+E_{2} x\\right) e^{x} \\sin x+\\left(F_{1}+F_{2} x\\right) e^{x} \\cos x$",
+        "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+        "stats": {
+          "count": 476
+        },
+        "resources": []
+      },
+      {
+        "id": "2f7738ef-e8cf-4aee-80d5-26a0bfba567f",
+        "index": 4,
+        "body": "$y_{p}(x)=C_{1} e^{2 x}+x^{3}\\left(D_{1}+D_{2} x\\right) e^{x}+\\left(E_{1}+E_{2} x\\right) e^{x} \\sin x+\\left(F_{1}+F_{2} x\\right) e^{x} \\cos x$",
+        "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "230951160",
+    "timeSpentVideo": "0",
+    "submissions": 890,
+    "submissionsCorrect": 476,
+    "accuracy": 0.5348314606741573,
+    "difficulty": 0.7186868686868687
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "628e5592-4db8-47ac-86f3-d8bee4d9cd97",
+    "body": "",
+    "questionId": "9dad0bcb-438c-461a-9d43-63970b1b498a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "041a4bc4-e76d-4d3e-98c1-1db1398ffae8",
+      "name": "Undetermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "798212898",
+        "timeSpentVideo": "0",
+        "submissions": 2226,
+        "submissionsCorrect": 1419,
+        "questions": 3,
+        "accuracy": 0.637466307277628,
+        "difficulty": 0.6184436801375752
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,218 @@
+{
+  "id": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be an $n \\times n$ matrix. Which of the following statements is/are NOT equivalent to that $A$ is invertible?\n\n\n(i) Columns of $A$ are linearly independent.\n\n(ii) $A$ is diagonalizable.\n\n(iii) Columns of $A$ is an orthonormal set.\n\n(iv) The dimension of the null space of $A$ is $0$.\n\n(v) The linear system $A X=b$ always has solution for any $b \\in \\mathbb{R}^{n}$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "875394d0-a0b4-48c7-8e97-4ebe82c3e469",
+        "index": 0,
+        "body": "(i), (ii) and (iii) only.",
+        "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "51484155-b8b6-46b7-950c-0a648f39f7f5",
+        "index": 1,
+        "body": "(i) and (ii) only.",
+        "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "55319565-4b55-444f-9b0d-ca0078692b5c",
+        "index": 2,
+        "body": "(ii) and (iii) only.",
+        "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+        "stats": {
+          "count": 1744
+        },
+        "resources": []
+      },
+      {
+        "id": "1f09a19c-755b-4db9-8502-e4c0be0c05ad",
+        "index": 3,
+        "body": "(i) and (iv) only.",
+        "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+        "stats": {
+          "count": 357
+        },
+        "resources": []
+      },
+      {
+        "id": "68169ea5-40ac-4de4-a539-f65b1f6c5f6a",
+        "index": 4,
+        "body": "(ii), (iv), (v) only.",
+        "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+        "stats": {
+          "count": 466
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "417215935",
+    "timeSpentVideo": "69344277",
+    "submissions": 3007,
+    "submissionsCorrect": 1744,
+    "accuracy": 0.5799800465580313,
+    "difficulty": 0.6725941422594143
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "18169bf1-3f42-467d-822c-51e158deecca",
+    "body": "",
+    "questionId": "bd95c261-eed1-45e9-b348-cce64d50ff12",
+    "resources": [
+      {
+        "id": "f615cbc5-2112-4bcf-86a2-24c1219bd333",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4404\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "18169bf1-3f42-467d-822c-51e158deecca",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    },
+    {
+      "id": "fb4e167d-626c-44d4-b679-a998679a5b12",
+      "name": "Dimension",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16628702850",
+        "timeSpentVideo": "2214638998",
+        "submissions": 46184,
+        "submissionsCorrect": 27923,
+        "questions": 12,
+        "accuracy": 0.6046033258271263,
+        "difficulty": 0.645622677383113
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "371915e4-28d1-40e2-9542-7ce57c125de0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the line integral $\\int_{C} \\mathbf{F} \\cdot d \\mathbf{r}$, where $\\mathbf{F}=\\langle y z, x z, x y\\rangle$ and the curve $C$ is parametrized by $\\mathbf{r}(t)=\\left\\langle t^{2}, t, t^{3}-3 t\\right\\rangle, 1 \\leq t \\leq 2$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "5da9596f-634c-447f-b900-d7b43e8de049",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "bc3a75be-dbaa-4aab-b186-3400b686a8a2",
+        "index": 1,
+        "body": "$10$",
+        "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "b48e7937-7ad0-4e59-a5a9-c3151e7a2185",
+        "index": 2,
+        "body": "$8 \\pi$",
+        "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "997c7d61-418a-43b6-a382-27189f77ab95",
+        "index": 3,
+        "body": "$-16$",
+        "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "ffa6e4f7-9d7e-4984-8872-922d69d3a4e4",
+        "index": 4,
+        "body": "$18$",
+        "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+        "stats": {
+          "count": 2896
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "916915620",
+    "timeSpentVideo": "97516881",
+    "submissions": 3811,
+    "submissionsCorrect": 2896,
+    "accuracy": 0.7599055366045657,
+    "difficulty": 0.4967399642035285
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "abc27b75-2108-43ed-9b66-2b3e5001beec",
+    "body": "",
+    "questionId": "371915e4-28d1-40e2-9542-7ce57c125de0",
+    "resources": [
+      {
+        "id": "0b48a131-f40d-4f2a-9c89-9dfec24d2d6a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=nl4PgP_9dxPHVL2y&t=2242"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "abc27b75-2108-43ed-9b66-2b3e5001beec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

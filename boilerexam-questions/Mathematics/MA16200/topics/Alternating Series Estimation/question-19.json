@@ -1,0 +1,143 @@
+{
+  "id": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose we want to approximate the sum of the series $\\sum_{k=1}^{\\infty} \\frac{(-1)^{k}}{k^{3}}$ by the sum $s_{m}=\\sum_{k=1}^{m} \\frac{(-1)^{k}}{k^{3}}$ of the first $m$ terms. By the theory of alternating series, the error will be less than or equal to $10^{-3}$ provided $m=$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "fcbde7b3-4166-4ed3-bdbf-9ebbf626c4c9",
+        "index": 0,
+        "body": "$4$",
+        "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "2ef22967-325f-48e1-8e45-da13181a0c15",
+        "index": 1,
+        "body": "$5$",
+        "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "52fc5360-ce2c-4786-bebd-c1c1abb3b71b",
+        "index": 2,
+        "body": "$6$",
+        "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "9e72ae07-a7d7-4a28-a6ce-573af747bf50",
+        "index": 3,
+        "body": "$7$",
+        "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "a56fa7f0-a6c6-404a-9601-a74f9aafd492",
+        "index": 4,
+        "body": "$9$",
+        "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+        "stats": {
+          "count": 2478
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "444033490",
+    "timeSpentVideo": "49879064",
+    "submissions": 3163,
+    "submissionsCorrect": 2478,
+    "accuracy": 0.7834334492570345,
+    "difficulty": 0.4752528348145878
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "bebd2562-0665-4a02-a836-9f17b247bd04",
+    "body": "",
+    "questionId": "990fd3bf-ed78-4be0-8882-d0408280d0e2",
+    "resources": [
+      {
+        "id": "bfd41d2f-9f55-40c7-bdc6-161bb82de042",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Leo8UMHCXzs?t=1110\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bebd2562-0665-4a02-a836-9f17b247bd04",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a2308e3-4426-469d-b5ed-452bd4a2df9b",
+      "name": "Alternating Series Estimation",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4852295915",
+        "timeSpentVideo": "689161792",
+        "submissions": 16864,
+        "submissionsCorrect": 11105,
+        "questions": 6,
+        "accuracy": 0.6585033206831119,
+        "difficulty": 0.5924310304173543
+      }
+    }
+  ],
+  "children": []
+}

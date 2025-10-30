@@ -1,0 +1,166 @@
+{
+  "id": "02ecd973-96ed-47e5-a114-c86dbcc43dbe",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "The column of length L = 5 m shown below is made of a material with an elastic modulus E = 70 GPa. The cross-section is rectangular with dimensions b = 80 mm and h = 120 mm and the y-z coordinate system shown is located at the centroid of the cross-section.\n\na) Calculate $I_y$ and $I_z$ for the cross-section of the column.\n\nb) Calculate the critical buckling load for the column.\n\nc) Without performing any calculations, describe in words how the critical buckling load of the column will change if the pin support at the top is removed. Write no more than three complete sentences.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 4,
+  "disclaimer": "The video uses the wrong equation for calculating the load. The video uses the equation for a pinned-pinned configuration, but the correct equation to use is the one for a fixed-pinned configuration. The correct equation to use is 2.046*pi^2*E*I/L^2, making the critical buckling load 289.491 kN.",
+  "examId": "d3478294-0225-467c-8a47-befc274df050",
+  "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "38546606",
+    "timeSpentVideo": "6935049",
+    "submissions": 153,
+    "submissionsCorrect": 28,
+    "accuracy": 0.1830065359477124,
+    "difficulty": 0.941699604743083
+  },
+  "resources": [
+    {
+      "id": "103db394-a08b-45cc-be40-2332f3d8040b",
+      "type": "IMAGE",
+      "data": {
+        "key": "0b3jp4ryGv_ZqqBVpAnBj",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0b3jp4ryGv_ZqqBVpAnBj"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "02ecd973-96ed-47e5-a114-c86dbcc43dbe",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d3478294-0225-467c-8a47-befc274df050",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "357376191",
+      "timeSpentVideo": "62646898",
+      "submissions": 1383,
+      "submissionsCorrect": 150,
+      "questions": 4,
+      "accuracy": 0.10845986984815618,
+      "difficulty": 1.1151382333108564
+    }
+  },
+  "explanation": {
+    "id": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
+    "body": "The video uses the wrong equation for calculating the load. The video uses the equation for a pinned-pinned configuration, but the correct equation to use is the one for a fixed-pinned configuration. The correct equation to use is $2.046\\pi^2EI/L^2$, making the critical buckling load 289.491 kN.",
+    "questionId": "02ecd973-96ed-47e5-a114-c86dbcc43dbe",
+    "resources": [
+      {
+        "id": "6abbea63-8664-423b-8863-4104f750276a",
+        "type": "IMAGE",
+        "data": {
+          "key": "SKBOe_lkjc38049ZkoCQx",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/SKBOe_lkjc38049ZkoCQx"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "256e68bf-2787-4961-967e-da6f2add4806",
+        "type": "IMAGE",
+        "data": {
+          "key": "0uehq3F4KHuzPq_-ZfVze",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0uehq3F4KHuzPq_-ZfVze"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "2775de12-2a02-4067-983e-f137b5637d9e",
+        "type": "IMAGE",
+        "data": {
+          "key": "_lvIx4OIVvzv9KJmCZJf9",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/_lvIx4OIVvzv9KJmCZJf9"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "6d4fa8f6-f7c9-4461-b8aa-4043ec08e7af",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/CFJeee0hZro?si=xivcYWA9mS3halc8&t=2118"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2b438102-92d1-4643-a8ba-1cca4d490894",
+      "name": "Column Buckling",
+      "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+      "stats": {
+        "count": 1,
+        "timeSpent": "192178638",
+        "timeSpentVideo": "6935049",
+        "submissions": 153,
+        "submissionsCorrect": 28,
+        "questions": 1,
+        "accuracy": 0.1830065359477124,
+        "difficulty": 0.941699604743083
+      }
+    },
+    {
+      "id": "f79c14a4-12f1-4e37-a774-8445c64d8d3a",
+      "name": "Moments of Inertia",
+      "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
+      "stats": {
+        "count": 1,
+        "timeSpent": "394944741",
+        "timeSpentVideo": "16065860",
+        "submissions": 336,
+        "submissionsCorrect": 59,
+        "questions": 2,
+        "accuracy": 0.17559523809523808,
+        "difficulty": 1
+      }
+    }
+  ],
+  "children": []
+}

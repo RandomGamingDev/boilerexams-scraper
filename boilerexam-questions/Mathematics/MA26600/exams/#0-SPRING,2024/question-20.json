@@ -1,0 +1,158 @@
+{
+  "id": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The solution of the initial value problem \\[y''+3y'+2y=g(t),y(0)=2,y'(0)=-4.\\] is given by:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "49c7a5e4-201c-4854-a2fa-81886a393647",
+        "index": 0,
+        "body": "$e^{-2t}+2\\int_0^tg(t-\\tau)(e^{-\\tau}-e^{-2\\tau})d\\tau$",
+        "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "10bb120d-6428-41d5-9f25-40eb1643a38f",
+        "index": 1,
+        "body": "$2e^{-t}+4e^{-2t}+\\int_0^tg(t-\\tau)(e^{-\\tau}-e^{-2\\tau})d\\tau$",
+        "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "5769ffb6-3f64-4d51-b919-c418391b0d2f",
+        "index": 2,
+        "body": "$\\sin{(2t)}+\\int_0^tg(t-\\tau)e^{-2\\tau}d\\tau$",
+        "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "8f8cfc97-11ec-4c85-bdab-38a21684d1a7",
+        "index": 3,
+        "body": "$2e^{-2t}+\\int_0^tg(t-\\tau)(e^{-\\tau}-e^{-2\\tau})d\\tau$",
+        "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+        "stats": {
+          "count": 331
+        },
+        "resources": []
+      },
+      {
+        "id": "95e5dbcd-939e-4994-ab51-770b8b8a133d",
+        "index": 4,
+        "body": "$\\cos{(2t)}+\\int_0^tg(t-\\tau)e^{-\\tau}d\\tau$",
+        "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "231166855",
+    "timeSpentVideo": "78646986",
+    "submissions": 791,
+    "submissionsCorrect": 331,
+    "accuracy": 0.41845764854614415,
+    "difficulty": 0.8223905723905724
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "f039b5a6-0659-48bb-a824-c5f35f8ecda2",
+    "body": "In this question I made a typo in the split laplace transform of the differential equation into $\\frac{G(s)}{s^2+3s+2}+\\frac{2s+2}{s^2+3s+1}$. It should be $\\frac{G(s)}{s^2+3s+2}+\\frac{2s+2}{s^2+3s+2}$.\n\nI also mentioned at 2:56:56 that convolutions are not commutative. That is incorrect. They are in fact commutative so the order of your F(s) and G(s) will not make a difference. I just ordered the 2 functions as $F(s)\\cdot G(s)$ to match it up with the answer choices.",
+    "questionId": "67eafdf7-3f19-44c0-9e04-8217c83f4a20",
+    "resources": [
+      {
+        "id": "8cfae312-630c-4806-81b6-f95d9e6cfb44",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=9835s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f039b5a6-0659-48bb-a824-c5f35f8ecda2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    },
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

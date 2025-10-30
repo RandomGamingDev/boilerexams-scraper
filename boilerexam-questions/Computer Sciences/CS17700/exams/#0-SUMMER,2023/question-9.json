@@ -1,0 +1,133 @@
+{
+  "id": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The following code loops through a dictionary, where the keys are student's names, and the values are each student's overall grades in the class, respectively. The loop creates a list that stores the grades only.\n\n\nThere is an error with the code. Why?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a47d61cf-0706-42e1-afb7-23cdb77a7647",
+        "index": 0,
+        "body": "The for loop should loop through range(len(grades_dict) - 1).",
+        "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "970fd64a-a1e9-4a8a-9bce-9463837c828d",
+        "index": 1,
+        "body": "The keys in this dictionary cannot be accessed with indexes.",
+        "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "f51feaba-8cc4-4dba-bef9-997d13772458",
+        "index": 2,
+        "body": "The len() function cannot be used with dictionaries.",
+        "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "e97fe5cb-1755-46bc-822e-a30522eab6a1",
+        "index": 3,
+        "body": "The function incorrectly stores the keys, not values, in the list.",
+        "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "38299153",
+    "timeSpentVideo": "4161047",
+    "submissions": 265,
+    "submissionsCorrect": 160,
+    "accuracy": 0.6037735849056604,
+    "difficulty": 0.6746575342465754
+  },
+  "resources": [
+    {
+      "id": "bb321d4e-f1f7-4e46-9658-9b117956e0cb",
+      "type": "CODE",
+      "data": {
+        "content": "def students_grades(grades_dict):\n    grades_list = []\n    for index in range(len(grades_dict)):\n        grades = grades_dict[index]\n        grades_list.append(grades)\n    return students_grades",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "e647062a-1e3f-4e19-a50a-d1a6bea43b02",
+    "body": "",
+    "questionId": "188728e5-e3f2-49d5-9997-5d6f41dd5998",
+    "resources": [
+      {
+        "id": "eb44b6f3-e214-4873-a66b-f3ab4ab9360e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=4gBtlEZcsj6Tui2-&t=3346"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e647062a-1e3f-4e19-a50a-d1a6bea43b02",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

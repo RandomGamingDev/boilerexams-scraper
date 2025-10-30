@@ -1,0 +1,158 @@
+{
+  "id": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{u}_{1}=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 2\\end{array}\\right], \\mathbf{u}_{2}=\\left[\\begin{array}{l}5 \\\\ 1 \\\\ 1\\end{array}\\right], \\mathbf{y}=\\left[\\begin{array}{c}9 \\\\ 2 \\\\ -2\\end{array}\\right]$. Then the closest point $\\hat{\\mathbf{y}}$ in $W=\\operatorname{Span}\\left\\{\\mathbf{u}_{1}, \\mathbf{u}_{2}\\right\\}$ to $\\mathbf{y}$ is:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "93b0fa5b-9a8e-4ed2-84fa-ed59c753d405",
+        "index": 0,
+        "body": "$\\hat{\\mathbf{y}}=\\left[\\begin{array}{c}4 \\\\ -1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "cd693c21-a746-4678-a65d-ae930488402e",
+        "index": 1,
+        "body": "$\\hat{\\mathbf{y}}=\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right]$",
+        "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "7d599c7d-c5bb-4e85-9a62-d591ffa4590a",
+        "index": 2,
+        "body": "$\\hat{\\mathbf{y}}=\\left[\\begin{array}{l}9 \\\\ 0 \\\\ 0\\end{array}\\right]$",
+        "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+        "stats": {
+          "count": 901
+        },
+        "resources": []
+      },
+      {
+        "id": "6ad9176e-9ae5-4254-9e38-11a8244805cd",
+        "index": 3,
+        "body": "$\\hat{\\mathbf{y}}=\\left[\\begin{array}{l}28 / 3 \\\\ 11 / 3 \\\\ 11 / 3\\end{array}\\right]$",
+        "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+        "stats": {
+          "count": 638
+        },
+        "resources": []
+      },
+      {
+        "id": "14e0c17d-776d-4e54-819a-62da0651b8b7",
+        "index": 4,
+        "body": "$\\hat{\\mathbf{y}}=\\left[\\begin{array}{c}9 \\\\ -2 \\\\ 2\\end{array}\\right]$ ",
+        "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "618014924",
+    "timeSpentVideo": "113636934",
+    "submissions": 2661,
+    "submissionsCorrect": 901,
+    "accuracy": 0.3385945133408493,
+    "difficulty": 0.9055595798623687
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "601f0711-5aff-4fe1-a516-2cdfd7679bd9",
+    "body": "",
+    "questionId": "41baf209-0498-40ee-9dca-e46f5ff4050d",
+    "resources": [
+      {
+        "id": "2c8cb277-5cfb-42b3-84b4-0c7286578f8e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=6660\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "601f0711-5aff-4fe1-a516-2cdfd7679bd9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4b2b3533-6f35-42c3-807a-958b6e2580b2",
+      "name": "Projections",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6028478978",
+        "timeSpentVideo": "611094532",
+        "submissions": 13315,
+        "submissionsCorrect": 6424,
+        "questions": 7,
+        "accuracy": 0.48246338715734133,
+        "difficulty": 0.7674058889303019
+      }
+    },
+    {
+      "id": "57e73f87-9387-4fc0-8283-5c7603e277e0",
+      "name": "Least Squares",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5384896206",
+        "timeSpentVideo": "450818907",
+        "submissions": 12394,
+        "submissionsCorrect": 6990,
+        "questions": 8,
+        "accuracy": 0.5639825722123608,
+        "difficulty": 0.6865295341764047
+      }
+    }
+  ],
+  "children": []
+}

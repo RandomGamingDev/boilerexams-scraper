@@ -1,0 +1,173 @@
+{
+  "id": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathcal{B}=\\left\\{\\mathbf{v}_{\\mathbf{1}}, \\mathbf{v}_{\\mathbf{2}}, \\mathbf{v}_{\\mathbf{3}}\\right\\}$, where $\\mathbf{v}_{\\mathbf{1}}=\\left[\\begin{array}{l}3 \\\\ 2 \\\\ 1 \\\\ 2\\end{array}\\right], \\mathbf{v}_{\\mathbf{2}}=\\left[\\begin{array}{l}0 \\\\ 3 \\\\ 4 \\\\ 1\\end{array}\\right], \\mathbf{v}_{\\mathbf{3}}=\\left[\\begin{array}{r}-1 \\\\ 1 \\\\ -3 \\\\ 2\\end{array}\\right]$ is a linearly independent set. Denote $H=\\operatorname{Span}\\left\\{\\mathbf{v}_{\\mathbf{1}}, \\mathbf{v}_{\\mathbf{2}}, \\mathbf{v}_{\\mathbf{3}}\\right\\}$ which is a subspace of $\\mathbb{R}^{4}$. Is $\\mathbf{x}=\\left[\\begin{array}{r}9 \\\\ -8 \\\\ -1 \\\\ -5\\end{array}\\right]$ in $H ?$ If so, find the $\\mathcal{B}-$ coordinate vector of $\\mathbf{x}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ba54985a-f5bf-4687-9209-ea843d9d91cb",
+        "index": 0,
+        "body": "$\\mathbf{x}$ is in $H$ and the $\\mathcal{B}$ - coordinate vector of $\\mathbf{x}$ is $\\left[\\begin{array}{r}3 \\\\ -1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "15e99072-0e05-47b3-a797-f989289a4fb5",
+        "index": 1,
+        "body": "$\\mathbf{x}$ is in $H$ and the $\\mathcal{B}-$ coordinate vector of $\\mathbf{x}$ is $\\left[\\begin{array}{r}2 \\\\ -3 \\\\ -3\\end{array}\\right]$",
+        "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+        "stats": {
+          "count": 2190
+        },
+        "resources": []
+      },
+      {
+        "id": "3bae95d6-420c-4f21-833e-33dc257c31ab",
+        "index": 2,
+        "body": "$\\mathbf{x}$ is in $H$ and the $\\mathcal{B}$ - coordinate vector of $\\mathbf{x}$ is $\\left[\\begin{array}{r}3 \\\\ -2 \\\\ 1\\end{array}\\right]$",
+        "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "e810360d-a00e-4bea-9b95-e9ccd819ecd0",
+        "index": 3,
+        "body": "$\\mathbf{x}$ is in $H$ and the $\\mathcal{B}$ - coordinate vector of $\\mathbf{x}$ is $\\left[\\begin{array}{r}2 \\\\ -3 \\\\ -2\\end{array}\\right]$",
+        "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "b56b916c-bbdc-4601-8a82-078149af39cd",
+        "index": 4,
+        "body": "$\\mathbf{x}$ is not in $H$",
+        "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+        "stats": {
+          "count": 571
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1569688954",
+    "timeSpentVideo": "211246086",
+    "submissions": 4610,
+    "submissionsCorrect": 2190,
+    "accuracy": 0.4750542299349241,
+    "difficulty": 0.774416135881104
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "487209ee-ace0-4c8a-9725-0fd46a514806",
+    "body": "",
+    "questionId": "c7a6060a-fc17-42d3-99cb-65b45ae6575d",
+    "resources": [
+      {
+        "id": "38767f4d-92c8-47cd-bde6-77e82808f34d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?t=1433\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "487209ee-ace0-4c8a-9725-0fd46a514806",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "49c9fcc9-6fa7-455b-8da5-060a1492f26b",
+      "name": "Coordinate Vectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7480608544",
+        "timeSpentVideo": "732924362",
+        "submissions": 13820,
+        "submissionsCorrect": 7773,
+        "questions": 4,
+        "accuracy": 0.5624457308248915,
+        "difficulty": 0.6880028735632184
+      }
+    }
+  ],
+  "children": []
+}

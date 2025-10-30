@@ -1,0 +1,149 @@
+{
+  "id": "e215794e-c00f-4060-b052-8176b54d0286",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the return value of <font style=\"font-family:'Courier New'\">calcPoints('F', 2)</font>?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0d369458-61e4-43de-920c-7292dfa4797b",
+        "index": 0,
+        "body": "0",
+        "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+        "stats": {
+          "count": 1408
+        },
+        "resources": []
+      },
+      {
+        "id": "aea9d98f-4c8b-42c6-86f7-4d65c30633c8",
+        "index": 1,
+        "body": "2",
+        "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "a65eb64c-6419-4455-8d31-46547b454338",
+        "index": 2,
+        "body": "8",
+        "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "f1d3d2e9-f78c-4c31-b855-79effbbad0eb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 32,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "120879812",
+    "timeSpentVideo": "0",
+    "submissions": 1932,
+    "submissionsCorrect": 1408,
+    "accuracy": 0.7287784679089027,
+    "difficulty": 0.53248031496063
+  },
+  "resources": [
+    {
+      "id": "8b945175-e36b-454f-b735-6a89556e1020",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\n\nchar calcGrade(int);\nint calcPoints(char, int);\n\nint main()\n{\n  printf(\"%d\\n\", calcPoints('F', 2));\n\n  return (0);\n}\n\nchar calcGrade(int score)\n{\n  int pts;\n  \n  pts = !!(score / 50) + !!(score / 45) + !!(score / 35) + !!(score / 25);\n  pts += !!(pts);\n  \n  return('F' - pts);\n}\n\nint calcPoints(char grade, int credit)\n{\n  int pts = 0;\n  \n  switch (grade)\n  {\n    case 'A':\n      pts += credit;\n    case 'B':\n      pts += credit;\n    case 'C':\n      pts += credit;\n    case 'D':\n      pts += credit;\n    default:\n      printf(\"Unknown grade!\\n\");\n  }\n  \n  return(pts);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "b0bfd934-fc6b-4dc6-8617-f1f452a76938",
+    "body": "",
+    "questionId": "e215794e-c00f-4060-b052-8176b54d0286",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    },
+    {
+      "id": "c13f3050-2316-4c7a-91da-bb42acc405c4",
+      "name": "Chars",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11346704115",
+        "timeSpentVideo": "121828202",
+        "submissions": 31494,
+        "submissionsCorrect": 22656,
+        "questions": 13,
+        "accuracy": 0.719375119070299,
+        "difficulty": 0.5313192378299677
+      }
+    }
+  ],
+  "children": []
+}

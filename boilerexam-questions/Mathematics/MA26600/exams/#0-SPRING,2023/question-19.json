@@ -1,0 +1,128 @@
+{
+  "id": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\n\n\n\\[\ny^{\\prime \\prime}+2 y^{\\prime}+5 y=\\delta(t-3), \\quad y(0)=0, y^{\\prime}(0)=2\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "480056e9-89ae-4901-9576-0d024eb6230d",
+        "index": 0,
+        "body": "$y=e^{-t} \\cos (2 t)+\\frac{1}{2} u_{3}(t) e^{3-t} \\sin (2 t-6)$",
+        "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "83bf96f4-1f78-4bcc-8f2b-da9ac6d8b4d9",
+        "index": 1,
+        "body": "$y=\\frac{1}{2} e^{-t} \\sin (2 t)+\\frac{1}{2} u_{3}(t) e^{3-t} \\cos (2 t-6)$",
+        "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "6ced6c83-da2c-476e-9147-6c023ff9ccd9",
+        "index": 2,
+        "body": "$y=e^{-t} \\sin (2 t)+u_{3}(t) e^{3-t} \\sin (2 t-6)$",
+        "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "106c4d01-c9df-4703-af60-96e28204ee51",
+        "index": 3,
+        "body": "$y=e^{-t} \\cos (2 t)+\\frac{1}{2} u_{3}(t) e^{3-t} \\sin (2 t-6)$",
+        "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "ce9442e0-fb90-44ed-b836-51c515f5bae6",
+        "index": 4,
+        "body": "$y=e^{-t} \\sin (2 t)+\\frac{1}{2} u_{3}(t) e^{3-t} \\sin (2 t-6)$",
+        "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+        "stats": {
+          "count": 281
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "136838782",
+    "timeSpentVideo": "0",
+    "submissions": 378,
+    "submissionsCorrect": 281,
+    "accuracy": 0.7433862433862434,
+    "difficulty": 0.5575313807531381
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "e85c72d5-b1da-46a4-bde7-75102b287132",
+    "body": "",
+    "questionId": "9ab937d3-7fb1-463d-93f1-32dc26a3a34c",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

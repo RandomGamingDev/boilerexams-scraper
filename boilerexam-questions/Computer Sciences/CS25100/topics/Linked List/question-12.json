@@ -1,0 +1,143 @@
+{
+  "id": "dac69321-455c-4039-a807-e8ac96525402",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a singly linked list with n elements sorted in descending order. The list keeps a single pointer to the head of the list. What would be the runtime of finding the median value?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8de99979-9696-4958-a5af-15fa4d6e1816",
+        "index": 0,
+        "body": "$O(n^2)$",
+        "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "ee1c17f9-9569-4e46-8af4-5e94ec15f6e3",
+        "index": 1,
+        "body": "$O(\\log{(n)})$",
+        "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "740dc2f7-a23f-43eb-9f97-b33bb7c351d5",
+        "index": 2,
+        "body": "$O(n)$",
+        "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+        "stats": {
+          "count": 1355
+        },
+        "resources": []
+      },
+      {
+        "id": "99bd68a5-c51d-4d77-9705-4396274ccd8a",
+        "index": 3,
+        "body": "$O(n\\log{(n)})$",
+        "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "1fb398d3-7de4-47a3-ab6a-4c8721fdbd30",
+        "index": 4,
+        "body": "$O(1)$",
+        "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "142988069",
+    "timeSpentVideo": "0",
+    "submissions": 1599,
+    "submissionsCorrect": 1355,
+    "accuracy": 0.8474046278924328,
+    "difficulty": 0.4230429664508535
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "24f22695-cb5c-431c-8a2e-99fe7dcf1d20",
+    "body": null,
+    "questionId": "dac69321-455c-4039-a807-e8ac96525402",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    },
+    {
+      "id": "8f922ded-ebc9-4288-8b42-8e18707ba7b3",
+      "name": "Linked List",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1433058389",
+        "timeSpentVideo": "0",
+        "submissions": 3006,
+        "submissionsCorrect": 2542,
+        "questions": 2,
+        "accuracy": 0.8456420492348636,
+        "difficulty": 0.41548615582743076
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "52099a60-b4d1-4895-a901-0626c923ed27",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider an initial value problem\n\\[\nx'' + x = \\delta(t-\\pi) - 5\\delta(t-2\\pi),\\quad x(0)=0,\\ x'(0)=0\n\\]\nFind the value of $x(\\frac{3\\pi}{2})$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9664700f-49b3-4c6f-bf44-3046806eb939",
+        "index": 0,
+        "body": "6",
+        "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "187f0757-c7ec-4ba1-b2cb-329f69d4cf4f",
+        "index": 1,
+        "body": "5",
+        "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c0768937-3899-428f-b2c0-2b519f21bb88",
+        "index": 2,
+        "body": "-4",
+        "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "46ec0b59-d930-47eb-b654-1689b8d46196",
+        "index": 3,
+        "body": "1",
+        "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "2a0b85db-823e-4264-ab7d-69d6905b0a91",
+        "index": 4,
+        "body": "-5",
+        "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "90633",
+    "timeSpentVideo": "0",
+    "submissions": 1,
+    "submissionsCorrect": 1,
+    "accuracy": 1,
+    "difficulty": 0.745049504950495
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "307116ab-86fc-4058-a235-daf776924983",
+    "body": null,
+    "questionId": "52099a60-b4d1-4895-a901-0626c923ed27",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

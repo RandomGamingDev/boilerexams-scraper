@@ -1,0 +1,190 @@
+{
+  "id": "2064bff0-72d2-4334-8e54-305375de398b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \n\n$f\\left(t\\right)=\\left(5e^{-2t}+4\\cos\\left(10t\\right)-\\sin\\left(10t\\right)\\right)u\\left(t\\right)$\n\nFind an expression for F(s), the Laplace transform of f(t).",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "df895891-33e6-45b0-a7ed-dbe510604d2d",
+        "index": 0,
+        "body": "$\\frac{2}{s+5}+4\\cdot\\frac{s}{s+10}-\\frac{10}{s+10}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "2a74057b-81fc-4029-98e3-d07670450b67",
+        "index": 1,
+        "body": "$\\frac{2}{s+5}+4\\cdot\\frac{10}{s+10}-\\frac{s}{s+10}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "cec1eb77-7e92-43ab-af81-8b021fb790c8",
+        "index": 2,
+        "body": "$\\frac{5}{s+2}+4\\cdot\\frac{s}{s+10}-\\frac{10}{s+10}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "e24f2f1a-a550-40d1-9926-8fd5e22952e3",
+        "index": 3,
+        "body": "$\\frac{5}{s+2}+4\\cdot\\frac{10}{s+10}-\\frac{s}{s+10}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "9a1d2ea4-1ebf-404c-999b-f168eb04e5e1",
+        "index": 4,
+        "body": "$\\frac{5}{s+2}+4\\cdot\\frac{s}{s^{2}+100}-\\frac{10}{s^{2}+100}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 518
+        },
+        "resources": []
+      },
+      {
+        "id": "a226c3a4-ce50-4a0e-bfd5-ee9c8e66aff9",
+        "index": 5,
+        "body": "$\\frac{5}{s+2}+4\\cdot\\frac{10}{s^{2}+100}-\\frac{s}{s^{2}+100}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "82b0ea6a-61c9-4358-b4fd-05a4d0252489",
+        "index": 6,
+        "body": "$\\frac{2}{s+5}+4\\cdot\\frac{s}{s^{2}+100}-\\frac{10}{s^{2}+100}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "e6f728fb-079e-4096-8ca8-8112cdb44235",
+        "index": 7,
+        "body": "$\\frac{2}{s+5}+4\\cdot\\frac{10}{s^{2}+100}-\\frac{s}{s^{2}+100}$",
+        "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "95200287",
+    "timeSpentVideo": "1274502",
+    "submissions": 605,
+    "submissionsCorrect": 518,
+    "accuracy": 0.856198347107438,
+    "difficulty": 0.4443262411347517
+  },
+  "resources": [
+    {
+      "id": "fa461426-0f70-4527-8ddc-3b253d043f3f",
+      "type": "IMAGE",
+      "data": {
+        "key": "p1daJVJZEEM0-wo3I_7Z9",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/p1daJVJZEEM0-wo3I_7Z9",
+        "altText": "Look Up Table"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "4115dc5d-381b-4d25-9372-15042b2a46f8",
+    "body": "",
+    "questionId": "2064bff0-72d2-4334-8e54-305375de398b",
+    "resources": [
+      {
+        "id": "3b81b325-0f1d-4445-a911-96c65453fe40",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=4943s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4115dc5d-381b-4d25-9372-15042b2a46f8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1ee900b7-b3e5-40f6-9f52-c754bdae9719",
+      "name": "Laplace Transforms",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "985673034",
+        "timeSpentVideo": "53136995",
+        "submissions": 1934,
+        "submissionsCorrect": 1136,
+        "questions": 3,
+        "accuracy": 0.5873836608066184,
+        "difficulty": 0.6669124877089478
+      }
+    }
+  ],
+  "children": []
+}

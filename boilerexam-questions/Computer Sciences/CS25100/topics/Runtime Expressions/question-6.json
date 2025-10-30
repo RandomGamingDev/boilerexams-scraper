@@ -1,0 +1,91 @@
+{
+  "id": "480eca63-6e00-4c23-9cfe-3e083c8652eb",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Find the general runtime expression (i.e., no need to use floor and ceil functions) for the final value of\nsum in terms of n. Assume all variables are integers.",
+    "solution": "$O(\\log^2{{n}})$",
+    "answerChoices": []
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "221910359",
+    "timeSpentVideo": "0",
+    "submissions": 601,
+    "submissionsCorrect": 468,
+    "accuracy": 0.778702163061564,
+    "difficulty": 0.511055634807418
+  },
+  "resources": [
+    {
+      "id": "e35d2de5-a1ee-4b11-b4c3-75a82743fb5f",
+      "type": "CODE",
+      "data": {
+        "content": "algorithm ComputeSum(n: a positive integer)\n    sum = 0\n    for (i = n, i > 0, i = i / 3)\n    {\n        for (j = 1, j < i * n, j = j * 2)\n        {\n            sum = sum + 1\n        }\n    }\n    return sum\nend algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "480eca63-6e00-4c23-9cfe-3e083c8652eb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "087b1ce1-a445-42f4-a6b5-28b7847ae82d",
+    "body": null,
+    "questionId": "480eca63-6e00-4c23-9cfe-3e083c8652eb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

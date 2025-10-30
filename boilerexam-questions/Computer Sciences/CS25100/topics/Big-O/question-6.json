@@ -1,0 +1,144 @@
+{
+  "id": "98850821-c1c9-4622-81f7-0ebd639040a4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the following pseudocode snippet, what is the tightest worst-case complexity for the number of compares in term of n? Assume all variables are integers.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a5afc24e-eab3-4ed6-a527-b1e2bed85ec0",
+        "index": 0,
+        "body": "$O(n \\log{(n)})$",
+        "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "1d55522a-0c84-4e2c-a9e0-1ed64ae2b619",
+        "index": 1,
+        "body": "$O(n^2)$\n",
+        "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "73125cc7-601b-4bc1-925d-4abcdac1523b",
+        "index": 2,
+        "body": "$O(\\log{(n)}$",
+        "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "2d441833-1c52-4394-9822-4a93367e453b",
+        "index": 3,
+        "body": "$O(n)$",
+        "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+        "stats": {
+          "count": 1176
+        },
+        "resources": []
+      },
+      {
+        "id": "b62894c8-e4f4-4384-a8e5-b1d7742bec44",
+        "index": 4,
+        "body": "$O(1)$",
+        "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "193500804",
+    "timeSpentVideo": "0",
+    "submissions": 1556,
+    "submissionsCorrect": 1176,
+    "accuracy": 0.7557840616966581,
+    "difficulty": 0.5096618357487923
+  },
+  "resources": [
+    {
+      "id": "95623026-79f4-4f01-a27a-b920f5602a4d",
+      "type": "CODE",
+      "data": {
+        "content": "n = a positive number\ni = 2\n\nwhile (i < n)\n   num = random(100) //a random number from [1, 100]\n   if (num <= 25)\n      i = i + 1\n   else\n      i = i * 2\n   end if\nend while\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "d31a9682-c1b5-4062-983f-a8eb0f93b033",
+    "body": null,
+    "questionId": "98850821-c1c9-4622-81f7-0ebd639040a4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

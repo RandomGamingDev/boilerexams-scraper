@@ -1,0 +1,143 @@
+{
+  "id": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x)=\\frac{8x}{e^x+x^2}$. Calculate $f'(0)$ ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "48b5ffb6-d0e2-4105-9c8b-8e7d769f1553",
+        "index": 0,
+        "body": "$-\\frac{8}{(e+1)^2} $",
+        "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "35c4d557-31be-460f-a8bf-0a64de07b84c",
+        "index": 1,
+        "body": "$-\\frac{8}{e}$",
+        "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "9e1f522c-7ade-4405-9764-039785e10d53",
+        "index": 2,
+        "body": "$16$",
+        "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "6131d3ee-bf15-43f1-8cbb-a4b6c35b8691",
+        "index": 3,
+        "body": "$8$",
+        "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+        "stats": {
+          "count": 1003
+        },
+        "resources": []
+      },
+      {
+        "id": "dba9bf5c-3efe-4dcf-8f54-ae5ef3f644fe",
+        "index": 4,
+        "body": "$\\frac{8e-8}{(e+1)^2} $",
+        "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "14facbf4-ceaf-43ac-a2b9-5a7ff2f88082",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "198449470",
+    "timeSpentVideo": "8486709",
+    "submissions": 1205,
+    "submissionsCorrect": 1001,
+    "accuracy": 0.8307053941908714,
+    "difficulty": 0.44463601532567054
+  },
+  "resources": [],
+  "exam": {
+    "id": "14facbf4-ceaf-43ac-a2b9-5a7ff2f88082",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3699292244",
+      "timeSpentVideo": "571737975",
+      "submissions": 20132,
+      "submissionsCorrect": 12586,
+      "questions": 12,
+      "accuracy": 0.625173852573018,
+      "difficulty": 0.6254448398576512
+    }
+  },
+  "explanation": {
+    "id": "2daff395-47ec-473b-8098-961c73259307",
+    "body": "",
+    "questionId": "a5b31713-cafb-4cf9-a2b3-9852b4027ac4",
+    "resources": [
+      {
+        "id": "a4d1f5da-94ee-4ada-ab2f-a0469bf8aeac",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/MmCVzCJLO4c?t=2652"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2daff395-47ec-473b-8098-961c73259307",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3020c606-9bec-4ecd-a284-057321ff902a",
+      "name": "Quotient Rule",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3295339120",
+        "timeSpentVideo": "225159813",
+        "submissions": 8482,
+        "submissionsCorrect": 5370,
+        "questions": 8,
+        "accuracy": 0.6331053996698892,
+        "difficulty": 0.6184455837800047
+      }
+    }
+  ],
+  "children": []
+}

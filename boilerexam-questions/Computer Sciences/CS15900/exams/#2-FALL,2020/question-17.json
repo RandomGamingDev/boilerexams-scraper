@@ -1,0 +1,133 @@
+{
+  "id": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value found in index 2 of the array after the termination of the loop in the program above?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "bb67aa01-188a-4333-b0cd-afe73ee5150d",
+        "index": 0,
+        "body": "17",
+        "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      },
+      {
+        "id": "ddfa4894-1d09-443d-94e0-753568f2eae5",
+        "index": 1,
+        "body": "19",
+        "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "7123d039-c33c-4f76-a4a3-b43c174afb60",
+        "index": 2,
+        "body": "18",
+        "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "e6304553-c52c-488c-9bbb-a7e9296a2462",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40995822",
+    "timeSpentVideo": "6017881",
+    "submissions": 299,
+    "submissionsCorrect": 182,
+    "accuracy": 0.6086956521739131,
+    "difficulty": 0.668546365914787
+  },
+  "resources": [
+    {
+      "id": "c409d937-98c2-48b4-a445-bb2a7cad4a74",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 8\n\nint swapElements(int, int);\n\nint main()\n{\n  int i;\n  int data[SIZE] = {1, 3, 5, 7, 9, 4, 2};\n  \n  for(i = 0; i < SIZE - 2; i++)\n  {\n    data[i] = swapElements(data[i + 1], data[i + 2]);\n  }\n  \n  // NOTE: printf not included in original question.\n  //printf(\"data[2]: %d\\n\", data[2]);\n  \n  return(0);\n}\n\nint swapElements(int data1, int data2)\n{\n  int temp;\n  \n  temp = data1++ + ++data2;\n  \n  return(temp);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "3520375c-105d-4729-92ba-3e7add25dc5a",
+    "body": "",
+    "questionId": "f0eb8cf2-9986-4888-9af3-96f1d5ccc274",
+    "resources": [
+      {
+        "id": "919639f8-4862-43b0-a9d8-d6c34f05de95",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=2920"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3520375c-105d-4729-92ba-3e7add25dc5a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

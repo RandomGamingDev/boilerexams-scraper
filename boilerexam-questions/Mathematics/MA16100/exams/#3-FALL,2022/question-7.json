@@ -1,0 +1,158 @@
+{
+  "id": "baf268af-c513-4615-adbc-2f175e81cd22",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the function $f(x)=x e^{-x}$. On what interval is $f(x)$ both decreasing and concave upward?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1b6c4226-f5b0-4c63-a2fa-502b662937fe",
+        "index": 0,
+        "body": "$(-\\infty, 2)$",
+        "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "41009a00-dd3a-4ace-a871-5e49a0ec9df4",
+        "index": 1,
+        "body": "$(1, \\infty)$",
+        "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+        "stats": {
+          "count": 204
+        },
+        "resources": []
+      },
+      {
+        "id": "1cd413db-6f91-476b-9b39-ebff51ebdc8d",
+        "index": 2,
+        "body": "$(2, \\infty)$",
+        "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+        "stats": {
+          "count": 744
+        },
+        "resources": []
+      },
+      {
+        "id": "b61954de-19ac-449e-a363-976314daea30",
+        "index": 3,
+        "body": "$(-\\infty, 1)$",
+        "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "630d7849-d23f-4b15-9dc3-088a134f148f",
+        "index": 4,
+        "body": "$(1,2)$",
+        "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "cb18cc5d-3e4e-44ef-88da-1d781746f9fa",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "376990392",
+    "timeSpentVideo": "79536860",
+    "submissions": 1466,
+    "submissionsCorrect": 744,
+    "accuracy": 0.5075034106412005,
+    "difficulty": 0.7429757343550447
+  },
+  "resources": [],
+  "exam": {
+    "id": "cb18cc5d-3e4e-44ef-88da-1d781746f9fa",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3047256190",
+      "timeSpentVideo": "574643503",
+      "submissions": 16824,
+      "submissionsCorrect": 10099,
+      "questions": 12,
+      "accuracy": 0.6002734189253447,
+      "difficulty": 0.6503190735050816
+    }
+  },
+  "explanation": {
+    "id": "8d96cf6a-c5ed-44bc-bc72-3fe963c5bea3",
+    "body": "",
+    "questionId": "baf268af-c513-4615-adbc-2f175e81cd22",
+    "resources": [
+      {
+        "id": "e6fd36f6-fe5a-4002-8418-a8bfbf690297",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Dz7oETRyXw0"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8d96cf6a-c5ed-44bc-bc72-3fe963c5bea3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7a3e85d8-03dc-4f17-9f1f-6141006637c2",
+      "name": "Increasing and Decreasing",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1823963842",
+        "timeSpentVideo": "202950438",
+        "submissions": 4256,
+        "submissionsCorrect": 2702,
+        "questions": 4,
+        "accuracy": 0.6348684210526315,
+        "difficulty": 0.6182277318640955
+      }
+    },
+    {
+      "id": "daa80207-5e93-4f82-b503-ab2ddc6fef88",
+      "name": "Concavity",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2183479378",
+        "timeSpentVideo": "226851174",
+        "submissions": 4281,
+        "submissionsCorrect": 2292,
+        "questions": 3,
+        "accuracy": 0.5353889278206027,
+        "difficulty": 0.7154188541428897
+      }
+    }
+  ],
+  "children": []
+}

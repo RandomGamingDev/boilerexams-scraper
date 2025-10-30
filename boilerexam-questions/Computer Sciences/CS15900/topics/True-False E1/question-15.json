@@ -1,0 +1,133 @@
+{
+  "id": "4a28491d-ef80-4080-906a-26e93285c8cb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the conversion of a data type is <b>FALSE</b>?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "bd9734ad-0a3c-4f9e-9031-9d31f26654cc",
+        "index": 0,
+        "body": "Converting a higher ranked data type to that of a lower ranked data type may result in the loss of data.",
+        "questionId": "4a28491d-ef80-4080-906a-26e93285c8cb",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "5e2b245c-da29-4dbc-9a84-caf4210b38d6",
+        "index": 1,
+        "body": "In an assignment statement, promotion occurs if the right expression has a lower rank than the variable on the left and demotion occurs if the right expression has a higher rank.",
+        "questionId": "4a28491d-ef80-4080-906a-26e93285c8cb",
+        "stats": {
+          "count": 199
+        },
+        "resources": []
+      },
+      {
+        "id": "fc955b7a-b096-44c0-a65e-20b530e5da60",
+        "index": 2,
+        "body": "An explicit type conversion is the programmer taking control and determining the data type of an operand in an expression.",
+        "questionId": "4a28491d-ef80-4080-906a-26e93285c8cb",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "abde52b9-15ba-4d4d-b340-ef0d13da98dc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4a28491d-ef80-4080-906a-26e93285c8cb",
+        "stats": {
+          "count": 514
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": null,
+  "examId": "65975773-d891-4987-ad37-0525d9a54288",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "67063524",
+    "timeSpentVideo": "0",
+    "submissions": 805,
+    "submissionsCorrect": 514,
+    "accuracy": 0.6385093167701863,
+    "difficulty": 0.6267955801104972
+  },
+  "resources": [],
+  "exam": {
+    "id": "65975773-d891-4987-ad37-0525d9a54288",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2179307861",
+      "timeSpentVideo": "0",
+      "submissions": 24300,
+      "submissionsCorrect": 16378,
+      "questions": 44,
+      "accuracy": 0.6739917695473251,
+      "difficulty": 0.5767213114754098
+    }
+  },
+  "explanation": {
+    "id": "ff949236-a001-4dfe-8d64-44ac1230bb41",
+    "body": null,
+    "questionId": "4a28491d-ef80-4080-906a-26e93285c8cb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "f7971954-f639-444e-9441-cec5db49a17b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For every $4 \\times 2$ matrix $A$, which one of the following statements is always TRUE ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "06c55e3c-9068-4ae1-b273-f054aeb02057",
+        "index": 0,
+        "body": "The dimension of the Row Space of $A$ is greater than the dimension of the Column Space of $A$.",
+        "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+        "stats": {
+          "count": 335
+        },
+        "resources": []
+      },
+      {
+        "id": "d2d6b842-e5a7-4add-8535-b58477f9859e",
+        "index": 1,
+        "body": "The columns of $A$ must always be linearly dependent.",
+        "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "7131d825-7c14-4aae-8f4f-91bea53cc673",
+        "index": 2,
+        "body": "The rows of $A$ must always be linearly dependent.",
+        "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+        "stats": {
+          "count": 1147
+        },
+        "resources": []
+      },
+      {
+        "id": "c436fef6-5cf2-47d0-8a10-e55674f2b897",
+        "index": 3,
+        "body": "The columns of $A$ must always be linearly independent.",
+        "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      },
+      {
+        "id": "37a51fdf-b770-4ec2-a978-2a768c3e9467",
+        "index": 4,
+        "body": "The rows of $A$ must always be linearly independent.",
+        "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "250163284",
+    "timeSpentVideo": "0",
+    "submissions": 2050,
+    "submissionsCorrect": 1147,
+    "accuracy": 0.5595121951219513,
+    "difficulty": 0.6932558139534883
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "568c4dbb-0e75-4181-8594-7cc93f548b27",
+    "body": "",
+    "questionId": "f7971954-f639-444e-9441-cec5db49a17b",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

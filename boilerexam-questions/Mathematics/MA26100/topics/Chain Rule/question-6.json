@@ -1,0 +1,143 @@
+{
+  "id": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose the function $f(x, y)$ has the following properties:\n$$\nf_{x}(0,0)=11, \\quad f_{x}(1,1)=3, \\quad f_{y}(0,0)=5, \\quad f_{y}(1,1)=7\n$$\n\nIf $x=e^{s}-t e^{t}$ and $y=e^{t}-s e^{s}$, then what is $f_{s}$ at $(s, t)=(0,0)$ ?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "a8b7501b-d675-4049-8c81-a3643664c1bd",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "8476cf11-e545-41cb-9333-98169c6465d2",
+        "index": 1,
+        "body": "$10$",
+        "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+        "stats": {
+          "count": 280
+        },
+        "resources": []
+      },
+      {
+        "id": "684e2e06-add5-4aa8-b02e-460a60c981c8",
+        "index": 2,
+        "body": "$16$",
+        "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "1d4aacf7-22ce-4313-ad87-f7bcf9b7c958",
+        "index": 3,
+        "body": "$6$",
+        "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+        "stats": {
+          "count": 382
+        },
+        "resources": []
+      },
+      {
+        "id": "9c188a76-04a7-41da-9194-cb19d3dbfb25",
+        "index": 4,
+        "body": "$-4$",
+        "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+        "stats": {
+          "count": 1210
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "576328232",
+    "timeSpentVideo": "69692128",
+    "submissions": 2521,
+    "submissionsCorrect": 1210,
+    "accuracy": 0.47996826656088853,
+    "difficulty": 0.7692674551697825
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "ce25859c-98c9-48cd-8077-238934e3de6d",
+    "body": null,
+    "questionId": "18cd5410-20ed-469e-84a9-b67d8cd2cf1c",
+    "resources": [
+      {
+        "id": "54f0e5f9-2ecb-43f9-9497-c9c1c03716e8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=ATRe427ORdSYgxq3&t=876"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ce25859c-98c9-48cd-8077-238934e3de6d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "b2019239-b800-4271-8788-8e493aaa8512",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Convert the integral to cylindrical, then evaluate it:\n\n\n\\[\n\\int_{-2}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{0}^{4-x^{2}-y^{2}} 15 \\sqrt{x^{2}+y^{2}} d z d y d x\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "cb928bcf-16a7-48e7-9b7f-51f6f215daf1",
+        "index": 0,
+        "body": "$4 \\pi$",
+        "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "cc8dc7e6-41da-4a96-9580-89273fc087cf",
+        "index": 1,
+        "body": "$16 \\pi$",
+        "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "9df9f697-d9f3-4a88-8c63-33355500a7af",
+        "index": 2,
+        "body": "$32 \\pi$",
+        "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "2ab8fdea-c2c9-4aa7-b087-f4edbd516e49",
+        "index": 3,
+        "body": "$43 \\pi$",
+        "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "f9d5d4fd-c948-4a33-b2f9-e9325f4eec65",
+        "index": 4,
+        "body": "$64 \\pi$",
+        "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+        "stats": {
+          "count": 1241
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "6a74658e-ba3b-4ee9-bf88-849cb8b901c0",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "341344172",
+    "timeSpentVideo": "81076511",
+    "submissions": 1757,
+    "submissionsCorrect": 1241,
+    "accuracy": 0.7063175867956745,
+    "difficulty": 0.55479267635972
+  },
+  "resources": [],
+  "exam": {
+    "id": "6a74658e-ba3b-4ee9-bf88-849cb8b901c0",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7246161963",
+      "timeSpentVideo": "2057907855",
+      "submissions": 40609,
+      "submissionsCorrect": 24006,
+      "questions": 20,
+      "accuracy": 0.5911497451303899,
+      "difficulty": 0.6590741605050481
+    }
+  },
+  "explanation": {
+    "id": "ce815704-6d3e-41ec-a68b-75e84d85e245",
+    "body": "",
+    "questionId": "b2019239-b800-4271-8788-8e493aaa8512",
+    "resources": [
+      {
+        "id": "43a9969a-cab0-4c23-8c10-e8ec74ae5be9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nwEQ5Bmccww?si=RdyIMktCZQJqc4aH&t=1776\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ce815704-6d3e-41ec-a68b-75e84d85e245",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

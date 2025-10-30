@@ -1,0 +1,143 @@
+{
+  "id": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \\(y(t)\\) be the solution of the initial value problem\n\\[\ny\\frac{dy}{dx} = x(y^2 + 1), \\quad y(0) = 1.\n\\]\nFind the value of \\( y(2) \\).",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b6ca8c41-12fd-475f-8372-f97a3f37a31e",
+        "index": 0,
+        "body": "\\( y(2) = \\sqrt{ e^4 + 2} \\)",
+        "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "3d8379fc-5eef-4128-b01d-d4bf9a8c404f",
+        "index": 1,
+        "body": "\\( y(2) = 2e^4 - 1 \\)",
+        "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "d36e5934-fe10-4f8a-abda-6925f9735b9a",
+        "index": 2,
+        "body": "\\( y(2) = \\sqrt{ 2e^4 - 1} \\)",
+        "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+        "stats": {
+          "count": 552
+        },
+        "resources": []
+      },
+      {
+        "id": "0b73b5e6-dcf9-4749-9f57-71bf6ae51d99",
+        "index": 3,
+        "body": "\\( y(2) = e^2 - 1\\)",
+        "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "a841608c-e5ee-47ea-8c96-aebedf2fe7e0",
+        "index": 4,
+        "body": "\\( y(2) = \\sqrt{ 2e^4} \\)",
+        "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "268410371",
+    "timeSpentVideo": "67179642",
+    "submissions": 873,
+    "submissionsCorrect": 552,
+    "accuracy": 0.6323024054982818,
+    "difficulty": 0.6312949640287769
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "6985d831-1834-4bc1-9a17-bc44acd9240f",
+    "body": null,
+    "questionId": "8b5a0747-e68c-4f39-8eb1-d88734c9be76",
+    "resources": [
+      {
+        "id": "d9ce8d4e-2308-4a8f-9aab-37862274dbf5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6985d831-1834-4bc1-9a17-bc44acd9240f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34aba8fa-b5b2-485b-b97e-c00d4543b0f8",
+      "name": "Separation of Variables",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5099666475",
+        "timeSpentVideo": "411910359",
+        "submissions": 9217,
+        "submissionsCorrect": 6016,
+        "questions": 8,
+        "accuracy": 0.652706954540523,
+        "difficulty": 0.5989320596758614
+      }
+    }
+  ],
+  "children": []
+}

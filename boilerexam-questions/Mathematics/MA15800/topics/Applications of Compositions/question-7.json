@@ -1,0 +1,153 @@
+{
+  "id": "e503da0d-d543-45b2-9734-5d2671318726",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x)=8 x-1$ and $g(x)=\\frac{3}{x^{2}}$, find $(g \\circ f)(x)$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7bf4dc29-24ea-485c-b8d7-00cacc81f38b",
+        "index": 0,
+        "body": "$\\frac{3}{(8 x-1)^{2}}$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 737
+        },
+        "resources": []
+      },
+      {
+        "id": "a749c82d-b7ee-43e2-abb3-1d9264b727fc",
+        "index": 1,
+        "body": "$\\frac{3(8 x-1)}{x^{2}}$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "458961a4-9048-48a2-b225-439ef79023e9",
+        "index": 2,
+        "body": "$64 x-9$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "3504e56c-d8d2-4116-a2d1-ec4d3ca46c41",
+        "index": 3,
+        "body": "$\\frac{x^{4}}{3}$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "6f514a08-9ffd-4f28-a78b-23e033e70ae0",
+        "index": 4,
+        "body": "$\\frac{24}{x^{2}}-1$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "b2a7e959-a827-4a77-9cd5-b90c4f1c43a4",
+        "index": 5,
+        "body": "$\\frac{8 x+2}{x^{2}}$",
+        "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "126a578f-fc99-407b-9500-a9c789986e11",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "116535640",
+    "timeSpentVideo": "2450830",
+    "submissions": 889,
+    "submissionsCorrect": 737,
+    "accuracy": 0.829021372328459,
+    "difficulty": 0.45424671385237614
+  },
+  "resources": [],
+  "exam": {
+    "id": "126a578f-fc99-407b-9500-a9c789986e11",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2342204807",
+      "timeSpentVideo": "271512339",
+      "submissions": 15537,
+      "submissionsCorrect": 10046,
+      "questions": 15,
+      "accuracy": 0.6465855699298448,
+      "difficulty": 0.6043518577732302
+    }
+  },
+  "explanation": {
+    "id": "2d4c14ae-ace0-4b10-924f-25a6dc25f282",
+    "body": "",
+    "questionId": "e503da0d-d543-45b2-9734-5d2671318726",
+    "resources": [
+      {
+        "id": "1517a5e9-33cc-47e9-80d9-1eaffdc70cfc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SDiQ2DqPZ10?si=Y0pwdxjAtn3m712e&t=649\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2d4c14ae-ace0-4b10-924f-25a6dc25f282",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2420bafd-5a16-4ab5-b5f3-c5193321e49d",
+      "name": "Applications of Compositions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1679995183",
+        "timeSpentVideo": "28588959",
+        "submissions": 3543,
+        "submissionsCorrect": 2645,
+        "questions": 4,
+        "accuracy": 0.746542478125882,
+        "difficulty": 0.5102250892121878
+      }
+    }
+  ],
+  "children": []
+}

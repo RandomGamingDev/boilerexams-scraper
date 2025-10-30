@@ -1,0 +1,158 @@
+{
+  "id": "37be436e-1dab-4281-b789-5529a2763410",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that \n\n\\[\nx_1(t) =\n\\begin{bmatrix}\ne^{4t} \\\\\n- e^{4t}\n\\end{bmatrix}\n\\]\n\nis a solution of the system of differential equations\n\n\\[\nx' =\n\\begin{bmatrix}\n3 & -1 \\\\\n1 & 5\n\\end{bmatrix}\nx,\n\\]\n\nfind another solution \\( x_2(t) \\) of the system such that \\( x_1(t) \\) and \\( x_2(t) \\) are linearly independent.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "39f7d3b4-424c-4887-88b8-b4749b05a8e2",
+        "index": 0,
+        "body": "\\( x_2(t) =\n    \\begin{bmatrix}\n    (t+1)e^{4t} \\\\\n    -t e^{4t}\n    \\end{bmatrix} \\)",
+        "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+        "stats": {
+          "count": 217
+        },
+        "resources": []
+      },
+      {
+        "id": "cf318aef-504b-4c60-bf30-652ee0a80ed2",
+        "index": 1,
+        "body": "\\( x_2(t) =\n    \\begin{bmatrix}\n    2e^{-4t} \\\\\n    e^{-4t}\n    \\end{bmatrix} \\)",
+        "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "16ad1d73-a7d9-4b14-9206-22b7ae500fe2",
+        "index": 2,
+        "body": "\\( x_2(t) =\n    \\begin{bmatrix}\n    \\cos(4t) \\\\\n    \\sin(4t)\n    \\end{bmatrix} \\)",
+        "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "cb6352fe-e664-47f4-adf2-847a4feed1c4",
+        "index": 3,
+        "body": "\\( x_2(t) =\n    \\begin{bmatrix}\n    t e^{4t} \\\\\n    -t e^{4t}\n    \\end{bmatrix} \\)",
+        "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "4bb9aa38-fa74-4ef1-b2bb-40db1e2425c0",
+        "index": 4,
+        "body": "\\( x_2(t) =\n    \\begin{bmatrix}\n    (t-2)e^{4t} \\\\\n    (1-t)e^{4t}\n    \\end{bmatrix} \\)",
+        "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "259742534",
+    "timeSpentVideo": "73599923",
+    "submissions": 1024,
+    "submissionsCorrect": 390,
+    "accuracy": 0.380859375,
+    "difficulty": 0.8585409252669038
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "106e2da2-3e74-494b-8ef6-97574c405b2c",
+    "body": "The correct answer for this question does not look like my answer due to the fact that 2 different numbers were chosen for the second linearly independent solution. However, you can further see that both the numbers that I chose and the numbers in the correct answer are valid as they both satisfy the equation $x_1 + x_2 = -1$. The answer uses -2 and 1 while I use -1 and 0. $-2 + 1 = -1$, and $-1 + 0 = -1.$\n\nAdditionally, the reason that these extra steps are necessary to compute 2 linearly independent solutions is because although the 2 vectors computed can be linearly independent on their own, they do not satisfy the expression $x'=Ax$ where $A$ is the given matrix. Attaching $\\frac{t^{n-1}}{(n-1)!}$ to the new vector generated in each $x_n(t)$ solution satisfies $x'=Ax$.",
+    "questionId": "37be436e-1dab-4281-b789-5529a2763410",
+    "resources": [
+      {
+        "id": "521dd17a-302c-444f-a610-18e3019a66fb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=1ekWTzx_huk"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "106e2da2-3e74-494b-8ef6-97574c405b2c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2557e51f-af93-4f8c-be81-67f44325c38c",
+      "name": "Multiple Eigenvalues",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1054158201",
+        "timeSpentVideo": "100466296",
+        "submissions": 1713,
+        "submissionsCorrect": 791,
+        "questions": 3,
+        "accuracy": 0.46176298890834794,
+        "difficulty": 0.7861279646993933
+      }
+    },
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": " (8 points) Consider the following two matrices:\n\n\\[\nA=\\left[\\begin{array}{ccc}\n0 & -2 & -1 \\\\\n2 & 0 & 0 \\\\\n-1 & 1 & 1\n\\end{array}\\right], \\quad B=\\left[\\begin{array}{ccc}\n1 & 1 & 3 \\\\\n-2 & 2 & 1 \\\\\n0 & 1 & 1\n\\end{array}\\right]\n\\]\n\nThen $\\operatorname{det}\\left(A^{3} B^{-1}\\right)=$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "dce9b7ee-5e8b-4387-b0b5-28e2d4daf6d8",
+        "index": 0,
+        "body": "$6$",
+        "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "028e4ed1-eb48-40c6-b5af-24932af69ffd",
+        "index": 1,
+        "body": "$\\frac{16}{5}$",
+        "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "24d3c882-9fbc-4db6-8007-0f02e52d0eb8",
+        "index": 2,
+        "body": "$-\\frac{8}{3}$",
+        "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+        "stats": {
+          "count": 827
+        },
+        "resources": []
+      },
+      {
+        "id": "6d725fda-cb95-4db5-88af-941259a2b63f",
+        "index": 3,
+        "body": "$-3$",
+        "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "0861b56e-23a2-4c65-b9ab-532b1678bd87",
+        "index": 4,
+        "body": "$\\frac{4}{9}$",
+        "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "418212696",
+    "timeSpentVideo": "128180469",
+    "submissions": 1435,
+    "submissionsCorrect": 827,
+    "accuracy": 0.5763066202090592,
+    "difficulty": 0.6786644951140065
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "99d18265-9f01-45b8-a990-d067763b7917",
+    "body": "",
+    "questionId": "271be09d-0ae1-4881-b38f-c3a208cf39bb",
+    "resources": [
+      {
+        "id": "57e4784f-2ab9-43d6-8574-e4796dc94391",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=vb5i4NiiAgM3jQg1&t=7\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "99d18265-9f01-45b8-a990-d067763b7917",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    }
+  ],
+  "children": []
+}

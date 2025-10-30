@@ -1,0 +1,128 @@
+{
+  "id": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If the letters A, B, C, D, and E are enqueued onto a Queue in that order with possible dequeue calls in between enqueue calls, and if each letter is printed out when it is dequeued, which of the following is a possible output?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "d7e9e8a5-c9f4-4f33-b493-1bd6c98e8302",
+        "index": 0,
+        "body": "E D C B A",
+        "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "143ee2dc-c58a-4854-9cd4-b0fe0bb182d0",
+        "index": 1,
+        "body": "B A D C E",
+        "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "33155cba-8afd-4838-89bd-2ffa25867ba9",
+        "index": 2,
+        "body": "A B C D E",
+        "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+        "stats": {
+          "count": 1060
+        },
+        "resources": []
+      },
+      {
+        "id": "31771ece-d2bb-4993-b4c6-b070fe82da95",
+        "index": 3,
+        "body": "A B D E C",
+        "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f403ac91-0fe6-4e21-873a-6098876094e4",
+        "index": 4,
+        "body": "C B D A E",
+        "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "112882840",
+    "timeSpentVideo": "0",
+    "submissions": 1182,
+    "submissionsCorrect": 1060,
+    "accuracy": 0.8967851099830795,
+    "difficulty": 0.3841653666146646
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "60a29d2a-8b21-47e2-8675-c3dd22415202",
+    "body": null,
+    "questionId": "44f8d3cc-ebe3-4c41-b0f8-16d71578c09f",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6656b0cd-1337-436c-98ef-701056b4d3dd",
+      "name": "Queues",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4100813051",
+        "timeSpentVideo": "47682286",
+        "submissions": 9433,
+        "submissionsCorrect": 6742,
+        "questions": 8,
+        "accuracy": 0.7147249019399978,
+        "difficulty": 0.5375275359278296
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "95221844-75db-45ba-a0fc-76be9335bc48",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let $T: \\mathbb{R}^3 \\rightarrow \\mathbb{R}^3$ be the linear transformation for which \n\\[T\\left(\\left[\\begin{array}{c}1 \\\\ 0 \\\\0\\end{array}\\right]\\right)=\\left[\\begin{array}{c}1 \\\\ 0 \\\\ 5\\end{array}\\right] , \\quad T\\left(\\left[\\begin{array}{c}0 \\\\ 1 \\\\ 0 \\end{array}\\right]\\right)=\\left[\\begin{array}{c}2 \\\\ 1 \\\\ 6 \\end{array}\\right]\n, \\quad T\\left(\\left[\\begin{array}{c}0 \\\\ 0 \\\\ 1 \\end{array}\\right]\\right)=\\left[\\begin{array}{c}3 \\\\ 4 \\\\ 0 \\end{array}\\right]\n\\]\n\n(1) Let $A$ be the standard matrix of $T$, find $A$.\n\n(2) Find the image of the vector $\\mathbf{u} = \\left[\\begin{array}{c}1 \\\\ 2 \\\\ -1\\end{array}\\right]\n$.\n\n(3) Is the vector $\\mathbf{b} = \\left[\\begin{array}{c}10 \\\\ 6 \\\\ 27\\end{array}\\right]$ in the range of $T$? If so, find a vector $\\mathbf{x}$ in $\\mathbb{R}^3$ such that $T(\\mathbf{x}) = \\mathbf{b}$.",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "200072989",
+    "timeSpentVideo": "24537618",
+    "submissions": 689,
+    "submissionsCorrect": 243,
+    "accuracy": 0.35268505079825835,
+    "difficulty": 0.8786438529784537
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "39b6f30c-bc79-47ea-83eb-c7cac47721eb",
+    "body": null,
+    "questionId": "95221844-75db-45ba-a0fc-76be9335bc48",
+    "resources": [
+      {
+        "id": "f6809595-912c-4cff-b776-2c2e580fb3db",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?si=LA2_q5kHEQeQL3aR&t=1561"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "39b6f30c-bc79-47ea-83eb-c7cac47721eb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7399288103",
+        "timeSpentVideo": "847747211",
+        "submissions": 14733,
+        "submissionsCorrect": 8390,
+        "questions": 7,
+        "accuracy": 0.5694698975089935,
+        "difficulty": 0.6809984494033574
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

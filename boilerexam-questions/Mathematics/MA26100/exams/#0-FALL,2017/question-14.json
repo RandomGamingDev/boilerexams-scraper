@@ -1,0 +1,143 @@
+{
+  "id": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{F}=\\left\\langle x^{2} y z, x y^{2} z, x y z^{2}\\right\\rangle$. Compute $\\operatorname{grad}(\\operatorname{div} \\mathbf{F})-\\operatorname{curl}(\\operatorname{curl}(\\mathbf{F}))$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "99e15fff-f153-4f4c-bb55-2ac86368a4c4",
+        "index": 0,
+        "body": "$\\langle 2 y z, 2 x z, 2 x y\\rangle$",
+        "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+        "stats": {
+          "count": 1594
+        },
+        "resources": []
+      },
+      {
+        "id": "83eda14a-eb71-4a51-b853-d28ee252ca5a",
+        "index": 1,
+        "body": "$\\langle 0,0,0\\rangle$",
+        "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+        "stats": {
+          "count": 262
+        },
+        "resources": []
+      },
+      {
+        "id": "acb413b3-4b4c-40ab-b724-ecdfc632e63e",
+        "index": 2,
+        "body": "$\\langle 6 y z, 6 x z, 6 x y\\rangle$",
+        "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+        "stats": {
+          "count": 391
+        },
+        "resources": []
+      },
+      {
+        "id": "86652b5b-f8d0-46a7-8650-96b6942cbc75",
+        "index": 3,
+        "body": "$\\langle 4 y z, 4 x z, 4 x y\\rangle$",
+        "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "2e93647a-cb55-44ab-871f-d58cd84ee1c1",
+        "index": 4,
+        "body": "$\\langle y z, x z, x y\\rangle$",
+        "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1063551460",
+    "timeSpentVideo": "186624508",
+    "submissions": 3590,
+    "submissionsCorrect": 1594,
+    "accuracy": 0.44401114206128134,
+    "difficulty": 0.8044715447154471
+  },
+  "resources": [],
+  "exam": {
+    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+    "number": 0,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12922067341",
+      "timeSpentVideo": "3006876717",
+      "submissions": 60745,
+      "submissionsCorrect": 28135,
+      "questions": 20,
+      "accuracy": 0.4631656926496008,
+      "difficulty": 0.786773769414085
+    }
+  },
+  "explanation": {
+    "id": "fed40434-7fbf-434e-a3ea-4fbecb47610c",
+    "body": "",
+    "questionId": "3c806927-4d8a-43f6-ae92-726113ec66e3",
+    "resources": [
+      {
+        "id": "d142cf65-192b-47a8-865f-75866fb310aa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/snzGJb-fM6o?si=Fb2olwep11Ls7oQB&t=2058\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fed40434-7fbf-434e-a3ea-4fbecb47610c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12211665531",
+        "timeSpentVideo": "1608395474",
+        "submissions": 32383,
+        "submissionsCorrect": 17165,
+        "questions": 8,
+        "accuracy": 0.530062069604422,
+        "difficulty": 0.7200304774805283
+      }
+    }
+  ],
+  "children": []
+}

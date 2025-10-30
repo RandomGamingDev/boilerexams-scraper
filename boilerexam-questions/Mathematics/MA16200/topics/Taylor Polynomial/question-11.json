@@ -1,0 +1,143 @@
+{
+  "id": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The fourth-order Taylor polynomial of $f(x)$ centered at $x=\\frac{5 \\pi}{6}$ is\n\n\n\\[\nP_{4}(x)=\\frac{1}{2}-\\frac{\\sqrt{3}}{2}\\left(x-\\frac{5 \\pi}{6}\\right)-\\frac{1}{4}\\left(x-\\frac{5 \\pi}{6}\\right)^{2}+\\frac{\\sqrt{3}}{12}\\left(x-\\frac{5 \\pi}{6}\\right)^{3}+\\frac{1}{48}\\left(x-\\frac{5 \\pi}{6}\\right)^{4}\n\\]\n\nWhat is $f^{\\prime \\prime \\prime}\\left(\\frac{5 \\pi}{6}\\right)=$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1189a0a4-8195-4521-aaac-c6fbce8405d8",
+        "index": 0,
+        "body": "$\\frac{\\sqrt{3}}{2}$",
+        "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+        "stats": {
+          "count": 1695
+        },
+        "resources": []
+      },
+      {
+        "id": "e00c6d1e-a113-4b79-879f-72b521b260bb",
+        "index": 1,
+        "body": "$\\frac{1}{4}$",
+        "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "caef2243-5d68-4f6c-bb1f-e63156d3c121",
+        "index": 2,
+        "body": "$\\frac{1}{48}$",
+        "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "30e61acf-82d1-41ec-82f1-23d60d7dc4af",
+        "index": 3,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+        "stats": {
+          "count": 300
+        },
+        "resources": []
+      },
+      {
+        "id": "f711e482-d99c-4035-bcf4-3e2cc6f10d6f",
+        "index": 4,
+        "body": "$\\frac{\\sqrt{3}}{12}$",
+        "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+        "stats": {
+          "count": 376
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "262083731",
+    "timeSpentVideo": "57523459",
+    "submissions": 2663,
+    "submissionsCorrect": 1695,
+    "accuracy": 0.6365001877581675,
+    "difficulty": 0.6184401013391242
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6066023335",
+      "timeSpentVideo": "2648915964",
+      "submissions": 43310,
+      "submissionsCorrect": 26203,
+      "questions": 12,
+      "accuracy": 0.6050103902101132,
+      "difficulty": 0.6452315134761576
+    }
+  },
+  "explanation": {
+    "id": "c9afda4e-4372-4779-a403-893d85026346",
+    "body": "",
+    "questionId": "18f270f5-aa53-4bec-b272-bbe3a6eb91a5",
+    "resources": [
+      {
+        "id": "e6a244f4-50fb-475d-898e-738e1534dc86",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=2220\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c9afda4e-4372-4779-a403-893d85026346",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "58e98ebf-e8a1-4bf5-8c67-d568da7b5f65",
+      "name": "Taylor Polynomial",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7926557724",
+        "timeSpentVideo": "579629183",
+        "submissions": 19196,
+        "submissionsCorrect": 12410,
+        "questions": 8,
+        "accuracy": 0.6464888518441342,
+        "difficulty": 0.6042703150912107
+      }
+    }
+  ],
+  "children": []
+}

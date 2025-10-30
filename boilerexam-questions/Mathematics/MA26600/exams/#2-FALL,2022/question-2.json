@@ -1,0 +1,143 @@
+{
+  "id": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A damped forced oscillation $x(t)$ satisfies the differential equation\n\n\n\\[\nx^{\\prime \\prime}+2 x^{\\prime}+5 x=\\cos (2 t) .\n\\]\n\nThe steady periodic solution $x_{s p}(t)$ can be written in the form\n\n\\[\nx_{s p}(t)=C \\cos (\\omega t-\\alpha) .\n\\]\n\nWhat are the values of $C, \\omega$ and $\\alpha ?$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "6bffb89d-31eb-4449-a7b0-287e5f254bbd",
+        "index": 0,
+        "body": "$C=\\frac{\\sqrt{17}}{17}, \\omega=2, \\alpha=\\tan ^{-1}(1 / 4)$",
+        "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "fd9214ad-52d0-42ed-a90e-f730e38574e1",
+        "index": 1,
+        "body": "$C=\\sqrt{17}, \\omega=2, \\alpha=\\tan ^{-1}(2 / \\sqrt{17})$",
+        "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "87bf5957-5fe5-4eb5-bf8b-d4e6a5e032f3",
+        "index": 2,
+        "body": "$C=\\frac{1}{17}, \\omega=1, \\alpha=\\tan ^{-1}(\\sqrt{17} / 17)$",
+        "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "52747af1-041a-427e-9dac-aab057b478f4",
+        "index": 3,
+        "body": "$C=\\frac{5}{17}, \\omega=1, \\alpha=-\\tan ^{-1}(\\sqrt{17} / 17)$",
+        "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "8a83704b-31e1-4428-a7fa-6a437236ad3e",
+        "index": 4,
+        "body": "$C=\\frac{\\sqrt{17}}{17}, \\omega=2, \\alpha=\\tan ^{-1}(4)$",
+        "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+        "stats": {
+          "count": 359
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "220197988",
+    "timeSpentVideo": "71309380",
+    "submissions": 806,
+    "submissionsCorrect": 359,
+    "accuracy": 0.445409429280397,
+    "difficulty": 0.7985651214128036
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "c8374089-a91d-4f64-9382-30c37077a64d",
+    "body": "",
+    "questionId": "52ea7c0b-afa3-408b-a539-ad3ce40e932e",
+    "resources": [
+      {
+        "id": "a5a937cf-9a25-4480-af62-aeecffbf44eb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=5hEaO4hN9T25Mj-u&t=344"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c8374089-a91d-4f64-9382-30c37077a64d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "64dbbd27-5b98-4953-b5c9-efd797f17313",
+      "name": "Kinematics",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2688672673",
+        "timeSpentVideo": "267071149",
+        "submissions": 4449,
+        "submissionsCorrect": 2318,
+        "questions": 4,
+        "accuracy": 0.5210159586423916,
+        "difficulty": 0.729446032094966
+      }
+    }
+  ],
+  "children": []
+}

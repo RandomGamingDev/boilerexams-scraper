@@ -1,0 +1,158 @@
+{
+  "id": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For which of the following series the ratio test is inconclusive?\n(I) $\\sum_{n=1}^{\\infty} \\frac{7^{n}}{n !}$\n(II) $\\sum_{n=1}^{\\infty} \\frac{1}{n^{2}}$\n(III) $\\sum_{n=1}^{\\infty} \\frac{\\ln n}{n}$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c966390d-7135-4e9c-958e-a4ae3d63e7cb",
+        "index": 0,
+        "body": "I only",
+        "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      },
+      {
+        "id": "92f8106c-c243-440c-a0ac-52e2e32ee33f",
+        "index": 1,
+        "body": "II only",
+        "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+        "stats": {
+          "count": 333
+        },
+        "resources": []
+      },
+      {
+        "id": "cbacbbea-2244-4baa-8e0a-cc10e5d4584c",
+        "index": 2,
+        "body": "III only",
+        "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      },
+      {
+        "id": "11bec263-a22c-4d3b-a22d-23e3b4273a6d",
+        "index": 3,
+        "body": "I and II",
+        "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "27e85dad-d198-4d23-8710-cc251de6a554",
+        "index": 4,
+        "body": "II and III",
+        "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+        "stats": {
+          "count": 2699
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "591819737",
+    "timeSpentVideo": "59826973",
+    "submissions": 3867,
+    "submissionsCorrect": 2699,
+    "accuracy": 0.6979570726661495,
+    "difficulty": 0.5570330224350895
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "5b06fe16-ddec-4824-be1e-2fb573459b83",
+    "body": "",
+    "questionId": "52853e2e-a47c-4847-b0e4-c0114860a5e7",
+    "resources": [
+      {
+        "id": "061d258b-070e-485e-b6c1-8c29828d52a4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Leo8UMHCXzs?t=1700\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5b06fe16-ddec-4824-be1e-2fb573459b83",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2ef692fd-0289-4314-8253-fee0743589a9",
+      "name": "Ratio Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6748751242",
+        "timeSpentVideo": "951842057",
+        "submissions": 20366,
+        "submissionsCorrect": 13843,
+        "questions": 6,
+        "accuracy": 0.6797112835117353,
+        "difficulty": 0.571166813251246
+      }
+    },
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

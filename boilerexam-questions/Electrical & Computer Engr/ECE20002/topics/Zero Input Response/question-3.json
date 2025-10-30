@@ -1,0 +1,190 @@
+{
+  "id": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, the output $v_{OUT}(t)$ consists of zero input response (ZIR) and zero state response (ZSR).\n\n$v_{OUT}(t) = v_{OUT,ZIR}(t) + v_{OUT,ZSR}(t)$\n\nFind the zero input response (ZIR) $v_{OUT,ZIR} (t).$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4caa3480-9dcb-44ac-971e-6f218386d74e",
+        "index": 0,
+        "body": "$v_{OUT,ZIR}(t) = 0.5 \\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "819739d4-a357-4e8c-a5e9-7eb13976b846",
+        "index": 1,
+        "body": "$v_{OUT,ZIR}(t) = -0.5e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "47041fc0-f228-4ec2-8a6e-245bdfc9b1e6",
+        "index": 2,
+        "body": "$v_{OUT,ZIR}(t) = 1.5e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "44117d6c-7ad9-4e50-977f-3b9240940e34",
+        "index": 3,
+        "body": "$v_{OUT,ZIR}(t) = 2e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 274
+        },
+        "resources": []
+      },
+      {
+        "id": "54582fdd-a5aa-4ce3-9b37-742fe6ca95c4",
+        "index": 4,
+        "body": "$v_{OUT,ZIR}(t) = 2.5e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "e6aba379-6c43-4984-986e-ce7ab1640eaa",
+        "index": 5,
+        "body": "$v_{OUT,ZIR}(t) = 0.5 - 0.5e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "c2f7eece-ce6f-4180-a3b5-3f4512178089",
+        "index": 6,
+        "body": "$v_{OUT,ZIR}(t) = 0.5 + 1.5e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "2bf54455-9034-4b9f-8f65-8b6a46d374e5",
+        "index": 7,
+        "body": "$v_{OUT,ZIR}(t) = 0.5 + 2e^{-2t}\\ [V]$",
+        "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "202359097",
+    "timeSpentVideo": "50379316",
+    "submissions": 575,
+    "submissionsCorrect": 274,
+    "accuracy": 0.4765217391304348,
+    "difficulty": 0.77
+  },
+  "resources": [
+    {
+      "id": "0953722c-fc14-4594-9415-c92c8663d068",
+      "type": "IMAGE",
+      "data": {
+        "key": "YcNcVj1ykF7uz6l60f-TJ",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/YcNcVj1ykF7uz6l60f-TJ",
+        "altText": "re"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "23c36934-de2f-45cf-be6a-27be4c0f74c2",
+    "body": "",
+    "questionId": "f9a30804-17c4-405b-98f3-4113a5761ce4",
+    "resources": [
+      {
+        "id": "69ce2125-1337-429b-a98b-a8f49c27361f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=930s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "23c36934-de2f-45cf-be6a-27be4c0f74c2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e18c186a-1e0d-4694-a442-674acab6963e",
+      "name": "Zero Input Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "574836037",
+        "timeSpentVideo": "50379316",
+        "submissions": 575,
+        "submissionsCorrect": 274,
+        "questions": 1,
+        "accuracy": 0.4765217391304348,
+        "difficulty": 0.77
+      }
+    }
+  ],
+  "children": []
+}

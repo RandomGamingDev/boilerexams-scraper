@@ -1,0 +1,144 @@
+{
+  "id": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The quantity $\\lim _{h \\rightarrow 0} \\frac{\\sqrt{9+h}-3}{h}$ represents which of the following?",
+    "solution": [
+      1,
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "418c75ce-33ad-4e29-8072-d2927862cc1d",
+        "index": 0,
+        "body": "$f^{\\prime}(3)$ with $f(x)=\\sqrt{x}$",
+        "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "a4fd4354-fa26-4cd4-bb72-07005c5f6fbc",
+        "index": 1,
+        "body": "$f^{\\prime}(9)$ with $f(x)=\\sqrt{x}$",
+        "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+        "stats": {
+          "count": 640
+        },
+        "resources": []
+      },
+      {
+        "id": "b4a26ec0-bbc6-45bf-b4ab-75d576173bd2",
+        "index": 2,
+        "body": "$f^{\\prime}(-6)$ with $f(x)=\\sqrt{x+3}$",
+        "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "d74a9226-cf31-45a6-af71-76f446fe3b24",
+        "index": 3,
+        "body": "$f^{\\prime}(-3)$ with $f(x)=\\sqrt{x+9}$",
+        "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "15d750a2-869a-46f5-9efc-3acdb4a42e11",
+        "index": 4,
+        "body": "$f^{\\prime}(6)$ with $f(x)=\\sqrt{x+3}$",
+        "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+        "stats": {
+          "count": 204
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104365389",
+    "timeSpentVideo": "18128181",
+    "submissions": 961,
+    "submissionsCorrect": 656,
+    "accuracy": 0.6826222684703434,
+    "difficulty": 0.5845900094250707
+  },
+  "resources": [],
+  "exam": {
+    "id": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1684158045",
+      "timeSpentVideo": "349622968",
+      "submissions": 13494,
+      "submissionsCorrect": 8398,
+      "questions": 12,
+      "accuracy": 0.6223506743737958,
+      "difficulty": 0.6285493600117699
+    }
+  },
+  "explanation": {
+    "id": "3fc390e5-7e66-4921-b2ca-78c17446662c",
+    "body": "",
+    "questionId": "5ee063c1-b951-4f2a-8dac-b820dc18ff94",
+    "resources": [
+      {
+        "id": "64e30fde-b0b4-4663-a4c4-eebdd8865bdd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cnbnleugAKA?t=3040"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3fc390e5-7e66-4921-b2ca-78c17446662c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

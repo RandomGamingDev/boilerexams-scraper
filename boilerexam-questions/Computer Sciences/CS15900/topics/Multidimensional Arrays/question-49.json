@@ -1,0 +1,133 @@
+{
+  "id": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding multidimensional arrays is TRUE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "172c380b-198b-41e3-9515-75944887e84f",
+        "index": 0,
+        "body": "Only the first dimension of a multidimensional array begins with an index of zero.",
+        "questionId": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+        "stats": {
+          "count": 442
+        },
+        "resources": []
+      },
+      {
+        "id": "a572098b-0af1-4cd5-aba8-3cc7bf55ed36",
+        "index": 1,
+        "body": "The total capacity of a multidimensional array is the sum of the declared extent of each dimension.",
+        "questionId": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+        "stats": {
+          "count": 568
+        },
+        "resources": []
+      },
+      {
+        "id": "817fa5db-248a-4725-bc3c-30913862187a",
+        "index": 2,
+        "body": "A function declaration with a multidimensional array as a parameter must provide the extent of each dimension beyond the first.",
+        "questionId": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+        "stats": {
+          "count": 3430
+        },
+        "resources": []
+      },
+      {
+        "id": "c8f4fdbc-fadb-4a6f-8de8-92773ce59372",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 49,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "393260624",
+    "timeSpentVideo": "0",
+    "submissions": 4731,
+    "submissionsCorrect": 3430,
+    "accuracy": 0.725005284295075,
+    "difficulty": 0.5296522459118195
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "0d827df6-6aa1-4cfe-bc48-16c6e4b8b026",
+    "body": "",
+    "questionId": "821626ca-83ac-4f0c-be0e-7ed9c10274d3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "bb5ef0c3-8b2f-452b-adb9-fe876de85aa9",
+      "name": "Multidimensional Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3502357237",
+        "timeSpentVideo": "0",
+        "submissions": 8665,
+        "submissionsCorrect": 5764,
+        "questions": 4,
+        "accuracy": 0.665204847085978,
+        "difficulty": 0.5866799771819737
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "On the domain $(x>0)$ consider the equation:\n\n\\[\n(x-8 y) d x+4 x \\;d y=0 .\n\\]\n\nIts general solution is given by",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "982fa20c-86b1-40f1-85d4-a56edd649775",
+        "index": 0,
+        "body": "$y=-x^{4} \\ln (x)+c x$",
+        "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "97d02f57-17b8-423e-9078-609f6330b4cc",
+        "index": 1,
+        "body": "$y=\\frac{x}{4}+c x^{2}$",
+        "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+        "stats": {
+          "count": 586
+        },
+        "resources": []
+      },
+      {
+        "id": "b89a7fdf-5a06-45ae-b5cb-e57d80b0b4e0",
+        "index": 2,
+        "body": "$y=\\frac{x}{2} \\ln (x)+\\frac{c}{x}$",
+        "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "a417bf05-d5ff-4a23-a9ca-b1aef538f410",
+        "index": 3,
+        "body": "$y=4 x^{3} \\ln (x)+c x$",
+        "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "b4f7043c-c456-44cd-a4f3-af8fcedcb0c0",
+        "index": 4,
+        "body": "$y=-x^{3}+c x$",
+        "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "321028822",
+    "timeSpentVideo": "38075855",
+    "submissions": 1064,
+    "submissionsCorrect": 586,
+    "accuracy": 0.5507518796992481,
+    "difficulty": 0.7036082474226805
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "24fed33d-433c-4db9-8cd3-5548d17a3743",
+    "body": "",
+    "questionId": "72bb8c38-607f-412e-845c-9fc70378a4ea",
+    "resources": [
+      {
+        "id": "8a68974b-9940-4a73-a517-d4165b9d4f56",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=376\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "24fed33d-433c-4db9-8cd3-5548d17a3743",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "195a852c-3f16-40f9-8ba6-e393dc5c1f8b",
+      "name": "Homogeneous ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3096401893",
+        "timeSpentVideo": "224975085",
+        "submissions": 6989,
+        "submissionsCorrect": 4255,
+        "questions": 7,
+        "accuracy": 0.6088138503362427,
+        "difficulty": 0.6427211172238679
+      }
+    }
+  ],
+  "children": []
+}

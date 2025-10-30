@@ -1,0 +1,134 @@
+{
+  "id": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the program is TRUE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7b0dcfd5-d239-4451-bc42-008ba75473d5",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logic makes use of nested repetition.</font>",
+        "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+        "stats": {
+          "count": 3643
+        },
+        "resources": []
+      },
+      {
+        "id": "1fe2856f-b672-455b-b711-fbc386fd2658",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The loop in the</font> main <font style=\"font-family:'Times New Roman'\">function is an event-controlled process because the update expression changes the loop control variable by a value +1 or -1.</font>",
+        "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "9b47df1d-95cc-4851-a43f-b74d6d892287",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The loop in the</font> main <font style=\"font-family:'Times New Roman'\">function is an event-controlled process because the update expression involves division.</font>",
+        "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+        "stats": {
+          "count": 608
+        },
+        "resources": []
+      },
+      {
+        "id": "96314a5e-04e2-4181-bc2b-879d6bca0c08",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+        "stats": {
+          "count": 381
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 34,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "323051283",
+    "timeSpentVideo": "0",
+    "submissions": 4953,
+    "submissionsCorrect": 3643,
+    "accuracy": 0.735513830002019,
+    "difficulty": 0.5191470413615674
+  },
+  "resources": [
+    {
+      "id": "5f12f906-29a2-4fe8-a045-1f0c0a1ba58b",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint calcVals(int);\n\nint main(void)\n{\n  int n;\n  int total = 0;\n  \n  for(n = 58617; n > 9; n /= 10)\n  {\n    total += calcVals(n);\n    printf(\"n: %d\\n\", n);\n  }\n  \n  printf(\"final total: %d\\n\", total);\n  \n  return(0);\n}\n\nint calcVals(int x)\n{\n  int i;\n  int j;\n  int total = 0;\n  \n  j = x % 5;\n  \n  for(i = 1; i <= j; i += 2)\n  {\n    total += j;\n    printf(\"total: %d\\n\", total);\n  }\n  \n  return(total);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "bc5270b8-b55f-47b2-8835-2cd59e737c9e",
+    "body": "",
+    "questionId": "fdf4f113-91c8-4be4-8fce-7241b680bb9e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

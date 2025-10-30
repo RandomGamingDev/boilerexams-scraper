@@ -1,0 +1,143 @@
+{
+  "id": "d88872f2-731d-43da-86af-589cad441b44",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $z(x, y)$ be the function implicitly defined as the solution to\n\\[\nx+y+z+\\sin (x y z)=3+\\frac{\\pi}{2}\n\\]\nthat satisfies $z(1,1)=\\frac{\\pi}{2}$. Find $z_{x}(1,1)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "e829e46b-2501-4161-80f2-18ae7e6f64cd",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+        "stats": {
+          "count": 553
+        },
+        "resources": []
+      },
+      {
+        "id": "5b0d2a8d-2f59-4de3-8e3f-eb4651ec09d3",
+        "index": 1,
+        "body": "$-1$",
+        "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+        "stats": {
+          "count": 2844
+        },
+        "resources": []
+      },
+      {
+        "id": "41f9073f-d873-45dd-af57-2d4aa737ccdd",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+        "stats": {
+          "count": 132
+        },
+        "resources": []
+      },
+      {
+        "id": "750af217-81bd-45c6-ba76-9fe477711daa",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "de256a0d-6c82-4950-933b-01517bcf5801",
+        "index": 4,
+        "body": "$\\frac{3}{2}$",
+        "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1206092291",
+    "timeSpentVideo": "204644322",
+    "submissions": 5844,
+    "submissionsCorrect": 2844,
+    "accuracy": 0.486652977412731,
+    "difficulty": 0.7631224764468372
+  },
+  "resources": [],
+  "exam": {
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+    "number": 1,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14045692220",
+      "timeSpentVideo": "2133559776",
+      "submissions": 68612,
+      "submissionsCorrect": 42252,
+      "questions": 12,
+      "accuracy": 0.6158106453681572,
+      "difficulty": 0.6343578996390732
+    }
+  },
+  "explanation": {
+    "id": "89c69c7e-9920-41bc-8bfc-256bf963bc24",
+    "body": "",
+    "questionId": "d88872f2-731d-43da-86af-589cad441b44",
+    "resources": [
+      {
+        "id": "fed0a918-a73b-48b0-9329-33a51aa5755e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QLbA7GKKkPs?t=1817"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89c69c7e-9920-41bc-8bfc-256bf963bc24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "963954fb-31ff-422c-8b8e-3f747b7bc3ee",
+      "name": "Implicit partial diff",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7265981727",
+        "timeSpentVideo": "501401631",
+        "submissions": 16304,
+        "submissionsCorrect": 8481,
+        "questions": 4,
+        "accuracy": 0.5201790971540726,
+        "difficulty": 0.72994391611802
+      }
+    }
+  ],
+  "children": []
+}

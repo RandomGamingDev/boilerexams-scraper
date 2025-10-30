@@ -1,0 +1,133 @@
+{
+  "id": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements best describes what occurs when accessing an index beyond the bounds of an array?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "52858553-1f8c-4a1a-8b1e-5c1715f55955",
+        "index": 0,
+        "body": "The array will automatically expand, and the new elements of the array will be initialized to zero.",
+        "questionId": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+        "stats": {
+          "count": 509
+        },
+        "resources": []
+      },
+      {
+        "id": "9c11a282-fafb-4eaf-9eea-698394061461",
+        "index": 1,
+        "body": "The program will always fail to compile.",
+        "questionId": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+        "stats": {
+          "count": 465
+        },
+        "resources": []
+      },
+      {
+        "id": "0628af6e-4619-48e0-92fa-a176db2374f1",
+        "index": 2,
+        "body": "The program will always crash (end prematurely).",
+        "questionId": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+        "stats": {
+          "count": 356
+        },
+        "resources": []
+      },
+      {
+        "id": "3dedf1f2-5f36-4aaa-84d2-56c45aa2fcc9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+        "stats": {
+          "count": 1813
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "133329897",
+    "timeSpentVideo": "29659970",
+    "submissions": 3299,
+    "submissionsCorrect": 1813,
+    "accuracy": 0.5495604728705669,
+    "difficulty": 0.7018976169461606
+  },
+  "resources": [],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "4b46f6a2-1ace-4383-a8f9-9e294d537cd1",
+    "body": "",
+    "questionId": "73889055-e87f-4bd6-8ef5-0f5564c25105",
+    "resources": [
+      {
+        "id": "edbfd6a4-d30c-4abd-ba92-685f52cee8c3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=2911"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4b46f6a2-1ace-4383-a8f9-9e294d537cd1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

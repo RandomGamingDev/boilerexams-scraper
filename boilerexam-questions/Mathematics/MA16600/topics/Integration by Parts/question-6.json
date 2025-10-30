@@ -1,0 +1,158 @@
+{
+  "id": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We try to compute \n\\[\\int \\tan ^2 (x)\\sec (x) dx\\]\nusing integration by parts, setting \n\\[\n\\begin{cases}\n\\phantom{d}u = \\tan (x), & \\phantom{d}v = \\sec (x) \\\\\ndu = \\sec ^2 (x) dx, & dv = sec(x) \\tan(x)dx. \n\\end{cases}\n\\]\nThen we have \n\\[\\begin{equation}\n\\begin{aligned}\n\\int \\tan ^2 (x)\\sec (x) dx &= \\int udv = uv - \\int vdu\\\\\n&= \\tan (x) \\sec (x) - \\int \\sec (x)\\sec^2(x)dx. \\\\\n& = \\tan (x) \\sec (x) - \\int \\sec (x) \\{1 + \\tan ^2 (x) \\}dx\\\\\n& = \\tan (x) \\sec (x) - \\int sec (x) - \\int \\tan ^2 (x)\\sec (x)dx. \n\\end{aligned}\n\\end{equation}\\]\nChoose the correct statement for the above trial.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "34644f8b-67d1-4dd2-a19f-3083db498ec7",
+        "index": 0,
+        "body": "Since we end up seeing the same formula at the end as we started with, this trial fails to compute the integral.",
+        "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "1f37789c-1a48-43c9-bc24-3a4fa15c4f8b",
+        "index": 1,
+        "body": "The only substitution we can use is u = $\\tan (x)$ or $u = \\sec (x)$. For the given integral, neither of them works. The above trial confirms that this integral cannot be computed by any method.",
+        "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "e6c09db9-c077-4c17-b4b6-efd1632f94c1",
+        "index": 2,
+        "body": "This computation gives the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\tan (x) \\sec (x) - \\ln |\\sec (x) + \\tan (x) | +C$. ",
+        "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "1204821a-bb52-4a93-9633-418b16db9dde",
+        "index": 3,
+        "body": "This computation gives the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\frac{1}{2} \\{ \\tan (x) \\sec (x) - \\ln |\\sec (x) + \\tan (x) | \\}+C$. ",
+        "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "65a2d905-99f7-4c0e-ac0a-4d7963a4037d",
+        "index": 4,
+        "body": "The above trial fails. We have to use the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\int \\{ \\sec ^2 (x) - 1\\} \\sec (x) dx. $\nThen ONLY after we compute $\\int \\sec ^3 (x) dx$ and $ \\int \\sec (x) dx $, we can derive the formula. ",
+        "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "31034911",
+    "timeSpentVideo": "1537488",
+    "submissions": 194,
+    "submissionsCorrect": 117,
+    "accuracy": 0.6030927835051546,
+    "difficulty": 0.6819727891156463
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "1c2ddd7d-c325-4886-ac56-58325904def5",
+    "body": null,
+    "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
+    "resources": [
+      {
+        "id": "fbe3d160-c3c0-45a3-800a-3d1b36951aa5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=Sw1X2_0-2smjlxPw&t=2319"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1c2ddd7d-c325-4886-ac56-58325904def5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "192561457",
+        "timeSpentVideo": "2364001",
+        "submissions": 294,
+        "submissionsCorrect": 181,
+        "questions": 3,
+        "accuracy": 0.6156462585034014,
+        "difficulty": 0.6637055837563451
+      }
+    }
+  ],
+  "children": []
+}

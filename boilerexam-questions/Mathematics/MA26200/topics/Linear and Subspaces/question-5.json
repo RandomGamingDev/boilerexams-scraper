@@ -1,0 +1,128 @@
+{
+  "id": "a613b254-5bab-4f59-ac74-dd58bccec505",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The matrix $A=\\left[\\begin{array}{rrrrr}1 & 2 & 3 & 4 & 5 \\\\ 1 & 3 & 5 & 7 & 9 \\\\ 0 & 1 & 2 & 3 & 4 \\\\ -1 & 1 & 3 & 6 & 9\\end{array}\\right]$ has a row-echelon form given by $\\operatorname{ref}(A)=\\left[\\begin{array}{ccccc}1 & 2 & 3 & 4 & 5 \\\\ 0 & 1 & 2 & 3 & 4 \\\\ 0 & 0 & 0 & 1 & 2 \\\\ 0 & 0 & 0 & 0 & 0\\end{array}\\right]$.\n\n\nWhich of the following statement(s) is/are TRUE?\n\nI The set of column vectors $\\left\\{\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}4 \\\\ 3 \\\\ 1 \\\\ 0\\end{array}\\right]\\right\\}$ is a basis for the Column Space of the matrix $A$.\n\nII The dimension of the Solution Space to $A \\mathbf{x}=\\mathbf{0}$ (i.e., the Null Space of $A$ ) is $2$.\n\nIII The set of row vectors $\\left\\{\\left[\\begin{array}{lllll}1 & 2 & 3 & 4 & 5\\end{array}\\right],\\left[\\begin{array}{lllll}0 & 1 & 2 & 3 & 4\\end{array}\\right],\\left[\\begin{array}{llll}0 & 0 & 0 & 1 & 2\\end{array}\\right]\\right\\}$ is a basis for the Row Space of the matrix $A$.\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f59d66db-f4f5-4478-b02a-7b80b1527657",
+        "index": 0,
+        "body": "Only I and III",
+        "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+        "stats": {
+          "count": 189
+        },
+        "resources": []
+      },
+      {
+        "id": "0956d983-c1bc-432a-8ae9-f35dc16b8d0e",
+        "index": 1,
+        "body": "Only I and II",
+        "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "ef068845-63b3-436a-9929-7e43c07162ba",
+        "index": 2,
+        "body": "Only II",
+        "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "e6854bd8-1765-442e-80ca-6cb58dd322cc",
+        "index": 3,
+        "body": "Only III",
+        "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "d75984f1-282b-4d85-b78d-06d83b7cd947",
+        "index": 4,
+        "body": "Only II and III",
+        "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+        "stats": {
+          "count": 984
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "234518629",
+    "timeSpentVideo": "0",
+    "submissions": 1640,
+    "submissionsCorrect": 984,
+    "accuracy": 0.6,
+    "difficulty": 0.6557471264367816
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "6aad9c8b-73d0-4791-8ef4-0f9aecf8eb46",
+    "body": "",
+    "questionId": "a613b254-5bab-4f59-ac74-dd58bccec505",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

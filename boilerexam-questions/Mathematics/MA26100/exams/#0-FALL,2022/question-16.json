@@ -1,0 +1,143 @@
+{
+  "id": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose that $f(u,v) = e^v \\sin(u),$ where $u=s-t$ and $v=t^2.$ Find $\\frac{\\partial f}{\\partial t}$ when $(s,t) = (1,1).$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "42a58d3f-06fd-46ad-884d-fa1197df73a6",
+        "index": 0,
+        "body": "$e$",
+        "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+        "stats": {
+          "count": 573
+        },
+        "resources": []
+      },
+      {
+        "id": "03d4a470-8765-4c99-be98-20ef1492784f",
+        "index": 1,
+        "body": "$-e$",
+        "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+        "stats": {
+          "count": 3880
+        },
+        "resources": []
+      },
+      {
+        "id": "924c6f74-5976-42fd-88ae-9a4159e520e0",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "e1bcabd6-45ed-4833-b5d5-5ece3627500b",
+        "index": 3,
+        "body": "$e(\\sin (1)-\\cos (1))$",
+        "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      },
+      {
+        "id": "abef079e-d406-4850-bfe8-ce1483c630a8",
+        "index": 4,
+        "body": "$e(\\sin (1)-2 \\cos (1))$",
+        "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+        "stats": {
+          "count": 268
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1359846920",
+    "timeSpentVideo": "122393110",
+    "submissions": 5760,
+    "submissionsCorrect": 3880,
+    "accuracy": 0.6736111111111112,
+    "difficulty": 0.5793515358361775
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "7f1e970f-2511-429d-8a49-287746291d7e",
+    "body": "",
+    "questionId": "86a2bbb1-bf75-40ed-aac1-a79f784347e0",
+    "resources": [
+      {
+        "id": "8f5c87bb-d01e-471d-91b7-8b3e4fded355",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=0FzmBswcuMdjR6D2&t=3468"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7f1e970f-2511-429d-8a49-287746291d7e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    }
+  ],
+  "children": []
+}

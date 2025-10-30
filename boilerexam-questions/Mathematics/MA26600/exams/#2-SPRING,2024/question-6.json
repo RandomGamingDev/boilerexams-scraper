@@ -1,0 +1,158 @@
+{
+  "id": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\n\\[\nx' =\n\\begin{bmatrix}\n-1 & -1 \\\\\n9 & -1\n\\end{bmatrix}\nx, \\quad x(0) =\n\\begin{bmatrix}\n1 \\\\\n9\n\\end{bmatrix}.\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a512e1d9-1337-46d3-8b8f-c3c72017d6e1",
+        "index": 0,
+        "body": "\\( x = e^{-t}\n    \\begin{bmatrix}\n    \\cos 3t - 3 \\sin 3t \\\\\n    9 \\cos 3t - 3 \\sin 3t\n    \\end{bmatrix} \\)",
+        "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "a84ff2b1-33ac-47c6-8ff0-f1f3c810ad7f",
+        "index": 1,
+        "body": "\\( x = e^{-t}\n    \\begin{bmatrix}\n    \\cos 3t - 3 \\sin 3t \\\\\n    9 \\cos 3t + 3 \\sin 3t\n    \\end{bmatrix} \\)",
+        "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+        "stats": {
+          "count": 458
+        },
+        "resources": []
+      },
+      {
+        "id": "ea20e402-9e5e-41f8-8a9b-29fad3887dd9",
+        "index": 2,
+        "body": "\\( x = e^{-t}\n    \\begin{bmatrix}\n    \\cos 3t + 3 \\sin 3t \\\\\n    9 \\cos 3t - 3 \\sin 3t\n    \\end{bmatrix} \\)",
+        "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "3d16850c-9e22-488e-8dde-ea7b3d1bef6e",
+        "index": 3,
+        "body": "\\( x = e^{-t}\n    \\begin{bmatrix}\n    \\cos 3t + 3 \\sin 3t \\\\\n    9 \\cos 3t + 3 \\sin 3t\n    \\end{bmatrix} \\)",
+        "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "c491d073-b29d-4f92-9b65-8d3d1e354260",
+        "index": 4,
+        "body": "\\( x = e^{-t}\n    \\begin{bmatrix}\n    \\cos 3t + 3 \\sin 3t \\\\\n    -9 \\cos 3t + 3 \\sin 3t\n    \\end{bmatrix} \\)",
+        "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "408567594",
+    "timeSpentVideo": "82002374",
+    "submissions": 1093,
+    "submissionsCorrect": 458,
+    "accuracy": 0.41903019213174747,
+    "difficulty": 0.8241827326068734
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "783095c2-e642-4df4-90d8-6fb48d35672f",
+    "body": null,
+    "questionId": "0b1a8c86-a53f-418a-89e9-88a64d22dc7a",
+    "resources": [
+      {
+        "id": "fa186190-7058-411d-b780-5af2991e3cdd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/r3C5y0jwPno?si=THBHJcrXjXlYXiZD&t=2272"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "783095c2-e642-4df4-90d8-6fb48d35672f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    },
+    {
+      "id": "550f2870-7363-4191-8beb-84c11bc75b46",
+      "name": "Complex Eigenvalues",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2194548881",
+        "timeSpentVideo": "247030463",
+        "submissions": 3180,
+        "submissionsCorrect": 1203,
+        "questions": 2,
+        "accuracy": 0.37830188679245286,
+        "difficulty": 0.8679878048780487
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the $x$-coordinate of the center of mass of a plate in the shape of the region bounded by $y=x, y=\\frac{1}{2} x$, and $x=1$ with a density of $\\delta(x, y)=2 x$. Recall the mass moments about the $x$ - and $y$ - axes are $M_x=\\iint_R y \\delta(x, y) d A$ and $M_y=\\iint_R x \\delta(x, y) d A$, respectively.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9da933a6-61a6-48f0-a4a6-93eec8b7ac12",
+        "index": 0,
+        "body": "$\\frac{4}{5}$",
+        "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "72f750d4-9fac-48fb-94f6-42e405d27a31",
+        "index": 1,
+        "body": "$\\frac{5}{6}$",
+        "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "d6361f7f-8734-4403-89ec-df0fded9f487",
+        "index": 2,
+        "body": "$\\frac{2}{3}$",
+        "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+        "stats": {
+          "count": 210
+        },
+        "resources": []
+      },
+      {
+        "id": "05441a55-cf66-4eba-8c05-2d30d0b0605b",
+        "index": 3,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+        "stats": {
+          "count": 2577
+        },
+        "resources": []
+      },
+      {
+        "id": "a3108e70-e0de-4861-a33b-22a0e3c14a32",
+        "index": 4,
+        "body": "$\\frac{6}{7}$",
+        "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "7804eec9-c572-42db-8b56-47f57ea063ab",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1134641653",
+    "timeSpentVideo": "209626112",
+    "submissions": 4077,
+    "submissionsCorrect": 2577,
+    "accuracy": 0.6320824135393672,
+    "difficulty": 0.621079722288724
+  },
+  "resources": [],
+  "exam": {
+    "id": "7804eec9-c572-42db-8b56-47f57ea063ab",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12901072505",
+      "timeSpentVideo": "2900173309",
+      "submissions": 60861,
+      "submissionsCorrect": 35254,
+      "questions": 12,
+      "accuracy": 0.5792543665072871,
+      "difficulty": 0.6708756418037762
+    }
+  },
+  "explanation": {
+    "id": "0591b750-ed4a-4fe1-8c6b-dc5a5938448c",
+    "body": "",
+    "questionId": "4ff058a8-dadd-4a48-b8f9-fc68f2074a7f",
+    "resources": [
+      {
+        "id": "fc0b4cae-12fb-4658-b1bd-27f55ce065a2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XsLkKhDEKKw?si=1_rS4L2fTgS1FMyg&t=2543"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0591b750-ed4a-4fe1-8c6b-dc5a5938448c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1812cd36-6cb4-4602-89ed-950130e4d050",
+      "name": "Integration for Mass",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15010430535",
+        "timeSpentVideo": "2292133203",
+        "submissions": 35360,
+        "submissionsCorrect": 17478,
+        "questions": 8,
+        "accuracy": 0.4942873303167421,
+        "difficulty": 0.7556965595036661
+      }
+    }
+  ],
+  "children": []
+}

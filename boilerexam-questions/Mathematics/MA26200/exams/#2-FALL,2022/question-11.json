@@ -1,0 +1,128 @@
+{
+  "id": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(x)$ satisfy the initial value problem\n\n\n\\[\n\\begin{gathered}\ny^{\\prime \\prime}-y=-x^{2}, \\\\\ny(0)=4 \\quad y^{\\prime}(0)=0 .\n\\end{gathered}\n\\]\n\nThen $y(1)(y(x)$ evaluated at $x=1)$ is equal to",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e681ed11-1865-4b48-a4d6-c049a977403b",
+        "index": 0,
+        "body": "$y(1)=e+\\frac{1}{e}+3$",
+        "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+        "stats": {
+          "count": 357
+        },
+        "resources": []
+      },
+      {
+        "id": "9c76ed2f-ef43-47f9-866c-8372fb5ff6d5",
+        "index": 1,
+        "body": "$y(1)=e+\\frac{2}{e}+1$",
+        "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "45d1b619-0f5d-4088-9f65-1ae833f29352",
+        "index": 2,
+        "body": "$y(1)=2 e+\\frac{1}{e}-3$",
+        "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "760688ab-4192-4a22-adaa-f1508e5f2fea",
+        "index": 3,
+        "body": "$y(1)=e+\\frac{3}{e}+2$",
+        "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "116500d7-c776-4f39-970c-eab08703532c",
+        "index": 4,
+        "body": "$y(1)=3e+\\frac{2}{e}-1$",
+        "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "226193728",
+    "timeSpentVideo": "0",
+    "submissions": 591,
+    "submissionsCorrect": 357,
+    "accuracy": 0.6040609137055838,
+    "difficulty": 0.6609985528219972
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "7a964f95-f84b-4276-b1d1-b1eee63301c9",
+    "body": "",
+    "questionId": "b1b196ca-634e-436c-b387-e563c5c6f7cc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "8b9340f6-8688-4b4d-a60c-e1570e6b2ab3",
+      "name": "Solving Matrices with Linear Algebra",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2317658323",
+        "timeSpentVideo": "41629066",
+        "submissions": 6089,
+        "submissionsCorrect": 3668,
+        "questions": 6,
+        "accuracy": 0.6023977664641156,
+        "difficulty": 0.6492567458393925
+      }
+    }
+  ],
+  "children": []
+}

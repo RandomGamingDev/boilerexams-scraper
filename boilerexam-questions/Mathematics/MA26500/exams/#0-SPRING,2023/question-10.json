@@ -1,0 +1,143 @@
+{
+  "id": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\n\\[\nA=\\left[\\begin{array}{llll}\n0 & 1 & 2 & 2 \\\\\n0 & 0 & 1 & 2 \\\\\n1 & 2 & 2 & 2 \\\\\n0 & 0 & 0 & 2\n\\end{array}\\right]\n\\]\n\nDenote $a=\\operatorname{det}(2 A)$ and $b=\\operatorname{det}\\left(A^{2}\\right)$ the determinants, then $a+b$ is equal to",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "0bb8fb36-d9de-4f9a-af98-1c0bfd92d640",
+        "index": 0,
+        "body": "$28$",
+        "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "89305832-aa80-480f-b153-88cb52e1d1f7",
+        "index": 1,
+        "body": "$30$",
+        "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "5953bb39-a486-425b-a982-afd8b053da9c",
+        "index": 2,
+        "body": "$32$",
+        "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+        "stats": {
+          "count": 191
+        },
+        "resources": []
+      },
+      {
+        "id": "6d37b803-9233-4707-b300-1c00c4917470",
+        "index": 3,
+        "body": "$34$",
+        "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      },
+      {
+        "id": "68c394fc-46aa-41f5-a009-a03d45a92091",
+        "index": 4,
+        "body": "$36$ ",
+        "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+        "stats": {
+          "count": 1919
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "692075484",
+    "timeSpentVideo": "104760649",
+    "submissions": 3162,
+    "submissionsCorrect": 1919,
+    "accuracy": 0.6068943706514864,
+    "difficulty": 0.6463825873697119
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "5031d83f-da76-4067-8d83-f7974d8b27ad",
+    "body": "",
+    "questionId": "16de7a29-a575-4b6b-afd8-c814ede43c55",
+    "resources": [
+      {
+        "id": "ac91c2a7-038e-4153-b2b4-9c36c482353a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=2672\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5031d83f-da76-4067-8d83-f7974d8b27ad",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

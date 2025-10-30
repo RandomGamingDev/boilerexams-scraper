@@ -1,0 +1,143 @@
+{
+  "id": "8835a930-ce0a-4874-8e4f-741a270784ae",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S=\\sum_{k=1}^{\\infty} \\frac{(-1)^{k}}{(2 k+1)^{2}}$ Use the Alternating Series Estimation Theorem to find the smallest integer $N$ such that we can be sure that $\\left|S_{N}-S\\right|<\\frac{1}{400}$, where $S_{N}$ is the $N$ th partial sum.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "45138447-0ad5-4b29-a461-9a6783837d0d",
+        "index": 0,
+        "body": "$N=12$",
+        "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "8c2c709e-8827-477e-8eb6-223c9ec72555",
+        "index": 1,
+        "body": "$N=8$",
+        "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+        "stats": {
+          "count": 409
+        },
+        "resources": []
+      },
+      {
+        "id": "10b09fca-5dc8-44d6-9519-79cc05499f59",
+        "index": 2,
+        "body": "$N=9$",
+        "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+        "stats": {
+          "count": 2722
+        },
+        "resources": []
+      },
+      {
+        "id": "611937cf-e7cc-4bac-94d9-d243ab151fa1",
+        "index": 3,
+        "body": "$N=11$",
+        "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+        "stats": {
+          "count": 96
+        },
+        "resources": []
+      },
+      {
+        "id": "33bdffd0-6988-46cd-90e8-22de9391b901",
+        "index": 4,
+        "body": "$N=10$ ",
+        "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+        "stats": {
+          "count": 481
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "630440247",
+    "timeSpentVideo": "225343187",
+    "submissions": 4436,
+    "submissionsCorrect": 2722,
+    "accuracy": 0.6136158701532912,
+    "difficulty": 0.6388888888888888
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "f5508a20-d8d0-41f6-b2e9-0eba937ba548",
+    "body": "",
+    "questionId": "8835a930-ce0a-4874-8e4f-741a270784ae",
+    "resources": [
+      {
+        "id": "c274189a-cde4-4e81-80c5-deddaf122e41",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=2015"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f5508a20-d8d0-41f6-b2e9-0eba937ba548",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a2308e3-4426-469d-b5ed-452bd4a2df9b",
+      "name": "Alternating Series Estimation",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4852295915",
+        "timeSpentVideo": "689161792",
+        "submissions": 16864,
+        "submissionsCorrect": 11105,
+        "questions": 6,
+        "accuracy": 0.6585033206831119,
+        "difficulty": 0.5924310304173543
+      }
+    }
+  ],
+  "children": []
+}

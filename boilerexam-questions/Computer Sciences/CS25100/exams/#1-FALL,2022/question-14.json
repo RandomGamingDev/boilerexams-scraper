@@ -1,0 +1,150 @@
+{
+  "id": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Write the postorder traversal of this tree.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "321f7d2f-3630-4f23-bfe6-6b7d00e22b3c",
+        "index": 0,
+        "body": "\\texttt{/ - * b ^ x 2 * a * x y + * b y c}",
+        "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "c4919061-d37e-432b-974d-0d7470649ae2",
+        "index": 1,
+        "body": "\\texttt{b * x ^ 2 - a * x y * / b * y + c}",
+        "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "dd9cbe41-155b-4590-bd61-8fffb0fa01bc",
+        "index": 2,
+        "body": "\\texttt{b x 2 ^ * a x y * * - b y * c + /}",
+        "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+        "stats": {
+          "count": 983
+        },
+        "resources": []
+      },
+      {
+        "id": "5dd7db20-f30b-4dc3-acb1-f6f5a36e32fd",
+        "index": 3,
+        "body": "\\texttt{/ - + * * * c b ^ a *  b y x 2 x y}",
+        "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "122434413",
+    "timeSpentVideo": "1677614",
+    "submissions": 1139,
+    "submissionsCorrect": 983,
+    "accuracy": 0.8630377524143986,
+    "difficulty": 0.41626311541565775
+  },
+  "resources": [
+    {
+      "id": "9e3e2d9e-46ac-437b-9328-f62006b47366",
+      "type": "IMAGE",
+      "data": {
+        "key": "K0sfAMHVl9XZ3m4goDQbO",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/K0sfAMHVl9XZ3m4goDQbO",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "f4d35297-28cd-4603-89aa-6728e8903526",
+    "body": "",
+    "questionId": "ac30cda6-ad06-44c4-a6f3-000dc9469862",
+    "resources": [
+      {
+        "id": "f6b6f8db-09d9-4681-a225-4d2099a8cb65",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=2168"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f4d35297-28cd-4603-89aa-6728e8903526",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "30df2e47-2402-4925-9ea2-a3d04ded2947",
+      "name": "Tree Traversals",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1220988514",
+        "timeSpentVideo": "7166090",
+        "submissions": 4539,
+        "submissionsCorrect": 3917,
+        "questions": 4,
+        "accuracy": 0.8629654108834545,
+        "difficulty": 0.3948588057771071
+      }
+    }
+  ],
+  "children": []
+}

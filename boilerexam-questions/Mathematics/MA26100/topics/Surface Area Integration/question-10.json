@@ -1,0 +1,143 @@
+{
+  "id": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The total surface area for a silo (base with radius $r$, cylindrical side with height $h$, hemispherical cap) is $A=3 \\pi r^{2}+2 \\pi r h$. Suppose $h$ and $r$ are measured to be $h=20$ feet and $r=8$ feet to within an error of $\\frac{1}{2}$ foot for $h$ and $\\frac{1}{4}$ foot for $r$. Use differentials to estimate the maximum possible error for $A$ (in square feet).",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b3bc53c7-f1b1-4fcd-bf06-6026bffc64fa",
+        "index": 0,
+        "body": "$52 \\pi$",
+        "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "6591a6e8-4b60-421b-8128-e6547c2bb892",
+        "index": 1,
+        "body": "$30 \\pi$",
+        "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+        "stats": {
+          "count": 520
+        },
+        "resources": []
+      },
+      {
+        "id": "f0761b14-20a1-48f7-84e6-e6b341804fd3",
+        "index": 2,
+        "body": "$8 \\pi$",
+        "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "bdec016b-7b91-409a-9761-f58d26d57407",
+        "index": 3,
+        "body": "$22 \\pi$",
+        "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "22e7270f-9e5b-488a-89a8-61240354619f",
+        "index": 4,
+        "body": "$4 \\pi$",
+        "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "286802299",
+    "timeSpentVideo": "62179275",
+    "submissions": 1287,
+    "submissionsCorrect": 520,
+    "accuracy": 0.40404040404040403,
+    "difficulty": 0.839041095890411
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "9d3f83d1-f9bf-44ed-94ed-3db0e36b3e1f",
+    "body": "",
+    "questionId": "028ca9c4-94c2-45d8-8fb7-2d52d3e5aee5",
+    "resources": [
+      {
+        "id": "a9c5275f-2e58-4555-ba56-76e521c1165c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=YQSkq1M9SXyWoW1l&t=1368\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9d3f83d1-f9bf-44ed-94ed-3db0e36b3e1f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "23d62d20-7d47-423e-9d59-d4ad3f2b0aa7",
+      "name": "Surface Area Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8833138800",
+        "timeSpentVideo": "1393283254",
+        "submissions": 23967,
+        "submissionsCorrect": 13781,
+        "questions": 8,
+        "accuracy": 0.5749989568990695,
+        "difficulty": 0.6753126687996012
+      }
+    }
+  ],
+  "children": []
+}

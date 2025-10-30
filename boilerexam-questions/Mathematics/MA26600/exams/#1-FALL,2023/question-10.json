@@ -1,0 +1,105 @@
+{
+  "id": "3798e110-b5d5-4c72-b1e4-6120ef48915e",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "A mass of $2 \\, \\text{kg}$ is attached to the end of a spring that is stretched $2 \\, \\text{m}$ by a force of $100 \\, \\text{N}$. At time $t = 0 \\, \\text{s}$, the mass is set in motion from its equilibrium position with initial velocity $v_0 = 20 \\, \\text{m/s}$.\n\n(a) Let $x(t)$ be the displacement (in meters) of the mass at time $t$ (in seconds). Write down an initial value problem for $x(t)$.\n(b) Solve the initial value problem from part (a). What are the amplitude and frequency of $x(t)$?",
+    "solution": "(a) $x'' + 25x = 0, \\quad x(0)=0, \\; x'(0)=20$\n(b) Amplitude = $4$, Frequency = $\\frac{2\\pi}{5}$",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "151435110",
+    "timeSpentVideo": "51446996",
+    "submissions": 502,
+    "submissionsCorrect": 133,
+    "accuracy": 0.2649402390438247,
+    "difficulty": 0.9460132890365449
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "951af8f0-9596-4ffd-accf-0b1118094527",
+    "body": null,
+    "questionId": "3798e110-b5d5-4c72-b1e4-6120ef48915e",
+    "resources": [
+      {
+        "id": "acc48ab4-596f-4034-ab36-bcba59944d8e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=MbUtPLiHDRTYGUNv&t=3410"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "951af8f0-9596-4ffd-accf-0b1118094527",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    },
+    {
+      "id": "285427a7-cd4f-44d6-a9a4-b7f09afdfb95",
+      "name": "Spring-mass system",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4447642016",
+        "timeSpentVideo": "429093904",
+        "submissions": 9099,
+        "submissionsCorrect": 4757,
+        "questions": 12,
+        "accuracy": 0.5228047038136059,
+        "difficulty": 0.7274432003478639
+      }
+    }
+  ],
+  "children": []
+}

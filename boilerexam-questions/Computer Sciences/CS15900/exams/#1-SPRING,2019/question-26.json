@@ -1,0 +1,118 @@
+{
+  "id": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the logical expression below:\n\n\t<font style=\"font-family:'Courier New'\">x != 0 || y != 0 && z != 0</font>\n Where <font style=\"font-family:'Courier New'\">x</font>, <font style=\"font-family:'Courier New'\">y</font>, and  <font style=\"font-family:'Courier New'\">z</font> are integer variables, which of the following logical expressions is a complement?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "43b47a09-123c-45b3-9dc9-752597ea0232",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">x && y || z</font>",
+        "questionId": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "f1e0ba46-1f03-4836-8845-1511f0fdee0f",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">!(x != 0 || y != 0) || z == 0</font>",
+        "questionId": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+        "stats": {
+          "count": 719
+        },
+        "resources": []
+      },
+      {
+        "id": "7450437d-435e-4b94-b373-856d63fb83d6",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">x == 0 && y == 0 || z == 0</font>",
+        "questionId": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+        "stats": {
+          "count": 809
+        },
+        "resources": []
+      },
+      {
+        "id": "db161726-7d13-4687-ab80-86d5b6601028",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+        "stats": {
+          "count": 1439
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 26,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "363474460",
+    "timeSpentVideo": "0",
+    "submissions": 3299,
+    "submissionsCorrect": 1439,
+    "accuracy": 0.43619278569263414,
+    "difficulty": 0.8119299794057075
+  },
+  "resources": [],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "fb76837f-a938-4c29-8bf4-34d3660a5142",
+    "body": "",
+    "questionId": "0b5118b7-5137-4098-b6f8-8ebf52bae479",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

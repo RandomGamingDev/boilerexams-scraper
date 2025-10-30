@@ -1,0 +1,143 @@
+{
+  "id": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $D$ be the solid region bounded by the planes:\n\\[\nx=0, \\quad z=0, \\quad y=x, \\quad \\text { and } \\quad x+y+z=2 .\n\\]\nWhich of following iterated integrals is equal to $\\iiint_{D} f(x, y, z) d V$ for all continuous functions $f$ defined on $D$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4ab5441c-f7a1-442b-9e35-240dfa159793",
+        "index": 0,
+        "body": "$\\int_{0}^{2} \\int_{0}^{2-x} \\int_{x}^{2-x-y} f(x, y, z) d z d y d x$",
+        "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+        "stats": {
+          "count": 1002
+        },
+        "resources": []
+      },
+      {
+        "id": "5f6c28ad-7377-4bb9-9a01-f7c92a5f4d18",
+        "index": 1,
+        "body": "$\\int_{0}^{1} \\int_{0}^{1-x} \\int_{0}^{2-x-y} f(x, y, z) d z d y d x$",
+        "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+        "stats": {
+          "count": 184
+        },
+        "resources": []
+      },
+      {
+        "id": "878bb8c7-837b-4c94-991b-31876e635568",
+        "index": 2,
+        "body": "$\\int_{0}^{1} \\int_{x}^{1-x} \\int_{0}^{2-x-y} f(x, y, z) d z d y d x$",
+        "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+        "stats": {
+          "count": 236
+        },
+        "resources": []
+      },
+      {
+        "id": "29274a50-c6b5-4c2f-b94f-92fea9896a15",
+        "index": 3,
+        "body": "$\\int_{0}^{1} \\int_{x}^{2-x} \\int_{0}^{2-x-y} f(x, y, z) d z d y d x$",
+        "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+        "stats": {
+          "count": 2537
+        },
+        "resources": []
+      },
+      {
+        "id": "26f5f312-0307-48bb-a0e6-cd69f2dacb8b",
+        "index": 4,
+        "body": "$\\int_{0}^{2} \\int_{0}^{1-x} \\int_{x}^{2-x-y} f(x, y, z) d z d y d x$",
+        "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "648061787",
+    "timeSpentVideo": "117897766",
+    "submissions": 4198,
+    "submissionsCorrect": 2539,
+    "accuracy": 0.6048118151500714,
+    "difficulty": 0.6476268031642625
+  },
+  "resources": [],
+  "exam": {
+    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9516874781",
+      "timeSpentVideo": "1230887307",
+      "submissions": 40641,
+      "submissionsCorrect": 25452,
+      "questions": 11,
+      "accuracy": 0.6262641175167933,
+      "difficulty": 0.6240458015267175
+    }
+  },
+  "explanation": {
+    "id": "f02a9c9d-b924-4dfd-aaeb-5434110367f6",
+    "body": "",
+    "questionId": "45b635dc-18b6-4c96-ba23-0c8425e9e799",
+    "resources": [
+      {
+        "id": "3cbc3572-8aaf-4b5f-8609-d5bb86ba4dba",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/olxqgUNis3E?si=Wvlgd-LEtbG0wbNx&t=566"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f02a9c9d-b924-4dfd-aaeb-5434110367f6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    }
+  ],
+  "children": []
+}

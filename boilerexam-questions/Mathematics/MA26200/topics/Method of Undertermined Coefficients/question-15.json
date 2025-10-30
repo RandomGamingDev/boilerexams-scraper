@@ -1,0 +1,128 @@
+{
+  "id": "c757940b-610b-428b-9436-40ea613d72fc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve this initial value problem $\\left\\{\\begin{array}{l}y^{\\prime \\prime}-4 y=8 x \\\\ y(0)=0, y^{\\prime}(0)=0\\end{array}\\right.$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "79e2c579-70c9-454c-a876-cd7c88faf381",
+        "index": 0,
+        "body": "$y=0$",
+        "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "a6fe1178-c6cb-45f3-9046-cab606c7be75",
+        "index": 1,
+        "body": "$y=e^{2 x}-e^{-2 x}+8 x$",
+        "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "3d6c4d55-a6a4-4acb-831c-be2547247360",
+        "index": 2,
+        "body": "$y=\\frac{1}{2} e^{2 x}-\\frac{1}{2} e^{-2 x}-2 x$",
+        "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "4bc3e263-2578-489b-8c46-b9d4cf636126",
+        "index": 3,
+        "body": "$y=2 e^{4 x}+6 x e^{4 x}-2 x$",
+        "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "a6f712cf-b941-4ee0-95d5-9072017d2d98",
+        "index": 4,
+        "body": "$y=e^{4 x}-4 x$",
+        "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104965282",
+    "timeSpentVideo": "0",
+    "submissions": 343,
+    "submissionsCorrect": 277,
+    "accuracy": 0.8075801749271136,
+    "difficulty": 0.5118510158013544
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "72855622-df65-41dd-b2b2-a859d1500547",
+    "body": "",
+    "questionId": "c757940b-610b-428b-9436-40ea613d72fc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "a2d7f9e3-6709-45a9-b68e-6a6a3d37fc69",
+      "name": "Method of Undertermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "929177082",
+        "timeSpentVideo": "59317379",
+        "submissions": 1612,
+        "submissionsCorrect": 946,
+        "questions": 3,
+        "accuracy": 0.586848635235732,
+        "difficulty": 0.6682242990654206
+      }
+    }
+  ],
+  "children": []
+}

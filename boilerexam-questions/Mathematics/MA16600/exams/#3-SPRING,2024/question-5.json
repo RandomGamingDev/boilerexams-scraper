@@ -1,0 +1,158 @@
+{
+  "id": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the series \n\n\\[\\sum_{k=1}^{\\infty} a_k = \\sum_{k=1}^\\infty \\left( \\frac{1}{k^3+2k+4} \\right)\\cos(k).\\]We conclude",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0af8017f-9e82-4669-9915-3816fc328d68",
+        "index": 0,
+        "body": "the series is absolutely convergent by Comparison Test with $\\sum_{k=1}^\\infty \\frac{1}{k^3}$.",
+        "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+        "stats": {
+          "count": 347
+        },
+        "resources": []
+      },
+      {
+        "id": "d8f3edf0-2f9e-4a8c-b2f7-48b844db2115",
+        "index": 1,
+        "body": "the series is divergent by Ratio Test since $\\lim_{k\\to \\infty} \\lvert \\frac{a_{k+1}}{a_k} \\rvert= 1$.",
+        "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "b37a118e-182c-459d-adf9-05d0e84ae5ea",
+        "index": 2,
+        "body": "the series is convergent since $\\lim_{k\\to \\infty} a_k = 0$. ",
+        "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "a3f28315-e9fd-4ac8-9cdb-4bf5b8d7241f",
+        "index": 3,
+        "body": "the series is convergent by Limit Comparison Test with $\\sum_{k=1}^\\infty \\frac{1}{k^3}$. ",
+        "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "dadfec14-b2dc-4395-82c2-a374fd07d9f4",
+        "index": 4,
+        "body": "the series is divergent by Divergence test since $\\lim_{k\\to \\infty} a_k$ does not exist.",
+        "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104301747",
+    "timeSpentVideo": "13495892",
+    "submissions": 542,
+    "submissionsCorrect": 347,
+    "accuracy": 0.6402214022140221,
+    "difficulty": 0.631619937694704
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "f0866831-e7f4-49e9-8172-696b79b1d679",
+    "body": null,
+    "questionId": "be71a0d6-a9dd-4a80-85b7-8a9257d32a04",
+    "resources": [
+      {
+        "id": "f2b93f52-184e-43c7-b791-af8b70af9fe2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=v85DfKz2Dd3fCxRJ&t=1951"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f0866831-e7f4-49e9-8172-696b79b1d679",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26e7a4c3-53ce-49ab-a5c5-020c29c0e55f",
+      "name": "Absolute or Conditionally Convergent",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "793567327",
+        "timeSpentVideo": "57218369",
+        "submissions": 1671,
+        "submissionsCorrect": 991,
+        "questions": 3,
+        "accuracy": 0.5930580490724118,
+        "difficulty": 0.6621964991530209
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

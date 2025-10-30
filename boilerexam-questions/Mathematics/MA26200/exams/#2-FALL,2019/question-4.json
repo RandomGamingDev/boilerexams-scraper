@@ -1,0 +1,143 @@
+{
+  "id": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the general solution to $(D+1)(D-1)^{2}(D^{2}+2 D+2) y=0$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a75c02e4-6cf9-4dac-ab89-f53e35950b13",
+        "index": 0,
+        "body": "$c_{1} e^{-x}+c_{2} e^{x}+e^{-x}\\left(c_{3} \\cos x+c_{4} \\sin x\\right)$",
+        "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "3951818b-c82a-492a-9e24-8d9bf2fec186",
+        "index": 1,
+        "body": "$c_{1} e^{-x}+c_{2} e^{x}+c_{3} x e^{x}+e^{-x}\\left(c_{4} \\cos x+c_{5} \\sin x\\right)$",
+        "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+        "stats": {
+          "count": 489
+        },
+        "resources": []
+      },
+      {
+        "id": "ed5c87b4-c1c0-4174-8a53-4cf48da8a53c",
+        "index": 2,
+        "body": "$c_{1} e^{-x}+c_{2} e^{x}+e^{x}\\left(c_{3} \\cos x+c_{4} \\sin x\\right)$",
+        "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "e9135b12-66cc-4dde-81ac-2088eedbfeaf",
+        "index": 3,
+        "body": "$c_{1} e^{-x}+c_{2} x e^{-x}+c_{3} e^{x}+e^{-x}\\left(c_{4} \\cos x+c_{5} \\sin x\\right)$",
+        "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "fb00a2c2-015e-4ca5-a0d4-8c33d6a4f8fb",
+        "index": 4,
+        "body": "$c_{1} e^{-x}+c_{2} e^{x}+c_{3} x e^{x}+e^{x}\\left(c_{4} \\cos x+c_{5} \\sin x\\right)$",
+        "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "a6138bb7-e797-4925-a066-435321ecded9",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "92328025",
+    "timeSpentVideo": "30116228",
+    "submissions": 672,
+    "submissionsCorrect": 489,
+    "accuracy": 0.7276785714285714,
+    "difficulty": 0.5518134715025906
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6138bb7-e797-4925-a066-435321ecded9",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1799271748",
+      "timeSpentVideo": "865271064",
+      "submissions": 9207,
+      "submissionsCorrect": 5153,
+      "questions": 11,
+      "accuracy": 0.5596828500054306,
+      "difficulty": 0.6909584183947566
+    }
+  },
+  "explanation": {
+    "id": "5e50883f-1681-4f0d-bd42-1abd3bd6b58b",
+    "body": "",
+    "questionId": "a9ed12cd-efd8-4bb0-91d0-28f873db40f5",
+    "resources": [
+      {
+        "id": "c8c6eba3-a568-4de4-a5ce-a1e088b12fa6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YtQYJniThEM?si=UqJ3WJG4DKQOgNeK&t=702\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e50883f-1681-4f0d-bd42-1abd3bd6b58b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

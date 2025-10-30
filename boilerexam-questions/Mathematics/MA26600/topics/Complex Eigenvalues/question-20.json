@@ -1,0 +1,143 @@
+{
+  "id": "08322c26-2ac8-4cba-993a-667e758ea816",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution to\n\n\n\\[\n\\mathrm{x}^{\\prime}=\\left(\\begin{array}{cc}\n-1 & -2 \\\\\n5 & -3\n\\end{array}\\right) \\mathrm{x}\n\\]\n\ncan be written as\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b3052b49-3cd2-4471-9498-12e4179a6e11",
+        "index": 0,
+        "body": "$c_{1} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{c}0 \\\\ -3\\end{array}\\right)\\right]+c_{2} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{c}0 \\\\ -3\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)\\right]$",
+        "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+        "stats": {
+          "count": 176
+        },
+        "resources": []
+      },
+      {
+        "id": "1bb43f41-0b7b-45ab-90fa-08a5b34971c4",
+        "index": 1,
+        "body": "$c_{1} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{c}0 \\\\ -3\\end{array}\\right)\\right]+c_{2} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{c}0 \\\\ -3\\end{array}\\right)-\\sin 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)\\right]$",
+        "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "4e520c6e-c8de-42ea-b4cb-3b390c64ec65",
+        "index": 2,
+        "body": "$c_{1} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{l}0 \\\\ 3\\end{array}\\right)\\right]+c_{2} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}0 \\\\ 3\\end{array}\\right)-\\sin 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)\\right]$",
+        "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+        "stats": {
+          "count": 745
+        },
+        "resources": []
+      },
+      {
+        "id": "e7fa139d-8877-4aa3-8640-5fcbd86b0a2b",
+        "index": 3,
+        "body": "$c_{1} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{l}0 \\\\ 3\\end{array}\\right)\\right]+c_{2} e^{-2 t}\\left[\\cos 3 t\\left(\\begin{array}{l}0 \\\\ 3\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)\\right]$",
+        "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      },
+      {
+        "id": "85bfee12-83fc-43c5-8f11-ef6e6f59f62c",
+        "index": 4,
+        "body": "$c_{1} e^{-t}\\left[\\cos 3 t\\left(\\begin{array}{c}2 \\\\ 1\\end{array}\\right)+\\sin 3 t\\left(\\begin{array}{c}0 \\\\ -3\\end{array}\\right)\\right]+c_{2} e^{-3 t}\\left[\\cos 3 t\\left(\\begin{array}{c}0 \\\\ 3\\end{array}\\right)-\\sin 3 t\\left(\\begin{array}{l}2 \\\\ 1\\end{array}\\right)\\right]$",
+        "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "762540841",
+    "timeSpentVideo": "161082318",
+    "submissions": 2087,
+    "submissionsCorrect": 745,
+    "accuracy": 0.3569717297556301,
+    "difficulty": 0.8864883401920439
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "3e8d7af9-8f63-48c0-a1eb-39683c0afc48",
+    "body": "",
+    "questionId": "08322c26-2ac8-4cba-993a-667e758ea816",
+    "resources": [
+      {
+        "id": "106d6b84-f4a9-462e-af87-358fcd3db1e5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=0ysfrqYo6BtJYPll&t=2870"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3e8d7af9-8f63-48c0-a1eb-39683c0afc48",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "550f2870-7363-4191-8beb-84c11bc75b46",
+      "name": "Complex Eigenvalues",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2194548881",
+        "timeSpentVideo": "247030463",
+        "submissions": 3180,
+        "submissionsCorrect": 1203,
+        "questions": 2,
+        "accuracy": 0.37830188679245286,
+        "difficulty": 0.8679878048780487
+      }
+    }
+  ],
+  "children": []
+}

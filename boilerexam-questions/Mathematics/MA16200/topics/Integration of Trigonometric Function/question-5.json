@@ -1,0 +1,158 @@
+{
+  "id": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\n\\[\n\\int_{0}^{\\frac{\\pi}{4}} \\sqrt{\\sec ^{2} \\theta-1} d \\theta\n\\]\n\nYou may find the fact that $\\int \\tan x d x=-\\ln \\cos x+C$ useful in your calculation.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "10327627-4431-47c0-8701-72fceb09ed99",
+        "index": 0,
+        "body": "$-\\ln 2$",
+        "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "5181e124-285e-4915-beee-9dc595444b85",
+        "index": 1,
+        "body": "$-\\ln \\sqrt{2}$",
+        "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+        "stats": {
+          "count": 902
+        },
+        "resources": []
+      },
+      {
+        "id": "7a5406cb-193c-41a9-805c-8676f8f2fb48",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "208baff3-d17d-4b77-a8ab-136e73fea0ec",
+        "index": 3,
+        "body": "$\\ln \\sqrt{2}$",
+        "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+        "stats": {
+          "count": 2073
+        },
+        "resources": []
+      },
+      {
+        "id": "cfebaa44-31e5-4e08-801b-f2a30636d42b",
+        "index": 4,
+        "body": "$\\ln 2$",
+        "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "515813849",
+    "timeSpentVideo": "119020862",
+    "submissions": 3678,
+    "submissionsCorrect": 2073,
+    "accuracy": 0.5636215334420881,
+    "difficulty": 0.688062466913711
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "1a1d7bd0-c903-40e9-ad38-880bcae988ca",
+    "body": "",
+    "questionId": "84308fbc-0c39-46dc-ae53-c459fb7b7c99",
+    "resources": [
+      {
+        "id": "6ce949ce-6ae8-4b0f-ae1b-cff1efd6da40",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=669\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1a1d7bd0-c903-40e9-ad38-880bcae988ca",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "518d7710-468f-4482-a18e-00c07665b3b0",
+      "name": "Integration of Trigonometric Function",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14052004562",
+        "timeSpentVideo": "815295856",
+        "submissions": 32440,
+        "submissionsCorrect": 20084,
+        "questions": 11,
+        "accuracy": 0.6191122071516646,
+        "difficulty": 0.6312538414259373
+      }
+    }
+  ],
+  "children": []
+}

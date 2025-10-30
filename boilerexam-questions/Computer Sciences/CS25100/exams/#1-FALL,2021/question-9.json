@@ -1,0 +1,113 @@
+{
+  "id": "4f041e07-ef31-44b1-944a-8b2dad3ca3de",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(n) \\in O(g(n)), g(n) \\in O(h(n))$, and $g(n) \\in \\Omega(i(n))$, then it is possible that $f(n) \\in \\Omega(i(n))$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f91548f4-e9b5-4d53-9681-9b3a4999337a",
+        "index": 0,
+        "body": "True",
+        "questionId": "4f041e07-ef31-44b1-944a-8b2dad3ca3de",
+        "stats": {
+          "count": 1197
+        },
+        "resources": []
+      },
+      {
+        "id": "45482bd0-090c-4b22-8fed-e8df0190cfa3",
+        "index": 1,
+        "body": "False",
+        "questionId": "4f041e07-ef31-44b1-944a-8b2dad3ca3de",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "141831659",
+    "timeSpentVideo": "0",
+    "submissions": 1367,
+    "submissionsCorrect": 1197,
+    "accuracy": 0.8756400877834675,
+    "difficulty": 0.3999659168370825
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "378e7933-2eda-425f-adcb-a4fd9f05dcb7",
+    "body": null,
+    "questionId": "4f041e07-ef31-44b1-944a-8b2dad3ca3de",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

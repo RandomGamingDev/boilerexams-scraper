@@ -1,0 +1,173 @@
+{
+  "id": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the basis $S$ for $\\mathbb{R}^{3}$ given by\n\n\n\\[\nS=\\left\\{\\left[\\begin{array}{l}\n2 \\\\\n1 \\\\\n0\n\\end{array}\\right],\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n2\n\\end{array}\\right],\\left[\\begin{array}{l}\n2 \\\\\n0 \\\\\n1\n\\end{array}\\right]\\right\\} .\n\\]\n\nApplying the Gram-Schmidt process to $S$ produces which orthonormal basis for $\\mathbb{R}^{3}$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "5dd8c35e-292b-4dfe-a1a8-6713227961c2",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right], \\frac{1}{5}\\left[\\begin{array}{r}-2 \\\\ 4 \\\\ 10\\end{array}\\right], \\frac{1}{2}\\left[\\begin{array}{r}1 \\\\ -2 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "5fd524bd-8391-4fdf-8379-663bd78397dc",
+        "index": 1,
+        "body": "$\\left\\{\\frac{1}{\\sqrt{5}}\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right], \\frac{1}{\\sqrt{5}}\\left[\\begin{array}{r}-1 \\\\ 2 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "78ed6844-a12a-4aff-9af5-ed2f4ef7f299",
+        "index": 2,
+        "body": "$\\left\\{\\frac{1}{\\sqrt{5}}\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right], \\frac{1}{\\sqrt{30}}\\left[\\begin{array}{r}-1 \\\\ 2 \\\\ 5\\end{array}\\right], \\frac{1}{\\sqrt{6}}\\left[\\begin{array}{r}1 \\\\ -2 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+        "stats": {
+          "count": 981
+        },
+        "resources": []
+      },
+      {
+        "id": "5174b1b9-d875-434c-81dc-6e381a5c8e79",
+        "index": 3,
+        "body": "$\\left\\{\\frac{1}{\\sqrt{5}}\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 0\\end{array}\\right], \\frac{1}{\\sqrt{5}}\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 2\\end{array}\\right], \\frac{1}{\\sqrt{5}}\\left[\\begin{array}{l}2 \\\\ 0 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "fed2942c-bc0d-4e68-9f31-b1348665acf8",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 0\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 1\\end{array}\\right]\\right\\}$",
+        "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "407467876",
+    "timeSpentVideo": "31098737",
+    "submissions": 1505,
+    "submissionsCorrect": 981,
+    "accuracy": 0.651827242524917,
+    "difficulty": 0.6076323987538941
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "8f2856fe-6bfb-4496-815a-a700d89dec14",
+    "body": "",
+    "questionId": "915677c9-8118-41ea-9bdf-3b7d775127aa",
+    "resources": [
+      {
+        "id": "6e88414e-f53f-43b1-8f61-d892655b6113",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4848"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8f2856fe-6bfb-4496-815a-a700d89dec14",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "bccec053-b32d-4e1a-b3b5-3a71a7dacc4d",
+      "name": "Gram-Schmidt Process",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7187618615",
+        "timeSpentVideo": "632639584",
+        "submissions": 15198,
+        "submissionsCorrect": 8467,
+        "questions": 8,
+        "accuracy": 0.5571127779971049,
+        "difficulty": 0.6932605569355471
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    }
+  ],
+  "children": []
+}

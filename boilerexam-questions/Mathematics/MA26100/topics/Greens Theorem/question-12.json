@@ -1,0 +1,143 @@
+{
+  "id": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\\[\n\\oint_{C} x^{2} y \\, d x+\\left(y+y^{2}\\right) d y,\n\\]\nwhere $C$ is the boundary of the region enclosed by $y=x^{2}$ and $x=y^{2}$ oriented counterclockwise.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "69b57171-230e-4f3c-af18-b2c45e2c555f",
+        "index": 0,
+        "body": "$-\\frac{2}{35}$",
+        "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+        "stats": {
+          "count": 179
+        },
+        "resources": []
+      },
+      {
+        "id": "598fe8ea-6f2e-40e2-bb8a-0011341d8bc5",
+        "index": 1,
+        "body": "$-\\frac{3}{35}$",
+        "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+        "stats": {
+          "count": 2758
+        },
+        "resources": []
+      },
+      {
+        "id": "8b487e07-a5bb-49db-b88a-d762fb84f055",
+        "index": 2,
+        "body": "$-\\frac{4}{35}$",
+        "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+        "stats": {
+          "count": 170
+        },
+        "resources": []
+      },
+      {
+        "id": "89e2ae91-4347-4101-8dc0-c5b6fdd535ef",
+        "index": 3,
+        "body": "$-\\frac{6}{35}$",
+        "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+        "stats": {
+          "count": 184
+        },
+        "resources": []
+      },
+      {
+        "id": "3e445711-6d24-4c44-a706-c8704375dc1c",
+        "index": 4,
+        "body": "$-\\frac{8}{35}$",
+        "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+        "stats": {
+          "count": 96
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1528602607",
+    "timeSpentVideo": "246588261",
+    "submissions": 5235,
+    "submissionsCorrect": 2758,
+    "accuracy": 0.5268385864374403,
+    "difficulty": 0.7236644798500469
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "eb83340a-7644-48ab-a475-cbaa6d7c31ac",
+    "body": "",
+    "questionId": "2f024642-7a86-4d5a-8518-1b38fd7bea53",
+    "resources": [
+      {
+        "id": "300ee388-1e86-4ce5-af50-6dcee51542b5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=1694"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eb83340a-7644-48ab-a475-cbaa6d7c31ac",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6b00f507-0e71-49ad-b1c7-8bab72eafe3e",
+      "name": "Greens Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18846148338",
+        "timeSpentVideo": "1774541677",
+        "submissions": 39505,
+        "submissionsCorrect": 21958,
+        "questions": 7,
+        "accuracy": 0.5558283761549171,
+        "difficulty": 0.6943125867945966
+      }
+    }
+  ],
+  "children": []
+}

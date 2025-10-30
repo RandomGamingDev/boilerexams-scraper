@@ -1,0 +1,122 @@
+{
+  "id": "2c58639e-7772-4f0c-8959-73f30425ee0d",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A group of dietitians conducted a study to investigate the impact of consuming pasta with\nand without a source of protein on the post-meal rise in blood sugar levels. They collected an SRS of 50 participants and randomly assigned each to either group 1 or group 2, until one group reached the size of 25. The remaining participants were assigned to the other group.\nDuring the experiment, all the participants were on an identical, strictly controlled diet for one week. At the end of the week, Group 1 was given a meal consisting of pasta with an additional source of protein, and group 2 was given the same pasta dish without any additional source of protein. Blood sugar levels were measured for each participant both before and after the meal, and the differences (\u201cafter\u201d minus \u201cbefore\u201d measured in milligrams per deciliter, mg/dL) were recorded. The summary statistics are shown in the table below. \n\n(A) Considering the study's objectives and the method of data collection, which statistical methodology, between two-sample independent and two-sample paired, would be more suitable for analysis? Provide your reasoning.\n",
+    "solution": "Two-sample independent is appropriate as there is nothing to match one person from Group 1\nto another person in Group 2. Though each group shares the same pasta dish this is not a\nfactor to match units on as it is the same for all with the only difference being the protein/lack of\nprotein. Additionally, the sample units for Group 1 are selected independently of those from\nGroup 2.",
+    "answerChoices": []
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "12151345",
+    "timeSpentVideo": "7504416",
+    "submissions": 85,
+    "submissionsCorrect": 3,
+    "accuracy": 0.03529411764705882,
+    "difficulty": 0.9635135135135136
+  },
+  "resources": [
+    {
+      "id": "5bf369f6-0ae8-4bb1-b724-2af016bc4a58",
+      "type": "IMAGE",
+      "data": {
+        "key": "yuUDs9LC2-4OA23M1DIEo",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/yuUDs9LC2-4OA23M1DIEo",
+        "altText": "Chart"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2c58639e-7772-4f0c-8959-73f30425ee0d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "673f38a1-f8db-47e7-88e3-c94f0a6fbc64",
+    "body": "",
+    "questionId": "2c58639e-7772-4f0c-8959-73f30425ee0d",
+    "resources": [
+      {
+        "id": "3af8174c-284a-4164-865c-7fae8588514e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=1810"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "673f38a1-f8db-47e7-88e3-c94f0a6fbc64",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6156c8d5-08cc-438f-b2cf-2399869445c0",
+      "name": "p-value",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "313349612",
+        "timeSpentVideo": "66966288",
+        "submissions": 655,
+        "submissionsCorrect": 221,
+        "questions": 5,
+        "accuracy": 0.3374045801526718,
+        "difficulty": 0.8910596026490066
+      }
+    },
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

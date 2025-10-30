@@ -1,0 +1,143 @@
+{
+  "id": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\int_{C}\\mathbf{F}\\cdot d\\mathbf{r}$ where $C$ is the line segment from $P(1,0)$ to $Q(0,2)$ and $\\mathbf{F}(x, y)=$ $\\left\\langle y e^{x y}, x e^{x y}+\\cos y\\right\\rangle$ is a conservative vector field.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5897089f-cabe-49bf-a4f7-1759670dbc26",
+        "index": 0,
+        "body": "$1+\\sin 2$",
+        "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "d9598d7f-350e-4986-9736-47feb8127220",
+        "index": 1,
+        "body": "$\\sin 2$",
+        "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+        "stats": {
+          "count": 1308
+        },
+        "resources": []
+      },
+      {
+        "id": "abc963d2-0f80-4555-bd0c-1e45c2ee952b",
+        "index": 2,
+        "body": "$1-\\sin 2$",
+        "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "699c7e38-9bc5-46f2-871f-11fcd22453ad",
+        "index": 3,
+        "body": "$-1+\\sin 2$",
+        "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "bddf0eaf-c68b-4434-85c9-8cb705c1f59a",
+        "index": 4,
+        "body": "$-1-\\sin 2$",
+        "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "478490214",
+    "timeSpentVideo": "73002479",
+    "submissions": 2146,
+    "submissionsCorrect": 1308,
+    "accuracy": 0.6095060577819198,
+    "difficulty": 0.6453695458593054
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "b8f265e6-6430-40a1-abfc-d6e80e414fab",
+    "body": "",
+    "questionId": "6f28557a-aea3-4315-a630-c47cb1df2ab4",
+    "resources": [
+      {
+        "id": "a6aa6410-d29d-4c1d-a717-36df2474e61a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=a_C8TgkVQw5Ii7tN&t=559\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b8f265e6-6430-40a1-abfc-d6e80e414fab",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x) = \\frac{3e^x-1}{3e^x+1}$. Find $f'(0)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cf8c9b90-f6bd-4262-80f1-6ffed4e95e3c",
+        "index": 0,
+        "body": "$\\frac{3}{8}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "57ae4604-ba60-48ce-a92d-613358ada362",
+        "index": 1,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "753641e2-d4d1-4325-83c3-f6ad8e9814b5",
+        "index": 2,
+        "body": "$\\frac{-3}{4}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "9a603816-aaad-473c-ac8e-df4aa03151f9",
+        "index": 3,
+        "body": "$\\frac{1}{8}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "9ce70d99-0374-4367-8541-0e710b5b696e",
+        "index": 4,
+        "body": "$-\\frac{3}{2}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "c779a5ea-cc25-488a-8233-393f3717a83d",
+        "index": 5,
+        "body": "$\\frac{1}{4}$",
+        "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "57804877",
+    "timeSpentVideo": "2185276",
+    "submissions": 244,
+    "submissionsCorrect": 158,
+    "accuracy": 0.6475409836065574,
+    "difficulty": 0.6453488372093024
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "8d5bf7d4-c192-44ea-ade8-2d223a211790",
+    "body": null,
+    "questionId": "ea646624-1db1-4606-94d4-b0c8c986d8c4",
+    "resources": [
+      {
+        "id": "95d16153-fed8-416c-a8c7-48c1f9d65448",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=orLxCCDUwTZBB31e&t=2455"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8d5bf7d4-c192-44ea-ade8-2d223a211790",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "578309b7-0620-41f3-93fc-a40ad9556c92",
+      "name": "Quotient Rule",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "309397595",
+        "timeSpentVideo": "7771825",
+        "submissions": 515,
+        "submissionsCorrect": 318,
+        "questions": 2,
+        "accuracy": 0.6174757281553398,
+        "difficulty": 0.6516260162601626
+      }
+    },
+    {
+      "id": "cae2ab69-f512-4331-bace-ce5036bbdc52",
+      "name": "Derivatives E1",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1110546051",
+        "timeSpentVideo": "26984983",
+        "submissions": 1834,
+        "submissionsCorrect": 1230,
+        "questions": 7,
+        "accuracy": 0.6706652126499455,
+        "difficulty": 0.5881592554291624
+      }
+    }
+  ],
+  "children": []
+}

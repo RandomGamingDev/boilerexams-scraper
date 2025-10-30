@@ -1,0 +1,153 @@
+{
+  "id": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The MacLaurin series for $\\tan x$ is as follows:\n\n\n\\[\n\\tan x=x+\\frac{x^{3}}{3}+\\frac{2 x^{5}}{15}+\\frac{17 x^{7}}{315}+\\ldots, \\text { for }|x|<\\frac{\\pi}{2}\n\\]\n\nWhich of the following is the MacLaurin series for $\\sec ^{2}\\left(x^{3}\\right)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ed83d005-7cc6-4bda-807b-8e8ada3876d5",
+        "index": 0,
+        "body": "$1+x^{5}+\\frac{2 x^{7}}{3}+\\frac{17 x^{9}}{45}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 215
+        },
+        "resources": []
+      },
+      {
+        "id": "6ca57b65-2355-4129-8169-8dcd3e196fdb",
+        "index": 1,
+        "body": "$1+x^{6}+\\frac{2 x^{12}}{3}+\\frac{17 x^{18}}{45}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 1587
+        },
+        "resources": []
+      },
+      {
+        "id": "29db28f2-f00c-47de-96e9-8a4d2fb570b1",
+        "index": 2,
+        "body": "$3 x^{2}+3 x^{8}+2 x^{14}+\\frac{17 x^{20}}{15}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 295
+        },
+        "resources": []
+      },
+      {
+        "id": "0aa1a8ed-bf34-4450-9d55-4d29937d3280",
+        "index": 3,
+        "body": "$1+\\frac{x^{6}}{2}+\\frac{x^{12}}{12}+\\frac{x^{18}}{45}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "b7ac6ffe-b181-495e-903f-d18f5918c32b",
+        "index": 4,
+        "body": "$x^{3}+x^{5}+\\frac{2 x^{7}}{3}+\\frac{119 x^{9}}{315}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "594925be-ad98-481d-9a85-381cce1db69f",
+        "index": 5,
+        "body": "$\\frac{x^{4}}{6}+\\frac{x^{10}}{36}+\\frac{x^{16}}{135}+\\frac{17 x^{22}}{7560}+\\ldots$",
+        "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "449440339",
+    "timeSpentVideo": "60603007",
+    "submissions": 2732,
+    "submissionsCorrect": 1587,
+    "accuracy": 0.5808931185944363,
+    "difficulty": 0.6719632768361582
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444364132",
+      "timeSpentVideo": "2335838174",
+      "submissions": 74342,
+      "submissionsCorrect": 39141,
+      "questions": 25,
+      "accuracy": 0.5264991525651718,
+      "difficulty": 0.7235364444802665
+    }
+  },
+  "explanation": {
+    "id": "67470f0b-6459-4049-9e4b-7e282b1595b6",
+    "body": "",
+    "questionId": "d2dcea65-c631-4727-b403-3c791a5f5cec",
+    "resources": [
+      {
+        "id": "689ca938-f811-4d1a-b2cf-da420efd4be7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3cm65JbMGM8?t=2321"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "67470f0b-6459-4049-9e4b-7e282b1595b6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "af1917e5-c711-4300-80e6-b84026e04e20",
+      "name": "Maclaurin series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5239364953",
+        "timeSpentVideo": "442589834",
+        "submissions": 10988,
+        "submissionsCorrect": 6068,
+        "questions": 7,
+        "accuracy": 0.5522388059701493,
+        "difficulty": 0.6982323232323232
+      }
+    }
+  ],
+  "children": []
+}

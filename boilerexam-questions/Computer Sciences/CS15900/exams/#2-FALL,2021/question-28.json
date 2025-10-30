@@ -1,0 +1,149 @@
+{
+  "id": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which pair of logical expressions in the program above are complements of one another?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5a771c33-dcd2-49da-a18a-d1b237a57162",
+        "index": 0,
+        "body": "a++ && ++b || c-- <font style=\"font-family:'Times New Roman'\">(line #10) and </font> a++ || ++b && c-- <font style=\"font-family:'Times New Roman'\">(line #11)</font>",
+        "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      },
+      {
+        "id": "ef325e8d-ab50-49e3-aaa1-8885b21c2363",
+        "index": 1,
+        "body": "a++ && ++b || c-- <font style=\"font-family:'Times New Roman'\">(line #10) and </font> !(a++ && ++b || c--) <font style=\"font-family:'Times New Roman'\">(line #12)</font>",
+        "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+        "stats": {
+          "count": 1382
+        },
+        "resources": []
+      },
+      {
+        "id": "875e7584-54d7-403d-90cc-5706ba231f52",
+        "index": 2,
+        "body": "a++ || ++b && c-- <font style=\"font-family:'Times New Roman'\">(line #11) and </font> !(a++ && ++b || c--) <font style=\"font-family:'Times New Roman'\">(line #12)</font>",
+        "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+        "stats": {
+          "count": 243
+        },
+        "resources": []
+      },
+      {
+        "id": "da359fe7-e945-4fa8-8436-1d2a45adfc29",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 28,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "147504889",
+    "timeSpentVideo": "13841971",
+    "submissions": 1996,
+    "submissionsCorrect": 1382,
+    "accuracy": 0.6923847695390781,
+    "difficulty": 0.566793893129771
+  },
+  "resources": [
+    {
+      "id": "b5344a6b-ee55-443b-b093-eed695e631ff",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void)\n{\n  int a = 0;\n  int b = 0;\n  int c = 0;\n  int x = 0;\n\n  x += a++ && ++b || c--;\n  x += a++ || ++b && c--;\n  x += !(a++ && ++b || c--);\n\n  printf(\"a: %d, b: %d, c: %d\\n\", a, b, c); // Question #27\n  // NOTE: this throws a warning.\n  // The answers are still valid, however.\n  return 0;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "7978402a-e242-4806-bbfc-1ad8b111eaa4",
+    "body": "",
+    "questionId": "d1e10a9f-c1f5-44a6-b18d-494bdba0ebe8",
+    "resources": [
+      {
+        "id": "691a3d76-2394-42b1-97e7-0be00a3166ff",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3843"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7978402a-e242-4806-bbfc-1ad8b111eaa4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

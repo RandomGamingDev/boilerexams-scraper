@@ -1,0 +1,118 @@
+{
+  "id": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following would be the FINAL values of the <font style=\"font-family:'Courier New'\">first</font> and <font style=\"font-family:'Courier New'\">last</font> variables when using the binary search with the array below given a target values of 22?<br><font style=\"font-family:'Courier New'\">18 21 24 26 28 35 38 40 43 47 49 55</font><br>",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1c42ecc1-85c0-46a8-b01a-933581a4cfe9",
+        "index": 0,
+        "body": "first = 1 last = 1",
+        "questionId": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+        "stats": {
+          "count": 207
+        },
+        "resources": []
+      },
+      {
+        "id": "37dc91ef-7dce-44c8-bb89-7cc9d8550e37",
+        "index": 1,
+        "body": "first = 2 last = 1",
+        "questionId": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+        "stats": {
+          "count": 3183
+        },
+        "resources": []
+      },
+      {
+        "id": "a58ed303-e3a6-43d9-8304-e9e9db2128b5",
+        "index": 2,
+        "body": "first = 1 last = 0",
+        "questionId": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+        "stats": {
+          "count": 359
+        },
+        "resources": []
+      },
+      {
+        "id": "0587a2a2-565d-476f-81fd-8aaa5beda4a9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "371009264",
+    "timeSpentVideo": "0",
+    "submissions": 3866,
+    "submissionsCorrect": 3183,
+    "accuracy": 0.8233316088980859,
+    "difficulty": 0.43482097831568334
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "e7ff80c5-7e36-4ffb-8eb4-20f3875ca642",
+    "body": "",
+    "questionId": "6791b43e-e603-4425-a0fd-a77a9332dd83",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

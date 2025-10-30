@@ -1,0 +1,143 @@
+{
+  "id": "898f83f1-c460-4263-8623-365ab7599269",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a particular solution $y_{p}=y_{p}(t)$ of the second order differential equation\n\n\\[\ny^{\\prime \\prime}-2 y^{\\prime}+5 y=20 \\sin t\n\\]\n\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "73d76ac6-ae3c-4d12-afa7-744fa0aff371",
+        "index": 0,
+        "body": "$y_{p}(t)=2 \\sin t-\\cos t$",
+        "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "bec9adf6-ce6c-44dc-a4c2-ac60c4a41565",
+        "index": 1,
+        "body": "$y_{p}(t)=2 \\cos t+4 \\sin t$",
+        "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+        "stats": {
+          "count": 1396
+        },
+        "resources": []
+      },
+      {
+        "id": "85f6180a-5c8d-49b6-9ee0-c0bd6ccfa2af",
+        "index": 2,
+        "body": "$y_{p}(t)=2 \\sin t+3 \\cos t$",
+        "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "84d9cc5c-8b43-4064-877c-dadb8ba0cd85",
+        "index": 3,
+        "body": "$y_{p}(t)=40 \\sin t$",
+        "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "18622666-0bb6-4f30-b21b-81c407355cd9",
+        "index": 4,
+        "body": "$y_{p}(t)=40 \\cos t$",
+        "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "559572829",
+    "timeSpentVideo": "73513746",
+    "submissions": 2066,
+    "submissionsCorrect": 1396,
+    "accuracy": 0.675701839303001,
+    "difficulty": 0.582409972299169
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "5068a429-17c5-419e-82a3-e18fdc7f30cd",
+    "body": "VIDEO CORRECTION:\n\nI made a mistake with the derivatives in this explanation, it should be $-A \\cos t$ in the second derivative. I (again accidentally) correct this when solving the system of equations by writing the second line as $[4 \\: 2]$ instead of $[6 \\: 2]$, getting the correct answer.",
+    "questionId": "898f83f1-c460-4263-8623-365ab7599269",
+    "resources": [
+      {
+        "id": "21f1c64c-a019-4ce8-a18e-38680e7268b7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=xxFySYR9xkfGhpoO&t=1032"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5068a429-17c5-419e-82a3-e18fdc7f30cd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose that $A$ and $B$ are $3 \\times 3$ matrices with $\\operatorname{det}(A)=3$, $\\operatorname{det}(B)=1$. Which of the following statement(s) is/are always TRUE?\n\n\n\n(I) The matrix product $A B$ is invertible.\n\n(II) $\\operatorname{det}(2 A)=6$.\n\n(III) $\\operatorname{det}\\left(A^{-1} B\\right)=\\frac{1}{3}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4d3f9955-928d-4941-8f5a-4a3b338535fc",
+        "index": 0,
+        "body": "(I) only",
+        "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "e6242149-ea79-4863-8cfd-d92e8764c38c",
+        "index": 1,
+        "body": "(II) only",
+        "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "f0b0b0f5-9a3b-4dfd-aa19-5022dd338161",
+        "index": 2,
+        "body": "(I), (II), and (III)",
+        "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+        "stats": {
+          "count": 343
+        },
+        "resources": []
+      },
+      {
+        "id": "63e06ef9-cd27-420c-a1be-6466da76493b",
+        "index": 3,
+        "body": "(I) and (III) only",
+        "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+        "stats": {
+          "count": 1401
+        },
+        "resources": []
+      },
+      {
+        "id": "b6d8b1fc-6a27-415a-bfba-67593a0b8da1",
+        "index": 4,
+        "body": "(II) and (III) only",
+        "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+        "stats": {
+          "count": 246
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "316466283",
+    "timeSpentVideo": "0",
+    "submissions": 2227,
+    "submissionsCorrect": 1401,
+    "accuracy": 0.6290974405029187,
+    "difficulty": 0.6264503652771809
+  },
+  "resources": [],
+  "exam": {
+    "id": "69e9dac8-3962-4bf3-8f59-191a2c09c18d",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3069857898",
+      "timeSpentVideo": "0",
+      "submissions": 16274,
+      "submissionsCorrect": 10406,
+      "questions": 11,
+      "accuracy": 0.6394248494531154,
+      "difficulty": 0.611426652009283
+    }
+  },
+  "explanation": {
+    "id": "89b2e18a-1c36-409b-bcff-a38bd3d77353",
+    "body": "",
+    "questionId": "9663f4f5-906c-4d98-abde-29b3eb0afd72",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    },
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

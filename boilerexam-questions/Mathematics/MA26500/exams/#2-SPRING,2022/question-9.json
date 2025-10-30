@@ -1,0 +1,105 @@
+{
+  "id": "166b80a4-23ed-4377-988c-1c26a70d59a1",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "(1) Find all the eigenvalues of matrix $A = \\left[\\begin{array}{lll}\n2 & 0 & 0 \\\\\n1 & 5 & 1 \\\\\n-1 & -3 & 1\n\\end{array}\\right]$, and find a basis for the eigenspace corresponding to each of the eigenvalues. \n\n(2) Find an invertible matrix $P$ and a diagonal matrix $D$ such that\n\\[\\left[\\begin{array}{lll}\n2 & 0 & 0 \\\\\n1 & 5 & 1 \\\\\n-1 & -3 & 1\n\\end{array}\\right] = PDP^{-1}.\\]",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "15629549",
+    "timeSpentVideo": "3393227",
+    "submissions": 48,
+    "submissionsCorrect": 24,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "62fcf700-b54c-4f98-9091-13faed5593c7",
+    "body": null,
+    "questionId": "166b80a4-23ed-4377-988c-1c26a70d59a1",
+    "resources": [
+      {
+        "id": "8018dc3b-25eb-4d0d-a98c-40c74180103a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?si=-I7uA_9KcoiggUbg&t=3651"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "62fcf700-b54c-4f98-9091-13faed5593c7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    }
+  ],
+  "children": []
+}

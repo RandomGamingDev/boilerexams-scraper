@@ -1,0 +1,143 @@
+{
+  "id": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the value of $c$ such that $f$ is continuous at $x=3$ :\n\n\\[\nf(x)= \\begin{cases}\\frac{x^{2}-c}{x-3}, & \\text { if } x \\neq 3 \\\\ 6, & \\text { if } x=3\\end{cases}\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "09c80590-967d-4081-9249-9aa74bb416a4",
+        "index": 0,
+        "body": "$c=12$",
+        "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "4a6bed86-b1f5-40a4-9d3c-531e118b9133",
+        "index": 1,
+        "body": "$c=6$",
+        "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "b6254550-4501-4d8c-8cdb-c42aa5c4b8a4",
+        "index": 2,
+        "body": "Such a $c$ does not exist",
+        "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+        "stats": {
+          "count": 165
+        },
+        "resources": []
+      },
+      {
+        "id": "45b94a07-e51e-4ab6-8a1b-74e5cf01a1c3",
+        "index": 3,
+        "body": "$c=9$",
+        "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+        "stats": {
+          "count": 1172
+        },
+        "resources": []
+      },
+      {
+        "id": "7ab2d455-007b-48dc-ac03-b84860eb9ef7",
+        "index": 4,
+        "body": "$c=3$",
+        "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "227383170",
+    "timeSpentVideo": "89395798",
+    "submissions": 1867,
+    "submissionsCorrect": 1172,
+    "accuracy": 0.6277450455275844,
+    "difficulty": 0.628749364514489
+  },
+  "resources": [],
+  "exam": {
+    "id": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3155612102",
+      "timeSpentVideo": "693560264",
+      "submissions": 21174,
+      "submissionsCorrect": 13742,
+      "questions": 12,
+      "accuracy": 0.6490034948521772,
+      "difficulty": 0.6016969070226568
+    }
+  },
+  "explanation": {
+    "id": "91bf3bc9-a1bf-406c-877f-e41bfae771b6",
+    "body": "",
+    "questionId": "9d0a931e-4ebf-458d-8c7e-9bc0ed6d6799",
+    "resources": [
+      {
+        "id": "1bc75f9e-5cb3-4c46-96e9-e55615e88884",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8dBHlORfi-0?t=3272"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "91bf3bc9-a1bf-406c-877f-e41bfae771b6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d593713c-e018-41a9-b461-b2dc9aea4a57",
+      "name": "Continuity",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3633929088",
+        "timeSpentVideo": "270041052",
+        "submissions": 11907,
+        "submissionsCorrect": 8253,
+        "questions": 8,
+        "accuracy": 0.6931216931216931,
+        "difficulty": 0.5584867160822853
+      }
+    }
+  ],
+  "children": []
+}

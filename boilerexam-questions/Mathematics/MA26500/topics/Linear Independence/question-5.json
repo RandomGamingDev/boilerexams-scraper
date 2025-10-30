@@ -1,0 +1,173 @@
+{
+  "id": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is always TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5fe59e97-8367-4959-9285-96740f2df54c",
+        "index": 0,
+        "body": "Let $\\mathbf{x}, \\mathbf{y}, \\mathbf{z} \\in \\mathbb{R}^{3}$. If $\\mathbf{z}$ is not a multiple of $\\mathbf{y}$, and $\\mathbf{y}$ is not a multiple of $\\mathbf{x}$, then $\\{\\mathbf{x}, \\mathbf{y}, \\mathbf{z}\\}$ is linearly independent.",
+        "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      },
+      {
+        "id": "a270ef8a-ca49-4a9c-be4f-56825809c655",
+        "index": 1,
+        "body": "Let $T: \\mathbb{R}^{n} \\rightarrow \\mathbb{R}^{m}$ be a one-to-one linear transformation. If $\\{\\mathbf{x}, \\mathbf{y}\\}$ is a linearly independent set in $\\mathbb{R}^{n}$, then so is $\\{T(\\mathbf{x}), T(\\mathbf{y})\\}$ in $\\mathbb{R}^{m}$.",
+        "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+        "stats": {
+          "count": 1924
+        },
+        "resources": []
+      },
+      {
+        "id": "4654709b-9064-4d43-b82e-e80187b4d74f",
+        "index": 2,
+        "body": "If $A$ is an $m \\times n$ matrix and $m \\geq n$, then $A$ has linearly independent columns.",
+        "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "0803bff2-129e-4b73-ae97-ad3a73223024",
+        "index": 3,
+        "body": "If $A$ is an $m \\times n$ matrix and $A \\mathbf{x}=\\mathbf{b}$ is consistent for every $\\mathbf{b} \\in \\mathbb{R}^{m}$, then the columns of $A$ are linearly independent.",
+        "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+        "stats": {
+          "count": 422
+        },
+        "resources": []
+      },
+      {
+        "id": "a946dcbe-4323-485c-acc7-4e3e89c7f872",
+        "index": 4,
+        "body": "If the columns of a matrix $A$ are linearly independent, then the equation $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for every $\\mathbf{b}$.",
+        "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+        "stats": {
+          "count": 929
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "634226499",
+    "timeSpentVideo": "197786192",
+    "submissions": 3877,
+    "submissionsCorrect": 1924,
+    "accuracy": 0.4962599948413722,
+    "difficulty": 0.7536459642946944
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "8141eac9-8b8e-42d9-8bcf-f984500d866e",
+    "body": "",
+    "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
+    "resources": [
+      {
+        "id": "c078c825-1078-4953-8b1b-a8bfadb77ebe",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=1192\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8141eac9-8b8e-42d9-8bcf-f984500d866e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "f2faa0b4-9dba-4476-a1f6-2ca91837d64b",
+      "name": "Consistency",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22244217326",
+        "timeSpentVideo": "2562131245",
+        "submissions": 50103,
+        "submissionsCorrect": 27563,
+        "questions": 15,
+        "accuracy": 0.5501267389178293,
+        "difficulty": 0.6999731091767424
+      }
+    }
+  ],
+  "children": []
+}

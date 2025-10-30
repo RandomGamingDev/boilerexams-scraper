@@ -1,0 +1,143 @@
+{
+  "id": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The graph of a function $g$ is obtained from the graph of $f$ by first compressing vertically by a factor of 3, then shifting to the right by 2 units, and then shifting up by one unit. What is $g(x)=$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "bd8d9e4a-cb75-455a-aebd-27c4d1994d6d",
+        "index": 0,
+        "body": "$f(\\frac{x}{3}+1)+2$",
+        "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "be6e0c52-9c1a-4c60-9b0f-6499d4ed1af8",
+        "index": 1,
+        "body": "$f(\\frac{x+2}{3}+1) $",
+        "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "aae22913-f8d3-4336-b101-ece87f0386b6",
+        "index": 2,
+        "body": "$\\frac{1}{3} f(x-2)+1 $",
+        "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+        "stats": {
+          "count": 697
+        },
+        "resources": []
+      },
+      {
+        "id": "281a6788-96b4-47c7-9b03-0f6b00377bd7",
+        "index": 3,
+        "body": "$3f(x+1)-1 $",
+        "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "c91938f2-efbc-4688-a44f-6d1f004668cc",
+        "index": 4,
+        "body": "$f(3(x-2))-1 $",
+        "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "65776741",
+    "timeSpentVideo": "4550416",
+    "submissions": 814,
+    "submissionsCorrect": 697,
+    "accuracy": 0.8562653562653563,
+    "difficulty": 0.4327133479212254
+  },
+  "resources": [],
+  "exam": {
+    "id": "0dd2526e-752f-4c51-9d9f-5d40a5f58891",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1684158045",
+      "timeSpentVideo": "349622968",
+      "submissions": 13494,
+      "submissionsCorrect": 8398,
+      "questions": 12,
+      "accuracy": 0.6223506743737958,
+      "difficulty": 0.6285493600117699
+    }
+  },
+  "explanation": {
+    "id": "8796cc8a-3ee9-4da3-b289-03b17b0f2e2b",
+    "body": "",
+    "questionId": "7bd40744-53b9-42b7-8b89-5616530f9fd2",
+    "resources": [
+      {
+        "id": "6acd2af9-b895-45a6-bd50-0d11a36b23c5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cnbnleugAKA?t=851"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8796cc8a-3ee9-4da3-b289-03b17b0f2e2b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "49d00e41-daf2-405a-be7e-a33feb80deae",
+      "name": "Graphing",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1815175668",
+        "timeSpentVideo": "131615304",
+        "submissions": 5116,
+        "submissionsCorrect": 3887,
+        "questions": 4,
+        "accuracy": 0.759773260359656,
+        "difficulty": 0.49520705521472397
+      }
+    }
+  ],
+  "children": []
+}

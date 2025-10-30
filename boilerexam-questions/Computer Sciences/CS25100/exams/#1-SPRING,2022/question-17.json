@@ -1,0 +1,91 @@
+{
+  "id": "7d9caca1-c37f-4a0d-b7b5-c13df863dca0",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let $Q$ in the following pseudocode be a fixed-capacity queue that is implemented with an array where\nthe elements wrap around to re-use empty space at the front the way it was discussed on class. Assume\nall variables are integers.\n\nAt which index in the array is element 15 after the pseudocode is executed?",
+    "solution": "Index 2. The array will look like:\n[10,11,15,_,4,5,6,7,8,9]",
+    "answerChoices": []
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "168814815",
+    "timeSpentVideo": "0",
+    "submissions": 588,
+    "submissionsCorrect": 536,
+    "accuracy": 0.9115646258503401,
+    "difficulty": 0.3982558139534884
+  },
+  "resources": [
+    {
+      "id": "77099330-5aae-4b82-a621-ea54fd210a89",
+      "type": "CODE",
+      "data": {
+        "content": "Let Q be an empty queue implemented using an array of initial capacity 10\n\nfor (i = 0; i < 5; i = i + 1)\n    Q.enqueue(i)\nend for\n\nfor (i = 0; i < 3; i = i + 1)\n    Q.dequeue()\nend for\n\nfor (i = 5; i < 12; i = i + 1)\n    Q.enqueue(i)\nend for\n\nQ.dequeue()\nQ.enqueue(15)\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "7d9caca1-c37f-4a0d-b7b5-c13df863dca0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "0bf6bb57-722d-4c9a-95c3-68920177245f",
+    "body": null,
+    "questionId": "7d9caca1-c37f-4a0d-b7b5-c13df863dca0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6656b0cd-1337-436c-98ef-701056b4d3dd",
+      "name": "Queues",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4100813051",
+        "timeSpentVideo": "47682286",
+        "submissions": 9433,
+        "submissionsCorrect": 6742,
+        "questions": 8,
+        "accuracy": 0.7147249019399978,
+        "difficulty": 0.5375275359278296
+      }
+    }
+  ],
+  "children": []
+}

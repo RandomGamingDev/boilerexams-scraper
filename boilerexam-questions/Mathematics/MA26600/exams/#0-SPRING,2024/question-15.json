@@ -1,0 +1,158 @@
+{
+  "id": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If we use the method of undetermined coefficients to find a particular solution of \\[x'=\\begin{bmatrix}2&-1\\\\6&-3\\end{bmatrix}x+\\begin{bmatrix}0\\\\1\\end{bmatrix},\\] what is the appropriate form for a trial solution?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "faaa974f-17db-4d31-82f8-31f64ccca2a7",
+        "index": 0,
+        "body": "$x(t)=\\begin{bmatrix}A\\\\B\\end{bmatrix}+\\begin{bmatrix}C\\\\D\\end{bmatrix}e^{-t}$",
+        "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "2fdcb033-eaef-475b-bf40-52aad315d8ae",
+        "index": 1,
+        "body": "$x(t)=\\begin{bmatrix}A\\\\B\\end{bmatrix}$",
+        "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "28e1fb69-8d6c-47b6-b732-bb7d87920512",
+        "index": 2,
+        "body": "$x(t)=\\begin{bmatrix}A\\\\B\\end{bmatrix}t$",
+        "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "356559da-654b-4725-94cf-e794fd79a098",
+        "index": 3,
+        "body": "$x(t)=\\begin{bmatrix}A\\\\B\\end{bmatrix}t+\\begin{bmatrix}C\\\\D\\end{bmatrix}+\\begin{bmatrix}E\\\\F\\end{bmatrix}e^{-t}$",
+        "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "64de279c-fca5-4368-b8a8-788abd67d649",
+        "index": 4,
+        "body": "$x(t)=\\begin{bmatrix}A\\\\B\\end{bmatrix}t+\\begin{bmatrix}C\\\\D\\end{bmatrix}$",
+        "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+        "stats": {
+          "count": 371
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "141500140",
+    "timeSpentVideo": "74134340",
+    "submissions": 904,
+    "submissionsCorrect": 371,
+    "accuracy": 0.4103982300884956,
+    "difficulty": 0.8306772908366533
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "ae332843-f6cf-4c2f-b71c-ce50f23cc98c",
+    "body": null,
+    "questionId": "9d91113d-16b6-4cf2-a396-e9bebbfc35a9",
+    "resources": [
+      {
+        "id": "3d13d283-99e8-44d0-8dea-1dfcbfe21fb2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=7179s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ae332843-f6cf-4c2f-b71c-ce50f23cc98c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    },
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

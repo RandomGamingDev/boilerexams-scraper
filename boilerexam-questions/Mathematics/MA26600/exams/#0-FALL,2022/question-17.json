@@ -1,0 +1,112 @@
+{
+  "id": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the solution $y$ of the initial value problem\n\n\n\\[\n4 y^{\\prime \\prime}+4 y=1+\\delta(t-\\pi), \\quad y(0)=0, y^{\\prime}(0)=0\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e23eb681-3b2f-436a-99fa-cf73c16b6652",
+        "index": 0,
+        "body": "$\\frac{1}{4}-\\frac{1}{4} \\cos t-\\frac{1}{4} u(t-\\pi) \\sin t$",
+        "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "6ca3d13a-375c-40e9-9ae7-1c01582c1183",
+        "index": 1,
+        "body": "$-\\frac{1}{4} \\cos t-\\frac{1}{4} u(t-\\pi) \\sin t$",
+        "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "fd0d9a16-fadf-447d-aa39-d51dafee0956",
+        "index": 2,
+        "body": "$\\frac{1}{4}-\\frac{1}{4} \\sin t-\\frac{1}{4} u(t-\\pi) \\cos t$",
+        "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "29c93d3b-1351-4b5c-a80d-e8738d95576a",
+        "index": 3,
+        "body": "$\\frac{1}{4}-\\frac{1}{4} \\cos t+\\frac{1}{4} u(t-\\pi) \\cos t$",
+        "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "87da9612-d37e-4897-81f2-ceda5530a984",
+        "index": 4,
+        "body": "$\\frac{1}{4}-\\frac{1}{4} u(t-\\pi) \\sin t$",
+        "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "84677016",
+    "timeSpentVideo": "0",
+    "submissions": 216,
+    "submissionsCorrect": 139,
+    "accuracy": 0.6435185185185185,
+    "difficulty": 0.6518987341772152
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "34fa002d-22a1-43e9-83d2-9935a69bebfa",
+    "body": "",
+    "questionId": "fe874c6f-2459-488c-b4fa-9ba9edfe5815",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

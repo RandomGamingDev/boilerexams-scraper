@@ -1,0 +1,133 @@
+{
+  "id": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the <code>scanf</code> function is <b>TRUE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5b40a384-e091-43b1-8eb3-b88a6914c9c9",
+        "index": 0,
+        "body": "The two components of a <code>scanf</code> function call are the format string and the data list.",
+        "questionId": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+        "stats": {
+          "count": 237
+        },
+        "resources": []
+      },
+      {
+        "id": "f522153c-472d-4df4-a6e3-17c38930055b",
+        "index": 1,
+        "body": "A single <code>scanf</code> function call can be designed to accept input of multiple values.",
+        "questionId": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+        "stats": {
+          "count": 764
+        },
+        "resources": []
+      },
+      {
+        "id": "34134e0e-ab03-4386-bb4b-92a8030affd8",
+        "index": 2,
+        "body": "The conversion codes used for placeholders with integers, floating-point values, and character data are not the same in the <code>scanf</code> as the <code>printf</code> function.",
+        "questionId": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "c048c003-b6a2-4c14-9373-852db0b068bf",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "102363788",
+    "timeSpentVideo": "0",
+    "submissions": 1093,
+    "submissionsCorrect": 764,
+    "accuracy": 0.6989935956084172,
+    "difficulty": 0.5676865046102263
+  },
+  "resources": [],
+  "exam": {
+    "id": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2606890576",
+      "timeSpentVideo": "0",
+      "submissions": 28393,
+      "submissionsCorrect": 18576,
+      "questions": 42,
+      "accuracy": 0.6542457648011833,
+      "difficulty": 0.596295581370863
+    }
+  },
+  "explanation": {
+    "id": "3a02513f-794b-4881-bd0f-cfeee8481b70",
+    "body": null,
+    "questionId": "6e8ebcda-f45e-44c6-ba35-8612477862b3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "5559976b-c520-4f0b-a5f8-868dbd5d8f7b",
+      "name": "printf & scanf",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23602771123",
+        "timeSpentVideo": "187685305",
+        "submissions": 73478,
+        "submissionsCorrect": 48225,
+        "questions": 24,
+        "accuracy": 0.656318898173603,
+        "difficulty": 0.5938935551387643
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "352932aa-86f1-458e-bc9d-c759b562e42a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the function $f(x)$ represented by the following power series\n\n\n\\[\n\\sum_{k=0}^{\\infty} \\frac{x^{2 k+3}}{2^{k}}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2834a913-9f2d-44ba-ac76-3ae4b83d99f3",
+        "index": 0,
+        "body": "$f(x)=\\frac{x^{3}}{2-x^{2}} \\quad$ for $|x|<\\sqrt{2}$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 444
+        },
+        "resources": []
+      },
+      {
+        "id": "3f19fc65-0db8-4149-89f2-40ebce43d9eb",
+        "index": 1,
+        "body": "$f(x)=\\frac{2}{2-x^{2}}$ for $|x|<\\sqrt{2}$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 163
+        },
+        "resources": []
+      },
+      {
+        "id": "3040bd2a-1a79-4f7f-bae9-67000a851625",
+        "index": 2,
+        "body": "$f(x)=\\frac{2 x^{3}}{2-x^{2}}$ for $|x|<\\sqrt{2}$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 2369
+        },
+        "resources": []
+      },
+      {
+        "id": "6ef16ce9-d63c-4639-9aa8-ef0bb8deff71",
+        "index": 3,
+        "body": "$f(x)=\\frac{2}{2-x}$ for $|x|<2$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "eb464d8e-931f-4143-91de-eb810b91d6c0",
+        "index": 4,
+        "body": "$f(x)=\\frac{2 x^{3}}{2-x}$ for $|x|<2$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 229
+        },
+        "resources": []
+      },
+      {
+        "id": "6713e353-bfe8-485d-b6fc-f44b9632da41",
+        "index": 5,
+        "body": "$f(x)=\\frac{x^{3}}{2-x}$ for $|x|<2$.",
+        "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+        "stats": {
+          "count": 127
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "782237296",
+    "timeSpentVideo": "131973539",
+    "submissions": 4402,
+    "submissionsCorrect": 2369,
+    "accuracy": 0.5381644706951386,
+    "difficulty": 0.7126832518880497
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444048911",
+      "timeSpentVideo": "2335774508",
+      "submissions": 74336,
+      "submissionsCorrect": 39139,
+      "questions": 25,
+      "accuracy": 0.526514743865691,
+      "difficulty": 0.7235208769950024
+    }
+  },
+  "explanation": {
+    "id": "fdb08db7-5bfc-49a5-83d6-8d16fe68571c",
+    "body": "",
+    "questionId": "352932aa-86f1-458e-bc9d-c759b562e42a",
+    "resources": [
+      {
+        "id": "1fb05b8c-f52b-42e1-8767-2bb958bab392",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/c6Qq5JvsFkw?t=790\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fdb08db7-5bfc-49a5-83d6-8d16fe68571c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    }
+  ],
+  "children": []
+}

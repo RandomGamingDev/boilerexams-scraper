@@ -1,0 +1,143 @@
+{
+  "id": "afa05774-67fb-4879-9873-5d186c472764",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the matrix exponential $e^{At}$ for\n\\[\nA = \\begin{bmatrix} 3 & -6 \\\\ 0 & 3 \\end{bmatrix}.\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3d771cb1-7193-4aa6-9670-c3e25813d8fa",
+        "index": 0,
+        "body": "$\\begin{bmatrix} e^{3t} & -6te^{3t} \\\\ 0 & e^{3t} \\end{bmatrix}$",
+        "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "7d5dd255-6e8a-41d1-8b6d-a10e46d04573",
+        "index": 1,
+        "body": "$\\begin{bmatrix} e^{3t} & e^{-6t} \\\\ 0 & e^{3t} \\end{bmatrix}$\n",
+        "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "f042deb3-08fa-42ba-8aee-aca1580612ad",
+        "index": 2,
+        "body": "$\\begin{bmatrix} 1+3t & 1-6t \\\\ 1 & 1+3t \\end{bmatrix}$",
+        "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "7c7334aa-7abc-432e-8bd3-636634e79887",
+        "index": 3,
+        "body": "$\\begin{bmatrix} 1+e^{3t} & e^{-6t} \\\\ 0 & 1+e^{3t} \\end{bmatrix}$\n",
+        "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "c60722bf-e0df-4ddd-a83b-d6e7bca79131",
+        "index": 4,
+        "body": "$\\begin{bmatrix} 1+3t & -6t \\\\ 0 & 1+3t \\end{bmatrix}$",
+        "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "638987",
+    "timeSpentVideo": "513029",
+    "submissions": 9,
+    "submissionsCorrect": 2,
+    "accuracy": 0.2222222222222222,
+    "difficulty": 0.7729357798165137
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "5398f06b-02c5-4b1b-9274-0b07b38240f6",
+    "body": null,
+    "questionId": "afa05774-67fb-4879-9873-5d186c472764",
+    "resources": [
+      {
+        "id": "744698c9-ab7c-4c6c-a349-357e24a07efb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=6H5L_qc7lpr0Za6N&t=1379"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5398f06b-02c5-4b1b-9274-0b07b38240f6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

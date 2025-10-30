@@ -1,0 +1,143 @@
+{
+  "id": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system\n\n\n\\[\n\\begin{aligned}\nx_{1}+x_{2}+x_{3} & =2, \\\\\n2 x_{1}+3 x_{2}+2 x_{3} & =5, \\\\\n2 x_{1}+3 x_{2}+\\left(k^{2}-2\\right) x_{3} & =k+3 .\n\\end{aligned}\n\\]\n\nDetermine all the values of the constant $k$ for which the above system has no solution.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b35fdb0d-3107-4f98-b76d-bd0e12f069f5",
+        "index": 0,
+        "body": "$k=-2$",
+        "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+        "stats": {
+          "count": 369
+        },
+        "resources": []
+      },
+      {
+        "id": "256f3a4b-000b-4248-86a1-b0e9ff246745",
+        "index": 1,
+        "body": "$k=2$",
+        "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "47e2e6f3-40a7-4b28-bad3-7a65d89d6078",
+        "index": 2,
+        "body": "$k \\neq-2$",
+        "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "f3d87144-98fe-4894-96de-295d008c140a",
+        "index": 3,
+        "body": "$k \\neq 2$",
+        "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "cd563b9d-e14d-4d9d-a59e-331cdc4be72e",
+        "index": 4,
+        "body": "$k$ could be any real number.",
+        "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "37a9b809-1ed0-4027-940c-334b3253b165",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "138608200",
+    "timeSpentVideo": "25969072",
+    "submissions": 812,
+    "submissionsCorrect": 369,
+    "accuracy": 0.4544334975369458,
+    "difficulty": 0.7905701754385965
+  },
+  "resources": [],
+  "exam": {
+    "id": "37a9b809-1ed0-4027-940c-334b3253b165",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2217727037",
+      "timeSpentVideo": "358505559",
+      "submissions": 8725,
+      "submissionsCorrect": 4631,
+      "questions": 11,
+      "accuracy": 0.5307736389684814,
+      "difficulty": 0.7195750708215297
+    }
+  },
+  "explanation": {
+    "id": "31f64782-d9cc-4436-8363-cae56164462b",
+    "body": "",
+    "questionId": "52c1f2f8-37ba-4a5e-ae8d-8dd93752a934",
+    "resources": [
+      {
+        "id": "6f21957e-fbfe-4b19-bd09-7fe8748fea82",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/RcpPdDbJQtQ?si=_W_I1xdbjE4XxNCC&t=1268\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "31f64782-d9cc-4436-8363-cae56164462b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

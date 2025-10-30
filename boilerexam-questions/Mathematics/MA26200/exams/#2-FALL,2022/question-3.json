@@ -1,0 +1,128 @@
+{
+  "id": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements are true?\n\n\n\n(I) If the reduced row echelon form of a $3 \\times 5$ matrix $A$ is $\\operatorname{rref}(A)=\\left[\\begin{array}{rrrrr}1 & 1 & 0 & 0 & 2 \\\\ 0 & 0 & 1 & 0 & -1 \\\\ 0 & 0 & 0 & 1 & 1\\end{array}\\right]$, then the dimension of the Solution Space for $A \\mathbf{x}=\\mathbf{0}$ must be $3$.\n\n(II) If two $m \\times n$ matrices $A$ and $B$ have the same reduced row echelon form, then $\\operatorname{rank}(A)=\\operatorname{rank}(B)$.\n\n(III) If $W$ is the set of all vectors in $\\mathbb{R}^{2}$ of the form $\\left[\\begin{array}{c}x \\\\ x^{2}\\end{array}\\right]$, then $W$ is a subspace of $\\mathbb{R}^{2}$.\n\n(IV) The set $W=\\left\\{t\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 1\\end{array}\\right]+s\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]: t, s\\right.$ are real numbers $\\}$ is a subspace of $\\mathbb{R}^{3}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "90150890-2893-444c-9e51-3016e85d9d19",
+        "index": 0,
+        "body": "Only (II) and (IV) are true",
+        "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+        "stats": {
+          "count": 793
+        },
+        "resources": []
+      },
+      {
+        "id": "f346fd0b-f74e-429a-a3ea-e4a121da4a3b",
+        "index": 1,
+        "body": "Only (I) and (II) are true",
+        "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "c9d7bc20-2e89-47d3-9c5d-dabf8bc95c96",
+        "index": 2,
+        "body": "Only (I), (II) and (IV) are true",
+        "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+        "stats": {
+          "count": 274
+        },
+        "resources": []
+      },
+      {
+        "id": "10854eaa-afb5-4988-9370-8357987976ac",
+        "index": 3,
+        "body": "Only (III) and (IV) are true",
+        "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "c994fce0-04d2-4ce8-8ff6-8a2e5f90f65a",
+        "index": 4,
+        "body": "Only (II) and (III) are true",
+        "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "314124747",
+    "timeSpentVideo": "0",
+    "submissions": 1457,
+    "submissionsCorrect": 793,
+    "accuracy": 0.5442690459849004,
+    "difficulty": 0.7085741811175337
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "a5e3e448-2b21-40c3-a07d-1d0828e0b0ab",
+    "body": "",
+    "questionId": "27b1a566-a49c-40ed-9418-e3650a89ff8c",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "1bb6be1a-e113-4fd9-987f-3da6f8257ab4",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "What is the best-case runtime complexity of the following pseudocode? Assume all values and variables\nare integers.",
+    "solution": "$T(n) \\in \\Omega(\\log{{n}})$",
+    "answerChoices": []
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "117252080",
+    "timeSpentVideo": "0",
+    "submissions": 882,
+    "submissionsCorrect": 742,
+    "accuracy": 0.8412698412698413,
+    "difficulty": 0.44348268839103866
+  },
+  "resources": [
+    {
+      "id": "7e316e59-1d47-4c4c-95e5-a42e9e433776",
+      "type": "CODE",
+      "data": {
+        "content": "n = a positive number\ni = 1\nwhile ( i < n )\n{\n    num = random ( 100 ) // a random number from [ 1 , 1 0 0 ]\n    if (num <= 25)\n        i = i + 1\n    else\n        i = i \u2217 2\n    end if\n}",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "1bb6be1a-e113-4fd9-987f-3da6f8257ab4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "137c520d-aab5-41b2-9bf2-d63f2b0eb66c",
+    "body": null,
+    "questionId": "1bb6be1a-e113-4fd9-987f-3da6f8257ab4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

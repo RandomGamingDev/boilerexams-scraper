@@ -1,0 +1,159 @@
+{
+  "id": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the phase portrait of the system x'=Ax, what are the possible eigenvalues of the matrix A?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b9dc8573-296c-454a-9557-009a5966ebf7",
+        "index": 0,
+        "body": "$\\pm5i$",
+        "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "e6f70482-c86d-4c4f-adb6-c89d6ce816f7",
+        "index": 1,
+        "body": "$-5,3$",
+        "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "52bc9b81-42b5-4e51-9610-ae2b308c6864",
+        "index": 2,
+        "body": "$-1\\pm10i$",
+        "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+        "stats": {
+          "count": 546
+        },
+        "resources": []
+      },
+      {
+        "id": "6aa537b0-ef9d-4c28-a89d-abdb72fc7165",
+        "index": 3,
+        "body": "$-7,-2$",
+        "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "9463c176-4fc7-449f-9aab-468d93872ffe",
+        "index": 4,
+        "body": "$1,5$",
+        "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "46477908",
+    "timeSpentVideo": "9630516",
+    "submissions": 707,
+    "submissionsCorrect": 546,
+    "accuracy": 0.7722772277227723,
+    "difficulty": 0.5114622057001239
+  },
+  "resources": [
+    {
+      "id": "23d26d5c-a9d9-4395-9b34-5b2cd486acd3",
+      "type": "IMAGE",
+      "data": {
+        "key": "vh_QuJCPxOmKV6h1K9ivs",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/vh_QuJCPxOmKV6h1K9ivs"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "8c6a14f7-72d5-4326-a897-3ef6ccf5903e",
+    "body": null,
+    "questionId": "7b9fa61f-141b-4779-9b33-375d39a657aa",
+    "resources": [
+      {
+        "id": "f5890929-649a-4459-9b8e-d08fd2c0eecc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=4694s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8c6a14f7-72d5-4326-a897-3ef6ccf5903e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

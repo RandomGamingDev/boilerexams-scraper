@@ -1,0 +1,158 @@
+{
+  "id": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate \\[\\int\\frac{5x+1}{(2x+1)(x-1)}dx\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "12a7bc96-577d-4d98-824e-7a9264bd1b2a",
+        "index": 0,
+        "body": "$\\frac{1}{10}\\ln{|2x+1|}-2\\ln{|x-1|}+C$",
+        "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "c5882d31-6e16-474e-a402-b767e62e6008",
+        "index": 1,
+        "body": "$\\frac{1}{2}\\ln{|2x+1|}+5\\ln{|x-1|}+C$",
+        "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "4f7b7625-b6b9-4806-9126-ff1b7e49a5d2",
+        "index": 2,
+        "body": "$\\frac{1}{10}\\ln{|2x+1|}-4\\ln{|x-1|}+C$",
+        "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "060e50ca-94ee-4647-a6aa-2ed3ac89549d",
+        "index": 3,
+        "body": "$\\frac{1}{2}\\ln{|2x+1|}+2\\ln{|x-1|}+C$",
+        "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+        "stats": {
+          "count": 1051
+        },
+        "resources": []
+      },
+      {
+        "id": "42f34de0-196b-40bb-abe7-2c22f88e515a",
+        "index": 4,
+        "body": "$\\frac{1}{10}\\ln{|2x+1|}+4\\ln{|x-1|}+C$",
+        "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "335538739",
+    "timeSpentVideo": "24635181",
+    "submissions": 1387,
+    "submissionsCorrect": 1051,
+    "accuracy": 0.7577505407354002,
+    "difficulty": 0.5095830531271015
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "009234dd-a3f2-4db9-b489-dc3f647172c0",
+    "body": "At 33:19 I meant to say indefinite integral not definite integral.",
+    "questionId": "ac28134f-f7c0-4eeb-b0cb-8a4f2dcff9b3",
+    "resources": [
+      {
+        "id": "91dd0e7b-ba17-483e-81b6-600dfc1e50cb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=1597s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "009234dd-a3f2-4db9-b489-dc3f647172c0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182337043",
+        "timeSpentVideo": "951958617",
+        "submissions": 36368,
+        "submissionsCorrect": 22498,
+        "questions": 15,
+        "accuracy": 0.618620765508139,
+        "difficulty": 0.6317045080618624
+      }
+    },
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    }
+  ],
+  "children": []
+}

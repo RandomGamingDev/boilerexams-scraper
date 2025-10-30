@@ -1,0 +1,158 @@
+{
+  "id": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine a basis for the set spanned by the vectors\n\n\n\\[\nv_{1}=\\left[\\begin{array}{l}\n1 \\\\\n2 \\\\\n3\n\\end{array}\\right], v_{2}=\\left[\\begin{array}{l}\n3 \\\\\n6 \\\\\n9\n\\end{array}\\right], v_{3}=\\left[\\begin{array}{l}\n1 \\\\\n3 \\\\\n5\n\\end{array}\\right], v_{4}=\\left[\\begin{array}{c}\n5 \\\\\n11 \\\\\n17\n\\end{array}\\right], v_{5}=\\left[\\begin{array}{c}\n2 \\\\\n7 \\\\\n12\n\\end{array}\\right], v_{6}=\\left[\\begin{array}{l}\n2 \\\\\n0 \\\\\n0\n\\end{array}\\right]\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "01fcc633-c427-4fda-931a-474248e38b6b",
+        "index": 0,
+        "body": "$\\left\\{v_{1}, v_{3}, v_{4}\\right\\}$",
+        "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "949eac69-9f3a-43af-b240-cc043d6ff155",
+        "index": 1,
+        "body": "$\\left\\{v_{1}, v_{3}, v_{5}\\right\\}$",
+        "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+        "stats": {
+          "count": 208
+        },
+        "resources": []
+      },
+      {
+        "id": "5a38ec33-0f95-40ad-a441-cf6f45ccabf6",
+        "index": 2,
+        "body": "$\\left\\{v_{2}, v_{3}, v_{4}\\right\\}$",
+        "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "9b5b3e36-0424-4c2e-ad9a-1dec28e04466",
+        "index": 3,
+        "body": "$\\left\\{v_{3}, v_{4}, v_{5}\\right\\}$",
+        "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "640c6b40-f9fe-4d87-9068-123f980b9305",
+        "index": 4,
+        "body": "$\\left\\{v_{1}, v_{3}, v_{6}\\right\\}$",
+        "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+        "stats": {
+          "count": 1280
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "329726921",
+    "timeSpentVideo": "54142319",
+    "submissions": 1959,
+    "submissionsCorrect": 1280,
+    "accuracy": 0.6533945890760592,
+    "difficulty": 0.6040553666828558
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "98ea32f2-d2bb-4263-94cd-ec4b54860a06",
+    "body": "",
+    "questionId": "8215b738-11f7-48b1-a2f4-a0b6280008d0",
+    "resources": [
+      {
+        "id": "e1bb56ac-7af2-4d07-9bdc-d9298b5830c2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3485\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "98ea32f2-d2bb-4263-94cd-ec4b54860a06",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    }
+  ],
+  "children": []
+}

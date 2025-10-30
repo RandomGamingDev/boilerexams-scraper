@@ -1,0 +1,128 @@
+{
+  "id": "d32ba17f-9b11-45a3-a914-99810959104e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the general solution of the equation\n\n\n\n\\[\n(D-1)(D+1)^{2}\\left(D^{2}-2 D+2\\right) y=0\n\\]\n\n(this means that its characteristic polynomial is $p(r)=(r-1)(r+1)^{2}\\left(r^{2}-2 r+2\\right)$ ).",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "bf4a0bc2-5cf5-42a9-8a9d-471182ac84b8",
+        "index": 0,
+        "body": "$C_{1} e^{x}+C_{2} e^{-x}+e^{x}\\left(C_{3} \\cos x+C_{4} \\sin x\\right)$",
+        "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "4bc81420-5de4-4187-98ab-b3c88d72db75",
+        "index": 1,
+        "body": "$C_{1} e^{x}+C_{2} e^{-x}+e^{-x}\\left(C_{3} \\cos x+C_{4} \\sin x\\right)$",
+        "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "42c416f1-f757-4eeb-ac95-158cb6438d06",
+        "index": 2,
+        "body": "$C_{1} e^{x}+C_{2} e^{-x}+C_{3} x e^{-x}+e^{x}\\left(C_{4} \\cos x+C_{5} \\sin x\\right)$",
+        "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+        "stats": {
+          "count": 671
+        },
+        "resources": []
+      },
+      {
+        "id": "4455a677-03ef-44a7-a9c5-40915b4ff147",
+        "index": 3,
+        "body": "$C_{1} e^{x}+C_{2} x e^{x}+C_{3} e^{x}+e^{x}\\left(C_{4} \\cos x+C_{5} \\sin x\\right)$",
+        "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "9bccdcdc-d5e1-4d93-a860-cc61ddacd8b5",
+        "index": 4,
+        "body": "$C_{1} e^{x}+C_{2} e^{-x}+C_{3} x e^{-x}+e^{-x}\\left(C_{4} \\cos x+C_{5} \\sin x\\right)$",
+        "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "120728996",
+    "timeSpentVideo": "0",
+    "submissions": 824,
+    "submissionsCorrect": 671,
+    "accuracy": 0.8143203883495146,
+    "difficulty": 0.4696969696969697
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "6b4cec4c-9bf4-4c74-99b9-e7db3c3bfccf",
+    "body": "",
+    "questionId": "d32ba17f-9b11-45a3-a914-99810959104e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0319c3c3-8269-4637-9189-12380f165495",
+      "name": "Characterization",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1198107393",
+        "timeSpentVideo": "69856422",
+        "submissions": 3254,
+        "submissionsCorrect": 2223,
+        "questions": 6,
+        "accuracy": 0.683159188690842,
+        "difficulty": 0.5723017292784734
+      }
+    }
+  ],
+  "children": []
+}

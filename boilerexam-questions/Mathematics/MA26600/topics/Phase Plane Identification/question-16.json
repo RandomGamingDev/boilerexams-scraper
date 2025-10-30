@@ -1,0 +1,143 @@
+{
+  "id": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given\n\n\n\\[\nx^{\\prime}=\\left(\\begin{array}{cc}\n1 & \\alpha \\\\\n3 & 1\n\\end{array}\\right) \\mathbf{x}\n\\]\n\nwhat are the values of $\\alpha$ if the origin is a saddle point in the phase plane?\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d7cd78e7-9c45-4290-bcee-1033965590b8",
+        "index": 0,
+        "body": "$\\alpha>\\frac{1}{3}$",
+        "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+        "stats": {
+          "count": 1216
+        },
+        "resources": []
+      },
+      {
+        "id": "9a94f61e-5203-4664-b904-26bf775d8686",
+        "index": 1,
+        "body": "$a<0$",
+        "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "6953d78d-77e1-4dc8-b72f-27dbfe075a47",
+        "index": 2,
+        "body": "$2>\\alpha>-2$",
+        "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "1dc2c286-98bb-410e-b675-1207019df8f7",
+        "index": 3,
+        "body": "$3>a>1$",
+        "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "2733419c-2063-41cf-b09e-015407926c74",
+        "index": 4,
+        "body": "$\\alpha>\\frac{1}{2}$",
+        "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "337949734",
+    "timeSpentVideo": "57729526",
+    "submissions": 1797,
+    "submissionsCorrect": 1216,
+    "accuracy": 0.6766833611574847,
+    "difficulty": 0.5826304691618345
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "c2f83ce7-0c79-4c4a-a663-1456d525d981",
+    "body": "",
+    "questionId": "0d43ca18-191a-4bfa-befd-a0b9e55d9cf5",
+    "resources": [
+      {
+        "id": "c6dd1f57-5c41-468f-9ceb-b4ffbf6aa086",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=srltAuFJwS7pz8-w&t=2396"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c2f83ce7-0c79-4c4a-a663-1456d525d981",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

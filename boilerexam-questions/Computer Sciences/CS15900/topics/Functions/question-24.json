@@ -1,0 +1,133 @@
+{
+  "id": "d70189f5-3618-4211-bf26-ba52891fda4a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the statements regarding the <code>main</code> function since the introduction of user-defined functions is <b>TRUE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b4631c47-4ac1-4b95-a708-44ace8caa3d0",
+        "index": 0,
+        "body": "Simple tasks such as input and output are to be retained in the <code>main</code> function to avoid making a program unnecessarily long with additional user-defined functions.",
+        "questionId": "d70189f5-3618-4211-bf26-ba52891fda4a",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "31abc898-3625-4aa8-ac30-7ae2a058eab0",
+        "index": 1,
+        "body": "The control of the program always returns from the called function to the <code>main</code> function.",
+        "questionId": "d70189f5-3618-4211-bf26-ba52891fda4a",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "07800e64-3d34-493b-ba9a-eb6f08e42493",
+        "index": 2,
+        "body": "The <code>main</code> function is to coordinate the function calls and to establish the data needs for a program.",
+        "questionId": "d70189f5-3618-4211-bf26-ba52891fda4a",
+        "stats": {
+          "count": 587
+        },
+        "resources": []
+      },
+      {
+        "id": "4c857db5-9f90-4042-9cef-6e1462e157d3",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d70189f5-3618-4211-bf26-ba52891fda4a",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": null,
+  "examId": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "51385143",
+    "timeSpentVideo": "0",
+    "submissions": 716,
+    "submissionsCorrect": 587,
+    "accuracy": 0.8198324022346368,
+    "difficulty": 0.4693627450980392
+  },
+  "resources": [],
+  "exam": {
+    "id": "ff79a515-42f3-4ff7-8d7c-af06d36d99f7",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2606890576",
+      "timeSpentVideo": "0",
+      "submissions": 28393,
+      "submissionsCorrect": 18576,
+      "questions": 42,
+      "accuracy": 0.6542457648011833,
+      "difficulty": 0.596295581370863
+    }
+  },
+  "explanation": {
+    "id": "8e47a701-949e-419b-be4f-f300fbf96bb8",
+    "body": null,
+    "questionId": "d70189f5-3618-4211-bf26-ba52891fda4a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

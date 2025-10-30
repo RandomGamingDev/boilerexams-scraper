@@ -1,0 +1,143 @@
+{
+  "id": "303a8975-895f-49e0-85ba-0d408d8eb190",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ll}4 & 3 \\\\ 1 & 1\\end{array}\\right], B=\\left[\\begin{array}{ll}b_{11} & b_{12} \\\\ b_{21} & b_{22}\\end{array}\\right]$ and $C=\\left[\\begin{array}{ll}c_{11} & c_{12} \\\\ c_{21} & c_{22}\\end{array}\\right]$ be $2 \\times 2$ matrices such that $A B=\\left[\\begin{array}{ll}1 & 3 \\\\ 5 & 2\\end{array}\\right]$ and $C A=\\left[\\begin{array}{ll}1 & 3 \\\\ 5 & 2\\end{array}\\right]$.\n\nGiven that the inverse of the matrix $A$ is equal to $A^{-1}=\\left[\\begin{array}{cc}1 & -3 \\\\ -1 & 4\\end{array}\\right]$, we can say that the elements $b_{12}$ of the matrix $B$ and $c_{12}$ of the matrix $C$ are",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a7a804f6-6bd6-4ba0-ba3e-0b1af0f86233",
+        "index": 0,
+        "body": "$b_{12}=c_{12}=-3$",
+        "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+        "stats": {
+          "count": 212
+        },
+        "resources": []
+      },
+      {
+        "id": "311de0d0-6025-461f-a90a-de07b1faa643",
+        "index": 1,
+        "body": "$b_{12}=-2$ and $c_{12}=12$",
+        "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "b7297ad1-f33a-4fca-ab9c-f2fea2de4539",
+        "index": 2,
+        "body": "$b_{12}=-3$ and $c_{12}=-4$",
+        "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "26c95406-7566-4825-9106-8a652e9b475d",
+        "index": 3,
+        "body": "$b_{12}=-3$ and $c_{12}=9$",
+        "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+        "stats": {
+          "count": 470
+        },
+        "resources": []
+      },
+      {
+        "id": "c63da16f-4327-4110-8ff8-be1dea90e44d",
+        "index": 4,
+        "body": "$b_{12}=1$ and $c_{12}=9$",
+        "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "276220609",
+    "timeSpentVideo": "1177998",
+    "submissions": 812,
+    "submissionsCorrect": 470,
+    "accuracy": 0.5788177339901478,
+    "difficulty": 0.6798245614035088
+  },
+  "resources": [],
+  "exam": {
+    "id": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3246944450",
+      "timeSpentVideo": "49477275",
+      "submissions": 10827,
+      "submissionsCorrect": 7462,
+      "questions": 11,
+      "accuracy": 0.6892029186293526,
+      "difficulty": 0.5625285988834996
+    }
+  },
+  "explanation": {
+    "id": "770cb336-e0b4-42f9-9bc7-b4fee86336e5",
+    "body": "",
+    "questionId": "303a8975-895f-49e0-85ba-0d408d8eb190",
+    "resources": [
+      {
+        "id": "9f62806e-0c0f-4707-bc6b-86cb80e4236e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aYp9DzrIgVc?si=gp9pA5iFUa1nZL3I&t=3081"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "770cb336-e0b4-42f9-9bc7-b4fee86336e5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

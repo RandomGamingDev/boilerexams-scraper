@@ -1,0 +1,143 @@
+{
+  "id": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following are subspaces of $\\mathbb{P}_{3}$ (the vector space of polynomials of degree at most three)?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6450fbff-244c-4648-81a5-3771a3921877",
+        "index": 0,
+        "body": "The set of all polynomials of the form $a t+t^{2}+(a-b) t^{3}$ where $a$ and $b$ are real numbers.",
+        "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+        "stats": {
+          "count": 577
+        },
+        "resources": []
+      },
+      {
+        "id": "44ee3e05-6558-4733-b1ea-1dccc792b94d",
+        "index": 1,
+        "body": "The set of all polynomials $p(t)$ with $p(1)=1$.",
+        "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+        "stats": {
+          "count": 116
+        },
+        "resources": []
+      },
+      {
+        "id": "6d430742-440e-4e5a-8990-c7cd81c4d0c1",
+        "index": 2,
+        "body": "The set of all polynomials $p(t)$ with $p(-1) p(-2)=0$.",
+        "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "a9c92bbe-0b96-4563-943a-56e94fd8540b",
+        "index": 3,
+        "body": "The set of all polynomials $p(t)$ with $p(0)=0$ and $p(2)=0$.",
+        "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+        "stats": {
+          "count": 1891
+        },
+        "resources": []
+      },
+      {
+        "id": "a9bc4110-22be-43be-ba0b-bb687cea5362",
+        "index": 4,
+        "body": "The set of all polynomials $p(t)$ with integer coefficients.",
+        "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "531991161",
+    "timeSpentVideo": "382613486",
+    "submissions": 3336,
+    "submissionsCorrect": 1891,
+    "accuracy": 0.5668465227817746,
+    "difficulty": 0.6850989522700814
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "4f2bd67a-0891-4fed-b553-9448e479791f",
+    "body": "",
+    "questionId": "06a1365b-bd77-4401-b2b7-eff2edd0701e",
+    "resources": [
+      {
+        "id": "9b8608f4-1734-42d4-9b84-5209066a1bf0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=3212\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f2bd67a-0891-4fed-b553-9448e479791f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    }
+  ],
+  "children": []
+}

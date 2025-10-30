@@ -1,0 +1,133 @@
+{
+  "id": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding user-defined functions is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a1f5f7a8-b3fd-48a0-8de0-7f5bcc1c665f",
+        "index": 0,
+        "body": "A variable declared in the local declaration section of a function can have the same identifier as one of the parameters of the same function.",
+        "questionId": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+        "stats": {
+          "count": 3850
+        },
+        "resources": []
+      },
+      {
+        "id": "1f64b55f-9ccf-4e34-88d8-7dcae9c59989",
+        "index": 1,
+        "body": "A local variable cannot be referenced through its identifier outside of the function in which it is defined.",
+        "questionId": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+        "stats": {
+          "count": 234
+        },
+        "resources": []
+      },
+      {
+        "id": "54a9a054-f1a0-438b-b141-99221769e403",
+        "index": 2,
+        "body": "Parameters are defined as local variables in the first line of the function definition and should not be re-defined within the local declaration section of the function.",
+        "questionId": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+        "stats": {
+          "count": 468
+        },
+        "resources": []
+      },
+      {
+        "id": "522aaacb-8db5-4b28-adae-b02c0f8afa3f",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+        "stats": {
+          "count": 349
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "531672231",
+    "timeSpentVideo": "6624162",
+    "submissions": 4949,
+    "submissionsCorrect": 3850,
+    "accuracy": 0.7779349363507779,
+    "difficulty": 0.47756981580510993
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "9dc54676-d047-4303-8ca5-bef3fa52c0e5",
+    "body": "",
+    "questionId": "0d7dbc5b-2df5-4db3-b2f0-bafbe7d5449f",
+    "resources": [
+      {
+        "id": "e1a77cb6-80c5-4696-9635-186a1bbe20c0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=zJ_NTAV-CU-lwUPO&t=1296"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9dc54676-d047-4303-8ca5-bef3fa52c0e5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

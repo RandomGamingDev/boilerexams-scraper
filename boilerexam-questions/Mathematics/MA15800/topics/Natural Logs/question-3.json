@@ -1,0 +1,153 @@
+{
+  "id": "c5e33551-b213-4089-8b4c-38add7af8592",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the equation:\n$$\\ln(x)-\\ln(x+1)=\\ln(20)$$\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8afc82ce-c7c1-4acd-920e-477435e7c445",
+        "index": 0,
+        "body": "$x=-\\frac{20}{19}$",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      },
+      {
+        "id": "4cca7c6f-bc6a-4b15-9583-e2276fb9cc0f",
+        "index": 1,
+        "body": "$x=-\\frac{19}{20}$",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "30e36b45-4197-4729-886e-39d10a77a87a",
+        "index": 2,
+        "body": "There is no solution",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 699
+        },
+        "resources": []
+      },
+      {
+        "id": "2af6fa0d-f025-498f-a923-646ce4d1a12c",
+        "index": 3,
+        "body": "$x=-5$ and $x=4$",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "8bc6b58e-7358-404c-b0fa-9d321967fad0",
+        "index": 4,
+        "body": "$x=e^{4}$",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "3e58cded-4056-404a-a265-d58de0d48ac2",
+        "index": 5,
+        "body": "$x=4$",
+        "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "ce141299-098e-4dcf-acc0-3cf27dde9735",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "183565314",
+    "timeSpentVideo": "29012636",
+    "submissions": 1299,
+    "submissionsCorrect": 699,
+    "accuracy": 0.5381062355658198,
+    "difficulty": 0.7146175839885632
+  },
+  "resources": [],
+  "exam": {
+    "id": "ce141299-098e-4dcf-acc0-3cf27dde9735",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2053377667",
+      "timeSpentVideo": "203423301",
+      "submissions": 15279,
+      "submissionsCorrect": 10226,
+      "questions": 15,
+      "accuracy": 0.669284639047058,
+      "difficulty": 0.5818161128812016
+    }
+  },
+  "explanation": {
+    "id": "7ae6cdaa-0e74-4c73-b7ad-47435d16c05c",
+    "body": "",
+    "questionId": "c5e33551-b213-4089-8b4c-38add7af8592",
+    "resources": [
+      {
+        "id": "13a5edfc-a380-456a-b663-a30f89bf0a26",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ChPh81SAaMU?si=glYYBrdho-Dq_Ff5&t=365"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7ae6cdaa-0e74-4c73-b7ad-47435d16c05c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b78324ae-81b1-4089-a7c1-2f8e5ca732d1",
+      "name": "Natural Logs",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "814982322",
+        "timeSpentVideo": "29012636",
+        "submissions": 1299,
+        "submissionsCorrect": 699,
+        "questions": 1,
+        "accuracy": 0.5381062355658198,
+        "difficulty": 0.7146175839885632
+      }
+    }
+  ],
+  "children": []
+}

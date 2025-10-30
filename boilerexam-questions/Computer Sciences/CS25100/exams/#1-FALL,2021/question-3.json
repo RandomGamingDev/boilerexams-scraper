@@ -1,0 +1,128 @@
+{
+  "id": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The dominant term of a runtime expression is $\\frac{1}{32} n^2$. The runtime expression that fits with such a term is:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a797a529-ec30-4d24-93d3-6a441c02b05c",
+        "index": 0,
+        "body": "$T(n)=\\frac{1}{32} n^2  \\log{(n)} + \\frac{1}{32} n^2   - \\frac{1}{32}  \\log{(n)}$",
+        "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "d86d9956-bcb7-47c9-93a4-12add2e54fad",
+        "index": 1,
+        "body": "$T(n) = \\frac{1}{32}n + \\frac{1}{16} n^2 - \\frac{1}{32}n \\log{(n)}$",
+        "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "6ef3eaad-4e98-4ba9-af35-b0d02b29e8b4",
+        "index": 2,
+        "body": "$T(n)=\\frac{1}{32}n+\\frac{1}{4}n^2-\\frac{1}{32}\\log{(n)}$",
+        "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "42768fc4-2ad7-4527-b0a6-c7b940a09f96",
+        "index": 3,
+        "body": "$T(n)=\\frac{1}{32}n\\log{(n)}+\\frac{1}{32}n^2-4\\log{(n)}$",
+        "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+        "stats": {
+          "count": 1169
+        },
+        "resources": []
+      },
+      {
+        "id": "1fc23367-84f9-4f97-92d4-be859a9ce0d3",
+        "index": 4,
+        "body": "$T(n)=\\frac{1}{32}n^2\\log^2{(n)}-\\frac{1}{16}\\log{(n)}+\\frac{1}{32}n^2$",
+        "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "114667533",
+    "timeSpentVideo": "0",
+    "submissions": 1442,
+    "submissionsCorrect": 1169,
+    "accuracy": 0.8106796116504854,
+    "difficulty": 0.45946822308690016
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "f165191f-8347-4d7c-8dc2-3597ad3e15ad",
+    "body": null,
+    "questionId": "7a5a7a8c-6d60-4433-bc7c-a9da14e6392e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2f5d3645-3c0c-4d1d-804d-7ca0f169f119",
+      "name": "Runtime Expressions",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4663812596",
+        "timeSpentVideo": "79163376",
+        "submissions": 13127,
+        "submissionsCorrect": 10631,
+        "questions": 14,
+        "accuracy": 0.8098575455168736,
+        "difficulty": 0.4424850684206547
+      }
+    }
+  ],
+  "children": []
+}

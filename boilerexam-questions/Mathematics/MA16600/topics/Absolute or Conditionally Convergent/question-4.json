@@ -1,0 +1,158 @@
+{
+  "id": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine whether the following series are absolutely convergent, conditionally convergent, or divergent.\n\n$\\textrm{I.} \\sum_{k=1} ^ \\infty \\frac{\\cos(k\\pi)}{k^{3/2}}$\n\n$\\textrm{II.} \\sum_{k=1} ^ \\infty \\frac{(-1)^k}{3k}$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ee1e39be-f809-4c2a-a9b8-691be6415043",
+        "index": 0,
+        "body": "I and II are conditionally convergent. ",
+        "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "8c854a4f-59f9-4150-b706-dba2d860026d",
+        "index": 1,
+        "body": "I is absolutely convergent, II is conditionally convergent. ",
+        "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+        "stats": {
+          "count": 367
+        },
+        "resources": []
+      },
+      {
+        "id": "907568fb-fcd4-4d3c-afeb-58d33ec9dfa0",
+        "index": 2,
+        "body": "II is conditionally convergent, I is divergent.",
+        "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "aefd2bd8-b967-46df-b600-4b8ac7001c2b",
+        "index": 3,
+        "body": "I and II are divergent. ",
+        "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "84e00cf2-d4a8-43bb-8165-0835cd684f75",
+        "index": 4,
+        "body": "I and II are absolutely convergent. ",
+        "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "109483218",
+    "timeSpentVideo": "20422858",
+    "submissions": 597,
+    "submissionsCorrect": 367,
+    "accuracy": 0.6147403685092128,
+    "difficulty": 0.6517216642754663
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "6e8f08ca-6767-48f1-b459-16484978287b",
+    "body": null,
+    "questionId": "e46f5c56-818a-4fa3-8d56-db075f82610e",
+    "resources": [
+      {
+        "id": "979a03b1-24bf-43cf-aaf5-d3f44aa30293",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=e0Xrn5HX10Ozn1zn&t=1354"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6e8f08ca-6767-48f1-b459-16484978287b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26e7a4c3-53ce-49ab-a5c5-020c29c0e55f",
+      "name": "Absolute or Conditionally Convergent",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "793567327",
+        "timeSpentVideo": "57218369",
+        "submissions": 1671,
+        "submissionsCorrect": 991,
+        "questions": 3,
+        "accuracy": 0.5930580490724118,
+        "difficulty": 0.6621964991530209
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2291171731",
+        "timeSpentVideo": "147444592",
+        "submissions": 4069,
+        "submissionsCorrect": 2330,
+        "questions": 7,
+        "accuracy": 0.5726222659130007,
+        "difficulty": 0.6791196929719358
+      }
+    }
+  ],
+  "children": []
+}

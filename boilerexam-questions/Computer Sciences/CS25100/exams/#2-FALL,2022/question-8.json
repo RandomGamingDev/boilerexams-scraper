@@ -1,0 +1,150 @@
+{
+  "id": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Show the steps to transform the array below into a max-heap using the Bottom-Up approach.\n\nWhat does the heap look like following your steps?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c05ce766-157a-4e09-bd9f-b11236738fe0",
+        "index": 0,
+        "body": "\\verb|[10, 8, 9, 5, 4, 7, 6, 3]|",
+        "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+        "stats": {
+          "count": 1027
+        },
+        "resources": []
+      },
+      {
+        "id": "cd2f1d1b-d25c-473d-a043-82dc6dfaa54f",
+        "index": 1,
+        "body": "\\verb|[10, 9, 7, 8, 4, 5, 6, 3]|",
+        "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+        "stats": {
+          "count": 204
+        },
+        "resources": []
+      },
+      {
+        "id": "312c21ce-9816-4fd2-9dcd-f9c6ac7bb192",
+        "index": 2,
+        "body": "\\verb|[10, 9, 8, 7, 6, 5, 4, 3]|",
+        "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "0b4ad925-fd1a-4a21-98fe-07c255800724",
+        "index": 3,
+        "body": "\\verb|[3, 4, 5, 7, 8, 9, 6, 10]|",
+        "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "362077811",
+    "timeSpentVideo": "59105056",
+    "submissions": 1641,
+    "submissionsCorrect": 1027,
+    "accuracy": 0.6258379037172456,
+    "difficulty": 0.6313900057438254
+  },
+  "resources": [
+    {
+      "id": "a6445dd2-670d-411e-b359-9afa2212a770",
+      "type": "IMAGE",
+      "data": {
+        "key": "6L2b5qO3WNb_by42YQ7z3",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/6L2b5qO3WNb_by42YQ7z3",
+        "altText": "coolimage"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1946630963",
+      "timeSpentVideo": "322126112",
+      "submissions": 12485,
+      "submissionsCorrect": 8220,
+      "questions": 8,
+      "accuracy": 0.6583900680816981,
+      "difficulty": 0.5928684942391736
+    }
+  },
+  "explanation": {
+    "id": "eaf5adf4-7e37-4a42-b21a-dfecb4a5bceb",
+    "body": "",
+    "questionId": "42d89c2c-71ca-4e57-bac0-a24ff5298219",
+    "resources": [
+      {
+        "id": "3c24ee28-6908-4b9b-8646-ecff0be3a778",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aMC7yAJuKrg?t=1792"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eaf5adf4-7e37-4a42-b21a-dfecb4a5bceb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d249b138-0988-4240-9ecc-e5c92da2404e",
+      "name": "Heaps",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3695583741",
+        "timeSpentVideo": "126176007",
+        "submissions": 7624,
+        "submissionsCorrect": 4702,
+        "questions": 6,
+        "accuracy": 0.6167366211962224,
+        "difficulty": 0.634774728120145
+      }
+    }
+  ],
+  "children": []
+}

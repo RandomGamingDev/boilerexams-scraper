@@ -1,0 +1,158 @@
+{
+  "id": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be a $4 \\times 4$ matrix. Which of the following statements is always TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "8f0bd76a-6566-42f5-aa17-16dda173c2c9",
+        "index": 0,
+        "body": "The reduced echelon form of $A$ has at least $1$ pivot.",
+        "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+        "stats": {
+          "count": 385
+        },
+        "resources": []
+      },
+      {
+        "id": "9e39bbd5-f17c-419a-b197-62c0cfe55a19",
+        "index": 1,
+        "body": "If $A^{2}=0$ then the system $A \\mathbf{x}=0$ has only the trivial solution.",
+        "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "ee04168d-4bcc-4204-acbc-9f91949c6358",
+        "index": 2,
+        "body": "If $A^{2}=A$ then the reduced echelon form of $A$ is $I_{4}$.",
+        "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+        "stats": {
+          "count": 717
+        },
+        "resources": []
+      },
+      {
+        "id": "96e12af6-555c-4e5e-87cb-f3d6f039f146",
+        "index": 3,
+        "body": "If $A^{2}=I_{4}$ then the reduced echelon form of $A$ is $I_{4}$.",
+        "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+        "stats": {
+          "count": 1926
+        },
+        "resources": []
+      },
+      {
+        "id": "5fe80dad-10c8-4085-a407-66dc2be89ee0",
+        "index": 4,
+        "body": "$A$ is diagonalizable over the complex numbers.",
+        "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "629020502",
+    "timeSpentVideo": "258366965",
+    "submissions": 3927,
+    "submissionsCorrect": 1926,
+    "accuracy": 0.4904507257448434,
+    "difficulty": 0.759312143034517
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "53c10dd1-7fac-40e1-9d5b-7220fe0e8ee3",
+    "body": "",
+    "questionId": "16bdf655-4fb6-4639-ae5e-47d25ab669ad",
+    "resources": [
+      {
+        "id": "4d4abae7-a609-4ffa-b6d4-c77966f73d32",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=7\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "53c10dd1-7fac-40e1-9d5b-7220fe0e8ee3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

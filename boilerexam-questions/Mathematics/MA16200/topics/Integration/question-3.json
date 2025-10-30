@@ -1,0 +1,158 @@
+{
+  "id": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the value of A if \\[\n\\int_{1}^{e^4} x \\ln(x) \\,dx = A - \\int_{1}^{e^4} \\frac{x}{2} \\,dx\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "f5e6e2f4-9e3d-4322-8734-821b8b635c97",
+        "index": 0,
+        "body": "$\\frac{e^8}{2}$",
+        "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+        "stats": {
+          "count": 141
+        },
+        "resources": []
+      },
+      {
+        "id": "5a57be7b-3664-49ea-a76f-cbf56779477a",
+        "index": 1,
+        "body": "$\\frac{e^8}{4}$",
+        "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "e0bbf39e-a7de-4935-bd4b-b93871580b2b",
+        "index": 2,
+        "body": "$2e^8$",
+        "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+        "stats": {
+          "count": 1201
+        },
+        "resources": []
+      },
+      {
+        "id": "77aeb679-ea0e-47cc-876f-ce0e998db031",
+        "index": 3,
+        "body": "$e^8$",
+        "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "ff962238-f24b-4ea3-8c67-8a1c0fa210fc",
+        "index": 4,
+        "body": "$4e^8$",
+        "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "342082643",
+    "timeSpentVideo": "30622435",
+    "submissions": 1754,
+    "submissionsCorrect": 1201,
+    "accuracy": 0.6847206385404789,
+    "difficulty": 0.5752427184466019
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "8424d218-17c0-4dc7-8130-b7aa9dd0f225",
+    "body": "",
+    "questionId": "bf150d40-b58d-453c-b1ff-c706dcdddf8e",
+    "resources": [
+      {
+        "id": "842f9308-9007-4506-b6fa-0fc5fb53c77e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=504s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8424d218-17c0-4dc7-8130-b7aa9dd0f225",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

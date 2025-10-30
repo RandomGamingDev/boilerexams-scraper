@@ -1,0 +1,127 @@
+{
+  "id": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The integral\n\n\\[\n\\int_{0}^{\\sqrt{2}} \\int_{-\\sqrt{2-x^{2}}}^{\\sqrt{2-x^{2}}} \\int_{\\sqrt{3 x^{2}+3 y^{2}}}^{\\sqrt{8-x^{2}-y^{2}}} x y^{2} z \\mathrm{~d} z \\mathrm{~d} y \\mathrm{~d} x\n\\]\n\nwhen converted to cylindrical coordinates becomes",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "883d5b90-40e0-405f-a177-b8b18eabf756",
+        "index": 0,
+        "body": "$\\int_{-\\pi / 2}^{\\pi / 2} \\int_{0}^{2} \\int_{\\sqrt{3} r}^{\\sqrt{8-r^{2}}} r^{4} z \\cos \\theta \\sin ^{2} \\theta \\mathrm{d} z \\mathrm{~d} r \\mathrm{~d} \\theta$",
+        "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+        "stats": {
+          "count": 170
+        },
+        "resources": []
+      },
+      {
+        "id": "2f434958-2311-46b3-8847-a4ce233bba50",
+        "index": 1,
+        "body": "$\\int_{-\\pi / 2}^{\\pi / 2} \\int_{0}^{\\sqrt{2}} \\int_{\\sqrt{3} r}^{\\sqrt{8-r^{2}}} r^{3} z \\cos \\theta \\sin ^{2} \\theta \\mathrm{d} z \\mathrm{~d} r \\mathrm{~d} \\theta$",
+        "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "ff761ace-f214-4753-b637-7a763b54fa0c",
+        "index": 2,
+        "body": "$\\int_{-\\pi / 2}^{\\pi / 2} \\int_{0}^{\\sqrt{2}} \\int_{\\sqrt{3} r}^{\\sqrt{8-r^{2}}} r^{4} z \\cos \\theta \\sin ^{2} \\theta \\mathrm{d} z \\mathrm{~d} r \\mathrm{~d} \\theta$",
+        "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+        "stats": {
+          "count": 1850
+        },
+        "resources": []
+      },
+      {
+        "id": "ad29a233-afd3-4bf5-8a7a-ff058d374e60",
+        "index": 3,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{\\sqrt{2}} \\int_{\\sqrt{3} r}^{\\sqrt{8-r^{2}}} r^{4} z \\cos \\theta \\sin ^{2} \\theta \\mathrm{d} z \\mathrm{~d} r \\mathrm{~d} \\theta$",
+        "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+        "stats": {
+          "count": 322
+        },
+        "resources": []
+      },
+      {
+        "id": "d28dbf6c-a100-4a60-a919-939a9ccf4b0d",
+        "index": 4,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{2} \\int_{\\sqrt{3} r}^{\\sqrt{8-r^{2}}} r^{4} z \\cos \\theta \\sin ^{2} \\theta \\mathrm{d} z \\mathrm{~d} r \\mathrm{~d} \\theta$",
+        "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "381988011",
+    "timeSpentVideo": "124541733",
+    "submissions": 2722,
+    "submissionsCorrect": 1850,
+    "accuracy": 0.6796473181484203,
+    "difficulty": 0.5767186392629341
+  },
+  "resources": [],
+  "exam": {
+    "id": "f7725b0e-1130-438a-b31d-e768fc9f7c96",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11087296287",
+      "timeSpentVideo": "3285469005",
+      "submissions": 57424,
+      "submissionsCorrect": 31424,
+      "questions": 20,
+      "accuracy": 0.5472276400111452,
+      "difficulty": 0.7028544607468187
+    }
+  },
+  "explanation": {
+    "id": "fa58970b-233a-4f30-a593-0136f6a25431",
+    "body": "",
+    "questionId": "3dfd51e9-8969-4862-bba5-a56cf16bf05a",
+    "resources": [
+      {
+        "id": "b736e216-15b5-4a69-a3e3-021f9560f0d7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YYp45Q6cmLo?si=CLjdFHSi1-qULrSM&t=2212\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fa58970b-233a-4f30-a593-0136f6a25431",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

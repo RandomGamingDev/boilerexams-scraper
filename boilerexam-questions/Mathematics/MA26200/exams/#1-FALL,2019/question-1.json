@@ -1,0 +1,143 @@
+{
+  "id": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem $\\frac{d y}{d x}=\\frac{2 x(y-1)}{x^{2}+3}, \\quad y(1)=9$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "a8c907bf-4ead-4240-8248-d2e9d7d69476",
+        "index": 0,
+        "body": "$y=2 x+7$",
+        "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "321e288a-9853-4500-a6fe-bbac343e30c0",
+        "index": 1,
+        "body": "$y=2 x^{2}+7$",
+        "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+        "stats": {
+          "count": 560
+        },
+        "resources": []
+      },
+      {
+        "id": "8f85181d-ee31-4b80-b6c1-49463a3a7833",
+        "index": 2,
+        "body": "$y=x^{2}+8$",
+        "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+        "stats": {
+          "count": 111
+        },
+        "resources": []
+      },
+      {
+        "id": "74982062-66aa-4c72-a924-5c55a5334a6a",
+        "index": 3,
+        "body": "$y=-x^{2}+10$",
+        "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "e6f15541-6f18-4492-9689-fa8635590931",
+        "index": 4,
+        "body": "$y=-2 x^{2}+11$",
+        "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "37a9b809-1ed0-4027-940c-334b3253b165",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "223240159",
+    "timeSpentVideo": "34546269",
+    "submissions": 855,
+    "submissionsCorrect": 560,
+    "accuracy": 0.6549707602339181,
+    "difficulty": 0.6112565445026178
+  },
+  "resources": [],
+  "exam": {
+    "id": "37a9b809-1ed0-4027-940c-334b3253b165",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2217727037",
+      "timeSpentVideo": "358505559",
+      "submissions": 8725,
+      "submissionsCorrect": 4631,
+      "questions": 11,
+      "accuracy": 0.5307736389684814,
+      "difficulty": 0.7195750708215297
+    }
+  },
+  "explanation": {
+    "id": "b28b14e9-b54e-402e-bfad-b5e5481729dd",
+    "body": "",
+    "questionId": "9a84d7ba-7855-4ded-a823-c6c377b9fb1a",
+    "resources": [
+      {
+        "id": "7f07c16f-34ef-4b84-b91f-7b92300307ea",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/RcpPdDbJQtQ?si=HMrc8Jee-lb_RCZs&t=9\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b28b14e9-b54e-402e-bfad-b5e5481729dd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "278176f9-7b3a-45a2-a36a-5f61982afec7",
+      "name": "Separable ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4032162233",
+        "timeSpentVideo": "137485658",
+        "submissions": 6995,
+        "submissionsCorrect": 4862,
+        "questions": 8,
+        "accuracy": 0.6950679056468906,
+        "difficulty": 0.5576814658210008
+      }
+    }
+  ],
+  "children": []
+}

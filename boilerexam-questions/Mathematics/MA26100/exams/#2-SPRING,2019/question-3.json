@@ -1,0 +1,143 @@
+{
+  "id": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate\n\n\\[\n\\int_{0}^{\\frac{1}{\\sqrt{2}}} \\int_{x}^{\\sqrt{1-x^{2}}} 3 \\sqrt{x^{2}+y^{2}} d y d x\n\\]\n\nusing polar coordinates.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e811b46c-6b50-4bb7-80f5-85428ed8e123",
+        "index": 0,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+        "stats": {
+          "count": 280
+        },
+        "resources": []
+      },
+      {
+        "id": "91e1d62a-a0f7-4ea6-9f26-b240e7633919",
+        "index": 1,
+        "body": "$\\frac{\\pi}{3}$",
+        "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "8390ac65-7e51-4c52-9e00-80b8b53fd577",
+        "index": 2,
+        "body": "$\\frac{\\pi}{6}$",
+        "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "c0e4f509-3b7b-447b-ba71-d3d9cf2243bd",
+        "index": 3,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+        "stats": {
+          "count": 3047
+        },
+        "resources": []
+      },
+      {
+        "id": "68466c97-fa69-41df-a849-2399fc90d8c6",
+        "index": 4,
+        "body": "$\\frac{\\pi}{12}$",
+        "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "933118247",
+    "timeSpentVideo": "242478038",
+    "submissions": 4763,
+    "submissionsCorrect": 3047,
+    "accuracy": 0.6397228637413395,
+    "difficulty": 0.6131503187332922
+  },
+  "resources": [],
+  "exam": {
+    "id": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10604032967",
+      "timeSpentVideo": "2972029862",
+      "submissions": 47734,
+      "submissionsCorrect": 27532,
+      "questions": 10,
+      "accuracy": 0.576779653915448,
+      "difficulty": 0.6733808588033616
+    }
+  },
+  "explanation": {
+    "id": "2559d2dc-6388-4d43-84c8-c3ad1b8a9709",
+    "body": "",
+    "questionId": "b1ffba16-3c38-4b4c-bb66-b9537d44c301",
+    "resources": [
+      {
+        "id": "6fb8e948-b3da-4f39-a7bd-155677b5365b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/xQFS-kwpzfo?t=496"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2559d2dc-6388-4d43-84c8-c3ad1b8a9709",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

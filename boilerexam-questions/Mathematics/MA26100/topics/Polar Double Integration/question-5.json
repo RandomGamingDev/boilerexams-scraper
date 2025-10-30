@@ -1,0 +1,158 @@
+{
+  "id": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\displaystyle \\iint_{D} y d A$ where $D$ is inside the disk $x^{2}+y^{2}=2 x$ and above the $x$-axis.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7f9e9e0b-c73e-481e-b1b0-75b9343e9a72",
+        "index": 0,
+        "body": "$\\pi$",
+        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "799a81d1-1887-49d2-abd5-dbad9fd2ccd7",
+        "index": 1,
+        "body": "$\\frac{2}{3}$",
+        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "stats": {
+          "count": 1629
+        },
+        "resources": []
+      },
+      {
+        "id": "ac1accd7-d33c-4b7b-964d-2ce739f7ae6a",
+        "index": 2,
+        "body": "$\\frac{2 \\pi}{5}$",
+        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "b74501b9-9924-4137-a7e1-2a53aae6bf2d",
+        "index": 3,
+        "body": "$\\frac{8}{3}$",
+        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "stats": {
+          "count": 229
+        },
+        "resources": []
+      },
+      {
+        "id": "da987bc2-44bd-43ad-92f3-c9f6f0698cf7",
+        "index": 4,
+        "body": "$\\frac{\\pi}{8}$",
+        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "942803834",
+    "timeSpentVideo": "151721860",
+    "submissions": 3591,
+    "submissionsCorrect": 1629,
+    "accuracy": 0.45363408521303256,
+    "difficulty": 0.7951097263614197
+  },
+  "resources": [],
+  "exam": {
+    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "number": 2,
+    "year": 2016,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": false,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4604005568",
+      "timeSpentVideo": "918117591",
+      "submissions": 21930,
+      "submissionsCorrect": 11494,
+      "questions": 12,
+      "accuracy": 0.5241222070223438,
+      "difficulty": 0.7259872900590104
+    }
+  },
+  "explanation": {
+    "id": "312a4457-7d40-4060-8fb9-70116299441c",
+    "body": "",
+    "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+    "resources": [
+      {
+        "id": "4050e6b2-f853-4910-b829-86a0fcbd6be0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=494"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "312a4457-7d40-4060-8fb9-70116299441c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    },
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

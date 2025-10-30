@@ -1,0 +1,143 @@
+{
+  "id": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \n\n\\[y(t)=u_{1}(t)(t-2)^2-u_{3}(t)((t-3)^3-2)-u_{5}(t)e^t\\]\n\nWhat is the value of $y(4)?$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "31b868e9-0dc6-4807-88ed-eaf388394f47",
+        "index": 0,
+        "body": "$-2-e^{4}$",
+        "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "f5b7ede2-8437-4faa-bb06-e38b9e7c3e28",
+        "index": 1,
+        "body": "$5$",
+        "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+        "stats": {
+          "count": 696
+        },
+        "resources": []
+      },
+      {
+        "id": "93abd3c4-c00b-42ee-a782-b8fd6b87108d",
+        "index": 2,
+        "body": "$32$",
+        "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "c32e2187-db73-4c72-8c53-24a418608cea",
+        "index": 3,
+        "body": "$4$",
+        "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "769701d5-1658-4a0a-9384-0534d5811d48",
+        "index": 4,
+        "body": "$-e^{5}$",
+        "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "211624184",
+    "timeSpentVideo": "55545395",
+    "submissions": 1338,
+    "submissionsCorrect": 696,
+    "accuracy": 0.5201793721973094,
+    "difficulty": 0.7312239221140473
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "59b6dbd2-dba6-499b-a033-017861c08383",
+    "body": "",
+    "questionId": "2f3d4ac5-0ea6-4874-a493-3b49ec6925f6",
+    "resources": [
+      {
+        "id": "b463a957-de84-4088-aeff-8b057e7a7a8d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=aseKCCCZ1eNkf5Go&t=1699"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "59b6dbd2-dba6-499b-a033-017861c08383",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7798e629-ac00-4d90-9ae3-a02d2ce7b2ba",
+      "name": "Unit Step functions",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1354538017",
+        "timeSpentVideo": "63200239",
+        "submissions": 1902,
+        "submissionsCorrect": 1086,
+        "questions": 2,
+        "accuracy": 0.5709779179810726,
+        "difficulty": 0.6825674325674326
+      }
+    }
+  ],
+  "children": []
+}

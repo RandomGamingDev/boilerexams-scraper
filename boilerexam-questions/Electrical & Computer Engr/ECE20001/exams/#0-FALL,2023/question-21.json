@@ -1,0 +1,170 @@
+{
+  "id": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The following three parts concern the n-type MOSFET used in the circuit below. The MOSFET threshold voltage is \\(V_T\\) = 0.5 V and the transconductance parameter is k = 2 x \\(10^{-3}\\) A/\\(V^2\\). \n\n(a) Find the drain current \\(I_D\\).\n(b) Find the drain voltage \\(V_D\\)\n(c) Is the transistor operating in the triode or saturation mode? Verify your answer.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c45cb2d2-8e01-4a34-b243-2380a43f6ace",
+        "index": 0,
+        "body": "\\(V_D\\) = 5.5 V, \\(I_D\\) = 4.5 mA, Triode Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "ffa71ec1-36e0-4f77-b69c-3dd0891f8a99",
+        "index": 1,
+        "body": "\\(V_D\\) = 8.5 V, \\(I_D\\) = 1.5 mA, Saturation Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "600ac3a6-ed6e-46dc-98e3-eb86b4232e21",
+        "index": 2,
+        "body": "\\(V_D\\) = 3.9 V, \\(I_D\\) = 6.1 mA, Triode Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "8c64cea9-1c99-4e77-9ac2-5af961d9ba4a",
+        "index": 3,
+        "body": "\\(V_D\\) = 7.8 V, \\(I_D\\) = 2.2 mA, Saturation Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "5ac6e27b-e949-43b4-b3a9-9b55d1309f93",
+        "index": 4,
+        "body": "\\(V_D\\) = 7.75 V, \\(I_D\\) = 2.25 mA, Saturation Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 199
+        },
+        "resources": []
+      },
+      {
+        "id": "0edff032-0116-4d22-8616-3ca5ae117a25",
+        "index": 5,
+        "body": "\\(V_D\\) = 10 V, \\(I_D\\) = 1.5 mA, Triode Mode",
+        "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "4405d079-e632-465f-8dbc-06059a1f55cf",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "128463927",
+    "timeSpentVideo": "40980549",
+    "submissions": 471,
+    "submissionsCorrect": 199,
+    "accuracy": 0.42250530785562634,
+    "difficulty": 0.813922942206655
+  },
+  "resources": [
+    {
+      "id": "3c713768-aaa5-4382-8463-ad317962d7eb",
+      "type": "IMAGE",
+      "data": {
+        "key": "ANe3e6yUGGPSPNJgsvxlB",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/ANe3e6yUGGPSPNJgsvxlB",
+        "altText": "A MOSFET circuit"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "4405d079-e632-465f-8dbc-06059a1f55cf",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2949930495",
+      "timeSpentVideo": "869333877",
+      "submissions": 14560,
+      "submissionsCorrect": 7658,
+      "questions": 21,
+      "accuracy": 0.5259615384615385,
+      "difficulty": 0.7242155525238745
+    }
+  },
+  "explanation": {
+    "id": "5e8a772a-eecf-4ed5-9990-a13c797d79e8",
+    "body": "",
+    "questionId": "c081184f-5ae6-4956-adf7-9ba9f6621203",
+    "resources": [
+      {
+        "id": "30217c98-0640-4cd2-abce-b713e2a18651",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_ogLTc8yFtQ?si=M3iaqpo7Itn2YfPe&t=6450"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5e8a772a-eecf-4ed5-9990-a13c797d79e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5eb9c0a4-dd57-4b9d-960e-e7aabef2deaa",
+      "name": "Transistor",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2214365112",
+        "timeSpentVideo": "221531286",
+        "submissions": 4393,
+        "submissionsCorrect": 2467,
+        "questions": 9,
+        "accuracy": 0.5615752333257455,
+        "difficulty": 0.6897952370353884
+      }
+    }
+  ],
+  "children": []
+}

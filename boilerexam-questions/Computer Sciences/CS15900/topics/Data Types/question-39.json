@@ -1,0 +1,134 @@
+{
+  "id": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following expressions SHOULD NOT be inserted in place of the comment on line #19 to correctly complete the conversion logic?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "29b83fc3-7757-4115-8941-e11ce1141fc9",
+        "index": 0,
+        "body": "\\texttt{9 / 5 * temp1 + 32}",
+        "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+        "stats": {
+          "count": 1434
+        },
+        "resources": []
+      },
+      {
+        "id": "c5b02010-3e89-410d-aa4b-18cd6f08dab5",
+        "index": 1,
+        "body": "\\texttt{9.0 / 5.0 * temp1 + 32}",
+        "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+        "stats": {
+          "count": 723
+        },
+        "resources": []
+      },
+      {
+        "id": "82b21c6f-7ad6-412e-81e1-146ac38fa5fe",
+        "index": 2,
+        "body": "\\texttt{temp1 * 9 / 5 + 32}",
+        "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "62d63ca5-e306-430b-b0cd-50b2c0027fa2",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 39,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "369357141",
+    "timeSpentVideo": "0",
+    "submissions": 2706,
+    "submissionsCorrect": 1434,
+    "accuracy": 0.5299334811529933,
+    "difficulty": 0.7211332858161084
+  },
+  "resources": [
+    {
+      "id": "dedc3dcb-5ded-4632-a26d-f53a2b71f3b0",
+      "type": "CODE",
+      "data": {
+        "content": "// NOTE: this code will throw warnings\n// due to unfilled part for question 39\n#include <stdio.h>\n\nint main()\n{\n  int select;\n  char unit1 = 'F';\n  char unit2;\n  double temp1 = 77;\n  double temp2;\n\n  select = unit1 / 'F';\n  \n  unit2 = select * 'C';\n  unit2 += (1 - select) * 'F';\n  \n  temp2 = (select) * ((double) (5 / 9) * (temp1 - 32)); // Question #41\n  temp2 += (1 - select) * ((/* Question #39 */);\n\n  printf(\"=-=-=-=-=-=-=-=-=-=-=-=\\n\");\n  printf(\"Temperature #2: %5.2lf %c\\n\", temp2, unit2);\t// Question #40\n  printf(\"=-=-=-=-=-=-=-=-=-=-=-=\\n\");\n\n  return (0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "21fbe6d5-1b13-40f0-9a9d-e2dcbe05982a",
+    "body": "",
+    "questionId": "18c44240-d7a6-4e6a-86a1-bd14e7c1f83e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "f4e039b9-36b0-4560-9532-922f611443c4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the system of linear equations\n\n\n\\[\n\\begin{aligned}\nx-y+z & =2 \\\\\nx+4 y+2 z & =2 \\\\\n2 x+3 y+\\left(a^{2}-1\\right) z & =a+2 .\n\\end{aligned}\n\\]\n\nWhich of the following statements is true?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "df949e5a-1633-48f1-aa6d-c61e7fc4a296",
+        "index": 0,
+        "body": "If $a=-2$ then the system is consistent.",
+        "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "900e1c87-4c7d-424c-bbca-b84d59533273",
+        "index": 1,
+        "body": "If $a=3$ then the system is inconsistent.",
+        "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "a89894e0-c7ae-42cd-93ed-2c91af7dfc9c",
+        "index": 2,
+        "body": "If $a=1$ then the system has infinitely many solutions.",
+        "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "b7906b1f-1ee0-4eb2-8427-4ce7ff367eb9",
+        "index": 3,
+        "body": "If $a=-1$ then the system has at least two distinct solutions.",
+        "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "89430faf-fd88-4b15-9b99-3e572f7635e1",
+        "index": 4,
+        "body": "If $a=2$ then the system has infinitely many solutions.",
+        "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+        "stats": {
+          "count": 572
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "229174616",
+    "timeSpentVideo": "28244363",
+    "submissions": 886,
+    "submissionsCorrect": 572,
+    "accuracy": 0.6455981941309256,
+    "difficulty": 0.6191683569979716
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "6e164cb6-dfd3-462d-8cb1-02c2b26385fa",
+    "body": "",
+    "questionId": "f4e039b9-36b0-4560-9532-922f611443c4",
+    "resources": [
+      {
+        "id": "8bef21fb-b610-4a2d-a10a-b3901856ef5e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=nt-6347PDBP80RgV&t=998\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6e164cb6-dfd3-462d-8cb1-02c2b26385fa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "31c808ef-5962-4e8d-b13a-bb827f9c3772",
+      "name": "Systems (Matrices)",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2552320145",
+        "timeSpentVideo": "209522992",
+        "submissions": 5768,
+        "submissionsCorrect": 3487,
+        "questions": 10,
+        "accuracy": 0.6045423023578363,
+        "difficulty": 0.647239263803681
+      }
+    }
+  ],
+  "children": []
+}

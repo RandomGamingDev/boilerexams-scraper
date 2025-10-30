@@ -1,0 +1,143 @@
+{
+  "id": "44ac859f-7852-4486-91fc-593b58941e93",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all values of $p$ for which the integral $\\int_{1}^{\\infty} \\frac{d x}{x^{p+1}}$ converges.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "856ad9d9-bf20-4296-b856-2ccd0257947b",
+        "index": 0,
+        "body": "$p<-1$",
+        "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+        "stats": {
+          "count": 255
+        },
+        "resources": []
+      },
+      {
+        "id": "5de53d58-0fda-4d4e-a8e3-ed9dda9a284d",
+        "index": 1,
+        "body": "$p<0$",
+        "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+        "stats": {
+          "count": 282
+        },
+        "resources": []
+      },
+      {
+        "id": "190d0892-8e5e-4002-bf26-a571c582d1d8",
+        "index": 2,
+        "body": "$p>0$",
+        "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+        "stats": {
+          "count": 2572
+        },
+        "resources": []
+      },
+      {
+        "id": "f9af50ad-6f57-4a89-841c-861a7f71bbfc",
+        "index": 3,
+        "body": "$p>1$",
+        "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+        "stats": {
+          "count": 581
+        },
+        "resources": []
+      },
+      {
+        "id": "bacc03c0-fcab-41ab-9014-de1e4f236a5d",
+        "index": 4,
+        "body": "Diverges for all $p$",
+        "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+        "stats": {
+          "count": 141
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "304047119",
+    "timeSpentVideo": "60811082",
+    "submissions": 4005,
+    "submissionsCorrect": 2572,
+    "accuracy": 0.6421972534332084,
+    "difficulty": 0.6112667478684531
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "92a012bf-2513-4053-a157-e11e7d4f93d4",
+    "body": "",
+    "questionId": "44ac859f-7852-4486-91fc-593b58941e93",
+    "resources": [
+      {
+        "id": "30457526-7cd5-4a6a-91a6-4e79b6a28c86",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=1969\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "92a012bf-2513-4053-a157-e11e7d4f93d4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    }
+  ],
+  "children": []
+}

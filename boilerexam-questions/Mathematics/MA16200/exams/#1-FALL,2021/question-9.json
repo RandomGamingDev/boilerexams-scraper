@@ -1,0 +1,153 @@
+{
+  "id": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a function whose arc length on the interval $[a, b]$ is given by the following integral:\n\n\\[\n\\int_{a}^{b} \\sqrt{9 x^{4}+6 x^{2}+2} d x\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "bf449c26-a4c4-4954-b0e1-97c0ca9267cb",
+        "index": 0,
+        "body": "$y=9 x^{4}+6 x^{2}+1$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "ba599ad5-c19c-4ca5-88f2-dbe57d835b82",
+        "index": 1,
+        "body": "$y=3 x^{2}+1$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 363
+        },
+        "resources": []
+      },
+      {
+        "id": "e860b066-b27e-45af-8a54-8c55a2715458",
+        "index": 2,
+        "body": "$y=6 x+1$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "5d836423-7389-4dda-b4c4-a844f89ee4b4",
+        "index": 3,
+        "body": "$y=\\frac{9}{5} x^{5}+2 x^{3}+x$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 559
+        },
+        "resources": []
+      },
+      {
+        "id": "0702924c-3d44-4288-8b65-d8e823186687",
+        "index": 4,
+        "body": "$y=x^{3}+x$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 2162
+        },
+        "resources": []
+      },
+      {
+        "id": "43e2f6d1-f707-4fb2-a22f-646c33bf75e9",
+        "index": 5,
+        "body": "$y=3 x^{2}+\\sqrt{6} x+1$",
+        "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "fd7fa488-b09e-424a-8d14-666f46174e55",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "671497121",
+    "timeSpentVideo": "62644356",
+    "submissions": 3895,
+    "submissionsCorrect": 2162,
+    "accuracy": 0.5550706033376124,
+    "difficulty": 0.6963078848560701
+  },
+  "resources": [],
+  "exam": {
+    "id": "fd7fa488-b09e-424a-8d14-666f46174e55",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7484783483",
+      "timeSpentVideo": "775932840",
+      "submissions": 38477,
+      "submissionsCorrect": 23785,
+      "questions": 12,
+      "accuracy": 0.618161499077371,
+      "difficulty": 0.632144801306478
+    }
+  },
+  "explanation": {
+    "id": "be409d43-7dbb-4a39-833b-c4b5169e9929",
+    "body": "",
+    "questionId": "12027c89-1ff5-4226-ab90-d94e44ca98cf",
+    "resources": [
+      {
+        "id": "dfae9ede-b656-4b2e-8349-a3bffd78ed6a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/raWrDy_ILgY?t=987 "
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "be409d43-7dbb-4a39-833b-c4b5169e9929",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a73d585a-5c9f-43ad-b5fd-3789a6c57ffb",
+      "name": "Length of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3229460147",
+        "timeSpentVideo": "167552642",
+        "submissions": 8852,
+        "submissionsCorrect": 5162,
+        "questions": 3,
+        "accuracy": 0.5831450519656575,
+        "difficulty": 0.6677837354781054
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "acb73526-7f25-4027-9998-59c73a3d3a22",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let G be the graph represented by the edge list below. G is directed and unweighted. Each tuple (u, v)\nrepresents the edge between vertices u and v.\n\n{(2, 3),(3, 1),(4, 0),(4, 1),(5, 2),(5, 0)}\n\nShow all the topological sorts for G.",
+    "solution": "13 Total Topological Orderings\n5,4,2,3,1,0\n5,4,2,3,0,1\n5,4,2,0,3,1\n5,4,0,2,3,1\n5,2,4,3,1,0\n5,2,4,3,0,1\n5,2,4,0,3,1\n5,2,3,4,1,0\n5,2,3,4,0,1\n4,5,2,3,1,0\n4,5,2,3,0,1\n4,5,2,0,3,1\n4,5,0,2,3,1",
+    "answerChoices": []
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "147019557",
+    "timeSpentVideo": "27150372",
+    "submissions": 481,
+    "submissionsCorrect": 357,
+    "accuracy": 0.7422037422037422,
+    "difficulty": 0.5494836488812392
+  },
+  "resources": [],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "6b054fb6-ee08-4d7f-bd9b-65ea43a31d24",
+    "body": null,
+    "questionId": "acb73526-7f25-4027-9998-59c73a3d3a22",
+    "resources": [
+      {
+        "id": "cab6bf50-3c0d-4843-920d-9f1a08538e64",
+        "type": "IMAGE",
+        "data": {
+          "key": "Sdbf3uaDQUUaFsAofUKwB",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Sdbf3uaDQUUaFsAofUKwB"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6b054fb6-ee08-4d7f-bd9b-65ea43a31d24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "b5457b5f-b3e2-4035-9095-2a1168820e6a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4xCSOJgJ9V4?t=4631"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6b054fb6-ee08-4d7f-bd9b-65ea43a31d24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "e0c3dc03-93b0-4597-8221-226363388d83",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The mapping $T: \\mathbb{P}_{2} \\rightarrow \\mathbb{P}_{2}$ defined by $T\\left(a_{0}+a_{1} t+a_{2} t^{2}\\right)=a_{1}+2 a_{2} t$ is a linear transformation. Find $[T]_{\\mathcal{B}}$, the $\\mathcal{B}$-matrix for $T$ when $\\mathcal{B}$ is the basis $\\left\\{1, t, t^{2}\\right\\}$ for $\\mathbb{P}_{2}$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "07c76559-f58e-48b5-a593-839f73d5c494",
+        "index": 0,
+        "body": "$[T]_{\\mathcal{B}}=\\left[\\begin{array}{lll}0 & 2 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0\\end{array}\\right]$",
+        "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "c6116bca-2b9f-4efd-baa4-52714393252d",
+        "index": 1,
+        "body": "$[T]_{\\mathcal{B}}=\\left[\\begin{array}{lll}0 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 2\\end{array}\\right]$",
+        "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+        "stats": {
+          "count": 495
+        },
+        "resources": []
+      },
+      {
+        "id": "4ff18e8e-6444-4c0c-ba57-122ba31fad44",
+        "index": 2,
+        "body": "$[T]_{\\mathcal{B}}=\\left[\\begin{array}{lll}0 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 1\\end{array}\\right]$",
+        "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+        "stats": {
+          "count": 116
+        },
+        "resources": []
+      },
+      {
+        "id": "34bba350-ea66-4ccc-8dd5-c8f8e335d0f6",
+        "index": 3,
+        "body": "$[T]_{\\mathcal{B}}=\\left[\\begin{array}{lll}1 & 1 & 0 \\\\ 1 & 2 & 2 \\\\ 0 & 0 & 0\\end{array}\\right]$",
+        "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "4b0741d6-0f82-473f-9f07-e5e3b25e7b44",
+        "index": 4,
+        "body": "$[T]_{\\mathcal{B}}=\\left[\\begin{array}{lll}0 & 1 & 0 \\\\ 0 & 0 & 2 \\\\ 0 & 0 & 0\\end{array}\\right]$ ",
+        "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+        "stats": {
+          "count": 1329
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "451655817",
+    "timeSpentVideo": "200292124",
+    "submissions": 2735,
+    "submissionsCorrect": 1329,
+    "accuracy": 0.48592321755027423,
+    "difficulty": 0.7635802469135802
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "539c3376-0b6a-454f-a558-815fbcbe92a6",
+    "body": "",
+    "questionId": "e0c3dc03-93b0-4597-8221-226363388d83",
+    "resources": [
+      {
+        "id": "3fea0766-da85-44b7-8582-a3b590effe48",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=3984\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "539c3376-0b6a-454f-a558-815fbcbe92a6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "49c9fcc9-6fa7-455b-8da5-060a1492f26b",
+      "name": "Coordinate Vectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7480608544",
+        "timeSpentVideo": "732924362",
+        "submissions": 13820,
+        "submissionsCorrect": 7773,
+        "questions": 4,
+        "accuracy": 0.5624457308248915,
+        "difficulty": 0.6880028735632184
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

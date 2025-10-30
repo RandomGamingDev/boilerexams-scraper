@@ -1,0 +1,143 @@
+{
+  "id": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the differential equation\n\n\\[\n(2xy+x^{3})dx+(x^2+y^3+2)dy=0, \\quad y(0)=2.\n\\]\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ab7f53a8-9930-4326-9223-a2b1b417dd4a",
+        "index": 0,
+        "body": "$x^{2} y+2 y=4$",
+        "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "23d5cf94-b163-4cba-8214-733b4e814f09",
+        "index": 1,
+        "body": "$x^{4}+2 y=8$",
+        "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "37f71e2b-175a-4794-9f25-07361662bb41",
+        "index": 2,
+        "body": "$x^{2} y+\\frac{1}{4} x^{4}+\\frac{1}{4} y^{4}+2 y=8$",
+        "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+        "stats": {
+          "count": 656
+        },
+        "resources": []
+      },
+      {
+        "id": "44db51ad-63a6-4c2f-8d75-6f26cd22ac61",
+        "index": 3,
+        "body": "$x^{2} y+\\frac{1}{4} x^{4}+\\frac{1}{4} y^{4}=0$",
+        "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "8a3efa12-26ec-47d6-a4ae-266eabd0c629",
+        "index": 4,
+        "body": "$\\frac{1}{4} x^{4}+\\frac{1}{4} y^{4}=8$",
+        "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "242622649",
+    "timeSpentVideo": "21010198",
+    "submissions": 882,
+    "submissionsCorrect": 656,
+    "accuracy": 0.7437641723356009,
+    "difficulty": 0.5310590631364562
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "f54a2901-8de3-4b68-9493-b3817dfa2cb3",
+    "body": "",
+    "questionId": "954b8d8a-b613-4328-abbe-a8f35e9a126e",
+    "resources": [
+      {
+        "id": "f11948a8-a84c-4cd3-b6f8-bd6f2de41d23",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=aM27DSKgqFDN8lPC&t=3058\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f54a2901-8de3-4b68-9493-b3817dfa2cb3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $f(x)=3-x^2-x$, find and simplify the difference quotient\n\n\\[\n\\frac{f(2+h)-f(2)}{h}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "94960edb-6c00-41e1-95f1-f2ddbc6a53e2",
+        "index": 0,
+        "body": "$1+h$",
+        "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "e415aa8d-3b08-46c8-bc52-4083b4222c0b",
+        "index": 1,
+        "body": "$\\frac{3-h^{2}-h}{h}$",
+        "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "939c3b6f-6c90-4921-8346-7e1d72a1ba35",
+        "index": 2,
+        "body": "$-1-h$",
+        "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "0807ef1c-1c11-49b5-ba45-4c40aa49d80e",
+        "index": 3,
+        "body": "$5+h$",
+        "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "7f812164-5920-4b4c-a37f-a3efe29ab2c1",
+        "index": 4,
+        "body": "$-5-h$",
+        "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+        "stats": {
+          "count": 1149
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "439616880",
+    "timeSpentVideo": "55113344",
+    "submissions": 1817,
+    "submissionsCorrect": 1149,
+    "accuracy": 0.6323610346725371,
+    "difficulty": 0.6245435576421492
+  },
+  "resources": [],
+  "exam": {
+    "id": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3559385729",
+      "timeSpentVideo": "911881661",
+      "submissions": 26164,
+      "submissionsCorrect": 15867,
+      "questions": 12,
+      "accuracy": 0.6064439688121083,
+      "difficulty": 0.6439613158696315
+    }
+  },
+  "explanation": {
+    "id": "ac15c9fc-dbaa-44b4-8ff1-a1ba7c2189ac",
+    "body": "",
+    "questionId": "917bb64b-2813-4976-aefe-ae0740de4dd4",
+    "resources": [
+      {
+        "id": "ec44f60e-4342-4d22-a392-a83c3195b274",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4c4tD0-xJw4?t=1710"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ac15c9fc-dbaa-44b4-8ff1-a1ba7c2189ac",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

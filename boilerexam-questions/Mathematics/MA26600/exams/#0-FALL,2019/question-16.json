@@ -1,0 +1,143 @@
+{
+  "id": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use the Laplace transform to find $y(t)$ for the following the linear differential system\n\n$x^{\\prime\\prime}+y^{\\prime}=0, \\;\\;\\;y^{\\prime\\prime}+x^{\\prime}=4\\sin t, \\;\\;\\; x(0)=y(0)=x^{\\prime}(0)=y^{\\prime}(0)=0.$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "111dfb7f-bf80-4a5f-954a-f7e4e0cb9a8a",
+        "index": 0,
+        "body": "$y(t)=\\cos (t)+\\sin (t)-e^{t}$",
+        "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "421c7933-245b-4302-b956-1e793611b8d7",
+        "index": 1,
+        "body": "$y(t)=-2 \\sin (t)+e^{t}-e^{-t}$",
+        "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+        "stats": {
+          "count": 464
+        },
+        "resources": []
+      },
+      {
+        "id": "ad539d50-2a81-4431-bdbd-91db404b7d92",
+        "index": 2,
+        "body": "$y(t)=\\cosh (t)+\\sinh (t)$",
+        "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "fba488d0-f138-4594-915d-ebc7b64f727f",
+        "index": 3,
+        "body": "$y(t)=\\cos (t)-\\sin (t)-e^{-t}$",
+        "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "cae041ed-bdf4-4a1f-927e-c213e438b542",
+        "index": 4,
+        "body": "$y(t)=\\cosh (t)-\\sinh (t)+e^{-t}$",
+        "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "407441984",
+    "timeSpentVideo": "136327435",
+    "submissions": 1228,
+    "submissionsCorrect": 464,
+    "accuracy": 0.3778501628664495,
+    "difficulty": 0.8629518072289157
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "c85259ed-79df-44d9-8041-e25306d46b1d",
+    "body": "",
+    "questionId": "e3eaf01b-4ab3-47eb-9d9f-5557f081cc25",
+    "resources": [
+      {
+        "id": "36cb00e0-8743-4450-8672-c95b923c24ad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=Es_-KcZzl5XsNRmk&t=2883"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c85259ed-79df-44d9-8041-e25306d46b1d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f975a005-13c4-4f00-ad2c-446ead8a3624",
+      "name": "Laplace of a system of equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "986105515",
+        "timeSpentVideo": "140948424",
+        "submissions": 1228,
+        "submissionsCorrect": 464,
+        "questions": 1,
+        "accuracy": 0.3778501628664495,
+        "difficulty": 0.8629518072289157
+      }
+    }
+  ],
+  "children": []
+}

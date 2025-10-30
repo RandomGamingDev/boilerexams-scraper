@@ -1,0 +1,143 @@
+{
+  "id": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particular solution of the equation \n\\[\nD(D+1)^2(D^2+1)y=9\\cos (t)+2e^{-t}-5t\n\\]\nis of the form",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "21b6e13c-2e24-4e77-a5b2-6fc968adce28",
+        "index": 0,
+        "body": "$y_{p}(t)=c_{1} t^{2} \\cos (t)+c_{2} t^{2} \\sin (t)+c_{3} t e^{-t}+t\\left(c_{4} t+c_{5}\\right)$",
+        "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "5e4b48cb-d7a6-4c6b-a016-5b39d1f554f0",
+        "index": 1,
+        "body": "$y_{p}(t)=c_{1} t^{2} \\cos (t)+c_{2} t^{2} \\sin (t)+c_{3} t^{2} e^{-t}+c_{4} t+c_{5}$",
+        "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "6893a37f-1090-4a7f-9dcd-d260344156f7",
+        "index": 2,
+        "body": "$y_{p}(t)=c_{1} t \\cos (t)+c_{2} t \\sin (t)+c_{3} t^{2} e^{-t}+c_{4} t+c_{5}$",
+        "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "69596d81-e616-4973-b0ad-4272b4a441da",
+        "index": 3,
+        "body": "$y_{p}(t)=c_{1} t \\cos (t)+c_{2} t \\sin (t)+c_{3} t e^{-t}+c_{4} t^{2}+c_{5} t$",
+        "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "cac46d5f-63d5-4007-b4eb-0cd4bde82807",
+        "index": 4,
+        "body": "$y_{p}(t)=c_{1} t \\cos (t)+c_{2} t \\sin (t)+c_{3} t^{2} e^{-t}+c_{4} t^{2}+c_{5} t$",
+        "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+        "stats": {
+          "count": 332
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "150423802",
+    "timeSpentVideo": "52439135",
+    "submissions": 779,
+    "submissionsCorrect": 332,
+    "accuracy": 0.42618741976893454,
+    "difficulty": 0.815415244596132
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "6ddf2ef2-289e-4a1a-9cfa-bb7a996a5595",
+    "body": "",
+    "questionId": "93ea81a7-fc45-41dd-a492-d6dd4e0761b6",
+    "resources": [
+      {
+        "id": "446add63-c0d8-44a8-a6a4-0386c04cc188",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=ANF3KLy_fpZOeFtx&t=4000\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6ddf2ef2-289e-4a1a-9cfa-bb7a996a5595",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0319c3c3-8269-4637-9189-12380f165495",
+      "name": "Characterization",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1198107393",
+        "timeSpentVideo": "69856422",
+        "submissions": 3254,
+        "submissionsCorrect": 2223,
+        "questions": 6,
+        "accuracy": 0.683159188690842,
+        "difficulty": 0.5723017292784734
+      }
+    }
+  ],
+  "children": []
+}

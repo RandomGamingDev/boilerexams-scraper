@@ -1,0 +1,113 @@
+{
+  "id": "b593d60f-6ad2-4e2e-97fe-cb6177ad51a4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose you are analyzing a dataset that represents the annual population growth\nof a city over the past 50 years. You have data from 1970 to 2020, and you've performed a linear regression analysis to model the population growth. The linear regression equation is: \ud835\udc9a\u0302 = \ud835\udfd0\ud835\udfd3\ud835\udfce, \ud835\udfce\ud835\udfce\ud835\udfce + \ud835\udfd3, \ud835\udfce\ud835\udfce\ud835\udfce \u2217 $\ud835\udc99_{\ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc2b}$. In this equation, $\ud835\udc99_{\ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc2b}$ denotes the number of years since 1970 with $\ud835\udc99_{\ud835\udc32\ud835\udc1e\ud835\udc1a\ud835\udc2b}$= \ud835\udfce for the year 1970. \n\nTrue or False? \nGiven that all assumptions of the linear regression model are valid, and the coefficient of determination $\ud835\udc79^{\ud835\udfd0}$ = \ud835\udfce. \ud835\udfd7\ud835\udfd7, we can safely use the linear regression model to accurately predict the city's population for the year 2030 to be 550,000.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f6262c8e-c134-4931-bf09-5a9214fcb47d",
+        "index": 0,
+        "body": "True",
+        "questionId": "b593d60f-6ad2-4e2e-97fe-cb6177ad51a4",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "4b42518b-12ba-4dcb-981b-2be1e89191b1",
+        "index": 1,
+        "body": "False",
+        "questionId": "b593d60f-6ad2-4e2e-97fe-cb6177ad51a4",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "18005556",
+    "timeSpentVideo": "4804381",
+    "submissions": 202,
+    "submissionsCorrect": 100,
+    "accuracy": 0.49504950495049505,
+    "difficulty": 0.7533112582781457
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "af41fa9c-f23c-4e4c-9610-ed1809f246f4",
+    "body": null,
+    "questionId": "b593d60f-6ad2-4e2e-97fe-cb6177ad51a4",
+    "resources": [
+      {
+        "id": "113c2975-55b7-4d69-b7ed-525b97373c7c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=213"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "af41fa9c-f23c-4e4c-9610-ed1809f246f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "bc4a566b-21b0-4def-afe8-4fb12bc4afb6",
+      "name": "Regression",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "116413066",
+        "timeSpentVideo": "20828947",
+        "submissions": 861,
+        "submissionsCorrect": 457,
+        "questions": 5,
+        "accuracy": 0.5307781649245064,
+        "difficulty": 0.7224245577523413
+      }
+    }
+  ],
+  "children": []
+}

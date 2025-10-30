@@ -1,0 +1,188 @@
+{
+  "id": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is FALSE?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "52e0f486-aed8-46b2-a5d0-597be68087dc",
+        "index": 0,
+        "body": "If the set $\\{\\mathbf{u}, \\mathbf{v}, \\mathbf{w}\\}$ is orthonormal, then the set $\\{\\mathbf{u}+\\mathbf{v}, \\mathbf{u}-\\mathbf{v}, \\mathbf{w}\\}$ is orthogonal.",
+        "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+        "stats": {
+          "count": 310
+        },
+        "resources": []
+      },
+      {
+        "id": "8e643ed0-4b56-4869-8cf3-a65c39837a2b",
+        "index": 1,
+        "body": "If a matrix $A$ has orthogonal columns, then $A^{T} A$ is a diagonal matrix.",
+        "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+        "stats": {
+          "count": 215
+        },
+        "resources": []
+      },
+      {
+        "id": "201b6acd-732e-46cf-a53f-f36b4fde5f28",
+        "index": 2,
+        "body": "Orthogonal matrices are invertible.",
+        "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+        "stats": {
+          "count": 286
+        },
+        "resources": []
+      },
+      {
+        "id": "992b6477-fdf6-4540-9201-78489846132b",
+        "index": 3,
+        "body": "For vectors $\\mathbf{u}$ and $\\mathbf{v}$, if $\\|\\mathbf{u}-\\mathbf{v}\\|^{2}=\\|\\mathbf{u}\\|^{2}+\\|\\mathbf{v}\\|^{2}$, then $\\mathbf{u}$ and $\\mathbf{v}$ are orthogonal.",
+        "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+        "stats": {
+          "count": 250
+        },
+        "resources": []
+      },
+      {
+        "id": "1bce5367-06cc-40bf-87f4-9c89d982e9fe",
+        "index": 4,
+        "body": "Performing the Gram-Schmidt process on the set $\\left\\{\\mathbf{v}_{1}, \\mathbf{v}_{2}\\right\\}$ and the set $\\left\\{\\mathbf{v}_{2}, \\mathbf{v}_{1}\\right\\}$ always gives the identical orthonormal basis for the $\\operatorname{Span}\\left\\{\\mathbf{v}_{1}, \\mathbf{v}_{2}\\right\\}$.",
+        "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+        "stats": {
+          "count": 1302
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "343492285",
+    "timeSpentVideo": "129746417",
+    "submissions": 2557,
+    "submissionsCorrect": 1302,
+    "accuracy": 0.5091904575674618,
+    "difficulty": 0.7411554384644335
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "eeae093b-d087-4160-9053-24376d72ba8c",
+    "body": "",
+    "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
+    "resources": [
+      {
+        "id": "ef2c6efa-d611-4e92-a25c-a0cf1c16f7e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=6860\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eeae093b-d087-4160-9053-24376d72ba8c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "a990d569-8a18-4df9-a1f0-2fc59b168eda",
+      "name": "Orthogonal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6291015559",
+        "timeSpentVideo": "849868826",
+        "submissions": 14614,
+        "submissionsCorrect": 7169,
+        "questions": 7,
+        "accuracy": 0.49055700013685505,
+        "difficulty": 0.7593788228897649
+      }
+    },
+    {
+      "id": "bccec053-b32d-4e1a-b3b5-3a71a7dacc4d",
+      "name": "Gram-Schmidt Process",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7187618615",
+        "timeSpentVideo": "632639584",
+        "submissions": 15198,
+        "submissionsCorrect": 8467,
+        "questions": 8,
+        "accuracy": 0.5571127779971049,
+        "difficulty": 0.6932605569355471
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    }
+  ],
+  "children": []
+}

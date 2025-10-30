@@ -1,0 +1,148 @@
+{
+  "id": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Alice, Jane and Elizabeth designed three new algorithms for Mango Enterprises. Let $T_A(n)$ (resp. $T_J(n)$ and $T_E(n)$) denote the worst-case running time of Alice\u2019s (resp. Jane\u2019s and Elizabeth\u2019s) algorithm on any input of size $n$. Mango Enterprises works with very large datasets so they are only able to use algorithms with worst case running time $T(n) \u2208 O(n^2)$.\n\n(b) Bob analyzed Jane's algorithm and claims to have a proof that $T_J(n)\u2208O(g(n))$ for some function $g(n)$ such that $g(n) \\geq n^9$ for all $n \\geq 1$. Assuming that Bob's proof is correct is this a sufficient reason for Mango Enterprises to discard Jane's algorithm? Explain your answer.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9ba02b21-6337-4b46-8455-1b8a5d75a91a",
+        "index": 0,
+        "body": "Yes. Jane's algorithm is at best $\\Omega(n^9)$, so we should discard it.",
+        "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+        "stats": {
+          "count": 222
+        },
+        "resources": []
+      },
+      {
+        "id": "10088b26-b3e5-459e-b387-aae8ca2aa566",
+        "index": 1,
+        "body": "Yes. Jane's algorithm has a chance of being too inefficient for Mango Enterprises, so we should definitely discard it.",
+        "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "1cff31ff-fe4f-4132-9bab-dbb4929a9a5b",
+        "index": 2,
+        "body": "No. The only information we can gather is that Jane's algorithm is $O(n^9)$, which is too ambiguous for us to discard just yet.",
+        "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+        "stats": {
+          "count": 1171
+        },
+        "resources": []
+      },
+      {
+        "id": "0c3ccf41-d9cc-413d-8d0d-152a552b6d25",
+        "index": 3,
+        "body": "No. Jane's algorithm is guaranteed to be $O(n^2)$, so we definitely shouldn't discard it.",
+        "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "247514057",
+    "timeSpentVideo": "18617709",
+    "submissions": 1696,
+    "submissionsCorrect": 1171,
+    "accuracy": 0.6904481132075472,
+    "difficulty": 0.5701559020044543
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "a2c7da2e-ef0b-42af-9263-7c81b1511315",
+    "body": "",
+    "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
+    "resources": [
+      {
+        "id": "7cbfb72d-55db-4384-8cf6-28068ed1767e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=446"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a2c7da2e-ef0b-42af-9263-7c81b1511315",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1d66839b-39ef-463c-8321-d5d5a021ffcb",
+      "name": "Big-Omega",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4563369111",
+        "timeSpentVideo": "88611608",
+        "submissions": 13895,
+        "submissionsCorrect": 10677,
+        "questions": 12,
+        "accuracy": 0.7684059014033825,
+        "difficulty": 0.48351196856020007
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

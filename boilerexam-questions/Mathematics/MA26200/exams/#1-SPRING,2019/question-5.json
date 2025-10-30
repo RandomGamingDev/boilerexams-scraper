@@ -1,0 +1,143 @@
+{
+  "id": "d14fd708-6a24-4db0-9560-6f8006086725",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\\[\nA=\\left[\\begin{array}{llll}\n1 & 4 & 7 & 10 \\\\\n2 & 5 & 8 & 11 \\\\\n3 & 6 & 9 & 12\n\\end{array}\\right] .\n\\]\n\nWhich of the following collections of vectors is linearly independent?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "db51d0b0-7282-4548-ac83-637e9c4756d1",
+        "index": 0,
+        "body": "The first three column vectors of the matrix $A$.",
+        "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "0cf69c14-aff5-4035-ac37-188638aa92b5",
+        "index": 1,
+        "body": "The last three column vectors of the matrix $A$.",
+        "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "2aeb1b38-dfff-4bc9-afa1-40a57697b5fc",
+        "index": 2,
+        "body": "The column vectors of the matrix $A^{T}$.",
+        "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "fafaf096-c9f4-45bb-ae3d-e247f8360023",
+        "index": 3,
+        "body": "The column vectors of the matrix $A$.",
+        "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "17e977a6-2ad7-43c5-8c21-066028e6d74d",
+        "index": 4,
+        "body": "The first two column vectors of the matrix $A$.",
+        "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+        "stats": {
+          "count": 334
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "99642233",
+    "timeSpentVideo": "31410996",
+    "submissions": 677,
+    "submissionsCorrect": 334,
+    "accuracy": 0.4933530280649926,
+    "difficulty": 0.7557915057915058
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "fd8eb3f3-e457-4fe7-8163-33efc41c00e3",
+    "body": "",
+    "questionId": "d14fd708-6a24-4db0-9560-6f8006086725",
+    "resources": [
+      {
+        "id": "954c36a0-8bd1-4e16-86a4-99bda56f70ba",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=1067\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fd8eb3f3-e457-4fe7-8163-33efc41c00e3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "bec1ed30-697b-4af3-8a9e-0e4c7b7819f3",
+      "name": "Applications",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5830257196",
+        "timeSpentVideo": "645845621",
+        "submissions": 10650,
+        "submissionsCorrect": 5531,
+        "questions": 12,
+        "accuracy": 0.5193427230046949,
+        "difficulty": 0.7308372093023255
+      }
+    }
+  ],
+  "children": []
+}

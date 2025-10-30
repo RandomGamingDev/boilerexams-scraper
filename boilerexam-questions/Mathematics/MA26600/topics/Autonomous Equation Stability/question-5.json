@@ -1,0 +1,143 @@
+{
+  "id": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the number of stable critical points for the autonomous equation \\[\\frac{dx}{dt}=x(x+1)^2(x-3)(x^2-4)\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "72d58575-b873-41e0-a0c8-623787eea774",
+        "index": 0,
+        "body": "2",
+        "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+        "stats": {
+          "count": 644
+        },
+        "resources": []
+      },
+      {
+        "id": "a180d98a-c0e6-4e49-9ac7-536b3cba84b9",
+        "index": 1,
+        "body": "1",
+        "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "91ca22d1-ffc7-4c89-a6f1-92725f714b05",
+        "index": 2,
+        "body": "3",
+        "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "626c5e32-085c-447e-9dcd-0dc7ed54de52",
+        "index": 3,
+        "body": "4",
+        "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "8ab070dc-3197-4df0-8bff-07b6b4ec98ba",
+        "index": 4,
+        "body": "0",
+        "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "164726409",
+    "timeSpentVideo": "11395331",
+    "submissions": 879,
+    "submissionsCorrect": 644,
+    "accuracy": 0.732650739476678,
+    "difficulty": 0.5411133810010215
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "c23b996d-f67f-47dc-ac1f-9357fd3cd2d2",
+    "body": null,
+    "questionId": "cbed8ff6-e1ae-451c-8545-369e54058b85",
+    "resources": [
+      {
+        "id": "b5154ecb-7c67-43a0-aa14-019a29b4664f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=1936s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c23b996d-f67f-47dc-ac1f-9357fd3cd2d2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "afc5362c-e900-480e-8cd8-bb5df92c0a4a",
+      "name": "Autonomous Equation Stability",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5827169883",
+        "timeSpentVideo": "453025828",
+        "submissions": 12533,
+        "submissionsCorrect": 8138,
+        "questions": 8,
+        "accuracy": 0.6493257799409559,
+        "difficulty": 0.601856249505264
+      }
+    }
+  ],
+  "children": []
+}

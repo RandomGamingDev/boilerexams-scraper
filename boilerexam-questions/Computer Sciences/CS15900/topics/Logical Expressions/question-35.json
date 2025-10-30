@@ -1,0 +1,134 @@
+{
+  "id": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which logical expression should be inserted in place of the comment on line #14 to repeat the request for input when an invalid value has been entered by the user?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "498bb23b-a65e-4514-858a-06ce3c947796",
+        "index": 0,
+        "body": "grade <= 'A' || grade >= 'F' || grade == 'E'",
+        "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "b7beabd3-b654-4b58-a925-8a7a5642c6b3",
+        "index": 1,
+        "body": "grade < 'A' || grade > 'F' || grade == 'E'",
+        "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+        "stats": {
+          "count": 2018
+        },
+        "resources": []
+      },
+      {
+        "id": "2dd478b4-23e1-45cc-9ded-fa92c5505fc8",
+        "index": 2,
+        "body": "grade >= 'A' && grade <= 'F' && grade != 'E'",
+        "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+        "stats": {
+          "count": 348
+        },
+        "resources": []
+      },
+      {
+        "id": "c63ef212-776a-4628-916a-c6022b6ec9aa",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 35,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "138224947",
+    "timeSpentVideo": "0",
+    "submissions": 2561,
+    "submissionsCorrect": 2018,
+    "accuracy": 0.787973447871925,
+    "difficulty": 0.4728485531754979
+  },
+  "resources": [
+    {
+      "id": "7fba5a37-42b9-4285-9a3a-2ffd2696eb99",
+      "type": "CODE",
+      "data": {
+        "content": "char getGrade(void)\n{\n  char grade;\n\n  do \n  {\n    printf(\"Enter letter grade -> \");\n    scanf(\"%c\", &grade);\t// Question #36\n\n    if (/*Question #34 */)\n    {\n      printf(\"\\n\\nError! Letter grade must be A, B, C, D, or F!\\n\");\n    }\n  } while (/*Question #35 */);\n\n  return grade;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "ac879664-58bc-40f5-98f3-ce463a57db1d",
+    "body": "",
+    "questionId": "5086e3dc-0c5a-4e0f-bd50-f0dfb3df7606",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

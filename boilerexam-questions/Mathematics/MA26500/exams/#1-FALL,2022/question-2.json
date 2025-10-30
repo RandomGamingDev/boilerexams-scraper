@@ -1,0 +1,173 @@
+{
+  "id": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathrm{L}$ be a linear transformation from $\\mathbb{R}^{3}$ to $\\mathbb{R}^{3}$ whose standard matrix is $\\left[\\begin{array}{lll}1 & 2 & 3 \\\\ 0 & 1 & 1 \\\\ 2 & 3 & k\\end{array}\\right]$ where $k$ is a real number. Find all values of $k$ such that $\\mathrm{L}$ is one-to-one.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "bb01012b-23e9-4b28-835e-51b56b454560",
+        "index": 0,
+        "body": "$k \\neq 1$",
+        "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "ae937004-4106-40a1-8034-79e16c3875cc",
+        "index": 1,
+        "body": "$k \\neq 2$",
+        "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "b23a9719-fb8e-4b31-940a-4ac0f827de96",
+        "index": 2,
+        "body": "$k \\neq 3$",
+        "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+        "stats": {
+          "count": 132
+        },
+        "resources": []
+      },
+      {
+        "id": "fc70cdcb-0749-4328-bcde-6e97625a6f3e",
+        "index": 3,
+        "body": "$k \\neq 4$",
+        "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+        "stats": {
+          "count": 95
+        },
+        "resources": []
+      },
+      {
+        "id": "075d5806-ff6b-4883-8d22-91af4ebb7fc2",
+        "index": 4,
+        "body": "$k \\neq 5$",
+        "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+        "stats": {
+          "count": 3599
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "807301228",
+    "timeSpentVideo": "128396989",
+    "submissions": 4480,
+    "submissionsCorrect": 3599,
+    "accuracy": 0.8033482142857142,
+    "difficulty": 0.45327510917030567
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "f94bab00-26f7-4ae6-bbbe-4deb0d6caae6",
+    "body": "",
+    "questionId": "0e847d0c-91e3-4a45-a3ab-7a0b7aa5e8a7",
+    "resources": [
+      {
+        "id": "1fd4e5d6-957f-4f0d-a499-b9d2a8e320f5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/d1_WSP0AS6c?t=172\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f94bab00-26f7-4ae6-bbbe-4deb0d6caae6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

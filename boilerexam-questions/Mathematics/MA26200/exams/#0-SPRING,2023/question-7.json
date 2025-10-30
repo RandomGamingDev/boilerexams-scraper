@@ -1,0 +1,128 @@
+{
+  "id": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose the linear system $A \\mathbf{x}=\\mathbf{b}$ is consistent whenever\n\n\n\\[\nA=\\left[\\begin{array}{rrr}\n1 & -1 & -2 \\\\\n2 & 2 & -3 \\\\\n3 & 5 & -4\n\\end{array}\\right], \\quad \\mathbf{b}=\\left[\\begin{array}{r}\n-1 \\\\\n\\alpha \\\\\n\\beta\n\\end{array}\\right]\n\\]\n\nWhich one of the following statements must always be TRUE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ab341f56-9c67-4a0f-98bf-d1ce16c25f97",
+        "index": 0,
+        "body": "The system has a unique solution",
+        "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "445403aa-6684-4ea3-b18e-aaf853439a80",
+        "index": 1,
+        "body": "$\\beta=\\alpha$",
+        "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "9362f455-ad91-401d-8f82-28c97874c32d",
+        "index": 2,
+        "body": "$\\beta=1+2 \\alpha$",
+        "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+        "stats": {
+          "count": 247
+        },
+        "resources": []
+      },
+      {
+        "id": "a8798b77-fb75-441a-a0ba-af3f71843117",
+        "index": 3,
+        "body": "$\\beta=1-2 \\alpha$",
+        "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "412e0f3f-aa86-4413-b51b-3128f7f2d706",
+        "index": 4,
+        "body": "$A$ is invertible",
+        "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "81278785",
+    "timeSpentVideo": "0",
+    "submissions": 353,
+    "submissionsCorrect": 247,
+    "accuracy": 0.6997167138810199,
+    "difficulty": 0.5943708609271523
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "26c36088-5017-4990-8a90-22e7259489d2",
+    "body": "",
+    "questionId": "54cd7f98-3310-4451-9ef9-f3144c6df35b",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "31c808ef-5962-4e8d-b13a-bb827f9c3772",
+      "name": "Systems (Matrices)",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2552320145",
+        "timeSpentVideo": "209522992",
+        "submissions": 5768,
+        "submissionsCorrect": 3487,
+        "questions": 10,
+        "accuracy": 0.6045423023578363,
+        "difficulty": 0.647239263803681
+      }
+    }
+  ],
+  "children": []
+}

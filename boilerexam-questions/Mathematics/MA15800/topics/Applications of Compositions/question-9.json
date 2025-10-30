@@ -1,0 +1,153 @@
+{
+  "id": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x)=x^{2}-3$ and $g(x)=\\frac{1}{x^{2}}$, find the domain of $(f \\circ g)(x)$",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "acf9a2bb-0672-4b26-b111-44a4a1557fa1",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "62fc11d7-08d3-4204-86a9-ab42f816124b",
+        "index": 1,
+        "body": "$(-\\infty, \\sqrt{3}) \\cup(\\sqrt{3}, \\infty)$",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "96e49fb9-cf9e-4ada-93c4-91221f105b58",
+        "index": 2,
+        "body": "$(0,3)$",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "d71b2a49-aa66-4460-b064-f2e1739c6cbe",
+        "index": 3,
+        "body": "$(-\\infty, \\infty)$",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 146
+        },
+        "resources": []
+      },
+      {
+        "id": "e4ac9566-75ad-44fb-9d6b-49183a604078",
+        "index": 4,
+        "body": "It does not exist",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "5e0339fd-dcf3-4fed-85f2-4bdf7fbe4603",
+        "index": 5,
+        "body": "$(-\\infty, 0) \\cup (0, \\infty)$",
+        "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+        "stats": {
+          "count": 611
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "126a578f-fc99-407b-9500-a9c789986e11",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "199439823",
+    "timeSpentVideo": "22716186",
+    "submissions": 1101,
+    "submissionsCorrect": 611,
+    "accuracy": 0.5549500454132607,
+    "difficulty": 0.6996253122398002
+  },
+  "resources": [],
+  "exam": {
+    "id": "126a578f-fc99-407b-9500-a9c789986e11",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2342204807",
+      "timeSpentVideo": "271512339",
+      "submissions": 15537,
+      "submissionsCorrect": 10046,
+      "questions": 15,
+      "accuracy": 0.6465855699298448,
+      "difficulty": 0.6043518577732302
+    }
+  },
+  "explanation": {
+    "id": "51ba8965-43a7-41e6-8033-57e13728e5fe",
+    "body": "",
+    "questionId": "4ff657b5-3beb-4d2e-8a29-df3fd5a9d47b",
+    "resources": [
+      {
+        "id": "67519bd2-27e7-496d-ab46-8969e633ebd8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SDiQ2DqPZ10?si=A73jGJS-60ISofgC&t=775\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "51ba8965-43a7-41e6-8033-57e13728e5fe",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2420bafd-5a16-4ab5-b5f3-c5193321e49d",
+      "name": "Applications of Compositions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1679995183",
+        "timeSpentVideo": "28588959",
+        "submissions": 3543,
+        "submissionsCorrect": 2645,
+        "questions": 4,
+        "accuracy": 0.746542478125882,
+        "difficulty": 0.5102250892121878
+      }
+    }
+  ],
+  "children": []
+}

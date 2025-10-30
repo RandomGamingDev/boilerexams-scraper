@@ -1,0 +1,105 @@
+{
+  "id": "3282be71-f691-497e-9031-d10917c7de2c",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the given matrix \\[\nA = \\left[ \\begin{array}{cccc} \n0 & 1 & 2 & 3\\\\\n0 & 0 & 3 & 0 \\\\\n0 & 1 & 1 & 1 \\\\\n2 & 0 & 0 & 1 \\\\\n\\end{array} \\right]\n\\]\n(1) Find the determinant of matrix $A$ by expanding along the first column. \n\n(2) Let the matrix $B$ be the inverse matrix of the matrix $A$, and $B = [b_{ij}]$. Find $b_{32}$. ",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "217293966",
+    "timeSpentVideo": "72826594",
+    "submissions": 972,
+    "submissionsCorrect": 302,
+    "accuracy": 0.31069958847736623,
+    "difficulty": 0.9216417910447761
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "4f7a0841-5aa6-4f3a-abfe-d1c9f4e45705",
+    "body": null,
+    "questionId": "3282be71-f691-497e-9031-d10917c7de2c",
+    "resources": [
+      {
+        "id": "0f9c3d54-279f-49b8-8d40-84e6a3af13ab",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/MB-5ODp29gM?si=JDduVJ8TWjCK2NlU&t=940"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f7a0841-5aa6-4f3a-abfe-d1c9f4e45705",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "9f1bb2ae-d063-4e68-b6a6-244a754a1068",
+      "name": "Adjugate Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3550176918",
+        "timeSpentVideo": "266138624",
+        "submissions": 6804,
+        "submissionsCorrect": 3261,
+        "questions": 2,
+        "accuracy": 0.4792768959435626,
+        "difficulty": 0.770422943221321
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "5f1046c9-5a98-415f-9447-46ab964e268f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a spring whose shape is the circular helix\n\\[\n\\mathbf{r}(t)=\\frac{1}{\\sqrt{2}}\\langle\\cos t, \\sin t, t\\rangle, \\quad 0 \\leq t \\leq 6 \\pi\n\\]\nThe mass density of the spring is $\\rho(x, y, z)=1+z$. Find the mass of the spring.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f3a25ebd-574c-47be-9689-cc52a313a438",
+        "index": 0,
+        "body": "$3 \\pi+\\frac{4 \\pi^{2}}{\\sqrt{2}}$",
+        "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "9d6abbfa-41ea-4c72-af32-5c69a086f3c5",
+        "index": 1,
+        "body": "$3 \\pi+\\frac{9 \\pi}{\\sqrt{2}}$",
+        "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "dc461aad-ef74-4bd8-b397-ce30a892ff54",
+        "index": 2,
+        "body": "$18 \\pi+\\frac{3 \\pi^{2}}{\\sqrt{3}}$",
+        "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "2c12d8f1-f278-43a4-9b86-d935408bd26b",
+        "index": 3,
+        "body": "$6 \\pi+\\frac{9 \\pi^{2}}{\\sqrt{3}}$",
+        "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+        "stats": {
+          "count": 186
+        },
+        "resources": []
+      },
+      {
+        "id": "e81b87eb-630d-445e-8903-98350f8f3f35",
+        "index": 4,
+        "body": "$6 \\pi+\\frac{18 \\pi^{2}}{\\sqrt{2}}$",
+        "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+        "stats": {
+          "count": 2225
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1050403830",
+    "timeSpentVideo": "328964058",
+    "submissions": 4880,
+    "submissionsCorrect": 2224,
+    "accuracy": 0.4557377049180328,
+    "difficulty": 0.7933734939759036
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "34dfc444-4b24-493d-ab2d-a13f08df6eec",
+    "body": "",
+    "questionId": "5f1046c9-5a98-415f-9447-46ab964e268f",
+    "resources": [
+      {
+        "id": "7baa409a-ff43-4b68-8638-58f6046a16b2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=1253"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "34dfc444-4b24-493d-ab2d-a13f08df6eec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1812cd36-6cb4-4602-89ed-950130e4d050",
+      "name": "Integration for Mass",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15010430535",
+        "timeSpentVideo": "2292133203",
+        "submissions": 35360,
+        "submissionsCorrect": 17478,
+        "questions": 8,
+        "accuracy": 0.4942873303167421,
+        "difficulty": 0.7556965595036661
+      }
+    }
+  ],
+  "children": []
+}

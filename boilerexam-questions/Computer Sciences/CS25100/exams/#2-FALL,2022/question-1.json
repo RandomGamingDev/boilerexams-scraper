@@ -1,0 +1,133 @@
+{
+  "id": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Cosider a hash table of size $m$ where the keys are strings. For a string $s$ of length $n$, $s[i]$ is the integer number associated with the character at index $0 \\leq i \\leq n$.\n\nRank the following hash functions from worst to best. Explain the order by stating an advantage and a disadvantage for each hash function.\n\n\n1. $h_1(s) = 17 \u2217 (s[0] + s[1] + \u00b7 \u00b7 \u00b7 + s[n \u2212 1])\\ \\text{mod }m$\n2. $h_2(s) = (s[0] \u2217 17^{n\u22121} + s[1] \u2217 17^{n\u22122} + \u00b7 \u00b7 \u00b7 + s[n \u2212 1] \u2217 17^0)\\ \\text{mod }m$\n3. $h_3(s) = (n \u2217 17) \\ \\text{mod }m$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2cd1f52c-5180-43b5-a312-04f8802be7bc",
+        "index": 0,
+        "body": "1 (worst): $h_1(s)$\n2: $h_3(s)$\n3 (best): $h_2(s)$",
+        "questionId": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "f56e0ed4-9aa0-4e74-a0d8-cfb9a41c9369",
+        "index": 1,
+        "body": "1 (worst): $h_3(s)$\n2: $h_1(s)$\n3 (best): $h_2(s)$",
+        "questionId": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+        "stats": {
+          "count": 1164
+        },
+        "resources": []
+      },
+      {
+        "id": "964b2e4d-c93f-422c-b910-4ebd04898964",
+        "index": 2,
+        "body": "1 (worst): $h_3(s)$\n2: $h_2(s)$\n3 (best): $h_1(s)$",
+        "questionId": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "32b4a444-d3d4-4431-8519-7a3fbe8c6d5c",
+        "index": 3,
+        "body": "1 (worst): $h_2(s)$\n2: $h_1(s)$\n3 (best): $h_3(s)$",
+        "questionId": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "249444509",
+    "timeSpentVideo": "43003566",
+    "submissions": 1567,
+    "submissionsCorrect": 1164,
+    "accuracy": 0.7428206764518187,
+    "difficulty": 0.521745650869826
+  },
+  "resources": [],
+  "exam": {
+    "id": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1946630963",
+      "timeSpentVideo": "322126112",
+      "submissions": 12485,
+      "submissionsCorrect": 8220,
+      "questions": 8,
+      "accuracy": 0.6583900680816981,
+      "difficulty": 0.5928684942391736
+    }
+  },
+  "explanation": {
+    "id": "5c2c1b3f-9ab6-418f-87a9-8f053c7ffa4c",
+    "body": "",
+    "questionId": "19c9190a-d9be-4b61-a6a3-ff5014248575",
+    "resources": [
+      {
+        "id": "63080151-2f9b-47ee-923c-eb33bbf1217e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aMC7yAJuKrg"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5c2c1b3f-9ab6-418f-87a9-8f053c7ffa4c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52789af2-2123-4337-b38f-108a1849e8e8",
+      "name": "Hash Table",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4478230174",
+        "timeSpentVideo": "95806366",
+        "submissions": 7870,
+        "submissionsCorrect": 5649,
+        "questions": 6,
+        "accuracy": 0.7177890724269378,
+        "difficulty": 0.5349435382685069
+      }
+    }
+  ],
+  "children": []
+}

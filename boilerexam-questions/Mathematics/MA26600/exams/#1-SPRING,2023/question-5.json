@@ -1,0 +1,143 @@
+{
+  "id": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a population $P(t)$ satisfying the the initial value problem for the logistic equation\n\n\n\n\\[\n\\frac{d P}{d t}=0.01 P(100-P), \\quad P(0)=P_{0}\n\\]\n\nWhich of the following statements are correct?\n\n(i) If $P_{0}>0$, then $\\lim _{t \\rightarrow \\infty} P(t)=100$.\n\n(ii) If $P_{0} \\neq 100$, then $P(t) \\neq 100$ for all $t>0$.\n\n(iii) If $0<P_{0}<100$ then then we can find $t>0$ such that $P(t)=0$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0d5379c4-84e9-40d8-a3b9-926a5f13d4cc",
+        "index": 0,
+        "body": "Only (i)",
+        "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+        "stats": {
+          "count": 286
+        },
+        "resources": []
+      },
+      {
+        "id": "ffb23c06-9e61-44f0-8187-9b7d3550f87c",
+        "index": 1,
+        "body": "Only (ii)",
+        "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "b7ae669c-f7e7-48b8-a866-2c500470f4b3",
+        "index": 2,
+        "body": "(i), (ii), (iii)",
+        "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "47523d10-6012-4b90-a830-3150c4b57623",
+        "index": 3,
+        "body": "(i), (ii)",
+        "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+        "stats": {
+          "count": 1238
+        },
+        "resources": []
+      },
+      {
+        "id": "493c63f1-98cf-48c2-87ae-fa1e75c15f94",
+        "index": 4,
+        "body": "(ii), (iii)",
+        "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "555754081",
+    "timeSpentVideo": "39814630",
+    "submissions": 2143,
+    "submissionsCorrect": 1238,
+    "accuracy": 0.5776948203453103,
+    "difficulty": 0.6757690592955863
+  },
+  "resources": [],
+  "exam": {
+    "id": "fa12c8ee-993f-42a9-9c67-03667a9c6081",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4565094176",
+      "timeSpentVideo": "320264183",
+      "submissions": 16700,
+      "submissionsCorrect": 9862,
+      "questions": 10,
+      "accuracy": 0.5905389221556886,
+      "difficulty": 0.66
+    }
+  },
+  "explanation": {
+    "id": "e8a796dc-e74b-44d2-9d6d-85fe59eb485b",
+    "body": "",
+    "questionId": "878516eb-5c8e-41ae-bfc6-8d6a62bc2711",
+    "resources": [
+      {
+        "id": "2826cda8-0b1d-47f3-93e5-374e89b6a47b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ire22BvRNw4?si=HJ2jui_kHZMTo_dq&t=663"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e8a796dc-e74b-44d2-9d6d-85fe59eb485b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5bcefa96-2595-40f2-a8a8-248fac91c0fc",
+      "name": "Population",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2402528888",
+        "timeSpentVideo": "131374233",
+        "submissions": 4129,
+        "submissionsCorrect": 2409,
+        "questions": 4,
+        "accuracy": 0.5834342455800436,
+        "difficulty": 0.6685386616221329
+      }
+    }
+  ],
+  "children": []
+}

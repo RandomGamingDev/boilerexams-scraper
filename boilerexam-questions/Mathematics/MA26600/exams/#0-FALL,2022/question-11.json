@@ -1,0 +1,112 @@
+{
+  "id": "bde72dcc-af65-4e37-a294-96b7f931784d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $y_{c}(x)=c_{1} x+c_{2} x^{-1}$ is a complementary solution of the nonhomogeneous second order differential equation\n\n\n\\[\nx^{2} y^{\\prime \\prime}+x y^{\\prime}-y=600 x^{5}\n\\]\n\nuse the method of variation of parameters to find its particular solution $y_{p}(x)$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "916b12d7-47ce-4a60-bb7f-7d6dcad00261",
+        "index": 0,
+        "body": "$y_{p}(x)=3 x^{7} \\ln x$",
+        "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "09ab718d-113c-41f5-9a55-6a18da862425",
+        "index": 1,
+        "body": "$y_{p}(x)=125 x^{5}$",
+        "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "90fd0819-cd8d-45e0-a4c6-0d6a0e316770",
+        "index": 2,
+        "body": "$y_{p}(x)=25 x^{6} \\ln x$",
+        "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "358e3302-e1cc-4011-97dc-a1542ce0dfa0",
+        "index": 3,
+        "body": "$y_{p}(x)=25 x^{5}$",
+        "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "7407cf02-2dca-4c29-aa52-0004c5b4a9de",
+        "index": 4,
+        "body": "$y_{p}(x)=\\frac{45}{2} x^{7}$",
+        "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "71777272",
+    "timeSpentVideo": "0",
+    "submissions": 192,
+    "submissionsCorrect": 144,
+    "accuracy": 0.75,
+    "difficulty": 0.5856164383561644
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "bb96e0ba-8756-4456-884a-5273ebe9a451",
+    "body": "",
+    "questionId": "bde72dcc-af65-4e37-a294-96b7f931784d",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following correctly describes the value returned from the <font style=\"font-family:'Courier New'\">strcmp</font> function found in the <font style=\"font-family:'Courier New'\">string.h</font> library?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6eb96aab-7e95-4648-886c-524185ebfa5a",
+        "index": 0,
+        "body": "The value returned from <font style=\"font-family:'Courier New'\">strcmp</font> is a logical value, zero or one, corresponding to whether the two given character arrays are storing equivalent data.",
+        "questionId": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "957529ac-b533-4b0d-a647-373c1cf7f5e9",
+        "index": 1,
+        "body": "The value returned from <font style=\"font-family:'Courier New'\">strcmp</font> is a measure the difference in length of the two given character arrays.",
+        "questionId": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "5a47b10a-b94b-4e65-9e06-d10179ce76bb",
+        "index": 2,
+        "body": "The value returned from <font style=\"font-family:'Courier New'\">strcmp</font> is the first index at which the two character arrays are storing different data.",
+        "questionId": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "c738c066-9c19-439e-9680-b81b56d9ebb7",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+        "stats": {
+          "count": 364
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 35,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "69713443",
+    "timeSpentVideo": "0",
+    "submissions": 961,
+    "submissionsCorrect": 364,
+    "accuracy": 0.37877211238293446,
+    "difficulty": 0.8598020735155514
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "021351cc-8158-447f-a45e-d12a1d82ac3a",
+    "body": "",
+    "questionId": "7c4b0daa-1822-4d0b-bfa0-3066f01db415",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "fad16a8a-4b31-410a-a0d0-85692ae1666d",
+      "name": "Strings",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3696901024",
+        "timeSpentVideo": "0",
+        "submissions": 12342,
+        "submissionsCorrect": 5528,
+        "questions": 13,
+        "accuracy": 0.4479014746394426,
+        "difficulty": 0.8016797942452982
+      }
+    }
+  ],
+  "children": []
+}

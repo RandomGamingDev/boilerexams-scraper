@@ -1,0 +1,128 @@
+{
+  "id": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of \n\n$y^{(4)}-8 y^{\\prime \\prime}+16 y=0$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "9f655c96-5ea1-43bf-8515-ebf012c299d2",
+        "index": 0,
+        "body": "$y=\\cos (2 x)\\left(C_{1}+C_{2} x\\right)+\\sin (2 x)\\left(C_{3}+C_{4} x\\right)$",
+        "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+        "stats": {
+          "count": 240
+        },
+        "resources": []
+      },
+      {
+        "id": "49ef0969-cb6c-4ec9-ab4d-262ea444c69b",
+        "index": 1,
+        "body": "$y=C_{1}+C_{2} x+C_{3} x^{2}+C_{4} x^{3}$",
+        "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "3f013981-d0e5-4eeb-94ce-11401e6ccf8c",
+        "index": 2,
+        "body": "$y=C_{1}+C_{2} e^{4 x}+C_{3} e^{-4 x}$",
+        "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "8aa94cf2-a8d6-4db6-b01f-68fcb7b056d0",
+        "index": 3,
+        "body": "$y=C_{1}+C_{2} \\cos (4 x)+C_{3} \\sin (4 x)$",
+        "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "b2ccb52d-39e8-4c2c-a1cb-f89091c6c9ef",
+        "index": 4,
+        "body": "$y=e^{-2 x}\\left(C_{1}+C_{2} x\\right)+e^{2 x}\\left(C_{3}+C_{4} x\\right)$",
+        "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+        "stats": {
+          "count": 1331
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "287332669",
+    "timeSpentVideo": "0",
+    "submissions": 1739,
+    "submissionsCorrect": 1332,
+    "accuracy": 0.7659574468085106,
+    "difficulty": 0.4985046220772159
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8df91dc-13c2-462d-9300-9a6bd7f4ebf2",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3954427074",
+      "timeSpentVideo": "0",
+      "submissions": 13844,
+      "submissionsCorrect": 11189,
+      "questions": 10,
+      "accuracy": 0.8082201675816238,
+      "difficulty": 0.4439902467010901
+    }
+  },
+  "explanation": {
+    "id": "6170c687-e6ec-4876-bd61-d8ec1c9c8313",
+    "body": "",
+    "questionId": "e960d838-a9a6-4c4a-812b-2ff83c67e313",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "8a909b24-d856-45c0-b268-d8e5fe630525",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding data type conversions is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a4545e4b-6f28-478c-a030-fb33aa21c2c7",
+        "index": 0,
+        "body": "The first use of an explicit type conversion will alter the data type of a variable for the remainder of the program",
+        "questionId": "8a909b24-d856-45c0-b268-d8e5fe630525",
+        "stats": {
+          "count": 1190
+        },
+        "resources": []
+      },
+      {
+        "id": "62d73579-e1b3-42c9-a6da-88939bd8e426",
+        "index": 1,
+        "body": "An assignment conversion will always result in the promotion of a lower-ranked data type to that of a higher-ranked data type.",
+        "questionId": "8a909b24-d856-45c0-b268-d8e5fe630525",
+        "stats": {
+          "count": 2287
+        },
+        "resources": []
+      },
+      {
+        "id": "ab3e5203-52d0-424e-9338-7a5ec5be066c",
+        "index": 2,
+        "body": "Implicit type conversions are made to all operands in an expression before any individual operator is evaluated.",
+        "questionId": "8a909b24-d856-45c0-b268-d8e5fe630525",
+        "stats": {
+          "count": 2273
+        },
+        "resources": []
+      },
+      {
+        "id": "56afda0b-49d4-41a4-a75d-8ae2b2077069",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "8a909b24-d856-45c0-b268-d8e5fe630525",
+        "stats": {
+          "count": 4662
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1184966929",
+    "timeSpentVideo": "53584794",
+    "submissions": 10629,
+    "submissionsCorrect": 4662,
+    "accuracy": 0.4386113463166808,
+    "difficulty": 0.8108164787025818
+  },
+  "resources": [],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "84c6853c-e181-45c3-a031-96ffd0d9125b",
+    "body": "",
+    "questionId": "8a909b24-d856-45c0-b268-d8e5fe630525",
+    "resources": [
+      {
+        "id": "ff8944b3-72d9-4ce9-a98d-872af586042d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=4sciZ4G8j1ykbNlz&t=1645"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "84c6853c-e181-45c3-a031-96ffd0d9125b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

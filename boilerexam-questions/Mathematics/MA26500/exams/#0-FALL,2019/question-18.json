@@ -1,0 +1,158 @@
+{
+  "id": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following system of differential equations\n\n\n\\[\n\\left[\\begin{array}{l}\nx_{1}^{\\prime}(t) \\\\\nx_{2}^{\\prime}(t)\n\\end{array}\\right]=\\left[\\begin{array}{ll}\n-7 & 9 \\\\\n-6 & 8\n\\end{array}\\right]\\left[\\begin{array}{l}\nx_{1}(t) \\\\\nx_{2}(t)\n\\end{array}\\right]\n\\]\n\nwith initial condition $\\left[\\begin{array}{l}x_{1}(0) \\\\ x_{2}(0)\\end{array}\\right]=\\left[\\begin{array}{l}5 \\\\ 4\\end{array}\\right]$. What is $x_{1}(2)+x_{2}(2)$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7eb2b063-7905-4ed8-9393-e4ef8a71b31b",
+        "index": 0,
+        "body": "$4 e^{-1}+5 e^{2}$",
+        "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "ab27dbfc-e2ea-4f77-8999-1d271ba64bff",
+        "index": 1,
+        "body": "$4 e^{-2}+5 e^{4}$",
+        "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "8c26fe1e-352a-46e6-b29a-f293b4778b74",
+        "index": 2,
+        "body": "$5 e^{-2}+4 e^{4}$",
+        "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+        "stats": {
+          "count": 765
+        },
+        "resources": []
+      },
+      {
+        "id": "08ef7417-1dfa-4eee-8e8b-ecd81e460f03",
+        "index": 3,
+        "body": "$5 e^{2}+4 e^{-4}$",
+        "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "52716b8f-2458-4e43-91ee-7e21040061e2",
+        "index": 4,
+        "body": "$5 e^{-2}+4 e^{-4}$",
+        "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "416230304",
+    "timeSpentVideo": "35864348",
+    "submissions": 1301,
+    "submissionsCorrect": 765,
+    "accuracy": 0.5880092236740968,
+    "difficulty": 0.6682726623840114
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "bfb09357-2502-4d2d-8dd8-7773e6b718de",
+    "body": "",
+    "questionId": "eeb91e57-1592-4124-9767-0ab4d2b8adce",
+    "resources": [
+      {
+        "id": "2a6caf4b-df27-4f46-8b8a-d159518644d4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3899"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bfb09357-2502-4d2d-8dd8-7773e6b718de",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "99a7ff97-9f32-46ad-9af5-54bbdf4250dd",
+      "name": "Differential Equations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16253734334",
+        "timeSpentVideo": "1861609104",
+        "submissions": 38354,
+        "submissionsCorrect": 23397,
+        "questions": 20,
+        "accuracy": 0.6100276372738176,
+        "difficulty": 0.6402584906641702
+      }
+    }
+  ],
+  "children": []
+}

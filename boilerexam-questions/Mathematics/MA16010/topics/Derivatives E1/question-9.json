@@ -1,0 +1,168 @@
+{
+  "id": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $y=4x \\cos x$, find $y'\\left(\\frac{\\pi}{4}\\right)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "da75f9d4-65aa-461d-9efa-159eef34f9c6",
+        "index": 0,
+        "body": "$\\frac{\\sqrt{2}}{2}-2\\pi$",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "3d5b32b2-2996-495c-a9d4-9745947e4720",
+        "index": 1,
+        "body": "$2\\sqrt{2}-\\frac{\\sqrt{2}\\pi}{2}$",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 161
+        },
+        "resources": []
+      },
+      {
+        "id": "12981c7d-8203-46a9-8b55-cbb923595a42",
+        "index": 2,
+        "body": "$\\frac{\\sqrt{2}}{2}+2\\sqrt{2}\\pi$",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "bae456f7-3cdc-4c3a-a853-d3e50091530a",
+        "index": 3,
+        "body": "$-2\\sqrt{2}$",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "eeaef82a-6aad-4e36-b98e-11e143a03369",
+        "index": 4,
+        "body": "-2",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "6b7e30a5-9fe4-4f9f-818f-5f0fedb4454e",
+        "index": 5,
+        "body": "$-2\\sqrt{2}-2$",
+        "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "68641579",
+    "timeSpentVideo": "5620974",
+    "submissions": 256,
+    "submissionsCorrect": 161,
+    "accuracy": 0.62890625,
+    "difficulty": 0.6573033707865169
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "7c71061f-8620-49fe-9a25-4f46139589ab",
+    "body": null,
+    "questionId": "3ff5289d-7e07-44cb-91fa-8a50ac5d6510",
+    "resources": [
+      {
+        "id": "41b64eb1-44c7-4229-b618-ad4d92d534d2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=KLrABXAwVRUgyrTD&t=2176"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7c71061f-8620-49fe-9a25-4f46139589ab",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "361a5d4c-2af5-413b-bbd4-a0c656592659",
+      "name": "Product Rule",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "183802937",
+        "timeSpentVideo": "5620974",
+        "submissions": 256,
+        "submissionsCorrect": 161,
+        "questions": 1,
+        "accuracy": 0.62890625,
+        "difficulty": 0.6573033707865169
+      }
+    },
+    {
+      "id": "cae2ab69-f512-4331-bace-ce5036bbdc52",
+      "name": "Derivatives E1",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1110546051",
+        "timeSpentVideo": "26984983",
+        "submissions": 1834,
+        "submissionsCorrect": 1230,
+        "questions": 7,
+        "accuracy": 0.6706652126499455,
+        "difficulty": 0.5881592554291624
+      }
+    }
+  ],
+  "children": []
+}

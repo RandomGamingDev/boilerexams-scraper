@@ -1,0 +1,149 @@
+{
+  "id": "066cd38d-2852-4ef5-af46-6325554f6d74",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "How many times is the loop control expression evaluated in the program?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "460b4602-246c-4ad4-8835-0092a2401de2",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Eight times.</font>",
+        "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      },
+      {
+        "id": "821ed789-5906-4de1-9464-5f87af20bd79",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">Seven times.</font>",
+        "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+        "stats": {
+          "count": 1640
+        },
+        "resources": []
+      },
+      {
+        "id": "d2a77ba1-09a6-4031-baad-1309e06e857c",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Six times.</font>",
+        "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+        "stats": {
+          "count": 547
+        },
+        "resources": []
+      },
+      {
+        "id": "cb8e89a0-7063-46c8-9331-2203a63e65b9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "177105232",
+    "timeSpentVideo": "13191612",
+    "submissions": 2680,
+    "submissionsCorrect": 1640,
+    "accuracy": 0.6119402985074627,
+    "difficulty": 0.6420863309352518
+  },
+  "resources": [
+    {
+      "id": "d6d4e712-279a-434e-b854-6b23b84d80f8",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main()\n{\n  int x = 1421910;\n  int y = 0;\n\n  while (x > 0) {\n    y += !!(x % 10);\n    x = x / 10 - 1;\n  }\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "3fcd6bae-58ea-4d82-9ecb-0f46ad93b8cd",
+    "body": "",
+    "questionId": "066cd38d-2852-4ef5-af46-6325554f6d74",
+    "resources": [
+      {
+        "id": "cbe3fb70-bd7b-4b82-ab0f-ce2b904adcc0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=1058"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3fcd6bae-58ea-4d82-9ecb-0f46ad93b8cd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

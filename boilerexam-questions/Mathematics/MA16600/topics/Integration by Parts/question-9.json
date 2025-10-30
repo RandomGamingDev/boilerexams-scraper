@@ -1,0 +1,158 @@
+{
+  "id": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using \u201cIntegration by Parts\u201d, compute and choose the right answer for the indefinite integral $\\int x^{2023} \\ln x  \\, \\,dx.$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7dee22d7-967f-4c51-8214-222da0a509e0",
+        "index": 0,
+        "body": "$\\frac{x^{2024}\\ln x}{2024}-\\frac{x^{2025}}{(2024)(2025)}+C$",
+        "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "d768a2f5-da6c-4a15-8e51-7829fe54b16e",
+        "index": 1,
+        "body": "$\\frac{x^{2024}\\ln x}{2024}-\\frac{x^{2024}}{(2024)^2}+C$",
+        "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "52205c3c-79ed-4d78-a36a-2222b3690718",
+        "index": 2,
+        "body": "$x^{2024}\\ln x-x^{2024}+C$",
+        "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "73f7c13a-ef60-45c8-8aa2-f7c4b8ab7593",
+        "index": 3,
+        "body": "$x^{2024}\\ln x-\\frac{x^{2024}}{2024}+C$",
+        "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "838440b1-a53c-4a67-b533-ee9858eae42e",
+        "index": 4,
+        "body": "$x^{2024}\\ln x-\\frac{x^{2024}}{(2024)^2}+C$",
+        "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "8873137",
+    "timeSpentVideo": "113511",
+    "submissions": 38,
+    "submissionsCorrect": 24,
+    "accuracy": 0.631578947368421,
+    "difficulty": 0.7137681159420289
+  },
+  "resources": [],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "76075fe3-ea51-4f0c-9089-63c4521bbc63",
+    "body": null,
+    "questionId": "dbc9799c-8e80-4a9b-809f-8a26aea35e7c",
+    "resources": [
+      {
+        "id": "9d5ecb01-3e08-4d73-b3f1-d35c57998f12",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=17o7PzxIotNLPZMg&t=3926"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "76075fe3-ea51-4f0c-9089-63c4521bbc63",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "192561457",
+        "timeSpentVideo": "2364001",
+        "submissions": 294,
+        "submissionsCorrect": 181,
+        "questions": 3,
+        "accuracy": 0.6156462585034014,
+        "difficulty": 0.6637055837563451
+      }
+    }
+  ],
+  "children": []
+}

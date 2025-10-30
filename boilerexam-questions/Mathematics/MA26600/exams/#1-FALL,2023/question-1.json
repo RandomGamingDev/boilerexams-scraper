@@ -1,0 +1,143 @@
+{
+  "id": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the explicit solution to the initial value problem\n\\[\n\\left\\{\n\\begin{array}{l}\n\\frac{dy}{dx} = \\frac{xy}{\\sqrt{1 + x^2}} \\\\\ny(0) = 1\n\\end{array}\n\\right.\n\\]\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "02a9b6d3-62eb-41d1-be8f-46a67b4c69b8",
+        "index": 0,
+        "body": "$y = e^{1 + x^2} - e + 1$",
+        "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "4261fa28-6f49-487e-b74f-31511395b7fc",
+        "index": 1,
+        "body": "$y = e^{\\sqrt{1 + x^2}}$",
+        "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "5b9238a3-516a-44cb-a6d0-f58db73b5fda",
+        "index": 2,
+        "body": "$y = e^{\\sqrt{1 + x^2} - 1}$",
+        "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+        "stats": {
+          "count": 589
+        },
+        "resources": []
+      },
+      {
+        "id": "e3399ee9-2a1e-4e65-bb0f-12cf16a36274",
+        "index": 3,
+        "body": "$y = x e^{\\sqrt{1 + x^2}} + 1$",
+        "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "7789c9ae-b824-4dc9-9c0f-9210825d562b",
+        "index": 4,
+        "body": "$y = \\sin(1 + x^3) + 1$",
+        "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "258217290",
+    "timeSpentVideo": "47013095",
+    "submissions": 924,
+    "submissionsCorrect": 589,
+    "accuracy": 0.6374458874458875,
+    "difficulty": 0.6259765625
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "70666a5c-4382-40ad-9b5a-01386f3ebf00",
+    "body": null,
+    "questionId": "5772b378-39fc-479f-84a4-c3aa3aa40994",
+    "resources": [
+      {
+        "id": "3b3ef7cc-169c-4e0c-8f8a-f0f7af3d771f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=EGfd13npkre-TrCa&t=1"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "70666a5c-4382-40ad-9b5a-01386f3ebf00",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34aba8fa-b5b2-485b-b97e-c00d4543b0f8",
+      "name": "Separation of Variables",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5099666475",
+        "timeSpentVideo": "411910359",
+        "submissions": 9217,
+        "submissionsCorrect": 6016,
+        "questions": 8,
+        "accuracy": 0.652706954540523,
+        "difficulty": 0.5989320596758614
+      }
+    }
+  ],
+  "children": []
+}

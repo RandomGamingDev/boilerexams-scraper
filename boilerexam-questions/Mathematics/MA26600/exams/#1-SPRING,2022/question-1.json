@@ -1,0 +1,128 @@
+{
+  "id": "af844bea-570c-4e1c-bf08-905d60e929ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the largest open interval in which the solution of the initial value problem\n\n\n\\[\n\\left(x^{2}-4\\right) \\frac{d y}{d x}-\\frac{y}{x}=\\frac{e^{x}}{x-5}, \\quad y(1)=3\n\\]\n\nis guaranteed to exist by the existence and uniqueness theorem.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9b2876e7-2444-4a0c-ba39-9ccc25b1a5f8",
+        "index": 0,
+        "body": "$(0,5)$",
+        "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+        "stats": {
+          "count": 374
+        },
+        "resources": []
+      },
+      {
+        "id": "a4c17c87-6677-4741-a8bb-e5e7ce4a4622",
+        "index": 1,
+        "body": "$(0,2)$",
+        "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+        "stats": {
+          "count": 1944
+        },
+        "resources": []
+      },
+      {
+        "id": "edcc7207-0f32-4da5-8b86-bad7afa08300",
+        "index": 2,
+        "body": "$(-2,2)$",
+        "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+        "stats": {
+          "count": 360
+        },
+        "resources": []
+      },
+      {
+        "id": "519e52f8-7cdf-49c8-9691-f0c6c2690cc5",
+        "index": 3,
+        "body": "$(-2,5)$",
+        "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "f9e01af2-98cc-412b-999b-ca1ab4d6cf57",
+        "index": 4,
+        "body": "$(0,3)$",
+        "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "37557567-8a85-44f8-a17f-f33e7ca60855",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "672968668",
+    "timeSpentVideo": "0",
+    "submissions": 2960,
+    "submissionsCorrect": 1941,
+    "accuracy": 0.6557432432432433,
+    "difficulty": 0.5993464052287582
+  },
+  "resources": [],
+  "exam": {
+    "id": "37557567-8a85-44f8-a17f-f33e7ca60855",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4210380123",
+      "timeSpentVideo": "0",
+      "submissions": 14075,
+      "submissionsCorrect": 10924,
+      "questions": 7,
+      "accuracy": 0.7761278863232682,
+      "difficulty": 0.4758201058201058
+    }
+  },
+  "explanation": {
+    "id": "4579f995-ce57-41ef-8036-c8151060560f",
+    "body": "",
+    "questionId": "af844bea-570c-4e1c-bf08-905d60e929ee",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "94723094-ed9a-4a09-b629-4a9cd877ef8a",
+      "name": "Existence and Uniqueness Theorem",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6660983736",
+        "timeSpentVideo": "356068835",
+        "submissions": 10997,
+        "submissionsCorrect": 6335,
+        "questions": 4,
+        "accuracy": 0.5760661998726926,
+        "difficulty": 0.6746192664684149
+      }
+    }
+  ],
+  "children": []
+}

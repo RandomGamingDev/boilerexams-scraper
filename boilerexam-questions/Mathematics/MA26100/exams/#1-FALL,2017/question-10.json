@@ -1,0 +1,143 @@
+{
+  "id": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find $\\frac{\\partial z}{\\partial x}$ at $(x, y, z)=(1,2,1)$, where $z$ is defined implicitly as a function of $x$ and $y$ by the equation\n$$\n\\tan (\\pi x y z)=x^{2}-z^{2}\n$$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "60278f38-515c-49c3-9471-8f04bd21dbae",
+        "index": 0,
+        "body": "$\\frac{1}{\\pi+1}$",
+        "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "e401924e-cff6-499a-a50c-4d6d07aa487e",
+        "index": 1,
+        "body": "$1-\\pi$",
+        "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "ebc18ca3-508d-4730-ae45-be1d7cf378f3",
+        "index": 2,
+        "body": "$\\frac{2-2 \\pi}{3}$",
+        "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "63fe9054-28c8-48f3-afba-8707a190ff83",
+        "index": 3,
+        "body": "$\\frac{1-\\pi}{1+\\pi}$",
+        "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+        "stats": {
+          "count": 1089
+        },
+        "resources": []
+      },
+      {
+        "id": "4cce0cb2-92a5-4d37-94c6-9ade2f6fefcc",
+        "index": 4,
+        "body": "$\\frac{\\pi+1}{1-\\pi}$",
+        "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "526607848",
+    "timeSpentVideo": "43011618",
+    "submissions": 2103,
+    "submissionsCorrect": 1089,
+    "accuracy": 0.5178316690442225,
+    "difficulty": 0.7329777576032682
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "66ecc696-24b0-4490-91f3-95f72ab46fa9",
+    "body": null,
+    "questionId": "9cac071b-7de4-4739-b4ce-9090fa9db0c8",
+    "resources": [
+      {
+        "id": "234ebaa4-3b14-46c7-9d98-8757ace9a832",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=N9cIFz9fsTTzIYW4&t=1789"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "66ecc696-24b0-4490-91f3-95f72ab46fa9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "963954fb-31ff-422c-8b8e-3f747b7bc3ee",
+      "name": "Implicit partial diff",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7265981727",
+        "timeSpentVideo": "501401631",
+        "submissions": 16304,
+        "submissionsCorrect": 8481,
+        "questions": 4,
+        "accuracy": 0.5201790971540726,
+        "difficulty": 0.72994391611802
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the double integral by reversing the order of integration:\n\n\n\n\\[\n\\int_{0}^{3} \\int_{y^{2}}^{9} y \\cos \\left(x^{2}\\right) d x d y\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a5118ad7-8f43-4d58-b72d-1891b2d809d8",
+        "index": 0,
+        "body": "$\\frac{\\sin 81}{2}$",
+        "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "74f30e14-50f5-4fbc-9904-79ad4653974a",
+        "index": 1,
+        "body": "$\\frac{\\sin 81}{9}$",
+        "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "d8d2c87f-49ab-48e8-b7ec-e92eaf9ac675",
+        "index": 2,
+        "body": "$\\frac{\\sin 81}{24}$",
+        "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "1067a9ab-b9d7-48d9-94e5-745797a2e559",
+        "index": 3,
+        "body": "$\\frac{\\sin 81}{4}$",
+        "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+        "stats": {
+          "count": 738
+        },
+        "resources": []
+      },
+      {
+        "id": "9be306ac-52b0-4825-9841-aae90ee06e07",
+        "index": 4,
+        "body": "$\\frac{\\sin 81}{16}$",
+        "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "64a3454b-0da7-4eda-9aeb-e5f5bdd2986a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "303428595",
+    "timeSpentVideo": "27693515",
+    "submissions": 1090,
+    "submissionsCorrect": 738,
+    "accuracy": 0.6770642201834862,
+    "difficulty": 0.5878151260504202
+  },
+  "resources": [],
+  "exam": {
+    "id": "64a3454b-0da7-4eda-9aeb-e5f5bdd2986a",
+    "number": 2,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3038048582",
+      "timeSpentVideo": "553259659",
+      "submissions": 11828,
+      "submissionsCorrect": 6429,
+      "questions": 12,
+      "accuracy": 0.5435407507609064,
+      "difficulty": 0.7068242790073777
+    }
+  },
+  "explanation": {
+    "id": "27305b62-8b9b-47e7-87e5-6a2b3ae86aea",
+    "body": "",
+    "questionId": "9861c58e-77da-4854-8eb1-de34a21c9daa",
+    "resources": [
+      {
+        "id": "135a341f-f1be-4bf5-a637-7a74ee66e24f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Mk4ZTx9ppt8?feature=shared&t=416"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "27305b62-8b9b-47e7-87e5-6a2b3ae86aea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

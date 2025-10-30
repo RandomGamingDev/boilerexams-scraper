@@ -1,0 +1,127 @@
+{
+  "id": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the equation $A \\mathbf{x}=\\mathbf{b}$ where $A$ is a $3 \\times 2$ matrix and $\\mathbf{b}$ is in $\\mathbb{R}^{3}$. Which of the following statements is true for every matrix $A$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "559f89d9-236c-462a-8d1f-fa3f6d3d2c58",
+        "index": 0,
+        "body": "The equation $A \\mathbf{x}=\\mathbf{b}$ is inconsistent for every $\\mathbf{b}$ in $\\mathbb{R}^{3}$.",
+        "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "89269452-81f7-4f55-a172-0caf6a44804c",
+        "index": 1,
+        "body": "Whenever the equation $A \\mathbf{x}=\\mathbf{b}$ is consistent, it has exactly one solution $\\mathbf{x}$.",
+        "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "76bb4a20-ee5a-436c-86d3-7eba0d949edc",
+        "index": 2,
+        "body": "Whenever the equation $A \\mathbf{x}=\\mathbf{b}$ is consistent, it has infinitely many solutions $\\mathbf{x}$.",
+        "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+        "stats": {
+          "count": 265
+        },
+        "resources": []
+      },
+      {
+        "id": "6a917718-054e-48f1-b875-f025705c7c1d",
+        "index": 3,
+        "body": "The equation $A \\mathbf{x}=\\mathbf{b}$ is inconsistent for at least one $\\mathbf{b}$ in $\\mathbb{R}^{3}$.",
+        "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+        "stats": {
+          "count": 578
+        },
+        "resources": []
+      },
+      {
+        "id": "576bb011-e4dd-415f-a95d-72f2a15ea38c",
+        "index": 4,
+        "body": "If the columns of $A$ are a scalar multiple of one another, then the equation $A \\mathbf{x}=\\mathbf{b}$ has exactly one solution.",
+        "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "160770462",
+    "timeSpentVideo": "61220367",
+    "submissions": 1209,
+    "submissionsCorrect": 578,
+    "accuracy": 0.47808105872622003,
+    "difficulty": 0.7702444614209321
+  },
+  "resources": [],
+  "exam": {
+    "id": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5256686073",
+      "timeSpentVideo": "817078114",
+      "submissions": 28962,
+      "submissionsCorrect": 18421,
+      "questions": 25,
+      "accuracy": 0.636040328706581,
+      "difficulty": 0.6144277751015071
+    }
+  },
+  "explanation": {
+    "id": "243afe65-7818-4386-832d-61f4b1fb94d8",
+    "body": "",
+    "questionId": "d94eba68-8fae-49a8-94c8-a3ae887698d6",
+    "resources": [
+      {
+        "id": "771c5f63-41ac-480e-94df-9522417a6f01",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/HumaprXFL5g?t=105\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "243afe65-7818-4386-832d-61f4b1fb94d8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

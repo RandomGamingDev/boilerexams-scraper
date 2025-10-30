@@ -1,0 +1,158 @@
+{
+  "id": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ll}1 & 2 \\\\ 3 & 5\\end{array}\\right], B=\\left[\\begin{array}{ll}3 & 1 \\\\ 4 & 1\\end{array}\\right]$, and $C=A B^{-1}=\\left[\\begin{array}{ll}a & b \\\\ c & d\\end{array}\\right]$, then $a+b+c+d=$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "5b5f7391-955f-4aae-afbd-90816ef44eb3",
+        "index": 0,
+        "body": "$-7$",
+        "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+        "stats": {
+          "count": 564
+        },
+        "resources": []
+      },
+      {
+        "id": "0d846798-7760-42c8-b901-c0f4e32dbda7",
+        "index": 1,
+        "body": "$8$",
+        "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+        "stats": {
+          "count": 132
+        },
+        "resources": []
+      },
+      {
+        "id": "cc8d0ff5-552f-49ae-b28e-faecad4f2ea0",
+        "index": 2,
+        "body": "$7$",
+        "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+        "stats": {
+          "count": 2709
+        },
+        "resources": []
+      },
+      {
+        "id": "0d8db57d-66f6-48ed-acf9-aa3bab819f2f",
+        "index": 3,
+        "body": "$-8$",
+        "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "4693afc6-e125-45cb-ba4f-d26a2a9931f1",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "73672c28-8dee-4b95-9b27-03329b8daa18",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1290590491",
+    "timeSpentVideo": "221018425",
+    "submissions": 4712,
+    "submissionsCorrect": 2709,
+    "accuracy": 0.5749151103565365,
+    "difficulty": 0.6766417290108063
+  },
+  "resources": [],
+  "exam": {
+    "id": "73672c28-8dee-4b95-9b27-03329b8daa18",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7150994129",
+      "timeSpentVideo": "1606316533",
+      "submissions": 33647,
+      "submissionsCorrect": 20592,
+      "questions": 10,
+      "accuracy": 0.6120010699319405,
+      "difficulty": 0.6383308145909266
+    }
+  },
+  "explanation": {
+    "id": "c7ae8fa7-6673-409b-b368-8dfd41771766",
+    "body": "",
+    "questionId": "c432f0bd-3ddd-4373-95a5-100dadad7912",
+    "resources": [
+      {
+        "id": "7fd5ad65-e410-416d-be6a-89665e7b6bab",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=d1_WSP0AS6c"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c7ae8fa7-6673-409b-b368-8dfd41771766",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "c0dc3367-8625-4d57-85eb-90ac0c8f2323",
+      "name": "Matrix Addition and Multiplication",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8162413508",
+        "timeSpentVideo": "815735998",
+        "submissions": 16260,
+        "submissionsCorrect": 9237,
+        "questions": 9,
+        "accuracy": 0.5680811808118081,
+        "difficulty": 0.6823349633251834
+      }
+    }
+  ],
+  "children": []
+}

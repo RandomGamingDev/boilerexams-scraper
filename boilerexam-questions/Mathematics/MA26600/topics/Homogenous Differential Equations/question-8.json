@@ -1,0 +1,143 @@
+{
+  "id": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of $y'''+6y''+9y'=0$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a82bb6cf-78b3-4a7d-8d3f-897823579205",
+        "index": 0,
+        "body": "$y(t)=c_1+c_2e^{-3t}+c_3te^{-3t}$",
+        "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+        "stats": {
+          "count": 572
+        },
+        "resources": []
+      },
+      {
+        "id": "25b9591e-37da-4080-9f40-e1c94be19dfe",
+        "index": 1,
+        "body": "$y(t)+c_1t+c_2e^{3t}+c_3te^{3t}$",
+        "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "4b6f3bdf-57cc-4b89-89a6-2c9e22f8d5ca",
+        "index": 2,
+        "body": "$y(t)=c_1+c_2\\cos{(-3t)}+c_2\\sin{(-3t)}$",
+        "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "396cfdbb-b0c4-4c09-b53c-f30861032d74",
+        "index": 3,
+        "body": "$y(t)=c_1t+c_2e^{-3t}+c_3e^{3t}$",
+        "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "fe607345-4619-443a-9f81-8e7f94408f7f",
+        "index": 4,
+        "body": "$y(t)=c_1t+c_2\\cos{(3t)}+c_2\\sin{(3t)}$",
+        "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "72593247",
+    "timeSpentVideo": "3080837",
+    "submissions": 652,
+    "submissionsCorrect": 572,
+    "accuracy": 0.8773006134969326,
+    "difficulty": 0.4228723404255319
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "c2b7cd4d-c10d-4e75-a17d-bb012a85509d",
+    "body": null,
+    "questionId": "45b67bc1-4fc6-4011-b902-e6f4560a9f85",
+    "resources": [
+      {
+        "id": "c7000206-d568-48c4-9b24-0f9cc38164bf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=3438s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c2b7cd4d-c10d-4e75-a17d-bb012a85509d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

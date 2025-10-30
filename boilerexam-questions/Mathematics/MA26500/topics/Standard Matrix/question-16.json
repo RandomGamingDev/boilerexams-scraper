@@ -1,0 +1,203 @@
+{
+  "id": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear transformation $T: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{3}$ given by\n\n\n\n\\[\nT\\left(\\left[\\begin{array}{l}\n1 \\\\\n0 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\na \\\\\n1 \\\\\n2\n\\end{array}\\right], \\quad T\\left(\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{r}\n-1 \\\\\n3 \\\\\n1\n\\end{array}\\right], \\quad T\\left(\\left[\\begin{array}{l}\n0 \\\\\n0 \\\\\n1\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\n4 \\\\\na \\\\\n4\n\\end{array}\\right],\n\\]\n\nwhere $a$ is a real number. Which of the following statements are/is TRUE?\n\n(i) The linear transformation $T$ is one-to-one for every real value of $a$.\n\n(ii) The linear transformation is not onto for $a=2$.\n\n(iii) The standard matrix for the linear transformation $T$ (relative to the standard basis on $\\mathbb{R}^{3}$ ) has rank $3$ for all real numbers $a \\neq 2,8$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d6ffea2d-225c-4ca7-bd8d-5f7ffaf4531e",
+        "index": 0,
+        "body": "(ii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+        "stats": {
+          "count": 236
+        },
+        "resources": []
+      },
+      {
+        "id": "20df955e-30ff-4181-ad69-0b95a5471680",
+        "index": 1,
+        "body": "(i) and (ii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "56ca7e72-9e2c-47d4-ba13-fe2214340190",
+        "index": 2,
+        "body": "(iii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+        "stats": {
+          "count": 455
+        },
+        "resources": []
+      },
+      {
+        "id": "72cd085e-2669-4970-9441-b721044c201d",
+        "index": 3,
+        "body": "(ii) and (iii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+        "stats": {
+          "count": 1287
+        },
+        "resources": []
+      },
+      {
+        "id": "19ff6962-b7f4-44a5-b134-b8180d599939",
+        "index": 4,
+        "body": "(i), (ii) and (iii)",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "669210864",
+    "timeSpentVideo": "128386467",
+    "submissions": 2551,
+    "submissionsCorrect": 1287,
+    "accuracy": 0.5045080360642885,
+    "difficulty": 0.7456620143342135
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "29d563ee-e01d-4948-a440-769216351dc2",
+    "body": "",
+    "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
+    "resources": [
+      {
+        "id": "c57c8d2b-7b64-4fc8-8fc4-2db89f164815",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/sLKVGcS9aJ8?si=KXtALIj0rydrCx0t"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "29d563ee-e01d-4948-a440-769216351dc2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7399288103",
+        "timeSpentVideo": "847747211",
+        "submissions": 14733,
+        "submissionsCorrect": 8390,
+        "questions": 7,
+        "accuracy": 0.5694698975089935,
+        "difficulty": 0.6809984494033574
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "8e39155e-e6f2-40e0-8f19-8a84d7b742c5",
+      "name": "Onto Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3472792632",
+        "timeSpentVideo": "342523146",
+        "submissions": 6016,
+        "submissionsCorrect": 3436,
+        "questions": 2,
+        "accuracy": 0.5711436170212766,
+        "difficulty": 0.6800196206671026
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

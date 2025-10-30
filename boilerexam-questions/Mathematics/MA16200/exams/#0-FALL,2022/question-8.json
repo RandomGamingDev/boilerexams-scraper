@@ -1,0 +1,143 @@
+{
+  "id": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int_{0}^{1} x e^{3 x} d x=$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ca6d1e35-8958-4662-9dd2-d98b0a695c5d",
+        "index": 0,
+        "body": "$\\frac{2}{9} e^{3}$",
+        "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+        "stats": {
+          "count": 227
+        },
+        "resources": []
+      },
+      {
+        "id": "2e650583-1d76-4dbc-8a26-b8c8a4106d00",
+        "index": 1,
+        "body": "$\\frac{1}{9}+\\frac{2}{9} e^{3}$",
+        "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+        "stats": {
+          "count": 2497
+        },
+        "resources": []
+      },
+      {
+        "id": "701f07e3-04c0-421a-b6f0-e00ccd392464",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "0dd24c3f-38ad-4cf2-813c-f19be645b545",
+        "index": 3,
+        "body": "$\\frac{1}{9}$",
+        "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "4f58c5c3-692c-4ddf-a7fa-7ff176fc069d",
+        "index": 4,
+        "body": "$\\frac{1}{9} e^{3}-1$",
+        "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "676817022",
+    "timeSpentVideo": "30024094",
+    "submissions": 3315,
+    "submissionsCorrect": 2497,
+    "accuracy": 0.7532428355957768,
+    "difficulty": 0.5041727672035139
+  },
+  "resources": [],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838346198",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83620,
+      "submissionsCorrect": 49984,
+      "questions": 25,
+      "accuracy": 0.5977517340349199,
+      "difficulty": 0.6523650262780698
+    }
+  },
+  "explanation": {
+    "id": "0e0f9a5c-9a98-4959-923c-0e9f62c7b328",
+    "body": "",
+    "questionId": "aa6b95f0-ad2b-49b1-8d53-47e875fda4c4",
+    "resources": [
+      {
+        "id": "dd64da87-8a9d-4fa4-9914-dd023b93aa57",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D9ac4PPWgKc?t=911\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0e0f9a5c-9a98-4959-923c-0e9f62c7b328",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

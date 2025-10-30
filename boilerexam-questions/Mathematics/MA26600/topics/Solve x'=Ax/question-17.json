@@ -1,0 +1,143 @@
+{
+  "id": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the following system\n\n\\[\n\\mathrm{x}^{\\prime}=\\left(\\begin{array}{cc}\n2 & 7 \\\\\n1 & -4\n\\end{array}\\right) \\mathrm{x} .\n\\]\n\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "6a2a920a-9c4e-4164-be4c-10082acc37d8",
+        "index": 0,
+        "body": "$\\mathbf{x}(t)=c_{1} e^{2 t}\\left(\\begin{array}{l}7 \\\\ 1\\end{array}\\right)+c_{2} e^{-4 t}\\left(\\begin{array}{l}0 \\\\ 1\\end{array}\\right)$",
+        "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "de7fcf34-0603-46c6-a0aa-51f252dd3d56",
+        "index": 1,
+        "body": "$\\mathrm{x}(t)=c_{1} e^{2 t}\\left(\\begin{array}{l}7 \\\\ 1\\end{array}\\right)+c_{2} e^{-4 t}\\left(\\begin{array}{c}-1 \\\\ 1\\end{array}\\right)$",
+        "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "eff9acc2-1efb-43b5-802f-f97c9e35a15e",
+        "index": 2,
+        "body": "$\\mathrm{x}(t)=c_{1} e^{2 t}\\left(\\begin{array}{l}1 \\\\ 0\\end{array}\\right)+c_{2} e^{-i t}\\left(\\begin{array}{l}0 \\\\ 1\\end{array}\\right)$",
+        "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "6a6312ad-1f5f-4b7e-ad47-78c8f815decb",
+        "index": 3,
+        "body": "$\\mathrm{x}(t)=c_{1} e^{3 t}\\left(\\begin{array}{l}7 \\\\ 1\\end{array}\\right)+c_{2} e^{-5 t}\\left(\\begin{array}{c}-1 \\\\ 1\\end{array}\\right)$",
+        "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+        "stats": {
+          "count": 1142
+        },
+        "resources": []
+      },
+      {
+        "id": "228a2c84-b7ef-4884-b943-396255725b50",
+        "index": 4,
+        "body": "$x(t)=c_{1} e^{3 t}\\left(\\begin{array}{l}1 \\\\ 0\\end{array}\\right)+c_{2} e^{-5 t}\\left(\\begin{array}{l}0 \\\\ 1\\end{array}\\right)$",
+        "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "292872129",
+    "timeSpentVideo": "19194586",
+    "submissions": 1331,
+    "submissionsCorrect": 1142,
+    "accuracy": 0.8580015026296018,
+    "difficulty": 0.41701607267645
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "7b93c93d-3c8d-427e-88a1-ee42be7f7b09",
+    "body": "",
+    "questionId": "ee49211b-2a7a-48a7-89e2-c333042dd7f5",
+    "resources": [
+      {
+        "id": "2ceac81a-c388-4f34-8adf-a9ee6249d0aa",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=4-1-Dm4I0KsUGy9o&t=2514"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7b93c93d-3c8d-427e-88a1-ee42be7f7b09",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

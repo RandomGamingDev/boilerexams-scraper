@@ -1,0 +1,153 @@
+{
+  "id": "63dc8350-229c-456e-b524-5a536c517857",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int_{0}^{\\pi / 4} x \\sin x \\cos x d x$",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "f14aa44f-8573-4705-bb45-cec5ce12b9ca",
+        "index": 0,
+        "body": "$\\frac{\\pi+1}{8}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "4d977471-b3ce-4d65-a681-7020d426f766",
+        "index": 1,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "82de01fb-6939-40ae-8a9d-b81f701bb370",
+        "index": 2,
+        "body": "$\\frac{1}{4}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 210
+        },
+        "resources": []
+      },
+      {
+        "id": "8dcdb46a-f03e-4563-b880-2879a9516ae0",
+        "index": 3,
+        "body": "$\\frac{\\pi+1}{4}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "17816b24-6995-4f4d-8007-5cbfc4bf4477",
+        "index": 4,
+        "body": "$\\frac{\\pi}{8}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "9b0efc7a-eb82-4be6-8edd-8dcc9346dbcd",
+        "index": 5,
+        "body": "$\\frac{1}{8}$",
+        "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+        "stats": {
+          "count": 1116
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "ac49247a-ff75-4fad-81ea-c684ca361961",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "626453764",
+    "timeSpentVideo": "65828586",
+    "submissions": 2595,
+    "submissionsCorrect": 1116,
+    "accuracy": 0.4300578034682081,
+    "difficulty": 0.8173469387755101
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac49247a-ff75-4fad-81ea-c684ca361961",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6303658106",
+      "timeSpentVideo": "685020582",
+      "submissions": 32950,
+      "submissionsCorrect": 20812,
+      "questions": 12,
+      "accuracy": 0.6316236722306525,
+      "difficulty": 0.6187745839636913
+    }
+  },
+  "explanation": {
+    "id": "30aeff94-2987-4495-9bd9-319f0588e9ff",
+    "body": "",
+    "questionId": "63dc8350-229c-456e-b524-5a536c517857",
+    "resources": [
+      {
+        "id": "bac1b7ee-b551-4c56-8e08-798d7d1401d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YXRnrX7N3w4?t=1897\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "30aeff94-2987-4495-9bd9-319f0588e9ff",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

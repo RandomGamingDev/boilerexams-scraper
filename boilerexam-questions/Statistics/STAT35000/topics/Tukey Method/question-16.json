@@ -1,0 +1,106 @@
+{
+  "id": "bbf5d59f-35fc-401f-8d3a-98d696bdc0ea",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "The college dietician did conduct a pairwise comparison while maintaining the overall type I error at 5% using Tukey\u2019s HSD method. The R output for it is given below. \n\n(g) (5 points) Using the above output and the table of sample statistics draw a graphical representation of the Tukey\u2019s HSD results and write one to two complete English sentences stating which Diet program is the best to reduce weight. Please explain your answer.",
+    "solution": "There should be a line between Diet 2 and Diet 1. \n\nSince, the pairwise Tukey comparison resulted in no significant difference between diet 1\nand diet 2 they are statistically indistinguishable in the population. Diet 3 is different from\nboth diet 1 and diet 2 and resulted in the largest reduction in weight so there is evidence to\nsuggest that diet 3 is the better program to reduce weight.",
+    "answerChoices": []
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "6142182",
+    "timeSpentVideo": "2238678",
+    "submissions": 56,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.9294871794871795
+  },
+  "resources": [
+    {
+      "id": "c40749fe-60cd-44a8-8640-5eb5c9c65e6d",
+      "type": "IMAGE",
+      "data": {
+        "key": "EOdfLZEODJ55-AqN2Crp2",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/EOdfLZEODJ55-AqN2Crp2"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "bbf5d59f-35fc-401f-8d3a-98d696bdc0ea",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "ee2ae192-ce8b-4eea-a375-630bcfff0223",
+    "body": null,
+    "questionId": "bbf5d59f-35fc-401f-8d3a-98d696bdc0ea",
+    "resources": [
+      {
+        "id": "28b8da75-33cc-451a-8ba5-cbaef3f16659",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=1019"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ee2ae192-ce8b-4eea-a375-630bcfff0223",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3918c1a3-2c56-45c1-88d2-105a8fe36b39",
+      "name": "Tukey Method",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "90306104",
+        "timeSpentVideo": "7131281",
+        "submissions": 274,
+        "submissionsCorrect": 142,
+        "questions": 2,
+        "accuracy": 0.5182481751824818,
+        "difficulty": 0.7366310160427807
+      }
+    }
+  ],
+  "children": []
+}

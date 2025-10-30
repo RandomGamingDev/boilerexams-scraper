@@ -1,0 +1,158 @@
+{
+  "id": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the system of differential equations $\\mathbf{x}^{\\prime}(t)=A \\mathbf{x}(t)$ with $A=\\left[\\begin{array}{ll}1 & -5 \\\\ 2 & -6\\end{array}\\right]$, the origin is",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "81836899-8c04-4584-a030-d2580ffbb89a",
+        "index": 0,
+        "body": "an attractor",
+        "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+        "stats": {
+          "count": 1006
+        },
+        "resources": []
+      },
+      {
+        "id": "d476f7ea-f3bd-4963-9c34-0024fdfff708",
+        "index": 1,
+        "body": "a repeller",
+        "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+        "stats": {
+          "count": 232
+        },
+        "resources": []
+      },
+      {
+        "id": "4a62f909-e360-47c7-8637-7b09089e624f",
+        "index": 2,
+        "body": "a saddle point",
+        "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "878b684b-40e0-49c7-a079-7852e2cd206d",
+        "index": 3,
+        "body": "a spiral point",
+        "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "29fa69f8-60ec-4264-948c-4d7a0ad0de78",
+        "index": 4,
+        "body": "none of the above",
+        "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "129941718",
+    "timeSpentVideo": "7455610",
+    "submissions": 1424,
+    "submissionsCorrect": 1006,
+    "accuracy": 0.7064606741573034,
+    "difficulty": 0.5570866141732284
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "98c3f5df-ecff-41fa-9a79-f03f02455d8e",
+    "body": "",
+    "questionId": "ede30b6e-4d84-40fe-9f2f-2f55ec234ad1",
+    "resources": [
+      {
+        "id": "f7bc9dbf-8a43-493b-b7b2-6488c1773a4b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3435"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "98c3f5df-ecff-41fa-9a79-f03f02455d8e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "99a7ff97-9f32-46ad-9af5-54bbdf4250dd",
+      "name": "Differential Equations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16253734334",
+        "timeSpentVideo": "1861609104",
+        "submissions": 38354,
+        "submissionsCorrect": 23397,
+        "questions": 20,
+        "accuracy": 0.6100276372738176,
+        "difficulty": 0.6402584906641702
+      }
+    }
+  ],
+  "children": []
+}

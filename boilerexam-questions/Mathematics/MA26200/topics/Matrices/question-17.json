@@ -1,0 +1,143 @@
+{
+  "id": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the matrix $A$ given by\n\n\\[\nA=\\left[\\begin{array}{ccc}\n1 & 2 & 1 \\\\\n0 & 3 & -2 \\\\\n1 & 8 & -3\n\\end{array}\\right],\n\\]\n\nwe have $2 \\operatorname{dim}(\\operatorname{Null}(A))-\\operatorname{rank}(A)=$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ae2ec670-06fa-46e8-bd19-10bb7af459e1",
+        "index": 0,
+        "body": "$-3$",
+        "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "1db7e5f7-ef28-4c8b-a32e-70f6ac8b601d",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+        "stats": {
+          "count": 571
+        },
+        "resources": []
+      },
+      {
+        "id": "6ccf0874-d83f-4542-852f-6e5ca4884ee6",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "895b08ee-1175-41e1-98df-c11bdc6423ea",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "e619721b-0ff9-4281-8d72-2b09a24c104b",
+        "index": 4,
+        "body": "$6$",
+        "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "161940676",
+    "timeSpentVideo": "32860075",
+    "submissions": 978,
+    "submissionsCorrect": 571,
+    "accuracy": 0.5838445807770961,
+    "difficulty": 0.6739332096474954
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "e58c0cd1-85c0-4f11-93b8-f80ee77732c0",
+    "body": "",
+    "questionId": "e7ce3892-f14e-4ba2-a927-c9c4cf64bd18",
+    "resources": [
+      {
+        "id": "7b100777-45c6-4161-81fb-26f378823b18",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=ejMkn0EyZC7V-nZA&t=3078\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e58c0cd1-85c0-4f11-93b8-f80ee77732c0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

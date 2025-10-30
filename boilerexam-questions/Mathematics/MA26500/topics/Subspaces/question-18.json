@@ -1,0 +1,143 @@
+{
+  "id": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following subsets of the vector space $\\mathbb{R}^{3}$ are subspaces of $\\mathbb{R}^{3}$ ?\n\n(i) The set of all vectors $v=\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]$ with the property $2 x y z=0$.\n\n(ii) The set of all the solutions of the equation $x-5 y+2 z=0$.\n\n(iii) The set of all solutions for the system $\\left[\\begin{array}{ccc}2 & 3 & 2 \\\\ 5 & 2 & 8 \\\\ -1 & 1 & 3\\end{array}\\right]\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right]$.\n\n(iv) The set of all the solutions of the equation $x+3 y=2 z+1$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "21207968-10a2-4c90-b96b-f8aa6b82c9f0",
+        "index": 0,
+        "body": "(ii) and (iii) only",
+        "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+        "stats": {
+          "count": 1537
+        },
+        "resources": []
+      },
+      {
+        "id": "cff23601-c2ae-418e-9a39-14805389e360",
+        "index": 1,
+        "body": "(ii) and (iv) only",
+        "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "a1435952-26d2-4f3e-b4db-a05ce2092f38",
+        "index": 2,
+        "body": "(iii) and (iv) only",
+        "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "7433190c-ceeb-4f63-88bf-2b0c885429f5",
+        "index": 3,
+        "body": "(ii), (iii) and (iv) only",
+        "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "ad985581-aae9-4c85-86fe-9d619063f525",
+        "index": 4,
+        "body": "(i), (ii), (iii) and (iv)",
+        "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "330734159",
+    "timeSpentVideo": "88591803",
+    "submissions": 2095,
+    "submissionsCorrect": 1537,
+    "accuracy": 0.7336515513126491,
+    "difficulty": 0.526993166287016
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "ed5efe8f-d1cc-43ad-a3e9-6c066a4288ba",
+    "body": "",
+    "questionId": "4f3baa69-c243-4f3f-9ffe-c2ab8e6cdbc3",
+    "resources": [
+      {
+        "id": "e0c45387-85e9-432d-8afc-c54c18fd6af1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=3239\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ed5efe8f-d1cc-43ad-a3e9-6c066a4288ba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    }
+  ],
+  "children": []
+}

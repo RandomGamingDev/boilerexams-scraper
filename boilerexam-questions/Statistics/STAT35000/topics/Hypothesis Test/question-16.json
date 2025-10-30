@@ -1,0 +1,123 @@
+{
+  "id": "600d6fa4-03fd-40f4-a019-dcfda987ef46",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": " In a semiconductor manufacturing company, the production process for microchips relies on a critical component that plays a vital role in the chips' performance. Even small deviations in these dimensions can lead to substantial losses. The company has a well-established process for producing these components and has been measuring the standard deviation of this critical dimension for years, obtaining a very precise estimate of \ud835\udf48 = \ud835\udfd0 nm (nano meter). It is also known that the critical dimension of these components follows a normal distribution.\nThe company is considering implementing an improved lithography technique in the manufacturing process that is expected to make the components even more precise, leading to a smaller critical dimension. However, implementing this change is extremely costly, and there is a lot at stake. They need to be sure that the improvement will result in a smaller critical dimension before investing in the\nnew lithography technique. The current critical dimension is measured to be on average 22 nm and for the new technique to be worth the investment they need to have an average reduction of 2 nm to justify the investment in the new lithography technique to their stake holders. A study is to be conducted in which the Type I error rate is to be controlled at a significance level \ud835\udf36 = \ud835\udfce. \ud835\udfce\ud835\udfce\ud835\udfcf. Additionally, the study requires a high degree of power to detect a reduction of 2nm or more. The team working on the improved lithography technique is granted enough resources to manufacture 35 components for testing this hypothesis. Is a sample size of \ud835\udc8f = \ud835\udfd1\ud835\udfd3 enough to identify a reduction of 2nm at a high degree of power?\n\n(A) Clearly state the parameter of interest and define the null and the alternative\nhypothesis of the study.\n",
+    "solution": "One Sample Procedure: The parameter of interest is \ud835\udf41\ud835\udc02\ud835\udc03 the true average of the critical dimension. \ud835\udc6f\ud835\udfce:\ud835\udf41\ud835\udc02\ud835\udc03\u2265\ud835\udfd0\ud835\udfd0 \ud835\udc6f\ud835\udc82:\ud835\udf41\ud835\udc02\ud835\udc03<\ud835\udfd0\ud835\udfd0 Alternative: Two-Sample Paired Procedure: If we consider the company will produce 1 item with and without the new technique from the same materials, we can consider this a paired procedure.  The parameter of interest would be the true average reduction in the critical dimension \ud835\udf41\ud835\udc6b.  \ud835\udc6b=\ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1e\ud835\udc1d \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c- \ud835\udc0e\ud835\udc2b\ud835\udc22\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc25 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c. \ud835\udc6f\ud835\udfce:\ud835\udf41\ud835\udc6b\u2265\ud835\udfce \ud835\udc6f\ud835\udc82:\ud835\udf41\ud835\udc6b<\ud835\udfce  or   \ud835\udc6b =\ud835\udc0e\ud835\udc2b\ud835\udc22\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc25 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c- \ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1e\ud835\udc1d \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c. \ud835\udc6f\ud835\udfce:\ud835\udf41\ud835\udc6b\u2265\ud835\udfce \ud835\udc6f\ud835\udc82:\ud835\udf41\ud835\udc6b<\ud835\udfce ",
+    "answerChoices": []
+  },
+  "number": 16,
+  "disclaimer": "There are various ways to solve this problem. Choose the one that you like. ",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "10064254",
+    "timeSpentVideo": "4953820",
+    "submissions": 53,
+    "submissionsCorrect": 7,
+    "accuracy": 0.1320754716981132,
+    "difficulty": 0.8774509803921569
+  },
+  "resources": [
+    {
+      "id": "bc6e1f67-0708-4fa3-b45e-e2182193a4db",
+      "type": "IMAGE",
+      "data": {
+        "key": "drj7loYrFBBsEnkCpmq5B",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/drj7loYrFBBsEnkCpmq5B",
+        "altText": "Part B Outputs "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "600d6fa4-03fd-40f4-a019-dcfda987ef46",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "7f66631e-ecf9-491d-972e-8b211916f616",
+      "type": "IMAGE",
+      "data": {
+        "key": "6dQEeoVy9sIR1UeCxxH_E",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/6dQEeoVy9sIR1UeCxxH_E",
+        "altText": "Part C Outputs"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "600d6fa4-03fd-40f4-a019-dcfda987ef46",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "fdfd9b34-fa57-461e-9184-1a5783508a03",
+    "body": "",
+    "questionId": "600d6fa4-03fd-40f4-a019-dcfda987ef46",
+    "resources": [
+      {
+        "id": "c16ea6e4-ff21-4cc8-ac90-73f5fde0e790",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=2412"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fdfd9b34-fa57-461e-9184-1a5783508a03",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

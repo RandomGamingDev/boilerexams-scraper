@@ -1,0 +1,90 @@
+{
+  "id": "9c1a3e11-4ea7-4805-abb7-b5cb972751e0",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Find the matrix exponential \\( e^{At} \\) for the system \\( x' = Ax \\) below:\n\\[\n\\begin{aligned}\n    x'_1 &= 5x_1 - 4x_2, \\\\\n    x'_2 &= 2x_1 - x_2.\n\\end{aligned}\n\\]",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "96283983",
+    "timeSpentVideo": "21152797",
+    "submissions": 473,
+    "submissionsCorrect": 158,
+    "accuracy": 0.33403805496828753,
+    "difficulty": 0.8869982547993019
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "b844df85-33e7-4e28-b2f9-7ea4c639f7c6",
+    "body": null,
+    "questionId": "9c1a3e11-4ea7-4805-abb7-b5cb972751e0",
+    "resources": [
+      {
+        "id": "bc1cdbfd-7154-4ec1-9aeb-299e31c6847d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/dqCnRVHAzAs?si=nmwqDS6dduUB_4F9&t=1139"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b844df85-33e7-4e28-b2f9-7ea4c639f7c6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80cdb20e-03d2-465c-ae44-df5f46847391",
+      "name": "Matrix exponential",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3256980480",
+        "timeSpentVideo": "282309873",
+        "submissions": 5760,
+        "submissionsCorrect": 2809,
+        "questions": 7,
+        "accuracy": 0.4876736111111111,
+        "difficulty": 0.7621160409556313
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "8a015414-f652-491c-8108-0f005758c727",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The runtime to find the maximum value in a binary tree using the inorder traversal is?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6efde7ea-eaa0-4c2c-822f-71a3b8cbdc0c",
+        "index": 0,
+        "body": "$O(n)$",
+        "questionId": "8a015414-f652-491c-8108-0f005758c727",
+        "stats": {
+          "count": 1415
+        },
+        "resources": []
+      },
+      {
+        "id": "7c10130d-b3c4-46af-8392-fd11c16c3831",
+        "index": 1,
+        "body": "$O(\\log{(n)})$",
+        "questionId": "8a015414-f652-491c-8108-0f005758c727",
+        "stats": {
+          "count": 344
+        },
+        "resources": []
+      },
+      {
+        "id": "405de62c-42f4-4e0d-91a2-7728deac9c7c",
+        "index": 2,
+        "body": "$O(n\\log{(n)})$",
+        "questionId": "8a015414-f652-491c-8108-0f005758c727",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "0bcbac2b-c0c2-4adb-bcdc-622d06512d81",
+        "index": 3,
+        "body": "$O(n^2)$",
+        "questionId": "8a015414-f652-491c-8108-0f005758c727",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "151200311",
+    "timeSpentVideo": "0",
+    "submissions": 1895,
+    "submissionsCorrect": 1415,
+    "accuracy": 0.7467018469656992,
+    "difficulty": 0.5156641604010025
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "dfc57fde-ee59-4539-8e38-117cbd2055b3",
+    "body": null,
+    "questionId": "8a015414-f652-491c-8108-0f005758c727",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "22a1c21a-6a23-4934-8f52-e34a5e95d768",
+      "name": "Binary Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2454907955",
+        "timeSpentVideo": "102315825",
+        "submissions": 5507,
+        "submissionsCorrect": 3892,
+        "questions": 4,
+        "accuracy": 0.7067368803341202,
+        "difficulty": 0.5469502407704655
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

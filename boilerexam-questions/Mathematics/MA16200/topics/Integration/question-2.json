@@ -1,0 +1,158 @@
+{
+  "id": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which integral arises after making an appropriate substitution to evaluate \\[\\int \\sqrt{9-x^{2}} d x\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "03b24e93-9beb-45f9-8b5f-c942a3abf82b",
+        "index": 0,
+        "body": "$\\int 9 \\sin \\theta d \\theta$",
+        "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+        "stats": {
+          "count": 318
+        },
+        "resources": []
+      },
+      {
+        "id": "41799902-ca50-4d0e-a83a-e0c12b80eecf",
+        "index": 1,
+        "body": "$\\int 9 \\cos \\theta d \\theta$",
+        "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+        "stats": {
+          "count": 425
+        },
+        "resources": []
+      },
+      {
+        "id": "4bcb5841-8f0e-4d38-87d8-82812b41767b",
+        "index": 2,
+        "body": "$\\int 9 \\cos ^{2} \\theta d \\theta$",
+        "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+        "stats": {
+          "count": 2186
+        },
+        "resources": []
+      },
+      {
+        "id": "e8287099-450b-4fd8-83aa-9c10fe208339",
+        "index": 3,
+        "body": "$\\int \\frac{1}{9} \\sin ^{2} \\theta d \\theta$",
+        "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "e235cfe9-3165-4f5c-880e-bffcda15a997",
+        "index": 4,
+        "body": "$\\int \\frac{1}{9} \\cos ^{2} \\theta d \\theta$",
+        "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "396695931",
+    "timeSpentVideo": "50190625",
+    "submissions": 3289,
+    "submissionsCorrect": 2186,
+    "accuracy": 0.664639708117969,
+    "difficulty": 0.5902183534966067
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340671717",
+      "timeSpentVideo": "804826486",
+      "submissions": 39511,
+      "submissionsCorrect": 24592,
+      "questions": 12,
+      "accuracy": 0.6224089494064944,
+      "difficulty": 0.6279000782610891
+    }
+  },
+  "explanation": {
+    "id": "c32c5491-6506-4617-be40-e6344779c0f2",
+    "body": "",
+    "questionId": "b33ee7a3-018d-4329-a125-9dbc12d95f16",
+    "resources": [
+      {
+        "id": "ca7eaeb6-e9b3-431e-a0ed-c6e2b3c60da9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=257"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c32c5491-6506-4617-be40-e6344779c0f2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

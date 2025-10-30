@@ -1,0 +1,106 @@
+{
+  "id": "4a3f291e-ac00-4846-9b87-f7c57b47b7cd",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A university is studying the relationship between the amount of investment in server facilities to the average server traffic. The research team obtained the following set of graphics from their data of 100 pairs, collected from an SRS of other universities with servers of varying sizes.\n\n(c) Below is the R output from running a linear regression analysis with this dataset. What can you conclude based on this and your answers of (a) and (b)?",
+    "solution": "The R output does not matter as our assumptions have been strongly violated and we cannot conclude\nanything other than that the relationship between server traffic and investment is non-linear. ",
+    "answerChoices": []
+  },
+  "number": 25,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1224908",
+    "timeSpentVideo": "2757228",
+    "submissions": 35,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.8796296296296297
+  },
+  "resources": [
+    {
+      "id": "67748d96-462a-42c5-a08c-0a09849411f4",
+      "type": "IMAGE",
+      "data": {
+        "key": "-SiT3YL60-jcprJFaQo-b",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/-SiT3YL60-jcprJFaQo-b"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4a3f291e-ac00-4846-9b87-f7c57b47b7cd",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "3d93f7d7-79ba-4351-99df-e1b384d0b19d",
+    "body": null,
+    "questionId": "4a3f291e-ac00-4846-9b87-f7c57b47b7cd",
+    "resources": [
+      {
+        "id": "5a703a8a-9e16-415d-96a8-72243c1a6adf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=2452"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3d93f7d7-79ba-4351-99df-e1b384d0b19d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+      "name": "Assumptions",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "63602211",
+        "timeSpentVideo": "9500971",
+        "submissions": 216,
+        "submissionsCorrect": 0,
+        "questions": 4,
+        "accuracy": 0,
+        "difficulty": 1.0917721518987342
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{x}(t)=\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t)\\end{array}\\right]$ be the solution to the initial value problem\n\n\n\n\\[\n\\mathbf{x}^{\\prime}(t)=\\left[\\begin{array}{ll}\n1 & 3 \\\\\n0 & 4\n\\end{array}\\right] \\mathbf{x}(t), \\quad \\mathbf{x}(0)=\\left[\\begin{array}{l}\n0 \\\\\n1\n\\end{array}\\right]\n\\]\n\nThen $x_{2}(1)=$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0d986c90-ccb1-4e36-a59e-b6861d056467",
+        "index": 0,
+        "body": "$2 e+e^{4}$",
+        "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "4c644bc8-0c24-43ac-8423-4346ed9dd5a8",
+        "index": 1,
+        "body": "$-e+e^{4}$",
+        "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "8d99c17b-1bc4-4f72-bb2d-94bc90ce3a89",
+        "index": 2,
+        "body": "$e$",
+        "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "3dba337f-78c8-4c27-882c-84ee4053e716",
+        "index": 3,
+        "body": "$e^{4}$",
+        "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+        "stats": {
+          "count": 228
+        },
+        "resources": []
+      },
+      {
+        "id": "28993906-09a6-4d63-a3ac-0f890cbc696a",
+        "index": 4,
+        "body": "$2 e-2 e^{4}$",
+        "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "104175365",
+    "timeSpentVideo": "0",
+    "submissions": 309,
+    "submissionsCorrect": 228,
+    "accuracy": 0.7378640776699029,
+    "difficulty": 0.5702933985330073
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "17ddead6-c45f-4be0-855c-dcb3c25dbedd",
+    "body": "",
+    "questionId": "5181ca2a-19cd-443d-b0ef-abd1783ae547",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9ac2c30c-1366-47fa-9e41-85ba124887ec",
+      "name": "System of Diff. Equations",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "932820903",
+        "timeSpentVideo": "0",
+        "submissions": 1661,
+        "submissionsCorrect": 1306,
+        "questions": 6,
+        "accuracy": 0.786273329319687,
+        "difficulty": 0.4799829642248722
+      }
+    }
+  ],
+  "children": []
+}

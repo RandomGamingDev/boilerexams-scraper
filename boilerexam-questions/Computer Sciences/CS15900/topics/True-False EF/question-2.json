@@ -1,0 +1,133 @@
+{
+  "id": "15205242-f555-4dc0-ac63-b467b0da9da1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding arrays and functions is <b>TRUE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "98e1f826-c9c8-4d69-bafd-7c1ccfd5134c",
+        "index": 0,
+        "body": "All arrays sent to a given user-defined function must be of the same defined size.",
+        "questionId": "15205242-f555-4dc0-ac63-b467b0da9da1",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "83e922d5-7993-4cfc-be19-1faf277bc017",
+        "index": 1,
+        "body": "When a function receives a whole array as a single parameter, that parameter can be declared using either array notation <code>[ ]</code> or as a pointer variable.",
+        "questionId": "15205242-f555-4dc0-ac63-b467b0da9da1",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "3fe12866-1f00-4816-81fe-7a676072864f",
+        "index": 2,
+        "body": "When a function receives a whole array as a single parameter, a copy of the array is provided to the function before it begins executing.",
+        "questionId": "15205242-f555-4dc0-ac63-b467b0da9da1",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "97e88b66-282e-487f-b356-fd0baf634f12",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "15205242-f555-4dc0-ac63-b467b0da9da1",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1296378",
+    "timeSpentVideo": "0",
+    "submissions": 27,
+    "submissionsCorrect": 17,
+    "accuracy": 0.6296296296296297,
+    "difficulty": 0.7224409448818898
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "0deb78a9-1bd6-41a6-a21c-5698802ed3aa",
+    "body": null,
+    "questionId": "15205242-f555-4dc0-ac63-b467b0da9da1",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

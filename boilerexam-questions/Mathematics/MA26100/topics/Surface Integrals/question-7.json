@@ -1,0 +1,143 @@
+{
+  "id": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area of the part of $z=1+x+\\frac{2}{3} y^{3 / 2}$ that lies above the square with vertices $(0,0),(0,1),(1,0)$, and $(1,1)$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "64db8e02-6efe-4b77-95bf-55ba4c8cb660",
+        "index": 0,
+        "body": "$2 \\cdot 3^{1 / 2}$",
+        "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "86522aaa-59ab-4169-8543-c92c5a7b8b3a",
+        "index": 1,
+        "body": "$3^{3 / 2}$",
+        "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "eb5eeec7-5ebb-4e65-8eff-2c3b9d96f44d",
+        "index": 2,
+        "body": "$\\frac{2}{3}\\left(3^{3 / 2}-2^{3 / 2}\\right)$",
+        "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+        "stats": {
+          "count": 926
+        },
+        "resources": []
+      },
+      {
+        "id": "6fc0e048-6c9b-4a5a-a3b9-120f5764cc2c",
+        "index": 3,
+        "body": "$3^{1 / 2}-2^{1 / 2}$",
+        "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "4d6746e2-cf5f-46e2-8650-d5207b0d2ded",
+        "index": 4,
+        "body": "$2\\left(3^{1 / 2}-2^{1 / 2}\\right)$",
+        "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "409367738",
+    "timeSpentVideo": "57938584",
+    "submissions": 1706,
+    "submissionsCorrect": 926,
+    "accuracy": 0.5427901524032825,
+    "difficulty": 0.709579180509413
+  },
+  "resources": [],
+  "exam": {
+    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "number": 2,
+    "year": 2016,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": false,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4604005568",
+      "timeSpentVideo": "918117591",
+      "submissions": 21930,
+      "submissionsCorrect": 11494,
+      "questions": 12,
+      "accuracy": 0.5241222070223438,
+      "difficulty": 0.7259872900590104
+    }
+  },
+  "explanation": {
+    "id": "0e613343-624f-436d-8de5-5e479912d2e1",
+    "body": "",
+    "questionId": "eb3544d3-8743-4844-beba-1a402aa38a5f",
+    "resources": [
+      {
+        "id": "4edca520-a6c7-4251-948d-ff4eb5351590",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=698"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0e613343-624f-436d-8de5-5e479912d2e1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "215e4a67-a284-47cb-ac38-dc66fee57f98",
+      "name": "Surface Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29586551748",
+        "timeSpentVideo": "3554402214",
+        "submissions": 50906,
+        "submissionsCorrect": 20491,
+        "questions": 12,
+        "accuracy": 0.4025262248065061,
+        "difficulty": 0.8472826726267497
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,179 @@
+{
+  "id": "864f4978-5e82-442c-8cc6-bb6797392821",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the circuit below find the Norton current $\\tilde{I}_N$ (short circuit current). ",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "7a5eec96-ef1c-4ebd-a2b5-35824e50fd72",
+        "index": 0,
+        "body": "j10 A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "ad6951d2-c0fd-45fd-a665-e0d243d4390d",
+        "index": 1,
+        "body": "0 A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "9fbbd0f9-b054-496f-a6ea-9a9aa31cd023",
+        "index": 2,
+        "body": "$20 \\angle30^\\circ$ A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "d05e5d2f-c7cc-4167-89b1-cfbdb11c2542",
+        "index": 3,
+        "body": "j15 A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "06d25ac1-347a-4a30-9dea-9f84d926da27",
+        "index": 4,
+        "body": "$8 \\angle45^\\circ$ A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "72553a2b-6066-466f-9831-4aa94e1cbb84",
+        "index": 5,
+        "body": "$5 \\angle30^\\circ$ A",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 402
+        },
+        "resources": []
+      },
+      {
+        "id": "2f426096-49c0-4ba7-9200-b80d430ddf6c",
+        "index": 6,
+        "body": "None of the above. ",
+        "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "158320231",
+    "timeSpentVideo": "26634407",
+    "submissions": 672,
+    "submissionsCorrect": 402,
+    "accuracy": 0.5982142857142857,
+    "difficulty": 0.6645077720207254
+  },
+  "resources": [
+    {
+      "id": "340a81e3-6430-4876-885b-fb0824b2d701",
+      "type": "IMAGE",
+      "data": {
+        "key": "srhzZKJT9-DMwO1Iy5vjF",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/srhzZKJT9-DMwO1Iy5vjF"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1774352599",
+      "timeSpentVideo": "471396110",
+      "submissions": 8891,
+      "submissionsCorrect": 5118,
+      "questions": 12,
+      "accuracy": 0.5756382859070971,
+      "difficulty": 0.6752029807585364
+    }
+  },
+  "explanation": {
+    "id": "06a4b237-1d1a-4f89-8fdf-e120c6615006",
+    "body": null,
+    "questionId": "864f4978-5e82-442c-8cc6-bb6797392821",
+    "resources": [
+      {
+        "id": "454c587c-72c0-4bca-85bf-efde6371e220",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/OnYab_kSe2M?si=bRdfUAG3Jxtbv0qL&t=882"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "06a4b237-1d1a-4f89-8fdf-e120c6615006",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9cc30ffd-d6e2-4601-8c99-833147e68292",
+      "name": "Norton & Thevenin Circuits",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1144750734",
+        "timeSpentVideo": "77987110",
+        "submissions": 2442,
+        "submissionsCorrect": 1622,
+        "questions": 4,
+        "accuracy": 0.6642096642096642,
+        "difficulty": 0.5922501966955154
+      }
+    }
+  ],
+  "children": []
+}

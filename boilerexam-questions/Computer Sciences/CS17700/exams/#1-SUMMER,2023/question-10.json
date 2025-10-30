@@ -1,0 +1,213 @@
+{
+  "id": "f08ca36a-9667-449b-b059-233886364d1b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Student 4 has recently learned about Perfect Numbers. A number is perfect if the sum of its divisors (excluding itself) is equal to the number itself. For example, 6 is a perfect number since its divisors (excluding 6) are 1, 2, and 3, and 1 + 2 + 3 = 6. The first five perfect numbers are 6, 28, 496, 8128, and 33550336.\nWhich of the following loops will print these five perfect numbers?\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "be12f8b3-7e3f-4a4e-bb45-4a3520b22916",
+        "index": 0,
+        "body": "$ $",
+        "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+        "stats": {
+          "count": 49
+        },
+        "resources": [
+          {
+            "id": "65e925d3-48d3-4570-afeb-49385137623f",
+            "type": "CODE",
+            "data": {
+              "content": "for n in range(1, 33550337):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == 1:\n        print(n)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "be12f8b3-7e3f-4a4e-bb45-4a3520b22916",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "bc6eb636-44cc-4a77-b9ca-f0818fa499bd",
+        "index": 1,
+        "body": "$ $",
+        "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+        "stats": {
+          "count": 30
+        },
+        "resources": [
+          {
+            "id": "9583062a-5815-4885-bf0a-7803fe7911e7",
+            "type": "CODE",
+            "data": {
+              "content": "for n in range(1, 33550336):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == n:\n        print(n)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "bc6eb636-44cc-4a77-b9ca-f0818fa499bd",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "bb7028da-3af0-4c64-98f5-69fc6cb5e3df",
+        "index": 2,
+        "body": "$ $",
+        "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+        "stats": {
+          "count": 13
+        },
+        "resources": [
+          {
+            "id": "78fe4bfa-56a5-44f6-931c-d99ba6c5db70",
+            "type": "CODE",
+            "data": {
+              "content": "for n in range(1, 33550336):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == 1:\n        print(n)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "bb7028da-3af0-4c64-98f5-69fc6cb5e3df",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "50fd468a-5e81-4aa8-978a-e6938513b277",
+        "index": 3,
+        "body": "$ $",
+        "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+        "stats": {
+          "count": 371
+        },
+        "resources": [
+          {
+            "id": "d4c936d7-aed5-4ebc-a900-716ea946ad75",
+            "type": "CODE",
+            "data": {
+              "content": "for n in range(1, 33550337):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == n:\n        print(n)\n",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "50fd468a-5e81-4aa8-978a-e6938513b277",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "46209894",
+    "timeSpentVideo": "165553",
+    "submissions": 469,
+    "submissionsCorrect": 371,
+    "accuracy": 0.7910447761194029,
+    "difficulty": 0.5101054481546573
+  },
+  "resources": [
+    {
+      "id": "7a244094-4213-4a04-abb3-32bea905dbb7",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nn = int(input(\"Type a positive integer number: \"))\nsum = 0\ni = 1\n\nwhile i < n:\n\tsum += i if n % i == 0 else 0\n\ti += 1\n\nprint(sum)\n\n# For example, for the numbers (one at a time) 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, the respective output is 0, 0, 1, 1, 3, 1, 6, 1, 7, 4, 8.",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "7a1fe508-b300-43eb-8da6-fe0d2445a218",
+    "body": "",
+    "questionId": "f08ca36a-9667-449b-b059-233886364d1b",
+    "resources": [
+      {
+        "id": "166fda2d-e250-4ac8-a2dc-8743f3839512",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=ov551_ggz8_NtCJS&t=3971"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7a1fe508-b300-43eb-8da6-fe0d2445a218",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

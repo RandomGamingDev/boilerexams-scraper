@@ -1,0 +1,188 @@
+{
+  "id": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{cccc}1 & 0 & -1 & -2 \\\\ 2 & 1 & 3 & 5 \\\\ -2 & -1 & 7 & 0\\end{array}\\right]$. Which of the following is always TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4ee92a13-5596-4445-b8c4-1faabb995f88",
+        "index": 0,
+        "body": " $\\operatorname{Nul}(A)$ is a subspace of $\\mathbb{R}^{3}$.",
+        "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+        "stats": {
+          "count": 252
+        },
+        "resources": []
+      },
+      {
+        "id": "727e41c6-4f70-48c6-9726-e30fdc2cfc71",
+        "index": 1,
+        "body": "The dimension of null space of $A$ is $1$.",
+        "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+        "stats": {
+          "count": 2700
+        },
+        "resources": []
+      },
+      {
+        "id": "d2faed1c-50b7-466c-83c2-b767eeac6b17",
+        "index": 2,
+        "body": "$\\operatorname{Col}(A)$ is a subspace of $\\mathbb{R}^{2}$.",
+        "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "c6b4b294-27ca-49a2-aabb-72729f8ff5e7",
+        "index": 3,
+        "body": "The equation $A x=0$ has unique solution.",
+        "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+        "stats": {
+          "count": 242
+        },
+        "resources": []
+      },
+      {
+        "id": "085845c8-7729-48f6-86e5-92bd4690226e",
+        "index": 4,
+        "body": "The rank of the matrix $A$ is $4$.",
+        "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "691975001",
+    "timeSpentVideo": "103534850",
+    "submissions": 3571,
+    "submissionsCorrect": 2700,
+    "accuracy": 0.7560907308877065,
+    "difficulty": 0.5008853173522201
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "b349aa1f-440f-4206-a445-fa84fead34d0",
+    "body": "The video explanation of 11a is incorrect. The row reduction is fine but the solution should be \n\n$\n\\mathbf{x} = \\left[\\begin{array}{cccc} 3/2 \\\\ 13/2  \\\\ 1/2 \\\\1 \\end{array}\\right] t\n$\nThe nullspace is spanned by the spanning vector $ \\left[\\begin{array}{cccc} 3/2 \\\\ 13/2  \\\\ 1/2 \\\\1 \\end{array}\\right] $. \nThe zero vector is within the nullspace- it is obtained by multiplying the above spanning vector by a constant 0. \n\nThe nullspace is not a subspace of R3 because elements in the nullspace have 4 elements whereas elements in R3 only have 3. This does not make sense so a is incorrect. \n\nThe explanations for B, C, D, E still stand, just recognize that the expression I wrote for $\\mathbf{x}$ in the video is incorrect. \n\nSide note: The nullspace is a subspace of R4. It satisfies all the requirements (you can check the last two yourself): 1). includes 0 vector, 2). any two elements in the nullspace when added together yields an element still in the nullspace, 3). any element in the nullspace multiplied by a scalar is still an element in the nullspace. ",
+    "questionId": "da251a6a-cde4-4a3c-8718-483e3a6186b5",
+    "resources": [
+      {
+        "id": "c7f3d8f1-b1b1-4454-a0f5-9ed74703df6b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=2836\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b349aa1f-440f-4206-a445-fa84fead34d0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "5af6da39-95f0-4082-bc36-ac7f0a481686",
+      "name": "Nullspace",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22824128241",
+        "timeSpentVideo": "2886993509",
+        "submissions": 56635,
+        "submissionsCorrect": 33625,
+        "questions": 20,
+        "accuracy": 0.5937141343692063,
+        "difficulty": 0.6564510443288976
+      }
+    },
+    {
+      "id": "8bf22f1e-a943-45e4-8363-59da2a633241",
+      "name": "Column Spaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12713429394",
+        "timeSpentVideo": "1551352939",
+        "submissions": 29398,
+        "submissionsCorrect": 17069,
+        "questions": 10,
+        "accuracy": 0.5806177290972175,
+        "difficulty": 0.6696555698691437
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    }
+  ],
+  "children": []
+}

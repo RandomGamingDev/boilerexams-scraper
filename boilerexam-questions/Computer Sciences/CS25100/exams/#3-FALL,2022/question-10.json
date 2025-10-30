@@ -1,0 +1,99 @@
+{
+  "id": "0faaf8e6-d4a7-482c-b9ee-9e4960b5660e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following graph $G(V,E)$\n\nConsider the graph $H(V,E')$, where $E'$ is the set of edges with each edge weight reduced by two from the original (i.e., weight $(e') = $ $\\text{weight}(e) - 2, \\forall e \\in E)$. Does DijkstraShortestPath($H$, 0) return the same tree of shortest paths? Explain.\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ad4dba92-a2c3-4622-aacd-94ecd576a335",
+        "index": 0,
+        "body": "Yes, it returns the same tree of shortest paths. (Make sure you can explain why)",
+        "questionId": "0faaf8e6-d4a7-482c-b9ee-9e4960b5660e",
+        "stats": {
+          "count": 639
+        },
+        "resources": []
+      },
+      {
+        "id": "4eaef755-4f57-4d61-bdd3-8444234d7a38",
+        "index": 1,
+        "body": "No, it does not return the same tree of shortest paths. (Make sure you can explain why)",
+        "questionId": "0faaf8e6-d4a7-482c-b9ee-9e4960b5660e",
+        "stats": {
+          "count": 349
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "136480746",
+    "timeSpentVideo": "0",
+    "submissions": 999,
+    "submissionsCorrect": 639,
+    "accuracy": 0.6396396396396397,
+    "difficulty": 0.623066424021838
+  },
+  "resources": [
+    {
+      "id": "b4c3f31b-bbee-4376-abe2-ed4e0ca1d63a",
+      "type": "IMAGE",
+      "data": {
+        "key": "2T6OX3i6cn2kWNIyAmhiK",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/2T6OX3i6cn2kWNIyAmhiK",
+        "altText": " "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "0faaf8e6-d4a7-482c-b9ee-9e4960b5660e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "17ae0f5b-eaa6-4a29-bad6-126bfc5c2dc0",
+    "body": "",
+    "questionId": "0faaf8e6-d4a7-482c-b9ee-9e4960b5660e",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

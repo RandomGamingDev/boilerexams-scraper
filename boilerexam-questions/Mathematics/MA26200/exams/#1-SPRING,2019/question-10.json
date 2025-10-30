@@ -1,0 +1,143 @@
+{
+  "id": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $T: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{3}$ be the linear transformation for which\n\n\\[\nT\\left(\\left[\\begin{array}{l}\n1 \\\\\n1\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\n1 \\\\\n2 \\\\\n3\n\\end{array}\\right] \\text { and } T\\left(\\left[\\begin{array}{l}\n1 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\n4 \\\\\n5 \\\\\n6\n\\end{array}\\right], \\text { then } T\\left(\\left[\\begin{array}{l}\n3 \\\\\n4\n\\end{array}\\right]\\right)=\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "e5962da3-555c-4705-acd8-4b0f26494095",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{l}0 \\\\ 3 \\\\ 2\\end{array}\\right]$",
+        "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "b06b6935-634f-49f5-b0f2-33e708867fd0",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{l}0 \\\\ 2 \\\\ 4\\end{array}\\right]$",
+        "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "83e0600b-c73a-41d5-a9f7-c0ef6fa856f6",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{l}1 \\\\ 3 \\\\ 5\\end{array}\\right]$",
+        "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "c1a52364-d969-497c-9740-aea87fae23f3",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 0\\end{array}\\right]$",
+        "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "38a4cc59-6f20-4763-92ae-6ec857351bfe",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{l}0 \\\\ 3 \\\\ 6\\end{array}\\right]$",
+        "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "50006263",
+    "timeSpentVideo": "16207124",
+    "submissions": 322,
+    "submissionsCorrect": 147,
+    "accuracy": 0.45652173913043476,
+    "difficulty": 0.783175355450237
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "feec069d-4491-4bca-8c75-2ad90e1ad1bb",
+    "body": "",
+    "questionId": "5eee5da3-39aa-4e4f-8826-3170bc0509b9",
+    "resources": [
+      {
+        "id": "38b6373f-4038-409f-91dc-ee0d8269edd6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=2032\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "feec069d-4491-4bca-8c75-2ad90e1ad1bb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "31c808ef-5962-4e8d-b13a-bb827f9c3772",
+      "name": "Systems (Matrices)",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2552320145",
+        "timeSpentVideo": "209522992",
+        "submissions": 5768,
+        "submissionsCorrect": 3487,
+        "questions": 10,
+        "accuracy": 0.6045423023578363,
+        "difficulty": 0.647239263803681
+      }
+    }
+  ],
+  "children": []
+}

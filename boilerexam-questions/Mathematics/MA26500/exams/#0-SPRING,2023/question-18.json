@@ -1,0 +1,158 @@
+{
+  "id": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A real $2 \\times 2$ matrix $A$ has an eigenvalue $\\lambda=-2+i$ with corresponding eigenvector $\\mathbf{v}=\\left[\\begin{array}{c}3-i \\\\ 4+2 i\\end{array}\\right]$. Which of the following is a general REAL solution to the system of differential equations $\\mathbf{x}^{\\prime}(t)=A \\mathbf{x}(t)$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "cb8d3129-70be-4dd1-91d8-d6e5159bd5e5",
+        "index": 0,
+        "body": "$\\quad c_{1} e^{-2 t}\\left[\\begin{array}{c}3 \\cos (t)+\\sin (t) \\\\ 4 \\cos (t)-2 \\sin (t)\\end{array}\\right]+c_{2} e^{-2 t}\\left[\\begin{array}{c}-\\cos (t)-3 \\sin (t) \\\\ 2 \\cos (t)-4 \\sin (t)\\end{array}\\right]$",
+        "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+        "stats": {
+          "count": 180
+        },
+        "resources": []
+      },
+      {
+        "id": "b3c5ca02-b026-49f8-a9e1-ef4e2ee59b37",
+        "index": 1,
+        "body": "$c_{1} e^{-2 t}\\left[\\begin{array}{c}3 \\cos (t)-\\sin (t) \\\\ 4 \\cos (t)+2 \\sin (t)\\end{array}\\right]+c_{2} e^{-2 t}\\left[\\begin{array}{c}-\\cos (t)+3 \\sin (t) \\\\ 2 \\cos (t)+4 \\sin (t)\\end{array}\\right]$",
+        "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "117d4752-2a33-4485-aecf-0be317b0a86c",
+        "index": 2,
+        "body": "$c_{1} e^{-2 t}\\left[\\begin{array}{c}3 \\cos (t)-\\sin (t) \\\\ 4 \\cos (t)+2 \\sin (t)\\end{array}\\right]+c_{2} e^{-2 t}\\left[\\begin{array}{c}-\\cos (t)-3 \\sin (t) \\\\ 2 \\cos (t)-4 \\sin (t)\\end{array}\\right]$",
+        "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+        "stats": {
+          "count": 164
+        },
+        "resources": []
+      },
+      {
+        "id": "f1dd0950-7ed0-4889-ac0a-b30ea3245e96",
+        "index": 3,
+        "body": "$c_{1} e^{-2 t}\\left[\\begin{array}{c}3 \\cos (t)+\\sin (t) \\\\ 4 \\cos (t)-2 \\sin (t)\\end{array}\\right]+c_{2} e^{-2 t}\\left[\\begin{array}{c}-\\cos (t)+3 \\sin (t) \\\\ 2 \\cos (t)+4 \\sin (t)\\end{array}\\right]$",
+        "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+        "stats": {
+          "count": 1629
+        },
+        "resources": []
+      },
+      {
+        "id": "5eac5bb0-08ed-4c0d-9196-6017d9448a25",
+        "index": 4,
+        "body": "$\\quad c_{1} e^{-2 t}\\left[\\begin{array}{c}3 \\cos (t)-\\sin (t) \\\\ 4 \\cos (t)-2 \\sin (t)\\end{array}\\right]+c_{2} e^{-2 t}\\left[\\begin{array}{c}-\\cos (t)-3 \\sin (t) \\\\ 2 \\cos (t)+4 \\sin (t)\\end{array}\\right]$ ",
+        "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "549873213",
+    "timeSpentVideo": "80504187",
+    "submissions": 2673,
+    "submissionsCorrect": 1629,
+    "accuracy": 0.6094276094276094,
+    "difficulty": 0.6445185719437433
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "f93b99be-59e8-41b1-a132-6725f42e6e0c",
+    "body": "",
+    "questionId": "ad0f88d7-d4a5-436b-8e14-f2d6ed1a9d26",
+    "resources": [
+      {
+        "id": "beb34dcd-7f93-4cb9-bd1e-4b9e28067ae6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=5921\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f93b99be-59e8-41b1-a132-6725f42e6e0c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "99a7ff97-9f32-46ad-9af5-54bbdf4250dd",
+      "name": "Differential Equations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16253734334",
+        "timeSpentVideo": "1861609104",
+        "submissions": 38354,
+        "submissionsCorrect": 23397,
+        "questions": 20,
+        "accuracy": 0.6100276372738176,
+        "difficulty": 0.6402584906641702
+      }
+    }
+  ],
+  "children": []
+}

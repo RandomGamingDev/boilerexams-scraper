@@ -1,0 +1,143 @@
+{
+  "id": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If the method of undetermined coefficients is to be used on\n\n\\[\ny'' - 2y' + 5y = x \\sin(2x),\n\\]\n\nwhich one of the following is the correct form for a particular solution \\( y_p \\)?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "51c18b6c-4d92-4202-a638-a3ca81e5ac94",
+        "index": 0,
+        "body": "\\( y_p(x) = Ax^2 \\sin(2x) + Bx^2 \\cos(2x) \\)",
+        "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "00b4b02f-acca-428e-aab1-46b6ea070483",
+        "index": 1,
+        "body": "\\( y_p(x) = Ax \\sin(2x) \\)",
+        "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "f84f333b-872b-46e8-b165-cb827167f379",
+        "index": 2,
+        "body": "\\( y_p(x) = Ax \\sin(2x) + Bx \\cos(2x) \\)",
+        "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "c16386ee-614e-4eb0-ab04-6640fc0cfd1c",
+        "index": 3,
+        "body": "\\( y_p(x) = (Ax+B) \\sin(2x) + (Cx+D) \\cos(2x) \\)",
+        "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+        "stats": {
+          "count": 571
+        },
+        "resources": []
+      },
+      {
+        "id": "962f5b7e-e59b-42e8-adfe-2ef1727e4b4f",
+        "index": 4,
+        "body": "\\( y_p(x) = (Ax^2 + Bx) \\sin(2x) + (Cx^2 + Dx) \\cos(2x) \\)",
+        "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+        "stats": {
+          "count": 193
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "252972606",
+    "timeSpentVideo": "103493298",
+    "submissions": 1135,
+    "submissionsCorrect": 571,
+    "accuracy": 0.5030837004405286,
+    "difficulty": 0.7471659919028341
+  },
+  "resources": [],
+  "exam": {
+    "id": "0fb86508-4e25-44c8-b720-74eb2f7872d0",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2046429354",
+      "timeSpentVideo": "542061831",
+      "submissions": 8627,
+      "submissionsCorrect": 4231,
+      "questions": 10,
+      "accuracy": 0.4904370001159151,
+      "difficulty": 0.7594534204193881
+    }
+  },
+  "explanation": {
+    "id": "8cf6fb04-6fda-44aa-aa3c-64f4a2ec8625",
+    "body": "Skip to 4:43 to jump straight into the particular solution computation.",
+    "questionId": "63da0584-1ceb-4936-b9d7-d2c83c8e741d",
+    "resources": [
+      {
+        "id": "2f082daa-3757-4ba4-a906-4ea94bcedf7c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/r3C5y0jwPno?si=AhZ1-KVm4YKTgT8_&t=12s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8cf6fb04-6fda-44aa-aa3c-64f4a2ec8625",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

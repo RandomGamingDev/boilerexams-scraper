@@ -1,0 +1,129 @@
+{
+  "id": "379c2211-6e6d-4c03-b8a8-3d58567bac02",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Congratulations! You are the new intern at Very Good Food & Stuff Company, a business \u201cfor all of your food and stuff needs\u201d. The chairman expects everyone to show up on time, speak honestly, and treat everyone with fairness to get along just fine.\n\nThe company just started, and thanks in large part to the stewardship of the chairman, it has built a good customer base. The following is the content of the customers file (customers.txt):\n\n<div class=\"text-justify w-full bg-dark-gray rounded-lg p-2\">type : subscribed,  age :43 ,firstname: Barney ,id:313, lastname  :  Lewis\nfirstname: Leslie ,  age :33 , lastname  :  Traeger,id:442, type : subscribed\n lastname  :  Varmn,firstname: Diane ,id:682,  age :43 , type : casual\n lastname  :  Gergich,  age :40 , type : loyal,firstname: Diane ,id:644\n type : subscribed,  age :45 ,id:890,firstname: Lucy , lastname  :  Varmn\nid:502,  age :28 , type : casual, lastname  :  Lewis,firstname: Tom \n lastname  :  Malwae-Tweep, type : subscribed,id:346,  age :38 ,firstname: Leslie \nfirstname: Janet ,id:187,  age :42 , type : casual, lastname  :  Santodomingo\nfirstname: Ann ,id:574, lastname  :  Traeger, type : casual,  age :36 \n  age :25 , type : diamond,firstname: Leslie ,id:149, lastname  :  Dwyer\nid:827, type : casual,  age :23 ,firstname: Garry , lastname  :  Wyatt\nfirstname: Jean-Ralphio , type : loyal,id:194, lastname  :  Santodomingo,  age :50 \n type : subscribed,  age :34 , lastname  :  Newport,firstname: Tom ,id:969\nfirstname: Diane , type : subscribed, lastname  :  Gergich,  age :47 ,id:857\nfirstname: Donna ,id:552, type : casual,  age :25 , lastname  :  Saperstein\nid:373,  age :33 ,firstname: Bobby , type : diamond, lastname  :  Gergich\n lastname  :  Knope,  age :38 ,firstname: Shauna , type : casual,id:588\n type : loyal, lastname  :  Dwyer,  age :34 ,id:538,firstname: Leslie \n type : casual,id:169,  age :22 , lastname  :  Wyatt,firstname: Diane \n  age :36 , lastname  :  Saperstein,id:671, type : loyal,firstname: Diane</div>\n\nEvery line in the file is the data of a customer stored as four name:value pairs separated by comma. Pair keys are firstname, lastname, age, id, and type. Pairs appear shuffled in each line of the file, and with extra space characters all over the place, but the content is correct.\n\nYour main task is to understand the code base. The first function to consider is customerData, which transforms a string of data (as found in the customers file) and returns a dictionary with the respective customer attributes. Andy Dwyer, your manager (completely oblivious about Python, yet well intended) has some claims about the code base in general. You need to avoid a system collapsing due to the manager\u2019s lack of knowledge!\n\nAndy now says that lines  7 to 9 in \\verb|customersData| can be replaced with \\verb|dataDict[key.strip()] = value.strip()|. Is he correct?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "2ad44ebe-3e29-4e0f-a71a-3607854c2b27",
+        "index": 0,
+        "body": "Yes",
+        "questionId": "379c2211-6e6d-4c03-b8a8-3d58567bac02",
+        "stats": {
+          "count": 667
+        },
+        "resources": []
+      },
+      {
+        "id": "a014034f-fdef-4f23-9869-2dd79eccc48d",
+        "index": 1,
+        "body": "No",
+        "questionId": "379c2211-6e6d-4c03-b8a8-3d58567bac02",
+        "stats": {
+          "count": 208
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "49836455",
+    "timeSpentVideo": "8924193",
+    "submissions": 881,
+    "submissionsCorrect": 667,
+    "accuracy": 0.757094211123723,
+    "difficulty": 0.5191131498470948
+  },
+  "resources": [
+    {
+      "id": "3ab2030c-4e3a-4374-8184-0adefff58903",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    dataList = data.split(\",\")\n    dataDict = dict()\n    \n    for entry in dataList:\n        key, value = entry.split(\":\")\n        key = key.strip()\n        value = value.strip()\n        dataDict[key] = value\n    \n    return dataDict",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "379c2211-6e6d-4c03-b8a8-3d58567bac02",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "89e7fb7b-82bc-4ff7-baa6-76ec669ea04e",
+    "body": "",
+    "questionId": "379c2211-6e6d-4c03-b8a8-3d58567bac02",
+    "resources": [
+      {
+        "id": "f1fe38b9-154e-4c73-8958-18073ae00077",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=xbJZTU0-_wsQc0Ku&t=2017"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89e7fb7b-82bc-4ff7-baa6-76ec669ea04e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d26c88bd-56bb-4894-a937-f8e880ae96f6",
+      "name": "Dictionaries and Sets",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "191324397",
+        "timeSpentVideo": "16339776",
+        "submissions": 1807,
+        "submissionsCorrect": 1315,
+        "questions": 2,
+        "accuracy": 0.7277255118981738,
+        "difficulty": 0.5342160461457787
+      }
+    }
+  ],
+  "children": []
+}

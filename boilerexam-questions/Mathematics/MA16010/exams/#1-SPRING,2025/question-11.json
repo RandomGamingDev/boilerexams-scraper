@@ -1,0 +1,153 @@
+{
+  "id": "a28e3c77-e27a-4908-b812-234a883e72b4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $h(x) = \\tan x - \\cot x$, then $h'(x)=$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ba186f50-4752-448d-8670-92428e7c9ab6",
+        "index": 0,
+        "body": "$\\sec ^2 x + \\csc ^2 x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "d99f4fed-9f12-4035-9a3a-48c225d0adfe",
+        "index": 1,
+        "body": "$\\sec x \\tan x - \\csc x \\cot x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "538885cb-3957-4199-81c8-4b4cf8d08e33",
+        "index": 2,
+        "body": "$\\sec x \\cot x + \\csc x \\tan x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "830d88eb-2e88-427a-9ad4-809440f62e4a",
+        "index": 3,
+        "body": "$\\sec x \\cot x - \\csc x \\tan x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "c962b417-b34b-4256-b9d1-6f768be51b21",
+        "index": 4,
+        "body": "$\\sec x \\tan x + \\csc x \\cot x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "e4aacec0-4234-470b-8406-01c6f36b9b23",
+        "index": 5,
+        "body": "$\\sec ^2 x - \\csc ^2 x$",
+        "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "35723448",
+    "timeSpentVideo": "1580566",
+    "submissions": 255,
+    "submissionsCorrect": 169,
+    "accuracy": 0.6627450980392157,
+    "difficulty": 0.6330985915492958
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "fe702c7f-5ecc-4cd9-adee-205f08372da6",
+    "body": null,
+    "questionId": "a28e3c77-e27a-4908-b812-234a883e72b4",
+    "resources": [
+      {
+        "id": "e94c6063-2368-4499-8ca3-ff47d9a604dc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=QG36_mkdVsRSWRf6&t=2651"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fe702c7f-5ecc-4cd9-adee-205f08372da6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cae2ab69-f512-4331-bace-ce5036bbdc52",
+      "name": "Derivatives E1",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1110546051",
+        "timeSpentVideo": "26984983",
+        "submissions": 1834,
+        "submissionsCorrect": 1230,
+        "questions": 7,
+        "accuracy": 0.6706652126499455,
+        "difficulty": 0.5881592554291624
+      }
+    }
+  ],
+  "children": []
+}

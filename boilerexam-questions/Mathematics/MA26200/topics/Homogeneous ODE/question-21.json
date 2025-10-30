@@ -1,0 +1,143 @@
+{
+  "id": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following forms a fundamental set of solutions to the homogeneous differential equation $y^{(4)}-2 y^{\\prime \\prime}+y=0$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "583cdca0-7751-42b7-81ed-250efa0cc71e",
+        "index": 0,
+        "body": "$\\left\\{e^{t}, t e^{t}, e^{-t}, t e^{-t}\\right\\}$",
+        "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+        "stats": {
+          "count": 487
+        },
+        "resources": []
+      },
+      {
+        "id": "83a8a03b-a3d3-48ea-a390-0e5949253aa9",
+        "index": 1,
+        "body": "$\\left\\{\\cos t, \\sin t, e^{t}, e^{-t}\\right\\}$",
+        "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "d82b8f26-8058-42e1-89db-3f8377e532c8",
+        "index": 2,
+        "body": "$\\{\\cos t, t \\sin t, t \\cos t, \\sin t\\}$",
+        "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "43e36d1e-602b-44e8-8bb5-3c19a27131a8",
+        "index": 3,
+        "body": "$\\left\\{e^{t}, e^{-t}\\right\\}$",
+        "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "9e76b694-78f1-47bf-9c2e-7996b23c81e3",
+        "index": 4,
+        "body": "$\\left\\{e^{t} \\cos t, e^{t} \\sin t, e^{-t} \\cos t, e^{-t} \\sin t\\right\\}$",
+        "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "88633629",
+    "timeSpentVideo": "11266929",
+    "submissions": 748,
+    "submissionsCorrect": 487,
+    "accuracy": 0.6510695187165776,
+    "difficulty": 0.6167452830188679
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "6886adde-e367-4986-80d9-5fd493d1f2a7",
+    "body": "",
+    "questionId": "4a9a69d0-c738-4d16-a357-5114a47a2fd9",
+    "resources": [
+      {
+        "id": "b735a529-f4e3-4cf2-b82f-eda6cc031154",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=WiDEojSvhL2QQpnf&t=3860\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6886adde-e367-4986-80d9-5fd493d1f2a7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "195a852c-3f16-40f9-8ba6-e393dc5c1f8b",
+      "name": "Homogeneous ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3096401893",
+        "timeSpentVideo": "224975085",
+        "submissions": 6989,
+        "submissionsCorrect": 4255,
+        "questions": 7,
+        "accuracy": 0.6088138503362427,
+        "difficulty": 0.6427211172238679
+      }
+    }
+  ],
+  "children": []
+}

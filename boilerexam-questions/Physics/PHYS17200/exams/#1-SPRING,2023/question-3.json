@@ -1,0 +1,143 @@
+{
+  "id": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A small space probe of mass $\\mathrm{m}=1000\\mathrm{~kg}$  is launched from a space station in deep space. The space station exerts negligible gravitational force on the space probe. At time $\\mathrm{t}=0$ when the initial position of the space probe (relative to the space station) is $\\langle100,200,0\\rangle \\mathrm{~m}$, and it\u2019s velocity (relative to the space station) is $\\langle200,300,0\\rangle \\mathrm{~m} / \\mathrm{s}$, the space probe turns on its thrusters that exert a constant force of $\\langle4000,-5000,0\\rangle \\mathrm{~N}$.\n\nUsing a time step of $1$ second, determine the position of the space probe (relative to the space station) after two time steps, i.e. at $\\mathrm{t}=2$ seconds.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "042ae077-57ef-4430-82e2-59b8f4b848d6",
+        "index": 0,
+        "body": "$\\langle416,580,0\\rangle \\mathrm{~m}$",
+        "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "81667709-bcca-427d-be50-b6af3964e53f",
+        "index": 1,
+        "body": "$\\langle408,590,0\\rangle \\mathrm{~m}$",
+        "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+        "stats": {
+          "count": 145
+        },
+        "resources": []
+      },
+      {
+        "id": "3c1f9280-0572-446a-bea5-477b02c5f6a9",
+        "index": 2,
+        "body": "$\\langle508,790,0\\rangle \\mathrm{~m}$",
+        "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+        "stats": {
+          "count": 1578
+        },
+        "resources": []
+      },
+      {
+        "id": "a5a4d50f-51c7-4dcd-9904-070eca8c6b06",
+        "index": 3,
+        "body": "$\\langle516,780,0\\rangle \\mathrm{~m}$",
+        "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      },
+      {
+        "id": "7c1b1335-f69a-4a0e-9d47-9d1a2b3d1333",
+        "index": 4,
+        "body": "None of the above",
+        "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+        "stats": {
+          "count": 180
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "fbf189a9-008b-4e70-9758-6aed986a6f5f",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "389494220",
+    "timeSpentVideo": "29223860",
+    "submissions": 2458,
+    "submissionsCorrect": 1578,
+    "accuracy": 0.6419853539462979,
+    "difficulty": 0.6135652853792025
+  },
+  "resources": [],
+  "exam": {
+    "id": "fbf189a9-008b-4e70-9758-6aed986a6f5f",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8370700918",
+      "timeSpentVideo": "1063954399",
+      "submissions": 62530,
+      "submissionsCorrect": 44703,
+      "questions": 24,
+      "accuracy": 0.7149048456740764,
+      "difficulty": 0.5354382883602108
+    }
+  },
+  "explanation": {
+    "id": "864201c6-b79f-4712-89a2-28f6d3fa6844",
+    "body": "",
+    "questionId": "0813eb04-4015-48ba-9f7a-c1a3b18ce2af",
+    "resources": [
+      {
+        "id": "b2146d21-eece-4be4-a122-440505b825cd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TuuNvnPUd9c?t=954\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "864201c6-b79f-4712-89a2-28f6d3fa6844",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "30e60c20-993c-45bc-9151-02ada3d512a7",
+      "name": "Time Update",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6264292460",
+        "timeSpentVideo": "351272440",
+        "submissions": 18938,
+        "submissionsCorrect": 14103,
+        "questions": 9,
+        "accuracy": 0.7446932094202133,
+        "difficulty": 0.506592078999895
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,112 @@
+{
+  "id": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the trial solution for a particular solution $y_{p}$ of the following differential equation using the method of undetermined coefficients.\n\n\n\\[\ny^{(4)}-2 y^{\\prime \\prime \\prime}+10 y^{\\prime \\prime}=t^{2}+e^{t} \\cos 2 t .\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "89041778-b6ba-4b76-9bb0-849df2d0cec3",
+        "index": 0,
+        "body": "$A t^{3}+B t^{2}+C t+D e^{t} \\cos 2 t+E e^{t} \\sin 2 t$",
+        "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "50211244-6d56-449f-bf1a-ce5bf1cffbd3",
+        "index": 1,
+        "body": "$A t^{4}+B t^{3}+C t^{2}+D t+E+F e^{t} \\cos 2 t+G e^{t} \\sin 2 t$",
+        "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "3bd9c962-8a5e-4f63-bc59-1f44d69c5ae3",
+        "index": 2,
+        "body": "$A t^{4}+B t^{3}+C t^{2}+D t^{2} e^{t} \\cos 2 t+E t^{2} e^{t} \\sin 2 t$",
+        "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "d3784585-cd09-45c7-b95c-718d655fe798",
+        "index": 3,
+        "body": "$A t^{4}+B t^{3}+C t^{2}+D e^{t} \\cos 2 t+E e^{t} \\sin 2 t$",
+        "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+        "stats": {
+          "count": 157
+        },
+        "resources": []
+      },
+      {
+        "id": "d6fa4449-23d9-41be-84f8-5ef00c125b93",
+        "index": 4,
+        "body": "$A t^{2}+B t+C+D e^{t} \\cos 2 t+E e^{t} \\sin 2 t$",
+        "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "45380049",
+    "timeSpentVideo": "0",
+    "submissions": 243,
+    "submissionsCorrect": 157,
+    "accuracy": 0.6460905349794238,
+    "difficulty": 0.6465014577259475
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "66f6a5de-960a-493b-b0d3-0dd057d36746",
+    "body": "",
+    "questionId": "b726ba98-dcd5-4c36-a5e1-e3c62227ae9f",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

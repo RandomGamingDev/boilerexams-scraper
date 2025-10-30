@@ -1,0 +1,158 @@
+{
+  "id": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $$\\int \\frac{1}{x^2 \\sqrt{9-x^2}} dx.$$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "9ac73674-c5e4-4ef6-b6fe-7a0ffbe59c14",
+        "index": 0,
+        "body": "$\\sqrt{9-x^2} +C$",
+        "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "39d2f340-3821-44af-9f70-44ce86198192",
+        "index": 1,
+        "body": "$\\frac{1}{x\\sqrt{9-x^2}}+C$",
+        "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "262022fc-2dee-4df6-beda-983aadb764d5",
+        "index": 2,
+        "body": "$x\\sqrt{9-x^2}+C$",
+        "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "1a57df9b-2bc6-4775-b52f-b3db91d99a9a",
+        "index": 3,
+        "body": "$\\frac{x\\sqrt{9-x^2}}{9-x^2} +C$",
+        "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "823a919a-6295-4e66-8d5d-3a8bced39e48",
+        "index": 4,
+        "body": "$-\\frac{\\sqrt{9-x^2}}{9x} +C$",
+        "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "73431651",
+    "timeSpentVideo": "10931384",
+    "submissions": 292,
+    "submissionsCorrect": 140,
+    "accuracy": 0.4794520547945205,
+    "difficulty": 0.7653061224489797
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "57dd9e7c-0106-42b6-b0d8-b468e3b32fec",
+    "body": null,
+    "questionId": "cd3ce343-a304-4cc0-bdd1-2ce0e8525f15",
+    "resources": [
+      {
+        "id": "91bf9cf0-cf65-4f96-ac58-36982e5afbe0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=8KJ2aYj74ohKnzER&t=1175"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "57dd9e7c-0106-42b6-b0d8-b468e3b32fec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "512369716",
+        "timeSpentVideo": "27938167",
+        "submissions": 1029,
+        "submissionsCorrect": 547,
+        "questions": 5,
+        "accuracy": 0.531584062196307,
+        "difficulty": 0.7212134632418069
+      }
+    }
+  ],
+  "children": []
+}

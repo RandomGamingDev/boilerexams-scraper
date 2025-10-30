@@ -1,0 +1,118 @@
+{
+  "id": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following commands will sort the lines of the <font style=\"font-family:'Courier New'\">lab00.c</font> file and append them to end of a second file called <font style=\"font-family:'Courier New'\">out_test</font>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "edcf91e8-439c-4236-885f-305389f769d1",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">sort >> lab00.c > out_test</font>",
+        "questionId": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+        "stats": {
+          "count": 237
+        },
+        "resources": []
+      },
+      {
+        "id": "1f46eadf-805e-4254-a3c9-4a43aa0cf8f2",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">sort < lab00.c << out_test</font>",
+        "questionId": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "73fe78bb-8b92-49d1-a6f7-d79f986e865b",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">sort < lab00.c >> out_test</font>",
+        "questionId": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+        "stats": {
+          "count": 408
+        },
+        "resources": []
+      },
+      {
+        "id": "7ca513bd-448f-4cbf-9782-c98d2f9b9b17",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "34027377",
+    "timeSpentVideo": "0",
+    "submissions": 859,
+    "submissionsCorrect": 408,
+    "accuracy": 0.47497089639115253,
+    "difficulty": 0.7724191866527632
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "a008ddde-212e-43af-b340-a4edf8e1c68e",
+    "body": "",
+    "questionId": "bba0bc97-bf4f-43ee-bc37-d54458698c7e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "0d6807b5-27d8-4668-b206-ae6db6fe6c1c",
+      "name": "Files",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "387981647",
+        "timeSpentVideo": "0",
+        "submissions": 1977,
+        "submissionsCorrect": 883,
+        "questions": 2,
+        "accuracy": 0.4466363176530096,
+        "difficulty": 0.8007944150216659
+      }
+    }
+  ],
+  "children": []
+}

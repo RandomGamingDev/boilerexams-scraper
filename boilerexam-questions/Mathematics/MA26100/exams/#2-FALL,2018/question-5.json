@@ -1,0 +1,143 @@
+{
+  "id": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following integrals represents the volume of a solid under $z=x^{2}+y^{2}$ and above the region $x^{2}+y^{2}=49$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1d149b83-b8f9-49f8-8e0a-2936cdf6d421",
+        "index": 0,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{49} r^{3}\\; dr \\; d \\theta$",
+        "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "05f65823-ebcd-48b0-81a9-65770f767c13",
+        "index": 1,
+        "body": "$\\int_{0}^{\\pi / 2} \\int_{7}^{49} r^{2} \\;d r\\; d \\theta$",
+        "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "02a6ee17-17c0-4233-a7f1-02ca1bab7f23",
+        "index": 2,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{7} r^{3}\\; d r\\; d \\theta$",
+        "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+        "stats": {
+          "count": 3011
+        },
+        "resources": []
+      },
+      {
+        "id": "dcb0239f-82ea-4613-97bb-9b2324d0f3e6",
+        "index": 3,
+        "body": "$2 \\int_{0}^{\\pi} \\int_{0}^{7} r^{2}\\; d r\\; d \\theta$",
+        "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+        "stats": {
+          "count": 293
+        },
+        "resources": []
+      },
+      {
+        "id": "973d9294-6517-405a-b654-59db9d08525a",
+        "index": 4,
+        "body": "$4 \\int_{\\pi / 2}^{\\pi} \\int_{7}^{49} r\\; d r \\;d \\theta$",
+        "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+        "stats": {
+          "count": 191
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "551386015",
+    "timeSpentVideo": "205001263",
+    "submissions": 4166,
+    "submissionsCorrect": 3011,
+    "accuracy": 0.7227556409025444,
+    "difficulty": 0.5324660103141116
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "42e820b3-20ae-403e-8ace-fc541fe56f13",
+    "body": "",
+    "questionId": "1cb6143c-3dff-49cd-a8f4-fb40b271422e",
+    "resources": [
+      {
+        "id": "257232fc-8c01-4558-8265-1c3cae4a51c2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I?t=623"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "42e820b3-20ae-403e-8ace-fc541fe56f13",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

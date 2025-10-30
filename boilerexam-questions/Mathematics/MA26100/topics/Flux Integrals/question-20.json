@@ -1,0 +1,158 @@
+{
+  "id": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the outward flux of the vector field $\\vec{F}=\\langle\\sin y, x z, 3 z\\rangle$ across the boundary of the space between two spheres of radii $1$ and $2$, both centered at the origin.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "75e73eaa-0517-47f1-aa49-0836779f53f9",
+        "index": 0,
+        "body": "$84 \\pi$",
+        "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      },
+      {
+        "id": "39e00db4-2aca-4dd1-8893-c1f879088ea3",
+        "index": 1,
+        "body": "$24 \\pi$",
+        "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+        "stats": {
+          "count": 221
+        },
+        "resources": []
+      },
+      {
+        "id": "f8ea6a31-cafd-4732-83a5-888524bc32f2",
+        "index": 2,
+        "body": "$28 \\pi$",
+        "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+        "stats": {
+          "count": 3438
+        },
+        "resources": []
+      },
+      {
+        "id": "14e98945-7782-4e9d-bf0d-9fa425569f8d",
+        "index": 3,
+        "body": "$\\frac{28}{3} \\pi$",
+        "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+        "stats": {
+          "count": 230
+        },
+        "resources": []
+      },
+      {
+        "id": "632906a8-c84c-4bf8-b5b0-a0d78a499a89",
+        "index": 4,
+        "body": "$12 \\pi$",
+        "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+        "stats": {
+          "count": 399
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1043682781",
+    "timeSpentVideo": "180613928",
+    "submissions": 5773,
+    "submissionsCorrect": 3438,
+    "accuracy": 0.5955309197990646,
+    "difficulty": 0.6560956921505193
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "d3f7f516-6c62-4441-860a-f6c35d2b2979",
+    "body": "",
+    "questionId": "b436e60d-29cb-4b38-af2e-0cd28d0c0600",
+    "resources": [
+      {
+        "id": "09f79b95-dc32-4bf6-90c4-53766ac0a474",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=3082"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d3f7f516-6c62-4441-860a-f6c35d2b2979",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d788edd-4ff3-42db-9cf5-eff7b76c66b2",
+      "name": "Divergence Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12944208646",
+        "timeSpentVideo": "1457021537",
+        "submissions": 30930,
+        "submissionsCorrect": 16112,
+        "questions": 7,
+        "accuracy": 0.5209182023924992,
+        "difficulty": 0.7291492104415083
+      }
+    },
+    {
+      "id": "6eea2d38-e964-4d09-ba3a-850374ec1486",
+      "name": "Flux Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12286638245",
+        "timeSpentVideo": "1355004033",
+        "submissions": 21592,
+        "submissionsCorrect": 10341,
+        "questions": 5,
+        "accuracy": 0.47892738051130046,
+        "difficulty": 0.7709754748294302
+      }
+    }
+  ],
+  "children": []
+}

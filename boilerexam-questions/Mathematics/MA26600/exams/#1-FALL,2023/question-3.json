@@ -1,0 +1,158 @@
+{
+  "id": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $y$ is a solution to the initial value problem for a Bernoulli equation\n\\[\n\\frac{dy}{dx} + \\frac{4 y}{x} = 3 y^2, \\quad y(1) = \\frac{1}{2},\n\\]\nthen $y(2) = ?$ \\textit{Hint: Use the substitution} $v = y^{-1}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6ab377f6-705c-49f9-9972-58900f85cd5e",
+        "index": 0,
+        "body": "$\\frac{1}{18}$",
+        "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+        "stats": {
+          "count": 693
+        },
+        "resources": []
+      },
+      {
+        "id": "8a75dfa5-1840-481d-a462-58ea56051492",
+        "index": 1,
+        "body": "$\\frac{1}{34}$",
+        "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "fc4b0ef1-6067-4372-9a2d-934d298d79f7",
+        "index": 2,
+        "body": "$\\frac{1}{10}$",
+        "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "c847f7a6-2bbd-47bd-ad2d-fd265d005d24",
+        "index": 3,
+        "body": "$\\frac{1}{20}$",
+        "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "c5ca7bce-e99d-4255-9ea4-548754750abc",
+        "index": 4,
+        "body": "$\\frac{1}{32}$",
+        "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "571062562",
+    "timeSpentVideo": "103545579",
+    "submissions": 1482,
+    "submissionsCorrect": 693,
+    "accuracy": 0.4676113360323887,
+    "difficulty": 0.7803413400758534
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "9a58770f-2ee3-4d61-a559-f54957815aec",
+    "body": null,
+    "questionId": "43a4cd2c-a872-4aec-bd5d-d23a2f838b86",
+    "resources": [
+      {
+        "id": "cac41e3a-7c38-49ea-907b-371ba03c9440",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=AD8c8qggkxoguHWK&t=669"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9a58770f-2ee3-4d61-a559-f54957815aec",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "134e4619-8056-4313-87c6-51259d63b7ed",
+      "name": "Bernoulli equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2475150269",
+        "timeSpentVideo": "173535224",
+        "submissions": 2562,
+        "submissionsCorrect": 1125,
+        "questions": 2,
+        "accuracy": 0.43911007025761123,
+        "difficulty": 0.808602554470323
+      }
+    },
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

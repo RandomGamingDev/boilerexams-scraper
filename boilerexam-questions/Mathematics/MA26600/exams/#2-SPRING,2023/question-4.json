@@ -1,0 +1,143 @@
+{
+  "id": "01144898-5719-49a4-98d2-90737ba4e2d4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of the following system of first order differential equations\n$$\n\\mathbf{x'} = \\begin{pmatrix} 1 & 9 \\\\ 1 & 1 \\end{pmatrix} \\mathbf{x}\n$$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "adf9defd-9590-4691-8f51-26ed6e998fb8",
+        "index": 0,
+        "body": "$\\mathbf{x} = C_1 e^{-2t} \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix} + C_2 e^{4t} \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix}$",
+        "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+        "stats": {
+          "count": 398
+        },
+        "resources": []
+      },
+      {
+        "id": "01fab107-492a-4274-b4ae-f7f7d1bd2749",
+        "index": 1,
+        "body": "$\\mathbf{x} = C_1 e^{-2t} \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix} + C_2 e^{4t} \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix}$",
+        "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "1b852fe5-dac8-4e54-a535-a4402a4e84a4",
+        "index": 2,
+        "body": "$\\mathbf{x} = C_1 e^{2t} \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix} + C_2 e^{-4t} \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix}$",
+        "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "e38300b9-9348-40e5-a3cd-78f061823e79",
+        "index": 3,
+        "body": "$\\mathbf{x} = C_1 e^{2t} \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix} + C_2 e^{-4t} \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix}$",
+        "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "1c661234-0361-4608-b1fa-3778fc9db824",
+        "index": 4,
+        "body": "$\\mathbf{x} = \\left( C_1 e^{-2t} + C_2 e^{4t} \\right) \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix}$\n",
+        "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "96556639",
+    "timeSpentVideo": "3420349",
+    "submissions": 476,
+    "submissionsCorrect": 398,
+    "accuracy": 0.8361344537815126,
+    "difficulty": 0.4722222222222222
+  },
+  "resources": [],
+  "exam": {
+    "id": "61cc8345-9d8c-4ac6-9157-8f59579f4b71",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1365441067",
+      "timeSpentVideo": "306856488",
+      "submissions": 6299,
+      "submissionsCorrect": 3282,
+      "questions": 10,
+      "accuracy": 0.5210350849341165,
+      "difficulty": 0.7292936396311924
+    }
+  },
+  "explanation": {
+    "id": "cace91f8-008b-4995-bbc7-d0d805a98a84",
+    "body": null,
+    "questionId": "01144898-5719-49a4-98d2-90737ba4e2d4",
+    "resources": [
+      {
+        "id": "710408e8-0e58-4689-a3e9-1d6bef239d43",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lizUKYezcSc?si=FX68lb6y69LvWlHT&t=1032"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cace91f8-008b-4995-bbc7-d0d805a98a84",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

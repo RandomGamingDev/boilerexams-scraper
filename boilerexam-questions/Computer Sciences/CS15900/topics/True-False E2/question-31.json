@@ -1,0 +1,133 @@
+{
+  "id": "92c52c20-1357-4e7b-919f-e02f60641351",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding floating-point numbers is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "63f5bca2-b5b5-4070-a25b-047c566a2665",
+        "index": 0,
+        "body": "The C language prohibits the use of the operators <font style=\"font-family:'Courier New'\">==, >=, <=, !=</font> with floating-point operands.",
+        "questionId": "92c52c20-1357-4e7b-919f-e02f60641351",
+        "stats": {
+          "count": 500
+        },
+        "resources": []
+      },
+      {
+        "id": "4c7d9deb-619c-4417-84cc-cdac9b81a56f",
+        "index": 1,
+        "body": "It is better to check that the difference between two floating-point numbers is within a certain range rather than testing\nfor exact equality.",
+        "questionId": "92c52c20-1357-4e7b-919f-e02f60641351",
+        "stats": {
+          "count": 3376
+        },
+        "resources": []
+      },
+      {
+        "id": "5912ad8f-19c2-4878-84d8-1e17a127abef",
+        "index": 2,
+        "body": "Floating-point values used as <font style=\"font-family:'Courier New'\">case</font> labels for a <font style=\"font-family:'Courier New'\">switch</font> statement will be converted into integers.",
+        "questionId": "92c52c20-1357-4e7b-919f-e02f60641351",
+        "stats": {
+          "count": 668
+        },
+        "resources": []
+      },
+      {
+        "id": "108697e0-db9c-46fa-b300-05156b4e7683",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "92c52c20-1357-4e7b-919f-e02f60641351",
+        "stats": {
+          "count": 194
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "305953773",
+    "timeSpentVideo": "32776088",
+    "submissions": 4811,
+    "submissionsCorrect": 3376,
+    "accuracy": 0.7017252130534193,
+    "difficulty": 0.5523824068417837
+  },
+  "resources": [],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "fac9d242-248f-4b65-bc83-7c375d6ab52d",
+    "body": "",
+    "questionId": "92c52c20-1357-4e7b-919f-e02f60641351",
+    "resources": [
+      {
+        "id": "d8a08ba5-601c-4e5a-ab4d-dec6bed78b2f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=4206"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fac9d242-248f-4b65-bc83-7c375d6ab52d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

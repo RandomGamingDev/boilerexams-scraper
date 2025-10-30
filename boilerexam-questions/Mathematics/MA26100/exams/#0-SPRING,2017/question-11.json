@@ -1,0 +1,143 @@
+{
+  "id": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The equation $x y z-2 x \\ln (y)-z^{2}=2$ implicitly defines $z=z(x, y)$ near $(x, y, z)=(3,1,1)$. Find the tangent plane to $z(x, y)$ at $(3,1)$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b6abdd90-8c25-4418-aede-84c837c69e01",
+        "index": 0,
+        "body": "$z+x-3 y=-2$",
+        "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      },
+      {
+        "id": "abea79e4-1c60-4949-bb07-f3134caf4433",
+        "index": 1,
+        "body": "$z-x-3 y=0$",
+        "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "48b1244e-caae-4daa-a1db-42f3c1d9124c",
+        "index": 2,
+        "body": "$z-x+3 y=1$",
+        "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+        "stats": {
+          "count": 271
+        },
+        "resources": []
+      },
+      {
+        "id": "64b9bc91-11e0-4310-ae24-0ae03e901a1c",
+        "index": 3,
+        "body": "$2 z-x+4 y=2$",
+        "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "65805f26-98d4-4bea-a22d-1453a6dd9508",
+        "index": 4,
+        "body": "$z+x-3 y=1$",
+        "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+        "stats": {
+          "count": 1349
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "812265499",
+    "timeSpentVideo": "133565628",
+    "submissions": 3257,
+    "submissionsCorrect": 1349,
+    "accuracy": 0.41418483266809947,
+    "difficulty": 0.8332588620792374
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "df44f880-c944-4b43-bb40-b1e1f045a17a",
+    "body": "",
+    "questionId": "4f296e5f-2a71-4a88-9fc1-7772a8f77585",
+    "resources": [
+      {
+        "id": "5259c1e7-3c72-4681-938e-a42992103bad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=0rHaXVY4uRAYK1Cy&t=1501\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "df44f880-c944-4b43-bb40-b1e1f045a17a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28626287773",
+        "timeSpentVideo": "2457957445",
+        "submissions": 63369,
+        "submissionsCorrect": 35272,
+        "questions": 15,
+        "accuracy": 0.5566128548659439,
+        "difficulty": 0.6934763427815154
+      }
+    }
+  ],
+  "children": []
+}

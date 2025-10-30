@@ -1,0 +1,143 @@
+{
+  "id": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find an equation of the tangent plane to the paraboloid \n$$z=1-\\frac{1}{10}(x^2+4y^2),$$at the point $(1,1,1/2)$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "55e5f6f5-2899-4cfe-9c01-dfd386fa9b5e",
+        "index": 0,
+        "body": "$-\\frac{1}{30} x+\\frac{1}{5} y+z=\\frac{2}{3}$",
+        "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "79ebd12f-22da-49a3-b26c-3edb3f9a8020",
+        "index": 1,
+        "body": "$\\frac{4}{5} x+\\frac{1}{5} y+z=\\frac{3}{2}$",
+        "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "4a42d90f-861c-422f-92fd-1986956d4da6",
+        "index": 2,
+        "body": "$\\frac{4}{5} x+\\frac{4}{5} y+z=\\frac{21}{10}$",
+        "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "dc5fa0e9-ed4c-45a7-8928-02b1738cdbad",
+        "index": 3,
+        "body": "$\\frac{1}{5} x+\\frac{4}{5} y+z=\\frac{3}{2}$",
+        "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+        "stats": {
+          "count": 3416
+        },
+        "resources": []
+      },
+      {
+        "id": "575c7c3e-3593-44dc-864d-d4d72efbcd53",
+        "index": 4,
+        "body": "$\\frac{1}{5} x+\\frac{1}{5} y+z=\\frac{9}{10}$",
+        "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1021376245",
+    "timeSpentVideo": "154447375",
+    "submissions": 4790,
+    "submissionsCorrect": 3416,
+    "accuracy": 0.713152400835073,
+    "difficulty": 0.5412065439672802
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "b14fe515-7823-40f9-b0b6-25cb3d6fd976",
+    "body": "",
+    "questionId": "46cd0ed3-49be-46fe-a82a-36f891585fa5",
+    "resources": [
+      {
+        "id": "fbe84632-8eb4-4546-bbd6-630da70da83a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=497"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b14fe515-7823-40f9-b0b6-25cb3d6fd976",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28626287773",
+        "timeSpentVideo": "2457957445",
+        "submissions": 63369,
+        "submissionsCorrect": 35272,
+        "questions": 15,
+        "accuracy": 0.5566128548659439,
+        "difficulty": 0.6934763427815154
+      }
+    }
+  ],
+  "children": []
+}

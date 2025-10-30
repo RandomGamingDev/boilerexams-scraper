@@ -1,0 +1,143 @@
+{
+  "id": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the center of mass of the rectangle $\\{(x, y) \\mid 0 \\leq x \\leq 1,0 \\leq y \\leq 2\\}$ where the density function is given by $\\rho(x, y)=x y$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "cae93017-36eb-4ba6-9f65-a4945a0e830e",
+        "index": 0,
+        "body": "$(1,2)$",
+        "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "6dcea015-0b57-4aa5-8016-7e6804155d80",
+        "index": 1,
+        "body": "$(0,0)$",
+        "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "f3b28188-4555-467b-860e-feb1ad430034",
+        "index": 2,
+        "body": "$(1 / 2,1)$",
+        "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "10d950fc-6ddb-4839-bbde-5ec64ab35842",
+        "index": 3,
+        "body": "$(2 / 3,4 / 3)$",
+        "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+        "stats": {
+          "count": 3416
+        },
+        "resources": []
+      },
+      {
+        "id": "07994572-a380-400f-84f7-38fbe2f89058",
+        "index": 4,
+        "body": "$(1 / 2,1 /3)$",
+        "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "929861833",
+    "timeSpentVideo": "164044867",
+    "submissions": 4804,
+    "submissionsCorrect": 3416,
+    "accuracy": 0.7110741049125728,
+    "difficulty": 0.5432300163132137
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "28259d42-81a0-4971-aa9c-96709404c1c4",
+    "body": "",
+    "questionId": "1a9ab036-35d3-4fa9-b022-5f312213ff8f",
+    "resources": [
+      {
+        "id": "d3b87617-009e-4e7d-829c-75125611c621",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=1106"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "28259d42-81a0-4971-aa9c-96709404c1c4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1812cd36-6cb4-4602-89ed-950130e4d050",
+      "name": "Integration for Mass",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15010430535",
+        "timeSpentVideo": "2292133203",
+        "submissions": 35360,
+        "submissionsCorrect": 17478,
+        "questions": 8,
+        "accuracy": 0.4942873303167421,
+        "difficulty": 0.7556965595036661
+      }
+    }
+  ],
+  "children": []
+}

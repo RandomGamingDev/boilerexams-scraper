@@ -1,0 +1,143 @@
+{
+  "id": "30a7794e-1ee1-4142-b7b6-a246380978be",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We compute the Taylor series for $f(x) = \\frac{1}{x^4}$ centered at $a= 10$. What is the coefficient of $(x-10)^2$ in the Taylor series? ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b7efcdf7-d3e2-4038-baec-da5b4a5c9b98",
+        "index": 0,
+        "body": "$\\frac{2!}{10^5}$",
+        "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "a6aeeda7-d567-46bb-bc1d-cfd18357aad2",
+        "index": 1,
+        "body": "$-\\frac{10^5}{2!}$",
+        "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "3f8efb64-4de6-4d90-a1b0-b9a79962c10b",
+        "index": 2,
+        "body": "$-\\frac{1}{2!10^5}$",
+        "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "4c522975-4a25-4f6d-8c00-6d29f9f4a3d3",
+        "index": 3,
+        "body": "$\\frac{1}{10^5}$",
+        "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "b041fcc2-f4d2-4086-9780-8df2bd4312fc",
+        "index": 4,
+        "body": "$\\frac{1}{2!10^6}$",
+        "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "48901465",
+    "timeSpentVideo": "9529151",
+    "submissions": 275,
+    "submissionsCorrect": 152,
+    "accuracy": 0.5527272727272727,
+    "difficulty": 0.7113333333333334
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "649a9a66-c2f6-4b2a-bca6-611733631cff",
+    "body": null,
+    "questionId": "30a7794e-1ee1-4142-b7b6-a246380978be",
+    "resources": [
+      {
+        "id": "865a33d8-d671-40f3-9c20-164d657d99f6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=aaTwV2GSS0OPew3a&t=4755"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "649a9a66-c2f6-4b2a-bca6-611733631cff",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42f6ba49-6784-446f-9249-82406193f466",
+      "name": "Taylor Polynomial",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "198548136",
+        "timeSpentVideo": "15739749",
+        "submissions": 488,
+        "submissionsCorrect": 288,
+        "questions": 2,
+        "accuracy": 0.5901639344262295,
+        "difficulty": 0.6751700680272109
+      }
+    }
+  ],
+  "children": []
+}

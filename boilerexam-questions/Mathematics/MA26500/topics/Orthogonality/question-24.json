@@ -1,0 +1,188 @@
+{
+  "id": "0ca42813-158f-4055-b563-dafaaf331698",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For $f$ and $g$ in $C[0,1]$, set\n\n\n\\[\n\\langle f, g\\rangle=\\int_{0}^{1} f(t) g(t) d t .\n\\]\n\nIf one performs Gram-Schmidt Process to the polynomials $t^{2}$ and $1$, the resulting orthogonal basis of $\\operatorname{span}\\left\\{t^{2}, 1\\right\\}$ is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "abe3da2f-4fe5-458f-8b3b-a0bc5185b234",
+        "index": 0,
+        "body": "$\\left\\{t^{2}, 1-\\frac{4}{3} t^{2}\\right\\}$",
+        "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      },
+      {
+        "id": "c9a06564-a73b-4c9a-8f2e-b0d35d4661e1",
+        "index": 1,
+        "body": "$\\left\\{t^{2}, 1-\\frac{3}{5} t^{2}\\right\\}$",
+        "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+        "stats": {
+          "count": 96
+        },
+        "resources": []
+      },
+      {
+        "id": "4c7a8cf3-e4db-416c-963d-fb4482f36637",
+        "index": 2,
+        "body": "$\\left\\{t^{2}, 1-\\frac{5}{3} t^{2}\\right\\}$",
+        "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+        "stats": {
+          "count": 1444
+        },
+        "resources": []
+      },
+      {
+        "id": "19d09e12-ebc5-4e7e-9d58-7ce57e09f552",
+        "index": 3,
+        "body": "$\\left\\{t^{2}, 1-\\frac{3}{4} t^{2}\\right\\}$",
+        "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+        "stats": {
+          "count": 94
+        },
+        "resources": []
+      },
+      {
+        "id": "1b5e9200-eeee-4256-acb0-fdac40da6d2a",
+        "index": 4,
+        "body": "$\\left\\{t^{2}, 1-\\frac{5}{4} t^{2}\\right\\}$",
+        "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "450437685",
+    "timeSpentVideo": "86240492",
+    "submissions": 2595,
+    "submissionsCorrect": 1444,
+    "accuracy": 0.5564547206165703,
+    "difficulty": 0.6956400742115028
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "aacc8eb1-7c05-4030-858c-7c5da16c3378",
+    "body": "",
+    "questionId": "0ca42813-158f-4055-b563-dafaaf331698",
+    "resources": [
+      {
+        "id": "a12edeff-8530-4600-9080-29896cbbbb67",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=8380\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aacc8eb1-7c05-4030-858c-7c5da16c3378",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "640baa0d-5555-4cf9-8d6a-025905365429",
+      "name": "Inner Product",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2813088455",
+        "timeSpentVideo": "237315094",
+        "submissions": 5585,
+        "submissionsCorrect": 2916,
+        "questions": 3,
+        "accuracy": 0.5221128021486123,
+        "difficulty": 0.7282761653474055
+      }
+    },
+    {
+      "id": "98f7aa52-6b10-415c-b269-3991425de277",
+      "name": "Orthogonality",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295748992",
+        "timeSpentVideo": "694299197",
+        "submissions": 13140,
+        "submissionsCorrect": 7059,
+        "questions": 6,
+        "accuracy": 0.5372146118721461,
+        "difficulty": 0.7130664652567976
+      }
+    },
+    {
+      "id": "a990d569-8a18-4df9-a1f0-2fc59b168eda",
+      "name": "Orthogonal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6291015559",
+        "timeSpentVideo": "849868826",
+        "submissions": 14614,
+        "submissionsCorrect": 7169,
+        "questions": 7,
+        "accuracy": 0.49055700013685505,
+        "difficulty": 0.7593788228897649
+      }
+    },
+    {
+      "id": "bccec053-b32d-4e1a-b3b5-3a71a7dacc4d",
+      "name": "Gram-Schmidt Process",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7187618615",
+        "timeSpentVideo": "632639584",
+        "submissions": 15198,
+        "submissionsCorrect": 8467,
+        "questions": 8,
+        "accuracy": 0.5571127779971049,
+        "difficulty": 0.6932605569355471
+      }
+    }
+  ],
+  "children": []
+}

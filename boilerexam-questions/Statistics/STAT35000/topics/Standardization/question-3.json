@@ -1,0 +1,113 @@
+{
+  "id": "4c067f41-ede4-464c-bac8-21305d63c670",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Data is to be gathered from a population to test a statistical hypothesis regarding the mean of a population at a significance level of $\\mathbf{\\alpha=0.01}$. It is known that the population is normal and has a standard deviation of $\\mathbf{\\sigma=85}$. The researchers believe the population mean has dipped below the value of $\\mathbf{\u03bc_{0} = 150}$. The researchers have enough resources to collect a sample of size $\\mathbf{n=100}$. The critical value for $\\mathbf{\\alpha=0.01}$ is $\\mathbf{z_{\u03b1} = 2.326348}$.\n\nTrue or False? The power for detecting an alternative of $\\mathbf{\\mu_a = 180}$ is given by $P(Z > \\frac{\\mu_{0} - \\mu_{a}}{\\sigma/\\sqrt{n}} + z_{0.01}) = P(Z > -1.2031)$, where $Z$ is a standard normal random variable. ",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d5bef769-7c18-4f18-9ede-ac817683d28b",
+        "index": 0,
+        "body": "True",
+        "questionId": "4c067f41-ede4-464c-bac8-21305d63c670",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      },
+      {
+        "id": "4b31fa5c-8463-48a4-b927-f89a53d80746",
+        "index": 1,
+        "body": "False",
+        "questionId": "4c067f41-ede4-464c-bac8-21305d63c670",
+        "stats": {
+          "count": 116
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "51279532",
+    "timeSpentVideo": "8993824",
+    "submissions": 425,
+    "submissionsCorrect": 266,
+    "accuracy": 0.6258823529411764,
+    "difficulty": 0.6480952380952381
+  },
+  "resources": [],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "499829109",
+      "timeSpentVideo": "154037265",
+      "submissions": 4760,
+      "submissionsCorrect": 2550,
+      "questions": 15,
+      "accuracy": 0.5357142857142857,
+      "difficulty": 0.7150205761316872
+    }
+  },
+  "explanation": {
+    "id": "50b4adc3-5d53-4546-a3cb-26b6c428d797",
+    "body": "",
+    "questionId": "4c067f41-ede4-464c-bac8-21305d63c670",
+    "resources": [
+      {
+        "id": "5d412cb2-a2b3-4ddf-a4d5-4a87a05a48f8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/rRDuaKnGF94?t=102"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "50b4adc3-5d53-4546-a3cb-26b6c428d797",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b1ec03e5-397d-44fb-bc91-2d5058569578",
+      "name": "Standardization",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "218375228",
+        "timeSpentVideo": "13397071",
+        "submissions": 492,
+        "submissionsCorrect": 271,
+        "questions": 2,
+        "accuracy": 0.5508130081300813,
+        "difficulty": 0.7077702702702703
+      }
+    }
+  ],
+  "children": []
+}

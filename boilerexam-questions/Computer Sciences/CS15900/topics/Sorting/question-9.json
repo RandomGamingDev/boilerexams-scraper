@@ -1,0 +1,133 @@
+{
+  "id": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the insertion sorting algorithm is <b>TRUE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "63106e99-cf76-47fc-b15d-828c43d71760",
+        "index": 0,
+        "body": "Insertion sort begins with zero elements in the sorted list.",
+        "questionId": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "a0dda269-fcf7-4062-a878-253b918badfa",
+        "index": 1,
+        "body": "Once insertion sort places a value in the sorted list, that value will never move again in the remainder of the passes.",
+        "questionId": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "1264583d-038c-4805-8534-4f49b77e1318",
+        "index": 2,
+        "body": "On the final pass through insertion sort, one value is brought over from the unsorted list into the sorted list.",
+        "questionId": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "236f4409-27ef-42c9-bded-20b4786ad907",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1534305",
+    "timeSpentVideo": "0",
+    "submissions": 13,
+    "submissionsCorrect": 9,
+    "accuracy": 0.6923076923076923,
+    "difficulty": 0.7278761061946902
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "5559d084-7f40-49b7-8a5c-14bead5a68a7",
+    "body": null,
+    "questionId": "510faaf2-b87b-481f-8a91-0643a55fc0b8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

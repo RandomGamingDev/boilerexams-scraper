@@ -1,0 +1,158 @@
+{
+  "id": "9059faea-a225-45db-959d-77e6f47c78f7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following matrices are diagonalizable?\n(i) $\\left[\\begin{array}{cc}1 & 4 \\\\ 1 & -2\\end{array}\\right]$\n(ii) $\\left[\\begin{array}{cc}1 & -2 \\\\ -2 & 1\\end{array}\\right]$\n(iii) $\\left[\\begin{array}{ccc}1 & 1 & -2 \\\\ 0 & 0 & 4 \\\\ 0 & 0 & 6\\end{array}\\right]$\n(iv) $\\left[\\begin{array}{ccc}1 & 2 & 3 \\\\ 2 & -1 & 2 \\\\ 3 & 2 & 2\\end{array}\\right]$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "668fad10-b43a-4832-991d-f00a99f45c3f",
+        "index": 0,
+        "body": "(i) and (iii) only",
+        "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "02d2ff7e-b85e-41d3-84cf-f5dde218f960",
+        "index": 1,
+        "body": "(iii) and (iv) only",
+        "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "4c61d539-39f6-42b9-bc45-e8f4cbf3f9f1",
+        "index": 2,
+        "body": "(ii) and (iii) only",
+        "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "01ae734e-10cb-4b1e-aa86-c4fb5b5c8ff8",
+        "index": 3,
+        "body": "(i), (ii) and (iv) only",
+        "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+        "stats": {
+          "count": 286
+        },
+        "resources": []
+      },
+      {
+        "id": "e474495f-05ea-4f9a-b378-bb5bb9307193",
+        "index": 4,
+        "body": "(i), (ii), (iii) and (iv)",
+        "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+        "stats": {
+          "count": 724
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "238877469",
+    "timeSpentVideo": "31807091",
+    "submissions": 1302,
+    "submissionsCorrect": 724,
+    "accuracy": 0.5560675883256528,
+    "difficulty": 0.6979315263908702
+  },
+  "resources": [],
+  "exam": {
+    "id": "db309d91-cae4-49fa-a813-04fdbfd253d3",
+    "number": 0,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5256686073",
+      "timeSpentVideo": "817078114",
+      "submissions": 28962,
+      "submissionsCorrect": 18421,
+      "questions": 25,
+      "accuracy": 0.636040328706581,
+      "difficulty": 0.6144277751015071
+    }
+  },
+  "explanation": {
+    "id": "db445327-1b7a-4302-a5fd-01de4ab76fb0",
+    "body": "",
+    "questionId": "9059faea-a225-45db-959d-77e6f47c78f7",
+    "resources": [
+      {
+        "id": "8b66b443-3eb3-4608-9cb6-1cf90d3a12bc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/HumaprXFL5g?t=2164\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "db445327-1b7a-4302-a5fd-01de4ab76fb0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09fd149b-3fe2-49d6-816a-482451e75dd1",
+      "name": "Eigenvalues and Eigenvectors",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "39527605618",
+        "timeSpentVideo": "5607512043",
+        "submissions": 103195,
+        "submissionsCorrect": 59735,
+        "questions": 48,
+        "accuracy": 0.5788555647075925,
+        "difficulty": 0.6712207754489569
+      }
+    },
+    {
+      "id": "17d90f9f-d8eb-450c-96e9-52b5cb8b30f3",
+      "name": "Diagonalizable Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20895284638",
+        "timeSpentVideo": "3207658447",
+        "submissions": 56015,
+        "submissionsCorrect": 31361,
+        "questions": 24,
+        "accuracy": 0.5598678925287869,
+        "difficulty": 0.6902387953310166
+      }
+    }
+  ],
+  "children": []
+}

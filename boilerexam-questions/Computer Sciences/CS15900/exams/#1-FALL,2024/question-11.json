@@ -1,0 +1,118 @@
+{
+  "id": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the structure of a C program and the standards of this course is <b>TRUE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1343487a-51d2-4e0b-80a5-b41a7ca5bd49",
+        "index": 0,
+        "body": "Within each function the local declarations and executable statement sections are permitted to overlap as long as each variable declaration comes before its first use in an executable statement.",
+        "questionId": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "ce117305-2e59-46b0-88d6-6776035efede",
+        "index": 1,
+        "body": "Global declarations are limited to function declarations while all variable declarations must be present inside of a function.",
+        "questionId": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+        "stats": {
+          "count": 543
+        },
+        "resources": []
+      },
+      {
+        "id": "a34bac72-d809-4673-bfe5-1dd3bfd12988",
+        "index": 2,
+        "body": "The body of a function is only that code found inside of the executable statement section.",
+        "questionId": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "d8f5d9c9-8af5-4c02-a2a6-681ff8bc59ab",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "65975773-d891-4987-ad37-0525d9a54288",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "75701795",
+    "timeSpentVideo": "0",
+    "submissions": 814,
+    "submissionsCorrect": 543,
+    "accuracy": 0.6670761670761671,
+    "difficulty": 0.6012035010940919
+  },
+  "resources": [],
+  "exam": {
+    "id": "65975773-d891-4987-ad37-0525d9a54288",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2179307861",
+      "timeSpentVideo": "0",
+      "submissions": 24300,
+      "submissionsCorrect": 16378,
+      "questions": 44,
+      "accuracy": 0.6739917695473251,
+      "difficulty": 0.5767213114754098
+    }
+  },
+  "explanation": {
+    "id": "6ed9a182-8e88-4e44-b47d-868edb5665e5",
+    "body": null,
+    "questionId": "b33d50c4-fc7f-402c-aeed-7bfdd4d601c8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

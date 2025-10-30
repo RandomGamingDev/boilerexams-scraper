@@ -1,0 +1,158 @@
+{
+  "id": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the arc length of $r=e^{2\\theta}$, where $0\\le\\theta\\le2\\pi$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f33bf5b2-cfb1-4114-b640-656f23b263df",
+        "index": 0,
+        "body": "$\\frac{\\sqrt{9}}{2}(e^{4\\pi}-1)$",
+        "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "f1490250-3078-4ce3-a745-ca732d85dc1d",
+        "index": 1,
+        "body": "$\\frac{\\sqrt{5}}{2}(e^{4\\pi}-1)$",
+        "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+        "stats": {
+          "count": 269
+        },
+        "resources": []
+      },
+      {
+        "id": "2f9c6f98-74cd-41cc-a273-c90693fee99f",
+        "index": 2,
+        "body": "$\\sqrt{2}(e^{4\\pi}-1)$",
+        "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "fd4a7f67-a4fd-4357-914b-7e4cd0280fd5",
+        "index": 3,
+        "body": "$\\frac{\\sqrt{2}}{2}(e^{4\\pi}-1)$",
+        "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "70cc24fe-28c2-4b86-9c13-9ffa00adb246",
+        "index": 4,
+        "body": "$\\frac{\\sqrt{3}}{2}(e^{4\\pi}-1)$",
+        "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "80263241",
+    "timeSpentVideo": "10869684",
+    "submissions": 427,
+    "submissionsCorrect": 269,
+    "accuracy": 0.629976580796253,
+    "difficulty": 0.6446869070208728
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "c77dbc88-128f-4a68-9870-85db1154092b",
+    "body": null,
+    "questionId": "a5527623-1bae-428a-bc70-f36268cc0d3a",
+    "resources": [
+      {
+        "id": "1c736f08-16da-4304-b7d5-0acc2d10abeb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=5769s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c77dbc88-128f-4a68-9870-85db1154092b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "24cbbc40-79a2-43c0-bc60-d909a4fbbc1f",
+      "name": "Polar Coordinates",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5292923715",
+        "timeSpentVideo": "268260904",
+        "submissions": 12013,
+        "submissionsCorrect": 7338,
+        "questions": 9,
+        "accuracy": 0.610838258553234,
+        "difficulty": 0.6400767770164286
+      }
+    },
+    {
+      "id": "dc7d8d92-419b-45fd-b65a-cd2d682f0ed8",
+      "name": "Length of Polar Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4391597817",
+        "timeSpentVideo": "328173112",
+        "submissions": 8441,
+        "submissionsCorrect": 3996,
+        "questions": 4,
+        "accuracy": 0.4734036251628954,
+        "difficulty": 0.7762849783397728
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,149 @@
+{
+  "id": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The function \\verb|len| in line 3 returns:",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0d7d0942-94b2-41cb-8e38-91779f38fa6f",
+        "index": 0,
+        "body": "The number of items in the list.",
+        "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+        "stats": {
+          "count": 474
+        },
+        "resources": []
+      },
+      {
+        "id": "4a40dfa2-397f-4f9c-9de5-69c8d33885a3",
+        "index": 1,
+        "body": "The sum of the sizes of the items in the list.",
+        "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "36b8e559-7388-4e94-976f-4d601f166f3f",
+        "index": 2,
+        "body": "The length of the largest item in the list.",
+        "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "efa9306b-05e7-481a-94b9-ecd29afe8b72",
+        "index": 3,
+        "body": "The length of the smallest item in the list.",
+        "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "21839899",
+    "timeSpentVideo": "75333",
+    "submissions": 504,
+    "submissionsCorrect": 474,
+    "accuracy": 0.9404761904761905,
+    "difficulty": 0.3824503311258278
+  },
+  "resources": [
+    {
+      "id": "c54c64e9-50a1-4f12-a394-c7c5335c4fb6",
+      "type": "CODE",
+      "data": {
+        "content": "list = [4, 3, 6, 1, 7, 0, 9, 2]\ncurrentMax = list[0]\nlength = len(list)\n\nfor i in range(1, length):\n\tif list[i] > currentMax:\n\t\tcurrentMax = list[i]\n\nprint(currentMax)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "87721464-f624-4d52-8424-96586874c4f5",
+    "body": "",
+    "questionId": "c318c7a8-f587-44cf-a05c-31230f0188a4",
+    "resources": [
+      {
+        "id": "7a9fc1a4-ef61-47ce-875e-76893d2e9280",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=kKVTe-evsgR7k3nK&t=4955"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "87721464-f624-4d52-8424-96586874c4f5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "82351249-f08b-4cc2-a751-623e252d4b63",
+      "name": "Lists",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1008310865",
+        "timeSpentVideo": "26082485",
+        "submissions": 2638,
+        "submissionsCorrect": 1979,
+        "questions": 3,
+        "accuracy": 0.7501895375284306,
+        "difficulty": 0.5089481373265157
+      }
+    }
+  ],
+  "children": []
+}

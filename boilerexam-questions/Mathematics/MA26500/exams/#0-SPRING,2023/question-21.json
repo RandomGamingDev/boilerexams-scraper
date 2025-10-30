@@ -1,0 +1,143 @@
+{
+  "id": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{v}_{\\mathbf{1}}=\\left[\\begin{array}{l}0 \\\\ 3 \\\\ 4\\end{array}\\right], \\mathbf{v}_{\\mathbf{2}}=\\left[\\begin{array}{c}-5 \\\\ -4 \\\\ 3\\end{array}\\right]$, and $\\mathbf{v}_{\\mathbf{3}}=\\left[\\begin{array}{c}5 \\\\ -4 \\\\ 3\\end{array}\\right]$ be an orthogonal set that spans $\\mathbb{R}^{3}$. Write the vector $\\mathbf{x}=\\left[\\begin{array}{c}10 \\\\ -10 \\\\ 20\\end{array}\\right]$ as $c_{1} \\mathbf{v}_{\\mathbf{1}}+c_{2} \\mathbf{v}_{\\mathbf{2}}+c_{3} \\mathbf{v}_{\\mathbf{3}}$. What is $c_{2}$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c5336fdb-6daa-4731-8add-38a798d03941",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+        "stats": {
+          "count": 1415
+        },
+        "resources": []
+      },
+      {
+        "id": "c4b10235-ab60-44b8-adb8-4671402830dd",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "4233f576-3a15-447a-9e93-6086167d1b53",
+        "index": 2,
+        "body": "$5$",
+        "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "f04e4f21-cd52-47c8-b4ed-901cf4b05554",
+        "index": 3,
+        "body": "$7$",
+        "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "821fe728-fc6b-4892-8961-48aeb3282037",
+        "index": 4,
+        "body": "$9$",
+        "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "627085525",
+    "timeSpentVideo": "87682211",
+    "submissions": 2388,
+    "submissionsCorrect": 1415,
+    "accuracy": 0.5925460636515912,
+    "difficulty": 0.6611736334405145
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "d39d3db3-19f1-49f3-88e6-aadd6a6ef5f8",
+    "body": "",
+    "questionId": "c8fa591b-adc2-4007-aa64-035ff45aee97",
+    "resources": [
+      {
+        "id": "694e3aab-a0f0-4f61-b686-5a1f3bc5d72e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=7051\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d39d3db3-19f1-49f3-88e6-aadd6a6ef5f8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

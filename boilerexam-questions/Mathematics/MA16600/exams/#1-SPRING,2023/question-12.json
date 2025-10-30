@@ -1,0 +1,143 @@
+{
+  "id": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the length of the curve \n\\[\ny = f(x) = \\frac{e^x+e^{-x}}{2}\n\\]\non the interval $[0,\\ln 5]$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d2149d28-c8d1-4fb5-a6ac-ac017e635b1a",
+        "index": 0,
+        "body": "$\\sqrt{\\frac{24}{5}}$",
+        "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "ac3aa170-331d-4393-85c3-6c0cd9ce2ad4",
+        "index": 1,
+        "body": "$\\ln 5 + \\frac{12}{5}$",
+        "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "6b58900c-0a4d-4fee-bc80-6a77e56349e3",
+        "index": 2,
+        "body": "$\\ln 3 + \\frac{1}{5}$",
+        "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "4cd9bb2f-646b-40bd-8815-89c66994f73b",
+        "index": 3,
+        "body": "$\\frac{12}{5}$",
+        "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "4528fd13-b85c-4cf7-aa0e-96b98cb8d501",
+        "index": 4,
+        "body": "$\\frac{24}{5}$",
+        "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "6458968",
+    "timeSpentVideo": "676823",
+    "submissions": 33,
+    "submissionsCorrect": 9,
+    "accuracy": 0.2727272727272727,
+    "difficulty": 0.8063909774436091
+  },
+  "resources": [],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "63faaed9-122b-4caf-b3eb-7313aaa684b1",
+    "body": null,
+    "questionId": "892f952c-ce75-4a00-8b84-8dc5d539b58e",
+    "resources": [
+      {
+        "id": "2a026cb4-f1b7-4f7c-9047-8c7e92b79b4a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=QI71pLctfqTdlhBf&t=4683"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "63faaed9-122b-4caf-b3eb-7313aaa684b1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b3c8b3a1-86e6-4ae4-8e69-c2b5edaca0ba",
+      "name": "Length of Curves",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94514096",
+        "timeSpentVideo": "1953693",
+        "submissions": 84,
+        "submissionsCorrect": 39,
+        "questions": 2,
+        "accuracy": 0.4642857142857143,
+        "difficulty": 0.7663043478260869
+      }
+    }
+  ],
+  "children": []
+}

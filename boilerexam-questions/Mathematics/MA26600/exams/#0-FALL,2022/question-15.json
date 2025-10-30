@@ -1,0 +1,112 @@
+{
+  "id": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution of\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{cc}\n1 & -4 \\\\\n4 & 9\n\\end{array}\\right] \\mathbf{x}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "66bc25c5-fade-4c09-b9f4-e8e185fae35e",
+        "index": 0,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-4 \\\\ 4\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-1 \\\\ 1\\end{array}\\right] e^{5 t}$",
+        "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "761d9f71-b33c-4173-8a6b-4b1e7dae2a90",
+        "index": 1,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{l}4 \\\\ 0\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}0 \\\\ 4 t\\end{array}\\right] e^{-5 t}$",
+        "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "5e5a79ad-2d3e-4821-b0ae-1fcc195bf9c4",
+        "index": 2,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-4 \\\\ 4\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}1-4 t \\\\ 4 t\\end{array}\\right] e^{5 t}$",
+        "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+        "stats": {
+          "count": 158
+        },
+        "resources": []
+      },
+      {
+        "id": "f5910ae3-6995-4944-bc8b-d2e673f89ad9",
+        "index": 3,
+        "body": "$\\mathbf{x}(t)=c_{1}(1+t)\\left[\\begin{array}{c}-4 \\\\ 4\\end{array}\\right] e^{5 t}$",
+        "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "29668df3-a77e-44f6-90b0-4daa220348d5",
+        "index": 4,
+        "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-4 \\\\ 4\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-4 \\\\ t+4\\end{array}\\right] e^{-5 t}$",
+        "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40790649",
+    "timeSpentVideo": "0",
+    "submissions": 172,
+    "submissionsCorrect": 158,
+    "accuracy": 0.9186046511627907,
+    "difficulty": 0.4852941176470589
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "66e7eea5-2a04-4d5a-b947-5f35d05f3186",
+    "body": "",
+    "questionId": "298e39cc-a63f-4b01-b24b-fbb248154f0a",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

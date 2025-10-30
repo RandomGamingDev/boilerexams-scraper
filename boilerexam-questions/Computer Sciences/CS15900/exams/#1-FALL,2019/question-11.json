@@ -1,0 +1,149 @@
+{
+  "id": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following data type conversions does NOT appear in the code segment?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b18306cd-936e-4fac-a42c-7972d5a94d4e",
+        "index": 0,
+        "body": "Implicit",
+        "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+        "stats": {
+          "count": 506
+        },
+        "resources": []
+      },
+      {
+        "id": "ca49f889-2c86-48df-b95a-288a18aee73f",
+        "index": 1,
+        "body": "Explicit",
+        "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+        "stats": {
+          "count": 220
+        },
+        "resources": []
+      },
+      {
+        "id": "849fccee-64b8-44f7-bb56-387102eb6347",
+        "index": 2,
+        "body": "Assignment",
+        "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+        "stats": {
+          "count": 475
+        },
+        "resources": []
+      },
+      {
+        "id": "9adba666-627d-4d75-b4e3-90b866892e45",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+        "stats": {
+          "count": 2300
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "326013553",
+    "timeSpentVideo": "11673052",
+    "submissions": 3573,
+    "submissionsCorrect": 2300,
+    "accuracy": 0.6437167646235656,
+    "difficulty": 0.610196025047645
+  },
+  "resources": [
+    {
+      "id": "8a9312c7-2ee5-4b68-b8db-d1337b679f75",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\n#define TRIANGLE 0.5\n\nint main()\n{\n  int volume;\n  double area;\n  double length = 3;\n  \n  volume = TRIANGLE / 2 * length;\n  volume *= sqrt(3 * pow(length, 4));\n  \n  area = (int) (TRIANGLE * sqrt(3 * pow(length, 4)));\n  area += 3 * pow(length, 2);\n\n  printf(\"Volume: %d\\n\", volume) ;\n  printf(\"Area: %d\\n\", (int) area);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "81000164-f278-42bf-ab5b-20baaacb0582",
+    "body": "",
+    "questionId": "d249cf31-53ff-4b0c-ac29-a6ad2e251c34",
+    "resources": [
+      {
+        "id": "aec0631e-c657-4595-b21d-22117a9a1bcb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=Zbof7cgWzdTvkm0x&t=880"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "81000164-f278-42bf-ab5b-20baaacb0582",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

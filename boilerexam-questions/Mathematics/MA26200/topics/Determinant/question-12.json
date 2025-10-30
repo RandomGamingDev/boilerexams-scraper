@@ -1,0 +1,143 @@
+{
+  "id": "f50d4451-3edc-4321-a807-e75523d966a7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n\\[\nA=\\left[\\begin{array}{ll}\n1 & 1 \\\\\n2 & 3\n\\end{array}\\right], \\quad B=\\left[\\begin{array}{lll}\n0 & 1 & 2 \\\\\n3 & 4 & 5\n\\end{array}\\right] .\n\\]\n\nFind the sum of the elements of the third column in $A^{-1} B$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "68aab79d-76c5-4439-ae64-db48a388a1cf",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "8d13b5fd-784b-49ed-88de-20c2511eeb41",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "df83a8c2-f14d-4763-8c7c-754505898dd0",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+        "stats": {
+          "count": 498
+        },
+        "resources": []
+      },
+      {
+        "id": "70619b9c-c914-4eb7-babd-e2f7d721b85b",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "f382c3df-5c1c-4fd4-a1ec-a62b10da9151",
+        "index": 4,
+        "body": "$4$",
+        "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "153551659",
+    "timeSpentVideo": "26263624",
+    "submissions": 801,
+    "submissionsCorrect": 498,
+    "accuracy": 0.6217228464419475,
+    "difficulty": 0.6417869034406215
+  },
+  "resources": [],
+  "exam": {
+    "id": "b2991841-5844-4a41-98d4-6e8a8c3a803a",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2330076562",
+      "timeSpentVideo": "458424026",
+      "submissions": 9301,
+      "submissionsCorrect": 4807,
+      "questions": 12,
+      "accuracy": 0.516826147726051,
+      "difficulty": 0.733352834804808
+    }
+  },
+  "explanation": {
+    "id": "c0052251-cad6-4efc-840d-3567a091f6c4",
+    "body": "",
+    "questionId": "f50d4451-3edc-4321-a807-e75523d966a7",
+    "resources": [
+      {
+        "id": "46fddd88-1103-40fc-bb87-97fc05e644a1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/oL8qBv539rQ?si=eIckD7X-CKtWWyny&t=2452\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c0052251-cad6-4efc-840d-3567a091f6c4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    }
+  ],
+  "children": []
+}

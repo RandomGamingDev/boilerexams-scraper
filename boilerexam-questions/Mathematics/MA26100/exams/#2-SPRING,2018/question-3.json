@@ -1,0 +1,143 @@
+{
+  "id": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\int_{0}^{1} \\int_{2 x}^{2} e^{y^{2}} d y d x$ by reversing the order of integration.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2a82d449-695b-47c4-bb9c-010600ae49e6",
+        "index": 0,
+        "body": "$e^{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "f0f1316e-5651-4573-98ed-c0c9a73733de",
+        "index": 1,
+        "body": "$\\frac{e^{4}}{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "297df266-10c7-4e29-bc09-468ae4999a0a",
+        "index": 2,
+        "body": "$e^{4}-1$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "aded4fe1-893b-401a-aafb-9225144cec94",
+        "index": 3,
+        "body": "$\\frac{e^{4}}{4}-\\frac{1}{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+        "stats": {
+          "count": 1446
+        },
+        "resources": []
+      },
+      {
+        "id": "4a128481-e7f8-47fb-af1e-748c8d9453cf",
+        "index": 4,
+        "body": "$\\frac{e^{4}}{2}-\\frac{1}{2}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+        "stats": {
+          "count": 67
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "396167901",
+    "timeSpentVideo": "58659468",
+    "submissions": 1882,
+    "submissionsCorrect": 1446,
+    "accuracy": 0.7683315621679064,
+    "difficulty": 0.4952068617558022
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
+    "number": 2,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9009337690",
+      "timeSpentVideo": "2108033112",
+      "submissions": 39483,
+      "submissionsCorrect": 21279,
+      "questions": 11,
+      "accuracy": 0.5389408099688473,
+      "difficulty": 0.7111575676426749
+    }
+  },
+  "explanation": {
+    "id": "937da287-e7f8-4f46-a303-ed0de2a5ab78",
+    "body": "",
+    "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
+    "resources": [
+      {
+        "id": "ef6229f5-8961-4d57-8758-9c918669545b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tE3sxPzvjrQ?t=236\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "937da287-e7f8-4f46-a303-ed0de2a5ab78",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

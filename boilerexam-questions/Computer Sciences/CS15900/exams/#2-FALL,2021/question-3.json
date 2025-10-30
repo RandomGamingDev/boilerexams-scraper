@@ -1,0 +1,149 @@
+{
+  "id": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following logical operators short-circuited in the program?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "73be6b9b-70c8-4366-b6c3-f40a7629423d",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">OR on line 9.</font>",
+        "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "a20997ef-e2f0-43cc-b147-c3ecc41ef7d0",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">AND on line 9.</font>",
+        "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "c61057c4-f70e-42d2-9324-44ec5f890fa8",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">AND on line 13.</font>",
+        "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+        "stats": {
+          "count": 410
+        },
+        "resources": []
+      },
+      {
+        "id": "ca4b60ae-4479-49de-ad53-32cd4e257d6f",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+        "stats": {
+          "count": 2095
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "253571863",
+    "timeSpentVideo": "20972668",
+    "submissions": 3118,
+    "submissionsCorrect": 2095,
+    "accuracy": 0.671905067350866,
+    "difficulty": 0.5834369173399627
+  },
+  "resources": [
+    {
+      "id": "ed8d85ef-f1eb-49e4-9ecb-804e690e2fed",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void) \n{\n  int x = 3;\n  int y = 0;\n  int z = 3;\n  \n  if (++x && y++ || z-- == 2)\n  {\n    z++;\n  }\n  else if (!(++x) || !(--y) && --z)\n  {\n    z = x >= y >= z;\n  }\n  else if (y-- < x--)\n  {\n    z++;\n  }\n  else\n  {\n    x = 0;\n    y = 0;\n    z = 0;\n  }\n  \n  // NOTE: this code throws a warning.\n  // Answer is still valid, however.\n  \n  return (0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "a0c93e95-fb09-445c-a953-ec06e3c36b48",
+    "body": "",
+    "questionId": "c935b838-8ec7-456a-ac4a-b259e90496bb",
+    "resources": [
+      {
+        "id": "93f7211f-b006-417a-a7ea-e502d1a727db",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=263"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a0c93e95-fb09-445c-a953-ec06e3c36b48",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

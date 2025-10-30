@@ -1,0 +1,90 @@
+{
+  "id": "bfe3e2c2-f5a5-4ab9-8274-ec1e4b5eb11a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine the dimensions of $\\alpha$, $\\beta$, and $\\gamma$ in the absolute and the gravitational system such that the following equation is homogeneous and correct:\n\n$$\\int_{0}^{x} \\frac{F}{\\dot{g}^2} \\,dy + \n\\int_{0}^{t} \\int_{0}^{x} F \\alpha v  \\,dx dy  = \n\\frac{\\gamma}{2}  \\cdot M \\cdot sin(\\dot{\\theta} \\beta)$$\n\nGiven that $F$ is a force, $x$ is a displacement, $g$ is a length, $v$ is a velocity, $t$ is time, $M$ is a mass, and $\\theta$ is an angle.\n",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "2f74ba91-0121-47ca-b90e-3d81e4ceab12",
+  "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "296289941",
+    "timeSpentVideo": "77314010",
+    "submissions": 727,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 1.1895405078597339
+  },
+  "resources": [],
+  "exam": {
+    "id": "2f74ba91-0121-47ca-b90e-3d81e4ceab12",
+    "number": 1,
+    "year": 2015,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "689123094",
+      "timeSpentVideo": "257448362",
+      "submissions": 1738,
+      "submissionsCorrect": 0,
+      "questions": 4,
+      "accuracy": 0,
+      "difficulty": 1.2227965179542981
+    }
+  },
+  "explanation": {
+    "id": "976570ac-d182-4780-ae7f-17ead661e124",
+    "body": null,
+    "questionId": "bfe3e2c2-f5a5-4ab9-8274-ec1e4b5eb11a",
+    "resources": [
+      {
+        "id": "43d6b94e-1d40-41ab-b997-17e823273fb8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=2C-6DVcROXM&t=217s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "976570ac-d182-4780-ae7f-17ead661e124",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b60e825-90e8-4a43-bef9-4bd765f22f33",
+      "name": "Dimensional Analysis",
+      "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1758686920",
+        "timeSpentVideo": "224168612",
+        "submissions": 2140,
+        "submissionsCorrect": 177,
+        "questions": 3,
+        "accuracy": 0.08271028037383178,
+        "difficulty": 1.1486607142857144
+      }
+    }
+  ],
+  "children": []
+}

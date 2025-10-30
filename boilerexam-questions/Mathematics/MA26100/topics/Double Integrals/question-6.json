@@ -1,0 +1,143 @@
+{
+  "id": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $D$ be the triangle with vertices $(0,4),(1,0)$, and $(0,-2)$. Then $\\displaystyle \\iint_{D} f(x, y) d A$ is",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "94733f8a-aec6-4b7f-b70a-bc02649a111b",
+        "index": 0,
+        "body": "$\\int_{0}^{2} \\int_{2-2 x}^{4-4 x} f(x, y) d y d x$",
+        "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "ebc227e5-e4a1-4b8e-ac12-063d0c8676c2",
+        "index": 1,
+        "body": "$\\int_{0}^{1} \\int_{2 x-2}^{4-4 x} f(x, y) d y d x$",
+        "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+        "stats": {
+          "count": 1737
+        },
+        "resources": []
+      },
+      {
+        "id": "0aab866c-2d3f-4fc6-9dea-b9b0dc811365",
+        "index": 2,
+        "body": "$\\int_{0}^{2} \\int_{2+2 x}^{4+4 x} f(x, y) d y d x$",
+        "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "4e28eace-48a6-4d87-8f49-eb7615042d03",
+        "index": 3,
+        "body": "$\\int_{0}^{4} \\int_{2-2 x}^{4-4 x} f(x, y) d y d x$",
+        "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "d70e5b4d-9d56-4725-b91c-fe9c54a26217",
+        "index": 4,
+        "body": "$\\int_{0}^{1} \\int_{2-2 x}^{4+4 x} f(x, y) d y d x$",
+        "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "364672988",
+    "timeSpentVideo": "22737429",
+    "submissions": 2215,
+    "submissionsCorrect": 1737,
+    "accuracy": 0.7841986455981941,
+    "difficulty": 0.47807775377969763
+  },
+  "resources": [],
+  "exam": {
+    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "number": 2,
+    "year": 2016,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": false,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4604005568",
+      "timeSpentVideo": "918117591",
+      "submissions": 21930,
+      "submissionsCorrect": 11494,
+      "questions": 12,
+      "accuracy": 0.5241222070223438,
+      "difficulty": 0.7259872900590104
+    }
+  },
+  "explanation": {
+    "id": "6638050d-22ca-4114-82d1-05fdd0b4de03",
+    "body": "",
+    "questionId": "fb3496da-afd8-48a6-af5b-0866a335f3d8",
+    "resources": [
+      {
+        "id": "5bd48af6-c05f-4c0b-bc15-77aaaacf7652",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=615"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6638050d-22ca-4114-82d1-05fdd0b4de03",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    }
+  ],
+  "children": []
+}

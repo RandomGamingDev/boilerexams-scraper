@@ -1,0 +1,128 @@
+{
+  "id": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A certain matrix $A$ is such that the only solution of the linear system $A x=0$ is $x=0$. Which of the following statements about the matrix $A$ must be true?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ac548c55-3f3d-4aff-a1e7-de34c7fae375",
+        "index": 0,
+        "body": "$A$ must be a square matrix and $\\operatorname{det} A \\neq 0$.",
+        "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "17253ca3-4033-4fa6-ae62-16c201c08169",
+        "index": 1,
+        "body": "$A$ must be a square matrix and $\\operatorname{det} A=0$.",
+        "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "c733b81c-a2dc-422f-ae4c-1c19f6629d13",
+        "index": 2,
+        "body": "The rank of $A$ equals the number of columns of $A$.",
+        "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+        "stats": {
+          "count": 170
+        },
+        "resources": []
+      },
+      {
+        "id": "91633743-a6a0-40af-8e3c-5ee5cc67b943",
+        "index": 3,
+        "body": "The rank of $A$ equals the number of rows of $A$.",
+        "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "8f7dc96e-e380-4f63-8838-602ceee8fd79",
+        "index": 4,
+        "body": "The reduced row-echelon form of $A$ has at most one row of zeros.",
+        "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40373530",
+    "timeSpentVideo": "0",
+    "submissions": 338,
+    "submissionsCorrect": 169,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "4ff64aeb-517a-438b-b27a-6c95a8702f04",
+    "body": "",
+    "questionId": "42ab2181-0461-446a-92bb-85a72d4eaec2",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e98c0082-99ea-4f58-9381-ecbf89fd0937",
+      "name": "Existance and Uniqueness",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1484729983",
+        "timeSpentVideo": "121939776",
+        "submissions": 4064,
+        "submissionsCorrect": 1917,
+        "questions": 6,
+        "accuracy": 0.4717027559055118,
+        "difficulty": 0.7776176753121998
+      }
+    }
+  ],
+  "children": []
+}

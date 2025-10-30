@@ -1,0 +1,143 @@
+{
+  "id": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using the fact that $\\tan ^{-1} x=\\sum_{k=0}^{\\infty} \\frac{(-1)^{k}}{2 k+1} x^{2 k+1},|x| \\leq 1$, use the first two terms of the Maclaurin series for $3 x^{3} \\tan ^{-1}(2 x)$ to estimate\n\n\n\n\\[\n\\int_{0}^{1} 3 x^{3} \\tan ^{-1}(2 x) d x\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "49d5bb79-a6e6-4feb-805e-2e3046f8f3ae",
+        "index": 0,
+        "body": "$\\frac{37}{50}$",
+        "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "458025b7-4963-41e7-acc0-4818942c0e93",
+        "index": 1,
+        "body": "$\\frac{1}{64}$",
+        "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "0f92afbb-7e97-43cb-ba7f-0c04a6e0ac44",
+        "index": 2,
+        "body": "$\\frac{84}{35}$",
+        "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "631dce37-7579-4591-b322-3334c9e0d8e3",
+        "index": 3,
+        "body": "$\\frac{2}{35}$",
+        "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+        "stats": {
+          "count": 1544
+        },
+        "resources": []
+      },
+      {
+        "id": "459d4f9a-123d-447a-808e-f2f0d22b1e4c",
+        "index": 4,
+        "body": "$\\frac{3}{5}$",
+        "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "793126205",
+    "timeSpentVideo": "158780762",
+    "submissions": 3038,
+    "submissionsCorrect": 1544,
+    "accuracy": 0.5082290980908493,
+    "difficulty": 0.7420331421287444
+  },
+  "resources": [],
+  "exam": {
+    "id": "d843f696-f00c-42b4-ac4f-0f1f0df63a06",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15838346198",
+      "timeSpentVideo": "2309245263",
+      "submissions": 83620,
+      "submissionsCorrect": 49984,
+      "questions": 25,
+      "accuracy": 0.5977517340349199,
+      "difficulty": 0.6523650262780698
+    }
+  },
+  "explanation": {
+    "id": "1849cf59-9260-4ceb-a460-5bcc666611c4",
+    "body": "",
+    "questionId": "2e3b16b0-cc27-4174-9663-ab6bc2f3e0bc",
+    "resources": [
+      {
+        "id": "69c124eb-1c91-47d7-a201-678737d30142",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/dqI7VYbGoVc?t=1384\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1849cf59-9260-4ceb-a460-5bcc666611c4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "af1917e5-c711-4300-80e6-b84026e04e20",
+      "name": "Maclaurin series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5239364953",
+        "timeSpentVideo": "442589834",
+        "submissions": 10988,
+        "submissionsCorrect": 6068,
+        "questions": 7,
+        "accuracy": 0.5522388059701493,
+        "difficulty": 0.6982323232323232
+      }
+    }
+  ],
+  "children": []
+}

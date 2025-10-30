@@ -1,0 +1,143 @@
+{
+  "id": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the explicit solution of the initial value problem \n\n$y^{\\prime}=\\frac{xy^{2}}{x^2 + 1} $   ,   $y(0) = 3$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "3732a6e1-fb52-4c68-9022-891c38f7f162",
+        "index": 0,
+        "body": "$\\frac{1}{2}\\left(6+\\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "61b3b416-e877-468c-a6ea-5b7b793eb5bb",
+        "index": 1,
+        "body": "$\\frac{6}{2-3 \\ln \\left(1+x^{2}\\right)}$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+        "stats": {
+          "count": 1257
+        },
+        "resources": []
+      },
+      {
+        "id": "032f1cce-3db7-4927-9d21-89bcece09a27",
+        "index": 2,
+        "body": "$\\frac{6}{2+3 \\ln \\left(1+x^{2}\\right)}$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+        "stats": {
+          "count": 234
+        },
+        "resources": []
+      },
+      {
+        "id": "5f75d9fa-64bf-4f06-a725-1d6894e99286",
+        "index": 3,
+        "body": "$\\frac{1}{2}\\left(6-3 \\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "9e6b4dcf-dd5d-4ce8-86e9-62b174aae28d",
+        "index": 4,
+        "body": "$\\frac{1}{3}\\left(9-2 \\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "595970766",
+    "timeSpentVideo": "55280187",
+    "submissions": 2039,
+    "submissionsCorrect": 1257,
+    "accuracy": 0.6164786660127514,
+    "difficulty": 0.6389668069191211
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "fa38842a-e15c-4c61-a6cc-b0ff2a55109d",
+    "body": "",
+    "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
+    "resources": [
+      {
+        "id": "ef43e011-c278-4468-887c-48b3aa268f00",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=JTfkYhLJsPHXCD8h&t=388"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fa38842a-e15c-4c61-a6cc-b0ff2a55109d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34aba8fa-b5b2-485b-b97e-c00d4543b0f8",
+      "name": "Separation of Variables",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5099666475",
+        "timeSpentVideo": "411910359",
+        "submissions": 9217,
+        "submissionsCorrect": 6016,
+        "questions": 8,
+        "accuracy": 0.652706954540523,
+        "difficulty": 0.5989320596758614
+      }
+    }
+  ],
+  "children": []
+}

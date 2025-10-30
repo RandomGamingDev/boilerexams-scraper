@@ -1,0 +1,149 @@
+{
+  "id": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The value of \\verb|currentMax| after running line 2 is:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "6f1f855e-8fa9-4e86-988f-30c035179d43",
+        "index": 0,
+        "body": "0, since the first index of a list is 1.",
+        "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "f0ff585a-9270-4e55-9720-2ea15e7280b3",
+        "index": 1,
+        "body": "A special value for Python to indicate we just accessed a list.",
+        "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "4a6667e5-aef9-4c1b-95c1-074a1f532049",
+        "index": 2,
+        "body": "The item at index 0 of the given list.",
+        "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+        "stats": {
+          "count": 420
+        },
+        "resources": []
+      },
+      {
+        "id": "f9bfa025-7b6f-4d2c-bd1c-f15c9f2e3d65",
+        "index": 3,
+        "body": "The minimum value of the list.",
+        "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "23664818",
+    "timeSpentVideo": "0",
+    "submissions": 497,
+    "submissionsCorrect": 420,
+    "accuracy": 0.8450704225352113,
+    "difficulty": 0.4627303182579564
+  },
+  "resources": [
+    {
+      "id": "07487670-9d79-4640-b30a-4cff7030f9db",
+      "type": "CODE",
+      "data": {
+        "content": "list = [4, 3, 6, 1, 7, 0, 9, 2]\ncurrentMax = list[0]\nlength = len(list)\n\nfor i in range(1, length):\n\tif list[i] > currentMax:\n\t\tcurrentMax = list[i]\n\nprint(currentMax)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "6a3a4815-c936-46a0-b5c0-d448191be8e9",
+    "body": "",
+    "questionId": "31ff5499-8e2b-4466-8136-33eb1ffa591f",
+    "resources": [
+      {
+        "id": "6b4ba65e-2c95-49ff-968b-3fea1c59f174",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=RrSAwvinH8sW5H9z&t=4277"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6a3a4815-c936-46a0-b5c0-d448191be8e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

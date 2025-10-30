@@ -1,0 +1,118 @@
+{
+  "id": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following correctly describes how the <font style=\"font-family:'Courier New'\">rand</font> function is properly seeded?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cdcd2a05-9da7-4020-a83a-1869199cf03c",
+        "index": 0,
+        "body": "The <font style=\"font-family:'Courier New'\">srand</font> function is passed a single value and used only prior to the first call of the <font style=\"font-family:'Courier New'\">rand</font> function.",
+        "questionId": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+        "stats": {
+          "count": 1949
+        },
+        "resources": []
+      },
+      {
+        "id": "809e6a34-03c6-45a6-aeee-46bacb1d9728",
+        "index": 1,
+        "body": "The value returned from the <font style=\"font-family:'Courier New'\">srand</font> function is the seed used with the <font style=\"font-family:'Courier New'\">rand</font> function.",
+        "questionId": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+        "stats": {
+          "count": 653
+        },
+        "resources": []
+      },
+      {
+        "id": "d976b266-6274-4f0e-a95a-bcd4c75710f4",
+        "index": 2,
+        "body": "The <font style=\"font-family:'Courier New'\">srand</font> function should be called prior to each use of the <font style=\"font-family:'Courier New'\">rand</font> function.",
+        "questionId": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+        "stats": {
+          "count": 382
+        },
+        "resources": []
+      },
+      {
+        "id": "51584a5c-ef2c-47e4-b7e5-b09f804c9adc",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "224116175",
+    "timeSpentVideo": "0",
+    "submissions": 3130,
+    "submissionsCorrect": 1949,
+    "accuracy": 0.6226837060702876,
+    "difficulty": 0.6311145510835914
+  },
+  "resources": [],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "d803acec-16ed-45cf-be86-e67d68b0363e",
+    "body": "",
+    "questionId": "b6dddc03-61e7-4380-ab1c-f8ae5448dce9",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

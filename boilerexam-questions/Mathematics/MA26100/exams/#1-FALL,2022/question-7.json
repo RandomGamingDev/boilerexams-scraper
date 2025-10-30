@@ -1,0 +1,143 @@
+{
+  "id": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let \\(f(x, y, z)=\\mathrm{e}^{x y^{2}}+\\sin \\left(x^{3}+y^{3}\\right)+\\ln \\left(y^{7}\\right)+\\tan \\left(9 x^{3}\\right)\\). Compute \\(f_{x y z}(0,3,7)\\).",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d799d9f1-a2f0-419c-94b9-0c118acd8483",
+        "index": 0,
+        "body": "6",
+        "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "606ba496-471e-47a1-acb7-633f0b32d174",
+        "index": 1,
+        "body": "0",
+        "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+        "stats": {
+          "count": 2526
+        },
+        "resources": []
+      },
+      {
+        "id": "af695bd9-9ea7-453a-bc5c-5cfeae1244ec",
+        "index": 2,
+        "body": "3",
+        "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "972b3c2d-2006-47b0-b33a-228cd2bdd497",
+        "index": 3,
+        "body": "7",
+        "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "405d936d-7e51-4c44-8eeb-3df8a02ec7d8",
+        "index": 4,
+        "body": "9",
+        "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "a6b34688-8127-432c-9850-74f016cdf9da",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "524476144",
+    "timeSpentVideo": "31887854",
+    "submissions": 3025,
+    "submissionsCorrect": 2524,
+    "accuracy": 0.8343801652892562,
+    "difficulty": 0.42632000000000003
+  },
+  "resources": [],
+  "exam": {
+    "id": "a6b34688-8127-432c-9850-74f016cdf9da",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10524949774",
+      "timeSpentVideo": "1602335014",
+      "submissions": 52068,
+      "submissionsCorrect": 30348,
+      "questions": 12,
+      "accuracy": 0.5828531919797189,
+      "difficulty": 0.6673056279711701
+    }
+  },
+  "explanation": {
+    "id": "b6d7c016-fce1-4810-905a-ce00d8f31248",
+    "body": null,
+    "questionId": "72aa5b17-f869-46a1-b171-542cf53ec5ef",
+    "resources": [
+      {
+        "id": "b458cdc6-9234-4891-a307-defd382033ad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ah7thsth9eU?si=v8VDp-kFRASlk4IR&t=1334"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b6d7c016-fce1-4810-905a-ce00d8f31248",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e4a570fd-6b1f-4901-8f82-df33cfc1e01a",
+      "name": "Partial Derivatives",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17536639564",
+        "timeSpentVideo": "661682215",
+        "submissions": 41021,
+        "submissionsCorrect": 27618,
+        "questions": 9,
+        "accuracy": 0.6732649130932937,
+        "difficulty": 0.5771564407480363
+      }
+    }
+  ],
+  "children": []
+}

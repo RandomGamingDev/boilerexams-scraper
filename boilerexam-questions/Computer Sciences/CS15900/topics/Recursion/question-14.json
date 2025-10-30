@@ -1,0 +1,133 @@
+{
+  "id": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding recursion is <b>TRUE</b>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6937e215-26a5-47a8-86ca-42d435ca2cd3",
+        "index": 0,
+        "body": "The recursive case in a recursive function is when the function stops calling itself.",
+        "questionId": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "4a5bbaf4-0dc9-4f80-bc37-ef02466daf3f",
+        "index": 1,
+        "body": "Recursion should not be used with counter-controlled processes that involve a large number of recursive calls.",
+        "questionId": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "8909cd54-5d5a-4667-8ac3-34269343ac0d",
+        "index": 2,
+        "body": "In general, iterative solutions are always better than recursive ones.",
+        "questionId": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "94a3d159-baf2-4da0-a708-5022eae1bc4a",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1152628",
+    "timeSpentVideo": "0",
+    "submissions": 18,
+    "submissionsCorrect": 11,
+    "accuracy": 0.6111111111111112,
+    "difficulty": 0.7330508474576272
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "c17c6c28-1000-4e37-a836-2e7f7cf420ab",
+    "body": null,
+    "questionId": "c07fd833-a2c9-4c91-ac67-e8c237561ef0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "159fdad5-f22e-4728-bac7-6952d8c569ac",
+      "name": "Recursion",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7354252330",
+        "timeSpentVideo": "203712680",
+        "submissions": 24127,
+        "submissionsCorrect": 15897,
+        "questions": 9,
+        "accuracy": 0.6588883823102748,
+        "difficulty": 0.5917674495397697
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "1f69c335-c5a9-435a-9e42-694536a97a03",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $Q$ be an empty queue. Consider a sequence of intermixed enqueue and dequeue calls on $Q$. The arguments for the enqueue calls are the numbers $1$, $2$, $3$, $4$, $5$, and $6$ (one at a time in that order). The dequeue calls happen at arbitrary time (when $Q$ is not empty) and each dequeue prints out the returned value.\n\nIs the printed sequence \\texttt{1 2 3 4 6 5} possible? Explain your answer.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "148627ab-bb55-4c36-99de-9f20f7b7ff0e",
+        "index": 0,
+        "body": "Yes. Due to how queues work, any sequence can be printed by dequeueing whenever the desired number is reached.",
+        "questionId": "1f69c335-c5a9-435a-9e42-694536a97a03",
+        "stats": {
+          "count": 157
+        },
+        "resources": []
+      },
+      {
+        "id": "f36f9c6f-69e1-46d7-9e0b-c756195dcde0",
+        "index": 1,
+        "body": "Yes. Despite the constraints in the problem, the desired sequence is possible.",
+        "questionId": "1f69c335-c5a9-435a-9e42-694536a97a03",
+        "stats": {
+          "count": 233
+        },
+        "resources": []
+      },
+      {
+        "id": "1ac50389-8403-47fd-8028-55f683614093",
+        "index": 2,
+        "body": "No. Due to how queues work and the constraints of the problem, only the sequence \\texttt{1 2 3 4 5 6} can be printed.",
+        "questionId": "1f69c335-c5a9-435a-9e42-694536a97a03",
+        "stats": {
+          "count": 1013
+        },
+        "resources": []
+      },
+      {
+        "id": "c294ff19-537f-4c3f-b033-f1703864b8f7",
+        "index": 3,
+        "body": "No. Due to how queues work and the constraints of the problem, only the sequence \\texttt{6 5 4 3 2 1} can be printed.",
+        "questionId": "1f69c335-c5a9-435a-9e42-694536a97a03",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "159158739",
+    "timeSpentVideo": "6137769",
+    "submissions": 1496,
+    "submissionsCorrect": 1013,
+    "accuracy": 0.6771390374331551,
+    "difficulty": 0.5839598997493735
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "fdfbe1b2-856b-4b11-9fb4-10d20797f5aa",
+    "body": "",
+    "questionId": "1f69c335-c5a9-435a-9e42-694536a97a03",
+    "resources": [
+      {
+        "id": "5ea780c4-3a7d-4fd8-8d6c-9f44d63dbec5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=1418"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fdfbe1b2-856b-4b11-9fb4-10d20797f5aa",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6656b0cd-1337-436c-98ef-701056b4d3dd",
+      "name": "Queues",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4100813051",
+        "timeSpentVideo": "47682286",
+        "submissions": 9433,
+        "submissionsCorrect": 6742,
+        "questions": 8,
+        "accuracy": 0.7147249019399978,
+        "difficulty": 0.5375275359278296
+      }
+    }
+  ],
+  "children": []
+}

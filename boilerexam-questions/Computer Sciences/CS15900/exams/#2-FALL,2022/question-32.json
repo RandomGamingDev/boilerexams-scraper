@@ -1,0 +1,134 @@
+{
+  "id": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is NOT a line of output generated within the function <font style=\"font-family:'Courier New'\">calcVals</font> of the program?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3d181cbb-5aed-4785-b167-b1b8d40c2e9d",
+        "index": 0,
+        "body": "total: 0",
+        "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+        "stats": {
+          "count": 1523
+        },
+        "resources": []
+      },
+      {
+        "id": "c33d4b43-a4b3-431a-a428-b4a54645977f",
+        "index": 1,
+        "body": "total: 3",
+        "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+        "stats": {
+          "count": 243
+        },
+        "resources": []
+      },
+      {
+        "id": "3e8315ac-9ccf-424a-a0a0-6c43390e93fd",
+        "index": 2,
+        "body": "total: 6",
+        "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+        "stats": {
+          "count": 378
+        },
+        "resources": []
+      },
+      {
+        "id": "2a680d17-bdb2-4745-9431-bc5dc4188e77",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+        "stats": {
+          "count": 194
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 32,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "223837973",
+    "timeSpentVideo": "0",
+    "submissions": 2385,
+    "submissionsCorrect": 1523,
+    "accuracy": 0.6385744234800839,
+    "difficulty": 0.6170020120724347
+  },
+  "resources": [
+    {
+      "id": "abcf4b6a-b726-4b07-8cad-30e7f911e465",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint calcVals(int);\n\nint main(void)\n{\n  int n;\n  int total = 0;\n  \n  for(n = 58617; n > 9; n /= 10)\n  {\n    total += calcVals(n);\n    printf(\"n: %d\\n\", n);\n  }\n  \n  printf(\"final total: %d\\n\", total);\n  \n  return(0);\n}\n\nint calcVals(int x)\n{\n  int i;\n  int j;\n  int total = 0;\n  \n  j = x % 5;\n  \n  for(i = 1; i <= j; i += 2)\n  {\n    total += j;\n    printf(\"total: %d\\n\", total);\n  }\n  \n  return(total);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "c1411e9a-e303-493d-9d2d-6ca4ad55aa59",
+    "body": "",
+    "questionId": "9d945147-3bb1-4a10-8ae5-e70ab6e472b7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

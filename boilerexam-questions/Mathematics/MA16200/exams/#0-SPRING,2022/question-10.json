@@ -1,0 +1,143 @@
+{
+  "id": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A trigonometric substitution can be used to convert the definite integral\n\n\n\n\\[\n\\int_{2}^{5} \\frac{d x}{\\sqrt{x^{2}-4 x+13}}\n\\]\n\ninto which of the following definite integrals?\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "26a7b098-93a9-44f4-abdf-f6f94cfcb356",
+        "index": 0,
+        "body": "$\\int_{0}^{\\pi / 4} \\sin(\\theta) d \\theta$",
+        "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      },
+      {
+        "id": "00bbe7b4-a4aa-4b53-8eea-d78d20043a20",
+        "index": 1,
+        "body": "$\\int_{0}^{\\pi / 4} \\sec (\\theta) d \\theta$",
+        "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+        "stats": {
+          "count": 1704
+        },
+        "resources": []
+      },
+      {
+        "id": "e49ff5ad-6911-4c9c-98fd-a841dbbd2266",
+        "index": 2,
+        "body": "$\\int_{0}^{\\pi / 4} \\cos (\\theta) d \\theta$",
+        "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "21f4c31b-2c08-453b-8174-1ee0545e6530",
+        "index": 3,
+        "body": "$\\int_{0}^{\\pi / 4} \\tan (\\theta) d \\theta$",
+        "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+        "stats": {
+          "count": 262
+        },
+        "resources": []
+      },
+      {
+        "id": "2c6f94b0-dc32-4150-9b20-f0b9189b59dd",
+        "index": 4,
+        "body": "$\\int_{0}^{\\pi / 4} \\cot (\\theta) d \\theta$",
+        "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "539444910",
+    "timeSpentVideo": "55506213",
+    "submissions": 2669,
+    "submissionsCorrect": 1704,
+    "accuracy": 0.6384413638066692,
+    "difficulty": 0.6165583243048032
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14948281298",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81375,
+      "submissionsCorrect": 50798,
+      "questions": 25,
+      "accuracy": 0.6242457757296467,
+      "difficulty": 0.6259067198527155
+    }
+  },
+  "explanation": {
+    "id": "dcdc126f-bbde-4fae-befc-9e4e17d37a70",
+    "body": "",
+    "questionId": "cfa66b24-60c9-41cf-9d74-5c642448735e",
+    "resources": [
+      {
+        "id": "d38a1ca8-6b81-4fb3-9ba3-a49434f043c1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/E9OXgxHncdE?t=1364\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dcdc126f-bbde-4fae-befc-9e4e17d37a70",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

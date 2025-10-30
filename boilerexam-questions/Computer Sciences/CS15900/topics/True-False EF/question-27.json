@@ -1,0 +1,133 @@
+{
+  "id": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the searching algorithms studied this semester is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "70a40053-3b13-4839-b68b-bd87cdee1a86",
+        "index": 0,
+        "body": "In the binary searching algorithm the <font style=\"font-family:'Courier New'\">first</font> variable becomes greater than the <font style=\"font-family:'Courier New'\">last</font> only when the target cannot be found.",
+        "questionId": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+        "stats": {
+          "count": 1532
+        },
+        "resources": []
+      },
+      {
+        "id": "bb3157bd-2572-45c0-8de5-ee6d99bc44fe",
+        "index": 1,
+        "body": "To determine a target value is not found in an unsorted list while using the sequential searching algorithm every element must be examined.",
+        "questionId": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+        "stats": {
+          "count": 287
+        },
+        "resources": []
+      },
+      {
+        "id": "e09abf42-5102-45d4-8922-feda00bd11f0",
+        "index": 2,
+        "body": "In general, the use of the sequential search is limited to small data sets or those that are not searched often.",
+        "questionId": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "fabbbdda-d2ff-4268-abd2-65ebdb70de20",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+        "stats": {
+          "count": 651
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 27,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "253659454",
+    "timeSpentVideo": "0",
+    "submissions": 2701,
+    "submissionsCorrect": 1532,
+    "accuracy": 0.567197334320622,
+    "difficulty": 0.685201713673688
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "c3f2ab72-5580-4f30-bf19-333d75352ead",
+    "body": "",
+    "questionId": "9880da5f-396b-4c2f-a43b-3242b92db1ea",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the limits\n\n\n\n\\[\n\\mathrm{I}=\\lim _{(x, y) \\rightarrow(0,0)} \\frac{3 x-2 y}{\\sqrt{x^{2}+y^{2}}} \\quad \\text { and } \\quad \\mathrm{II}=\\lim _{(x, y) \\rightarrow(0,0)} \\frac{e^{x+y}}{1+e^{x-y}}\n\\]\n\nWhich one of the following statements is true?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "56a05840-567f-4b61-8c2c-eb07b2281fd9",
+        "index": 0,
+        "body": "$\\mathrm{I}=3$ and $\\mathrm{II}=1$",
+        "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "bf47eae1-2edd-41b0-b4b0-a67609fd9209",
+        "index": 1,
+        "body": "both I and II do not exist",
+        "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+        "stats": {
+          "count": 320
+        },
+        "resources": []
+      },
+      {
+        "id": "10b1c39e-8f73-46c8-868a-d4372c5f1c02",
+        "index": 2,
+        "body": "I does not exist and II $=\\frac{1}{2}$",
+        "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+        "stats": {
+          "count": 4545
+        },
+        "resources": []
+      },
+      {
+        "id": "4cd6c499-91fb-4a82-8010-4aa1962e3ce7",
+        "index": 3,
+        "body": "I does not exist and II $=1$",
+        "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+        "stats": {
+          "count": 368
+        },
+        "resources": []
+      },
+      {
+        "id": "c13b3afd-0e25-44ec-9f2e-a5b6a9b05504",
+        "index": 4,
+        "body": "$\\mathrm{I}=1$ and $\\mathrm{II}=1$",
+        "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "973669450",
+    "timeSpentVideo": "124579126",
+    "submissions": 6039,
+    "submissionsCorrect": 4541,
+    "accuracy": 0.7519456863719158,
+    "difficulty": 0.5021583319758919
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "af8d51e3-2304-4c27-9f75-a258fc88fc69",
+    "body": "",
+    "questionId": "04bd143a-e7c0-41cb-93be-32766a82ef1e",
+    "resources": [
+      {
+        "id": "a8adddca-9516-4007-bd02-c457926e7c6b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=909"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "af8d51e3-2304-4c27-9f75-a258fc88fc69",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9c99be08-0dc5-4e06-beb4-b3ff43c28cb6",
+      "name": "3D Limits",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18513073335",
+        "timeSpentVideo": "1326895986",
+        "submissions": 54610,
+        "submissionsCorrect": 36571,
+        "questions": 8,
+        "accuracy": 0.6696758835378136,
+        "difficulty": 0.5806342533357705
+      }
+    }
+  ],
+  "children": []
+}

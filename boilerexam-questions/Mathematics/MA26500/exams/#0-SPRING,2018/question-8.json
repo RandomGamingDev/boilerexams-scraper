@@ -1,0 +1,158 @@
+{
+  "id": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $3 a-2 b=3$ and $2 b-c=4$. Find the value $x$ determined by the linear system\n\n\n\\[\n\\left[\\begin{array}{ll}\na & b \\\\\n2 & 3\n\\end{array}\\right]\\left[\\begin{array}{l}\nx \\\\\ny\n\\end{array}\\right]=\\left[\\begin{array}{l}\nc \\\\\n6\n\\end{array}\\right] .\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "70ef7259-2180-4033-ae8b-0991eabedfc2",
+        "index": 0,
+        "body": "$x=-4$",
+        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "stats": {
+          "count": 779
+        },
+        "resources": []
+      },
+      {
+        "id": "066d5b56-86e1-4de1-a328-61903037d8a3",
+        "index": 1,
+        "body": "$x=2$",
+        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "da897c95-be69-46bb-a6a3-749ef94ffa5d",
+        "index": 2,
+        "body": "$x=3$",
+        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "923db36b-6e7a-4716-94a0-779e69bd1c1a",
+        "index": 3,
+        "body": "$x=4$",
+        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "51050a0a-ccb7-4c85-a7b2-fda8d8cb752c",
+        "index": 4,
+        "body": "$x=6$",
+        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "471109476",
+    "timeSpentVideo": "52360082",
+    "submissions": 1671,
+    "submissionsCorrect": 779,
+    "accuracy": 0.46618791143028127,
+    "difficulty": 0.7819028797289667
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "829f3967-20f5-453d-8082-68048cb8a222",
+    "body": "",
+    "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+    "resources": [
+      {
+        "id": "10f7585a-04ae-4dfe-ba11-4851adae1d8a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1qA9exO23-k?t=1003\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "829f3967-20f5-453d-8082-68048cb8a222",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7d3bdb4-2317-449d-bec3-6f564b949d37",
+      "name": "Cramers Rule",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7622482732",
+        "timeSpentVideo": "637127207",
+        "submissions": 19277,
+        "submissionsCorrect": 10356,
+        "questions": 7,
+        "accuracy": 0.5372205218654355,
+        "difficulty": 0.7129715642256284
+      }
+    },
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

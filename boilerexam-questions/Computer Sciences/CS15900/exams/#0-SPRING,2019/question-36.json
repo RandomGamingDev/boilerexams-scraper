@@ -1,0 +1,133 @@
+{
+  "id": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding parameter passing is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e93bc89f-0fb4-4989-b480-2fa0d4ba93f3",
+        "index": 0,
+        "body": "It is never possible to determine which parameters are passed by address to a function by viewing its declaration.",
+        "questionId": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+        "stats": {
+          "count": 211
+        },
+        "resources": []
+      },
+      {
+        "id": "56ea7831-6e05-4509-96aa-024f5b2ce41e",
+        "index": 1,
+        "body": "It is never possible to determine which parameters are passed by address to a function by viewing its definition.",
+        "questionId": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+        "stats": {
+          "count": 177
+        },
+        "resources": []
+      },
+      {
+        "id": "809dfdd7-e449-498c-900e-b6689ee1e824",
+        "index": 2,
+        "body": "It is never possible to determine which parameters are passed by address to a function by viewing an example function call.",
+        "questionId": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+        "stats": {
+          "count": 293
+        },
+        "resources": []
+      },
+      {
+        "id": "f8d47c51-658a-4e15-8eb7-33bc18e24814",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+        "stats": {
+          "count": 1462
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 36,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "154921768",
+    "timeSpentVideo": "0",
+    "submissions": 2162,
+    "submissionsCorrect": 1462,
+    "accuracy": 0.6762257169287696,
+    "difficulty": 0.5815649867374005
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "bf9893dd-be27-48a8-a0d7-55c7e3271fdf",
+    "body": "",
+    "questionId": "e51a2ab5-e33a-497a-acce-57ac9220ff04",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

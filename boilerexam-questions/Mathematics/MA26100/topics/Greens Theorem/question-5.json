@@ -1,0 +1,143 @@
+{
+  "id": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the circle $C$ centered at $0$ with radius $3$. A particle travels once around $C$, counterclockwise. It is subject to the force \n$$\\textbf{F}(x,y) = \\left \\langle y^3, x^3+3xy^2+1\\right \\rangle$$.\nUse Green's theorem to find the work done by $\\textbf{F}$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3f522f7f-f763-471a-a17a-5fc217fc4d3d",
+        "index": 0,
+        "body": "$\\frac{3\\pi}{4}$",
+        "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "1e7aac27-72bf-4ae2-bf33-ab0c7fecd051",
+        "index": 1,
+        "body": "$\\frac{4\\pi}{3}$",
+        "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "138f09ed-f70a-430f-b687-698f41f85a6f",
+        "index": 2,
+        "body": "$\\frac{243\\pi}{4}$",
+        "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+        "stats": {
+          "count": 3665
+        },
+        "resources": []
+      },
+      {
+        "id": "2e797ca0-27ad-4266-8fa2-e4876206e6ec",
+        "index": 3,
+        "body": "$\\frac{117\\pi}{4}$",
+        "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "2c565e92-997e-4630-b59a-b4dfcc80f987",
+        "index": 4,
+        "body": "$\\frac{23\\pi}{3}$",
+        "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2023407735",
+    "timeSpentVideo": "428653761",
+    "submissions": 6876,
+    "submissionsCorrect": 3665,
+    "accuracy": 0.5330133798720186,
+    "difficulty": 0.7174598623853211
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "b0b61201-87ca-4b74-ba04-ad88059d8fea",
+    "body": "",
+    "questionId": "b18c6346-e931-4281-99fd-5ecb8ce31da8",
+    "resources": [
+      {
+        "id": "61425398-a45d-4861-b66f-9c7b561c1e11",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=jKlayc2BlSu99vE-&t=872"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b0b61201-87ca-4b74-ba04-ad88059d8fea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6b00f507-0e71-49ad-b1c7-8bab72eafe3e",
+      "name": "Greens Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18846148338",
+        "timeSpentVideo": "1774541677",
+        "submissions": 39505,
+        "submissionsCorrect": 21958,
+        "questions": 7,
+        "accuracy": 0.5558283761549171,
+        "difficulty": 0.6943125867945966
+      }
+    }
+  ],
+  "children": []
+}

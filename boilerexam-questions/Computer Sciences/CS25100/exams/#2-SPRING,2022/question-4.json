@@ -1,0 +1,626 @@
+{
+  "id": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+  "type": "PARENT",
+  "data": {
+    "body": "Let G be the graph represented by the edge list below. G is connected, undirected, and weighted. Each tuple (u, v, w) represents an edge between vertices u to v with weight w.\n\n{(1, 2, 4),(1, 3, 6),(1, 4, 7),(1, 5, 5),(2, 3, 4),(3, 4, 3),(3, 5, 6),(4, 5, 4)}\n\nFill the blanks below:",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "429864538",
+    "timeSpentVideo": "83906469",
+    "submissions": 987,
+    "submissionsCorrect": 560,
+    "accuracy": 0.5673758865248227,
+    "difficulty": 0.6888224471021159
+  },
+  "resources": [],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "779a9575-ec06-4207-9751-f96e32c65cde",
+    "body": null,
+    "questionId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+    "resources": [
+      {
+        "id": "bc2b67eb-631a-4866-8d5e-cc8e17f7d2e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4xCSOJgJ9V4?t=1752"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "779a9575-ec06-4207-9751-f96e32c65cde",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "G has _____ distinct Minimum Spanning Tree(s).",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "755b4c63-524b-4f3b-b693-cf1874f904f0",
+            "index": 0,
+            "body": "0",
+            "questionId": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          },
+          {
+            "id": "9f907c7e-0656-486a-931b-e638b6a29181",
+            "index": 1,
+            "body": "1",
+            "questionId": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+            "stats": {
+              "count": 661
+            },
+            "resources": []
+          },
+          {
+            "id": "0938c481-377c-464c-9d42-cc4e92d932e4",
+            "index": 2,
+            "body": "2",
+            "questionId": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+            "stats": {
+              "count": 77
+            },
+            "resources": []
+          },
+          {
+            "id": "1bfe1816-0fe0-4d0a-ae01-fe403c1e19d6",
+            "index": 3,
+            "body": "3",
+            "questionId": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+            "stats": {
+              "count": 71
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "22797",
+        "timeSpentVideo": "0",
+        "submissions": 824,
+        "submissionsCorrect": 661,
+        "accuracy": 0.8021844660194175,
+        "difficulty": 0.48051948051948057
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "7ccf1c5f-7d25-44dc-97e0-cd3e09d50192",
+        "body": null,
+        "questionId": "0a6a1406-cb30-4465-be16-af1df4a2f76a",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "If Prim\u2019s Algorithm is run on G starting at vertex 1, the weight of the first edge added to the\nMinimum Spanning Tree is _____.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "7ecde845-d5ad-4df4-b90d-c4ba2b6bfa4a",
+            "index": 0,
+            "body": "3",
+            "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+            "stats": {
+              "count": 28
+            },
+            "resources": []
+          },
+          {
+            "id": "4d0adf6f-6e1e-491e-a37e-45ba9f52b822",
+            "index": 1,
+            "body": "4",
+            "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+            "stats": {
+              "count": 647
+            },
+            "resources": []
+          },
+          {
+            "id": "d9918a9b-7dc4-483b-b56c-1529a8fe3ade",
+            "index": 2,
+            "body": "5",
+            "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+            "stats": {
+              "count": 9
+            },
+            "resources": []
+          },
+          {
+            "id": "da59843e-b14c-44b2-9223-f5bcb6c992a8",
+            "index": 3,
+            "body": "6",
+            "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+            "stats": {
+              "count": 10
+            },
+            "resources": []
+          },
+          {
+            "id": "4653e968-4816-4d69-83fa-ae8e82b84e88",
+            "index": 4,
+            "body": "7",
+            "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+            "stats": {
+              "count": 14
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 708,
+        "submissionsCorrect": 647,
+        "accuracy": 0.9138418079096046,
+        "difficulty": 0.3873762376237624
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "0547abcd-65b3-4f37-b650-2bb7c2a118e3",
+        "body": null,
+        "questionId": "ab3348b7-f53b-401e-a4e1-ece7a08abeda",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "6e12e811-e946-41c8-b7f2-529347b53957",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "If Kruskal\u2019s Algorithm is run on G, the weight of the last edge added to the Minimum Spanning\nTree is _____.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "ad83a015-bec2-44b5-8197-1eaea0e61ce3",
+            "index": 0,
+            "body": "3",
+            "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+            "stats": {
+              "count": 35
+            },
+            "resources": []
+          },
+          {
+            "id": "77992244-5ce0-4f95-b5e0-b09d0ea0786b",
+            "index": 1,
+            "body": "4",
+            "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+            "stats": {
+              "count": 574
+            },
+            "resources": []
+          },
+          {
+            "id": "af9fb2b4-d417-4302-85e4-ec9eeefb1725",
+            "index": 2,
+            "body": "5",
+            "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+            "stats": {
+              "count": 76
+            },
+            "resources": []
+          },
+          {
+            "id": "917c88e5-de5e-47fc-ba18-0e1845d00fe7",
+            "index": 3,
+            "body": "6",
+            "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+            "stats": {
+              "count": 20
+            },
+            "resources": []
+          },
+          {
+            "id": "29e1e6dc-33ba-4459-829b-8810bf1c3c7a",
+            "index": 4,
+            "body": "7",
+            "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+            "stats": {
+              "count": 30
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 735,
+        "submissionsCorrect": 574,
+        "accuracy": 0.780952380952381,
+        "difficulty": 0.5026946107784431
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "d592a10a-6d5d-4b40-aab2-3d810b8895b0",
+        "body": null,
+        "questionId": "6e12e811-e946-41c8-b7f2-529347b53957",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "If Dijkstra\u2019s Algorithm is run on G starting at vertex 4, the weight of the third edge added to the\nShortest Path Tree is _____.",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "1cfb8b87-26a5-4724-93d8-a3bec2d45f6c",
+            "index": 0,
+            "body": "3",
+            "questionId": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+            "stats": {
+              "count": 53
+            },
+            "resources": []
+          },
+          {
+            "id": "baa76acc-423a-49e6-abe0-a1cf96011ca4",
+            "index": 1,
+            "body": "5",
+            "questionId": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+            "stats": {
+              "count": 92
+            },
+            "resources": []
+          },
+          {
+            "id": "470bc955-ccc8-47f9-8245-3fe043a095b3",
+            "index": 2,
+            "body": "6",
+            "questionId": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+            "stats": {
+              "count": 57
+            },
+            "resources": []
+          },
+          {
+            "id": "cb31ccc9-9886-4b49-93ca-131b38da5a30",
+            "index": 3,
+            "body": "7",
+            "questionId": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+            "stats": {
+              "count": 505
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 707,
+        "submissionsCorrect": 505,
+        "accuracy": 0.7142857142857143,
+        "difficulty": 0.5622676579925651
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "4a9c7f47-0868-4e9d-acc7-9ecb0be72edd",
+        "body": null,
+        "questionId": "1ffd8020-d963-4aea-bd25-c5192acfaf97",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The weight of any Minimum Spanning Tree of G is _____.\n",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "c4a3df81-ac29-4b1e-a1bc-241277ae90b9",
+            "index": 0,
+            "body": "15",
+            "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+            "stats": {
+              "count": 616
+            },
+            "resources": []
+          },
+          {
+            "id": "a0fb2398-2a2c-486d-9e79-50c9191e7463",
+            "index": 1,
+            "body": "16",
+            "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+            "stats": {
+              "count": 45
+            },
+            "resources": []
+          },
+          {
+            "id": "abe892a3-1781-4b0a-a8af-34356f6718bd",
+            "index": 2,
+            "body": "17",
+            "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+            "stats": {
+              "count": 17
+            },
+            "resources": []
+          },
+          {
+            "id": "c4c58608-99b3-48dc-bd4c-2aaa4b740ebe",
+            "index": 3,
+            "body": "18",
+            "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+            "stats": {
+              "count": 28
+            },
+            "resources": []
+          },
+          {
+            "id": "25bc6536-b027-4b77-ac87-74e528797b5d",
+            "index": 4,
+            "body": "19",
+            "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+            "stats": {
+              "count": 16
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "b9b0f2d9-3558-4693-9925-1ec571cded08",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 722,
+        "submissionsCorrect": 616,
+        "accuracy": 0.853185595567867,
+        "difficulty": 0.4397810218978102
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "2f246587-b704-480b-a68b-0a5cb11f4d2b",
+        "body": null,
+        "questionId": "78b8e73f-e874-4e8e-a4d2-7f7ef098518e",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

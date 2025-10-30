@@ -1,0 +1,143 @@
+{
+  "id": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Express the area of the surface given by the graph of\n$z=y^{3}cos^{2}(x)-1$ over the triangular region, $D$, with vertices (1, 0),(1, 3),(4, 3).\nDo not evaluate.\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "93b47aab-9a95-4595-b0bf-b94a3b9f3631",
+        "index": 0,
+        "body": "$\\int_{1}^{4} \\int_{y+1}^{1} \\sqrt{4 y^{6} \\cos ^{2}(x) \\sin ^{2}(x)+9 y^{4} \\cos ^{4}(x)+1} d x d y$",
+        "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+        "stats": {
+          "count": 196
+        },
+        "resources": []
+      },
+      {
+        "id": "e749787d-dfb3-4692-97b6-ca8d0f75cc73",
+        "index": 1,
+        "body": "$\\int_{0}^{4} \\int_{1}^{y+1} \\sqrt{-2 y^{3} \\cos (x) \\sin (x)-3 y^{2} \\cos ^{4}(x)} d x d y$",
+        "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "ac73f155-8cf9-4d7e-b567-d394843efde5",
+        "index": 2,
+        "body": "$\\int_{1}^{3} \\int_{1-y}^{0} \\sqrt{4 y^{6} \\cos ^{2}(x) \\sin ^{2}(x)+9 y^{4} \\cos ^{4}(x)} d x d y$",
+        "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "78f9ef2c-42f1-4a43-b0df-58c53aa13abb",
+        "index": 3,
+        "body": "$\\int_{1}^{3} \\int_{0}^{y-1} \\sqrt{4 y^{6} \\cos ^{2}(x) \\sin ^{2}(x)+9 y^{4} \\cos ^{4}(x)} d x d y$",
+        "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "ed7b1375-2935-4037-bdcb-0983a896b090",
+        "index": 4,
+        "body": "$\\int_{0}^{3} \\int_{1}^{y+1} \\sqrt{4 y^{6} \\cos ^{2}(x) \\sin ^{2}(x)+9 y^{4} \\cos ^{4}(x)+1} d x d y$",
+        "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+        "stats": {
+          "count": 1232
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "20730726-f625-464e-b5f8-d3092205a9cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "317961136",
+    "timeSpentVideo": "22491200",
+    "submissions": 1737,
+    "submissionsCorrect": 1232,
+    "accuracy": 0.7092688543465746,
+    "difficulty": 0.5521230266739249
+  },
+  "resources": [],
+  "exam": {
+    "id": "20730726-f625-464e-b5f8-d3092205a9cc",
+    "number": 0,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11043548910",
+      "timeSpentVideo": "1845774972",
+      "submissions": 44527,
+      "submissionsCorrect": 23102,
+      "questions": 20,
+      "accuracy": 0.5188312709142767,
+      "difficulty": 0.7312109261209582
+    }
+  },
+  "explanation": {
+    "id": "891fd875-5ce8-4928-b01a-1b1153bed070",
+    "body": "",
+    "questionId": "d6a9b6ef-8444-4038-a82e-8dba1104fb46",
+    "resources": [
+      {
+        "id": "3d351356-837d-4f92-bb6a-35540f0b5c18",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ym_TqjLBrgY?si=9OBVOkcEJ4SWNaIX&t=165\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "891fd875-5ce8-4928-b01a-1b1153bed070",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "23d62d20-7d47-423e-9d59-d4ad3f2b0aa7",
+      "name": "Surface Area Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8833138800",
+        "timeSpentVideo": "1393283254",
+        "submissions": 23967,
+        "submissionsCorrect": 13781,
+        "questions": 8,
+        "accuracy": 0.5749989568990695,
+        "difficulty": 0.6753126687996012
+      }
+    }
+  ],
+  "children": []
+}

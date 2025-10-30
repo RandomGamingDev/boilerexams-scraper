@@ -1,0 +1,134 @@
+{
+  "id": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following changes to logical expressions in the code segment above would make the output <font style=\"font-family:'Courier New'\">x = 100</font>?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1986e4c9-125c-46d0-b38d-64e70b524d10",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Line #11:</font> x > 10 && x < 20",
+        "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+        "stats": {
+          "count": 3392
+        },
+        "resources": []
+      },
+      {
+        "id": "6bad6c58-d370-4162-863a-b763a8e0338d",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">Line #15:</font> x == 10",
+        "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "f8d1744d-451e-44e4-b8e2-5cb6627ded37",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Line #15:</font> x < 10",
+        "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "42213446-9549-4b3c-bd31-42edf3212b5c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "206099073",
+    "timeSpentVideo": "0",
+    "submissions": 3720,
+    "submissionsCorrect": 3392,
+    "accuracy": 0.9118279569892473,
+    "difficulty": 0.34895287958115184
+  },
+  "resources": [
+    {
+      "id": "b44921c4-0d8b-40a9-993e-c4145d71ff84",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void) \n{\n  int x = 0;\n\n  if(x >= 0 && x < 10)\n  {\n    x += 10;\n  }\n  if(x >= 10 && x < 20)\n  {\n    x++;\n  }\n  if(x < 30)\n  {\n    x *= 10;\n  }\n\n  printf(\"x = %d\\n\", x);\n\n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "3ca68bd2-9b82-4504-9663-4bdf4efc83cc",
+    "body": "",
+    "questionId": "dd46021b-6196-44b7-99ba-9ffe627aef83",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

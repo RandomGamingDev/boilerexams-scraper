@@ -1,0 +1,143 @@
+{
+  "id": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose that $A=\\left[\\begin{array}{lll}0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0\\end{array}\\right]=Q D Q^{T}$ where $D=\\left[\\begin{array}{ccc}\\lambda_{1} & 0 & 0 \\\\ 0 & \\lambda_{2} & 0 \\\\ 0 & 0 & \\lambda_{3}\\end{array}\\right]$ and $Q$ is an orthogonal matrix. In the following select a pair of $Q$ and $D$ with required properties.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "74dfefb9-7cb2-4056-a43d-dcc4927efbc9",
+        "index": 0,
+        "body": "$Q=\\left[\\begin{array}{ccc}\\frac{1}{\\sqrt{2}} & 0 & -\\frac{1}{\\sqrt{2}} \\\\ \\frac{1}{\\sqrt{6}} & -\\frac{2}{\\sqrt{6}} & \\frac{1}{\\sqrt{6}} \\\\ \\frac{1}{\\sqrt{3}} & \\frac{1}{\\sqrt{3}} & \\frac{1}{\\sqrt{3}}\\end{array}\\right], D=\\left[\\begin{array}{ccc}1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -2\\end{array}\\right]$.",
+        "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "d59ef96c-a104-4ed8-a429-229568bd5dd9",
+        "index": 1,
+        "body": "$Q=\\left[\\begin{array}{ccc}1 & 1 & 1 \\\\ -1 & 0 & 1 \\\\ 0 & -1 & 1\\end{array}\\right], D=\\left[\\begin{array}{ccc}-1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & 2\\end{array}\\right]$",
+        "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "a9de5e79-dfe1-4b79-905a-a5886f413275",
+        "index": 2,
+        "body": "$Q=\\left[\\begin{array}{ccc}\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{3}} \\\\ -\\frac{1}{\\sqrt{2}} & 0 & \\frac{1}{\\sqrt{3}} \\\\ 0 & -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{3}}\\end{array}\\right], D=\\left[\\begin{array}{ccc}-1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & 2\\end{array}\\right]$.",
+        "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+        "stats": {
+          "count": 247
+        },
+        "resources": []
+      },
+      {
+        "id": "18b8dd0c-6322-492d-83bf-2dd38ef89628",
+        "index": 3,
+        "body": "$Q=\\left[\\begin{array}{ccc}\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ 0 & -\\frac{2}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}}\\end{array}\\right], D=\\left[\\begin{array}{ccc}2 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & -1\\end{array}\\right]$.",
+        "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "5dc2c450-e705-4904-8a41-5f089bd34db0",
+        "index": 4,
+        "body": "$Q=\\left[\\begin{array}{ccc}\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ 0 & -\\frac{2}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}}\\end{array}\\right], D=\\left[\\begin{array}{ccc}-1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & 2\\end{array}\\right]$.",
+        "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+        "stats": {
+          "count": 443
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "327085999",
+    "timeSpentVideo": "119048931",
+    "submissions": 1283,
+    "submissionsCorrect": 443,
+    "accuracy": 0.34528448947778645,
+    "difficulty": 0.89352856109906
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "5c53eb0d-b65e-45ea-9494-63ebf70302e1",
+    "body": "",
+    "questionId": "d5ff2caa-4d00-4227-9682-5b4536e8cd5e",
+    "resources": [
+      {
+        "id": "972e45f7-e63f-481c-a1d4-0430c5ae497a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4971"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5c53eb0d-b65e-45ea-9494-63ebf70302e1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a990d569-8a18-4df9-a1f0-2fc59b168eda",
+      "name": "Orthogonal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6291015559",
+        "timeSpentVideo": "849868826",
+        "submissions": 14614,
+        "submissionsCorrect": 7169,
+        "questions": 7,
+        "accuracy": 0.49055700013685505,
+        "difficulty": 0.7593788228897649
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "84986efa-f6f0-44e9-b991-81b62b08f4c3",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "What is the best policy for selecting a pivot value in Quicksort? If there is no optimal policy, explain\nwhy.",
+    "solution": "There is no \"optimal policy\" if the data starts intially completely random. The optimal time complexity would result from always choosing the median value (or one very close to the median) each time as the pivot. However since we don't know what that median value is without adding more code that will slow down the program, no \"optimal policy\" exists.",
+    "answerChoices": []
+  },
+  "number": 23,
+  "disclaimer": null,
+  "examId": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "53581671",
+    "timeSpentVideo": "0",
+    "submissions": 525,
+    "submissionsCorrect": 488,
+    "accuracy": 0.9295238095238095,
+    "difficulty": 0.3892
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ba1cb-a4c8-4f02-9dcb-5a29a9acce57",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "We are working on solutions for this exam, but wanted to get it up for you to study with!",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2762762660",
+      "timeSpentVideo": "0",
+      "submissions": 17470,
+      "submissionsCorrect": 15212,
+      "questions": 25,
+      "accuracy": 0.8707498568975386,
+      "difficulty": 0.3813602731929425
+    }
+  },
+  "explanation": {
+    "id": "1c03b9eb-7c58-425a-8762-59411f94e572",
+    "body": null,
+    "questionId": "84986efa-f6f0-44e9-b991-81b62b08f4c3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "45f48c88-a7fb-4023-892e-85acf7112604",
+      "name": "Quick Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1924558900",
+        "timeSpentVideo": "0",
+        "submissions": 5186,
+        "submissionsCorrect": 3445,
+        "questions": 4,
+        "accuracy": 0.6642884689548785,
+        "difficulty": 0.5888195232690124
+      }
+    }
+  ],
+  "children": []
+}

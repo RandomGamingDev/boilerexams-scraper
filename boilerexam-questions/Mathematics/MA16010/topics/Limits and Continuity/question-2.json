@@ -1,0 +1,153 @@
+{
+  "id": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following functions has a hole at $x=5$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a96593fe-c13a-48aa-b3a9-00caa51d4ff7",
+        "index": 0,
+        "body": "$f(x)=\\frac{x+5}{x^2-25}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "aeaeda2a-5770-4cb6-b61d-4ff61cf60d8b",
+        "index": 1,
+        "body": "$f(x)=\\frac{5}{x+5}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "74f40baf-7c2b-4d58-bf76-8c544ed328b5",
+        "index": 2,
+        "body": "$f(x)=\\frac{x^2-25}{x-5}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 236
+        },
+        "resources": []
+      },
+      {
+        "id": "b44ae689-db21-4669-b54a-bfa162990c29",
+        "index": 3,
+        "body": "$f(x)=\\frac{5}{x^2-25}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "3f8f8769-38e6-479e-8de7-67c1bef6bda2",
+        "index": 4,
+        "body": "$f(x)=\\frac{x-5}{x+5}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "6a3b6a2f-3ec3-4138-8cde-1651efd91205",
+        "index": 5,
+        "body": "$f(x)=\\frac{1}{x-5}$",
+        "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "47106343",
+    "timeSpentVideo": "8093200",
+    "submissions": 334,
+    "submissionsCorrect": 236,
+    "accuracy": 0.7065868263473054,
+    "difficulty": 0.5910138248847926
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "a98c0a8b-9507-48b1-bfb3-32bd41484f84",
+    "body": null,
+    "questionId": "b04575cd-dd3a-4d1f-8cf9-a6f43205efa9",
+    "resources": [
+      {
+        "id": "dfc8f5ee-22dc-405c-80c5-7327566b1d34",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=TryML-WJ4Pud0pUH&t=240"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a98c0a8b-9507-48b1-bfb3-32bd41484f84",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "558eea1e-3391-489f-8a70-bc037064aa5d",
+      "name": "Limits and Continuity",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "791045936",
+        "timeSpentVideo": "29781570",
+        "submissions": 1379,
+        "submissionsCorrect": 882,
+        "questions": 4,
+        "accuracy": 0.6395939086294417,
+        "difficulty": 0.6198444895199459
+      }
+    }
+  ],
+  "children": []
+}

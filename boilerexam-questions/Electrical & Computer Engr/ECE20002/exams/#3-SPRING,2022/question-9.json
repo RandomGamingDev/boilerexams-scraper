@@ -1,0 +1,206 @@
+{
+  "id": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The transfer function of the circuit shown below is $H(s) = \\frac{V_{OUT}(s)}{V_{IN}}(s) = \\frac{1}{8(s+\\frac{1}{8})}$\n\nWe would like to (a) use a 20 $\\Omega$ resistor instead of the 2 $\\Omega$ resistor, (b) keep the passband gain (low frequency gain) unchanged, and (c) increase the 3dB frequency (pole frequency) from 1/8 [rad/s] to 8[rad/s]. Find the required capacitance value.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "cd189069-5a84-493c-b9bd-f6a736082f58",
+        "index": 0,
+        "body": "$C = 6.25\\ mF$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 214
+        },
+        "resources": []
+      },
+      {
+        "id": "6bd3a71c-d3b2-4b82-be3c-f9b9c452d445",
+        "index": 1,
+        "body": "$C = 62.5\\ mF$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "c80deff9-f7ad-44e9-99ab-d89b288b3179",
+        "index": 2,
+        "body": "$C = 400\\ mF$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "72098da7-5ff0-450d-80d5-4ba4ec742493",
+        "index": 3,
+        "body": "$C = 625\\ mF$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "3e714c53-7219-4322-a409-27733b6e0a93",
+        "index": 4,
+        "body": "$C = 40\\ F$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "1360ee79-2b1c-4635-853d-f3a31d5475f8",
+        "index": 5,
+        "body": "$C = 25.6\\ F$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "ce67a98c-cc89-45ab-8400-a5f72e699293",
+        "index": 6,
+        "body": "$C = 256\\ F$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "508f40b6-c301-4ef0-9e9b-9a9484afd401",
+        "index": 7,
+        "body": "$C = 2560\\ F$",
+        "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "89955879",
+    "timeSpentVideo": "18591715",
+    "submissions": 389,
+    "submissionsCorrect": 214,
+    "accuracy": 0.5501285347043702,
+    "difficulty": 0.7101226993865031
+  },
+  "resources": [
+    {
+      "id": "5578bbc7-cbb7-42c9-abeb-0723cf5ce32a",
+      "type": "IMAGE",
+      "data": {
+        "key": "h5tj8vt1JoHUHlpp59uYZ",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/h5tj8vt1JoHUHlpp59uYZ",
+        "altText": "j"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    },
+    {
+      "id": "fd219c57-fc2b-420b-a19b-75a306e9a0fd",
+      "type": "IMAGE",
+      "data": {
+        "key": "vUoG905OGQkfmhiPSp6jH",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/vUoG905OGQkfmhiPSp6jH",
+        "altText": "j"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "4fa5b128-25af-498c-b4e5-8e1033b97c63",
+    "body": "",
+    "questionId": "df4acb41-a989-4a65-aa8b-0220c946fd19",
+    "resources": [
+      {
+        "id": "c63f2b23-fdf8-4515-8935-793722a58ff9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=3909s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4fa5b128-25af-498c-b4e5-8e1033b97c63",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5cce1cd6-f2c5-40ed-8a6c-c4f31a452e35",
+      "name": "Magnitude and Frequency Scaling",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "377537393",
+        "timeSpentVideo": "18591715",
+        "submissions": 389,
+        "submissionsCorrect": 214,
+        "questions": 1,
+        "accuracy": 0.5501285347043702,
+        "difficulty": 0.7101226993865031
+      }
+    }
+  ],
+  "children": []
+}

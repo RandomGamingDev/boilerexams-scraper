@@ -1,0 +1,384 @@
+{
+  "id": "0c5fd63e-3783-4399-b8ad-1f173c24e40a",
+  "type": "PARENT",
+  "data": {
+    "body": "For the circuit below, find $V_c(0)$, and $V_c(\\infin)$.",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+  "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "379521261",
+    "timeSpentVideo": "160138716",
+    "submissions": 1233,
+    "submissionsCorrect": 905,
+    "accuracy": 0.7339821573398215,
+    "difficulty": 0.5335708927231808
+  },
+  "resources": [
+    {
+      "id": "f6087826-8036-4745-a483-cf590bd401f8",
+      "type": "IMAGE",
+      "data": {
+        "key": "DnpAQacRUegy5SK7pCgjL",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/DnpAQacRUegy5SK7pCgjL"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "0c5fd63e-3783-4399-b8ad-1f173c24e40a",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1774352599",
+      "timeSpentVideo": "471396110",
+      "submissions": 8891,
+      "submissionsCorrect": 5118,
+      "questions": 12,
+      "accuracy": 0.5756382859070971,
+      "difficulty": 0.6752029807585364
+    }
+  },
+  "explanation": {
+    "id": "c0254f38-8131-41d9-b47e-463599ddf89c",
+    "body": null,
+    "questionId": "0c5fd63e-3783-4399-b8ad-1f173c24e40a",
+    "resources": [
+      {
+        "id": "5abcc821-32c7-402f-b2c6-9bdaa45d0aa4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/OnYab_kSe2M?si=GlvxtmkhZF9KcHfC&t=8"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c0254f38-8131-41d9-b47e-463599ddf89c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "72da8cca-0a60-4f6e-b8df-8417ce9702ba",
+      "name": "Unit Step Function",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1971539380",
+        "timeSpentVideo": "243081257",
+        "submissions": 2657,
+        "submissionsCorrect": 1846,
+        "questions": 3,
+        "accuracy": 0.6947685359427926,
+        "difficulty": 0.5622959738846572
+      }
+    },
+    {
+      "id": "cb7dd303-41e7-4a5d-a926-f22793315de9",
+      "name": "DC Steady-state",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1239285333",
+        "timeSpentVideo": "164115402",
+        "submissions": 1233,
+        "submissionsCorrect": 905,
+        "questions": 1,
+        "accuracy": 0.7339821573398215,
+        "difficulty": 0.5335708927231808
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "96480f64-0e09-469a-b7df-e0603d44f758",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The initial voltage value $V_c(0)$:",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "e9419d9b-06fc-40ab-b0de-3ef0c69f06d0",
+            "index": 0,
+            "body": "2 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 535
+            },
+            "resources": []
+          },
+          {
+            "id": "5c055591-d5c0-445a-98d2-bc20c52ad787",
+            "index": 1,
+            "body": "20 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 21
+            },
+            "resources": []
+          },
+          {
+            "id": "0f465adc-6539-48f9-a020-b8bbb3fb7165",
+            "index": 2,
+            "body": "5 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 22
+            },
+            "resources": []
+          },
+          {
+            "id": "eef7e761-29cd-4351-b040-e766ac9bb3a5",
+            "index": 3,
+            "body": "-0.5 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 9
+            },
+            "resources": []
+          },
+          {
+            "id": "ec3bec27-fc52-4232-93c0-2f6c2403dea4",
+            "index": 4,
+            "body": "-10 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 121
+            },
+            "resources": []
+          },
+          {
+            "id": "33e1805a-7c89-4ba7-a64a-64356ed8b620",
+            "index": 5,
+            "body": "12.5 V",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          },
+          {
+            "id": "a2ffd06d-de4d-4173-910f-b5630db6fd9b",
+            "index": 6,
+            "body": "None of the above.",
+            "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+            "stats": {
+              "count": 46
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "parentId": "0c5fd63e-3783-4399-b8ad-1f173c24e40a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 780,
+        "submissionsCorrect": 535,
+        "accuracy": 0.6858974358974359,
+        "difficulty": 0.5852272727272727
+      },
+      "resources": [],
+      "exam": {
+        "id": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1774352599",
+          "timeSpentVideo": "471396110",
+          "submissions": 8891,
+          "submissionsCorrect": 5118,
+          "questions": 12,
+          "accuracy": 0.5756382859070971,
+          "difficulty": 0.6752029807585364
+        }
+      },
+      "explanation": {
+        "id": "fce9829e-c71e-43ce-8368-4dbcdc64f1fa",
+        "body": null,
+        "questionId": "96480f64-0e09-469a-b7df-e0603d44f758",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "0169923e-c24d-41fd-96b8-537b93d507eb",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The final voltage $V_c(\\infin)$:",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "15d60d6a-d3ce-45cb-9856-57c2a4fe5b76",
+            "index": 0,
+            "body": "10 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 136
+            },
+            "resources": []
+          },
+          {
+            "id": "d519e784-bae3-4800-9916-9765a0bdd677",
+            "index": 1,
+            "body": "8 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 485
+            },
+            "resources": []
+          },
+          {
+            "id": "311edbe0-cdcd-458d-bd38-59399dc773c8",
+            "index": 2,
+            "body": "5 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          },
+          {
+            "id": "938cb920-3c3c-40bc-9aec-dfc44372c9e7",
+            "index": 3,
+            "body": "20 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 30
+            },
+            "resources": []
+          },
+          {
+            "id": "3f19b7a0-bff2-47d5-8bde-55bb6f3978d8",
+            "index": 4,
+            "body": "-10 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 22
+            },
+            "resources": []
+          },
+          {
+            "id": "10b8d0d8-5e32-4a49-9c6a-fc6940cbe812",
+            "index": 5,
+            "body": "12.5 V",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 18
+            },
+            "resources": []
+          },
+          {
+            "id": "395e4390-bca8-493e-8b30-6585459ffb97",
+            "index": 6,
+            "body": "None of the above.",
+            "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+            "stats": {
+              "count": 19
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 11,
+      "disclaimer": null,
+      "examId": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+      "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+      "parentId": "0c5fd63e-3783-4399-b8ad-1f173c24e40a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 732,
+        "submissionsCorrect": 485,
+        "accuracy": 0.662568306010929,
+        "difficulty": 0.6069711538461539
+      },
+      "resources": [],
+      "exam": {
+        "id": "16f38458-295f-40af-a46a-4f73e5fc69cd",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "eff5f02a-e609-42d1-a77f-8e9183c7e180",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1774352599",
+          "timeSpentVideo": "471396110",
+          "submissions": 8891,
+          "submissionsCorrect": 5118,
+          "questions": 12,
+          "accuracy": 0.5756382859070971,
+          "difficulty": 0.6752029807585364
+        }
+      },
+      "explanation": {
+        "id": "399c084c-14c7-42c4-a792-ee073cfb5d55",
+        "body": null,
+        "questionId": "0169923e-c24d-41fd-96b8-537b93d507eb",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

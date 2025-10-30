@@ -1,0 +1,360 @@
+{
+  "id": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+  "type": "PARENT",
+  "data": {
+    "body": "Let G\u2217 be the transitive closure of a simple digraph G. G\u2217 is represented by the following adjacency matrix. Answer the following T/F questions (explain your reasoning).\n",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "186277449",
+    "timeSpentVideo": "44369642",
+    "submissions": 860,
+    "submissionsCorrect": 576,
+    "accuracy": 0.6697674418604651,
+    "difficulty": 0.5979166666666667
+  },
+  "resources": [
+    {
+      "id": "fa502096-4776-4539-bf0e-34b761ce2480",
+      "type": "IMAGE",
+      "data": {
+        "key": "Pf7c9wxsvhPzbFKk-3yYr",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Pf7c9wxsvhPzbFKk-3yYr"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "704d2a32-afb0-45fb-8f0e-ff6a9b720d64",
+    "body": null,
+    "questionId": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+    "resources": [
+      {
+        "id": "f3995b51-f20e-459a-bb3f-596b6bf1b649",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4xCSOJgJ9V4?t=6532"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "704d2a32-afb0-45fb-8f0e-ff6a9b720d64",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "5e3f48d5-fb25-4a85-afe2-1fb8b2abdeab",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "G has at least one topological sorting",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "d64b4a5f-c717-4b58-9f54-b6c580acc7d7",
+            "index": 0,
+            "body": "True",
+            "questionId": "5e3f48d5-fb25-4a85-afe2-1fb8b2abdeab",
+            "stats": {
+              "count": 159
+            },
+            "resources": []
+          },
+          {
+            "id": "cdc193c9-0fb1-4914-8ed8-dbb19794d5b7",
+            "index": 1,
+            "body": "False",
+            "questionId": "5e3f48d5-fb25-4a85-afe2-1fb8b2abdeab",
+            "stats": {
+              "count": 611
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 771,
+        "submissionsCorrect": 611,
+        "accuracy": 0.7924773022049286,
+        "difficulty": 0.49110218140068884
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "bc8f0bf4-061e-4c06-b7ce-6a523b493b30",
+        "body": null,
+        "questionId": "5e3f48d5-fb25-4a85-afe2-1fb8b2abdeab",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "15b1da77-3501-47ed-bc0f-3ec86a1d2998",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The set of vertices $\\{0,1,4\\}$ and their associated edges between them in G represent a strongly connected component of G",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "7bfba3c7-2c81-4ae8-a1ce-18f342569d53",
+            "index": 0,
+            "body": "True",
+            "questionId": "15b1da77-3501-47ed-bc0f-3ec86a1d2998",
+            "stats": {
+              "count": 690
+            },
+            "resources": []
+          },
+          {
+            "id": "05346de4-46ba-4fd1-b956-e6f68d730d33",
+            "index": 1,
+            "body": "False",
+            "questionId": "15b1da77-3501-47ed-bc0f-3ec86a1d2998",
+            "stats": {
+              "count": 41
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 731,
+        "submissionsCorrect": 690,
+        "accuracy": 0.9439124487004104,
+        "difficulty": 0.35950661853188925
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "1372311a-6fa7-4599-ad73-c9268da30bd5",
+        "body": null,
+        "questionId": "15b1da77-3501-47ed-bc0f-3ec86a1d2998",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "69ee6d94-37cc-4db9-9ad2-85eca06a0086",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "The in-degree of vertex 2 in G is 0",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "6f47734c-70bf-447d-ba04-32a3d1d73c4c",
+            "index": 0,
+            "body": "True",
+            "questionId": "69ee6d94-37cc-4db9-9ad2-85eca06a0086",
+            "stats": {
+              "count": 103
+            },
+            "resources": []
+          },
+          {
+            "id": "521405d1-1100-4974-8914-facb94017d6a",
+            "index": 1,
+            "body": "False",
+            "questionId": "69ee6d94-37cc-4db9-9ad2-85eca06a0086",
+            "stats": {
+              "count": 582
+            },
+            "resources": []
+          },
+          {
+            "id": "70d7ee6b-a3d7-4050-bf19-f3f964a6f1e5",
+            "index": 2,
+            "body": "False, it is not 0 or 4",
+            "questionId": "69ee6d94-37cc-4db9-9ad2-85eca06a0086",
+            "stats": {
+              "count": 60
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "parentId": "93ba3388-4975-40f0-acd3-2c04c1d9c011",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 745,
+        "submissionsCorrect": 582,
+        "accuracy": 0.7812080536912752,
+        "difficulty": 0.5020710059171598
+      },
+      "resources": [],
+      "exam": {
+        "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+        "number": 2,
+        "year": 2022,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "1840329698",
+          "timeSpentVideo": "312219573",
+          "submissions": 13210,
+          "submissionsCorrect": 9706,
+          "questions": 17,
+          "accuracy": 0.7347464042392127,
+          "difficulty": 0.5170172802404207
+        }
+      },
+      "explanation": {
+        "id": "77673022-7e26-4d28-9c04-6927bfefa45f",
+        "body": null,
+        "questionId": "69ee6d94-37cc-4db9-9ad2-85eca06a0086",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

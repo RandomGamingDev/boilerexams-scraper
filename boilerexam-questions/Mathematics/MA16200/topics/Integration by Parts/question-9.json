@@ -1,0 +1,173 @@
+{
+  "id": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate \\[\\int_{0}^{\\frac{\\pi}{4}}4x\\cos{(2x)}dx\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "96c69f7f-df58-4227-a215-ce72a85c1807",
+        "index": 0,
+        "body": "$\\frac{\\pi-2}{2}$",
+        "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+        "stats": {
+          "count": 1170
+        },
+        "resources": []
+      },
+      {
+        "id": "e0d6dd60-2b20-44d5-86ce-4d76dcc71097",
+        "index": 1,
+        "body": "$\\frac{\\pi}{4\\sqrt{2}}+\\frac{1}{\\sqrt{2}}-1$",
+        "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      },
+      {
+        "id": "dd1fba61-9a45-480f-874d-ebc74c108ba0",
+        "index": 2,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+        "stats": {
+          "count": 154
+        },
+        "resources": []
+      },
+      {
+        "id": "950cf8f1-d8b5-43c4-a3e9-c9cfe813668e",
+        "index": 3,
+        "body": "0",
+        "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "3393ae28-47fa-48b7-92c7-bc87dada90ee",
+        "index": 4,
+        "body": "-2",
+        "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "473993790",
+    "timeSpentVideo": "43399779",
+    "submissions": 1851,
+    "submissionsCorrect": 1170,
+    "accuracy": 0.6320907617504052,
+    "difficulty": 0.6246796514607893
+  },
+  "resources": [],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "d5c075cb-78eb-45b8-9683-cfe5f7209387",
+    "body": "Skip to 53:08 if you would like to see an alternative integration method for this problem. (Tabular Integration). ",
+    "questionId": "8b0b77d8-6d88-40a4-9a83-02825b3460dc",
+    "resources": [
+      {
+        "id": "878cb2c1-ac62-4663-8f54-e855b9594fc2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=2801s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d5c075cb-78eb-45b8-9683-cfe5f7209387",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "518d7710-468f-4482-a18e-00c07665b3b0",
+      "name": "Integration of Trigonometric Function",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14052004562",
+        "timeSpentVideo": "815295856",
+        "submissions": 32440,
+        "submissionsCorrect": 20084,
+        "questions": 11,
+        "accuracy": 0.6191122071516646,
+        "difficulty": 0.6312538414259373
+      }
+    },
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14441745028",
+        "timeSpentVideo": "893479481",
+        "submissions": 32173,
+        "submissionsCorrect": 19364,
+        "questions": 12,
+        "accuracy": 0.6018711341808348,
+        "difficulty": 0.6484445201871534
+      }
+    }
+  ],
+  "children": []
+}

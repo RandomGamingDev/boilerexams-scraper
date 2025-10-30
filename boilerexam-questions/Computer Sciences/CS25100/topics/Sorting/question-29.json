@@ -1,0 +1,174 @@
+{
+  "id": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For which of the following input arrays will Bubble Sort perform more efficiently than Quick Sort? Assume that N is very large, and we need the items in ascending order.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "81fcd9dc-ea5c-4682-91dc-d9b5c13d7887",
+        "index": 0,
+        "body": "[N-1, 0, N-2, 1, N-3, 2, ...]",
+        "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "2b46f4a1-f1b7-4226-b3c4-79a96f9e08e9",
+        "index": 1,
+        "body": "Bubble Sort never performs more efficiently than Quick Sort.",
+        "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+        "stats": {
+          "count": 258
+        },
+        "resources": []
+      },
+      {
+        "id": "de109da4-84a1-4826-baf9-c9a84d36001c",
+        "index": 2,
+        "body": "[N-1, N-2, ..., 2, 1, 0]",
+        "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "3d350258-de47-48a1-8d6e-4d890a0d5fa9",
+        "index": 3,
+        "body": "Bubble Sort always performs more efficiently than Quick Sort.",
+        "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "5a80ec37-eb0f-4830-94a8-3cbf6dc77df2",
+        "index": 4,
+        "body": "[0, 1, 2, ..., N-1]",
+        "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+        "stats": {
+          "count": 1052
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "193807406",
+    "timeSpentVideo": "0",
+    "submissions": 1524,
+    "submissionsCorrect": 1052,
+    "accuracy": 0.6902887139107612,
+    "difficulty": 0.5714285714285714
+  },
+  "resources": [
+    {
+      "id": "c142654e-ff00-4313-aa2c-cf78cc61a6ff",
+      "type": "CODE",
+      "data": {
+        "content": "Algorithm BubbleSort(A)\n   let n = |A|\n   let repeat = true\n   while (repeat)\n      repeat = false\n      for (i = 0, i < n - 1, 1)\n         if (A[i] > A[i + 1])\n            swap(A, i, i + 1)\n            repeat = true\n         end if\n      end for\n   end while\n   return A\nEnd Algorithm \n\n\nAlgorithm partition(A, left, right) \n   let pivot = A[right]\n   let i = left - 1 \n  \n   for(j = left, j < right, j = j + 1)\n      if (compare(A[j], pivot) < 0)\n         i = i + 1\n         swap(A, i, j)\n      end if\n   end for\n   \n   i = i + 1\n   swap(A, i, right)\n   return i\nEnd algorithm\n\nAlgorithm QuickSort(A, left, right) \n   if (left < right) \n      let idx = partition(A, left, right)\n      QuickSort(A, left, idx - 1)\n      QuickSort(A, idx + 1, right)\n   end if\nEnd algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "119cdaf8-af17-4185-8e90-bab3a9ea76d4",
+    "body": null,
+    "questionId": "f08ee81f-1354-46f5-bd2c-fd5e7740bfaf",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    },
+    {
+      "id": "45f48c88-a7fb-4023-892e-85acf7112604",
+      "name": "Quick Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1924558900",
+        "timeSpentVideo": "0",
+        "submissions": 5186,
+        "submissionsCorrect": 3445,
+        "questions": 4,
+        "accuracy": 0.6642884689548785,
+        "difficulty": 0.5888195232690124
+      }
+    },
+    {
+      "id": "f7e32a0e-71e5-4c30-8945-c93f633c1d97",
+      "name": "Bubble Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "910834566",
+        "timeSpentVideo": "0",
+        "submissions": 2106,
+        "submissionsCorrect": 1544,
+        "questions": 2,
+        "accuracy": 0.7331433998100665,
+        "difficulty": 0.5274252039891206
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,106 @@
+{
+  "id": "56e8558c-344a-41b4-9080-4c419fb070ca",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A university is studying the relationship between the amount of investment in server facilities to the average server traffic. The research team obtained the following set of graphics from their data of 100 pairs, collected from an SRS of other universities with servers of varying sizes.\n\n(b) (13 points) Evaluate whether each assumption in (a) is satisfied. For each assumption, where appropriate, clearly state ALL graphs that can be used to assess the validity of the assumption and the features used. ",
+    "solution": "1) SRS: Is assumed true as stated in the problem description. (Valid)\n2) Linearity: Curvature clearly visible. (Invalid)\ngraphs: Scatter Plot: Curvature of points &  Residual Plot: Curvature of points\n3) Homogeneity/Constant Variance: Variability is low for small values (below 20) and high for large\nvalues (above 20). (Invalid)\ngraphs: Scatter Plot: Concentration of Points &  Residual Plot: Concentration of Points\n4) Normality: The residuals are positively skewed and have outliers. (Invalid)\ngraphs: Histogram of Residuals: Gaps in histogram indicate outliers and long right tail. Blue\nnormal curve and red kernel curve do not align. &  Normal Probability Plot of Residuals: Concave up and points do not follow the line.\n",
+    "answerChoices": []
+  },
+  "number": 24,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3852559",
+    "timeSpentVideo": "718536",
+    "submissions": 34,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.8768656716417911
+  },
+  "resources": [
+    {
+      "id": "31898d89-f5ae-4ffd-8d48-200349a90028",
+      "type": "IMAGE",
+      "data": {
+        "key": "9j6ddwQJqFzyFxrjzuUEa",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9j6ddwQJqFzyFxrjzuUEa"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "56e8558c-344a-41b4-9080-4c419fb070ca",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "ef1ff70a-94e7-4e59-9af2-5be8f0913c3d",
+    "body": null,
+    "questionId": "56e8558c-344a-41b4-9080-4c419fb070ca",
+    "resources": [
+      {
+        "id": "2361c146-2109-42ba-8a73-f21e0c6ecf29",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=2278"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ef1ff70a-94e7-4e59-9af2-5be8f0913c3d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+      "name": "Assumptions",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "63602211",
+        "timeSpentVideo": "9500971",
+        "submissions": 216,
+        "submissionsCorrect": 0,
+        "questions": 4,
+        "accuracy": 0,
+        "difficulty": 1.0917721518987342
+      }
+    }
+  ],
+  "children": []
+}

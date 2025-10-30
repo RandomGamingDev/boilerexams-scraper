@@ -1,0 +1,134 @@
+{
+  "id": "297af950-95c2-49c3-89c6-67d1903fcc40",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following sorting algorithms is being implemented in the program?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1ea9469e-3210-462f-805a-e4f5b37faeb0",
+        "index": 0,
+        "body": "Selection Sort",
+        "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+        "stats": {
+          "count": 435
+        },
+        "resources": []
+      },
+      {
+        "id": "7d18a62d-adc0-4076-8824-74ea4adac5b5",
+        "index": 1,
+        "body": "Bubble Sort",
+        "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+        "stats": {
+          "count": 377
+        },
+        "resources": []
+      },
+      {
+        "id": "07d8c565-b609-40c2-9066-4315e4dd45ad",
+        "index": 2,
+        "body": "Insertion Sort",
+        "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+        "stats": {
+          "count": 1292
+        },
+        "resources": []
+      },
+      {
+        "id": "4761d760-a53f-4278-8fb6-534c95733bcb",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "493544315",
+    "timeSpentVideo": "0",
+    "submissions": 2154,
+    "submissionsCorrect": 1292,
+    "accuracy": 0.5998142989786444,
+    "difficulty": 0.6546140195208519
+  },
+  "resources": [
+    {
+      "id": "10daf306-6e70-4c5e-b6a3-e735fe339bec",
+      "type": "CODE",
+      "data": {
+        "content": "#define SETSIZE 10\n\nvoid sortPass(int[], int, int);\nint findLocation(int[], int, int);\n\nint main()\n{\n  int x[SETSIZE] = {3, 5, 2, 4, 9, 1, 8, 6, 5, 2};\n  int i;\n  int location;\n  for(i = 1; i < SETSIZE; i++)\n  {\n    location = findLocation(x, i, x[i]);\n    sortPass(x, i, location);\n  }\n  return(0);\n}\n\nvoid sortPass(int x[], int start, int end)\n{\n  int temp = x[start];\n  \n  while(start > end)\n  {\n    x[start] = x[start - 1];\n    start--; \n}\n\n  x[start] = temp;\n}\n\nint findLocation(int x[], int start, int element) \n{\n  while(start > 0 && element > x[start - 1])\n  {\n    start--;\n  }\n\n  return(start);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "8dee396a-1c22-42d2-be5f-634b71d5fb61",
+    "body": "",
+    "questionId": "297af950-95c2-49c3-89c6-67d1903fcc40",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

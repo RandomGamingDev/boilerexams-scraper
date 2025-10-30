@@ -1,0 +1,128 @@
+{
+  "id": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all values of $k$ such that $\\left[\\begin{array}{r}2 \\\\ k \\\\ -2\\end{array}\\right]$ is a linear combination of $\\left[\\begin{array}{r}1 \\\\ 2 \\\\ -1\\end{array}\\right]$ and $\\left[\\begin{array}{l}1 \\\\ 3 \\\\ k\\end{array}\\right]$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "54bcdedb-9962-438a-b284-058e1ae85bdc",
+        "index": 0,
+        "body": "$k=-1$ and $k=4$",
+        "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+        "stats": {
+          "count": 779
+        },
+        "resources": []
+      },
+      {
+        "id": "3074350a-92e9-4d18-820b-d6a68cc2dec6",
+        "index": 1,
+        "body": "$k=4$ and $k=6$",
+        "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "efbe9658-e4c3-4819-8f94-3d6a7d6500fc",
+        "index": 2,
+        "body": "$k=1$ and $k=2$",
+        "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "af73748c-bba8-4e22-9f2d-01345b9b0907",
+        "index": 3,
+        "body": "$k=0$ and $k=4$",
+        "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "2d888830-7181-4517-8fca-b20132e549a8",
+        "index": 4,
+        "body": "$k=-1$ and $k=0$",
+        "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "289318176",
+    "timeSpentVideo": "0",
+    "submissions": 1006,
+    "submissionsCorrect": 779,
+    "accuracy": 0.7743538767395626,
+    "difficulty": 0.5004520795660036
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "9a15c69b-808b-46b9-883b-8347d48b6d37",
+    "body": "",
+    "questionId": "2c0bdf66-8d6d-40f5-b00d-954abbf8aa10",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d73acaab-566a-4ec1-be75-3ce2df6df65f",
+      "name": "Linear Transformation",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1453127788",
+        "timeSpentVideo": "142777332",
+        "submissions": 2940,
+        "submissionsCorrect": 1638,
+        "questions": 4,
+        "accuracy": 0.5571428571428572,
+        "difficulty": 0.6947368421052632
+      }
+    }
+  ],
+  "children": []
+}

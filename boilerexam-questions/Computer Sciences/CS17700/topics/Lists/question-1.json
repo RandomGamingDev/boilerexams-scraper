@@ -1,0 +1,149 @@
+{
+  "id": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Congratulations! You are the new intern at Very Good Food & Stuff Company, a business \u201cfor all of your food and stuff needs\u201d. The chairman expects everyone to show up on time, speak honestly, and treat everyone with fairness to get along just fine.\n\nThe company just started, and thanks in large part to the stewardship of the chairman, it has built a good customer base. The following is the content of the customers file (customers.txt):\n\n<div class=\"text-justify w-full bg-dark-gray rounded-lg p-2\">type : subscribed,  age :43 ,firstname: Barney ,id:313, lastname  :  Lewis\nfirstname: Leslie ,  age :33 , lastname  :  Traeger,id:442, type : subscribed\n lastname  :  Varmn,firstname: Diane ,id:682,  age :43 , type : casual\n lastname  :  Gergich,  age :40 , type : loyal,firstname: Diane ,id:644\n type : subscribed,  age :45 ,id:890,firstname: Lucy , lastname  :  Varmn\nid:502,  age :28 , type : casual, lastname  :  Lewis,firstname: Tom \n lastname  :  Malwae-Tweep, type : subscribed,id:346,  age :38 ,firstname: Leslie \nfirstname: Janet ,id:187,  age :42 , type : casual, lastname  :  Santodomingo\nfirstname: Ann ,id:574, lastname  :  Traeger, type : casual,  age :36 \n  age :25 , type : diamond,firstname: Leslie ,id:149, lastname  :  Dwyer\nid:827, type : casual,  age :23 ,firstname: Garry , lastname  :  Wyatt\nfirstname: Jean-Ralphio , type : loyal,id:194, lastname  :  Santodomingo,  age :50 \n type : subscribed,  age :34 , lastname  :  Newport,firstname: Tom ,id:969\nfirstname: Diane , type : subscribed, lastname  :  Gergich,  age :47 ,id:857\nfirstname: Donna ,id:552, type : casual,  age :25 , lastname  :  Saperstein\nid:373,  age :33 ,firstname: Bobby , type : diamond, lastname  :  Gergich\n lastname  :  Knope,  age :38 ,firstname: Shauna , type : casual,id:588\n type : loyal, lastname  :  Dwyer,  age :34 ,id:538,firstname: Leslie \n type : casual,id:169,  age :22 , lastname  :  Wyatt,firstname: Diane \n  age :36 , lastname  :  Saperstein,id:671, type : loyal,firstname: Diane</div>\n\nEvery line in the file is the data of a customer stored as four name:value pairs separated by comma. Pair keys are firstname, lastname, age, id, and type. Pairs appear shuffled in each line of the file, and with extra space characters all over the place, but the content is correct.\n\nYour main task is to understand the code base. The first function to consider is customerData, which transforms a string of data (as found in the customers file) and returns a dictionary with the respective customer attributes. Andy Dwyer, your manager (completely oblivious about Python, yet well intended) has some claims about the code base in general. You need to avoid a system collapsing due to the manager\u2019s lack of knowledge!\n\nAndy claims that the argument for the split function in line 2 could be \\verb|, |$\\ $ (a comma followed by a space character).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3a51d408-8fdf-4e00-b466-04fafd6a1d60",
+        "index": 0,
+        "body": "No. Doing so will not split a customer string properly.",
+        "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+        "stats": {
+          "count": 758
+        },
+        "resources": []
+      },
+      {
+        "id": "4e14fcd4-4327-4520-8087-d96a1e79f7ef",
+        "index": 1,
+        "body": "Yes. Doing so will not affect the correct split process of a customer string.",
+        "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "6511aca5-b5b9-4bba-9d81-72fc681def94",
+        "index": 2,
+        "body": "No. Doing so will not split a customer entry properly.",
+        "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+        "stats": {
+          "count": 234
+        },
+        "resources": []
+      },
+      {
+        "id": "28ca9557-e112-41a2-bee9-8839e060b1be",
+        "index": 3,
+        "body": "Yes. Doing so will not affect the correct split process of a customer entry.",
+        "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "218889215",
+    "timeSpentVideo": "26007152",
+    "submissions": 1235,
+    "submissionsCorrect": 758,
+    "accuracy": 0.6137651821862348,
+    "difficulty": 0.6447565543071161
+  },
+  "resources": [
+    {
+      "id": "e3522336-5dfa-4154-9838-7f5b834513de",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    dataList = data.split(\",\")\n    dataDict = dict()\n    \n    for entry in dataList:\n        key, value = entry.split(\":\")\n        key = key.strip()\n        value = value.strip()\n        dataDict[key] = value\n    \n    return dataDict",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "bcf30275-bf97-4153-8427-23de47181f3d",
+    "body": "",
+    "questionId": "e88b3ae6-c2e8-4141-8e9b-9ffb133f24cb",
+    "resources": [
+      {
+        "id": "aabc8360-da58-4783-bea8-5f19568a95be",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=EhNrKLibq8syJnjk"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bcf30275-bf97-4153-8427-23de47181f3d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "82351249-f08b-4cc2-a751-623e252d4b63",
+      "name": "Lists",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1008310865",
+        "timeSpentVideo": "26082485",
+        "submissions": 2638,
+        "submissionsCorrect": 1979,
+        "questions": 3,
+        "accuracy": 0.7501895375284306,
+        "difficulty": 0.5089481373265157
+      }
+    }
+  ],
+  "children": []
+}

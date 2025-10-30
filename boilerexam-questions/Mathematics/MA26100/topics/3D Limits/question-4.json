@@ -1,0 +1,143 @@
+{
+  "id": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following two limits:\nI. $\\lim _{(x, y) \\rightarrow(0,0)} \\frac{x y}{x^{2}+x y+y^{2}}$\nII. $\\lim _{(x, y) \\rightarrow(0,0)} \\frac{x+y}{e^{x}+e^{y}}$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0d7e2392-a119-4cb6-a0d6-ccd5adb3ce02",
+        "index": 0,
+        "body": "I. does not exist, II. 0",
+        "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+        "stats": {
+          "count": 2461
+        },
+        "resources": []
+      },
+      {
+        "id": "73833362-6edc-4691-b665-d3b9a9ff19e0",
+        "index": 1,
+        "body": "I. does not exist, II. does not exist",
+        "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "c91cbd3c-d58f-4271-ac14-050e96b5fda7",
+        "index": 2,
+        "body": "I. 0, II. does not exist",
+        "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "114e4995-b665-4d6e-9724-bfd7b50e6e0a",
+        "index": 3,
+        "body": "I. 0, II. 0",
+        "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+        "stats": {
+          "count": 251
+        },
+        "resources": []
+      },
+      {
+        "id": "10ce6c6c-0715-4d1a-a25e-1d2ecd878437",
+        "index": 4,
+        "body": "I. 0, II. 1",
+        "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "466229553",
+    "timeSpentVideo": "58837297",
+    "submissions": 3215,
+    "submissionsCorrect": 2461,
+    "accuracy": 0.7654743390357698,
+    "difficulty": 0.49253393665158374
+  },
+  "resources": [],
+  "exam": {
+    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+    "number": 1,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4801744323",
+      "timeSpentVideo": "630708170",
+      "submissions": 24318,
+      "submissionsCorrect": 13942,
+      "questions": 12,
+      "accuracy": 0.5733201743564438,
+      "difficulty": 0.6769800966500122
+    }
+  },
+  "explanation": {
+    "id": "7458a065-a318-4e61-af04-4885faa474b5",
+    "body": null,
+    "questionId": "18c6f9fd-c1fa-4832-b3fe-e96efa3122c9",
+    "resources": [
+      {
+        "id": "7888e1d0-bf47-49bd-9bdb-d2f817738c86",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Z-J8h5pdEfQ?si=bPE1HtcIKmOF4oXU&t=590"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7458a065-a318-4e61-af04-4885faa474b5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9c99be08-0dc5-4e06-beb4-b3ff43c28cb6",
+      "name": "3D Limits",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18513073335",
+        "timeSpentVideo": "1326895986",
+        "submissions": 54610,
+        "submissionsCorrect": 36571,
+        "questions": 8,
+        "accuracy": 0.6696758835378136,
+        "difficulty": 0.5806342533357705
+      }
+    }
+  ],
+  "children": []
+}

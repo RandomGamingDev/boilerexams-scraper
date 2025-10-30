@@ -1,0 +1,159 @@
+{
+  "id": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the right formula for the work required to empty the water from the reversed conical tank, where the radius of the top is 4 m and the height is 10 m. The original depth of the water is 7 m and you are only allowed to throw away the water from the top of the tank. Use $\\rho$ kg/m$^3$ for the density of the water, and $g$ m/sec$^2$ for the acceleration constant by the gravity.\n\nChoose the coordinate system so that the vertex at the bottom is the\norigin of the $y$-axis.\n\n(See the picture.)",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "982cc1f3-8dfb-48f4-9c2f-585ea933b030",
+        "index": 0,
+        "body": "$\\int_7^{10} \\rho g \\pi (\\frac{4}{10}y)^2(10-y)\\,dy$",
+        "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "2db81ebd-c929-4bbf-a286-c73af950af2c",
+        "index": 1,
+        "body": "$\\int_0^{10} \\rho g \\pi (\\frac{4}{10}(10-y))^2y\\,dy$",
+        "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "b1670cb2-fbbc-4df8-8452-4690f86f8f56",
+        "index": 2,
+        "body": "$\\int_0^{3} \\rho g \\pi (\\frac{4}{10}y)^2y\\,dy$",
+        "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "95fde095-e7b4-4dc3-b216-7d7963ba23df",
+        "index": 3,
+        "body": "$\\int_0^{7} \\rho g \\pi (\\frac{4}{10}y)^2(10-y)\\,dy$",
+        "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "3c5e46a8-3069-4987-b218-36f7332f3f72",
+        "index": 4,
+        "body": "$\\int_0^{10} \\rho g \\pi (\\frac{4}{10}y)^2y\\,dy$",
+        "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "5347269",
+    "timeSpentVideo": "638363",
+    "submissions": 31,
+    "submissionsCorrect": 23,
+    "accuracy": 0.7419354838709677,
+    "difficulty": 0.6927480916030534
+  },
+  "resources": [
+    {
+      "id": "3d9cf32f-bbe2-48dd-a64d-c4e95107f3e7",
+      "type": "IMAGE",
+      "data": {
+        "key": "bthoS9hjsCqP-g4WJXkq1",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/bthoS9hjsCqP-g4WJXkq1"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "70c3d655-d5aa-41e3-b0bc-727bf30b0364",
+    "body": null,
+    "questionId": "2c4776a1-9469-4b6f-8901-5d7eba52a91d",
+    "resources": [
+      {
+        "id": "4df28b18-a816-4048-9937-5f494679022a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=yreSUp5nKholivoC&t=4186"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "70c3d655-d5aa-41e3-b0bc-727bf30b0364",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "81c96465-1f5d-4c1f-98fd-2b7e0f8ae510",
+      "name": "Work",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "160011165",
+        "timeSpentVideo": "3401008",
+        "submissions": 127,
+        "submissionsCorrect": 76,
+        "questions": 3,
+        "accuracy": 0.5984251968503937,
+        "difficulty": 0.6949339207048458
+      }
+    }
+  ],
+  "children": []
+}

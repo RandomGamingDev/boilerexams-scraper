@@ -1,0 +1,149 @@
+{
+  "id": "fe80b813-4565-4146-8728-c106d5198287",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "How many times will <font style=\"font-family:'Courier New'\">Unknown grade!</font> be printed when <font style=\"font-family:'Courier New'\">calcPoints('A', 3)</font> is called?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "648ab938-0d2d-4cc6-ba62-af0d26f56704",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">Zero times.</font>",
+        "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+        "stats": {
+          "count": 387
+        },
+        "resources": []
+      },
+      {
+        "id": "0953c912-7760-4df7-ae14-3fc13d9d1202",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">One time.</font>",
+        "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+        "stats": {
+          "count": 1411
+        },
+        "resources": []
+      },
+      {
+        "id": "8323a122-dbd0-4bec-afbe-42bb609426ce",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">Four times.</font>",
+        "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "08b2a164-c76d-4c7f-b749-003a40fc6d46",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "192814042",
+    "timeSpentVideo": "0",
+    "submissions": 1952,
+    "submissionsCorrect": 1411,
+    "accuracy": 0.7228483606557377,
+    "difficulty": 0.5380116959064327
+  },
+  "resources": [
+    {
+      "id": "9186c944-811e-4ae0-ab33-90b7a830f062",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\n\nchar calcGrade(int);\nint calcPoints(char, int);\n\nint main()\n{\n  calcPoints('A', 3);\n\n  return (0);\n}\n\nchar calcGrade(int score)\n{\n  int pts;\n  \n  pts = !!(score / 50) + !!(score / 45) + !!(score / 35) + !!(score / 25);\n  pts += !!(pts);\n  \n  return('F' - pts);\n}\n\nint calcPoints(char grade, int credit)\n{\n  int pts = 0;\n  \n  switch (grade)\n  {\n    case 'A':\n      pts += credit;\n    case 'B':\n      pts += credit;\n    case 'C':\n      pts += credit;\n    case 'D':\n      pts += credit;\n    default:\n      printf(\"Unknown grade!\\n\");\n  }\n  \n  return(pts);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "1b5f86f9-a3a0-4734-9dfe-91cd0984aa4d",
+    "body": "",
+    "questionId": "fe80b813-4565-4146-8728-c106d5198287",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    },
+    {
+      "id": "c13f3050-2316-4c7a-91da-bb42acc405c4",
+      "name": "Chars",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11346704115",
+        "timeSpentVideo": "121828202",
+        "submissions": 31494,
+        "submissionsCorrect": 22656,
+        "questions": 13,
+        "accuracy": 0.719375119070299,
+        "difficulty": 0.5313192378299677
+      }
+    }
+  ],
+  "children": []
+}

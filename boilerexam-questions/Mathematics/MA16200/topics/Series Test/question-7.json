@@ -1,0 +1,143 @@
+{
+  "id": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Determine whether the following series are absolutely convergent, conditionally convergent, or divergent:\n\n(I) $\\sum_{n=1}^\\infty \\frac{\\cos(n)}{n^2 + 1}$\n\n(II) $\\sum_{n=1}^\\infty (-1)^n \\frac{1}{2n}$\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "31362183-3782-47cc-b625-206a1beb7db6",
+        "index": 0,
+        "body": "I is absolutely convergent; II is divergent.",
+        "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+        "stats": {
+          "count": 201
+        },
+        "resources": []
+      },
+      {
+        "id": "3c80b13e-6b2b-4e44-9a68-0247f398a5f2",
+        "index": 1,
+        "body": "I is conditionally convergent; II is divergent.",
+        "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "ce33e56e-910b-4398-a345-effff932824f",
+        "index": 2,
+        "body": "I is absolutely convergent; II is conditionally convergent.",
+        "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+        "stats": {
+          "count": 1824
+        },
+        "resources": []
+      },
+      {
+        "id": "0fc4c7eb-cd3d-4214-a71c-b648e415afd3",
+        "index": 3,
+        "body": "I is divergent; II is conditionally convergent.",
+        "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "e21ed628-6b7b-41c7-93b8-be1fcc4e98fa",
+        "index": 4,
+        "body": "I and II are conditionally convergent.",
+        "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+        "stats": {
+          "count": 191
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "17daeae2-a682-4ad4-9c07-770985239130",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "422804172",
+    "timeSpentVideo": "257031485",
+    "submissions": 2982,
+    "submissionsCorrect": 1824,
+    "accuracy": 0.6116700201207244,
+    "difficulty": 0.6419532770927969
+  },
+  "resources": [],
+  "exam": {
+    "id": "17daeae2-a682-4ad4-9c07-770985239130",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5437941173",
+      "timeSpentVideo": "1847956959",
+      "submissions": 38382,
+      "submissionsCorrect": 25576,
+      "questions": 12,
+      "accuracy": 0.6663540201135949,
+      "difficulty": 0.5840782703601684
+    }
+  },
+  "explanation": {
+    "id": "952ae5de-84b5-46b4-b1dc-2093081862c4",
+    "body": "",
+    "questionId": "53ce433f-f6a6-4de3-83ef-a1776e826549",
+    "resources": [
+      {
+        "id": "0585c148-b9ca-44e9-a9dd-7880099ec994",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NCyzwVKmqqw?t=834\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "952ae5de-84b5-46b4-b1dc-2093081862c4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266771297",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102215,
+        "submissionsCorrect": 63359,
+        "questions": 31,
+        "accuracy": 0.6198600988113291,
+        "difficulty": 0.630257049308508
+      }
+    }
+  ],
+  "children": []
+}

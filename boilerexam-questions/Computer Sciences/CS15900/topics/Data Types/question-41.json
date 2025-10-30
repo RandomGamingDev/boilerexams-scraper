@@ -1,0 +1,134 @@
+{
+  "id": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following function calls would result in the program either crashing or failing to compile?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "5ed6d986-310f-429c-9cbb-469e3768894a",
+        "index": 0,
+        "body": "result = switchFx(0, 0, 1);",
+        "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "c66019dc-4bf7-405b-b667-43944eb6056b",
+        "index": 1,
+        "body": "result = switchFx(1, 1, 0);",
+        "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+        "stats": {
+          "count": 776
+        },
+        "resources": []
+      },
+      {
+        "id": "853bf438-5b19-40df-a53c-c508d1339a19",
+        "index": 2,
+        "body": "result = switchFx(1.5, 2.5, 1.0);",
+        "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+        "stats": {
+          "count": 296
+        },
+        "resources": []
+      },
+      {
+        "id": "a4821200-40a8-4b7e-bf97-43a452ac2e30",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 41,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "73108133",
+    "timeSpentVideo": "0",
+    "submissions": 1172,
+    "submissionsCorrect": 776,
+    "accuracy": 0.6621160409556314,
+    "difficulty": 0.60062893081761
+  },
+  "resources": [
+    {
+      "id": "260fd2f2-729e-4bca-8b03-0a9ca63286b9",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\nint switchFx(int, int, int);\n\nint main() {\n  int result;\n  \n  // try uncommenting lines below to\n  // see which one results in an error\n  //result = switchFx(0, 0, 1); // (a)\n  //result = switchFx(1, 1, 0); // (b)\n  //result = switchFx(1.5, 2.5, 1.0); // (c)\n  \n  //printf(\"result: %d\\n\", result);\n  \n  return(0); \n}\n\nint switchFx(int x, int y, int z)\n{\n  int score = 0;\n  \n  switch(x + y % z)\n  {\n    case 0:  score++;\n             break;\n    case 1:  score++;\n    default: score += 2;\n  }\n  return(score);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "6dd2f601-a4f5-4ce0-9bad-8fafc5cb15f8",
+    "body": "",
+    "questionId": "a803d853-46ef-49a7-b03f-5a64665f9bdc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    }
+  ],
+  "children": []
+}

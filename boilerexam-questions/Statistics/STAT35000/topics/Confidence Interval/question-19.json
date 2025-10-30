@@ -1,0 +1,111 @@
+{
+  "id": "11d9de2b-0570-428f-b9c1-a333da524cc7",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A two-sample independent analysis is conducted by a researcher who decides to use the pooled estimator of the variance to construct a 95% confidence interval for the difference in means between population A and population B. Unbeknownst to the researcher, the variances of these populations follow the relationship $\\sigma_{A}^{2} = 25 \\times \\sigma_{B}^{2}. $\n\nA. If the confidence interval is built using a sample from population A of size $n_{A} = 825$ and from population B with size, $n_{B} = 46$, what can be said about the width of the confidence interval and the true coverage probability of the confidence interval? The formula for the pooled estimate of the variance is given below as $s_{p}^{2}$. Type the answer choice in a capitalized form. \n\n$s_{p}^{2} = \\left( \\frac{n_{A} - 1}{n_{A} + n_{B} - 2} \\right) s_{A}^{2} + \\left( \\frac{n_{B} - 1}{n_{A} + n_{B} - 2} \\right) s_{B}^{2}$\n\n(A) It is wide enough to capture the true mean difference $\\mu_{A} - \\mu_{B}$\nexactly 95% of the time that this procedure is performed.\n\n(B)  It is the same as the width of a 95% confidence interval that is constructed without pooling.\n\n(C) It is narrower than expected on average, capturing the true mean difference $\\mu_{A} - \\mu_{B}$ less than 95% of the time that this procedure is performed.\n\n(D) It is wider than expected on average, capturing the true mean difference $\\mu_{A} - \\mu_{B}$ more than 95% of the time that this procedure is performed.\n\nB. For a two-independent sample procedure, provide a scenario where using the pooled estimator may be advantageous. Explain why this approach is beneficial in that particular situation.\n",
+    "solution": "1. (D) \n\n2. The pooled estimator is advantageous when \ud835\udf48\ud835\udc68 \ud835\udfd0 = \ud835\udf48\ud835\udc69 \ud835\udfd0. The reason it can be advantageous is that we can pool both source information from samples from A and samples from B to estimate the same quantity and pool the information together. Such situations we get a more efficient estimator than the non-pooled estimator",
+    "answerChoices": [
+      {
+        "id": "252f503e-c261-4e95-b269-30ed3d11dec4",
+        "index": 0,
+        "body": "D",
+        "questionId": "11d9de2b-0570-428f-b9c1-a333da524cc7",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "cc382221-491a-40d1-afd6-c6e2c83cbb28",
+        "index": 1,
+        "body": "The pooled estimator is advantageous when \ud835\udf48\ud835\udc68\n\ud835\udfd0 = \ud835\udf48\ud835\udc69\n\ud835\udfd0 . The reason it can be advantageous is\nthat we can pool both source information from samples from A and samples from B to estimate\nthe same quantity and pool the information together. Such situations we get a more efficient\nestimator than the non-pooled estimator",
+        "questionId": "11d9de2b-0570-428f-b9c1-a333da524cc7",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "5078824",
+    "timeSpentVideo": "1199543",
+    "submissions": 52,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.9210526315789473
+  },
+  "resources": [],
+  "exam": {
+    "id": "0ab58512-f2d8-4a1b-bef4-ec88691334ad",
+    "number": 2,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "253452863",
+      "timeSpentVideo": "96639292",
+      "submissions": 2769,
+      "submissionsCorrect": 1507,
+      "questions": 19,
+      "accuracy": 0.5442397977609246,
+      "difficulty": 0.7073021958870687
+    }
+  },
+  "explanation": {
+    "id": "cd527d78-f1f4-4400-99d5-1d85795d97c4",
+    "body": "",
+    "questionId": "11d9de2b-0570-428f-b9c1-a333da524cc7",
+    "resources": [
+      {
+        "id": "2bfbb517-b903-4be6-9268-b483bba1d96b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/KeeiMwe3QlU?t=3112"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cd527d78-f1f4-4400-99d5-1d85795d97c4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "de9074ca-7126-4b35-8a18-fade09f055a4",
+      "name": "Confidence Interval",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "319290007",
+        "timeSpentVideo": "27587913",
+        "submissions": 1071,
+        "submissionsCorrect": 542,
+        "questions": 7,
+        "accuracy": 0.5060690943043884,
+        "difficulty": 0.7444491887275833
+      }
+    }
+  ],
+  "children": []
+}

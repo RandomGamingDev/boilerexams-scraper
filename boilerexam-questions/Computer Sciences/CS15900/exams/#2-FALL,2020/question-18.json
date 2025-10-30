@@ -1,0 +1,133 @@
+{
+  "id": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value found in index 6 of the array after the termination of the function called by the main function of the program above?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6f3a444d-319a-4c17-a826-92d7357d5941",
+        "index": 0,
+        "body": "3",
+        "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      },
+      {
+        "id": "5cbe5cb9-2b6c-4ea5-a061-4789f7d79df4",
+        "index": 1,
+        "body": "0",
+        "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "dbe4fabc-ff3b-4b4d-87d4-23543d15393e",
+        "index": 2,
+        "body": "1",
+        "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "bff05a7b-6869-426d-970a-5c6909b87eba",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "46347855",
+    "timeSpentVideo": "10200640",
+    "submissions": 291,
+    "submissionsCorrect": 129,
+    "accuracy": 0.44329896907216493,
+    "difficulty": 0.7921994884910486
+  },
+  "resources": [
+    {
+      "id": "2447577d-d6d9-4abd-a875-9f9da1480a6d",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 10\n\nvoid changeArray(int[], int);\n\nint main()\n{\n  int data[SIZE] = {1, 0, 0, 1, 1, 0, 1, 0, 1};\n  \n  changeArray(data, 1);\n  \n  // NOTE: printf not included in original question.\n  //printf(\"data[6]: %d\\n\", data[6]);\n  \n  return(0);\n}\n\nvoid changeArray(int data[], int chg)\n{\n  int i;\n  int temp;\n  \n  for(i = 0; i < SIZE; i++)\n  {\n    temp = i - chg < 0 ? SIZE + i - chg : i - chg;\n    \n    data[i] = data[temp] + data[(i + chg) % SIZE];\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "b656f590-503b-4ddb-8bf7-3e403a37f329",
+    "body": "",
+    "questionId": "ac9228eb-8f35-4d01-a37a-c9651a4a365f",
+    "resources": [
+      {
+        "id": "c8168013-1983-40df-986c-7fc645f444cd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3131"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b656f590-503b-4ddb-8bf7-3e403a37f329",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

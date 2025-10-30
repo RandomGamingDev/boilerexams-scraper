@@ -1,0 +1,158 @@
+{
+  "id": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following integrals represents the volume of the solid enclosed by $z=\\sqrt{x^{2}+y^{2}}$ and $x^{2}+y^{2}+z^{2}=2$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c2b2c2cd-92d7-46c3-bcc2-e9770f1c571e",
+        "index": 0,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{1} \\int_{r}^{\\sqrt{2-r^{2}}} r d z d r d \\theta$",
+        "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+        "stats": {
+          "count": 1911
+        },
+        "resources": []
+      },
+      {
+        "id": "093fa2f7-5922-4c14-a67b-a04c034d68d3",
+        "index": 1,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{1}^{\\sqrt{2}} \\int_{r}^{\\sqrt{2-r^{2}}} r d z d r d \\theta$",
+        "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+        "stats": {
+          "count": 225
+        },
+        "resources": []
+      },
+      {
+        "id": "fe12be9c-ca89-4b36-9d88-02cdc92fd8bd",
+        "index": 2,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{\\sqrt{2}} \\int_{r}^{\\sqrt{2-r^{2}}} r d z d r d \\theta$",
+        "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+        "stats": {
+          "count": 738
+        },
+        "resources": []
+      },
+      {
+        "id": "ba5d838f-9c2c-4dfc-9934-487f7020370f",
+        "index": 3,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{1} \\int_{\\sqrt{2-r^{2}}}^{r} r d z d r d \\theta$",
+        "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "a364f07a-71a7-4aae-a0a3-fada9c2c8ba8",
+        "index": 4,
+        "body": "$\\int_{0}^{2 \\pi} \\int_{0}^{\\sqrt{2}} \\int_{0}^{r} r d z d r d \\theta$",
+        "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "530659780",
+    "timeSpentVideo": "80232064",
+    "submissions": 3348,
+    "submissionsCorrect": 1911,
+    "accuracy": 0.5707885304659498,
+    "difficulty": 0.6812645011600929
+  },
+  "resources": [],
+  "exam": {
+    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "number": 2,
+    "year": 2016,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": false,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4604005568",
+      "timeSpentVideo": "918117591",
+      "submissions": 21930,
+      "submissionsCorrect": 11494,
+      "questions": 12,
+      "accuracy": 0.5241222070223438,
+      "difficulty": 0.7259872900590104
+    }
+  },
+  "explanation": {
+    "id": "1c558587-5c36-4df6-a714-5fbc2ac17e87",
+    "body": "",
+    "questionId": "82ee2cc7-370e-45e9-9ed7-505876d2a353",
+    "resources": [
+      {
+        "id": "941ae497-1fdf-4da7-9024-bf3814cce377",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=1056"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1c558587-5c36-4df6-a714-5fbc2ac17e87",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    },
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

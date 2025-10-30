@@ -1,0 +1,143 @@
+{
+  "id": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find an equation of the tangent plane to the paraboloid \\[\nz=1-\\frac{1}{10}\\left(x^{2}+4 y^{2}\\right),\n\\]\nat the point $(1,1,1 / 2)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "431f6c9f-d6c3-49df-a883-e4f78718c002",
+        "index": 0,
+        "body": "$\\frac{4}{5} x+\\frac{1}{5} y+z=\\frac{2}{3}$",
+        "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "5065261d-b65f-41b4-8c5a-783b4f3ac8ef",
+        "index": 1,
+        "body": "$\\frac{1}{5} x+\\frac{4}{5} y+z=\\frac{3}{2}$",
+        "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+        "stats": {
+          "count": 4401
+        },
+        "resources": []
+      },
+      {
+        "id": "bde52d3c-1f09-4b78-8614-e103cbea0a71",
+        "index": 2,
+        "body": "$\\frac{4}{5} x+\\frac{4}{5} y+z=\\frac{2}{3}$",
+        "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "8c7e1135-4448-448c-89c7-72bda550e120",
+        "index": 3,
+        "body": "$\\frac{4}{5} x+\\frac{1}{5} y+z=\\frac{3}{2}$",
+        "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+        "stats": {
+          "count": 190
+        },
+        "resources": []
+      },
+      {
+        "id": "5fdbc78e-f4cb-48c3-a9b3-3b80c38e1bc9",
+        "index": 4,
+        "body": "$\\frac{1}{5} x+\\frac{1}{5} y+z=\\frac{2}{3}$",
+        "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+        "stats": {
+          "count": 1000
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1452244786",
+    "timeSpentVideo": "293448231",
+    "submissions": 6926,
+    "submissionsCorrect": 4401,
+    "accuracy": 0.6354317066127635,
+    "difficulty": 0.6164958724736692
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "82ab03af-1937-4ccf-92a6-2cd1fd663bca",
+    "body": "",
+    "questionId": "91c2b3ff-5335-492f-93f1-28902e13c80f",
+    "resources": [
+      {
+        "id": "5903f197-3b9e-4470-b7ef-780c23397e1b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=9ogAuS4lmHREvucF&t=4"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "82ab03af-1937-4ccf-92a6-2cd1fd663bca",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28626287773",
+        "timeSpentVideo": "2457957445",
+        "submissions": 63369,
+        "submissionsCorrect": 35272,
+        "questions": 15,
+        "accuracy": 0.5566128548659439,
+        "difficulty": 0.6934763427815154
+      }
+    }
+  ],
+  "children": []
+}

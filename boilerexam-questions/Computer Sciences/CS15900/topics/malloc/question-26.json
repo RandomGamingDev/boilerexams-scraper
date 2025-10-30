@@ -1,0 +1,133 @@
+{
+  "id": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding dynamic memory allocation is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "81915622-c998-4986-9a2a-0c6cf8820111",
+        "index": 0,
+        "body": "The result of the <font style=\"font-family:'Courier New'\">malloc</font> function is assigned to an array variable.",
+        "questionId": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+        "stats": {
+          "count": 228
+        },
+        "resources": []
+      },
+      {
+        "id": "91c0a9da-949f-4404-8129-858a3c581707",
+        "index": 1,
+        "body": "The value passed to the <font style=\"font-family:'Courier New'\">malloc</font> function is the product of the number of elements to store and the amount of memory required to store a value of the given data type.",
+        "questionId": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+        "stats": {
+          "count": 1828
+        },
+        "resources": []
+      },
+      {
+        "id": "a286a2ad-bfe3-44f2-ac8d-c12b780fb7f0",
+        "index": 2,
+        "body": "The memory allocated as a result of the <font style=\"font-family:'Courier New'\">malloc</font> function is initialized to a default value based on the data type specified.",
+        "questionId": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "b4574306-12d8-40e4-89c6-c9cdf9e2fc84",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 26,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "196871169",
+    "timeSpentVideo": "0",
+    "submissions": 2297,
+    "submissionsCorrect": 1828,
+    "accuracy": 0.7958206356116674,
+    "difficulty": 0.4665206508135169
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "77f36a42-36c8-45af-a704-7c967c38af62",
+    "body": "",
+    "questionId": "78ea996f-1a1f-4d29-9dfe-eb03c79a71dc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "5adb74b4-ae3b-4ed2-8f37-0e66864b4542",
+      "name": "malloc",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8077606801",
+        "timeSpentVideo": "0",
+        "submissions": 19034,
+        "submissionsCorrect": 12936,
+        "questions": 6,
+        "accuracy": 0.6796259325417674,
+        "difficulty": 0.5713128462422912
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

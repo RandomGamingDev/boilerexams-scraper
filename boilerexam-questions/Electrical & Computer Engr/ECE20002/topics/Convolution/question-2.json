@@ -1,0 +1,173 @@
+{
+  "id": "55d85127-78bc-45f4-a721-de953a0a64cb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given: $f(t)=t u(t-1)$ and $g(t)=\\delta(t-1)$. Compute $f(t) * g(t)$ at $\\mathrm{t}=2.5$. Hint: $f(t) *g(t)=\\int_{-\\infty}^{\\infty} f(\\tau) g(t-\\tau) d \\tau$\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "16a84231-1451-49ef-95bc-7b71935bf497",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "3a647f5e-ef4a-4aba-aecd-e8ebc7906a69",
+        "index": 1,
+        "body": "$0.5$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "f8301a77-e5b3-433a-b557-127730ba805c",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "75ced6a2-d53d-4178-b57d-2830c4ca1eac",
+        "index": 3,
+        "body": "$1.5$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 402
+        },
+        "resources": []
+      },
+      {
+        "id": "8d1bcbf7-32bf-4462-9686-e65ecdce8d61",
+        "index": 4,
+        "body": "$2.0$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "b4582498-9d7b-40cf-82c5-ed4aa00d6214",
+        "index": 5,
+        "body": "$2.5$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "60318f81-b31f-4580-ade6-cae384069210",
+        "index": 6,
+        "body": "$3.0$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "79010cb6-a45c-4a6c-a728-43f24b7ef0c2",
+        "index": 7,
+        "body": "$3.5$",
+        "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "151819587",
+    "timeSpentVideo": "81153435",
+    "submissions": 760,
+    "submissionsCorrect": 402,
+    "accuracy": 0.5289473684210526,
+    "difficulty": 0.7244186046511628
+  },
+  "resources": [],
+  "exam": {
+    "id": "e5b090f7-9c83-4e83-b0c3-2a78b1e42172",
+    "number": 2,
+    "year": 2021,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1417307157",
+      "timeSpentVideo": "475901887",
+      "submissions": 5774,
+      "submissionsCorrect": 2680,
+      "questions": 9,
+      "accuracy": 0.46414963630065814,
+      "difficulty": 0.7852400408580185
+    }
+  },
+  "explanation": {
+    "id": "87f92ca2-b450-43df-bd08-0b5e581fe722",
+    "body": "",
+    "questionId": "55d85127-78bc-45f4-a721-de953a0a64cb",
+    "resources": [
+      {
+        "id": "3a6ac45e-3f73-4270-a76e-bf7fd0cf276b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=N6_BlT5YIsY&t=807"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "87f92ca2-b450-43df-bd08-0b5e581fe722",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6369bae1-2840-445e-bf7b-1415661ca24d",
+      "name": "Convolution",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2428564325",
+        "timeSpentVideo": "328872390",
+        "submissions": 3720,
+        "submissionsCorrect": 1766,
+        "questions": 5,
+        "accuracy": 0.4747311827956989,
+        "difficulty": 0.7746073298429319
+      }
+    }
+  ],
+  "children": []
+}

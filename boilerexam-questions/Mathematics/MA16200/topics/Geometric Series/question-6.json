@@ -1,0 +1,143 @@
+{
+  "id": "62f24c53-4469-4566-a031-c43d92e90e28",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute:\n\n\n\\[\n\\sum_{k=1}^{\\infty} \\frac{(-e)^{k+1}}{5^{k}}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "2f384f01-e6a0-4142-8229-9bd180be4717",
+        "index": 0,
+        "body": "$\\frac{5 e}{5+e}$",
+        "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+        "stats": {
+          "count": 435
+        },
+        "resources": []
+      },
+      {
+        "id": "e7568d34-c6c7-46b8-8b68-48d5bffbbb42",
+        "index": 1,
+        "body": "$\\frac{e}{5+e}$",
+        "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+        "stats": {
+          "count": 437
+        },
+        "resources": []
+      },
+      {
+        "id": "046b0e37-4ea4-48fc-982b-00b852296b1d",
+        "index": 2,
+        "body": "$\\frac{5}{5+e}$",
+        "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+        "stats": {
+          "count": 180
+        },
+        "resources": []
+      },
+      {
+        "id": "d0783cfc-a96f-4b26-a6cc-57c865db677e",
+        "index": 3,
+        "body": "Series diverges",
+        "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+        "stats": {
+          "count": 301
+        },
+        "resources": []
+      },
+      {
+        "id": "138d4432-298c-43e0-b4e2-6a8534335de5",
+        "index": 4,
+        "body": "$\\frac{e^{2}}{5+e}$",
+        "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+        "stats": {
+          "count": 2492
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "665411780",
+    "timeSpentVideo": "251480968",
+    "submissions": 4687,
+    "submissionsCorrect": 2492,
+    "accuracy": 0.5316833795604865,
+    "difficulty": 0.7189784833925215
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6556367332",
+      "timeSpentVideo": "2209159979",
+      "submissions": 49436,
+      "submissionsCorrect": 29079,
+      "questions": 12,
+      "accuracy": 0.5882150659438465,
+      "difficulty": 0.6619630167958657
+    }
+  },
+  "explanation": {
+    "id": "9d3d0971-c781-45b6-8ace-110cbaf6defb",
+    "body": "",
+    "questionId": "62f24c53-4469-4566-a031-c43d92e90e28",
+    "resources": [
+      {
+        "id": "9228978f-7847-4528-9a52-c4ef118d305d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=706\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9d3d0971-c781-45b6-8ace-110cbaf6defb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a93e7389-7bb3-4543-b45a-7e1834686c14",
+      "name": "Geometric Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6973365563",
+        "timeSpentVideo": "1429119988",
+        "submissions": 24116,
+        "submissionsCorrect": 12896,
+        "questions": 7,
+        "accuracy": 0.5347487145463593,
+        "difficulty": 0.7153947803105385
+      }
+    }
+  ],
+  "children": []
+}

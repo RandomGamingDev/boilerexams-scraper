@@ -1,0 +1,143 @@
+{
+  "id": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements(s) is/are $\\mathbf{TRUE}$?\n\n(I) The Existence and Uniqueness Theorem for the first order linear differential equations guarantees that the solution to the initial value problem $\\left\\{\\begin{array}{l}(x+1) y^{\\prime}=\\left(\\frac{\\sin x}{x-2}\\right)y+\\cos x \\\\ y(1)=3\\end{array}\\right.$ will exist in the interval $-2<x<2$.\n\n(II) $y=\\sqrt{x}$ is a solution to $y \\frac{d y}{d x}=\\frac{1}{2}$.\n\n(III) $\\frac{d y}{d t}+3 y=t^{2} y^{2}$ is a Bernoulli differential equation.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d30fef56-5651-422c-9fa9-5c480dd1b068",
+        "index": 0,
+        "body": "Only (I) and (II) are true",
+        "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "8a2c4442-92d0-46f4-a0de-2b59e9c51e21",
+        "index": 1,
+        "body": "Only (II) and (III) are true",
+        "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+        "stats": {
+          "count": 515
+        },
+        "resources": []
+      },
+      {
+        "id": "1777d474-f2dd-4427-87a4-c9de46c1f9bf",
+        "index": 2,
+        "body": "Only (II)",
+        "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "037a0ff9-e309-4a32-883c-abba73c54ed0",
+        "index": 3,
+        "body": "Only (I) and (III) are true",
+        "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "32059b5b-1b35-41fe-ae7d-4d9da43886c9",
+        "index": 4,
+        "body": "(I), (II) and (III) are true",
+        "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+        "stats": {
+          "count": 153
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "178782848",
+    "timeSpentVideo": "3074939",
+    "submissions": 855,
+    "submissionsCorrect": 515,
+    "accuracy": 0.6023391812865497,
+    "difficulty": 0.6583769633507853
+  },
+  "resources": [],
+  "exam": {
+    "id": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3246944450",
+      "timeSpentVideo": "49477275",
+      "submissions": 10827,
+      "submissionsCorrect": 7462,
+      "questions": 11,
+      "accuracy": 0.6892029186293526,
+      "difficulty": 0.5625285988834996
+    }
+  },
+  "explanation": {
+    "id": "9a071dda-6f4b-498e-a998-4df4a7a0a51f",
+    "body": "",
+    "questionId": "e65bf934-0094-4c42-98d3-cde7bdd2468f",
+    "resources": [
+      {
+        "id": "39f35084-7c76-4f41-b662-09fe2b259d0f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aYp9DzrIgVc?si=UNqdHgQeMz2D2fNO&t=1356"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9a071dda-6f4b-498e-a998-4df4a7a0a51f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e98c0082-99ea-4f58-9381-ecbf89fd0937",
+      "name": "Existance and Uniqueness",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1484729983",
+        "timeSpentVideo": "121939776",
+        "submissions": 4064,
+        "submissionsCorrect": 1917,
+        "questions": 6,
+        "accuracy": 0.4717027559055118,
+        "difficulty": 0.7776176753121998
+      }
+    }
+  ],
+  "children": []
+}

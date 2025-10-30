@@ -1,0 +1,190 @@
+{
+  "id": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the circuit below, find $V_c(s)$ in s-domain. Assume the capacitor initial voltage $v_c(0) = 5V$. [Note] Do not perform partial fraction.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "64e6d95b-5aac-4140-9d6e-009b3ad5440c",
+        "index": 0,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "1fa31a27-0f58-48c0-8a02-e28a84749c60",
+        "index": 1,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)-\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s}\\right)$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "029b8c1e-176d-4d6b-9694-d32b9b100fb7",
+        "index": 2,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)+\\frac{5}{s}$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "a133ee91-f062-4183-9f10-35db6d7f2eb9",
+        "index": 3,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)-\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s}\\right)+\\frac{5}{s}$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "91debdd3-f0ec-4817-8023-b44c8f68e8f7",
+        "index": 4,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{1}{s+2}\\right)$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "852bc594-e2ab-4802-951a-83e59477e954",
+        "index": 5,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)-\\left(\\frac{1}{s+1}\\right)5$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "a56b35df-0e48-4c3c-8280-109bee71c2ca",
+        "index": 6,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)+5$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "be368ee3-3659-4591-a3c4-34e5b12cc060",
+        "index": 7,
+        "body": "$V_{c}\\left(s\\right)=\\left(\\frac{1}{s+1}\\right)\\left(\\frac{5}{s+2}\\right)-\\left(\\frac{1}{s+1}\\right)5+5$",
+        "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "e930c623-20eb-45c1-873f-2fea85a299ba",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "212783978",
+    "timeSpentVideo": "60108973",
+    "submissions": 692,
+    "submissionsCorrect": 270,
+    "accuracy": 0.3901734104046243,
+    "difficulty": 0.845959595959596
+  },
+  "resources": [
+    {
+      "id": "58129a8e-5d69-4426-b816-c87eeef40318",
+      "type": "IMAGE",
+      "data": {
+        "key": "WJ3nt7Nc8-4nsW0wag_Z1",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/WJ3nt7Nc8-4nsW0wag_Z1",
+        "altText": "image"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e930c623-20eb-45c1-873f-2fea85a299ba",
+    "number": 3,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1348402651",
+      "timeSpentVideo": "369078498",
+      "submissions": 5132,
+      "submissionsCorrect": 2748,
+      "questions": 10,
+      "accuracy": 0.5354637568199533,
+      "difficulty": 0.7152140672782875
+    }
+  },
+  "explanation": {
+    "id": "d0936652-c40f-4ee4-8e81-e78d6b405a4d",
+    "body": "",
+    "questionId": "3b550025-8efa-48ab-b1ff-4b16785c4a31",
+    "resources": [
+      {
+        "id": "084bf890-8c1e-474e-83e9-163c5918ed1f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eXKch-3eGR8&t=385s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d0936652-c40f-4ee4-8e81-e78d6b405a4d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fe2bb3ee-e5e4-428d-b866-c03ffc7d5af3",
+      "name": "Laplace Initial Conditions",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "620743840",
+        "timeSpentVideo": "68379930",
+        "submissions": 692,
+        "submissionsCorrect": 270,
+        "questions": 1,
+        "accuracy": 0.3901734104046243,
+        "difficulty": 0.845959595959596
+      }
+    }
+  ],
+  "children": []
+}

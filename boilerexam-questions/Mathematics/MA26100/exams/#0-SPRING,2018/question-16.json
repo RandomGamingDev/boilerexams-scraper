@@ -1,0 +1,158 @@
+{
+  "id": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the surface area of the parametric surface $\\overrightarrow{\\mathbf{r}}(u, v)=(u+v) \\overrightarrow{\\mathbf{i}}+v \\overrightarrow{\\mathbf{j}}+u \\overrightarrow{\\mathbf{k}}$ with $(u, v)$ in $[0, \\pi] \\times[0, \\sqrt{3}]$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "39594491-99bf-4055-a876-797a7e96b47c",
+        "index": 0,
+        "body": "$4 \\pi$",
+        "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "8ede2b1a-a9b9-43f8-b0c6-365685e80026",
+        "index": 1,
+        "body": "$2 \\pi$",
+        "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "43ad34b6-7141-41c1-b8cd-1958832516cb",
+        "index": 2,
+        "body": "$2 \\pi \\sqrt{3}$",
+        "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "f55527b2-4f70-4aa1-874b-1fe2910ad053",
+        "index": 3,
+        "body": "$\\pi \\sqrt{3}$",
+        "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "d0fe2e66-afe3-46fb-9536-527556659297",
+        "index": 4,
+        "body": "$3 \\pi$",
+        "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+        "stats": {
+          "count": 2230
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "604301831",
+    "timeSpentVideo": "126450425",
+    "submissions": 3566,
+    "submissionsCorrect": 2230,
+    "accuracy": 0.625350532809871,
+    "difficulty": 0.6280687397708674
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "ffca2543-4bb0-48f4-9cc3-d653da708eeb",
+    "body": "",
+    "questionId": "3c26c4b8-8531-49da-ab17-9eb4e0dda1d4",
+    "resources": [
+      {
+        "id": "16cb4d88-9863-4a02-afee-4a6fbd41eb76",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=lr0oIKeqenNbE_kR&t=2365\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ffca2543-4bb0-48f4-9cc3-d653da708eeb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "23d62d20-7d47-423e-9d59-d4ad3f2b0aa7",
+      "name": "Surface Area Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8833138800",
+        "timeSpentVideo": "1393283254",
+        "submissions": 23967,
+        "submissionsCorrect": 13781,
+        "questions": 8,
+        "accuracy": 0.5749989568990695,
+        "difficulty": 0.6753126687996012
+      }
+    },
+    {
+      "id": "97ffbc5d-0b8f-4f1e-9ea8-2b8d08bc5dfe",
+      "name": "Parametric Surfaces",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5741546073",
+        "timeSpentVideo": "672689639",
+        "submissions": 14261,
+        "submissionsCorrect": 8523,
+        "questions": 4,
+        "accuracy": 0.5976439239885001,
+        "difficulty": 0.6530360002785321
+      }
+    }
+  ],
+  "children": []
+}

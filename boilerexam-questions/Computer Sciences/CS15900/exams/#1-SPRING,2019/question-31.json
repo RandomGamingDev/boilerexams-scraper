@@ -1,0 +1,118 @@
+{
+  "id": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following correctly describes when an identifier of a variable can be reused in a program\nwith regard to course standards?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c3967a53-32ca-4d0d-b958-82ea742f990e",
+        "index": 0,
+        "body": "Variables with scope that does not overlap can use the same identifier name while remaining two distinct variables.",
+        "questionId": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+        "stats": {
+          "count": 3089
+        },
+        "resources": []
+      },
+      {
+        "id": "274c8dc5-2ae3-4491-9550-e77a3637d226",
+        "index": 1,
+        "body": "Two variables in the same function can use the same identifier name if they have been declared to be of different data types.",
+        "questionId": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "c1aee0c6-56da-4b5f-8d0d-dd6efab3b4fc",
+        "index": 2,
+        "body": "A local variable and a global variable can use the same identifier name as they have been declared in two different locations of the program.",
+        "questionId": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+        "stats": {
+          "count": 311
+        },
+        "resources": []
+      },
+      {
+        "id": "c8d48108-d20a-4da3-933c-e48e67337551",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+        "stats": {
+          "count": 420
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 31,
+  "disclaimer": "",
+  "examId": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "370763556",
+    "timeSpentVideo": "0",
+    "submissions": 3919,
+    "submissionsCorrect": 3089,
+    "accuracy": 0.7882112783873437,
+    "difficulty": 0.4689599402836526
+  },
+  "resources": [],
+  "exam": {
+    "id": "d60bfb03-61f1-42d5-8e65-50357d35c56c",
+    "number": 1,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12821721946",
+      "timeSpentVideo": "0",
+      "submissions": 122148,
+      "submissionsCorrect": 81033,
+      "questions": 34,
+      "accuracy": 0.6634001375380686,
+      "difficulty": 0.5867335252928473
+    }
+  },
+  "explanation": {
+    "id": "e3d13484-da96-4f1f-91d1-220f449d0808",
+    "body": "",
+    "questionId": "5c5e305c-4492-45fc-a776-dfe5139020fd",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

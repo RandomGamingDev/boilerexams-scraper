@@ -1,0 +1,143 @@
+{
+  "id": "45aef305-4578-4621-99bc-447e7a8496aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be an open surface in $\\mathbb{R}^{3}$ with boundary curve $C$ where $C$ is a circle in the $x y$-plane with radius $1$ and center $(0,0,0)$ and is oriented counterclockwise when viewed from above. Evaluate $\\displaystyle \\int_{C} \\vec{F} \\cdot d \\vec{r}$ where $\\vec{F}(x, y, z)$ is such that $\\operatorname{curl}(\\vec{F})=\\left\\langle\\frac{1}{2},-\\frac{3}{2}, \\frac{1}{4}\\right\\rangle$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1e4009eb-a79f-4a16-9722-3e3d6a7afe7e",
+        "index": 0,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+        "stats": {
+          "count": 3291
+        },
+        "resources": []
+      },
+      {
+        "id": "a21f5991-5f16-4a28-af81-67cbeada3f8c",
+        "index": 1,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+        "stats": {
+          "count": 542
+        },
+        "resources": []
+      },
+      {
+        "id": "0875ca2a-1cdc-40d8-9058-8bc699098255",
+        "index": 2,
+        "body": "$\\pi$",
+        "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "aacedfd7-9475-41e2-b787-1771450f88ca",
+        "index": 3,
+        "body": "$-\\frac{3 \\pi}{2}$",
+        "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+        "stats": {
+          "count": 283
+        },
+        "resources": []
+      },
+      {
+        "id": "94f2e755-d3ac-49e2-bf5e-7854f12d17a4",
+        "index": 4,
+        "body": "$2 \\pi$",
+        "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+        "stats": {
+          "count": 175
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1801595391",
+    "timeSpentVideo": "496671997",
+    "submissions": 7256,
+    "submissionsCorrect": 3291,
+    "accuracy": 0.45355567805953695,
+    "difficulty": 0.7958129418162044
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "9875eea2-f3c5-4918-9293-b287d0ebb048",
+    "body": "",
+    "questionId": "45aef305-4578-4621-99bc-447e7a8496aa",
+    "resources": [
+      {
+        "id": "d9d1ad93-2c19-44fe-8b38-20b0ba60f77b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=2650"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9875eea2-f3c5-4918-9293-b287d0ebb048",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18541413657",
+        "timeSpentVideo": "1965130455",
+        "submissions": 30673,
+        "submissionsCorrect": 12770,
+        "questions": 6,
+        "accuracy": 0.4163270628891859,
+        "difficulty": 0.8334010333734118
+      }
+    }
+  ],
+  "children": []
+}

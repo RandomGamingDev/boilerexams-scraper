@@ -1,0 +1,133 @@
+{
+  "id": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding user-defined functions is FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9d8fd56e-d1e5-4e74-b5c1-f5b8700fc58d",
+        "index": 0,
+        "body": "A called function may <font style=\"font-family:'Courier New'\">return</font> at most one value to the <font style=\"font-family:'Courier New'\">main</font> function per call.",
+        "questionId": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+        "stats": {
+          "count": 352
+        },
+        "resources": []
+      },
+      {
+        "id": "2b31c020-b549-447d-ad1a-1e97bfc8656c",
+        "index": 1,
+        "body": "The control of the program always returns from the called function to the <font style=\"font-family:'Courier New'\">main</font> function.",
+        "questionId": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+        "stats": {
+          "count": 3987
+        },
+        "resources": []
+      },
+      {
+        "id": "9108782a-547b-40fb-8464-c9f1265e14bf",
+        "index": 2,
+        "body": "Data sent from the <font style=\"font-family:'Courier New'\">main</font> function to the function being called will be received in the same order in which it was passed.",
+        "questionId": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "8cdbed7c-cd97-43cc-9b98-00c0f9ea6074",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+        "stats": {
+          "count": 493
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "1467f10c-a34d-4c9b-8223-bf3e59ada38f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "396593490",
+    "timeSpentVideo": "22435599",
+    "submissions": 5020,
+    "submissionsCorrect": 3987,
+    "accuracy": 0.7942231075697211,
+    "difficulty": 0.4615234375
+  },
+  "resources": [],
+  "exam": {
+    "id": "1467f10c-a34d-4c9b-8223-bf3e59ada38f",
+    "number": 1,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11749970061",
+      "timeSpentVideo": "677193487",
+      "submissions": 113029,
+      "submissionsCorrect": 77484,
+      "questions": 25,
+      "accuracy": 0.6855231843155296,
+      "difficulty": 0.5646408082808122
+    }
+  },
+  "explanation": {
+    "id": "a6ee182c-5e23-4a9b-9892-c7190fcf4c41",
+    "body": "",
+    "questionId": "41a151de-acc2-4d2c-92b6-439ce6ce44ee",
+    "resources": [
+      {
+        "id": "9da52e62-35aa-4bba-8c8c-32500e2d5b38",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/glAA5XBQpgE?t=4066"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a6ee182c-5e23-4a9b-9892-c7190fcf4c41",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

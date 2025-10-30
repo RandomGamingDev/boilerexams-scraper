@@ -1,0 +1,158 @@
+{
+  "id": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find Proj$_{\\vec{v}}\\vec{u}$ (the orthogonal projection of $\\vec{u}$ onto $\\vec{v}$), where $\\vec{u} = \\langle 2, 1, 1 \\rangle$ and $\\vec{v} = \\langle 3, 0, 4 \\rangle$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "6f815429-6338-4ddd-929d-feacce736c45",
+        "index": 0,
+        "body": "$2\\vec{u}$",
+        "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "8e259e85-8d06-410d-9323-a02a88a5bd7b",
+        "index": 1,
+        "body": "$2\\vec{v}$",
+        "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "01cf357e-c625-4441-b58a-7b843138a192",
+        "index": 2,
+        "body": "$\\frac{1}{25}\\vec{v}$",
+        "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "07d92b83-1ec6-4f09-8577-364be0db147d",
+        "index": 3,
+        "body": "$\\frac{2}{5}\\vec{u}$",
+        "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "34810990-5904-455e-9591-ace51a4edda0",
+        "index": 4,
+        "body": "$\\frac{2}{5}\\vec{v}$",
+        "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "21768247",
+    "timeSpentVideo": "1150135",
+    "submissions": 70,
+    "submissionsCorrect": 45,
+    "accuracy": 0.6428571428571429,
+    "difficulty": 0.6911764705882353
+  },
+  "resources": [],
+  "exam": {
+    "id": "bcb3884d-eac5-465f-8351-51a01af2b70c",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "172622659",
+      "timeSpentVideo": "15425885",
+      "submissions": 780,
+      "submissionsCorrect": 456,
+      "questions": 12,
+      "accuracy": 0.5846153846153846,
+      "difficulty": 0.675
+    }
+  },
+  "explanation": {
+    "id": "f79ba738-ea71-48d0-9ee8-78db7a806b80",
+    "body": null,
+    "questionId": "9ed12c21-7338-4c50-b10b-9b3e0dde346f",
+    "resources": [
+      {
+        "id": "91e9c0e4-ea3c-4271-a80e-25bbac85f049",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/mOcl8_sNs7M?si=I19szpaa0nAkC-qj&t=628"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f79ba738-ea71-48d0-9ee8-78db7a806b80",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "76f22a88-44c7-44d4-863c-e3464539805c",
+      "name": "Orthogonal Projection",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "156913771",
+        "timeSpentVideo": "1641186",
+        "submissions": 115,
+        "submissionsCorrect": 74,
+        "questions": 2,
+        "accuracy": 0.6434782608695652,
+        "difficulty": 0.6732558139534883
+      }
+    },
+    {
+      "id": "8c85d8e3-db65-4216-9463-a4d4a7f3f7be",
+      "name": "Dot Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "216004070",
+        "timeSpentVideo": "7037827",
+        "submissions": 225,
+        "submissionsCorrect": 124,
+        "questions": 3,
+        "accuracy": 0.5511111111111111,
+        "difficulty": 0.7146153846153847
+      }
+    }
+  ],
+  "children": []
+}

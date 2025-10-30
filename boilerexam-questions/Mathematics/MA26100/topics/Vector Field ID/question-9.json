@@ -1,0 +1,143 @@
+{
+  "id": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is a radial field?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "530f5707-5a1b-45bb-8b16-eed5494e856c",
+        "index": 0,
+        "body": "$\\frac{1}{\\left(x^{2}+y^{2}\\right)^{4}}\\langle x, y\\rangle$",
+        "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+        "stats": {
+          "count": 2703
+        },
+        "resources": []
+      },
+      {
+        "id": "a457d881-0897-489c-b4f2-81bca51553d3",
+        "index": 1,
+        "body": "$\\frac{1}{\\left(x^{2}+y^{2}\\right)}\\langle y, x\\rangle$",
+        "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+        "stats": {
+          "count": 642
+        },
+        "resources": []
+      },
+      {
+        "id": "9cd5059c-8fca-4c76-9c6a-a8079f90315c",
+        "index": 2,
+        "body": "$\\frac{1}{x^{3 / 2}+y^{3 / 2}}\\langle y, x\\rangle$",
+        "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+        "stats": {
+          "count": 364
+        },
+        "resources": []
+      },
+      {
+        "id": "ffc551b6-3267-4aa8-ab18-f01550eaaaa5",
+        "index": 3,
+        "body": "$\\left\\langle x^{2}, y^{2}\\right\\rangle$",
+        "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+        "stats": {
+          "count": 609
+        },
+        "resources": []
+      },
+      {
+        "id": "4d533be6-a865-436f-945e-85958a22cace",
+        "index": 4,
+        "body": "$\\left\\langle x^{2}, x y^{2}\\right\\rangle$",
+        "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "484916966",
+    "timeSpentVideo": "288164722",
+    "submissions": 5479,
+    "submissionsCorrect": 2703,
+    "accuracy": 0.49333820040153314,
+    "difficulty": 0.7565423911095178
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "7ab376b4-5f90-4bca-a384-32d3b9cc6aa7",
+    "body": "",
+    "questionId": "07fba473-01ec-42fe-b5a8-d1fe69bcad33",
+    "resources": [
+      {
+        "id": "9c58c6f6-bf4a-4911-9789-7deb3d1129de",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=1008"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7ab376b4-5f90-4bca-a384-32d3b9cc6aa7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3149d763-2051-4f8c-b066-bad3c123ee91",
+      "name": "Vector Field ID",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3064635099",
+        "timeSpentVideo": "550999156",
+        "submissions": 12603,
+        "submissionsCorrect": 7111,
+        "questions": 3,
+        "accuracy": 0.5642307387130049,
+        "difficulty": 0.6862748956939305
+      }
+    }
+  ],
+  "children": []
+}

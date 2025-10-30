@@ -1,0 +1,173 @@
+{
+  "id": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We have the following 4 points A, B, C, D in the 3-space:\n\n$\n\\left\\{\n\\begin{aligned}\nA &= (1,-2,3)\\\\\nB &= (4,-1,3)\\\\\nC &= (5,-2,4)\\\\ \nD &= (6,-3,5)\\\\\n\\end{aligned}\n\\right.\n$\n\nSet\n$\n\\left\\{\n\\begin{aligned}\n\\vec{u} &= \\overrightarrow{AB}\\\\\n\\vec{v} &= \\overrightarrow{AC}\\\\\n\\vec{w} &= \\overrightarrow{AD}\\\\\n\\end{aligned}\n\\right.\n$\n\nChoose the correct statement from below:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "fd4f1c79-2e2d-42ac-89e5-3e5417ad1792",
+        "index": 0,
+        "body": "$|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})| = 6$ and hence 4 points A, B, C, D are NOT coplanar. ",
+        "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "d56bd00e-80c6-4a44-a586-074eeb78e7ef",
+        "index": 1,
+        "body": "$|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})| = -6$ and hence 4 points A, B, C, D are NOT coplanar. ",
+        "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "87dfdb6b-e9a5-44c6-bb4f-f317b23481d7",
+        "index": 2,
+        "body": "$|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})| = 3$ and hence 4 points A, B, C, D are NOT coplanar. ",
+        "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "3d9512a2-4380-494c-a46f-1b2c99130e0c",
+        "index": 3,
+        "body": "$|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})| = 0$ and hence 4 points A, B, C, D are coplanar. ",
+        "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "06df1c02-1bb6-4185-8250-3d0aec532b79",
+        "index": 4,
+        "body": "$|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})| = 0$ and hence 4 points A, B, C, D are NOT coplanar. ",
+        "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "18353828",
+    "timeSpentVideo": "1450385",
+    "submissions": 59,
+    "submissionsCorrect": 31,
+    "accuracy": 0.5254237288135594,
+    "difficulty": 0.7405660377358491
+  },
+  "resources": [],
+  "exam": {
+    "id": "7835ff7e-b719-4f62-9a60-bd0f69a00fca",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "111036178",
+      "timeSpentVideo": "11654367",
+      "submissions": 538,
+      "submissionsCorrect": 268,
+      "questions": 12,
+      "accuracy": 0.49814126394052044,
+      "difficulty": 0.7515673981191222
+    }
+  },
+  "explanation": {
+    "id": "7fab120d-62e1-46d3-8164-1af5d0a4f009",
+    "body": null,
+    "questionId": "fe99c314-6eaf-47cc-bef5-dae8bb56685a",
+    "resources": [
+      {
+        "id": "8987f76b-d84d-4025-b3e2-c681ceb4ca68",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/gSruJicW5zg?si=Szu0Z1-6KZm2lPJn&t=1687"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7fab120d-62e1-46d3-8164-1af5d0a4f009",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8c85d8e3-db65-4216-9463-a4d4a7f3f7be",
+      "name": "Dot Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "216004070",
+        "timeSpentVideo": "7037827",
+        "submissions": 225,
+        "submissionsCorrect": 124,
+        "questions": 3,
+        "accuracy": 0.5511111111111111,
+        "difficulty": 0.7146153846153847
+      }
+    },
+    {
+      "id": "9454b985-e6f9-4ed5-b5fe-1131708e345b",
+      "name": "Coplanar Vectors",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "50491318",
+        "timeSpentVideo": "1450385",
+        "submissions": 59,
+        "submissionsCorrect": 31,
+        "questions": 1,
+        "accuracy": 0.5254237288135594,
+        "difficulty": 0.7405660377358491
+      }
+    },
+    {
+      "id": "d7d4059a-564d-4770-ad46-1228bc03c37d",
+      "name": "Cross Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "113091805",
+        "timeSpentVideo": "2766445",
+        "submissions": 125,
+        "submissionsCorrect": 76,
+        "questions": 2,
+        "accuracy": 0.608,
+        "difficulty": 0.69
+      }
+    }
+  ],
+  "children": []
+}

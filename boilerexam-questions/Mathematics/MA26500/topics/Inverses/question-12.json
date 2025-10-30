@@ -1,0 +1,158 @@
+{
+  "id": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ and $B$ be $4 \\times 4$ matrices such that\n\n\n\\[\nA=\\left[\\begin{array}{cccc}\n2 & 5 & 0 & 4 \\\\\n3 & 8 & 11 & 5 \\\\\n4 & 6 & 3 & 8 \\\\\n2 & 9 & 0 & 4\n\\end{array}\\right]\n\\]\n\nand $\\operatorname{det}(B)=6$. What is $\\operatorname{det}\\left(A B^{-1}\\right)$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ea3f8764-036d-4e1b-b0a9-2c622f1854da",
+        "index": 0,
+        "body": "$-24$",
+        "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      },
+      {
+        "id": "ed882556-fa8a-41d9-856c-594e31a74a42",
+        "index": 1,
+        "body": "$4$",
+        "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+        "stats": {
+          "count": 677
+        },
+        "resources": []
+      },
+      {
+        "id": "aa3924db-0b0e-46bc-98d8-ed934f786a40",
+        "index": 2,
+        "body": "$24$",
+        "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+        "stats": {
+          "count": 162
+        },
+        "resources": []
+      },
+      {
+        "id": "352a1dfc-db33-47fb-afcc-8c9821cb7ff1",
+        "index": 3,
+        "body": "$-4$",
+        "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+        "stats": {
+          "count": 131
+        },
+        "resources": []
+      },
+      {
+        "id": "e661b183-ab67-4c08-9166-012614a54440",
+        "index": 4,
+        "body": "$144$",
+        "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "381007441",
+    "timeSpentVideo": "88508560",
+    "submissions": 1722,
+    "submissionsCorrect": 677,
+    "accuracy": 0.39314750290360045,
+    "difficulty": 0.8509879253567508
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "09346222-5dcb-4754-a80a-d78bcb9b113e",
+    "body": "",
+    "questionId": "0d2aaa49-d468-48db-8eb7-183fcfbe988b",
+    "resources": [
+      {
+        "id": "b7605cf0-49d5-4626-bae8-08cea9b2870e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=2856"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "09346222-5dcb-4754-a80a-d78bcb9b113e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
+      "name": "Determinant",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20928592275",
+        "timeSpentVideo": "2765342971",
+        "submissions": 55602,
+        "submissionsCorrect": 32260,
+        "questions": 19,
+        "accuracy": 0.5801949570159347,
+        "difficulty": 0.6699490143980468
+      }
+    }
+  ],
+  "children": []
+}

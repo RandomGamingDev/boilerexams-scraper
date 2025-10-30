@@ -1,0 +1,153 @@
+{
+  "id": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the following limit numerically \n\\[\\lim _{x\\rightarrow 0} \\frac{e^x-1}{x}\\]\n\\[\\begin{array}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nx  &-0.1 & -0.01 & -0.001 & -0.0001 & 0 &0.0001&0.001&0.01 & 0.1\\\\\n\\hline\nf(x) &&&&&&&\\\\\n\\hline\n\\end{array}\\]\n",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "6666a529-668b-46e1-b6e7-96d761e3ee9b",
+        "index": 0,
+        "body": "-3",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "06d043c4-5ddd-4c77-8c17-111eaa8b42f6",
+        "index": 1,
+        "body": "-1",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "7ea714be-3881-43d7-af58-7e98b864c31a",
+        "index": 2,
+        "body": "3",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "bd4b5395-4430-4035-98b7-d4ded5951b15",
+        "index": 3,
+        "body": "2",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "59c1d4b6-a120-4c23-8d0e-019af3c1acd4",
+        "index": 4,
+        "body": "-2",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "6ad0703d-4384-4e7c-b4c3-7c2dcc2eb56b",
+        "index": 5,
+        "body": "1",
+        "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "81106526",
+    "timeSpentVideo": "13341535",
+    "submissions": 416,
+    "submissionsCorrect": 244,
+    "accuracy": 0.5865384615384616,
+    "difficulty": 0.6802325581395349
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "19cd6441-d547-4e1d-bfee-76e90e7552b2",
+    "body": null,
+    "questionId": "fa06d47f-8d5e-412a-a5f1-96cc0ec29ca4",
+    "resources": [
+      {
+        "id": "1be4cee2-5c12-45f7-ba81-475a43d895d1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=Tjv8kJ_XhjSTaPUJ"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "19cd6441-d547-4e1d-bfee-76e90e7552b2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "558eea1e-3391-489f-8a70-bc037064aa5d",
+      "name": "Limits and Continuity",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "791045936",
+        "timeSpentVideo": "29781570",
+        "submissions": 1379,
+        "submissionsCorrect": 882,
+        "questions": 4,
+        "accuracy": 0.6395939086294417,
+        "difficulty": 0.6198444895199459
+      }
+    }
+  ],
+  "children": []
+}

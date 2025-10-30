@@ -1,0 +1,143 @@
+{
+  "id": "87834f98-879b-4240-901f-ea543099c5bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements is correct?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1a7853d3-c191-4528-9488-09ace0da72aa",
+        "index": 0,
+        "body": "An eigenvector of a matrix may correspond to two distinct eigenvalues of the matrix.",
+        "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+        "stats": {
+          "count": 101
+        },
+        "resources": []
+      },
+      {
+        "id": "bc008e08-bceb-44d0-9f6f-5233eb47b240",
+        "index": 1,
+        "body": "Any $2 \\times 2$ matrix must have two linearly independent eigenvectors.",
+        "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "3be14e1b-99e3-414d-b0a3-b4060f9c7299",
+        "index": 2,
+        "body": "If $\\mathbf{x}$ is an eigenvector of a matrix $A$, then $c \\mathbf{x}$ is also an eigenvector of $A$, where $c$ is any nonzero scalar.",
+        "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+        "stats": {
+          "count": 634
+        },
+        "resources": []
+      },
+      {
+        "id": "1e82eae9-4a4d-4706-ad1c-31cf29bd733b",
+        "index": 3,
+        "body": "Any $2 \\times 2$ matrix can not have complex eigenvalues.",
+        "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "cfd46793-8654-40df-8068-609c9b30d0b0",
+        "index": 4,
+        "body": "If a $2 \\times 2$ matrix $A$ is similar to a diagonal matrix $D$, then $D$ must be unique.",
+        "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105099678",
+    "timeSpentVideo": "25780788",
+    "submissions": 939,
+    "submissionsCorrect": 634,
+    "accuracy": 0.6751863684771033,
+    "difficulty": 0.59167468719923
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "a711db24-3679-4e5f-bb7d-8ed149da62e8",
+    "body": "",
+    "questionId": "87834f98-879b-4240-901f-ea543099c5bc",
+    "resources": [
+      {
+        "id": "0399fde0-fe59-45cd-866d-9fcec582b8f4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=tIGSidyUWabyon6c&t=2156\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a711db24-3679-4e5f-bb7d-8ed149da62e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5e4387fc-2000-4da7-bb38-ec017f8d7870",
+      "name": "Eigenvalues",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2488615864",
+        "timeSpentVideo": "230395100",
+        "submissions": 6150,
+        "submissionsCorrect": 3469,
+        "questions": 9,
+        "accuracy": 0.5640650406504065,
+        "difficulty": 0.68696
+      }
+    }
+  ],
+  "children": []
+}

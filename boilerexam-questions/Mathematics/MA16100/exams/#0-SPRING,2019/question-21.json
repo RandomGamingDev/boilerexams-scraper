@@ -1,0 +1,143 @@
+{
+  "id": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "\\[\n\\int_{1}^{4}\\left(\\frac{3}{x}+\\frac{3}{x^{2}}\\right) d x=\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e3aa2dae-f2a7-412a-ad09-fdd5b2f76f85",
+        "index": 0,
+        "body": "$3 \\ln 4+\\frac{9}{4}$",
+        "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+        "stats": {
+          "count": 808
+        },
+        "resources": []
+      },
+      {
+        "id": "91448e28-3c5d-4cfb-ae48-2a072c65d44e",
+        "index": 1,
+        "body": "$3 \\ln 4+3 \\ln 16$",
+        "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "71facdc6-8dd8-4c52-b7cf-8b5c04fe931c",
+        "index": 2,
+        "body": "$3 \\ln 4-\\ln 16$",
+        "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "f20fbeeb-b6a5-42be-908a-ddc2a6977eff",
+        "index": 3,
+        "body": "$3 \\ln 4-\\frac{15}{4}$",
+        "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+        "stats": {
+          "count": 136
+        },
+        "resources": []
+      },
+      {
+        "id": "341bf350-8b0e-4e5f-9dd8-10a4d9bff7a5",
+        "index": 4,
+        "body": "$3 \\ln 4-\\frac{3}{4}$",
+        "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "218515366",
+    "timeSpentVideo": "34571732",
+    "submissions": 1440,
+    "submissionsCorrect": 808,
+    "accuracy": 0.5611111111111111,
+    "difficulty": 0.6928571428571428
+  },
+  "resources": [],
+  "exam": {
+    "id": "3ba43d5e-9f44-4507-ac45-c9ee89137486",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641708348",
+      "timeSpentVideo": "633377339",
+      "submissions": 26255,
+      "submissionsCorrect": 14833,
+      "questions": 25,
+      "accuracy": 0.5649590554180156,
+      "difficulty": 0.6852874217416051
+    }
+  },
+  "explanation": {
+    "id": "332941c0-7118-46a1-b756-e23e099b8e56",
+    "body": "",
+    "questionId": "9b07dae5-e5d6-4681-9582-11702e849cd7",
+    "resources": [
+      {
+        "id": "f586a905-e8d7-448d-8e38-e4a2bb829412",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pvOu-KB28uk?t=3768"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "332941c0-7118-46a1-b756-e23e099b8e56",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9399a05f-7ecc-4ceb-885e-327c1f89edd7",
+      "name": "Basic Antiderivatives",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2885817548",
+        "timeSpentVideo": "149490804",
+        "submissions": 8402,
+        "submissionsCorrect": 5484,
+        "questions": 5,
+        "accuracy": 0.6527017376815044,
+        "difficulty": 0.5990943307457068
+      }
+    }
+  ],
+  "children": []
+}

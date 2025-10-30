@@ -1,0 +1,158 @@
+{
+  "id": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral \\[\\int_1^\\infty\\frac{1}{x^2+x^4}dx\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "cf488cc3-7c5a-437c-bd27-4dca1171a883",
+        "index": 0,
+        "body": "$1-\\frac{\\pi}{2}$",
+        "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      },
+      {
+        "id": "5aae76c3-d9a7-4013-857d-cc87742592a1",
+        "index": 1,
+        "body": "1/3",
+        "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "e9f9a014-e363-4514-85a4-270463769a4d",
+        "index": 2,
+        "body": "$1-\\frac{\\pi}{4}$",
+        "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+        "stats": {
+          "count": 647
+        },
+        "resources": []
+      },
+      {
+        "id": "a76bcfb5-6ae3-4479-a3ab-0f65888d9482",
+        "index": 3,
+        "body": "4/3",
+        "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "f67d1f0d-4657-4501-82e6-6eec23369a46",
+        "index": 4,
+        "body": "The integral does not converge",
+        "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+        "stats": {
+          "count": 236
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "341232421",
+    "timeSpentVideo": "75819673",
+    "submissions": 1409,
+    "submissionsCorrect": 647,
+    "accuracy": 0.4591909155429382,
+    "difficulty": 0.788104705102717
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "d775cc07-7f2e-420d-bafc-17abd029bba6",
+    "body": null,
+    "questionId": "d9345036-e9b0-4b63-8e4e-7de4d597e319",
+    "resources": [
+      {
+        "id": "39526637-1eae-454a-961b-8774a3704af8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=7479s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d775cc07-7f2e-420d-bafc-17abd029bba6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0f35fb89-57ce-4c77-8e90-dfcc55f1c6ce",
+      "name": "Improper Integral",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14329891277",
+        "timeSpentVideo": "894017817",
+        "submissions": 35492,
+        "submissionsCorrect": 21862,
+        "questions": 9,
+        "accuracy": 0.6159697960103685,
+        "difficulty": 0.6343560350640594
+      }
+    },
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    }
+  ],
+  "children": []
+}

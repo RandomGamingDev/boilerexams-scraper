@@ -1,0 +1,128 @@
+{
+  "id": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $x(t)$ satisfy the initial value problem\n\n\n\n\\[\n\\begin{aligned}\n& x^{\\prime \\prime}+4 x^{\\prime}+5 x=0, \\\\\n& x(0)=1, \\quad x^{\\prime}(0)=-2 .\n\\end{aligned}\n\\]\n\nThen $x(2 \\pi)$, that is $x(t)$ evaluated at $t=2 \\pi$, is equal to",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "3a1029c2-c43d-4b9e-a1d2-c915d3708042",
+        "index": 0,
+        "body": "$x(2 \\pi)=e^{4 \\pi}$",
+        "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "7988c4d7-b5df-4259-a359-d7ed6cc7d990",
+        "index": 1,
+        "body": "$x(2 \\pi)=e^{-4 \\pi}$",
+        "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+        "stats": {
+          "count": 518
+        },
+        "resources": []
+      },
+      {
+        "id": "01984f92-d1bb-4841-ab28-c42bee91930a",
+        "index": 2,
+        "body": "$x(2 \\pi)=e^{-2 \\pi}$",
+        "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "1bbc0035-22d9-45d0-9b88-24398463c6b4",
+        "index": 3,
+        "body": "$x(2 \\pi)=e^{6 \\pi}$",
+        "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "9833633e-e367-4fd4-bb08-e9a5bd8d5e1c",
+        "index": 4,
+        "body": "$x(2 \\pi)=e^{-6 \\pi}$",
+        "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "190318026",
+    "timeSpentVideo": "0",
+    "submissions": 612,
+    "submissionsCorrect": 518,
+    "accuracy": 0.8464052287581699,
+    "difficulty": 0.452247191011236
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "fd9109d1-ad24-4a92-a328-dcb1618dd7a3",
+    "body": "",
+    "questionId": "57babcfc-c4b8-4790-b0d3-32fb66d03e8e",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

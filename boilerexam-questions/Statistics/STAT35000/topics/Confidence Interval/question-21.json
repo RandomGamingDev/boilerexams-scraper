@@ -1,0 +1,106 @@
+{
+  "id": "938ecbca-d986-4b36-8c63-44985ef2badc",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A scientist is studying the relationship between annual rainfall (x) measured in centimeters and shoreline erosion (y) which is also measured in centimeters. For each of ten annual rainfall levels, a randomly selected shoreline erosion value was measured. The study reported the following data. You may assume all model assumptions hold.\n\n(e) (5 points) Construct a 99% confidence interval for \ud835\udf37\ud835\udfcf. Select an appropriate critical value for the calculation.\n\n",
+    "solution": "\ud835\udc61=  3.355387\n\ud835\udc4f1 = 0.0731\nMSE = 0.058\n\ud835\udc4f1 \u00b1 \ud835\udc61 \u2217 sqrt(MSE/ Sxx) = 0.0731 \u00b1 3.355387 \u2217 sqrt(0.058/7100) = (\ud835\udfce. \ud835\udfce\ud835\udfd4\ud835\udfd1\ud835\udfd3, \ud835\udfce. \ud835\udfce\ud835\udfd6\ud835\udfd0\ud835\udfd5)",
+    "answerChoices": []
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "9061525",
+    "timeSpentVideo": "1820115",
+    "submissions": 53,
+    "submissionsCorrect": 0,
+    "accuracy": 0,
+    "difficulty": 0.923202614379085
+  },
+  "resources": [
+    {
+      "id": "7ee77b9b-a575-4745-bb20-3c730093413c",
+      "type": "IMAGE",
+      "data": {
+        "key": "DIO3ObXtFMMGcfU_SOc_y",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/DIO3ObXtFMMGcfU_SOc_y"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "938ecbca-d986-4b36-8c63-44985ef2badc",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "71eee6b8-1de4-406e-9f7b-3634847918e1",
+    "body": null,
+    "questionId": "938ecbca-d986-4b36-8c63-44985ef2badc",
+    "resources": [
+      {
+        "id": "21026224-5f53-4ad5-86ab-8746c9917473",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=1823"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "71eee6b8-1de4-406e-9f7b-3634847918e1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "de9074ca-7126-4b35-8a18-fade09f055a4",
+      "name": "Confidence Interval",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "319290007",
+        "timeSpentVideo": "27587913",
+        "submissions": 1071,
+        "submissionsCorrect": 542,
+        "questions": 7,
+        "accuracy": 0.5060690943043884,
+        "difficulty": 0.7444491887275833
+      }
+    }
+  ],
+  "children": []
+}

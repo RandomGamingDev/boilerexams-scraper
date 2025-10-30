@@ -1,0 +1,143 @@
+{
+  "id": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If a fundamental matrix for $\\mathbf{x}^{\\prime}=\\mathbf{A} \\mathbf{x}(t)$ is $X(t)=\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]$, then the general solution to the system $\\mathbf{x}^{\\prime}=\\mathbf{A} \\mathbf{x}(t)+\\left[\\begin{array}{c}12 e^{t} \\\\ 0\\end{array}\\right]$ is:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "52e70aa5-c0ae-439b-9da4-4350c20776d0",
+        "index": 0,
+        "body": "$\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]\\left(\\left[\\begin{array}{l}c_{1} \\\\ c_{2}\\end{array}\\right]+\\left[\\begin{array}{c}4 e^{2 t} \\\\ -e^{-4 t}\\end{array}\\right]\\right)$",
+        "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "da068c64-8113-4fb9-8d93-419108f0969d",
+        "index": 1,
+        "body": "$\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]\\left(\\left[\\begin{array}{l}c_{1} \\\\ c_{2}\\end{array}\\right]+\\left[\\begin{array}{l}-4 e^{2 t} \\\\ -e^{-4 t}\\end{array}\\right]\\right)$",
+        "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      },
+      {
+        "id": "8829a7a8-168c-487f-a850-226b15de30f2",
+        "index": 2,
+        "body": "$\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]\\left(\\left[\\begin{array}{l}c_{1} \\\\ c_{2}\\end{array}\\right]+\\left[\\begin{array}{c}4 e^{-4 t} \\\\ -4 e^{2 t}\\end{array}\\right]\\right)$",
+        "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "858a0401-7bff-40dd-8123-8e2bad08ee55",
+        "index": 3,
+        "body": "$\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]\\left(\\left[\\begin{array}{l}c_{1} \\\\ c_{2}\\end{array}\\right]+\\left[\\begin{array}{c}e^{2 t} \\\\ 4 e^{-4 t}\\end{array}\\right]\\right)$",
+        "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "cbd5a55a-27fe-4be6-af2a-340852f688e8",
+        "index": 4,
+        "body": "$\\left[\\begin{array}{cc}-e^{-t} & e^{5 t} \\\\ e^{-t} & 2 e^{5 t}\\end{array}\\right]\\left(\\left[\\begin{array}{l}c_{1} \\\\ c_{2}\\end{array}\\right]+\\left[\\begin{array}{l}4 e^{2 t} \\\\ e^{-4 t}\\end{array}\\right]\\right)$",
+        "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "117261416",
+    "timeSpentVideo": "66116094",
+    "submissions": 638,
+    "submissionsCorrect": 134,
+    "accuracy": 0.21003134796238246,
+    "difficulty": 1.0006775067750677
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "d8da4936-cfd0-4565-8b39-9b6ac30c00e8",
+    "body": "",
+    "questionId": "bb961c42-98fd-44f1-b1f2-6587beabc749",
+    "resources": [
+      {
+        "id": "20990c89-35c3-4cb7-9365-c85ad211ab3c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=4VFKjyUSkLJMEYRq&t=4624\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d8da4936-cfd0-4565-8b39-9b6ac30c00e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8225bea8-8a02-4f3f-a3fb-be1081a627d4",
+      "name": "Matrices",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5295799675",
+        "timeSpentVideo": "654672657",
+        "submissions": 12168,
+        "submissionsCorrect": 6751,
+        "questions": 16,
+        "accuracy": 0.5548159105851413,
+        "difficulty": 0.69563090968373
+      }
+    }
+  ],
+  "children": []
+}

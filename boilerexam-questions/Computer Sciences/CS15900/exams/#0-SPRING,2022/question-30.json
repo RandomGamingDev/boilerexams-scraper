@@ -1,0 +1,149 @@
+{
+  "id": "89cfcc24-e13d-4142-8927-473f4c413920",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is TRUE regarding data type conversion in the code segment?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8cf8118a-ca5f-45f6-a785-768afd45fc1d",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">There is an assignment type conversion on line 15.</font>",
+        "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+        "stats": {
+          "count": 430
+        },
+        "resources": []
+      },
+      {
+        "id": "d106bffe-95e5-4531-af16-6f3bc857d7c7",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">There is an explicit type conversion on line 20.</font>",
+        "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "5a758aa6-5334-4cbc-b404-f27855657657",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The literal constant</font> 45 <font style=\"font-family:'Times New Roman'\">will be safely converted to a</font> double <font style=\"font-family:'Times New Roman'\">when sent to</font> CtoF <font style=\"font-family:'Times New Roman'\">on line 9.</font>",
+        "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+        "stats": {
+          "count": 2704
+        },
+        "resources": []
+      },
+      {
+        "id": "7c729a80-b2d6-40bb-ba18-9d20b2090675",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+        "stats": {
+          "count": 336
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 30,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "333871065",
+    "timeSpentVideo": "0",
+    "submissions": 3679,
+    "submissionsCorrect": 2704,
+    "accuracy": 0.734982332155477,
+    "difficulty": 0.5212357766604921
+  },
+  "resources": [
+    {
+      "id": "dac7758c-2300-4a80-8c61-9d0d841a74d5",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\ndouble FtoC(double);\ndouble CtoF(double);\n\nint main(void)\n{\n  printf(\"Result #1: %.2lf\\n\", CtoF(FtoC(104)));\n  printf(\"Result #2: %.2lf\\n\", FtoC(CtoF(45)));\n  return(0);\n}\n\ndouble FtoC(double F)\n{\n  return(5 / 9 * (F - 32));\n}\n\ndouble CtoF(double C)\n{\n  return(C * 9 / 5 + 32);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "5587cc46-03ea-47dd-9d0a-10018d2505d2",
+    "body": "",
+    "questionId": "89cfcc24-e13d-4142-8927-473f4c413920",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "09f27062-74f7-4595-ab58-6f796a7f95df",
+      "name": "Data Types",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35587028441",
+        "timeSpentVideo": "146223972",
+        "submissions": 121193,
+        "submissionsCorrect": 78268,
+        "questions": 41,
+        "accuracy": 0.6458128769813438,
+        "difficulty": 0.6043073384284336
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

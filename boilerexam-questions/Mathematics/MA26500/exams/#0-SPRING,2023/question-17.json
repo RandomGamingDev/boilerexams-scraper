@@ -1,0 +1,188 @@
+{
+  "id": "cda50609-0c44-4008-b801-404bce7aaf5f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Assume that all vectors and subspaces are in $\\mathbb{R}^{n}$. Which of the following statements is FALSE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "599af445-b72f-4def-8ae6-357eb807d56b",
+        "index": 0,
+        "body": "The best approximation to $\\mathbf{y}$ by elements of a subspace $W$ is the vector $\\mathbf{y}-\\operatorname{proj}_{W} \\mathbf{y}$",
+        "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+        "stats": {
+          "count": 1574
+        },
+        "resources": []
+      },
+      {
+        "id": "0d5dc6e2-3170-4570-98f2-2d853d1dbd33",
+        "index": 1,
+        "body": "If $\\mathbf{z}$ is orthogonal to $\\mathbf{u}_{\\mathbf{1}}$ and $\\mathbf{u}_{\\mathbf{2}}$, and if $W=\\operatorname{Span}\\left\\{\\mathbf{u}_{\\mathbf{1}}, \\mathbf{u}_{\\mathbf{2}}\\right\\}$, then $\\mathbf{z}$ is in $W^{\\perp}$.",
+        "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "f3c4790d-26c2-4ab3-9362-92d37ea5ba09",
+        "index": 2,
+        "body": "If $\\mathbf{y}=\\mathbf{z}_{\\mathbf{1}}+\\mathbf{z}_{\\mathbf{2}}$, where $\\mathbf{z}_{\\mathbf{1}}$ is in a subspace $W$ and $\\mathbf{z}_{\\mathbf{2}}$ is in $W^{\\perp}$, then $\\operatorname{proj}_{W} \\mathbf{y}=\\mathbf{z}_{\\mathbf{1}}$.",
+        "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+        "stats": {
+          "count": 568
+        },
+        "resources": []
+      },
+      {
+        "id": "da2db9be-81f6-43b1-9361-697f7047d143",
+        "index": 3,
+        "body": "If $\\mathbf{x}$ is not in a subspace $W$, then $\\mathbf{x}-\\operatorname{proj}_{W} \\mathbf{x}$ is not zero.",
+        "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+        "stats": {
+          "count": 390
+        },
+        "resources": []
+      },
+      {
+        "id": "a38c5671-97b0-4435-9191-26a8074c762a",
+        "index": 4,
+        "body": "If the columns of an $m \\times n$ matrix $A$ are orthonormal, then the linear mapping $\\mathbf{x} \\mapsto A \\mathbf{x}$ preserves length.",
+        "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+        "stats": {
+          "count": 301
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "482280328",
+    "timeSpentVideo": "166312487",
+    "submissions": 3304,
+    "submissionsCorrect": 1574,
+    "accuracy": 0.4763922518159806,
+    "difficulty": 0.7729142185663924
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "520dd718-ab36-4d49-91b1-0f7dfe06a453",
+    "body": "",
+    "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
+    "resources": [
+      {
+        "id": "6388346b-25b9-46b2-a140-87385e925bc0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=5439\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "520dd718-ab36-4d49-91b1-0f7dfe06a453",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "4b2b3533-6f35-42c3-807a-958b6e2580b2",
+      "name": "Projections",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6028478978",
+        "timeSpentVideo": "611094532",
+        "submissions": 13315,
+        "submissionsCorrect": 6424,
+        "questions": 7,
+        "accuracy": 0.48246338715734133,
+        "difficulty": 0.7674058889303019
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    },
+    {
+      "id": "dacbccc6-8372-43c1-a655-a21f617cfbc8",
+      "name": "Orthonormal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8856752154",
+        "timeSpentVideo": "969607218",
+        "submissions": 19380,
+        "submissionsCorrect": 10025,
+        "questions": 9,
+        "accuracy": 0.5172858617131063,
+        "difficulty": 0.7328028747433265
+      }
+    }
+  ],
+  "children": []
+}

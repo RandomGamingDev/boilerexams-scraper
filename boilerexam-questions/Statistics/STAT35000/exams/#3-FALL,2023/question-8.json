@@ -1,0 +1,143 @@
+{
+  "id": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A researcher ran regression analysis between two numerical variables, and performed a\nhypothesis test with the following null and alternative hypothesis:\n\n$\ud835\udc6f_{0}$: \ud835\udf37\ud835\udfcf = \ud835\udfce\n$\ud835\udc6f_{a}$: \ud835\udf37\ud835\udfcf \u2260 \ud835\udfce\n\nDuring the analysis, the researcher discovers that there is a positive association between these two variables and all the data points lie on the regression line. Choose the statement that must be false in regard to this analysis.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4857254e-9ca4-4671-863c-30129eb6a6b9",
+        "index": 0,
+        "body": "$MS_{E}$ = 0",
+        "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "bedacac7-898b-4171-b917-a312f6959a18",
+        "index": 1,
+        "body": "The coefficient of determination is 1.",
+        "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "d20a02eb-e476-4c62-adf2-3eabb49a8f8b",
+        "index": 2,
+        "body": "$| \\hat{\\beta}_1 | $= 0\n",
+        "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "b0dcb0dc-98d4-4a4a-9c5e-1e55b71b5299",
+        "index": 3,
+        "body": "The Pearson correlation coefficient \ud835\udc93 is 1.",
+        "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "54d00850-16e4-4d4e-924e-6f8d1e93bc68",
+        "index": 4,
+        "body": "The measured residuals error terms are all zero.",
+        "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14886697",
+    "timeSpentVideo": "3573893",
+    "submissions": 135,
+    "submissionsCorrect": 90,
+    "accuracy": 0.6666666666666666,
+    "difficulty": 0.6542553191489362
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "5287e993-fe1b-43ac-bc65-01cc3d6f99d9",
+    "body": null,
+    "questionId": "a9323938-5793-4d93-aa46-e9cc87af38c5",
+    "resources": [
+      {
+        "id": "915c7297-7e69-49b7-b3ae-511119d23555",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=427"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5287e993-fe1b-43ac-bc65-01cc3d6f99d9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "496993539",
+        "timeSpentVideo": "59163237",
+        "submissions": 1740,
+        "submissionsCorrect": 754,
+        "questions": 13,
+        "accuracy": 0.43333333333333335,
+        "difficulty": 0.8130434782608695
+      }
+    }
+  ],
+  "children": []
+}

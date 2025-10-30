@@ -1,0 +1,143 @@
+{
+  "id": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following sets of vectors $\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]$ is a subspace of $\\mathbb{R}^{3}$ ?\n\n\n(i) The set of all vectors satisfying $x+y+z=0$.\n\n(ii) The set of all vectors satisfying $x y-z=0$.\n\n(iii) The set of all vectors satisfying $x y z=0$.\n\n(iv) The set of all vectors satisfying $x+y-z^{2}=0$.\n\n(v) The set of all vectors satisfying $x+y-z \\geq 0$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "3d723974-341f-4f05-a1e2-e4ea324e3a19",
+        "index": 0,
+        "body": "(i) only",
+        "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+        "stats": {
+          "count": 1469
+        },
+        "resources": []
+      },
+      {
+        "id": "cf26578d-5e74-400f-bdd2-9d52eee64766",
+        "index": 1,
+        "body": "(i), (iii), (iv), and (v) only",
+        "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      },
+      {
+        "id": "1548cc64-dae8-4306-89db-f3cc4f580b64",
+        "index": 2,
+        "body": "(i) and (ii) only",
+        "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+        "stats": {
+          "count": 218
+        },
+        "resources": []
+      },
+      {
+        "id": "f9f7abc7-8357-436b-8f71-f21cf922c37a",
+        "index": 3,
+        "body": "(i) and (v) only",
+        "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+        "stats": {
+          "count": 644
+        },
+        "resources": []
+      },
+      {
+        "id": "95d9dacc-e990-4bba-9cac-450027fc39ec",
+        "index": 4,
+        "body": "None of them is a subspace of $\\mathbb{R}^{3}$",
+        "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "431904121",
+    "timeSpentVideo": "164440903",
+    "submissions": 2953,
+    "submissionsCorrect": 1469,
+    "accuracy": 0.49746020995597695,
+    "difficulty": 0.7524566000655093
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "7573d6b5-89a8-473b-8b32-551e73fba819",
+    "body": "",
+    "questionId": "b5e27de3-995a-45cb-83c3-1857a875ec49",
+    "resources": [
+      {
+        "id": "0bddd379-deaf-4633-b1c0-8ef85d9de5ec",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=2602\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7573d6b5-89a8-473b-8b32-551e73fba819",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    }
+  ],
+  "children": []
+}

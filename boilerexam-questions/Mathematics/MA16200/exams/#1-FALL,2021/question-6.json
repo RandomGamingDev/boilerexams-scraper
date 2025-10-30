@@ -1,0 +1,153 @@
+{
+  "id": "c175bd5b-70c1-455f-b8da-8a278e293083",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area of the region bounded by the curves $y=e^{x}, y=e^{-x}$, and $x=1$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "04fb529a-6b79-45ce-b633-9466193a9d21",
+        "index": 0,
+        "body": "$e-1 / e$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 299
+        },
+        "resources": []
+      },
+      {
+        "id": "26677529-4af7-4682-802c-bd75b855a948",
+        "index": 1,
+        "body": "$e+1 / e$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 516
+        },
+        "resources": []
+      },
+      {
+        "id": "7eb950d4-3fcb-4461-b10a-d1d28a9bfa77",
+        "index": 2,
+        "body": "$\\frac{(e+1)^{2}}{e}$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 319
+        },
+        "resources": []
+      },
+      {
+        "id": "a5d59c94-90e0-4351-affe-6193835602f1",
+        "index": 3,
+        "body": "$\\frac{(e-1)^{2}}{e}$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 2279
+        },
+        "resources": []
+      },
+      {
+        "id": "0070d63d-7bb4-4f61-b1a1-13161f5320ec",
+        "index": 4,
+        "body": "$1-1 / e$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "a356db39-3ec8-4f13-bd63-50c11834aece",
+        "index": 5,
+        "body": "$1+1 / e$",
+        "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "fd7fa488-b09e-424a-8d14-666f46174e55",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "956349964",
+    "timeSpentVideo": "98393198",
+    "submissions": 4439,
+    "submissionsCorrect": 2279,
+    "accuracy": 0.5134039198017571,
+    "difficulty": 0.7368913857677902
+  },
+  "resources": [],
+  "exam": {
+    "id": "fd7fa488-b09e-424a-8d14-666f46174e55",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7484783483",
+      "timeSpentVideo": "775932840",
+      "submissions": 38477,
+      "submissionsCorrect": 23785,
+      "questions": 12,
+      "accuracy": 0.618161499077371,
+      "difficulty": 0.632144801306478
+    }
+  },
+  "explanation": {
+    "id": "1e0514d9-503a-4b7f-8e65-9d288b66c3ea",
+    "body": "",
+    "questionId": "c175bd5b-70c1-455f-b8da-8a278e293083",
+    "resources": [
+      {
+        "id": "2307a485-5b78-49e3-84e3-c4ea74327469",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/raWrDy_ILgY?t=640 "
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1e0514d9-503a-4b7f-8e65-9d288b66c3ea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b9a0c804-dde8-4109-9dbe-94271ae0c7de",
+      "name": "Area Between Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10742267097",
+        "timeSpentVideo": "327031785",
+        "submissions": 22024,
+        "submissionsCorrect": 15078,
+        "questions": 6,
+        "accuracy": 0.6846167816926989,
+        "difficulty": 0.5662176821551257
+      }
+    }
+  ],
+  "children": []
+}

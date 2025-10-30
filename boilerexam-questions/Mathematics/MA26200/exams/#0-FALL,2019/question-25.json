@@ -1,0 +1,143 @@
+{
+  "id": "32401c3a-52fe-4723-9506-85e4874c8d80",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the general solution to the system\n\n\\[\n\\mathbf{x}^{\\prime}=\\left(\\begin{array}{ll}\n1 & -1 \\\\\n5 & -3\n\\end{array}\\right) \\mathbf{x}\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "9b9dd7ee-c493-4fe3-b0be-c0580c78d7c2",
+        "index": 0,
+        "body": "$c_{1}\\left(\\begin{array}{c}\\cos t \\\\ 2 \\cos t+\\sin t\\end{array}\\right) e^{-t}+c_{2}\\left(\\begin{array}{c}\\sin t \\\\ 2 \\sin t-\\cos t\\end{array}\\right) e^{-t}$",
+        "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+        "stats": {
+          "count": 297
+        },
+        "resources": []
+      },
+      {
+        "id": "ba042cea-7e09-49cd-a9f2-7cd984aa0b4a",
+        "index": 1,
+        "body": "$c_{1}\\left(\\begin{array}{l}1 \\\\ 5\\end{array}\\right) e^{-4 t}+c_{2}\\left(\\begin{array}{c}1 \\\\ -1\\end{array}\\right) e^{2 t}$",
+        "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "adfd88a9-a3c1-4772-9588-54b47b193acf",
+        "index": 2,
+        "body": "$c_{1}\\left(\\begin{array}{c}\\cos t \\\\ 2 \\cos t-\\sin t\\end{array}\\right) e^{t}+c_{2}\\left(\\begin{array}{c}-\\sin t \\\\ -2 \\sin t-\\cos t\\end{array}\\right) e^{t}$",
+        "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "67d7ed65-9cbc-43f0-aa6c-27a03cb91143",
+        "index": 3,
+        "body": "$c_{1}\\left(\\begin{array}{c}1 \\\\ -5\\end{array}\\right) e^{4 t}+c_{2}\\left(\\begin{array}{l}1 \\\\ 1\\end{array}\\right) e^{-2 t}$",
+        "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f9c446c2-d7e0-4f51-8b18-853455a8456e",
+        "index": 4,
+        "body": "$c_{1}\\left(\\begin{array}{c}2 \\cos t+\\sin t \\\\ \\cos t\\end{array}\\right) e^{-t}+c_{2}\\left(\\begin{array}{c}2 \\sin t-\\cos t \\\\ \\sin t\\end{array}\\right) e^{-t}$",
+        "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "192311293",
+    "timeSpentVideo": "46388378",
+    "submissions": 704,
+    "submissionsCorrect": 297,
+    "accuracy": 0.421875,
+    "difficulty": 0.818407960199005
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ae4071-c2a2-4b4c-ab0e-133a15ab1b5e",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3999831312",
+      "timeSpentVideo": "980802959",
+      "submissions": 22859,
+      "submissionsCorrect": 13333,
+      "questions": 25,
+      "accuracy": 0.5832713592020649,
+      "difficulty": 0.6670913367306939
+    }
+  },
+  "explanation": {
+    "id": "da99aec6-640d-4ccf-8814-4abe6cf39afb",
+    "body": "",
+    "questionId": "32401c3a-52fe-4723-9506-85e4874c8d80",
+    "resources": [
+      {
+        "id": "a90d91e6-c7ae-4fb1-9a63-0d5bd73af8fe",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/nxC4NxZadbM?si=YmCjqcByTyshbYOm&t=4549\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "da99aec6-640d-4ccf-8814-4abe6cf39afb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "31c808ef-5962-4e8d-b13a-bb827f9c3772",
+      "name": "Systems (Matrices)",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2552320145",
+        "timeSpentVideo": "209522992",
+        "submissions": 5768,
+        "submissionsCorrect": 3487,
+        "questions": 10,
+        "accuracy": 0.6045423023578363,
+        "difficulty": 0.647239263803681
+      }
+    }
+  ],
+  "children": []
+}

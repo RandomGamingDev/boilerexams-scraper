@@ -1,0 +1,143 @@
+{
+  "id": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the power series representation of the function $\\frac{x^3}{1+x^2}$ for $\\lvert x \\rvert < 1$? ",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "33772056-9f90-42a8-8ccc-b92166faf08b",
+        "index": 0,
+        "body": "$\\sum_{n=0}^\\infty (-1)^n x^{2n+3}$",
+        "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+        "stats": {
+          "count": 145
+        },
+        "resources": []
+      },
+      {
+        "id": "c1fa5262-01c2-4194-b301-285cb5c461d9",
+        "index": 1,
+        "body": "$\\sum_{n=0}^\\infty (-1)^n x^{2n+5}$",
+        "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "421216e1-30df-4d2f-a067-0a265bbaddcb",
+        "index": 2,
+        "body": "$\\sum_{n=0}^\\infty (-1)^{n+1}x^{2n+5}$",
+        "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "52ef2b34-c8c8-4b60-8ebc-ecb80b0792e8",
+        "index": 3,
+        "body": "$\\sum_{n=0}^\\infty x^{2n+3}$",
+        "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "4667e41a-3813-4f5c-91c6-e28e4fd2b37a",
+        "index": 4,
+        "body": "$\\sum_{n=0}^\\infty x^{2n+2}$",
+        "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "b1672515-1729-4a52-9161-a596053a87ee",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "36415742",
+    "timeSpentVideo": "9111582",
+    "submissions": 231,
+    "submissionsCorrect": 145,
+    "accuracy": 0.6277056277056277,
+    "difficulty": 0.6608761329305136
+  },
+  "resources": [],
+  "exam": {
+    "id": "b1672515-1729-4a52-9161-a596053a87ee",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "900220573",
+      "timeSpentVideo": "166830086",
+      "submissions": 5119,
+      "submissionsCorrect": 2933,
+      "questions": 12,
+      "accuracy": 0.5729634694276226,
+      "difficulty": 0.6784345660088139
+    }
+  },
+  "explanation": {
+    "id": "09ca037c-ee38-48f0-bbae-2685089bcfc8",
+    "body": null,
+    "questionId": "b48df98a-c450-4bb0-9fa9-39c283b4e2d0",
+    "resources": [
+      {
+        "id": "a7ba4723-3d94-4c3f-bc93-1f444c3f7d18",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/vLtbW-qqBvs?si=56ilSTXHxHdSiUmu&t=4552"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "09ca037c-ee38-48f0-bbae-2685089bcfc8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8d21f86c-b2f9-4de0-9a19-17b309493345",
+      "name": "Power Series",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "75743407",
+        "timeSpentVideo": "9111582",
+        "submissions": 231,
+        "submissionsCorrect": 145,
+        "questions": 1,
+        "accuracy": 0.6277056277056277,
+        "difficulty": 0.6608761329305136
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $P_3$ be the real vector space of polynomials of degree less than or equal to 3, together with the zero polynomial. Let $W$ be the subspace of $P_3$ consisting of all the polynomials $p(t) \\in P_3 $ satisfying $p(0) = p(1).$ What is the dimension of $W$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "72461d4f-a241-48d3-9856-a247b11ceee1",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "935d2d1d-a14b-4a21-b700-67a0a91c3dc4",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+        "stats": {
+          "count": 213
+        },
+        "resources": []
+      },
+      {
+        "id": "8b56f781-b955-486d-b8df-8d5a442b8544",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+        "stats": {
+          "count": 340
+        },
+        "resources": []
+      },
+      {
+        "id": "c0bf06c2-b0e2-464b-80ee-8e4846001c06",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+        "stats": {
+          "count": 1158
+        },
+        "resources": []
+      },
+      {
+        "id": "fe8a08b8-d57a-47c3-a40a-e9b6c16427d0",
+        "index": 4,
+        "body": "$4$",
+        "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "256703778",
+    "timeSpentVideo": "96398850",
+    "submissions": 2186,
+    "submissionsCorrect": 1158,
+    "accuracy": 0.5297346752058555,
+    "difficulty": 0.7215660542432196
+  },
+  "resources": [],
+  "exam": {
+    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5566596517",
+      "timeSpentVideo": "1068701312",
+      "submissions": 33138,
+      "submissionsCorrect": 19725,
+      "questions": 20,
+      "accuracy": 0.5952380952380952,
+      "difficulty": 0.6550484385342078
+    }
+  },
+  "explanation": {
+    "id": "92ea3798-75c4-4680-b778-7826665687f4",
+    "body": "",
+    "questionId": "beacb46c-dd42-4925-ab77-e2e87e5c8bb2",
+    "resources": [
+      {
+        "id": "3394e09b-d2a0-4137-a179-add4fc6df2c5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yQm5p2Gnr9E?t=794\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "92ea3798-75c4-4680-b778-7826665687f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "45277ba3-ee0e-4630-a30b-9b99eac05535",
+      "name": "Subspaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "26803536074",
+        "timeSpentVideo": "4496273714",
+        "submissions": 67331,
+        "submissionsCorrect": 37721,
+        "questions": 21,
+        "accuracy": 0.5602322852772126,
+        "difficulty": 0.6898570390473224
+      }
+    },
+    {
+      "id": "fb4e167d-626c-44d4-b679-a998679a5b12",
+      "name": "Dimension",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16628702850",
+        "timeSpentVideo": "2214638998",
+        "submissions": 46184,
+        "submissionsCorrect": 27923,
+        "questions": 12,
+        "accuracy": 0.6046033258271263,
+        "difficulty": 0.645622677383113
+      }
+    }
+  ],
+  "children": []
+}

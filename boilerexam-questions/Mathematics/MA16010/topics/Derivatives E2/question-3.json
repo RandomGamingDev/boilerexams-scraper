@@ -1,0 +1,168 @@
+{
+  "id": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use implicit differentiation to find $\\frac{dy}{dx}$ if \n\n\\[3x^2+y^3=2x^2y\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "e75af198-8ce6-42d2-bc46-baf8267e39ff",
+        "index": 0,
+        "body": "$\\frac{4xy-6x}{3y^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "0cc27b4f-2943-42f4-900a-5f5fee8b76aa",
+        "index": 1,
+        "body": "$\\frac{4xy}{6x+3y^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "1fd8152b-a6ef-43fe-858c-09ead7128665",
+        "index": 2,
+        "body": "$\\frac{6x+3y^2-4xy}{2x^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "eed9e45a-ec3c-4d09-9488-6f533be2aed5",
+        "index": 3,
+        "body": "$\\frac{4xy-6x}{3y^2-2x^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "99d2b58d-23c1-48a5-ab72-5168da62c963",
+        "index": 4,
+        "body": "$\\frac{4xy+2x^2-6x}{3y^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "dd4ab0fb-3c6f-4b9a-8dd1-c7a804fd009c",
+        "index": 5,
+        "body": "$\\frac{4xy+2x^2}{6x+3y^2}$\n",
+        "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "9b27f368-aa7f-4196-9f46-1fd76d6cdeaf",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "989197",
+    "timeSpentVideo": "0",
+    "submissions": 3,
+    "submissionsCorrect": 1,
+    "accuracy": 0.3333333333333333,
+    "difficulty": 0.7548543689320388
+  },
+  "resources": [],
+  "exam": {
+    "id": "9b27f368-aa7f-4196-9f46-1fd76d6cdeaf",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9478018",
+      "timeSpentVideo": "97484",
+      "submissions": 29,
+      "submissionsCorrect": 19,
+      "questions": 12,
+      "accuracy": 0.6551724137931034,
+      "difficulty": 0.7151162790697675
+    }
+  },
+  "explanation": {
+    "id": "9f2e036a-69a8-4e54-9937-e2dbb66841e1",
+    "body": null,
+    "questionId": "13975b9e-1ced-4243-931c-d615cf8bfc1b",
+    "resources": [
+      {
+        "id": "cbe5ea0e-e57a-4e25-ac64-deabb46caf45",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/WwO1UakDyUA?si=W_xPp_MTOO4bYRWE&t=638"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9f2e036a-69a8-4e54-9937-e2dbb66841e1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "86b546df-af41-4707-9f30-97ecafe14fae",
+      "name": "Implicit Differentiation",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7878511",
+        "timeSpentVideo": "0",
+        "submissions": 3,
+        "submissionsCorrect": 1,
+        "questions": 1,
+        "accuracy": 0.3333333333333333,
+        "difficulty": 0.7548543689320388
+      }
+    },
+    {
+      "id": "f3ffe9ce-00e6-45d2-851a-d69f5cfb5f18",
+      "name": "Derivatives E2",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19486668",
+        "timeSpentVideo": "97484",
+        "submissions": 13,
+        "submissionsCorrect": 7,
+        "questions": 4,
+        "accuracy": 0.5384615384615384,
+        "difficulty": 0.745575221238938
+      }
+    }
+  ],
+  "children": []
+}

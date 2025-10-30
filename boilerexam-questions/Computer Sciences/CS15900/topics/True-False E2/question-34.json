@@ -1,0 +1,133 @@
+{
+  "id": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding multiway <font style=\"font-family:'Courier New'\">else if</font> constructs is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cbaea340-97ea-4f33-8802-f50514b63a4a",
+        "index": 0,
+        "body": "The <font style=\"font-family:'Courier New'\">if</font> condition is evaluated first, and additional <font style=\"font-family:'Courier New'\">else if</font> conditions are evaluated until ALL true conditions have been found.",
+        "questionId": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      },
+      {
+        "id": "00871dda-3900-4c7f-b8c6-ecf5bce65ca4",
+        "index": 1,
+        "body": "The <font style=\"font-family:'Courier New'\">else</font> is executed only when all previously evaluated conditions are false.",
+        "questionId": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+        "stats": {
+          "count": 3492
+        },
+        "resources": []
+      },
+      {
+        "id": "9fe5b928-10c3-49be-8fca-3458b8248cec",
+        "index": 2,
+        "body": "The usage of multiway <font style=\"font-family:'Courier New'\">else-if</font> is always preferred over the usage of <font style=\"font-family:'Courier New'\">switch</font>.",
+        "questionId": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "954f7505-fd1d-4471-ada9-9896f6bf43f8",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 34,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "199640527",
+    "timeSpentVideo": "1730552",
+    "submissions": 3705,
+    "submissionsCorrect": 3492,
+    "accuracy": 0.9425101214574899,
+    "difficulty": 0.31911957950065706
+  },
+  "resources": [],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "7440ee73-6e1e-481e-8174-8f0db3adc975",
+    "body": "",
+    "questionId": "6a1c0e91-6713-4d48-a777-1cb08fe3a648",
+    "resources": [
+      {
+        "id": "d5222043-4b8c-4031-9716-1cf7994ce2b1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=4751"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7440ee73-6e1e-481e-8174-8f0db3adc975",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26535a44-e12a-4f14-aaf2-37ce3efd5d11",
+      "name": "True-False E2",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30450323554",
+        "timeSpentVideo": "632747443",
+        "submissions": 126860,
+        "submissionsCorrect": 87721,
+        "questions": 34,
+        "accuracy": 0.6914787955226234,
+        "difficulty": 0.55867202268431
+      }
+    }
+  ],
+  "children": []
+}

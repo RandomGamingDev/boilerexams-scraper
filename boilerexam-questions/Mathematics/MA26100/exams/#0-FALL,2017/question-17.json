@@ -1,0 +1,158 @@
+{
+  "id": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the curve $C: \\mathbf{r}(t)=\\langle\\cos (t), \\sin (t), 1-\\cos (t)-\\sin (t)\\rangle, \\quad 0 \\leq t \\leq 2 \\pi$, which is the intersection of the cylinder $x^{2}+y^{2}=1$ with the plane $x+y+z=1$.\n\n\n\nIf $\\mathbf{F}=\\langle y+\\sin (x), z+\\sin (y), x+\\cos (z)\\rangle$, then $\\int_{C} \\mathbf{F} \\cdot d \\mathbf{r}=$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "8159f585-c9d9-4c3c-ac87-fe6e22dc648e",
+        "index": 0,
+        "body": "$-3 \\pi$",
+        "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+        "stats": {
+          "count": 1531
+        },
+        "resources": []
+      },
+      {
+        "id": "487ea066-2794-4993-9a94-a90b39d5e85a",
+        "index": 1,
+        "body": "$-\\sqrt{3} \\pi$",
+        "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+        "stats": {
+          "count": 155
+        },
+        "resources": []
+      },
+      {
+        "id": "4b71ded2-433c-4200-803c-b06c60fd8c3e",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      },
+      {
+        "id": "11245306-8496-4113-bc27-bbc19b904ae3",
+        "index": 3,
+        "body": "$3 \\pi$",
+        "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+        "stats": {
+          "count": 175
+        },
+        "resources": []
+      },
+      {
+        "id": "e23a5a35-cabf-42b1-a6d7-a899d51d78e6",
+        "index": 4,
+        "body": "$\\sqrt{3} \\pi$",
+        "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1192545926",
+    "timeSpentVideo": "227956995",
+    "submissions": 4275,
+    "submissionsCorrect": 1531,
+    "accuracy": 0.35812865497076024,
+    "difficulty": 0.8886285714285714
+  },
+  "resources": [],
+  "exam": {
+    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+    "number": 0,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12922067341",
+      "timeSpentVideo": "3006876717",
+      "submissions": 60745,
+      "submissionsCorrect": 28135,
+      "questions": 20,
+      "accuracy": 0.4631656926496008,
+      "difficulty": 0.786773769414085
+    }
+  },
+  "explanation": {
+    "id": "e8f00d74-29bb-40f6-9666-4eba318a121a",
+    "body": "",
+    "questionId": "2c96dd30-f0be-43eb-bdba-de40d89fb2f5",
+    "resources": [
+      {
+        "id": "26bee90f-697e-469c-9325-02cad15e029e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/snzGJb-fM6o?si=tGxf0w4iRiNXArFD&t=2760\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e8f00d74-29bb-40f6-9666-4eba318a121a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18541413657",
+        "timeSpentVideo": "1965130455",
+        "submissions": 30673,
+        "submissionsCorrect": 12770,
+        "questions": 6,
+        "accuracy": 0.4163270628891859,
+        "difficulty": 0.8334010333734118
+      }
+    },
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

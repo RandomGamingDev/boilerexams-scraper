@@ -1,0 +1,143 @@
+{
+  "id": "141be8da-1d6c-4035-9519-80c23070dc8a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which one of the following power series equals $f(x)=\\frac{1}{(x-2)^2}$ near the origin?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d526f0fa-f7f8-43be-81bc-4bf63a6e079c",
+        "index": 0,
+        "body": "\\[\\sum_{k=1}^\\infty2kx^{k-1}\\]",
+        "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "4b22112f-5921-45e9-9fb4-e15e9d787105",
+        "index": 1,
+        "body": "\\[\\sum_{k=1}^\\infty\\frac{kx^{k-1}}{2^k}\\]",
+        "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "69c02b4c-2d38-4285-8691-236d3ca7c960",
+        "index": 2,
+        "body": "\\[\\sum_{k=1}^\\infty(-1)^k2kx^{k-1}\\]",
+        "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "13303592-96b7-4329-82dc-9a499b0303aa",
+        "index": 3,
+        "body": "\\[\\sum_{k=1}^\\infty\\frac{(-1)^kkx^{k-1}}{2^{k+1}}\\]",
+        "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "be1e04e4-5464-490a-9c70-da6aa2a30d1a",
+        "index": 4,
+        "body": "\\[\\sum_{k=1}^\\infty\\frac{kx^{k-1}}{2^{k+1}}\\]",
+        "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+        "stats": {
+          "count": 216
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "115255070",
+    "timeSpentVideo": "38189171",
+    "submissions": 518,
+    "submissionsCorrect": 216,
+    "accuracy": 0.416988416988417,
+    "difficulty": 0.81957928802589
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "7dac0cd8-9ea9-4c81-9465-3c7357bf591c",
+    "body": null,
+    "questionId": "141be8da-1d6c-4035-9519-80c23070dc8a",
+    "resources": [
+      {
+        "id": "ad18ffa2-e99e-4a8e-af2e-fe547be0031f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=4344s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7dac0cd8-9ea9-4c81-9465-3c7357bf591c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "243f652b-9578-4301-8df0-80b179353b83",
+      "name": "Power Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8409911205",
+        "timeSpentVideo": "834843840",
+        "submissions": 17820,
+        "submissionsCorrect": 9398,
+        "questions": 7,
+        "accuracy": 0.5273849607182941,
+        "difficulty": 0.7227678571428572
+      }
+    }
+  ],
+  "children": []
+}

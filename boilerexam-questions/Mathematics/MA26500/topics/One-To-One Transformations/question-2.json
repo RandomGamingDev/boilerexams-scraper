@@ -1,0 +1,203 @@
+{
+  "id": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be an $m \\times n$ matrix. Which of the following statements must be true?\n\n$$\n(i) If equation $A \\mathbf{x}=\\mathbf{b}$ is consistent for each $\\mathbf{b} \\in \\mathbb{R}^{m}$ then $\\operatorname{rank}(A)=n.$ \n\n(ii) If equation $A \\mathbf{x}=0$ has only trivial solution, then $\\operatorname{rank}(A)=n.$\n\n(iii) If $\\operatorname{rank}(A)=n$ then rows of $A$ form a linearly dependent set.\n\n(iv) If $\\operatorname{rank}(A)=n$ and $A$ is square matrix then $A$ is invertible.\n\n(v) If $ \\operatorname{rank}(A)=m$ and the linear transform $\\mathbf{x} \\mapsto A \\mathbf{x}$ is one-to-one then $A$ is invertible.\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "448bab3c-2ebe-424d-900c-69b476f0da6e",
+        "index": 0,
+        "body": "(i), (ii) and (iv) only",
+        "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+        "stats": {
+          "count": 900
+        },
+        "resources": []
+      },
+      {
+        "id": "76b0a706-b2f2-4fd1-8cb5-a36daad17105",
+        "index": 1,
+        "body": "(ii), (iii) and (v) only",
+        "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+        "stats": {
+          "count": 419
+        },
+        "resources": []
+      },
+      {
+        "id": "1ac46927-8d09-4aa7-9e12-435f8339e973",
+        "index": 2,
+        "body": "(i), (ii), (iv) and (v) only",
+        "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+        "stats": {
+          "count": 894
+        },
+        "resources": []
+      },
+      {
+        "id": "e543944b-34ce-4fad-a885-638e703a3d94",
+        "index": 3,
+        "body": "(ii), (iv) and (v) only",
+        "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+        "stats": {
+          "count": 3323
+        },
+        "resources": []
+      },
+      {
+        "id": "fee1d5ff-8363-44f2-bc7f-c5c0a468bf6b",
+        "index": 4,
+        "body": "all are true",
+        "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+        "stats": {
+          "count": 182
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "03a96122-c341-43b0-9270-fe2b7d647936",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1416003848",
+    "timeSpentVideo": "390780616",
+    "submissions": 6373,
+    "submissionsCorrect": 3323,
+    "accuracy": 0.5214184842303468,
+    "difficulty": 0.728912405376178
+  },
+  "resources": [],
+  "exam": {
+    "id": "03a96122-c341-43b0-9270-fe2b7d647936",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8407883685",
+      "timeSpentVideo": "1975089534",
+      "submissions": 39188,
+      "submissionsCorrect": 20608,
+      "questions": 10,
+      "accuracy": 0.5258752679391651,
+      "difficulty": 0.7241905925473427
+    }
+  },
+  "explanation": {
+    "id": "2bbf1c74-6681-4632-a5dc-646f027ca8b0",
+    "body": "",
+    "questionId": "f1f6bd2d-c7a2-44ec-af47-c245cfec1a46",
+    "resources": [
+      {
+        "id": "eaf22bab-53ca-49fe-9a2a-87db41f59a54",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8yjahXw-m8E?t=165\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2bbf1c74-6681-4632-a5dc-646f027ca8b0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2faacec8-8d86-46ca-9aea-8acf33d440d7",
+      "name": "Invertible Matrices",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19552912902",
+        "timeSpentVideo": "2872856792",
+        "submissions": 49440,
+        "submissionsCorrect": 26871,
+        "questions": 15,
+        "accuracy": 0.543507281553398,
+        "difficulty": 0.7065805409769883
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following logical expressions from the code segment above are complements?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "dd1ccb3b-7d0f-416b-bc1f-31fc4626d334",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical expressions on line #10 and line #14 are complements.</font>",
+        "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "6d1728e7-1493-4fbf-928f-8bcf02a19a46",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical expressions on line #10 and line #18 are complements.</font>",
+        "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+        "stats": {
+          "count": 336
+        },
+        "resources": []
+      },
+      {
+        "id": "afa74245-f3cf-478c-987a-480230059df6",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical expressions on line #14 and line #18 are complements.</font>",
+        "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "a2c1c48a-e9f8-4230-87b4-2aeec5bc5c11",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+        "stats": {
+          "count": 588
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 38,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "87389337",
+    "timeSpentVideo": "0",
+    "submissions": 1089,
+    "submissionsCorrect": 588,
+    "accuracy": 0.5399449035812672,
+    "difficulty": 0.7134146341463414
+  },
+  "resources": [
+    {
+      "id": "993a88f4-a4b3-428d-8739-4e189f76ab59",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main()\n{\n  int w = 0;\n  int x = 5;\n  int y = 10;\n  int z = 0;\n\n  if (w && x || y && z)\n  {\n    w = 1;\n  }\n  else if (!w && !x || !y && !z)\n  {\n    x = 1;\n  }\n  else if (!w || !x && !y || !z)\n  {\n    y = 1;\n  }\n  else\n  {\n    z = 1;\n  }\n\n  return (0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "0f3615fc-d70b-4008-9f1d-36610119edb6",
+    "body": "",
+    "questionId": "d9bacc3f-7ad9-4a9d-8bcc-c2325db12e7a",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    }
+  ],
+  "children": []
+}

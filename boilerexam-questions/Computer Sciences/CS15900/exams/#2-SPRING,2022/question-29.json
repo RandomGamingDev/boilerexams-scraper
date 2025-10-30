@@ -1,0 +1,133 @@
+{
+  "id": "ed13181e-6ddf-4d0f-8058-aea779035426",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is a valid use of a fixed-length array x of size 5 in the C language?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "b34272d3-069d-4c6a-9f1d-018c095f4431",
+        "index": 0,
+        "body": "Display all values in the array: <font style=\"font-family:'Courier New'\">printf(\"%d\\n\", x);</font>",
+        "questionId": "ed13181e-6ddf-4d0f-8058-aea779035426",
+        "stats": {
+          "count": 282
+        },
+        "resources": []
+      },
+      {
+        "id": "ba8e411b-fd8d-458e-b08c-f8552a32ad23",
+        "index": 1,
+        "body": "Copy all values from the array <font style=\"font-family:'Courier New'\">x</font> into an array <font style=\"font-family:'Courier New'\">y</font> of the same size: <font style=\"font-family:'Courier New'\">y = x;</font>",
+        "questionId": "ed13181e-6ddf-4d0f-8058-aea779035426",
+        "stats": {
+          "count": 549
+        },
+        "resources": []
+      },
+      {
+        "id": "f6db6d4c-8043-40e6-8f74-abe9c3675321",
+        "index": 2,
+        "body": "Add a new element to the end of the array: <font style=\"font-family:'Courier New'\">x[5] = 0;</font>",
+        "questionId": "ed13181e-6ddf-4d0f-8058-aea779035426",
+        "stats": {
+          "count": 454
+        },
+        "resources": []
+      },
+      {
+        "id": "bdf27c8f-b3bf-409d-b24d-16ff0b3b17c1",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "ed13181e-6ddf-4d0f-8058-aea779035426",
+        "stats": {
+          "count": 1504
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "103866007",
+    "timeSpentVideo": "43864271",
+    "submissions": 2928,
+    "submissionsCorrect": 1504,
+    "accuracy": 0.5136612021857924,
+    "difficulty": 0.7367899603698811
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "441e464a-338a-4b5a-9d0d-184f9d9bc923",
+    "body": "",
+    "questionId": "ed13181e-6ddf-4d0f-8058-aea779035426",
+    "resources": [
+      {
+        "id": "dd849b44-cfe3-4500-b389-40327e2abc24",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=5025"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "441e464a-338a-4b5a-9d0d-184f9d9bc923",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

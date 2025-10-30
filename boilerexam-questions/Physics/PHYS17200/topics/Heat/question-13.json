@@ -1,0 +1,143 @@
+{
+  "id": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A block of mass $M_{A}$ and specific heat $C_{A}$ has an initial temperature of $T_{A}$. It is brought into thermal contact with a second block of mass $M_{B}$ and specific heat $C_{B}$ at temperature $T_{B}$.\n\nWhich equation should you solve to find the final equilibrium temperature $T$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "13b3302b-5e9c-4d7c-a447-263ad6ced0df",
+        "index": 0,
+        "body": "$M_{A} C_{A}\\left(T-T_{A}\\right)+M_{B} C_{B}\\left(T-T_{B}\\right)=0$",
+        "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+        "stats": {
+          "count": 1122
+        },
+        "resources": []
+      },
+      {
+        "id": "07e3db79-ca13-4a5e-8ba6-232951a8b45c",
+        "index": 1,
+        "body": "$M_{A} C_{A}\\left(T-T_{A}\\right)+M_{B} C_{B}\\left(T_{B}-T\\right)=0$",
+        "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+        "stats": {
+          "count": 127
+        },
+        "resources": []
+      },
+      {
+        "id": "2eefc778-8bab-4215-a77e-735445aa5984",
+        "index": 2,
+        "body": "$M_{A} C_{A}\\left(T-T_{B}\\right)+M_{B} C_{B}\\left(T_{A}-T\\right)=0$",
+        "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "4771738e-fac2-44da-80c2-de8d9df77fb6",
+        "index": 3,
+        "body": "$M_{A} C_{A}\\left(T-T_{B}\\right)+M_{B} C_{B}\\left(T-T_{A}\\right)=0$",
+        "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "54561194-da88-413d-94e0-8f25622e5f0f",
+        "index": 4,
+        "body": "None of the above",
+        "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "84712881",
+    "timeSpentVideo": "12364435",
+    "submissions": 1388,
+    "submissionsCorrect": 1122,
+    "accuracy": 0.80835734870317,
+    "difficulty": 0.4623655913978495
+  },
+  "resources": [],
+  "exam": {
+    "id": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5523245305",
+      "timeSpentVideo": "1139418888",
+      "submissions": 48688,
+      "submissionsCorrect": 30313,
+      "questions": 28,
+      "accuracy": 0.6225969438054552,
+      "difficulty": 0.6276543412314504
+    }
+  },
+  "explanation": {
+    "id": "f40c49a3-5ddf-4047-8b52-f59590cf0673",
+    "body": "",
+    "questionId": "3d8e674c-5c08-42e1-b0c9-5ba6357a8816",
+    "resources": [
+      {
+        "id": "9bc4d487-cf28-4a7d-a9be-96ce2e55883c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/VGo5P1HejLE?t=3250\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f40c49a3-5ddf-4047-8b52-f59590cf0673",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5723f67-943d-4226-ba30-c995cf9b2060",
+      "name": "Heat",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1361905497",
+        "timeSpentVideo": "88598302",
+        "submissions": 4638,
+        "submissionsCorrect": 3193,
+        "questions": 4,
+        "accuracy": 0.6884432945235015,
+        "difficulty": 0.5655339805825242
+      }
+    }
+  ],
+  "children": []
+}

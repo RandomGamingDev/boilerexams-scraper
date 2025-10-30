@@ -1,0 +1,153 @@
+{
+  "id": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a formula for the volume of the following solid: The region bounded by $y=\\sqrt{x}$, the $x$-axis, and $x=1$, is revolved about the line $y=1$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "761d505d-7cc1-43a5-a4dc-51bea465b65f",
+        "index": 0,
+        "body": "$\\int_{0}^{1} 2 \\pi(1-y)\\left(1-y^{2}\\right) d y$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 1822
+        },
+        "resources": []
+      },
+      {
+        "id": "86ae25fd-aff4-4774-9946-79a3930f5016",
+        "index": 1,
+        "body": "$\\int_{0}^{1} 2 \\pi(1-x)(1-\\sqrt{x}) d x$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 244
+        },
+        "resources": []
+      },
+      {
+        "id": "2b5e77a9-3ae4-4e5a-a016-3580ce524a14",
+        "index": 2,
+        "body": "$\\int_{0}^{1} 2 \\pi y\\left(1-y^{2}\\right) d y$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 426
+        },
+        "resources": []
+      },
+      {
+        "id": "8cd07f7d-3636-48f7-b0b1-47c52a776ff4",
+        "index": 3,
+        "body": "$\\int_{0}^{1} 2 \\pi x(1-\\sqrt{x}) d x$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "0a770245-e0ee-4902-b68e-61c08d9c6df0",
+        "index": 4,
+        "body": "$\\int_{0}^{1} 2 \\pi y^{3} d y$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "1b7e4c04-903c-4985-b65d-13a42059dc0f",
+        "index": 5,
+        "body": "$\\int_{0}^{1} 2 \\pi x^{3 / 2} d x$",
+        "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "fd7fa488-b09e-424a-8d14-666f46174e55",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "684791653",
+    "timeSpentVideo": "91415761",
+    "submissions": 3097,
+    "submissionsCorrect": 1822,
+    "accuracy": 0.588311268969971,
+    "difficulty": 0.6644510478573663
+  },
+  "resources": [],
+  "exam": {
+    "id": "fd7fa488-b09e-424a-8d14-666f46174e55",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7484783483",
+      "timeSpentVideo": "775932840",
+      "submissions": 38477,
+      "submissionsCorrect": 23785,
+      "questions": 12,
+      "accuracy": 0.618161499077371,
+      "difficulty": 0.632144801306478
+    }
+  },
+  "explanation": {
+    "id": "786451f3-64a6-4cf8-af8b-8d1083a2ffb9",
+    "body": "",
+    "questionId": "ef47fe78-1816-4d08-83da-5ddf73401b31",
+    "resources": [
+      {
+        "id": "70bc5af8-e309-4dde-a1c7-7f4333b4b95a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/raWrDy_ILgY?t=839 "
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "786451f3-64a6-4cf8-af8b-8d1083a2ffb9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79755eab-93f7-44ec-9e79-cedd45a22d1a",
+      "name": "Volume of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23308108625",
+        "timeSpentVideo": "1117444870",
+        "submissions": 50426,
+        "submissionsCorrect": 30657,
+        "questions": 16,
+        "accuracy": 0.6079601792725975,
+        "difficulty": 0.6422534932509995
+      }
+    }
+  ],
+  "children": []
+}

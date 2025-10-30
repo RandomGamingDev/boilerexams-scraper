@@ -1,0 +1,173 @@
+{
+  "id": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The series \\[\\sum_{n=1}^{\\infty}\\sin(\\frac{1}{n})\\] is",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a0d30c41-888c-492a-8a46-75a7157eb1c8",
+        "index": 0,
+        "body": "convergent by the limit comparison test with $\\sum_{n=1}^{\\infty}\\frac{1}{n}$",
+        "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+        "stats": {
+          "count": 267
+        },
+        "resources": []
+      },
+      {
+        "id": "f33e39a8-52d8-4a89-9ea5-a03a0281ecec",
+        "index": 1,
+        "body": "convergent by the limit comparison test with $\\sum_{n=1}^{\\infty}\\frac{1}{n^2}$",
+        "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "3a8932ba-3f50-483c-a95d-6d7e8264d433",
+        "index": 2,
+        "body": "divergent by the limit comparison test with $\\sum_{n=1}^{\\infty}\\frac{1}{n}$",
+        "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+        "stats": {
+          "count": 1032
+        },
+        "resources": []
+      },
+      {
+        "id": "2e62999c-7d6d-4991-b9db-0f37491a850f",
+        "index": 3,
+        "body": "divergent by the limit comparison test with $\\sum_{n=1}^{\\infty}\\frac{1}{n^2}$",
+        "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "9abc959d-27ed-4cc1-97c5-027d1cd1ae06",
+        "index": 4,
+        "body": "divergent by the test for divergence.",
+        "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "312435162",
+    "timeSpentVideo": "31458577",
+    "submissions": 1624,
+    "submissionsCorrect": 1032,
+    "accuracy": 0.6354679802955665,
+    "difficulty": 0.6223897911832946
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3456260593",
+      "timeSpentVideo": "520083877",
+      "submissions": 18340,
+      "submissionsCorrect": 11369,
+      "questions": 12,
+      "accuracy": 0.6199018538713196,
+      "difficulty": 0.6307483731019523
+    }
+  },
+  "explanation": {
+    "id": "eedb8c5a-8140-4d64-bbd9-365a30618f94",
+    "body": "",
+    "questionId": "3e9a67a1-2d6f-4187-8c92-9a86321c5f10",
+    "resources": [
+      {
+        "id": "e3cfa4ad-24cf-4f23-86d2-028a6d0e66c5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eulVR-n2sNg&t=3119s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eedb8c5a-8140-4d64-bbd9-365a30618f94",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266771297",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102215,
+        "submissionsCorrect": 63359,
+        "questions": 31,
+        "accuracy": 0.6198600988113291,
+        "difficulty": 0.630257049308508
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    },
+    {
+      "id": "fa192135-b4e1-40e8-85ce-a3b292efe1e7",
+      "name": "Series",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "11213900570",
+        "timeSpentVideo": "825795414",
+        "submissions": 23786,
+        "submissionsCorrect": 12886,
+        "questions": 12,
+        "accuracy": 0.541747246279324,
+        "difficulty": 0.708427530771163
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Write the following expression as a single logarithm:\n\n\n\\[\n5 \\ln (x+2)-7 \\ln (x)+\\ln (y)-\\ln (z)\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4a8b6aa7-9905-43e7-a454-d37dd24457d4",
+        "index": 0,
+        "body": "$\\ln (35 x y z(x+2))$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "2ac9641c-5c13-4d7e-965c-5faeee903759",
+        "index": 1,
+        "body": "$\\ln \\left(x^{7} y z(x+2)^{5}\\right)$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "8fe7ae46-29f2-4333-8d55-e98ed8000ec3",
+        "index": 2,
+        "body": "$\\ln \\left(\\frac{x^{7} z}{(x+2)^{5} y}\\right)$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "ef7edd95-f7df-482d-ac14-cedd12b69c9c",
+        "index": 3,
+        "body": "$\\ln \\left(\\frac{(x+2)^{5} y}{x^{7} z}\\right)$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 794
+        },
+        "resources": []
+      },
+      {
+        "id": "346804d2-ef28-45cd-bd71-3dbc52d4f101",
+        "index": 4,
+        "body": "$\\ln \\left(\\frac{5(x+2) y}{7 x z}\\right)$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "f263276d-b8af-425c-b700-36e32c124dc8",
+        "index": 5,
+        "body": "$\\ln \\left(\\frac{(2 x)^{5} y}{x^{7} z}\\right)$",
+        "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "ce141299-098e-4dcf-acc0-3cf27dde9735",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "178987970",
+    "timeSpentVideo": "19472393",
+    "submissions": 1107,
+    "submissionsCorrect": 794,
+    "accuracy": 0.7172538392050587,
+    "difficulty": 0.5507456503728252
+  },
+  "resources": [],
+  "exam": {
+    "id": "ce141299-098e-4dcf-acc0-3cf27dde9735",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2053377667",
+      "timeSpentVideo": "203423301",
+      "submissions": 15279,
+      "submissionsCorrect": 10226,
+      "questions": 15,
+      "accuracy": 0.669284639047058,
+      "difficulty": 0.5818161128812016
+    }
+  },
+  "explanation": {
+    "id": "18fd568b-7bb0-4677-bdb4-94a2d5592933",
+    "body": "",
+    "questionId": "9bfe5faa-48a8-484c-9577-9bb7ec365b13",
+    "resources": [
+      {
+        "id": "20c322f0-7b7e-4057-9242-d3901286ca1d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ChPh81SAaMU?si=XN3r1toxTux4SQ2-&t=128"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "18fd568b-7bb0-4677-bdb4-94a2d5592933",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c8b86082-ae3a-4855-9d16-20146b8a5740",
+      "name": "Properties of Logarithms",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1743530200",
+        "timeSpentVideo": "33619503",
+        "submissions": 3024,
+        "submissionsCorrect": 2286,
+        "questions": 3,
+        "accuracy": 0.7559523809523809,
+        "difficulty": 0.5022407170294494
+      }
+    }
+  ],
+  "children": []
+}

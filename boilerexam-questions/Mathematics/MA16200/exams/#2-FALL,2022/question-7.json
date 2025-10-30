@@ -1,0 +1,143 @@
+{
+  "id": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral.\n\n\\[\n\\int \\frac{x^{2}}{\\left(4-x^{2}\\right)^{3 / 2}} d x\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1ca7d1ec-6ab5-4ae6-8868-0044261bbc97",
+        "index": 0,
+        "body": "$\\frac{x}{\\sqrt{4-x^{2}}}-\\sin ^{-1}\\left(\\frac{x}{2}\\right)+C$",
+        "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+        "stats": {
+          "count": 1391
+        },
+        "resources": []
+      },
+      {
+        "id": "d7033886-525f-4f6a-9867-dab3a8313664",
+        "index": 1,
+        "body": "$\\frac{x^{3}}{\\sqrt{4-x^{2}}}+C$",
+        "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "34aa549b-de8a-4721-a020-f7175ba558da",
+        "index": 2,
+        "body": "$\\frac{1}{2} \\tan ^{3}\\left(\\frac{x}{2}\\right)+C$",
+        "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "c90992b2-901e-45da-9d0c-e18a3bda135f",
+        "index": 3,
+        "body": "$-x+\\tan x+C$",
+        "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+        "stats": {
+          "count": 128
+        },
+        "resources": []
+      },
+      {
+        "id": "4651d607-f9bb-4172-bde1-cc3c821a44d1",
+        "index": 4,
+        "body": "$2 x+\\cos ^{-1}(2 x)+C$",
+        "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "563191472",
+    "timeSpentVideo": "69811491",
+    "submissions": 2162,
+    "submissionsCorrect": 1391,
+    "accuracy": 0.6433857539315448,
+    "difficulty": 0.6129531388152077
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "6e6676d0-9344-4887-810a-67a51fcca76e",
+    "body": "",
+    "questionId": "1331d9ea-43f0-4104-a9c8-699b3f809797",
+    "resources": [
+      {
+        "id": "31d793b0-0cd0-4a60-afb7-92d2c5c3f05d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=912\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6e6676d0-9344-4887-810a-67a51fcca76e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

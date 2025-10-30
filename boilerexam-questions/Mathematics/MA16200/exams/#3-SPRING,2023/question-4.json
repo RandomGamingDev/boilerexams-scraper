@@ -1,0 +1,143 @@
+{
+  "id": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "According to the root test, the series\n\n\n\\[\n\\sum_{k=1}^{\\infty}\\left[\\sin \\left(\\frac{1}{k}\\right)\\right]^{k}\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "deb118a9-e830-4a68-9380-b49ce10d18de",
+        "index": 0,
+        "body": "Inconclusive because $\\rho=0$",
+        "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      },
+      {
+        "id": "991fa53c-90fb-4962-818d-db0760a85933",
+        "index": 1,
+        "body": "Converges because $\\rho<\\infty$",
+        "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "a88c0c81-7b5c-496f-a99d-1ececd0e9121",
+        "index": 2,
+        "body": "Diverges because $\\rho>1$",
+        "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+        "stats": {
+          "count": 312
+        },
+        "resources": []
+      },
+      {
+        "id": "f9b035d6-1a06-427c-9dc1-19435f0fdb18",
+        "index": 3,
+        "body": "Inconclusive because $\\rho=1$",
+        "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+        "stats": {
+          "count": 541
+        },
+        "resources": []
+      },
+      {
+        "id": "75017603-906d-4d31-a922-2d6a14f9b917",
+        "index": 4,
+        "body": "Converges because $\\rho<1$",
+        "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+        "stats": {
+          "count": 3330
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "386200609",
+    "timeSpentVideo": "137689741",
+    "submissions": 4983,
+    "submissionsCorrect": 3330,
+    "accuracy": 0.6682721252257676,
+    "difficulty": 0.5850383631713555
+  },
+  "resources": [],
+  "exam": {
+    "id": "19e8eb58-b9cf-45de-ba66-a18aa0efe013",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6555956448",
+      "timeSpentVideo": "2209119413",
+      "submissions": 49433,
+      "submissionsCorrect": 29076,
+      "questions": 12,
+      "accuracy": 0.5881900754556673,
+      "difficulty": 0.6619879676175479
+    }
+  },
+  "explanation": {
+    "id": "a66b4f02-281f-480d-8b25-65cad70e9113",
+    "body": "",
+    "questionId": "26a52c19-c662-43af-9eac-8f5ce3e5ce11",
+    "resources": [
+      {
+        "id": "4f4a35a0-13e5-4bcd-b427-9878f9d91a9b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/BR2v5qU9Zag?t=459\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a66b4f02-281f-480d-8b25-65cad70e9113",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae5633cd-627f-483f-9391-431092306654",
+      "name": "Root Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "766615725",
+        "timeSpentVideo": "212976665",
+        "submissions": 4983,
+        "submissionsCorrect": 3330,
+        "questions": 1,
+        "accuracy": 0.6682721252257676,
+        "difficulty": 0.5850383631713555
+      }
+    }
+  ],
+  "children": []
+}

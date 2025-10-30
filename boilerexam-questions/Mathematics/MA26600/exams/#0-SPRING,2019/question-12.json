@@ -1,0 +1,143 @@
+{
+  "id": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of the function\n\n\n\\[\nf(t)=\\int_{0}^{t} e^{t- \\tau} \\cos (t-\\tau) \\tau^{3} d \\tau\n\\]\n\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7c257485-e321-4a94-9a40-1b3c6024925a",
+        "index": 0,
+        "body": "$\\frac{6(s+1)}{s^{4}\\left(s^{2}+2 s+2\\right)}$",
+        "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+        "stats": {
+          "count": 111
+        },
+        "resources": []
+      },
+      {
+        "id": "e8f3c224-9037-4a3f-933f-18d89542b729",
+        "index": 1,
+        "body": "$\\frac{6}{s^{4}\\left(1+s^{2}\\right)}$",
+        "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "03987d84-0878-4a6d-9e9b-99db35362521",
+        "index": 2,
+        "body": "$\\frac{6(s-1)}{s^{4}\\left(s^{2}-2 s+2\\right)}$",
+        "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+        "stats": {
+          "count": 1121
+        },
+        "resources": []
+      },
+      {
+        "id": "d7c0f376-4f6b-4b35-8db5-dd25fb3b76cd",
+        "index": 3,
+        "body": "$\\frac{6}{s^{4}\\left(s^{2}-2 s+2\\right)}$",
+        "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "51e8038a-ee7f-4abc-a6e3-5543b9ee9474",
+        "index": 4,
+        "body": "$\\frac{6 s}{(s+1)^4(s^2+1)}$",
+        "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "337279745",
+    "timeSpentVideo": "41488796",
+    "submissions": 1721,
+    "submissionsCorrect": 1121,
+    "accuracy": 0.6513654851830332,
+    "difficulty": 0.606946732564525
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "fe544698-5a04-494c-87d8-9eea5529986a",
+    "body": "",
+    "questionId": "7a6227b9-b8a6-450f-9610-c4a7e740d28f",
+    "resources": [
+      {
+        "id": "5336ac7b-9974-4e1f-bd66-0c26dfb30488",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=NRkTGRsSKMz41ryC&t=1584"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fe544698-5a04-494c-87d8-9eea5529986a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

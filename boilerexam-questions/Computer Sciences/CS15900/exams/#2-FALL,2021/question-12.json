@@ -1,0 +1,149 @@
+{
+  "id": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The AND operator on line #14 has been changed to an OR. What is the output of the program?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "21f27336-f905-4e2d-baad-aa01afbe63ce",
+        "index": 0,
+        "body": "x: 0, y: 2",
+        "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "3300a1ce-c784-4fad-a175-1788e7624c80",
+        "index": 1,
+        "body": "x: 16, y: 2",
+        "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+        "stats": {
+          "count": 331
+        },
+        "resources": []
+      },
+      {
+        "id": "489d5c40-d411-4842-83c5-136935d15b1d",
+        "index": 2,
+        "body": "x: 16627, y: 1",
+        "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+        "stats": {
+          "count": 1328
+        },
+        "resources": []
+      },
+      {
+        "id": "7e45a6d4-aab8-4ed6-bf0c-11baf4c5bacd",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+        "stats": {
+          "count": 432
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "305064505",
+    "timeSpentVideo": "28164682",
+    "submissions": 2301,
+    "submissionsCorrect": 1328,
+    "accuracy": 0.5771403737505433,
+    "difficulty": 0.6760724698042482
+  },
+  "resources": [
+    {
+      "id": "38a21c6e-8f1b-46a0-8593-353d207f7ddb",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main()\n{\n  int x = 1662783;\n  int curr;\n  int next;\n  int y = 0;\n  \n  do\n  {\n    curr = x % 10;\n    next = x / 10 % 10;\n    y += curr % 2 || !(next++ % 2);\n    x /= 10;\n  } while (curr != next);\n  \n  printf(\"x: %d, y: %d\\n\", x, y);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "e6585f70-f4d8-44c4-9272-e6c10ae9434f",
+    "body": "",
+    "questionId": "20a1127f-cef0-49d7-bf3b-f24cda89fdd6",
+    "resources": [
+      {
+        "id": "ad7e34e0-cc99-46c2-98df-08b5833c8dd0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=1546"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e6585f70-f4d8-44c4-9272-e6c10ae9434f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

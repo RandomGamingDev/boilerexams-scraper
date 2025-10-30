@@ -1,0 +1,173 @@
+{
+  "id": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $V$ be a vector space spanned by vectors $\\mathbf{u}, \\mathbf{v}$, and $\\mathbf{w}$. Then which statement is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cbfbda32-1d7a-4982-80f7-18321c189d74",
+        "index": 0,
+        "body": "$\\mathbf{u}, \\mathbf{v}$, and $\\mathbf{w}$ must be linearly independent.",
+        "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+        "stats": {
+          "count": 533
+        },
+        "resources": []
+      },
+      {
+        "id": "a3a3f4a1-2873-4ad9-8bee-662b579c7ed3",
+        "index": 1,
+        "body": "$\\operatorname{dim}(V)=0,1,2$, or $3$.",
+        "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+        "stats": {
+          "count": 2119
+        },
+        "resources": []
+      },
+      {
+        "id": "039d5255-262c-485e-ba56-a877f68b98a2",
+        "index": 2,
+        "body": "$\\mathbf{u}, \\mathbf{v}$, and $\\mathbf{w}$ form a basis for $V$.",
+        "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+        "stats": {
+          "count": 517
+        },
+        "resources": []
+      },
+      {
+        "id": "f166c822-6c75-4168-8eb8-a16f063b68b4",
+        "index": 3,
+        "body": "$\\operatorname{dim}(V)=3$.",
+        "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      },
+      {
+        "id": "0e083b6b-89e1-4456-99c6-f63c50d4f5ed",
+        "index": 4,
+        "body": "$\\operatorname{dim}(V)<3$.",
+        "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+        "stats": {
+          "count": 125
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "321893983",
+    "timeSpentVideo": "133329817",
+    "submissions": 3804,
+    "submissionsCorrect": 2119,
+    "accuracy": 0.5570452155625657,
+    "difficulty": 0.6944159836065574
+  },
+  "resources": [],
+  "exam": {
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9668513490",
+      "timeSpentVideo": "2294954010",
+      "submissions": 50697,
+      "submissionsCorrect": 27301,
+      "questions": 25,
+      "accuracy": 0.5385131270094877,
+      "difficulty": 0.7115626907100813
+    }
+  },
+  "explanation": {
+    "id": "7ee2e3ff-cba7-4493-b566-924f0e024b35",
+    "body": "",
+    "questionId": "ebcb0e28-77f3-46a7-9847-93da33551d5f",
+    "resources": [
+      {
+        "id": "9fed1e99-ce99-4e4e-82ff-cd114c099881",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1306"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7ee2e3ff-cba7-4493-b566-924f0e024b35",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "42396a2a-e958-4c11-bc80-d16da73e6918",
+      "name": "Linear Independence",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37989196465",
+        "timeSpentVideo": "4746902815",
+        "submissions": 92454,
+        "submissionsCorrect": 55330,
+        "questions": 26,
+        "accuracy": 0.5984597745906072,
+        "difficulty": 0.6516466063055081
+      }
+    },
+    {
+      "id": "fb4e167d-626c-44d4-b679-a998679a5b12",
+      "name": "Dimension",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16628702850",
+        "timeSpentVideo": "2214638998",
+        "submissions": 46184,
+        "submissionsCorrect": 27923,
+        "questions": 12,
+        "accuracy": 0.6046033258271263,
+        "difficulty": 0.645622677383113
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the solution to the initial value problem\n\n\n\\[\n(e^{x}siny-2x-y)+(e^{x}cosy-x+3y^{2})\\frac{dy}{dx}=0, \\quad y(0)=\\pi?\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "5d72478b-d08e-456f-92f6-72af647d2277",
+        "index": 0,
+        "body": "$e^{x} \\sin y-x^{2}-x y+y^{3}=\\pi$",
+        "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "eec25739-9456-4730-8de5-dfd027a482be",
+        "index": 1,
+        "body": "$e^{x} \\cos y-x^{2}-x y+y^{3}=-1+\\pi^{3}$",
+        "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "7c593f79-5ffc-4feb-bc9d-80c056c8589d",
+        "index": 2,
+        "body": "$e^{x} \\sin y-x^{2}-x y+3 y^{3}=3 \\pi^{3}$",
+        "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "ec5f2896-27f4-4ebd-96b6-d22a4cac28c1",
+        "index": 3,
+        "body": "$e^{x} \\cos y+x^{2}-x y+y^{3}=\\pi^{3}$",
+        "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "9c28877a-4c1d-4e28-bf15-fe7f7a57e68e",
+        "index": 4,
+        "body": "$e^{x} \\sin y-x^{2}-x y+y^{3}=\\pi^{3}$",
+        "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+        "stats": {
+          "count": 683
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "302467140",
+    "timeSpentVideo": "28372352",
+    "submissions": 1040,
+    "submissionsCorrect": 683,
+    "accuracy": 0.6567307692307692,
+    "difficulty": 0.6070175438596491
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "7adc3f9b-58e5-4cca-8428-b7df9a660c62",
+    "body": "",
+    "questionId": "e3e37fe3-ce45-4fac-8834-f62be7ae39a6",
+    "resources": [
+      {
+        "id": "f48cf9ff-60b9-4a77-a248-844adcb34cc7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=yDwh7lh0yeKnZDF2&t=403\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7adc3f9b-58e5-4cca-8428-b7df9a660c62",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

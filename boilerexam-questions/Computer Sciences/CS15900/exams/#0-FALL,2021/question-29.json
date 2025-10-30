@@ -1,0 +1,134 @@
+{
+  "id": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value found at index 2 of the array after the <font style=\"font-family:'Courier New'\">for</font> loop in the <font style=\"font-family:'Courier New'\">main</font> function terminates?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6447395e-2c35-45db-aea3-4c3ab235d045",
+        "index": 0,
+        "body": "0",
+        "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+        "stats": {
+          "count": 196
+        },
+        "resources": []
+      },
+      {
+        "id": "123fa7c9-de43-410b-a35b-996f933b9802",
+        "index": 1,
+        "body": "1",
+        "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+        "stats": {
+          "count": 1056
+        },
+        "resources": []
+      },
+      {
+        "id": "b2fe291d-0f36-42a5-98c4-4341718dd98b",
+        "index": 2,
+        "body": "2",
+        "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+        "stats": {
+          "count": 313
+        },
+        "resources": []
+      },
+      {
+        "id": "369796a1-c13f-4343-be6e-83b2a36816b2",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "431995539",
+    "timeSpentVideo": "0",
+    "submissions": 1892,
+    "submissionsCorrect": 1056,
+    "accuracy": 0.5581395348837209,
+    "difficulty": 0.6947791164658634
+  },
+  "resources": [
+    {
+      "id": "294a28e9-0a60-495f-8d6e-ef768e8dc2c3",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\nint calcNumber(int, int);\n\nint main()\n{\n  int x[4] = { 21, 6, 18, 13 };\n  int i;\n\n  for (i = 1; i < 4; i++)\n  {\n    x[i - 1] = calcNumber(x[i - 1], x[i]);\n  }\n\n  return (0);\n}\n\nint calcNumber(int a, int b)\n{\n  int d = 0;\n  int remA;\n  int remB;\n\n  do \n  {\n    remA = a % 2;\n    remB = b % 2;\n    if (remA + remB != 2)\n    {\n      a /= (2 - remA);\n      b /= (2 - remB);\n      d += !remA && !remB;\n    }\n    else\n    {\n      if (a < b)\n      {\n        b += a;\n        a = b - a;\n        b -= a;\n      }\n      a -= b;\n    }\n  } while (a != b);\n\n  return (a* pow(2, d));\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "af7c09f1-8505-460a-a306-c3492a6dfc95",
+    "body": "",
+    "questionId": "fee9a6d5-2bc7-4b09-b909-f4b38b70b5fa",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ae24734f-46a2-4513-a398-90cffa269acf",
+      "name": "Arrays",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34211790951",
+        "timeSpentVideo": "176607072",
+        "submissions": 99409,
+        "submissionsCorrect": 67220,
+        "questions": 55,
+        "accuracy": 0.6761963202526934,
+        "difficulty": 0.5739807454602096
+      }
+    }
+  ],
+  "children": []
+}

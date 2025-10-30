@@ -1,0 +1,173 @@
+{
+  "id": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A$ be an $3 \\times 5$ matrix with $\\operatorname{rank}(A)=3$. Which of the following statements must be FALSE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "aeb301a7-2b03-45a6-a385-cef5eb9eface",
+        "index": 0,
+        "body": "The equation $A \\mathbf{x}=\\mathbf{b}$ has a solution for any $\\mathbf{b}$ in $\\mathbb{R}^{3}$.",
+        "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+        "stats": {
+          "count": 317
+        },
+        "resources": []
+      },
+      {
+        "id": "8a9ebcb1-485b-439b-8ab1-2253dfc74240",
+        "index": 1,
+        "body": "If $B$ is a $3 \\times 5$ matrix that is row equivalent to $A$, then the columns of $B^{T}$ are linearly dependent.",
+        "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+        "stats": {
+          "count": 2384
+        },
+        "resources": []
+      },
+      {
+        "id": "eae7919b-a981-4d2b-a99a-9c95c5cd64cb",
+        "index": 2,
+        "body": "If $B$ is a $3 \\times 5$ matrix that is row equivalent to $A$, then $\\operatorname{Row}(A)=\\operatorname{Row}(B)$.",
+        "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+        "stats": {
+          "count": 349
+        },
+        "resources": []
+      },
+      {
+        "id": "24de874a-6580-486e-a914-1433b3b3046c",
+        "index": 3,
+        "body": "The linear transformation defined by $\\mathbf{x} \\mapsto A \\mathbf{x}$ is onto.",
+        "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+        "stats": {
+          "count": 408
+        },
+        "resources": []
+      },
+      {
+        "id": "d9190c7c-2990-43ab-87ab-98e7711a1dd7",
+        "index": 4,
+        "body": "The linear transformation defined by $\\mathbf{x} \\mapsto A^{T} \\mathbf{x}$ is one-to-one.",
+        "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+        "stats": {
+          "count": 738
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "752407019",
+    "timeSpentVideo": "254550327",
+    "submissions": 4543,
+    "submissionsCorrect": 2384,
+    "accuracy": 0.5247633722209993,
+    "difficulty": 0.7257699763084213
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "fcd60cc6-a516-49b2-a432-0fb207430984",
+    "body": "",
+    "questionId": "9fa8093c-03a4-4a1e-bd17-0464726e8554",
+    "resources": [
+      {
+        "id": "a16e83dc-7453-4301-aace-727991f1e7e7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=877\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fcd60cc6-a516-49b2-a432-0fb207430984",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8f8f1b57-44ac-453b-a0fc-abfe2c1456c4",
+      "name": "Row spaces",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2693730894",
+        "timeSpentVideo": "360888511",
+        "submissions": 7197,
+        "submissionsCorrect": 4291,
+        "questions": 2,
+        "accuracy": 0.5962206474920105,
+        "difficulty": 0.6550979854734823
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

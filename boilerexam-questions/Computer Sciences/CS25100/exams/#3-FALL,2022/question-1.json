@@ -1,0 +1,257 @@
+{
+  "id": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Show the state of the Left-Leaning Red-Black Tree after each of the following operations:\ninsert(3), insert(7), insert(2), insert(9), insert(0), insert(11), insert(1)\nNote: Denote black nodes using circles and red nodes using triangles.\nWARNING: Answers stated in terms of 2-3 Trees would receive 0 points.\n\nDo this question on your own, and then check your answers for each step below. To get this question marked as correct, select all the answers and hit submit.",
+    "solution": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "answerChoices": [
+      {
+        "id": "50300656-f86b-4ad3-9896-6a6a45ad6e3e",
+        "index": 0,
+        "body": "insert(3)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 80
+        },
+        "resources": [
+          {
+            "id": "4ad81e1f-cc94-4ef4-b264-db787b6e636c",
+            "type": "IMAGE",
+            "data": {
+              "key": "ZizDhqOJ--lqlhA9i2GIF",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/ZizDhqOJ--lqlhA9i2GIF",
+              "altText": "Black node 3"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "50300656-f86b-4ad3-9896-6a6a45ad6e3e",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "8b3f5248-db12-49d4-af8e-ae1642ea25c1",
+        "index": 1,
+        "body": "insert(7)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 65
+        },
+        "resources": [
+          {
+            "id": "6b9f808a-e4e7-4196-b5f5-828affb38ce6",
+            "type": "IMAGE",
+            "data": {
+              "key": "9_Q3HhGW2BKMWFwanfvVg",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9_Q3HhGW2BKMWFwanfvVg",
+              "altText": "Black 7, Red 3 as left child"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "8b3f5248-db12-49d4-af8e-ae1642ea25c1",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "70f4fcd4-e839-4e1d-a504-11de443636c8",
+        "index": 2,
+        "body": "insert(2)\n",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 68
+        },
+        "resources": [
+          {
+            "id": "c07cd060-f82b-443e-a0c3-2d40b4e53b63",
+            "type": "IMAGE",
+            "data": {
+              "key": "TTQaePa8rRObWJhFx4PhP",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/TTQaePa8rRObWJhFx4PhP",
+              "altText": "Black 3 root, black 2/7 children"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "70f4fcd4-e839-4e1d-a504-11de443636c8",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "e1264bc9-e9ae-40bd-96bd-aedb80baa04c",
+        "index": 3,
+        "body": "insert(9)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 69
+        },
+        "resources": [
+          {
+            "id": "05d26185-9ce2-42b9-a724-789f3a33a265",
+            "type": "IMAGE",
+            "data": {
+              "key": "b-qNwPwryGwsAEtOuQnnN",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/b-qNwPwryGwsAEtOuQnnN",
+              "altText": "Black 3 root, with black 2 and 9 as children. Red 7 as child of 9"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "e1264bc9-e9ae-40bd-96bd-aedb80baa04c",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "0a1403ef-a06c-48a9-a3a6-2cbdde018f2b",
+        "index": 4,
+        "body": "insert(0)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 73
+        },
+        "resources": [
+          {
+            "id": "036356ef-bf1d-4315-a108-f3306f1fac9e",
+            "type": "IMAGE",
+            "data": {
+              "key": "4pBbBbw08ke3TqJuYtLuS",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/4pBbBbw08ke3TqJuYtLuS",
+              "altText": "Same as previous with a red 0 as a child of the black 2"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "0a1403ef-a06c-48a9-a3a6-2cbdde018f2b",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "92921f46-2231-4e55-8492-ef4e49678040",
+        "index": 5,
+        "body": "insert(11)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 85
+        },
+        "resources": [
+          {
+            "id": "101609a7-e067-4214-b373-4123fba64bc0",
+            "type": "IMAGE",
+            "data": {
+              "key": "w4WsTCBt6g_jdh_N4kZes",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/w4WsTCBt6g_jdh_N4kZes",
+              "altText": "Black 9 root, Black 11 right child, Red 3 left child, Black 2 and Black 7 children of the Red 3, Red 0 as left child of the black 2"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "92921f46-2231-4e55-8492-ef4e49678040",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "d59fea30-68af-4ad6-9a51-b473d6c6efbc",
+        "index": 6,
+        "body": "insert(1)",
+        "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+        "stats": {
+          "count": 184
+        },
+        "resources": [
+          {
+            "id": "4a24cd57-5b4f-47d7-b956-824c14f4e720",
+            "type": "IMAGE",
+            "data": {
+              "key": "AT2z_WaX_oYuysVIBzYmZ",
+              "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/AT2z_WaX_oYuysVIBzYmZ",
+              "altText": "All nodes are black, Tree from top to bottom and left to right is 3, 1, 9, 0, 2, 7, 11"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "d59fea30-68af-4ad6-9a51-b473d6c6efbc",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "86833825",
+    "timeSpentVideo": "0",
+    "submissions": 303,
+    "submissionsCorrect": 202,
+    "accuracy": 0.6666666666666666,
+    "difficulty": 0.6246898263027295
+  },
+  "resources": [],
+  "exam": {
+    "id": "d55e9a80-dc28-4cce-a4da-2ef58d4f127e",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1606735893",
+      "timeSpentVideo": "0",
+      "submissions": 9052,
+      "submissionsCorrect": 6813,
+      "questions": 11,
+      "accuracy": 0.752651347768449,
+      "difficulty": 0.5001092657342657
+    }
+  },
+  "explanation": {
+    "id": "3cb0f39f-8d94-4092-ac60-5dabc700c724",
+    "body": "",
+    "questionId": "ce777564-d3e5-49d0-9e16-e85c69d36b7b",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

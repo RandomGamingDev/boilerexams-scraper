@@ -1,0 +1,143 @@
+{
+  "id": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\\[\n    y'' - 4y' + 4y = 0, \\quad y(0) = 12, \\; y'(0) = -3\n\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b5b41ff2-2487-4483-b12f-6798e9477371",
+        "index": 0,
+        "body": "$\n    y(t) = 10e^{2t} - 25te^{2t}\n$",
+        "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "d21ff653-9cb6-47bf-8495-9c436a56344d",
+        "index": 1,
+        "body": "$\n    y(t) = 12e^{2t} - 27te^{2t}\n$",
+        "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+        "stats": {
+          "count": 444
+        },
+        "resources": []
+      },
+      {
+        "id": "cf59ebf3-7b99-4878-a719-5e2036645d1c",
+        "index": 2,
+        "body": "$\n    y(t) = -15e^{2t}\n$",
+        "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "dc16bfdf-fd43-4b68-9aef-8f47a5bee6ce",
+        "index": 3,
+        "body": "$\n    y(t) = 5e^{2t} + 7e^{-2t}\n$",
+        "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "570cbb39-89fe-49d7-bf28-eac4fc889b9f",
+        "index": 4,
+        "body": "$\n    y(t) = 27e^{2t} - 15e^{-2t}\n$",
+        "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "105715540",
+    "timeSpentVideo": "1648621",
+    "submissions": 497,
+    "submissionsCorrect": 444,
+    "accuracy": 0.8933601609657947,
+    "difficulty": 0.4225293132328308
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "4b17a2bb-fefe-424e-891c-8637b81e4fea",
+    "body": null,
+    "questionId": "5cf0f92f-386d-48ed-9c60-d1f758d93509",
+    "resources": [
+      {
+        "id": "0a7676f2-66a3-42a8-9f09-c880c6f20e06",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=sI_njS2gJ3qDJ8qj&t=591"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4b17a2bb-fefe-424e-891c-8637b81e4fea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

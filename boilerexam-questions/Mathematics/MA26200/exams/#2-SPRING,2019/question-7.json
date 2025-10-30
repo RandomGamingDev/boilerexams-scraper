@@ -1,0 +1,143 @@
+{
+  "id": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) A particular solution of $y^{\\prime \\prime}(t)-9 y(t)=2 e^{3 t}+\\cos 3 t$ has the form",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1905f2bc-1ce6-4f31-a26a-5aff5a2369f8",
+        "index": 0,
+        "body": "$A e^{3 t}+B \\cos 3 t$",
+        "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "da9eac6d-9f04-4cc6-b8cc-2590c219d376",
+        "index": 1,
+        "body": "$A e^{3 t}+B \\cos 3 t+C \\sin 3 t$",
+        "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+        "stats": {
+          "count": 151
+        },
+        "resources": []
+      },
+      {
+        "id": "ea796e03-d474-4ba5-a2ec-e3964c00ca2d",
+        "index": 2,
+        "body": "$A t e^{3 t}+B \\cos 3 t+C \\sin 3 t$",
+        "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+        "stats": {
+          "count": 440
+        },
+        "resources": []
+      },
+      {
+        "id": "f0604158-1deb-498e-9f79-b926b9a0c6fe",
+        "index": 3,
+        "body": "$A e^{3 t}+B t \\cos 3 t+C t \\sin 3 t$",
+        "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "4509612b-ec02-440f-8f98-15651b35bc20",
+        "index": 4,
+        "body": "$A e^{3 t}+(B t+C) \\cos 3 t+(D t+E)\\sin3t$",
+        "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "149149435",
+    "timeSpentVideo": "71173486",
+    "submissions": 838,
+    "submissionsCorrect": 440,
+    "accuracy": 0.5250596658711217,
+    "difficulty": 0.7276119402985075
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "2202cd94-88bd-4b14-9dbc-0a0b108c1c77",
+    "body": "",
+    "questionId": "099cf526-3b26-4b75-8a7f-0459ca40d8b7",
+    "resources": [
+      {
+        "id": "59cd02b3-ffd6-47be-a13b-242f63a37806",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=kyGdns06aMiSnRkO&t=960\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2202cd94-88bd-4b14-9dbc-0a0b108c1c77",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae89aaab-a85d-4178-8294-b7c418315d37",
+      "name": "Higher Order ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2601213700",
+        "timeSpentVideo": "331864992",
+        "submissions": 6411,
+        "submissionsCorrect": 4109,
+        "questions": 9,
+        "accuracy": 0.6409296521603494,
+        "difficulty": 0.611234833358931
+      }
+    }
+  ],
+  "children": []
+}

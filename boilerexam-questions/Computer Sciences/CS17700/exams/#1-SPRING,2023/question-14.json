@@ -1,0 +1,149 @@
+{
+  "id": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "To modify the function to return the minimum item in the list, we must:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "23c095df-d5e3-4619-b192-5e2c0707a8df",
+        "index": 0,
+        "body": "Change the value of \\verb|currentMax| in line 3 to some large initial value.",
+        "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "7f9535db-74bf-4e95-8716-7bdc23b4839a",
+        "index": 1,
+        "body": "Change the value of \\verb|currentMax| in line 3 to some small initial value.",
+        "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "33847c79-4f96-428f-b9fc-c1960a9c03e5",
+        "index": 2,
+        "body": "Change the comparison operator in line 8 to \\verb|<|.",
+        "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+        "stats": {
+          "count": 677
+        },
+        "resources": []
+      },
+      {
+        "id": "acac6a28-7ce8-48a4-97e6-1e047dc06da2",
+        "index": 3,
+        "body": "It is not possible.",
+        "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "58501983",
+    "timeSpentVideo": "1696681",
+    "submissions": 819,
+    "submissionsCorrect": 677,
+    "accuracy": 0.8266178266178266,
+    "difficulty": 0.45892274211099016
+  },
+  "resources": [
+    {
+      "id": "2a798a6a-2424-4d7a-83b1-e690aef34bed",
+      "type": "CODE",
+      "data": {
+        "content": "def maxInList(list):\n\n    currentMax = list[0]\n    length = len(list)\n\n    for i in range(1, length):\n\n        if list[i] > currentMax:\n            currentMax = list[i]\n\n    return currentMax\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "d14c4f03-14cd-4bb4-971b-75db0fa8f9be",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1663379579",
+      "timeSpentVideo": "70548358",
+      "submissions": 16006,
+      "submissionsCorrect": 11041,
+      "questions": 15,
+      "accuracy": 0.6898038235661627,
+      "difficulty": 0.56137464299019
+    }
+  },
+  "explanation": {
+    "id": "2cf09ea0-8fbb-42ad-8884-0bcfd281970e",
+    "body": "",
+    "questionId": "22e4f84e-7ed2-4294-9ff8-26322d719b69",
+    "resources": [
+      {
+        "id": "d253d4fe-106b-46ad-905e-3333691881af",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=4R_f6iFnQQNANCkp&t=5081"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2cf09ea0-8fbb-42ad-8884-0bcfd281970e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e33d85cb-7b11-4429-a7e3-3a6a3618d9ef",
+      "name": "Loops",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2525487206",
+        "timeSpentVideo": "53330590",
+        "submissions": 11923,
+        "submissionsCorrect": 8398,
+        "questions": 16,
+        "accuracy": 0.7043529313092343,
+        "difficulty": 0.5473467520585544
+      }
+    }
+  ],
+  "children": []
+}

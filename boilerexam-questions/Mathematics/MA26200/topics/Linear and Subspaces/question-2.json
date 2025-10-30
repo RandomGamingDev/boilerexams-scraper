@@ -1,0 +1,128 @@
+{
+  "id": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{rrrr}1 & -3 & 0 & -5 \\\\ -1 & 4 & 1 & 7 \\\\ 2 & 1 & 7 & 4 \\\\ -2 & 2 & -4 & 2\\end{array}\\right]$, which is the same matrix of problem $1$. Which of the following sets is a basis of the row space of $A$, if we write them as column vectors?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c115c4b6-74e8-4355-a60f-6c5aacfec5ec",
+        "index": 0,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -3 \\\\ 1 \\\\ 1\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 1 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+        "stats": {
+          "count": 75
+        },
+        "resources": []
+      },
+      {
+        "id": "73739d9d-bcd4-406a-ba0a-42f6bb04f180",
+        "index": 1,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -3 \\\\ 0 \\\\ -5\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 2 \\\\ 1 \\\\ 3\\end{array}\\right]\\right\\}$",
+        "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "ed9b07b6-6cff-4842-a03c-2e200832f172",
+        "index": 2,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -3 \\\\ 0 \\\\ -5\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 1 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+        "stats": {
+          "count": 942
+        },
+        "resources": []
+      },
+      {
+        "id": "4bf05ebf-79d8-4ad1-8bd4-5be340d608f7",
+        "index": 3,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -3 \\\\ 0 \\\\ -5\\end{array}\\right],\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 0 \\\\ 0\\end{array}\\right]\\right\\}$",
+        "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "0da57af9-6e2a-4dd6-b645-e6f81acf4cbc",
+        "index": 4,
+        "body": "$\\left\\{\\left[\\begin{array}{c}1 \\\\ -1 \\\\ 2 \\\\ -2\\end{array}\\right],\\left[\\begin{array}{c}-3 \\\\ 4 \\\\ 1 \\\\ 2\\end{array}\\right],\\left[\\begin{array}{c}-5 \\\\ 7 \\\\ 4 \\\\ 2\\end{array}\\right]\\right\\}$",
+        "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "a612e46f-ea32-4115-a909-149b517248d2",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "136874027",
+    "timeSpentVideo": "0",
+    "submissions": 1121,
+    "submissionsCorrect": 942,
+    "accuracy": 0.840321141837645,
+    "difficulty": 0.4375511875511876
+  },
+  "resources": [],
+  "exam": {
+    "id": "a612e46f-ea32-4115-a909-149b517248d2",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2655460729",
+      "timeSpentVideo": "0",
+      "submissions": 11233,
+      "submissionsCorrect": 7831,
+      "questions": 11,
+      "accuracy": 0.6971423484376391,
+      "difficulty": 0.5545971940351186
+    }
+  },
+  "explanation": {
+    "id": "a8cc025b-d064-4f2c-8543-49fae26d582c",
+    "body": "",
+    "questionId": "f0af9700-f59e-4a57-bf98-7abed06899eb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

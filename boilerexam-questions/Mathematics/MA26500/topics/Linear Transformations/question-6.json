@@ -1,0 +1,143 @@
+{
+  "id": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $L: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{3}$ be a linear transformation such that\n\n\n\\[\nL\\left(\\left[\\begin{array}{c}\n-1 \\\\\n2\n\\end{array}\\right]\\right)=\\left[\\begin{array}{c}\n1 \\\\\n-1 \\\\\n-2\n\\end{array}\\right], \\quad L\\left(\\left[\\begin{array}{c}\n2 \\\\\n-3\n\\end{array}\\right]\\right)=\\left[\\begin{array}{c}\n-1 \\\\\n2 \\\\\n3\n\\end{array}\\right], \\text { and } \\quad L\\left(\\left[\\begin{array}{l}\na \\\\\nb\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\n1 \\\\\n3 \\\\\n2\n\\end{array}\\right]\n\\]\n\nThen $a+b=$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "74ddbb57-dc61-4612-b785-651b5ed93d42",
+        "index": 0,
+        "body": "$5$",
+        "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "93cc6b82-9c60-4cd3-9e52-87600158b921",
+        "index": 1,
+        "body": "$-5$",
+        "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "da1e3d91-1a5e-4a66-8bfa-826fb17fd89f",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+        "stats": {
+          "count": 1366
+        },
+        "resources": []
+      },
+      {
+        "id": "399c7bea-b33b-4e30-897f-64c637874fa6",
+        "index": 3,
+        "body": "$-1$",
+        "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "e701d658-ba2b-42c9-89e1-1e9a88f21c62",
+        "index": 4,
+        "body": "$9$",
+        "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+        "stats": {
+          "count": 327
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "623777079",
+    "timeSpentVideo": "136060102",
+    "submissions": 2708,
+    "submissionsCorrect": 1366,
+    "accuracy": 0.5044313146233382,
+    "difficulty": 0.7457264957264957
+  },
+  "resources": [],
+  "exam": {
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12223938884",
+      "timeSpentVideo": "2777946394",
+      "submissions": 66451,
+      "submissionsCorrect": 37030,
+      "questions": 25,
+      "accuracy": 0.5572527125250184,
+      "difficulty": 0.6928333158029181
+    }
+  },
+  "explanation": {
+    "id": "05cd173a-32d7-40fc-8ac0-d59e05ee2064",
+    "body": "",
+    "questionId": "9ac1ea61-1cae-4ac2-92f3-78d88b73f7a1",
+    "resources": [
+      {
+        "id": "8dfb0a7a-64fd-46a4-9dd9-8a33d297eae6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l5K1zQGY3uk?t=1634\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "05cd173a-32d7-40fc-8ac0-d59e05ee2064",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The runtime to find the minimum value in a binary tree using the postorder traversal is?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7d7c2ccd-fe99-40d4-9e52-c2f595d1d86f",
+        "index": 0,
+        "body": "$O(n)$",
+        "questionId": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+        "stats": {
+          "count": 1464
+        },
+        "resources": []
+      },
+      {
+        "id": "2a8cdea1-75fb-44e8-95b8-3cbbb2e71675",
+        "index": 1,
+        "body": "$O(n\\log{(n)})$",
+        "questionId": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "578d5d63-f11b-4383-87c0-217b07d0f5e5",
+        "index": 2,
+        "body": "$O(\\log{(n)})$",
+        "questionId": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+        "stats": {
+          "count": 237
+        },
+        "resources": []
+      },
+      {
+        "id": "34621888-d0a0-46e0-9094-db2f8a7ffd72",
+        "index": 3,
+        "body": "$O(n^2)$",
+        "questionId": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "132369997",
+    "timeSpentVideo": "0",
+    "submissions": 1779,
+    "submissionsCorrect": 1464,
+    "accuracy": 0.8229342327150084,
+    "difficulty": 0.444252261841405
+  },
+  "resources": [],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "c3a47fc2-d002-4bb1-a8a6-17f089b7d14b",
+    "body": null,
+    "questionId": "adbf666c-5649-4175-a0b0-6ec18fadb5cd",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "22a1c21a-6a23-4934-8f52-e34a5e95d768",
+      "name": "Binary Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2454907955",
+        "timeSpentVideo": "102315825",
+        "submissions": 5507,
+        "submissionsCorrect": 3892,
+        "questions": 4,
+        "accuracy": 0.7067368803341202,
+        "difficulty": 0.5469502407704655
+      }
+    },
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

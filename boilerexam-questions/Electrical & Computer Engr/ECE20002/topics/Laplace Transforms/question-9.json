@@ -1,0 +1,200 @@
+{
+  "id": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let\n\n$f\\left(t\\right)=\\left(A_{1}e^{-t}+A_{2}te^{-2t}\\right)u\\left(t\\right)$.\n\nFind an expression for $G(s)$, which is defined as\n\n$G\\left(s\\right)\\ := \\int _{0^-}^{\\infty }\\:\\frac{df}{dt}e^{-st}dt$,\n\nAssume that$ f(0) = 3$ and$\\ \\dot f(0) = 5$.",
+    "solution": [
+      7
+    ],
+    "answerChoices": [
+      {
+        "id": "a334dcfc-4287-4bfb-8e26-925f12fde3d3",
+        "index": 0,
+        "body": "$\\frac{1}{s+1}+\\frac{4}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "2cc1b92e-790d-45d0-a37c-0149b468b345",
+        "index": 1,
+        "body": "$\\frac{3}{s+1}+\\frac{8}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "8331a34f-7345-4047-98c1-199a8bfee0c2",
+        "index": 2,
+        "body": "$\\frac{2}{s+1}+\\frac{1}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "ac2778da-526e-4041-b6fe-dac4bbb11c44",
+        "index": 3,
+        "body": "$\\frac{s}{s+1}+\\frac{4s}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "de089bcf-fd3b-4016-b5d6-aab1489826bf",
+        "index": 4,
+        "body": "$\\frac{3s}{s+1}+\\frac{8s}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "20e5b2c1-ab2e-4cd9-9a66-0cdbb7ddb8ff",
+        "index": 5,
+        "body": "$\\frac{2s}{s+1}+\\frac{s}{\\left(s+2\\right)^{2}}$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "227809fa-d0d3-4dc0-be1c-ef2b258dc43b",
+        "index": 6,
+        "body": "$\\frac{s}{s+1}+\\frac{4s}{\\left(s+2\\right)^{2}}-3$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "49e4c316-dd40-4fee-ac27-d782340e5b12",
+        "index": 7,
+        "body": "$\\frac{3s}{s+1}+\\frac{8s}{\\left(s+2\\right)^{2}}-3$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 259
+        },
+        "resources": []
+      },
+      {
+        "id": "eba7400c-26a3-4477-8b89-058155e8d7f0",
+        "index": 8,
+        "body": "$\\frac{2s}{s+1}+\\frac{s}{\\left(s+2\\right)^{2}}-3$",
+        "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "248391030",
+    "timeSpentVideo": "37820857",
+    "submissions": 783,
+    "submissionsCorrect": 259,
+    "accuracy": 0.33077905491698595,
+    "difficulty": 0.9000566251415629
+  },
+  "resources": [
+    {
+      "id": "d1166483-8711-4e9d-bc98-327c27324253",
+      "type": "IMAGE",
+      "data": {
+        "key": "twmT9j5gnJrfw4klX047m",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/twmT9j5gnJrfw4klX047m",
+        "altText": "L"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "5f6d6d7c-8031-4d7c-a2ec-57b36c3cb753",
+    "body": "",
+    "questionId": "138dcf55-0763-40cb-8ec9-60192ecd38ea",
+    "resources": [
+      {
+        "id": "4e515ffd-5567-4c25-a29f-b6b19fe56524",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=5249s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5f6d6d7c-8031-4d7c-a2ec-57b36c3cb753",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1ee900b7-b3e5-40f6-9f52-c754bdae9719",
+      "name": "Laplace Transforms",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "985673034",
+        "timeSpentVideo": "53136995",
+        "submissions": 1934,
+        "submissionsCorrect": 1136,
+        "questions": 3,
+        "accuracy": 0.5873836608066184,
+        "difficulty": 0.6669124877089478
+      }
+    }
+  ],
+  "children": []
+}

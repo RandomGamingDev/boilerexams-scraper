@@ -1,0 +1,158 @@
+{
+  "id": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x)=x \\sin x$, find $f^{\\prime \\prime}\\left(\\frac{\\pi}{2}\\right)$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6da5cd85-2ee6-4389-8342-491ea6eaa513",
+        "index": 0,
+        "body": "$-\\frac{\\pi}{2}$",
+        "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+        "stats": {
+          "count": 1015
+        },
+        "resources": []
+      },
+      {
+        "id": "545ead9b-4681-4444-b4ed-a15dfca0db6f",
+        "index": 1,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+        "stats": {
+          "count": 93
+        },
+        "resources": []
+      },
+      {
+        "id": "adc9ec05-3656-4883-9747-3f2c72e46de1",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "e3ed0058-3d2d-4a68-a8bc-554d37933af6",
+        "index": 3,
+        "body": "$-2$",
+        "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+        "stats": {
+          "count": 57
+        },
+        "resources": []
+      },
+      {
+        "id": "3dbe6869-c032-47d8-b3a7-e4cacf27ca9d",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "245958871",
+    "timeSpentVideo": "19617302",
+    "submissions": 1424,
+    "submissionsCorrect": 1015,
+    "accuracy": 0.7127808988764045,
+    "difficulty": 0.5511811023622047
+  },
+  "resources": [],
+  "exam": {
+    "id": "a2516b46-c5ee-499b-8f8c-549b60c1d78d",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2204708271",
+      "timeSpentVideo": "411980951",
+      "submissions": 14776,
+      "submissionsCorrect": 9273,
+      "questions": 12,
+      "accuracy": 0.627571737953438,
+      "difficulty": 0.6232858295240656
+    }
+  },
+  "explanation": {
+    "id": "a7a2250c-f2e9-4ef7-bfaa-d14fb8eb53e3",
+    "body": "",
+    "questionId": "2d6fd11c-3224-4eb2-88e8-5019be8248b6",
+    "resources": [
+      {
+        "id": "111b51cd-4e8a-46fc-917c-880da91f8d82",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/N-YKg4yIEhU?t=1593"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a7a2250c-f2e9-4ef7-bfaa-d14fb8eb53e3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1c8d7944-b88e-4f0c-a752-2ca769777e2c",
+      "name": "Product Rule",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2297538107",
+        "timeSpentVideo": "117868196",
+        "submissions": 5528,
+        "submissionsCorrect": 3668,
+        "questions": 4,
+        "accuracy": 0.6635311143270622,
+        "difficulty": 0.5893745557924662
+      }
+    },
+    {
+      "id": "b1d051a2-03fc-4c82-bb72-7130dba4c197",
+      "name": "Derivatives of Trig Functions",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6136025937",
+        "timeSpentVideo": "295249733",
+        "submissions": 15252,
+        "submissionsCorrect": 9815,
+        "questions": 11,
+        "accuracy": 0.6435221610280619,
+        "difficulty": 0.6074127149557061
+      }
+    }
+  ],
+  "children": []
+}

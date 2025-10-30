@@ -1,0 +1,143 @@
+{
+  "id": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $C$ be the curve $\\mathbf{r}(t)=\\langle\\cos (t), \\sin (t), t\\rangle, t \\in\\left[0, \\frac{\\pi}{2}\\right]$ and $f(x, y, z)=x y$ then\n\\[\n\\int_{C} f(x, y, z) d s=\n\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f5e0bea7-f382-48ef-be8b-b27f7d3a27d9",
+        "index": 0,
+        "body": "$\\frac{1}{\\sqrt{2}}$",
+        "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+        "stats": {
+          "count": 2400
+        },
+        "resources": []
+      },
+      {
+        "id": "6e85ad9e-89f6-4383-88c8-522bbc1f1484",
+        "index": 1,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+        "stats": {
+          "count": 266
+        },
+        "resources": []
+      },
+      {
+        "id": "32bb5481-4615-489f-9d72-1e904607b2aa",
+        "index": 2,
+        "body": "$\\sqrt{2}$",
+        "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+        "stats": {
+          "count": 441
+        },
+        "resources": []
+      },
+      {
+        "id": "0b5fd47a-4097-4655-88f2-8fe80c3ae8c1",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+        "stats": {
+          "count": 238
+        },
+        "resources": []
+      },
+      {
+        "id": "21f97570-bf8e-403f-a977-52bfc4e5a9ac",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "661176985",
+    "timeSpentVideo": "78475356",
+    "submissions": 3716,
+    "submissionsCorrect": 2400,
+    "accuracy": 0.6458557588805167,
+    "difficulty": 0.6079664570230608
+  },
+  "resources": [],
+  "exam": {
+    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9516874781",
+      "timeSpentVideo": "1230887307",
+      "submissions": 40641,
+      "submissionsCorrect": 25452,
+      "questions": 11,
+      "accuracy": 0.6262641175167933,
+      "difficulty": 0.6240458015267175
+    }
+  },
+  "explanation": {
+    "id": "6ea5047b-2790-414c-8828-36f0f677af8e",
+    "body": "",
+    "questionId": "6c0cb389-31db-401d-acd2-cd1a379ef96d",
+    "resources": [
+      {
+        "id": "1f6fb554-138d-4b96-bfbc-5625973da460",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/olxqgUNis3E?si=GnaPSdnRtE9SxgOe&t=2114"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6ea5047b-2790-414c-8828-36f0f677af8e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "334db9c7-f3fb-4b31-b85f-4831cd44188e",
+      "name": "Line Integral - ds",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15511711835",
+        "timeSpentVideo": "1844731217",
+        "submissions": 37740,
+        "submissionsCorrect": 21910,
+        "questions": 8,
+        "accuracy": 0.5805511393746687,
+        "difficulty": 0.669661733615222
+      }
+    }
+  ],
+  "children": []
+}

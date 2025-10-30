@@ -1,0 +1,133 @@
+{
+  "id": "a7522d90-f405-4004-85f5-370d3e5786c9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $S$ be an empty stack. Consider a sequence of intermixed push and pop calls on $S$. The arguments for the push calls are the numbers $1$, $2$, $3$, $4$, $5$, and $6$ (one at a time in that order). The pop calls happen at arbitrary time (when $S$ is not empty) and each pop prints out the returned value.\n\n(a) Is the printed sequence \\texttt{5 6 3 4 2 1} possible?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "8c8f8991-9cc4-44d4-8a76-67f62278526a",
+        "index": 0,
+        "body": "Yes. In this example, you can push numbers onto the stack until the top of the stack is the next desired number, upon which you pop+return the number.",
+        "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
+        "stats": {
+          "count": 116
+        },
+        "resources": []
+      },
+      {
+        "id": "f8c8af17-73ee-480e-b472-361ddfd0d7ee",
+        "index": 1,
+        "body": "Yes. Even with these constrants, any sequence of numbers can be printed.",
+        "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "16cec3c6-c6cb-4b5b-b8d2-d825d851114d",
+        "index": 2,
+        "body": "No. Only a sequence of \\texttt{6 5 4 3 2 1} can be printed due to how stacks work.",
+        "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "28e276ed-5504-4038-9ba0-1ff79128416b",
+        "index": 3,
+        "body": "No. Due to having to pop $5$ before $4$, you can't pop $3$ before $4$.",
+        "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
+        "stats": {
+          "count": 1183
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "90746632",
+    "timeSpentVideo": "2099669",
+    "submissions": 1424,
+    "submissionsCorrect": 1183,
+    "accuracy": 0.8307584269662921,
+    "difficulty": 0.4409448818897638
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "38d9eafe-e12b-4241-8c4b-4a18a3d792a1",
+    "body": "",
+    "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
+    "resources": [
+      {
+        "id": "93b6357d-bc6f-478d-ae66-51bbc453fc44",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=1053"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "38d9eafe-e12b-4241-8c4b-4a18a3d792a1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d0ea2c5c-5adc-4a3c-bba9-84d47d18bef6",
+      "name": "Stacks",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1151493076",
+        "timeSpentVideo": "11735290",
+        "submissions": 3975,
+        "submissionsCorrect": 3162,
+        "questions": 3,
+        "accuracy": 0.7954716981132075,
+        "difficulty": 0.4617791411042945
+      }
+    }
+  ],
+  "children": []
+}

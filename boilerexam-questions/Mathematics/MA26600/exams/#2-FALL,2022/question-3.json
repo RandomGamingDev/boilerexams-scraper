@@ -1,0 +1,143 @@
+{
+  "id": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a mass-spring-dashpot system with a position function $x(t)$ satisfying\n\n\\[\nm x^{\\prime \\prime}+c x^{\\prime}+k x=0 .\n\\]\n\nRecall that $p=\\frac{c}{2 m}, \\omega_{0}^{2}=\\frac{k}{m}$, and $\\omega_{1}^{2}=\\omega_{0}^{2}-p^{2}$. Which of the following is the general solution to the equation above for the critically damped case $c^{2}=4 \\mathrm{~km}?$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "75249f4d-9fa3-43bb-82a2-54fa7dfd2848",
+        "index": 0,
+        "body": "$x(t)=e^{p t}\\left(c_{1}+c_{2} t\\right)$",
+        "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "2c3d6742-0f54-4462-a9e1-0b7a8210cde6",
+        "index": 1,
+        "body": "$x(t)=c_{1} e^{r_{1} t}+c_{2} e^{r_{2} t}$",
+        "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "1cd79218-b1b3-4711-a87e-deb3f65341a5",
+        "index": 2,
+        "body": "$x(t)=e^{-p t}\\left(c_{1}+c_{2} t\\right)$",
+        "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+        "stats": {
+          "count": 462
+        },
+        "resources": []
+      },
+      {
+        "id": "904b623d-fbc9-416b-bd99-98d4b8e6ddb9",
+        "index": 3,
+        "body": "$x(t)=e^{-p t}\\left(A \\cos \\omega_{1} t+B \\sin \\omega_{1} t\\right)$",
+        "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "cda3627d-8a27-4b5e-a9b5-f7aa58164067",
+        "index": 4,
+        "body": "$x(t)=C \\cos (\\omega t-\\alpha)$",
+        "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "151959279",
+    "timeSpentVideo": "57274519",
+    "submissions": 938,
+    "submissionsCorrect": 462,
+    "accuracy": 0.4925373134328358,
+    "difficulty": 0.7567437379576107
+  },
+  "resources": [],
+  "exam": {
+    "id": "8c02be9d-22e6-41bb-8afe-37900556defe",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1284785078",
+      "timeSpentVideo": "372959551",
+      "submissions": 6235,
+      "submissionsCorrect": 3079,
+      "questions": 10,
+      "accuracy": 0.4938251804330393,
+      "difficulty": 0.7560773480662983
+    }
+  },
+  "explanation": {
+    "id": "42d6567e-1b48-41e6-b686-a212c5996c30",
+    "body": "",
+    "questionId": "7fa541f6-3e81-493e-9d3a-e71b912bd446",
+    "resources": [
+      {
+        "id": "d6d9f4fd-e7ee-4b93-a5e3-53ab0f61ee59",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/pcwNNW1kx1A?si=grM5RuKFpNqSz_jb&t=968"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "42d6567e-1b48-41e6-b686-a212c5996c30",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "285427a7-cd4f-44d6-a9a4-b7f09afdfb95",
+      "name": "Spring-mass system",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4447642016",
+        "timeSpentVideo": "429093904",
+        "submissions": 9099,
+        "submissionsCorrect": 4757,
+        "questions": 12,
+        "accuracy": 0.5228047038136059,
+        "difficulty": 0.7274432003478639
+      }
+    }
+  ],
+  "children": []
+}

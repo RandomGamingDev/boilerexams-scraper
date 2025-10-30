@@ -1,0 +1,158 @@
+{
+  "id": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral\n\n\\[\n\\int_{0}^{2} \\int_{0}^{\\sqrt{4-x^{2}}} \\int_{\\sqrt{x^{2}+y^{2}}}^{\\sqrt{2(x^{2}+y^{2})}} dzdydx\n\\]\nusing cylindrical coordinates.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "17c70436-28ff-4ad9-bb8c-dbc0dda9a8cf",
+        "index": 0,
+        "body": "$\\frac{2\\pi}{3}(\\sqrt{2}-1) $",
+        "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+        "stats": {
+          "count": 277
+        },
+        "resources": []
+      },
+      {
+        "id": "845e3720-87f1-45b7-8848-8739b9df5a24",
+        "index": 1,
+        "body": "$\\frac{4\\pi}{3}(\\sqrt{2}-1) $",
+        "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+        "stats": {
+          "count": 2793
+        },
+        "resources": []
+      },
+      {
+        "id": "e7f73628-7147-448d-bdb2-2940d7fb878e",
+        "index": 2,
+        "body": "${2\\pi}(\\sqrt{2}-1) $",
+        "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+        "stats": {
+          "count": 291
+        },
+        "resources": []
+      },
+      {
+        "id": "636adb39-5342-4715-bbd8-f65bc8127273",
+        "index": 3,
+        "body": "${3\\pi}(\\sqrt{2}-1) $",
+        "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "3f2cce94-35bc-43c0-a0d9-84bacea84ef7",
+        "index": 4,
+        "body": "$\\frac{\\pi}{3}(\\sqrt{2}-1) $",
+        "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1042126887",
+    "timeSpentVideo": "102556224",
+    "submissions": 3799,
+    "submissionsCorrect": 2793,
+    "accuracy": 0.7351934719663069,
+    "difficulty": 0.5208386765837394
+  },
+  "resources": [],
+  "exam": {
+    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "number": 2,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9516874781",
+      "timeSpentVideo": "1230887307",
+      "submissions": 40641,
+      "submissionsCorrect": 25452,
+      "questions": 11,
+      "accuracy": 0.6262641175167933,
+      "difficulty": 0.6240458015267175
+    }
+  },
+  "explanation": {
+    "id": "3a6478bf-cc46-4f25-a255-bdb0d49e0102",
+    "body": "",
+    "questionId": "2395c87a-9004-412f-95eb-c8ce0de63c66",
+    "resources": [
+      {
+        "id": "30f4dea4-d43b-4e35-902b-5ec04cf4d7e9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/olxqgUNis3E?si=_dZtapnQ6IdhgM_1&t=738"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3a6478bf-cc46-4f25-a255-bdb0d49e0102",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    },
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

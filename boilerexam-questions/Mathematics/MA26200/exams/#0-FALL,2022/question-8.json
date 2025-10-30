@@ -1,0 +1,143 @@
+{
+  "id": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find all the values of $a$ such that\n\n\n\\[\n\\left[\\begin{array}{ccc}\n1 & (2-a) & 0 \\\\\n1 & 0 & 0 \\\\\n0 & 2 & (1-a)\n\\end{array}\\right]\n\\]\n\nis invertible.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "37617f68-02e3-4291-83d5-bb8fcb7e2451",
+        "index": 0,
+        "body": "$a \\neq 1$",
+        "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "5540a04b-68a8-4ddf-b990-631358eb012d",
+        "index": 1,
+        "body": "$a \\neq 1$ and $a \\neq 2$",
+        "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+        "stats": {
+          "count": 261
+        },
+        "resources": []
+      },
+      {
+        "id": "12ed751f-d1ee-48fd-80c7-a65fc3236a4d",
+        "index": 2,
+        "body": "$a \\neq 2$",
+        "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "653af269-7823-459d-a558-6c9917dac33b",
+        "index": 3,
+        "body": "$a \\neq 0$",
+        "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "8bf9d0b5-a0ee-46f1-8a06-f19d35d1d2e6",
+        "index": 4,
+        "body": "It is invertible for all values of $a$.",
+        "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "39707418",
+    "timeSpentVideo": "0",
+    "submissions": 289,
+    "submissionsCorrect": 260,
+    "accuracy": 0.8996539792387543,
+    "difficulty": 0.4530848329048843
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "ff06d3ce-1436-4bde-870a-c50192e5318d",
+    "body": "",
+    "questionId": "98e9bcb5-428e-49fd-83cc-cfb0107c7c76",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "3393e726-c63d-4ee8-b92e-d4d4beb1af90",
+      "name": "Determinant",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5014139193",
+        "timeSpentVideo": "273638054",
+        "submissions": 11028,
+        "submissionsCorrect": 6869,
+        "questions": 9,
+        "accuracy": 0.6228690605730867,
+        "difficulty": 0.628235082674335
+      }
+    },
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

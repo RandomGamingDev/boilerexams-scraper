@@ -1,0 +1,150 @@
+{
+  "id": "3d582fba-c7fb-427c-9ec8-70100608477d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Dan and Erin are discussing the behavior of the recursive algorithm below.\n\n(a) Erin says \"If $b(n)=\\frac{n}{2}$ then the number of times \\texttt{FOO} calls \\texttt{BAR} is $O(n)$\". Is Erin right? Explain your answer.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7714b4b7-2060-4063-b72b-0d569cac90a0",
+        "index": 0,
+        "body": "Yes. \\texttt{FOO} is guaranteed to call \\texttt{BAR} $\\frac{n}{2}$ times.",
+        "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "3fc1dd01-809d-4b31-8895-138e876b1b6a",
+        "index": 1,
+        "body": "Yes. \\texttt{BAR} is called $n$ times in each iteration of \\texttt{FOO}. Since $n$ is halved each time, that means the number of times \\texttt{BAR} is called approaches $2n$, which is $O(n)$.",
+        "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+        "stats": {
+          "count": 911
+        },
+        "resources": []
+      },
+      {
+        "id": "2758d15f-2a4a-4c18-aec3-51d5b453f3f1",
+        "index": 2,
+        "body": "No. The input size of \\texttt{FOO} does halve on each iteration of the function, but you stil have to consider the $n$ iterations of the inside loop, thus making the number of times \\texttt{BAR} is called approach $O(n\\log n)$ instead.",
+        "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+        "stats": {
+          "count": 693
+        },
+        "resources": []
+      },
+      {
+        "id": "6e710d9d-4d74-419c-a40e-8689522ba47f",
+        "index": 3,
+        "body": "No. There is not enough information present in the problem to determine how many times \\texttt{FOO} calls \\texttt{BAR}.",
+        "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "249953629",
+    "timeSpentVideo": "29361286",
+    "submissions": 1846,
+    "submissionsCorrect": 911,
+    "accuracy": 0.4934994582881907,
+    "difficulty": 0.7561664953751285
+  },
+  "resources": [
+    {
+      "id": "ddba2e02-ccb6-4637-ae7f-afbc7a56bd63",
+      "type": "IMAGE",
+      "data": {
+        "key": "6P2Fx3SAB3iCfFgyE-Vy4",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/6P2Fx3SAB3iCfFgyE-Vy4",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "05e7843f-fdf1-402d-8285-74e7d2820b42",
+    "body": "",
+    "questionId": "3d582fba-c7fb-427c-9ec8-70100608477d",
+    "resources": [
+      {
+        "id": "e4c9dfa0-33f8-4551-917f-6e7a7734be58",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=2584"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "05e7843f-fdf1-402d-8285-74e7d2820b42",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

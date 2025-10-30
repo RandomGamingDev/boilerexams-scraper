@@ -1,0 +1,143 @@
+{
+  "id": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank of total volume 200 L initially contains 100 L of pure water. A brine solution of concentration 0.2 kg/L is pumped into the tank at a rate of 10 L/s, and the well-mixed solution in the tank is pumped out at a rate of 7 L/s. Write the initial value problem for the amount of salt $x(t)$ (in kg) at time $t$ (in s) before the tank overflows.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "9a278ed7-8c45-4726-b764-229e67926744",
+        "index": 0,
+        "body": "$\\frac{dx}{dt} = 2 - \\frac{7x}{100}$;  $x(0) = 0$",
+        "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "4b5a755b-5963-4cec-ab2d-b42ddbf5df36",
+        "index": 1,
+        "body": "$\\frac{dx}{dt} = 0.2 - \\frac{x}{100 + 3t}$;  $x(0) = 0$",
+        "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "3c03c917-3b42-4e1f-84ba-b7f004549194",
+        "index": 2,
+        "body": "$\\frac{dx}{dt} = 10 - \\frac{7x}{100}$;  $x(0) = 0$",
+        "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "ff8863a3-d46f-4499-9e2c-8c6cb18813c4",
+        "index": 3,
+        "body": "$\\frac{dx}{dt} = 2 - \\frac{7x}{100 + 3t}$;  $x(0) = 0$",
+        "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+        "stats": {
+          "count": 621
+        },
+        "resources": []
+      },
+      {
+        "id": "78abe6fa-6d00-4aa5-88cb-4b4c43bbdd3c",
+        "index": 4,
+        "body": "$\\frac{dx}{dt} = 2 - \\frac{7x}{200 - 3t}$;  $x(0) = 100$",
+        "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "148902664",
+    "timeSpentVideo": "30165138",
+    "submissions": 897,
+    "submissionsCorrect": 621,
+    "accuracy": 0.6923076923076923,
+    "difficulty": 0.5769809428284854
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "97d30454-91e8-4a27-bba8-7055c693cf07",
+    "body": "At 32:03 i meant to say 100kg of salt not 100kg of water.",
+    "questionId": "ff26483f-1671-4cd8-b16f-4be820e19b48",
+    "resources": [
+      {
+        "id": "a96ffc9d-c3dc-4f84-9ef8-ff92d38eed76",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=1304s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "97d30454-91e8-4a27-bba8-7055c693cf07",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

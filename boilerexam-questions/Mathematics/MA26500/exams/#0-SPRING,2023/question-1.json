@@ -1,0 +1,143 @@
+{
+  "id": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the linear system\n\n\\[\n\\begin{array}{cccc}\n& x &+ &y &+ & 2z &= &1 \\\\\n& & & y & + & az &= &3 \\\\\n& 4x & + & 6y  & + & a^2z &= & a + 6\n\\end{array}\n\\]\n\nFor which value of $a$ does the system have an infinite number of solutions?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8e0de363-5594-4c76-a712-3a792b4fc5da",
+        "index": 0,
+        "body": "$a=-4$",
+        "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+        "stats": {
+          "count": 115
+        },
+        "resources": []
+      },
+      {
+        "id": "e597d3ab-b581-435b-87b7-cce0f59027c2",
+        "index": 1,
+        "body": "$a=4$",
+        "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+        "stats": {
+          "count": 2497
+        },
+        "resources": []
+      },
+      {
+        "id": "2f5134d1-6c1c-44d0-9771-74201fb246c6",
+        "index": 2,
+        "body": "$a=-2$",
+        "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+        "stats": {
+          "count": 346
+        },
+        "resources": []
+      },
+      {
+        "id": "2e704907-d013-4e72-a759-3e67d94e15a1",
+        "index": 3,
+        "body": "$a=2$",
+        "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "b190fa84-aa7e-4e9d-be98-aedb47e29d02",
+        "index": 4,
+        "body": "$a=6$",
+        "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1113992093",
+    "timeSpentVideo": "215882468",
+    "submissions": 3983,
+    "submissionsCorrect": 2497,
+    "accuracy": 0.6269143861410996,
+    "difficulty": 0.6261939750183688
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "e7745328-3000-408e-9f72-e5f734e2b3db",
+    "body": "",
+    "questionId": "e30cad48-45f1-4904-9551-45d8fecd98d0",
+    "resources": [
+      {
+        "id": "1045231c-0c4b-40ae-8806-532ae77f7f61",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=6\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e7745328-3000-408e-9f72-e5f734e2b3db",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28376775442",
+        "timeSpentVideo": "3339563997",
+        "submissions": 58240,
+        "submissionsCorrect": 33830,
+        "questions": 24,
+        "accuracy": 0.5808722527472527,
+        "difficulty": 0.6692663695577649
+      }
+    }
+  ],
+  "children": []
+}

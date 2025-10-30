@@ -1,0 +1,143 @@
+{
+  "id": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $Y(s)=\\mathcal{L}\\{y(t)\\}$ is the Laplace transform of the solution to the initial value problem below, what is $Y(0)$ ?\n\n\n\\[\ny^{\\prime \\prime}+2 y=u_{2}(t)(t-2) e^{-3(t-2)}, \\quad y(0)=0, \\quad y^{\\prime}(0)=0\n\\]\n\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6c55a6e7-4ac0-4bbd-bab1-d87842636edf",
+        "index": 0,
+        "body": "$-5 / 18$",
+        "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "80ba4d0e-99ac-459e-a102-e91c5532bb52",
+        "index": 1,
+        "body": "$1 / 18$",
+        "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+        "stats": {
+          "count": 885
+        },
+        "resources": []
+      },
+      {
+        "id": "07469b99-d108-4a54-a456-3b8ec26278a3",
+        "index": 2,
+        "body": "$1 / 9$",
+        "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+        "stats": {
+          "count": 92
+        },
+        "resources": []
+      },
+      {
+        "id": "b526398a-f983-4655-a1fd-a6b289578c87",
+        "index": 3,
+        "body": "$-11 e^{12} / 18$",
+        "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "05c54263-4494-4583-a7ef-1143cd41beb9",
+        "index": 4,
+        "body": "$-5 e^{\\mathrm{6}} / 18$",
+        "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "565545870",
+    "timeSpentVideo": "121982486",
+    "submissions": 1901,
+    "submissionsCorrect": 885,
+    "accuracy": 0.4655444502893214,
+    "difficulty": 0.7827336331834083
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "91759a1d-ecc5-43d9-b792-fd0df1e3712f",
+    "body": "",
+    "questionId": "97cb3067-95ab-4dd0-9bb0-ac67e86bf073",
+    "resources": [
+      {
+        "id": "4952ac68-4e9a-4bbb-914a-7d3183f0ce0d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=hO_K4CF7dRlgBFM5&t=1228"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "91759a1d-ecc5-43d9-b792-fd0df1e3712f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

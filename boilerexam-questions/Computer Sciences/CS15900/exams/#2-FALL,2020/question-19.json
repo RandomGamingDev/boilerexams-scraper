@@ -1,0 +1,133 @@
+{
+  "id": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value found in index 8 of the array after the termination of the function called by the main function of the program above?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d49dcc5e-6d83-410d-b298-7fc88a13f185",
+        "index": 0,
+        "body": "5",
+        "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+        "stats": {
+          "count": 106
+        },
+        "resources": []
+      },
+      {
+        "id": "e2b70474-9980-466b-971f-e0c32a5375b0",
+        "index": 1,
+        "body": "1",
+        "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "8e6a101f-851c-45f7-a73f-b59564ce5136",
+        "index": 2,
+        "body": "4",
+        "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "60109b63-2d5c-46aa-be73-bc9be5a06fb4",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "19127875",
+    "timeSpentVideo": "4947369",
+    "submissions": 269,
+    "submissionsCorrect": 106,
+    "accuracy": 0.3940520446096654,
+    "difficulty": 0.8272357723577235
+  },
+  "resources": [
+    {
+      "id": "1ba0c735-9e57-4a27-92db-f1c7a2694726",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 10\n\nvoid changeArray(int[], int);\n\nint main()\n{\n  int data[SIZE] = {1, 0, 0, 1, 1, 0, 1, 0, 1};\n  \n  changeArray(data, 2);\n  \n  // NOTE: printf not included in original question.\n  //printf(\"data[8]: %d\\n\", data[8]);\n  \n  return(0);\n}\n\nvoid changeArray(int data[], int chg)\n{\n  int i;\n  int temp;\n  \n  for(i = 0; i < SIZE; i++)\n  {\n    temp = i - chg < 0 ? SIZE + i - chg : i - chg;\n    \n    data[i] = data[temp] + data[(i + chg) % SIZE];\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "4f7ae925-0c09-44df-a13f-e6f72824823e",
+    "body": "",
+    "questionId": "b9841e9c-82c2-41fb-abb6-fb73d4a9c2ca",
+    "resources": [
+      {
+        "id": "363976d9-ac91-4cae-9d91-e65b004e314f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3526"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f7ae925-0c09-44df-a13f-e6f72824823e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

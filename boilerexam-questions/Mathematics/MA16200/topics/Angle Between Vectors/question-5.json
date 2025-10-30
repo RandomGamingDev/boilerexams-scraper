@@ -1,0 +1,158 @@
+{
+  "id": "c8d95176-c089-4440-b102-74476f7505f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Two vectors $\\vec{v}$ and $\\vec{w}$ in three dimensions satisfy that \\[\\vec{v}\\cdot\\vec{w}=-3\\text{ and }\\vec{v}\\times\\vec{w}=\\langle1,-2,2\\rangle\\] What is the angle between $\\vec{v}$ and $\\vec{w}$?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ffadd90f-2ada-4692-a5c4-8f5cdf38d318",
+        "index": 0,
+        "body": "$\\frac{\\pi}{4}$",
+        "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+        "stats": {
+          "count": 103
+        },
+        "resources": []
+      },
+      {
+        "id": "5c5adf61-a432-46f8-b8f9-bc68509d7032",
+        "index": 1,
+        "body": "$\\frac{2\\pi}{3}$",
+        "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "b9627735-b58c-4533-aa31-996dc2d450bc",
+        "index": 2,
+        "body": "$\\frac{\\pi}{3}$",
+        "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "9e6294b3-697b-42d6-9b11-d5d3e3eb2d16",
+        "index": 3,
+        "body": "$\\frac{3\\pi}{4}$",
+        "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+        "stats": {
+          "count": 672
+        },
+        "resources": []
+      },
+      {
+        "id": "6068bb90-87e1-48d9-b4ca-5b0f1e17231e",
+        "index": 4,
+        "body": "$\\frac{\\pi}{6}$",
+        "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "222566038",
+    "timeSpentVideo": "46334990",
+    "submissions": 1199,
+    "submissionsCorrect": 672,
+    "accuracy": 0.5604670558798999,
+    "difficulty": 0.6941878367975366
+  },
+  "resources": [],
+  "exam": {
+    "id": "1f04d1b6-ed43-40b3-b9de-3e38241cc0e3",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3183200218",
+      "timeSpentVideo": "706676467",
+      "submissions": 17400,
+      "submissionsCorrect": 9480,
+      "questions": 25,
+      "accuracy": 0.5448275862068965,
+      "difficulty": 0.7054285714285714
+    }
+  },
+  "explanation": {
+    "id": "34503d2a-83a9-4862-99a8-021e94d08558",
+    "body": null,
+    "questionId": "c8d95176-c089-4440-b102-74476f7505f5",
+    "resources": [
+      {
+        "id": "e9fee045-86d1-4e05-b9de-f8e35271a8ac",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=UkJCqibMzrg&t=1653s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "34503d2a-83a9-4862-99a8-021e94d08558",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5a8989d3-211e-4439-ba09-8088ad06c0b0",
+      "name": "Dot and Cross Products",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15257815799",
+        "timeSpentVideo": "1133243815",
+        "submissions": 38250,
+        "submissionsCorrect": 22596,
+        "questions": 12,
+        "accuracy": 0.5907450980392157,
+        "difficulty": 0.6594915254237288
+      }
+    },
+    {
+      "id": "fd3be0d7-eb45-4cff-8acb-054b4e648be4",
+      "name": "Angle Between Vectors",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2343232466",
+        "timeSpentVideo": "86835203",
+        "submissions": 5414,
+        "submissionsCorrect": 3869,
+        "questions": 2,
+        "accuracy": 0.7146287403029183,
+        "difficulty": 0.5392636924192964
+      }
+    }
+  ],
+  "children": []
+}

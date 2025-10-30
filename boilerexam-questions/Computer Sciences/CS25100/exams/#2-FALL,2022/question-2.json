@@ -1,0 +1,150 @@
+{
+  "id": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "You are in the role of a hacker trying to break down a hash table. The information collected so far indicates the hash table uses Quadratic Probing with $h(k, i) = ((k+i^2)\\ \\text{mod } m)$ for collision management and its current capacity is $m = 9$. The current state of the table is below.\n\nThe system is nearly overloaded and will collapse if the next item inserted causes at least 4 probes. As an attacker you are considering inserting the following keys: 16, 35 and 10. Which (if any) of these values would bring the system down if inserted next?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "67615421-bdd7-4c0f-9b35-259cc5de6eb4",
+        "index": 0,
+        "body": "$16$",
+        "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "c5798663-abc4-42e0-a1f7-124933e9f69e",
+        "index": 1,
+        "body": "$35$",
+        "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "23b36d33-3d06-4ed7-8f29-951f23831e0d",
+        "index": 2,
+        "body": "$10$",
+        "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+        "stats": {
+          "count": 1095
+        },
+        "resources": []
+      },
+      {
+        "id": "992c0b2f-a533-4116-9524-3a999341e0ea",
+        "index": 3,
+        "body": "None of these items will bring the system down.",
+        "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "283876348",
+    "timeSpentVideo": "25116136",
+    "submissions": 1549,
+    "submissionsCorrect": 1095,
+    "accuracy": 0.7069076823757263,
+    "difficulty": 0.5556397816858702
+  },
+  "resources": [
+    {
+      "id": "69fe2dbf-dddd-4d93-ba2d-2742d7dcd1f9",
+      "type": "IMAGE",
+      "data": {
+        "key": "dI0Cb_UH8SYqKyCSfIVNH",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/dI0Cb_UH8SYqKyCSfIVNH",
+        "altText": "image"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1946630963",
+      "timeSpentVideo": "322126112",
+      "submissions": 12485,
+      "submissionsCorrect": 8220,
+      "questions": 8,
+      "accuracy": 0.6583900680816981,
+      "difficulty": 0.5928684942391736
+    }
+  },
+  "explanation": {
+    "id": "4026dcaa-f593-4226-b9eb-5c11cf1b4ff7",
+    "body": "",
+    "questionId": "d05b72e9-280d-4d04-8fc3-f60cde3b46f7",
+    "resources": [
+      {
+        "id": "cd4be999-2ab7-4d28-b0c6-5eaebc813f88",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aMC7yAJuKrg?t=283"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4026dcaa-f593-4226-b9eb-5c11cf1b4ff7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52789af2-2123-4337-b38f-108a1849e8e8",
+      "name": "Hash Table",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4478230174",
+        "timeSpentVideo": "95806366",
+        "submissions": 7870,
+        "submissionsCorrect": 5649,
+        "questions": 6,
+        "accuracy": 0.7177890724269378,
+        "difficulty": 0.5349435382685069
+      }
+    }
+  ],
+  "children": []
+}

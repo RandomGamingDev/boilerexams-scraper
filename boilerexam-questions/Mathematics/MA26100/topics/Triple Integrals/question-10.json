@@ -1,0 +1,158 @@
+{
+  "id": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the volume of the solid that is enclosed by $x^{2}+y^{2}+z^{2}=1, x^{2}+y^{2}+z^{2}=4$, and $z=\\sqrt{x^{2}+y^{2}}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c54ad848-a863-4ddf-9a43-4576caa5fcb4",
+        "index": 0,
+        "body": "$\\frac{14 \\pi}{3}\\left(1-\\frac{\\sqrt{2}}{2}\\right)$",
+        "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+        "stats": {
+          "count": 1465
+        },
+        "resources": []
+      },
+      {
+        "id": "9fd91592-2a0e-49b2-afdc-c5de2e67d59a",
+        "index": 1,
+        "body": "$\\frac{28 \\pi}{3}$",
+        "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "5c33cd28-5a9c-45da-8458-e7fe77207ff4",
+        "index": 2,
+        "body": "$\\frac{14 \\pi}{3}\\left(1+\\frac{\\sqrt{2}}{2}\\right)$",
+        "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "f0058eee-fffa-4f1f-b8b2-42762a463432",
+        "index": 3,
+        "body": "$3 \\pi\\left(1-\\frac{\\sqrt{2}}{2}\\right)$",
+        "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "de0c4e20-f10b-47fb-b996-761a8214c294",
+        "index": 4,
+        "body": "$3 \\pi$",
+        "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "723059514",
+    "timeSpentVideo": "127748002",
+    "submissions": 2757,
+    "submissionsCorrect": 1465,
+    "accuracy": 0.5313746826260428,
+    "difficulty": 0.7197234861743087
+  },
+  "resources": [],
+  "exam": {
+    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "number": 2,
+    "year": 2016,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": false,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4604005568",
+      "timeSpentVideo": "918117591",
+      "submissions": 21930,
+      "submissionsCorrect": 11494,
+      "questions": 12,
+      "accuracy": 0.5241222070223438,
+      "difficulty": 0.7259872900590104
+    }
+  },
+  "explanation": {
+    "id": "2a6a23b9-b4fe-4662-8e5a-a4d87dd7b868",
+    "body": "",
+    "questionId": "f3c779bf-f50e-4c37-bf6c-de0376b11c41",
+    "resources": [
+      {
+        "id": "b68b70ae-3eef-4d5f-b59a-11ad934b114e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=1179"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2a6a23b9-b4fe-4662-8e5a-a4d87dd7b868",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "25004465806",
+        "timeSpentVideo": "2704762738",
+        "submissions": 52423,
+        "submissionsCorrect": 28134,
+        "questions": 14,
+        "accuracy": 0.5366728344428972,
+        "difficulty": 0.7133969879862155
+      }
+    },
+    {
+      "id": "fe98730e-b232-4fb3-95e2-f2a219718e24",
+      "name": "Spherical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "16366452649",
+        "timeSpentVideo": "2568706851",
+        "submissions": 35157,
+        "submissionsCorrect": 18862,
+        "questions": 8,
+        "accuracy": 0.5365076656142447,
+        "difficulty": 0.7135958816688884
+      }
+    }
+  ],
+  "children": []
+}

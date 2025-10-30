@@ -1,0 +1,168 @@
+{
+  "id": "636c43c4-369b-48e7-8813-a551735e3058",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int_{2}^{\\infty} \\frac{d x}{x}$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f241f6b6-371c-4770-9b8e-d9d2736d15af",
+        "index": 0,
+        "body": "This improper integral converges to $\\ln \\frac{1}{4}$",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "c55bc3c4-bfe4-49b9-bed8-ff9d1ab1cb77",
+        "index": 1,
+        "body": "This improper integral converges to $\\frac{1}{4}$",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "45f92c22-4b13-4336-964b-b27b41cfd187",
+        "index": 2,
+        "body": "This improper integral converges to $\\ln \\frac{1}{2}$",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      },
+      {
+        "id": "90d47c54-5aad-4d72-ad95-70a8476af90c",
+        "index": 3,
+        "body": "This improper integral converges to $\\ln 2$",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 334
+        },
+        "resources": []
+      },
+      {
+        "id": "4ff87922-5d39-4a3b-b186-a3915c710559",
+        "index": 4,
+        "body": "This improper integral diverges",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 4554
+        },
+        "resources": []
+      },
+      {
+        "id": "a8bdd246-eecb-4684-a6fb-a5e93093ce4d",
+        "index": 5,
+        "body": "This improper integral converges to $\\frac{1}{2}$ ",
+        "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "ac49247a-ff75-4fad-81ea-c684ca361961",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "722051504",
+    "timeSpentVideo": "31990870",
+    "submissions": 5564,
+    "submissionsCorrect": 4554,
+    "accuracy": 0.8184759166067578,
+    "difficulty": 0.4371468926553672
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac49247a-ff75-4fad-81ea-c684ca361961",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6303658106",
+      "timeSpentVideo": "685020582",
+      "submissions": 32950,
+      "submissionsCorrect": 20812,
+      "questions": 12,
+      "accuracy": 0.6316236722306525,
+      "difficulty": 0.6187745839636913
+    }
+  },
+  "explanation": {
+    "id": "a541f7e1-ee22-4755-bf64-c6de7ba4b50f",
+    "body": "",
+    "questionId": "636c43c4-369b-48e7-8813-a551735e3058",
+    "resources": [
+      {
+        "id": "5bfbac75-d671-4e60-998c-5686e8910a22",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YXRnrX7N3w4?t=2076\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a541f7e1-ee22-4755-bf64-c6de7ba4b50f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0f35fb89-57ce-4c77-8e90-dfcc55f1c6ce",
+      "name": "Improper Integral",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14329891277",
+        "timeSpentVideo": "894017817",
+        "submissions": 35492,
+        "submissionsCorrect": 21862,
+        "questions": 9,
+        "accuracy": 0.6159697960103685,
+        "difficulty": 0.6343560350640594
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    }
+  ],
+  "children": []
+}

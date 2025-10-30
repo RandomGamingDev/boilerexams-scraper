@@ -1,0 +1,143 @@
+{
+  "id": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If the following differential equation is exact, select the implicit solution to the initial value problem\n\n$(\\frac{y}{x} + 6x) + (\\ln x - 2y)y^{\\prime} = 0 \\;\\;\\;\\;\\;\\; \\;\\;y(1) = 2;\\;\\;\\;\\;\\;\\;\\;\\; x > 0.$ \n\n\nIf it is not exact, select \"NOT EXACT\".",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "65568d1f-702c-4900-85b7-bf4d087a7547",
+        "index": 0,
+        "body": "$y^{2} / x-6 x y+y \\ln x=-8$",
+        "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "55b18db7-507b-4657-a811-e200fed0d776",
+        "index": 1,
+        "body": "$y \\ln x-3 x^{2}+y^{2}=1$",
+        "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "0b15f9dd-7ae8-4733-8c9e-5633a30e7f71",
+        "index": 2,
+        "body": "$y \\ln x-4 x y=-8$",
+        "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "c25145f5-db8d-4ea5-8e71-0a2344a5abed",
+        "index": 3,
+        "body": "$y \\ln x+3 x^{2}-y^{2}=-1$",
+        "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+        "stats": {
+          "count": 1547
+        },
+        "resources": []
+      },
+      {
+        "id": "4618018f-2267-4bb3-8d00-363f6f3b7b65",
+        "index": 4,
+        "body": "NOT EXACT",
+        "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+        "stats": {
+          "count": 198
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "511810436",
+    "timeSpentVideo": "64060397",
+    "submissions": 2115,
+    "submissionsCorrect": 1547,
+    "accuracy": 0.7314420803782505,
+    "difficulty": 0.5290067720090293
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "60a75073-f2c7-4624-a63b-5b47bdbba90f",
+    "body": "",
+    "questionId": "92629f2a-b66b-4dfe-bfa4-dca52fc7f0b6",
+    "resources": [
+      {
+        "id": "834b60f8-c587-467a-9c3d-a793f24c5ec9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=N_wmorkxanB8QA6b&t=578"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "60a75073-f2c7-4624-a63b-5b47bdbba90f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "22844638-9a38-4c16-98e5-6e5ced2e330b",
+      "name": "Exact Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4092456179",
+        "timeSpentVideo": "374640397",
+        "submissions": 10203,
+        "submissionsCorrect": 6475,
+        "questions": 10,
+        "accuracy": 0.6346172694305596,
+        "difficulty": 0.6166893137920993
+      }
+    }
+  ],
+  "children": []
+}

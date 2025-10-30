@@ -1,0 +1,143 @@
+{
+  "id": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\lim_{{n \\to \\infty}} \\frac{\\ln(4n+5)}{n}$\n",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0f6a5f9f-76b6-47b0-b429-2f459718ec06",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+        "stats": {
+          "count": 231
+        },
+        "resources": []
+      },
+      {
+        "id": "48084d4a-d3fd-41f6-9c46-818988167ebf",
+        "index": 1,
+        "body": "$-\\frac{\\ln 4}{5}$",
+        "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "871043af-78ea-4597-88bf-1a1621c59909",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+        "stats": {
+          "count": 2819
+        },
+        "resources": []
+      },
+      {
+        "id": "f6485dab-520c-4426-846f-c430d1f3726d",
+        "index": 3,
+        "body": "$\\frac{\\ln 5}{4}$",
+        "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "5fc1c252-d12c-4118-88ec-c75796b6a8f9",
+        "index": 4,
+        "body": "Limit does not exist. ",
+        "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+        "stats": {
+          "count": 407
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "458978959",
+    "timeSpentVideo": "73570210",
+    "submissions": 4052,
+    "submissionsCorrect": 2819,
+    "accuracy": 0.695705824284304,
+    "difficulty": 0.5590077071290944
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340608004",
+      "timeSpentVideo": "804826486",
+      "submissions": 39510,
+      "submissionsCorrect": 24591,
+      "questions": 12,
+      "accuracy": 0.6223993925588459,
+      "difficulty": 0.6279096187831356
+    }
+  },
+  "explanation": {
+    "id": "f085a20e-6aec-4942-a3bf-d32db51a58f4",
+    "body": "",
+    "questionId": "d6e8b122-69d6-4238-be82-1ca7c777160b",
+    "resources": [
+      {
+        "id": "9e1c4d2b-1c9d-4e1a-b4f7-473383b8bd44",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=1807\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f085a20e-6aec-4942-a3bf-d32db51a58f4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    }
+  ],
+  "children": []
+}

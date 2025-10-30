@@ -1,0 +1,143 @@
+{
+  "id": "960d02c0-8701-4260-be42-616d6a2311c9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\left[\\begin{array}{cc}x  \\\\ y \\end{array}\\right] $ be the solution of the initial value problem\n\n$\\left[\\begin{array}{cc}x  \\\\ y \\end{array}\\right]^{\\prime}=\\left[\\begin{array}{cc}3 & -1 \\\\ 1& 5\\end{array}\\right] \\left[\\begin{array}{cc}x  \\\\ y \\end{array}\\right] , \\;\\;\\;\\;\\;\\;\\; \\left[\\begin{array}{cc}x(0)  \\\\ y(0) \\end{array}\\right]=\\left[\\begin{array}{cc}1  \\\\ 2 \\end{array}\\right],$\n\nfind $x(1).$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "79bba2fc-3c9e-4bdd-94d9-f46aa83b5935",
+        "index": 0,
+        "body": "$-2 e^{4}$",
+        "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+        "stats": {
+          "count": 741
+        },
+        "resources": []
+      },
+      {
+        "id": "81a980ee-9f85-4fcb-b409-037093546072",
+        "index": 1,
+        "body": "$-5 e^{4}$",
+        "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "c1d85785-bae4-4e3a-93e3-bb7eba10838b",
+        "index": 2,
+        "body": "$5 e^{4}$",
+        "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "cb7392a6-86c3-447d-ada6-75c5340c6f05",
+        "index": 3,
+        "body": "$3 e^{4}$",
+        "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+        "stats": {
+          "count": 86
+        },
+        "resources": []
+      },
+      {
+        "id": "8feef8ad-2088-47b4-acfe-cd5033a377e9",
+        "index": 4,
+        "body": "$2 e^{4}$",
+        "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+        "stats": {
+          "count": 134
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "438868534",
+    "timeSpentVideo": "101459875",
+    "submissions": 1536,
+    "submissionsCorrect": 741,
+    "accuracy": 0.482421875,
+    "difficulty": 0.7665036674816625
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "e58c316d-97bd-4360-ae6c-00a522ceaadf",
+    "body": "",
+    "questionId": "960d02c0-8701-4260-be42-616d6a2311c9",
+    "resources": [
+      {
+        "id": "d5efbbb4-89c7-4b59-8801-b25d3050e5ff",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=Wv8t1neSNsTw6Ljo&t=2255"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e58c316d-97bd-4360-ae6c-00a522ceaadf",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4474be2a-4063-4b4f-9f4b-b30b365785af",
+      "name": "Solve x'=Ax",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9548366611",
+        "timeSpentVideo": "677425879",
+        "submissions": 17717,
+        "submissionsCorrect": 10605,
+        "questions": 28,
+        "accuracy": 0.5985776372975109,
+        "difficulty": 0.6519756412415109
+      }
+    }
+  ],
+  "children": []
+}

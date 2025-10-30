@@ -1,0 +1,134 @@
+{
+  "id": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $L$ be a list of $n$ 10\u2013digit numbers. Bruno proposes the following algorithm for sorting the $n$ numbers.\n\nRemember: digit 9 is the unit, digit 8 is the ten, digit 7 is the hundred, digit 6 is the thousand... (e.g., for the number 5432198760 the 9th digit is 0, the 8th digit is 6 and so on...)\n\nWhat, if any, correction(s) are to be made so that BrunoSort will work on all values in $L$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "41c94c27-9bfb-4590-b2f6-e135c6e6e0cc",
+        "index": 0,
+        "body": "Bruno is wrong. \\verb|BrunoSort| takes a painfully long time to sort each element in the list of numbers, so we can fix this by just merge-sorting everything instead.",
+        "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "c3066929-4bd6-4979-b975-2e442f59bf46",
+        "index": 1,
+        "body": "Bruno is wrong. The outer \\verb|for| loop of \\verb|BrunoSort| is fine, but the use of Selection Sort is not, and wouldn't accurately sort the values of $L$.",
+        "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "664f643a-bfa7-46a6-b89e-d83d03c1e717",
+        "index": 2,
+        "body": "Bruno is wrong. \\verb|BrunoSort| sorts the $n$ numbers in reverse order. To fix this, just have the loop go from 9 to 0 instead of from 0 to 9.\n\nAdditionally substitute a stable sorting algorithm instead of selection sort",
+        "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+        "stats": {
+          "count": 756
+        },
+        "resources": []
+      },
+      {
+        "id": "366cc015-70d1-42a3-9d1a-b238f417e548",
+        "index": 3,
+        "body": "Bruno is right, and no changes need to be made.",
+        "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "123488580",
+    "timeSpentVideo": "0",
+    "submissions": 946,
+    "submissionsCorrect": 756,
+    "accuracy": 0.7991543340380549,
+    "difficulty": 0.4794455066921606
+  },
+  "resources": [
+    {
+      "id": "e00944f7-c9a4-4600-958e-20b060b01813",
+      "type": "IMAGE",
+      "data": {
+        "key": "woNySglQhEGF1QwGLCYzg",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/woNySglQhEGF1QwGLCYzg"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "89f88bbf-e440-4389-8782-d4c1d79721a9",
+    "body": null,
+    "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

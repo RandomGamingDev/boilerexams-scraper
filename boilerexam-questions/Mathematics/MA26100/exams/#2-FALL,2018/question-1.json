@@ -1,0 +1,173 @@
+{
+  "id": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The shortest distance from $(1,1,0)$ to the plane $x+y+z=1$ is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "1d44c4fd-4bd0-4b14-b38e-5258823ee5e6",
+        "index": 0,
+        "body": "$\\sqrt{3} / 2$",
+        "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+        "stats": {
+          "count": 270
+        },
+        "resources": []
+      },
+      {
+        "id": "d9a81719-b5f4-4db9-9fdc-34f24c6be4b7",
+        "index": 1,
+        "body": "$\\sqrt{3}$",
+        "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+        "stats": {
+          "count": 260
+        },
+        "resources": []
+      },
+      {
+        "id": "c2663c69-a891-45ce-9bde-a367e9323a0d",
+        "index": 2,
+        "body": "$\\sqrt{3} / 4$",
+        "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      },
+      {
+        "id": "d0faf5a3-37cb-4c7e-84f7-c4055d3c8ccb",
+        "index": 3,
+        "body": "$\\sqrt{3} / 3$",
+        "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+        "stats": {
+          "count": 1981
+        },
+        "resources": []
+      },
+      {
+        "id": "289a3c8a-5a6c-4241-a099-d20001d18c95",
+        "index": 4,
+        "body": "$3$",
+        "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1012513387",
+    "timeSpentVideo": "434396010",
+    "submissions": 4884,
+    "submissionsCorrect": 1981,
+    "accuracy": 0.4056101556101556,
+    "difficulty": 0.8424959871589085
+  },
+  "resources": [],
+  "exam": {
+    "id": "f5b36657-eee7-4356-aa5e-5f7e0912e925",
+    "number": 2,
+    "year": 2018,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8710152545",
+      "timeSpentVideo": "2876318422",
+      "submissions": 47782,
+      "submissionsCorrect": 27974,
+      "questions": 12,
+      "accuracy": 0.5854505880875643,
+      "difficulty": 0.6647278726870223
+    }
+  },
+  "explanation": {
+    "id": "40156d0c-5d1c-4861-8126-8a4cbeba22ae",
+    "body": "",
+    "questionId": "1c53274a-62f8-4afd-8ded-dbdec66ad00c",
+    "resources": [
+      {
+        "id": "05b1d106-f3a1-404d-84bd-e856559fec96",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/U6JSLAINs8I"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "40156d0c-5d1c-4861-8126-8a4cbeba22ae",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "01c45180-dd65-4e8d-8ae0-c0a9a7c4b0fc",
+      "name": "Optimization",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4297164658",
+        "timeSpentVideo": "792131492",
+        "submissions": 9796,
+        "submissionsCorrect": 4059,
+        "questions": 2,
+        "accuracy": 0.4143527970600245,
+        "difficulty": 0.8347817299919159
+      }
+    },
+    {
+      "id": "3ff61fda-168d-4685-9596-9c9cbd9f36c6",
+      "name": "Lagrange Multipliers",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23687011243",
+        "timeSpentVideo": "2391172133",
+        "submissions": 47469,
+        "submissionsCorrect": 30167,
+        "questions": 10,
+        "accuracy": 0.6355094904042639,
+        "difficulty": 0.6147753789232483
+      }
+    },
+    {
+      "id": "f7c4f6c3-b5f6-48f7-8319-c7e0e7c5a05b",
+      "name": "Point on Plane",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5280246078",
+        "timeSpentVideo": "896964706",
+        "submissions": 11709,
+        "submissionsCorrect": 5395,
+        "questions": 3,
+        "accuracy": 0.46075668289350075,
+        "difficulty": 0.7889110000846812
+      }
+    }
+  ],
+  "children": []
+}

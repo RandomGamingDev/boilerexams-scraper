@@ -1,0 +1,133 @@
+{
+  "id": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the following code:\nHow does the extract_digits function process the given string?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9e602653-797a-484b-80ad-bd5b9495fd8f",
+        "index": 0,
+        "body": "The function returns the original string if no digits are present.",
+        "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "2076aaa1-1329-415f-bcf8-86f2cb507506",
+        "index": 1,
+        "body": "It ignores any non-digit character and processes only the odd digits in the string.",
+        "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "3f3b30f2-9d2d-4023-afd7-f69dc6ee27b2",
+        "index": 2,
+        "body": "The function concatenates only the even digits from the string to the result.",
+        "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+        "stats": {
+          "count": 240
+        },
+        "resources": []
+      },
+      {
+        "id": "de7bf31c-20e0-4105-bc9c-4dc5d229e824",
+        "index": 3,
+        "body": "It accumulates all the digits present in the string.",
+        "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "33661584",
+    "timeSpentVideo": "307590",
+    "submissions": 275,
+    "submissionsCorrect": 240,
+    "accuracy": 0.8727272727272727,
+    "difficulty": 0.4766666666666667
+  },
+  "resources": [
+    {
+      "id": "9d5bbe30-6bed-48f3-81fd-76030901e1e5",
+      "type": "CODE",
+      "data": {
+        "content": "def extract_digits(s):\n    result = ''\n    for char in s:\n        if char.isdigit() and int(char) % 2 == 0:\n            result += char\n    return result",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "e62b4046-e699-4b95-bda9-0bf27b7fbddd",
+    "body": "",
+    "questionId": "62a4170e-2c14-48c3-ae86-cabf8943fa90",
+    "resources": [
+      {
+        "id": "c52b30e6-1e7b-40ac-8753-4b60e65927f8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=7aqKm2ff9sP7iZSF&t=640"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e62b4046-e699-4b95-bda9-0bf27b7fbddd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

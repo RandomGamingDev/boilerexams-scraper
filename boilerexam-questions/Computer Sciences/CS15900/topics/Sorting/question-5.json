@@ -1,0 +1,133 @@
+{
+  "id": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the array below<br><font style=\"font-family:'Courier New'\">73 70 77 74 72 71</font><br>which of the following is NOT a possible configuration of the array after two passes through the\u00a0<b>insertion</b>\u00a0sorting algorithm?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ee03b342-c1be-4134-8b20-3382fb11348c",
+        "index": 0,
+        "body": "73 70 77 71 72 74",
+        "questionId": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+        "stats": {
+          "count": 583
+        },
+        "resources": []
+      },
+      {
+        "id": "ed829ae2-3142-49de-a7e5-91b810bbfb59",
+        "index": 1,
+        "body": "70 73 77 74 72 71",
+        "questionId": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      },
+      {
+        "id": "49bb0b80-69e3-46ae-ac06-0877b5469292",
+        "index": 2,
+        "body": "77 73 70 74 72 71",
+        "questionId": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+        "stats": {
+          "count": 473
+        },
+        "resources": []
+      },
+      {
+        "id": "b3385ab2-1ac3-4a50-aa23-168055abdb7e",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+        "stats": {
+          "count": 1565
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "413296795",
+    "timeSpentVideo": "98160421",
+    "submissions": 3193,
+    "submissionsCorrect": 1565,
+    "accuracy": 0.4901346695897275,
+    "difficulty": 0.7595657455208017
+  },
+  "resources": [],
+  "exam": {
+    "id": "88d9a6c5-5580-4deb-ab94-10e61c1cf335",
+    "number": 2,
+    "year": 2020,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2693154714",
+      "timeSpentVideo": "445248567",
+      "submissions": 24045,
+      "submissionsCorrect": 13869,
+      "questions": 25,
+      "accuracy": 0.5767935121646912,
+      "difficulty": 0.6735245392420791
+    }
+  },
+  "explanation": {
+    "id": "4afb7ea8-68a5-4772-b517-bbf45b2bcdba",
+    "body": "",
+    "questionId": "3ef99c92-6ced-4cd0-94e3-d49edb62028b",
+    "resources": [
+      {
+        "id": "0daf8cb4-c4bd-4039-a5d5-91384b167807",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/TRzUxuHv5qY?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=462"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4afb7ea8-68a5-4772-b517-bbf45b2bcdba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

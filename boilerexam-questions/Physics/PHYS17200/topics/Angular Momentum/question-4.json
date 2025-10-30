@@ -1,0 +1,344 @@
+{
+  "id": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
+  "type": "PARENT",
+  "data": {
+    "body": "$\\textbf{(2 Parts)}$ A rotating uniform-density disk of radius, $\\textbf{R = 1.5 m}$ is mounted in the vertical plane, as shown. The axle is held up by supports that are not shown, and the disk is free to rotate on the nearly frictionless axle. The disk has mass, $\\textbf{M = 10.0 kg}$. A lump of clay of mass $\\textbf{m = 3.0 kg}$ falls and sticks to the outer edge of the wheel at location $\\boldsymbol{r}$ = $\\boldsymbol{< -1.20, 0.90, 0 > m}$, relative to an origin at the center of the axle. Just before the impact the clay has velocity, $\\boldsymbol{v}$ = $\\boldsymbol{<-6.0, 0, 0> m/s}$ and the disk is rotating clockwise with angular speed, $\\omega$ = $\\textbf{2.0 rad/s.}$  [Moment of Inertia of a disk is $I_{\\text{disk}}$ = $(1/2)MR^2$.]",
+    "numberingType": "UPPERCASE",
+    "answerChoices": []
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1568165",
+    "timeSpentVideo": "214217",
+    "submissions": 6,
+    "submissionsCorrect": 3,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [
+    {
+      "id": "f8e6a94a-2802-406f-80bf-ccec9a594c0a",
+      "type": "IMAGE",
+      "data": {
+        "key": "w6Pss0RmZdYRBqLyT60gN",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/w6Pss0RmZdYRBqLyT60gN"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "57331224",
+      "timeSpentVideo": "12482322",
+      "submissions": 389,
+      "submissionsCorrect": 190,
+      "questions": 37,
+      "accuracy": 0.4884318766066838,
+      "difficulty": 0.75920245398773
+    }
+  },
+  "explanation": {
+    "id": "b0bf16cb-c02b-49fa-86ce-4c1d01bf6f11",
+    "body": null,
+    "questionId": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
+    "resources": [
+      {
+        "id": "7ec7c200-c111-4117-9da1-f203cc8aab73",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lc0wYjy5LhA?t=1112"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b0bf16cb-c02b-49fa-86ce-4c1d01bf6f11",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9df5a37c-499e-4b09-a2df-3c447cc1c191",
+      "name": "Conversation of Angular Momentum",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12667600",
+        "timeSpentVideo": "1648804",
+        "submissions": 54,
+        "submissionsCorrect": 10,
+        "questions": 6,
+        "accuracy": 0.18518518518518517,
+        "difficulty": 0.8603896103896104
+      }
+    },
+    {
+      "id": "e0154279-7a84-44cb-9665-55f48e6e2730",
+      "name": "Angular Momentum",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7064104",
+        "timeSpentVideo": "3433845",
+        "submissions": 26,
+        "submissionsCorrect": 15,
+        "questions": 5,
+        "accuracy": 0.5769230769230769,
+        "difficulty": 0.7341269841269841
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Just $\\textbf{before}$ the impact, what is the $\\textbf{angular momentum of the \\textit{system} (disk + clay)}$ about the center of the disk? Assume that the clay is point mass.",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "85c0f1d5-2696-43d9-91f5-67073d3d5e62",
+            "index": 0,
+            "body": "$< 0, 0, -0.90 >$ $kg \u22c5 \\frac{m^2} {s}$ ",
+            "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "4a91a224-6b1f-4a0b-bd8e-3c4b2f2f543f",
+            "index": 1,
+            "body": "$< 0, 0, -21.60 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "eba24ce2-9358-4e4c-85dd-be62bb632b45",
+            "index": 2,
+            "body": "$< 0, 0, 0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "1fdaea97-093a-4d1e-9414-251f6456169a",
+            "index": 3,
+            "body": "$< 0, 0, -22.50 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "5019fa56-31c5-4a41-907f-43bf3f130952",
+            "index": 4,
+            "body": "$< 0, 0, -44.10 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 5,
+        "submissionsCorrect": 3,
+        "accuracy": 0.6,
+        "difficulty": 0.7452380952380953
+      },
+      "resources": [],
+      "exam": {
+        "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+        "number": 0,
+        "year": 2019,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "57331224",
+          "timeSpentVideo": "12482322",
+          "submissions": 389,
+          "submissionsCorrect": 190,
+          "questions": 37,
+          "accuracy": 0.4884318766066838,
+          "difficulty": 0.75920245398773
+        }
+      },
+      "explanation": {
+        "id": "d0b0509e-49e8-4330-8138-92dcdb4d538f",
+        "body": null,
+        "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "d09ec554-232c-43d3-93e9-d164fe072503",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Just $\\textbf{after}$ the impact, what is the $\\textbf{angular momentum of the \\textit{system} (disk + clay)}$ about the center of the disk? ",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "9288d0b1-67be-43ae-9402-7f525a305508",
+            "index": 0,
+            "body": "$< 0, 0, 0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "153a8c3f-4a70-4c73-b30e-58c359fa1b9e",
+            "index": 1,
+            "body": "$< 0, 0, -0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "4b43b349-4858-4a90-a296-c233f672a401",
+            "index": 2,
+            "body": "$< 0, 0, -21.60 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "220d10c7-7d9c-4e39-9cd8-d92e2f0ce620",
+            "index": 3,
+            "body": "$< 0, 0, -22.50 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "c6c8f688-bb3b-423a-bd7a-945776fc3311",
+            "index": 4,
+            "body": "$< 0, 0, -44.10 >$ $kg \u22c5 \\frac{m^2} {s}$",
+            "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 5,
+        "submissionsCorrect": 2,
+        "accuracy": 0.4,
+        "difficulty": 0.7547619047619047
+      },
+      "resources": [],
+      "exam": {
+        "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+        "number": 0,
+        "year": 2019,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "57331224",
+          "timeSpentVideo": "12482322",
+          "submissions": 389,
+          "submissionsCorrect": 190,
+          "questions": 37,
+          "accuracy": 0.4884318766066838,
+          "difficulty": 0.75920245398773
+        }
+      },
+      "explanation": {
+        "id": "afde41e0-12ae-488c-a546-51cefa642bc9",
+        "body": null,
+        "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

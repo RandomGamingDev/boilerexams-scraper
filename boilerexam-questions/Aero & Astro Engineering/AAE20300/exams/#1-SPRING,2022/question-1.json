@@ -1,0 +1,90 @@
+{
+  "id": "ca852066-1766-484e-9fff-720eb1e402d7",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Assuming $\\bar{r}$ is a position vector,  $\\bar{v}$ is a velocity vector, m is a mass, g is gravitational acceleration, x and y are lengths, t is time, find the dimension of $\\sigma$ such that the following equation is dimensionally homogeneous:\n\n$$\n\\frac{|\\bar{r}|}{gt^2} \\sigma \\delta^2 = \\int_{0}^{5} \\int_{0}^{\\delta} (t^2 |\\bar{v}|^2 m^2 g^2)  \\,dx dy  \n$$\n",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "67aa41b1-fe92-4180-aaad-7c94b3400c92",
+  "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "250473869",
+    "timeSpentVideo": "62438822",
+    "submissions": 934,
+    "submissionsCorrect": 177,
+    "accuracy": 0.18950749464668093,
+    "difficulty": 1.0304642166344293
+  },
+  "resources": [],
+  "exam": {
+    "id": "67aa41b1-fe92-4180-aaad-7c94b3400c92",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "668733653",
+      "timeSpentVideo": "197892334",
+      "submissions": 2094,
+      "submissionsCorrect": 309,
+      "questions": 3,
+      "accuracy": 0.14756446991404013,
+      "difficulty": 1.0863719234275298
+    }
+  },
+  "explanation": {
+    "id": "c76cc826-cf9e-43a0-97b0-b35492a1a756",
+    "body": "Note: At 12:36 in the video, I dropped the $L^2$. The dimension of the RHS should be $M^2 L^6 / T^4$. This means the final answer should be $M^2 L^4 / T^4$.\n",
+    "questionId": "ca852066-1766-484e-9fff-720eb1e402d7",
+    "resources": [
+      {
+        "id": "b977dd4a-f76d-4df5-9560-fcebd71bb5f6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=HW_r5H24YZ8&t=5s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c76cc826-cf9e-43a0-97b0-b35492a1a756",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b60e825-90e8-4a43-bef9-4bd765f22f33",
+      "name": "Dimensional Analysis",
+      "courseId": "917504b9-0d67-4558-af71-b5961ee7b962",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1758686920",
+        "timeSpentVideo": "224168612",
+        "submissions": 2140,
+        "submissionsCorrect": 177,
+        "questions": 3,
+        "accuracy": 0.08271028037383178,
+        "difficulty": 1.1486607142857144
+      }
+    }
+  ],
+  "children": []
+}

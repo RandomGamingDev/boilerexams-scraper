@@ -1,0 +1,143 @@
+{
+  "id": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem.\n\n\n\\[\ny^{(4)}+y^{\\prime \\prime}=\\delta(t-1), \\quad y(0)=y^{\\prime}(0)=y^{\\prime \\prime}(0)=0, \\quad y^{\\prime \\prime \\prime}(0)=1 .\n\\]\n\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "cc2e837b-d11e-42be-b8cf-213f0dce4733",
+        "index": 0,
+        "body": "$u_{1}(t)(t-1+\\cos (t-1))+t-\\sin (t)$",
+        "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "26416799-652d-4b43-8d01-ded36b7a97da",
+        "index": 1,
+        "body": "$u_{1}(t)(t-1+\\sin (t-1))+t+\\sin (t)$",
+        "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+        "stats": {
+          "count": 129
+        },
+        "resources": []
+      },
+      {
+        "id": "7ff944d2-fb91-4317-b9b2-4b53620c67ff",
+        "index": 2,
+        "body": "$u_{1}(t)(\\sin (t-1)+\\cos (t-1))+\\sin (t)+\\cos (t)$",
+        "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "2303c939-9b10-4fa8-8cfa-66531c20fdfb",
+        "index": 3,
+        "body": "$u_{1}(t)(t-1-\\sin (t-1))+t-\\sin (t)$",
+        "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+        "stats": {
+          "count": 624
+        },
+        "resources": []
+      },
+      {
+        "id": "c50b492f-e24f-44eb-aaa4-93553485e524",
+        "index": 4,
+        "body": "$u_{1}(t)(t-1-\\cos (t-1))+t-\\cos (t)$",
+        "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "478387928",
+    "timeSpentVideo": "93862584",
+    "submissions": 1317,
+    "submissionsCorrect": 624,
+    "accuracy": 0.47380410022779046,
+    "difficulty": 0.7743472124206069
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "1f592a07-5b18-4b72-ac4b-1b3ff92aac96",
+    "body": "",
+    "questionId": "9a244d71-6938-41d5-80c2-e937194b7c9c",
+    "resources": [
+      {
+        "id": "52ab8b9f-53f2-48fe-9be8-a97815b14318",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=-xfcxZJ7J4dWy9pq&t=1792"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1f592a07-5b18-4b72-ac4b-1b3ff92aac96",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e53bacd8-ba6e-4644-b3d7-5ef9d7fc6f95",
+      "name": "Laplace IVP",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5006586899",
+        "timeSpentVideo": "467508184",
+        "submissions": 8521,
+        "submissionsCorrect": 4731,
+        "questions": 10,
+        "accuracy": 0.5552165238821735,
+        "difficulty": 0.6954239647372694
+      }
+    }
+  ],
+  "children": []
+}

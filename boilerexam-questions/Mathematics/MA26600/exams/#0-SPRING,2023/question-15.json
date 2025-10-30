@@ -1,0 +1,128 @@
+{
+  "id": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The general solution to the nonhomogeneous linear system $\\mathbf{x}^{\\prime}=\\mathbf{A x}+\\mathbf{g}$, where\n\n\n\\[\n\\mathbf{A}=\\left[\\begin{array}{rr}\n0 & -1 \\\\\n1 & 0\n\\end{array}\\right], \\quad \\mathbf{g}=\\left[\\begin{array}{l}\n1 \\\\\n0\n\\end{array}\\right]\n\\]\n\nis",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9c915870-2d71-4eb5-8f79-0628e09710d6",
+        "index": 0,
+        "body": "$c_{1}\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] \\cos t+c_{2}\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right] \\sin t+\\left[\\begin{array}{r}0 \\\\ -1\\end{array}\\right]$",
+        "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "1628607e-c85d-405e-b69c-ff57574faf93",
+        "index": 1,
+        "body": "$c_{1}\\left[\\begin{array}{c}\\cos t \\\\ \\sin t\\end{array}\\right]+c_{2}\\left[\\begin{array}{r}\\sin t \\\\ -\\cos t\\end{array}\\right]+\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right]$",
+        "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+        "stats": {
+          "count": 301
+        },
+        "resources": []
+      },
+      {
+        "id": "82f3f058-ab27-4d72-ac3d-edd8605cebb4",
+        "index": 2,
+        "body": "$c_{1}\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] \\cos t+c_{2}\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right] \\sin t+\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right]$",
+        "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "104d3262-a884-4af2-a01a-3fa4ab447b6d",
+        "index": 3,
+        "body": "$c_{1}\\left[\\begin{array}{c}\\cos t \\\\ \\sin t\\end{array}\\right]+c_{2}\\left[\\begin{array}{r}\\sin t \\\\ -\\cos t\\end{array}\\right]+\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right]$",
+        "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+        "stats": {
+          "count": 139
+        },
+        "resources": []
+      },
+      {
+        "id": "bbb1e3b1-c4f4-4452-bae6-231a16eeecdd",
+        "index": 4,
+        "body": "$c_{1}\\left[\\begin{array}{c}\\cos t \\\\ \\sin t\\end{array}\\right]+c_{2}\\left[\\begin{array}{c}\\sin t \\\\ \\cos t\\end{array}\\right]+\\left[\\begin{array}{r}1 \\\\ -1\\end{array}\\right]$",
+        "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "149347201",
+    "timeSpentVideo": "0",
+    "submissions": 500,
+    "submissionsCorrect": 301,
+    "accuracy": 0.602,
+    "difficulty": 0.665
+  },
+  "resources": [],
+  "exam": {
+    "id": "27ea45c5-6307-4a48-a115-7fcd2e0bc73b",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2424258716",
+      "timeSpentVideo": "0",
+      "submissions": 9888,
+      "submissionsCorrect": 7615,
+      "questions": 20,
+      "accuracy": 0.7701254045307443,
+      "difficulty": 0.4825790949138967
+    }
+  },
+  "explanation": {
+    "id": "fd58a52c-18c5-43da-97ea-6f9765b75068",
+    "body": "",
+    "questionId": "e28f3b24-6a9c-41a8-a85c-41538e84a845",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "71e3acda-10f3-4d08-9787-1c3345a662d7",
+      "name": "Solve x'=Ax+f(t)",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3246724667",
+        "timeSpentVideo": "430957344",
+        "submissions": 5616,
+        "submissionsCorrect": 2280,
+        "questions": 7,
+        "accuracy": 0.405982905982906,
+        "difficulty": 0.842372288313506
+      }
+    }
+  ],
+  "children": []
+}

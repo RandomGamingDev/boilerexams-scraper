@@ -1,0 +1,143 @@
+{
+  "id": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\\[\ny'' - 3y' - 4y = 3e^{2x}, \\quad y(0) = \\frac{5}{2}, \\; y'(0) = 1\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0c13e90f-4a30-46c5-97a6-187cffb1defb",
+        "index": 0,
+        "body": "$y(t) = \\frac{3}{2}e^{-x} + 2e^{4x} - e^{2x}$",
+        "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "17ff1823-d381-45b4-aa37-1d1aa26df2bb",
+        "index": 1,
+        "body": "$y(t) = 4e^x - e^{-4x} - \\frac{1}{2}e^{2x}$",
+        "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "b65159b3-7732-43db-b30a-2c5b9c2113c1",
+        "index": 2,
+        "body": "$y(t) = e^{-x} + e^{4x} + \\frac{1}{2}e^{2x}$",
+        "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "1f9a425a-7cff-4b3b-9267-e81eaf19f10f",
+        "index": 3,
+        "body": "$y(t) = 2e^{-x} + e^{4x} - \\frac{1}{2}e^{2x}$",
+        "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      },
+      {
+        "id": "d705f3cb-8077-446c-9883-0bc5d45aa785",
+        "index": 4,
+        "body": "$y(t) = \\frac{7}{2}e^x - 2e^{-4x} + e^{2x}$",
+        "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "227331610",
+    "timeSpentVideo": "19886927",
+    "submissions": 646,
+    "submissionsCorrect": 388,
+    "accuracy": 0.6006191950464397,
+    "difficulty": 0.6628686327077749
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "58fa86f8-5656-4f33-b165-1b4d67ce0ecd",
+    "body": null,
+    "questionId": "d5ea25cd-4cef-41f3-b340-3599c20f9f1a",
+    "resources": [
+      {
+        "id": "5d640001-90d6-41f1-b925-f9c6ed785f7c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=lzx1XyCHiwzOpPLD&t=1108"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "58fa86f8-5656-4f33-b165-1b4d67ce0ecd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

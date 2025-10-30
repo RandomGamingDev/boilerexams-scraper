@@ -1,0 +1,118 @@
+{
+  "id": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is a complement of expression below?\n\n<code>c == 0 && a < 4 || b > 5</code>",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "6a6700f5-11af-4818-985c-8cc1d4bee70b",
+        "index": 0,
+        "body": "<code>(c || a >= 4) && b <= 5</code>",
+        "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "8c025e2a-d0b8-4ce4-b7cc-fbcc4839f39a",
+        "index": 1,
+        "body": "<code>c != 0 && a >= 4 || b <= 5</code>",
+        "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "9fc8b8c3-1e06-4cfd-9d09-d408fed54179",
+        "index": 2,
+        "body": "<code>c != 0 || (a >= 4 && b <= 5)</code>",
+        "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "2150c2cf-1eaf-4f40-ac89-9271955f5f94",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "401650",
+    "timeSpentVideo": "0",
+    "submissions": 14,
+    "submissionsCorrect": 8,
+    "accuracy": 0.5714285714285714,
+    "difficulty": 0.7412280701754386
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "db421df3-a0c1-486e-a984-942949954f5e",
+    "body": null,
+    "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "f1ff0e4e-0ec4-44ce-8d8d-0b9109d7d897",
+      "name": "Complement & Equivalent Logic",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "401650",
+        "timeSpentVideo": "0",
+        "submissions": 14,
+        "submissionsCorrect": 8,
+        "questions": 1,
+        "accuracy": 0.5714285714285714,
+        "difficulty": 0.7412280701754386
+      }
+    }
+  ],
+  "children": []
+}

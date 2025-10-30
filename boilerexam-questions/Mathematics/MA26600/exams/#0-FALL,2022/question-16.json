@@ -1,0 +1,112 @@
+{
+  "id": "b1eff568-d173-449b-a47c-90e118ce4403",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of the solution to the initial value problem\n\n\n\\[\nx^{\\prime \\prime}-x=5 \\sin 2 t, \\quad x(0)=1, x^{\\prime}(0)=1\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "6de41098-244a-4ef8-a403-3161479eaba4",
+        "index": 0,
+        "body": "$\\frac{1}{s-1}+\\frac{1}{(s-1)^{2}}+\\frac{5}{s^{2}+4}$",
+        "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "da6c9d8b-ff8a-431f-97a6-3fc6f155516a",
+        "index": 1,
+        "body": "$\\frac{1}{(s-1)^{2}}+\\frac{5}{2\\left(s^{2}+4\\right)}$",
+        "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "9fa86960-c4e3-4b63-8e13-64626365cd18",
+        "index": 2,
+        "body": "$\\frac{1}{s+1}-\\frac{1}{s-1}+\\frac{2}{s^{2}+4}$",
+        "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "3397a769-cfab-473a-877e-bf3420c74e3e",
+        "index": 3,
+        "body": "$\\frac{2}{s+1}+\\frac{1}{s-1}-\\frac{1}{s^{2}+2}$",
+        "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "f0d4f4e3-5a87-45a5-9880-fdb03e24ef3d",
+        "index": 4,
+        "body": "$-\\frac{1}{s+1}+\\frac{2}{s-1}-\\frac{2}{s^{2}+4}$",
+        "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+        "stats": {
+          "count": 141
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": "",
+  "examId": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "115672506",
+    "timeSpentVideo": "0",
+    "submissions": 234,
+    "submissionsCorrect": 141,
+    "accuracy": 0.6025641025641025,
+    "difficulty": 0.6781437125748503
+  },
+  "resources": [],
+  "exam": {
+    "id": "fb2ed24f-dd0c-4ba3-9198-57f75b0fb700",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1040017850",
+      "timeSpentVideo": "5567346",
+      "submissions": 4069,
+      "submissionsCorrect": 3182,
+      "questions": 20,
+      "accuracy": 0.7820103219464242,
+      "difficulty": 0.47475413768289754
+    }
+  },
+  "explanation": {
+    "id": "e800150e-906e-4726-b91b-a41fc043996f",
+    "body": "",
+    "questionId": "b1eff568-d173-449b-a47c-90e118ce4403",
+    "resources": []
+  },
+  "topics": [],
+  "children": []
+}

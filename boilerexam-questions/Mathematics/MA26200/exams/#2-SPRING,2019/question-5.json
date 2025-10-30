@@ -1,0 +1,143 @@
+{
+  "id": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) Let $A=\\left[\\begin{array}{lll}1 & 2 & 3 \\\\ 0 & 2 & 4 \\\\ 0 & 6 & 4\\end{array}\\right]$. Find the product of all the eigenvalues of $A$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "5899d114-32b4-496a-9fc8-c9012f7ab901",
+        "index": 0,
+        "body": "$-16$",
+        "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+        "stats": {
+          "count": 482
+        },
+        "resources": []
+      },
+      {
+        "id": "69321191-2a3e-4727-b1b8-bd5596b5a94d",
+        "index": 1,
+        "body": "$-8$",
+        "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "f3645741-48d6-45be-a0bb-769588aafa6d",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "943a20c6-0ddb-453d-a666-70638ab4d993",
+        "index": 3,
+        "body": "$8$",
+        "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "6d784f97-fc09-417c-9644-64de7c4c7429",
+        "index": 4,
+        "body": "$16$",
+        "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "166555096",
+    "timeSpentVideo": "32862027",
+    "submissions": 790,
+    "submissionsCorrect": 482,
+    "accuracy": 0.610126582278481,
+    "difficulty": 0.652247191011236
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "efcaf61c-6774-409b-a451-186a39751c07",
+    "body": "",
+    "questionId": "68e8ceb3-99fe-42ac-ac47-da51e0e55b88",
+    "resources": [
+      {
+        "id": "070fc486-409c-4cba-92ed-ffec0f934fcd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=P4Zau7cfb7vWoEyY&t=731\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "efcaf61c-6774-409b-a451-186a39751c07",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5e4387fc-2000-4da7-bb38-ec017f8d7870",
+      "name": "Eigenvalues",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2488615864",
+        "timeSpentVideo": "230395100",
+        "submissions": 6150,
+        "submissionsCorrect": 3469,
+        "questions": 9,
+        "accuracy": 0.5640650406504065,
+        "difficulty": 0.68696
+      }
+    }
+  ],
+  "children": []
+}

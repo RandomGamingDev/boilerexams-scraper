@@ -1,0 +1,143 @@
+{
+  "id": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the initial value problem, \\[y'=x+2y,y(0)=3,\\] find the approximation of y(2) using Euler's method with step size h = 1.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "16b4042b-5767-435c-9493-ed872da87a66",
+        "index": 0,
+        "body": "3",
+        "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "ef6d32f7-06fa-4ab9-8733-82e1aafec975",
+        "index": 1,
+        "body": "-13",
+        "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "bdcb13f1-7ad0-4ab4-93d9-9e4c37a2a6f2",
+        "index": 2,
+        "body": "7",
+        "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "056807c5-6eda-406a-8bf3-f2051a4ee7df",
+        "index": 3,
+        "body": "19",
+        "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "530d9a2c-823c-401c-8981-6cfa073811d0",
+        "index": 4,
+        "body": "28",
+        "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+        "stats": {
+          "count": 511
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "88636419",
+    "timeSpentVideo": "10358175",
+    "submissions": 656,
+    "submissionsCorrect": 511,
+    "accuracy": 0.7789634146341463,
+    "difficulty": 0.5079365079365079
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "57c42e5b-95f6-4369-a8e6-be57ff49c33a",
+    "body": null,
+    "questionId": "2c8f5eb2-aff8-4093-8410-bae79d176b03",
+    "resources": [
+      {
+        "id": "46311839-574c-404e-b3bd-462cd596e6f7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=4363s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "57c42e5b-95f6-4369-a8e6-be57ff49c33a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "581ba71e-2ec0-47ae-aba4-2436e968c5c1",
+      "name": "Euler's Method",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4816796605",
+        "timeSpentVideo": "91964031",
+        "submissions": 10171,
+        "submissionsCorrect": 8188,
+        "questions": 8,
+        "accuracy": 0.805033919968538,
+        "difficulty": 0.4479359361308538
+      }
+    }
+  ],
+  "children": []
+}

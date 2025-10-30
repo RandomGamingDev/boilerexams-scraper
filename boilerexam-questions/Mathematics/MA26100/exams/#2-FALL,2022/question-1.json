@@ -1,0 +1,143 @@
+{
+  "id": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Change the order of integration and evaluate\n\\[\n\\int_{0}^{1} \\int_{\\sqrt{x}}^{1} e^{y^{3}} d y \\,d x\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7362276a-4a47-4aa1-9d79-9eac6078bc0c",
+        "index": 0,
+        "body": "$\\frac{1}{2} e$",
+        "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "26a34c9b-cd49-4d7e-a498-0f3a61bc33a5",
+        "index": 1,
+        "body": "$\\frac{1}{2}(e-1)$",
+        "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      },
+      {
+        "id": "f19fbbcb-d3b6-4e4e-a32c-a727961b2abc",
+        "index": 2,
+        "body": "$\\frac{1}{3} e$",
+        "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+        "stats": {
+          "count": 227
+        },
+        "resources": []
+      },
+      {
+        "id": "2c2f4ce3-03d6-43a9-9cf3-28c176451a24",
+        "index": 3,
+        "body": "$\\frac{1}{3}(e-1)$",
+        "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+        "stats": {
+          "count": 3085
+        },
+        "resources": []
+      },
+      {
+        "id": "d167cdab-066a-42d1-8d6a-78ba757ffd93",
+        "index": 4,
+        "body": "$e$",
+        "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "Note: This question is the same as Fall 2018, Exam 2, Question 4",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1132711084",
+    "timeSpentVideo": "275969546",
+    "submissions": 4644,
+    "submissionsCorrect": 3085,
+    "accuracy": 0.6642980189491817,
+    "difficulty": 0.5891652613827993
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "f74df43d-d690-4348-a2ef-8e85b5d4d737",
+    "body": "",
+    "questionId": "e6bd99d8-2112-475b-abdf-a895e3ebaff9",
+    "resources": [
+      {
+        "id": "bff05ef7-58fc-45f6-8346-fe7a8e448018",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=WlQNfPbH-TY"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f74df43d-d690-4348-a2ef-8e85b5d4d737",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12551255481",
+        "timeSpentVideo": "1211923078",
+        "submissions": 30689,
+        "submissionsCorrect": 21091,
+        "questions": 9,
+        "accuracy": 0.6872495030792792,
+        "difficulty": 0.5633586670564162
+      }
+    }
+  ],
+  "children": []
+}

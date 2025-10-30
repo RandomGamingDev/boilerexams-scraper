@@ -1,0 +1,143 @@
+{
+  "id": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the functions $f(x)=x^{2}+3, \\quad g(x)=\\frac{1}{7 x-1}$, and $h(x)=\\ln x$.\n\n\nFind the function $y(x)=g \\circ f \\circ h$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a5df9e4c-0c60-423a-8c6c-a4514a564ce5",
+        "index": 0,
+        "body": "$y(x)=\\frac{1}{(7 \\ln x-1)^{2}}+3$",
+        "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+        "stats": {
+          "count": 212
+        },
+        "resources": []
+      },
+      {
+        "id": "144aea99-d884-425d-9815-bfb8455888d9",
+        "index": 1,
+        "body": "$y(x)=[\\ln (7 x-1)]^{2}+3$",
+        "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "dd8e8898-d943-4c8f-9354-387a87b86f3f",
+        "index": 2,
+        "body": "$y(x)=\\frac{1}{7[\\ln x]^{2}+20}$",
+        "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+        "stats": {
+          "count": 1103
+        },
+        "resources": []
+      },
+      {
+        "id": "a47ec945-f45f-4a7e-b20c-c489535f72d4",
+        "index": 3,
+        "body": "$y(x)=\\frac{1}{7 \\ln \\left(x^{2}+3\\right)-1}$",
+        "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+        "stats": {
+          "count": 483
+        },
+        "resources": []
+      },
+      {
+        "id": "a8f41916-c9d3-4c9d-95e7-a84fa6c1b08b",
+        "index": 4,
+        "body": "$y(x)=-\\ln \\left(7 x^{2}+20\\right)$",
+        "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "306317867",
+    "timeSpentVideo": "47690323",
+    "submissions": 2056,
+    "submissionsCorrect": 1103,
+    "accuracy": 0.5364785992217899,
+    "difficulty": 0.7152133580705009
+  },
+  "resources": [],
+  "exam": {
+    "id": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3155612102",
+      "timeSpentVideo": "693560264",
+      "submissions": 21174,
+      "submissionsCorrect": 13742,
+      "questions": 12,
+      "accuracy": 0.6490034948521772,
+      "difficulty": 0.6016969070226568
+    }
+  },
+  "explanation": {
+    "id": "b3f7fcfe-11fd-4b85-b997-e8955749e987",
+    "body": "",
+    "questionId": "867cf4ed-3370-4907-b237-f94b72cdb60a",
+    "resources": [
+      {
+        "id": "f3450677-a0ec-4bff-9cf6-473b24975925",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8dBHlORfi-0?t=498"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b3f7fcfe-11fd-4b85-b997-e8955749e987",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

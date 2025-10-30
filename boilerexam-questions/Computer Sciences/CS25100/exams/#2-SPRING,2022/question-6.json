@@ -1,0 +1,150 @@
+{
+  "id": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the minimum number of edges you would need to add to the graph below to make it strongly\nconnected? Briefly explain your reasoning. ",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d6541f76-05aa-4376-8203-e07a51818026",
+        "index": 0,
+        "body": "2",
+        "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "49c457ed-7372-41a4-8268-3afaaf3dd5eb",
+        "index": 1,
+        "body": "3",
+        "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+        "stats": {
+          "count": 247
+        },
+        "resources": []
+      },
+      {
+        "id": "c96dc4d0-c50e-41fc-97e2-0884701e8233",
+        "index": 2,
+        "body": "8",
+        "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+        "stats": {
+          "count": 458
+        },
+        "resources": []
+      },
+      {
+        "id": "d14be93d-6be6-4a76-ae96-20fe0dd16877",
+        "index": 3,
+        "body": "9",
+        "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "159919580",
+    "timeSpentVideo": "629753",
+    "submissions": 979,
+    "submissionsCorrect": 603,
+    "accuracy": 0.6159346271705822,
+    "difficulty": 0.6448100092678406
+  },
+  "resources": [
+    {
+      "id": "e50b78b2-aaa2-47ff-ac8d-34df34cc34c5",
+      "type": "IMAGE",
+      "data": {
+        "key": "9WDFthhs1AvnanC4s5uhR",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9WDFthhs1AvnanC4s5uhR"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "4a9c18c5-e12b-4e3d-a62c-156d0a12b115",
+    "body": "(2,7), (9,5), and (10,3) is one way to achieve this\n",
+    "questionId": "3be0d170-be70-4b98-8fe2-0decfbf9f928",
+    "resources": [
+      {
+        "id": "16bd1cc9-09a2-465a-a93b-363e3bbb3661",
+        "type": "IMAGE",
+        "data": {
+          "key": "Ep3cZC8wWyzFpaBkH0z_B",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/Ep3cZC8wWyzFpaBkH0z_B"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a9c18c5-e12b-4e3d-a62c-156d0a12b115",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $x^{2}-y^{3}+z^{2}-z=12$. If this equation defines $z$ implicitly as a function of $x$ and $y$ find $z_{y}$ at $(x, y, z)=(3,-1,2)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "be9511e5-afab-48c2-90cd-7b1735427105",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+        "stats": {
+          "count": 2993
+        },
+        "resources": []
+      },
+      {
+        "id": "0b3f8fba-c9fc-4556-82f1-8d482840b921",
+        "index": 1,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "4a80b60a-879f-40ea-a604-c7543a088cb4",
+        "index": 2,
+        "body": "$-3$",
+        "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+        "stats": {
+          "count": 595
+        },
+        "resources": []
+      },
+      {
+        "id": "acbb82ff-0ab4-4e19-bdc7-a63795a2c022",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+        "stats": {
+          "count": 376
+        },
+        "resources": []
+      },
+      {
+        "id": "063df5c4-9af2-41fc-9b19-937735f0ddc5",
+        "index": 4,
+        "body": "$-\\frac{3}{4}$",
+        "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1092985670",
+    "timeSpentVideo": "88070540",
+    "submissions": 6023,
+    "submissionsCorrect": 2991,
+    "accuracy": 0.4965963805412585,
+    "difficulty": 0.7533480320104524
+  },
+  "resources": [],
+  "exam": {
+    "id": "94e1d5bd-7647-482e-b195-1d886cc0a2fa",
+    "number": 1,
+    "year": 2017,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12674662300",
+      "timeSpentVideo": "1673794509",
+      "submissions": 62726,
+      "submissionsCorrect": 37430,
+      "questions": 12,
+      "accuracy": 0.5967222523355546,
+      "difficulty": 0.6534317002514882
+    }
+  },
+  "explanation": {
+    "id": "0ef4dbdd-5596-4a40-829b-81febdd97873",
+    "body": "",
+    "questionId": "b3afbd65-e3cd-464c-b7d2-e490d941ad03",
+    "resources": [
+      {
+        "id": "a7aabd5f-aa2c-4a98-8a1b-4d85eca547d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/tZ36yr4XlBs?feature=shared&t=1667"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0ef4dbdd-5596-4a40-829b-81febdd97873",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "52c8a4e1-df75-45c6-8ecc-0d78a9df80e0",
+      "name": "Chain Rule",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23054883445",
+        "timeSpentVideo": "1389631529",
+        "submissions": 43917,
+        "submissionsCorrect": 25494,
+        "questions": 8,
+        "accuracy": 0.580504132795956,
+        "difficulty": 0.6696787604789058
+      }
+    },
+    {
+      "id": "e4a570fd-6b1f-4901-8f82-df33cfc1e01a",
+      "name": "Partial Derivatives",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17536639564",
+        "timeSpentVideo": "661682215",
+        "submissions": 41021,
+        "submissionsCorrect": 27618,
+        "questions": 9,
+        "accuracy": 0.6732649130932937,
+        "difficulty": 0.5771564407480363
+      }
+    }
+  ],
+  "children": []
+}

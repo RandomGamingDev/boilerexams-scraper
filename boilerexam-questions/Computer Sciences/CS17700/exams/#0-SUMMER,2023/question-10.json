@@ -1,0 +1,197 @@
+{
+  "id": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The following code loops through a dictionary, where the keys are student's names, and the values are each student's overall grades in the class, respectively. The loop creates a list that stores the grades only.\n\nWhich of the following code snippets correctly catches and handles the error specified in the previous question?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "054511c9-00f1-47b0-b7aa-63b9240db5bf",
+        "index": 0,
+        "body": "",
+        "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+        "stats": {
+          "count": 20
+        },
+        "resources": [
+          {
+            "id": "e0168176-9638-4b79-ba46-33802da8d75f",
+            "type": "CODE",
+            "data": {
+              "content": "def students_grades(grades_dict):\n    grades_list = []\n    for x in range(len(grades_dict)):\n        assert x in grades_dict\n        except AssertionError as e:\n            raise KeyError\n            break\n        grades = grades_dict[x]\n        grades_list.append(grades)\n    return grades_list",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "054511c9-00f1-47b0-b7aa-63b9240db5bf",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "df07d830-985d-463a-93dc-fa617d02ccbd",
+        "index": 1,
+        "body": "",
+        "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+        "stats": {
+          "count": 142
+        },
+        "resources": [
+          {
+            "id": "68fbdd69-5eb7-44cb-ba07-ed756ecb421f",
+            "type": "CODE",
+            "data": {
+              "content": "def students_grades(grades_dict):\n    grades_list = []\n    for x in range(len(grades_dict)):\n        try:\n            grades = grades_dict[x]\n            grades_list.append(grades)\n        except KeyError:\n            break\n    return grades_list",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "df07d830-985d-463a-93dc-fa617d02ccbd",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "de416f30-dfb5-4cd0-b0e3-f59e78a17e29",
+        "index": 2,
+        "body": "",
+        "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+        "stats": {
+          "count": 29
+        },
+        "resources": [
+          {
+            "id": "16a4ee7a-121e-4639-b4a2-ca147202b22b",
+            "type": "CODE",
+            "data": {
+              "content": "def students_grades(grades_dict):\n    grades_list = []\n    for x in range(len(grades_dict)):\n        try:\n            grades = grades_dict[x]\n            grades_list.append(grades)\n        except TypeError:\n            break\n    return grades_list",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "de416f30-dfb5-4cd0-b0e3-f59e78a17e29",
+            "customExamId": null
+          }
+        ]
+      },
+      {
+        "id": "147cff7f-0a5c-4ce6-9a1a-cf812b4d67b4",
+        "index": 3,
+        "body": "",
+        "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+        "stats": {
+          "count": 43
+        },
+        "resources": [
+          {
+            "id": "e620e511-96c7-479e-9912-5c8472362693",
+            "type": "CODE",
+            "data": {
+              "content": "def students_grades(grades_dict):\n    grades_list = []\n    for x in range(len(grades_dict)):\n        try:\n            grades = grades_dict[x]\n            grades_list.append(grades)\n        except KeyError:\n            for x in grades_dict:\n                grades = grades_dict[x]\n                grades_list.append(grades)\n    return grades_list",
+              "language": "PYTHON"
+            },
+            "courseId": null,
+            "examId": null,
+            "questionId": null,
+            "explanationId": null,
+            "applicationId": null,
+            "answerChoiceId": "147cff7f-0a5c-4ce6-9a1a-cf812b4d67b4",
+            "customExamId": null
+          }
+        ]
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "34581085",
+    "timeSpentVideo": "4731633",
+    "submissions": 241,
+    "submissionsCorrect": 142,
+    "accuracy": 0.5892116182572614,
+    "difficulty": 0.6869501466275659
+  },
+  "resources": [
+    {
+      "id": "2a31b875-c82d-4eb0-8baa-be9de6303977",
+      "type": "CODE",
+      "data": {
+        "content": "def students_grades(grades_dict):\n    grades_list = []\n    for index in range(len(grades_dict)):\n        grades = grades_dict[index]\n        grades_list.append(grades)\n    return students_grades",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "172b3004-1be7-4e86-89a0-8f8443a834b4",
+    "number": 0,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "392096617",
+      "timeSpentVideo": "45854400",
+      "submissions": 2951,
+      "submissionsCorrect": 1874,
+      "questions": 11,
+      "accuracy": 0.6350389698407319,
+      "difficulty": 0.6193870862012455
+    }
+  },
+  "explanation": {
+    "id": "89e1abb8-005a-4cda-a605-21584c36bffc",
+    "body": "",
+    "questionId": "6c803f8e-ff67-4994-94b7-2a39f8753885",
+    "resources": [
+      {
+        "id": "5f3d1f63-032f-4f51-b156-12a63633387f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/csqyU6wj5qA?si=2suOTrKTk0hi0sT0&t=3599"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89e1abb8-005a-4cda-a605-21584c36bffc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of the function $f(t) = \\begin{cases}0, & t<2\\pi \\\\ e^t \\sin t, & t\\ge 2\\pi\\end{cases}$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "7f041570-0285-400f-bf45-5dd8ed981d2f",
+        "index": 0,
+        "body": "$-\\frac{e^{-\\pi s}}{s^2+\\pi^2}$",
+        "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "8ef1bf1f-3003-485a-afbe-b29f587e338f",
+        "index": 1,
+        "body": "$\\frac{-e^{-2\\pi s+2\\pi}}{(s+1)^2+1}$",
+        "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "4dc9b6d7-fdae-4f33-a157-3dc9275d3c56",
+        "index": 2,
+        "body": "$\\frac{e^{-2\\pi s+\\pi(s-1)}}{(s-1)^2+1}$",
+        "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "b7e7e70f-360a-4150-bd1e-e862be630e64",
+        "index": 3,
+        "body": "$\\frac{e^{-2\\pi s+2\\pi}}{(s-1)^2+1}$",
+        "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "e3b1601a-2683-4042-b011-826be6d591d9",
+        "index": 4,
+        "body": "$\\frac{e^{-2\\pi s+\\pi}}{(s-1)^2+1}$",
+        "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1589500",
+    "timeSpentVideo": "0",
+    "submissions": 8,
+    "submissionsCorrect": 7,
+    "accuracy": 0.875,
+    "difficulty": 0.7222222222222222
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "9c55e4b1-4363-44e0-a21d-26e9f18c8e31",
+    "body": null,
+    "questionId": "1f372e78-33b6-44fd-a865-0f5be1be9cca",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

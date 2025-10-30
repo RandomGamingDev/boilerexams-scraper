@@ -1,0 +1,149 @@
+{
+  "id": "49ec8666-2982-4abe-b597-bb361f417e46",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "How many of the seven unique user-defined functions called within the $\\texttt{main}$ function in the code segment are $\\texttt{void}$?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "1eb85da4-08a2-4a56-8e69-e7a6a702f210",
+        "index": 0,
+        "body": "Only one unique function is $\\texttt{void}$.",
+        "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+        "stats": {
+          "count": 2649
+        },
+        "resources": []
+      },
+      {
+        "id": "6cd7b10a-0c36-4524-bb59-e988e8a46004",
+        "index": 1,
+        "body": "Two unique functions called are $\\texttt{void}$.",
+        "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+        "stats": {
+          "count": 1312
+        },
+        "resources": []
+      },
+      {
+        "id": "df843688-2398-473a-96dd-3b3a38dad80d",
+        "index": 2,
+        "body": "More than two unique functions called are $\\texttt{void}$.",
+        "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+        "stats": {
+          "count": 281
+        },
+        "resources": []
+      },
+      {
+        "id": "2d1cf4ec-87de-42ed-a000-f3d8bb119aa9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+        "stats": {
+          "count": 238
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 29,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "385968891",
+    "timeSpentVideo": "25363811",
+    "submissions": 4645,
+    "submissionsCorrect": 2649,
+    "accuracy": 0.5702906350914962,
+    "difficulty": 0.681190727081138
+  },
+  "resources": [
+    {
+      "id": "2641d0fa-e516-49e3-979e-ce423b8073c9",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main() {\n  int angle1;\n  int angle2;\n  double mass;\n  double distance;\n  \n  int side1;\n  int side2;\n  double tension1;\n  double tension2;\n  \n  angle1 = getAngle(1);\n  angle2 = getAngle(2);\n  mass = getMass();\n  distance = getDistance();\n  \n  side1 = calcSide(distance, angle2, 180.0 - angle1 - angle2);\n  side2 = calcSide(distance, angle1, 180.0 - angle1 - angle2);\n  \n  tension1 = calcTension1(angle1, angle2, mass);\n  tension2 = calcTension2(angle1, angle2, tension1);\n  \n  displayResults(1, side1, tension1);\n  displayResults(2, side2, tension2);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "b5ef6075-6fdc-4c6f-94dc-283d205ba3e3",
+    "body": "",
+    "questionId": "49ec8666-2982-4abe-b597-bb361f417e46",
+    "resources": [
+      {
+        "id": "d35ffe0e-b844-448c-935a-4e4190066179",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=tfVOpjtolkBioXPx&t=2802"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b5ef6075-6fdc-4c6f-94dc-283d205ba3e3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    }
+  ],
+  "children": []
+}

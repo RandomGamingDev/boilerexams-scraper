@@ -1,0 +1,143 @@
+{
+  "id": "6d0669d3-fe55-4f22-a867-b973385bf203",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of $f(t)=t e^{t} \\cos 2 t$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "3bfecc06-f4be-445f-b3f4-9eb3ffbb0e59",
+        "index": 0,
+        "body": "$F(s)=\\frac{4 s-4}{\\left(s^{2}-2 s+5\\right)^{2}}, \\quad s>0$",
+        "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+        "stats": {
+          "count": 108
+        },
+        "resources": []
+      },
+      {
+        "id": "d53842df-0d97-4eab-be47-ebdb1909cdc9",
+        "index": 1,
+        "body": "$F(s)=\\frac{s^{2}-2 s+3}{\\left(s^{2}-2 s+5\\right)^{2}}, \\quad s>0$",
+        "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+        "stats": {
+          "count": 169
+        },
+        "resources": []
+      },
+      {
+        "id": "166ee394-b4a6-44b6-bcf4-8d45cbdadecb",
+        "index": 2,
+        "body": "$F(s)=\\frac{s^{2}-2 s-3}{\\left(s^{2}-2 s+5\\right)^{2}}, \\quad s>0$",
+        "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+        "stats": {
+          "count": 763
+        },
+        "resources": []
+      },
+      {
+        "id": "6c78031d-c43d-4483-be05-4a7f7c86b81c",
+        "index": 3,
+        "body": "$F(s)=\\frac{s^{2}-4}{\\left(s^{2}+4\\right)^{2}}, \\quad s>0$",
+        "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "5d90e6cd-86b2-4163-918d-283ed381c8f1",
+        "index": 4,
+        "body": "$F(s)=\\frac{4 s}{\\left(s^{2}+4\\right)^{2}}, \\quad s>0$",
+        "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": "",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "417423348",
+    "timeSpentVideo": "115544991",
+    "submissions": 1704,
+    "submissionsCorrect": 763,
+    "accuracy": 0.4477699530516432,
+    "difficulty": 0.7993348115299335
+  },
+  "resources": [],
+  "exam": {
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9525870423",
+      "timeSpentVideo": "1973784621",
+      "submissions": 40403,
+      "submissionsCorrect": 22991,
+      "questions": 20,
+      "accuracy": 0.5690419028289978,
+      "difficulty": 0.6811285583783917
+    }
+  },
+  "explanation": {
+    "id": "de7b8766-c434-4cf6-b39f-30bb9e7f7a02",
+    "body": "",
+    "questionId": "6d0669d3-fe55-4f22-a867-b973385bf203",
+    "resources": [
+      {
+        "id": "7ef62b88-ebc5-403e-94ca-0bcc1b5c8eb7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9hdIc6yBe4?si=huQw18vKlQHIDNxf&t=4069"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "de7b8766-c434-4cf6-b39f-30bb9e7f7a02",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

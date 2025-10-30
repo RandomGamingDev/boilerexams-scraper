@@ -1,0 +1,143 @@
+{
+  "id": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Use the method of cylindrical shells to find the volume of the solid obtained by rotating the region bounded by the curves $y=x^{3}, y=0$, and $x=1$ about the line $x=1$. Express your answer as a definite integral.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "39cc1fce-831d-4c29-b427-f72b5917bb2e",
+        "index": 0,
+        "body": "$2 \\pi \\int_{0}^{2}(1-x) x^{2} d x$",
+        "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "33dd6ebd-6fb4-4448-a69f-a32c1ed4d24c",
+        "index": 1,
+        "body": "$2 \\pi \\int_{1}^{2}(1-x) x^{3} d x$",
+        "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+        "stats": {
+          "count": 181
+        },
+        "resources": []
+      },
+      {
+        "id": "0c02d675-0705-4a9e-96e4-f0558b1bb9d1",
+        "index": 2,
+        "body": "$2 \\pi \\int_{0}^{1}(1-x)^{2} x^{3} d x$",
+        "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+        "stats": {
+          "count": 292
+        },
+        "resources": []
+      },
+      {
+        "id": "4cd410c3-b9d3-4345-bbf8-29cf65bf6044",
+        "index": 3,
+        "body": "$2 \\pi \\int_{1}^{2}(1-x)^{2} x^{2} d x$",
+        "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "94198002-da39-4918-90c3-a0173b3214fd",
+        "index": 4,
+        "body": "$2 \\pi \\int_{0}^{1}(1-x) x^{3} d x$",
+        "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+        "stats": {
+          "count": 2158
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "607645012",
+    "timeSpentVideo": "35232369",
+    "submissions": 2934,
+    "submissionsCorrect": 2158,
+    "accuracy": 0.7355146557600545,
+    "difficulty": 0.5222478576137113
+  },
+  "resources": [],
+  "exam": {
+    "id": "ee0f56b1-c6a6-4868-84b3-3eb0d1be572b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14951284288",
+      "timeSpentVideo": "2019006753",
+      "submissions": 81377,
+      "submissionsCorrect": 50800,
+      "questions": 25,
+      "accuracy": 0.624255010629539,
+      "difficulty": 0.6258974925439081
+    }
+  },
+  "explanation": {
+    "id": "59625c66-0594-439d-9463-4f53a6beac78",
+    "body": "",
+    "questionId": "570d3f53-6ecb-48d0-8d76-3c255a0072d0",
+    "resources": [
+      {
+        "id": "b2e61b14-835b-48bc-a926-41381b271dea",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/E9OXgxHncdE?t=1129\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "59625c66-0594-439d-9463-4f53a6beac78",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79755eab-93f7-44ec-9e79-cedd45a22d1a",
+      "name": "Volume of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23308108625",
+        "timeSpentVideo": "1117444870",
+        "submissions": 50426,
+        "submissionsCorrect": 30657,
+        "questions": 16,
+        "accuracy": 0.6079601792725975,
+        "difficulty": 0.6422534932509995
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "52f077c7-42fe-4aa7-a074-101ee424bead",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute\n\n\n\\[\n\\iint_{S} \\mathbf{F} \\cdot \\mathbf{n} d S\n\\]\n\nthe net outward flux of the vector field $\\mathbf{F}=\\langle x+y, y-z, x y+z\\rangle$ across the surface $S$, which is the boundary of the solid bounded by $z=0, y=0, y+z=2$, and $z=1-x^{2}$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "85c58547-405b-4519-8d88-41af9d7f2827",
+        "index": 0,
+        "body": "$-32 / 5$",
+        "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+        "stats": {
+          "count": 166
+        },
+        "resources": []
+      },
+      {
+        "id": "c8b7ff84-75d6-4467-b405-4947020b92f7",
+        "index": 1,
+        "body": "$-32 / 15$",
+        "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+        "stats": {
+          "count": 192
+        },
+        "resources": []
+      },
+      {
+        "id": "a4cd5f55-cb06-427d-ae9c-53fee08d2036",
+        "index": 2,
+        "body": "$-16 / 5$",
+        "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+        "stats": {
+          "count": 254
+        },
+        "resources": []
+      },
+      {
+        "id": "63dc58cb-7b0b-4c1c-ba08-8b213172433b",
+        "index": 3,
+        "body": "$32 / 15$",
+        "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+        "stats": {
+          "count": 406
+        },
+        "resources": []
+      },
+      {
+        "id": "640ee41e-2dbf-4073-81b7-ed94aa06bfa7",
+        "index": 4,
+        "body": "$32 / 5$",
+        "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+        "stats": {
+          "count": 1528
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": "",
+  "examId": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1270428909",
+    "timeSpentVideo": "146934195",
+    "submissions": 3747,
+    "submissionsCorrect": 1528,
+    "accuracy": 0.40779290098745663,
+    "difficulty": 0.8398102417468156
+  },
+  "resources": [],
+  "exam": {
+    "id": "c8dce297-5baf-44f7-ba7f-a3386ab301c8",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24835358508",
+      "timeSpentVideo": "3283019170",
+      "submissions": 109613,
+      "submissionsCorrect": 65246,
+      "questions": 20,
+      "accuracy": 0.5952396157390091,
+      "difficulty": 0.6548471922197004
+    }
+  },
+  "explanation": {
+    "id": "8bef0895-eb81-42d9-bb49-46f04ae3cb6d",
+    "body": "",
+    "questionId": "52f077c7-42fe-4aa7-a074-101ee424bead",
+    "resources": [
+      {
+        "id": "2f82cdc4-d536-4fa5-887e-359e4b351e32",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4bavCpKXC1Q?si=Cpp4EMwfpXq0M2Ji&t=4088"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8bef0895-eb81-42d9-bb49-46f04ae3cb6d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d788edd-4ff3-42db-9cf5-eff7b76c66b2",
+      "name": "Divergence Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12944208646",
+        "timeSpentVideo": "1457021537",
+        "submissions": 30930,
+        "submissionsCorrect": 16112,
+        "questions": 7,
+        "accuracy": 0.5209182023924992,
+        "difficulty": 0.7291492104415083
+      }
+    },
+    {
+      "id": "215e4a67-a284-47cb-ac38-dc66fee57f98",
+      "name": "Surface Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29586551748",
+        "timeSpentVideo": "3554402214",
+        "submissions": 50906,
+        "submissionsCorrect": 20491,
+        "questions": 12,
+        "accuracy": 0.4025262248065061,
+        "difficulty": 0.8472826726267497
+      }
+    }
+  ],
+  "children": []
+}

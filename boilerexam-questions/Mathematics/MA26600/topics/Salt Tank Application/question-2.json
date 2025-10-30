@@ -1,0 +1,143 @@
+{
+  "id": "91459854-ee23-4651-bf77-e313e494e4f6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank contains 200 Liters of water and 40 grams of sugar. Water containing a sugar concentration of $5 e^{-t} \\, \\text{g/L}$ flows into the tank at a rate of $4 \\, \\text{L/min}$, and the mixture in the tank flows out at a rate of $6 \\, \\text{L/min}$. Let $A(t)$ be the amount of sugar (in grams) in the tank at time $t$ (in minutes). Which differential equation does $A(t)$ satisfy?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "5988578a-2b5e-4dd5-985e-965ceca7fc43",
+        "index": 0,
+        "body": "$\\frac{dA}{dt} = 4 e^{-t} - \\frac{6 A}{200 + 2 t}$",
+        "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "066c1ae0-e0ce-4a67-99ca-e5efacd62575",
+        "index": 1,
+        "body": "$\\frac{dA}{dt} = 4 e^{-t} - \\frac{6 A}{200}$",
+        "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "d5ba14bc-1c5d-4cae-b443-f67d34838262",
+        "index": 2,
+        "body": "$\\frac{dA}{dt} = 5 e^{-t} - \\frac{6 A}{40 + 2 t}$",
+        "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "f84d5917-53bf-44e5-acaa-3f4eec2dae4c",
+        "index": 3,
+        "body": "$\\frac{dA}{dt} = 20 e^{-t} - \\frac{6 A}{200 - 2 t}$",
+        "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+        "stats": {
+          "count": 725
+        },
+        "resources": []
+      },
+      {
+        "id": "f2247ba2-c222-452c-b36f-51c9b5af70f7",
+        "index": 4,
+        "body": "$\\frac{dA}{dt} = 20 e^{-t} - \\frac{6 A}{40 - 2 t}$",
+        "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "175063619",
+    "timeSpentVideo": "24131462",
+    "submissions": 955,
+    "submissionsCorrect": 725,
+    "accuracy": 0.7591623036649214,
+    "difficulty": 0.5154028436018957
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "6fc074e4-dd31-4826-90fa-48fdc8e4111c",
+    "body": null,
+    "questionId": "91459854-ee23-4651-bf77-e313e494e4f6",
+    "resources": [
+      {
+        "id": "7861983b-17dd-4b6f-95b1-436ca346d16f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=ZkPjesUx7S92XSb2&t=396"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6fc074e4-dd31-4826-90fa-48fdc8e4111c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

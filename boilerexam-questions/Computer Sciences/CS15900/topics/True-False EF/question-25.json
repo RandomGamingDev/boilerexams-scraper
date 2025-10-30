@@ -1,0 +1,133 @@
+{
+  "id": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the sequential searching algorithm is <b>FALSE</b>?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ddf4f991-49c6-4596-bf5a-0163bc3c01b6",
+        "index": 0,
+        "body": "When sequential search is applied to an unsorted array of unique values, ALL values must be examined before concluding that a target is NOT present.",
+        "questionId": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "cae6b739-b330-4ea1-8e1d-b7a66515265c",
+        "index": 1,
+        "body": "The use of the sequential search is limited to small data sets or those that are not searched frequently.",
+        "questionId": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "f5a69377-32fb-45d0-a9d1-010fa6a1b74e",
+        "index": 2,
+        "body": "Sequential search will NEVER find a target in an array in fewer comparisons than binary search would find the same target in the same array.",
+        "questionId": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "8dc0b077-2b00-45c2-9270-bc7ee97dbd46",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "717239",
+    "timeSpentVideo": "0",
+    "submissions": 10,
+    "submissionsCorrect": 8,
+    "accuracy": 0.8,
+    "difficulty": 0.7227272727272728
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "62b2e7ad-1743-4690-bd68-b728ed48d594",
+    "body": null,
+    "questionId": "9d8d37c4-9b39-4626-926d-408f59f2d9cc",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

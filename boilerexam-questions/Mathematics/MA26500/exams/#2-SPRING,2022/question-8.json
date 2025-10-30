@@ -1,0 +1,105 @@
+{
+  "id": "cadc506a-7260-4eb0-b695-0be556b026ac",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Let $\\mathbb{P}_2$ denote the vector space of all polynomials of degree at most 2 in the variable $t$, and let $\\mathbb{M}_{ 2 \\times2}$ denote the vector space of all $2 \\times2$ matrices. Consider a linear transformation:\n\n\\[T: \\mathbb{P}_2 \\rightarrow \\mathbb{M}_{ 2 \\times2} \\quad \\textrm{given by} \\quad T(p(t)) = \\left[\\begin{array}{ll}\np(0) & p'(0) \\\\\np(1) & p'(1)\n\\end{array}\\right].\\]\n\n(1) Find $T(at^2+bt+c)$.\n\n(2) Find a polynomial $p(t)$ in $\\mathbb{P}_2$ such that $T(p(t)) = \\left[\\begin{array}{ll}\n1 & 2 \\\\\n4 & 4\n\\end{array}\\right].$\n\n(3) Find a basis for the range of $T$. ",
+    "solution": [],
+    "answerChoices": []
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "24195353",
+    "timeSpentVideo": "7299691",
+    "submissions": 88,
+    "submissionsCorrect": 26,
+    "accuracy": 0.29545454545454547,
+    "difficulty": 0.8457446808510638
+  },
+  "resources": [],
+  "exam": {
+    "id": "346dcd07-da91-4a2a-8fd0-588ca4ba36bd",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3859347841",
+      "timeSpentVideo": "1861109413",
+      "submissions": 27147,
+      "submissionsCorrect": 15930,
+      "questions": 10,
+      "accuracy": 0.5868051718421925,
+      "difficulty": 0.6635134143208427
+    }
+  },
+  "explanation": {
+    "id": "f0a00c72-919a-4ca7-8a0f-6d44e4bab0ea",
+    "body": null,
+    "questionId": "cadc506a-7260-4eb0-b695-0be556b026ac",
+    "resources": [
+      {
+        "id": "96b59230-be11-4149-8f8a-31d7999ba1ce",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1jlXGUxdqTs?si=rF5ngwT_j55EhTuO&t=3308"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f0a00c72-919a-4ca7-8a0f-6d44e4bab0ea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0e820446-87e2-4113-82bb-3335d97cf7d1",
+      "name": "Basis",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20835920037",
+        "timeSpentVideo": "2145638068",
+        "submissions": 48942,
+        "submissionsCorrect": 29406,
+        "questions": 24,
+        "accuracy": 0.6008336398185607,
+        "difficulty": 0.6493719668855267
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

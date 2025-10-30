@@ -1,0 +1,203 @@
+{
+  "id": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(10 points) Let $T: \\mathbb{R}^{n} \\longrightarrow \\mathbb{R}^{m}$ be a linear transformation with standard matrix $A$. Which of the following statements must be TRUE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "e50e6cff-f6db-4348-9a45-77d946d7dbad",
+        "index": 0,
+        "body": "$A$ is an $n \\times m$ matrix.",
+        "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      },
+      {
+        "id": "9b08577d-d2a4-4fed-af34-dab1cd9832f7",
+        "index": 1,
+        "body": "If $T$ is one-to-one, then $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for any $\\mathbf{b}$ in $\\mathbb{R}^{m}$.",
+        "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+        "stats": {
+          "count": 350
+        },
+        "resources": []
+      },
+      {
+        "id": "fc6629b9-b54a-4b4c-a4f2-62ccbccf414e",
+        "index": 2,
+        "body": "If $T$ is one-to-one, then $m \\geq n$.",
+        "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+        "stats": {
+          "count": 1542
+        },
+        "resources": []
+      },
+      {
+        "id": "442e2910-6ec1-4c66-99c7-ec36c7598496",
+        "index": 3,
+        "body": "The columns of $A$ are linearly independent if and only if $\\operatorname{rank}(A)=m$.",
+        "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+        "stats": {
+          "count": 257
+        },
+        "resources": []
+      },
+      {
+        "id": "d683f901-3bc5-4572-be82-55e3df6874b2",
+        "index": 4,
+        "body": "If the set $\\left\\{\\mathbf{v}_{\\mathbf{1}}, \\mathbf{v}_{\\mathbf{2}}, \\ldots, \\mathbf{v}_{\\mathbf{k}}\\right\\}$ spans $\\mathbb{R}^{n}$, then the set $\\left\\{T\\left(\\mathbf{v}_{\\mathbf{1}}\\right), T\\left(\\mathbf{v}_{\\mathbf{2}}\\right), \\ldots, T\\left(\\mathbf{v}_{\\mathbf{k}}\\right)\\right\\}$ spans $\\mathbb{R}^{m}$.",
+        "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+        "stats": {
+          "count": 262
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "7de64df3-802e-47df-862b-db81753996d9",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "458899837",
+    "timeSpentVideo": "181875501",
+    "submissions": 2780,
+    "submissionsCorrect": 1542,
+    "accuracy": 0.5546762589928057,
+    "difficulty": 0.6972222222222222
+  },
+  "resources": [],
+  "exam": {
+    "id": "7de64df3-802e-47df-862b-db81753996d9",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3948607436",
+      "timeSpentVideo": "1238721574",
+      "submissions": 18960,
+      "submissionsCorrect": 9745,
+      "questions": 10,
+      "accuracy": 0.5139767932489452,
+      "difficulty": 0.7360965372507869
+    }
+  },
+  "explanation": {
+    "id": "ae1dd760-ecf1-4563-9251-315086ededd2",
+    "body": "",
+    "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
+    "resources": [
+      {
+        "id": "adb06aa7-9e88-4dd0-a09d-059eb8f85537",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/llMPDRaxhNU?si=i7wdZIjSBWq49hZ0&t=2134"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ae1dd760-ecf1-4563-9251-315086ededd2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "185dcc47-0d3b-48c4-8121-6d92056c8993",
+      "name": "Span",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3148922494",
+        "timeSpentVideo": "421416606",
+        "submissions": 6903,
+        "submissionsCorrect": 3594,
+        "questions": 3,
+        "accuracy": 0.5206431986093003,
+        "difficulty": 0.7296515778951878
+      }
+    },
+    {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7399288103",
+        "timeSpentVideo": "847747211",
+        "submissions": 14733,
+        "submissionsCorrect": 8390,
+        "questions": 7,
+        "accuracy": 0.5694698975089935,
+        "difficulty": 0.6809984494033574
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "27448870281",
+        "timeSpentVideo": "3878630935",
+        "submissions": 64592,
+        "submissionsCorrect": 37346,
+        "questions": 17,
+        "accuracy": 0.578183056725291,
+        "difficulty": 0.671937797563841
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

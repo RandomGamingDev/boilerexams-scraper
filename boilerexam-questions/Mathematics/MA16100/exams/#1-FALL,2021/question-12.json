@@ -1,0 +1,143 @@
+{
+  "id": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x)=3 x^{2}+2 x+5$. Use the definition of the derivative to find $f^{\\prime}(1)$. When you simplify the terms inside the limit, you get:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "58ea01e4-0ae3-4be8-9be4-0e24d2d80a28",
+        "index": 0,
+        "body": "$f^{\\prime}(1)=\\lim _{h \\rightarrow 0}(8+h)$",
+        "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+        "stats": {
+          "count": 197
+        },
+        "resources": []
+      },
+      {
+        "id": "2988aeaa-4fa1-412c-8dfc-185ae5391ca7",
+        "index": 1,
+        "body": "$f^{\\prime}(1)=\\lim _{h \\rightarrow 0}(8+3 h)$",
+        "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+        "stats": {
+          "count": 894
+        },
+        "resources": []
+      },
+      {
+        "id": "8c4b0e1c-b69b-49fd-a0e7-02ded85bbb30",
+        "index": 2,
+        "body": "$f^{\\prime}(1)=\\lim _{h \\rightarrow 0}(8+5 h)$",
+        "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "6f7d4cac-73b1-496f-a5e2-71015aeeabaa",
+        "index": 3,
+        "body": "$f^{\\prime}(1)=\\lim _{h \\rightarrow 0}(8+2 h)$",
+        "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "8faba151-725d-40b3-8d0a-264ba9d329cf",
+        "index": 4,
+        "body": "$f^{\\prime}(1)=\\lim _{h \\rightarrow 0}(8+4 h)$",
+        "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "292611694",
+    "timeSpentVideo": "59953414",
+    "submissions": 1526,
+    "submissionsCorrect": 894,
+    "accuracy": 0.5858453473132372,
+    "difficulty": 0.6694341943419434
+  },
+  "resources": [],
+  "exam": {
+    "id": "996bf1e1-be5d-4404-8777-f1d2db3d75db",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3155612102",
+      "timeSpentVideo": "693560264",
+      "submissions": 21174,
+      "submissionsCorrect": 13742,
+      "questions": 12,
+      "accuracy": 0.6490034948521772,
+      "difficulty": 0.6016969070226568
+    }
+  },
+  "explanation": {
+    "id": "8ae46487-0963-4e61-af61-03e5e87a279e",
+    "body": "",
+    "questionId": "f432cc83-7b88-4848-8ab8-0e75b52ede66",
+    "resources": [
+      {
+        "id": "f234cb36-abd5-4d0c-b04b-b7cc1608442f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8dBHlORfi-0?t=3603"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8ae46487-0963-4e61-af61-03e5e87a279e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a7d0c63f-e8cb-4c76-a27e-0fe0f5317de1",
+      "name": "Limit Definition of the Derivative",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3433141979",
+        "timeSpentVideo": "267332834",
+        "submissions": 8969,
+        "submissionsCorrect": 5243,
+        "questions": 6,
+        "accuracy": 0.5845690712454008,
+        "difficulty": 0.666363435880472
+      }
+    }
+  ],
+  "children": []
+}

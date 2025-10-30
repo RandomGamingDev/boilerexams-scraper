@@ -1,0 +1,143 @@
+{
+  "id": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": " Consider the alternating series  $\\sum_{k=1}^{\\infty} \\frac{(-1)^{k+1}}{k }$\n\nWhich of the following statements is/are correct?\n\nI. The series converges absolutely\n\nII. The series converges because $\\lim _{k \\rightarrow \\infty} \\frac{1}{k}=0$ and $\\frac{1}{k}$ is always decreasing\n\nIII. The series diverges because $\\int_{1}^{\\infty}\\left|a_{k}(x)\\right| d x=\\int_{1}^{\\infty} \\frac{1}{x} d x$ diverges",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "59b12636-cffe-4b95-af82-5bba13882a9a",
+        "index": 0,
+        "body": "I only",
+        "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "e2ae454a-3db2-4f22-b3ab-ee7e69319aed",
+        "index": 1,
+        "body": "II only",
+        "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+        "stats": {
+          "count": 2443
+        },
+        "resources": []
+      },
+      {
+        "id": "bf7ed416-8c07-4c6e-b19c-689ec6c8fbd1",
+        "index": 2,
+        "body": "I and II only",
+        "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+        "stats": {
+          "count": 462
+        },
+        "resources": []
+      },
+      {
+        "id": "90425df8-c87c-42d4-8a5e-a8f5b78b4553",
+        "index": 3,
+        "body": "III only",
+        "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+        "stats": {
+          "count": 484
+        },
+        "resources": []
+      },
+      {
+        "id": "541264bc-d0eb-4872-851c-7f30a4e86d4d",
+        "index": 4,
+        "body": "All of them",
+        "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "d8450d7f-6dd5-441e-ab55-787b08083437",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "409588405",
+    "timeSpentVideo": "153034129",
+    "submissions": 3685,
+    "submissionsCorrect": 2443,
+    "accuracy": 0.6629579375848033,
+    "difficulty": 0.5913474240422721
+  },
+  "resources": [],
+  "exam": {
+    "id": "d8450d7f-6dd5-441e-ab55-787b08083437",
+    "number": 3,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6065469905",
+      "timeSpentVideo": "2648907055",
+      "submissions": 43308,
+      "submissionsCorrect": 26202,
+      "questions": 12,
+      "accuracy": 0.6050152396785813,
+      "difficulty": 0.6452266863251014
+    }
+  },
+  "explanation": {
+    "id": "7fc2fe44-4e7c-410a-adad-a467ade8c216",
+    "body": "",
+    "questionId": "9f63c478-544f-4a41-8b76-5cc68640f8f0",
+    "resources": [
+      {
+        "id": "d6465709-ef1e-4951-82a7-dde9801104c9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Jc2f2kJMHaE?t=1206\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7fc2fe44-4e7c-410a-adad-a467ade8c216",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    }
+  ],
+  "children": []
+}

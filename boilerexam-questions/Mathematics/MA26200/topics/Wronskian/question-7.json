@@ -1,0 +1,143 @@
+{
+  "id": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The Wronskian of the functions $\\{x, \\sin x, \\cos x\\}$ is",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "20f9d639-6f89-492e-b6d9-084d82c8cd30",
+        "index": 0,
+        "body": "$-x$",
+        "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+        "stats": {
+          "count": 737
+        },
+        "resources": []
+      },
+      {
+        "id": "a9fb99f9-a81a-4874-93e3-25797d6a4ef7",
+        "index": 1,
+        "body": "$x$",
+        "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "b3e4f4e8-99e5-4174-af2c-0f90240bd316",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "02399efe-a087-47d9-a033-0dd6f4cb5741",
+        "index": 3,
+        "body": "$x\\left(\\sin ^{2} x-\\cos ^{2} x\\right)$",
+        "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "7a46728d-e8b0-4d60-99a3-19c1c1663e29",
+        "index": 4,
+        "body": "$x\\left(\\cos ^{2} x-\\sin ^{2} x\\right)$",
+        "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "173069024",
+    "timeSpentVideo": "19991784",
+    "submissions": 1148,
+    "submissionsCorrect": 737,
+    "accuracy": 0.64198606271777,
+    "difficulty": 0.6193910256410257
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "e0fd0284-6b1c-4655-93c1-7fb1dc377e5b",
+    "body": "",
+    "questionId": "fad2a77a-bb70-47bf-9017-a442dcc1f064",
+    "resources": [
+      {
+        "id": "f6046938-e4e0-4dce-b324-5f915c1b98eb",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=LzFkcZCG26WtBNbY&t=1169\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e0fd0284-6b1c-4655-93c1-7fb1dc377e5b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "20548a82-92ab-4a33-ad54-a44b03e6ddd1",
+      "name": "Wronskian",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "794944326",
+        "timeSpentVideo": "27015954",
+        "submissions": 2213,
+        "submissionsCorrect": 1577,
+        "questions": 2,
+        "accuracy": 0.7126073203795752,
+        "difficulty": 0.5465845222654561
+      }
+    }
+  ],
+  "children": []
+}

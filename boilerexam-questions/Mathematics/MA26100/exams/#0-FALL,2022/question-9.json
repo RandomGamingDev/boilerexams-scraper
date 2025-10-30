@@ -1,0 +1,143 @@
+{
+  "id": "02937b95-253e-47e9-8175-4de290741c95",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The integral\n\n\\[\n\\int_{0}^{3} \\int_{0}^{\\sqrt{9-x^{2}}} \\int_{\\sqrt{2 x^{2}+2 y^{2}}}^{\\sqrt{27-x^{2}-y^{2}}} x y z d z d y d x\n\\]\n\nwhen converted to cylindrical coordinates becomes",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "bd51842f-4598-416c-b1e1-8fd79a6c39bb",
+        "index": 0,
+        "body": "$\\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{3} \\int_{\\sqrt{2} r}^{\\sqrt{27-r^{2}}} r^{3} z \\cos \\theta \\sin \\theta d z d r d \\theta$",
+        "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+        "stats": {
+          "count": 4039
+        },
+        "resources": []
+      },
+      {
+        "id": "9ebb75a4-df9a-4348-b63a-6b80b0417b0e",
+        "index": 1,
+        "body": "$\\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{3} \\int_{\\sqrt{2} r}^{\\sqrt{27-r^{2}}} r^{2} z \\cos \\theta \\sin \\theta d z d r d \\theta$",
+        "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+        "stats": {
+          "count": 272
+        },
+        "resources": []
+      },
+      {
+        "id": "932d8c74-25f8-493c-9fad-03bdb9daae9c",
+        "index": 2,
+        "body": "$\\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{3} \\int_{\\sqrt{2} r}^{\\sqrt{27-r^{2}}} r^{3} \\cos \\theta \\sin \\theta d z d r d \\theta$",
+        "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+        "stats": {
+          "count": 281
+        },
+        "resources": []
+      },
+      {
+        "id": "d39de089-57b8-446e-9be6-1175df904507",
+        "index": 3,
+        "body": "$\\int_{0}^{\\pi} \\int_{0}^{3} \\int_{\\sqrt{2} r}^{\\sqrt{27-r^{2}}} r^{3} z \\cos \\theta \\sin \\theta d z d r d \\theta$",
+        "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+        "stats": {
+          "count": 762
+        },
+        "resources": []
+      },
+      {
+        "id": "40f5df7c-2835-4ccf-be98-f20cd1cec85c",
+        "index": 4,
+        "body": "$\\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{9} \\int_{\\sqrt{2} r}^{\\sqrt{27-r^{2}}} r^{3} z \\cos \\theta \\sin \\theta d z d r d \\theta$",
+        "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "884815089",
+    "timeSpentVideo": "90743058",
+    "submissions": 5696,
+    "submissionsCorrect": 4039,
+    "accuracy": 0.7090941011235955,
+    "difficulty": 0.5445134575569358
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "0399ae1f-112f-4eb4-a924-810b5e936f44",
+    "body": "",
+    "questionId": "02937b95-253e-47e9-8175-4de290741c95",
+    "resources": [
+      {
+        "id": "8529346f-0222-4d5e-8109-d1be7c7e45d2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=rBm2sdNH3vVK7H8X&t=1735"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0399ae1f-112f-4eb4-a924-810b5e936f44",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20238038202",
+        "timeSpentVideo": "2099341968",
+        "submissions": 43692,
+        "submissionsCorrect": 26283,
+        "questions": 9,
+        "accuracy": 0.6015517714913485,
+        "difficulty": 0.6486801242236024
+      }
+    }
+  ],
+  "children": []
+}

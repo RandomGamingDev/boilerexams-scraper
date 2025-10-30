@@ -1,0 +1,128 @@
+{
+  "id": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider a first-order equation\n\\[\n\\frac{dx}{dt} = (x+1)^{4} x^3 (x-1)(x-2)^6(x-3)^5\n.\\]\nWhich of the following statements about equilibrium points is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "193c41d7-2ec0-48c5-9b4f-4294832b0aa0",
+        "index": 0,
+        "body": "2 is an unstable point, and 3 is a stable point.",
+        "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "8fb1b962-b4f1-4ec4-a6a2-b414265311c7",
+        "index": 1,
+        "body": "1,3 are semistable points.",
+        "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "47560b03-4c8f-4d7b-a4eb-449cd67b1f82",
+        "index": 2,
+        "body": "-1, 2 are stable points.",
+        "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "af4fbaa3-f971-4a5c-93d7-690c378e335c",
+        "index": 3,
+        "body": "0 is an unstable point, and 1 is a stable point.",
+        "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+        "stats": {
+          "count": 132
+        },
+        "resources": []
+      },
+      {
+        "id": "fd4e2f81-47f2-41d3-bb6d-7d3585232416",
+        "index": 4,
+        "body": "0, 3 are stable points.",
+        "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "40218014",
+    "timeSpentVideo": "0",
+    "submissions": 154,
+    "submissionsCorrect": 132,
+    "accuracy": 0.8571428571428571,
+    "difficulty": 0.5334645669291339
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "9dd3a6d1-cd25-45c5-beb1-3e459b39f189",
+    "body": null,
+    "questionId": "d76a1080-9d43-4ae5-9c4c-4abf5e93782b",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "afc5362c-e900-480e-8cd8-bb5df92c0a4a",
+      "name": "Autonomous Equation Stability",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5827169883",
+        "timeSpentVideo": "453025828",
+        "submissions": 12533,
+        "submissionsCorrect": 8138,
+        "questions": 8,
+        "accuracy": 0.6493257799409559,
+        "difficulty": 0.601856249505264
+      }
+    }
+  ],
+  "children": []
+}

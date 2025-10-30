@@ -1,0 +1,149 @@
+{
+  "id": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the FIRST line of output in the program?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ebf16865-bd93-4389-b51a-804fb56d4404",
+        "index": 0,
+        "body": "x: 25",
+        "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+        "stats": {
+          "count": 331
+        },
+        "resources": []
+      },
+      {
+        "id": "d374cba8-baf4-4a3e-9a6f-acc3e108d784",
+        "index": 1,
+        "body": "x: 24",
+        "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      },
+      {
+        "id": "8453b540-f741-4a74-8ba3-fa913cf8564c",
+        "index": 2,
+        "body": "x: 23",
+        "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+        "stats": {
+          "count": 904
+        },
+        "resources": []
+      },
+      {
+        "id": "628f68ff-29c2-4385-a104-b321a24c5362",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "254390814",
+    "timeSpentVideo": "38576058",
+    "submissions": 1553,
+    "submissionsCorrect": 904,
+    "accuracy": 0.5820991629104958,
+    "difficulty": 0.6728675136116152
+  },
+  "resources": [
+    {
+      "id": "442d7abe-32d8-4164-9546-d9af315afbe5",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <math.h>\n\nint isPrime(int x);\n\nint main(void)\n{\n  int x = 25;\n  \n  do\n  {\n    if (isPrime(x))\n    {\n      printf(\"x: %d\\n\", x);\n    }\n  } while (x-- % 10 != 1);\n  \n  printf(\"x: %d\\n\", x);\n  \n  return 0;\n}\n\nint isPrime(int x)\n{\n  int i;\n  int j;\n\n  j = x % 2 ? sqrt(x) : 0;\n  \n  for (i = 3; i <= j; i += 2)\n  {\n    j = x % i ? j : 0;\n  }\n  return j;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "b574d7cc-1123-495f-adc6-7c710c6ed9b1",
+    "body": "",
+    "questionId": "b59d215c-a039-43f3-b088-a427eb49dd8e",
+    "resources": [
+      {
+        "id": "e8b4dd7d-f4b2-41fe-a0ae-b48a95b28c79",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3231"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b574d7cc-1123-495f-adc6-7c710c6ed9b1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    }
+  ],
+  "children": []
+}

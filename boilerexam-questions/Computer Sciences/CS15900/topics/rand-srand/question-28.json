@@ -1,0 +1,149 @@
+{
+  "id": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the smallest possible value assigned to the <font style=\"font-family:'Courier New'\">length2</font> variable?\n",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "de7703c9-aaf5-4e93-a2ef-1a21b8d4374c",
+        "index": 0,
+        "body": "0",
+        "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+        "stats": {
+          "count": 1731
+        },
+        "resources": []
+      },
+      {
+        "id": "970f7928-2e2c-48e4-9984-7623e66ef99b",
+        "index": 1,
+        "body": "2",
+        "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+        "stats": {
+          "count": 227
+        },
+        "resources": []
+      },
+      {
+        "id": "734f42af-ad6c-4d52-9bd9-a5b462862f0e",
+        "index": 2,
+        "body": "10",
+        "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+        "stats": {
+          "count": 575
+        },
+        "resources": []
+      },
+      {
+        "id": "e5567aba-9786-4dfd-ac1e-8beb46d48f25",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 28,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "288947988",
+    "timeSpentVideo": "14260910",
+    "submissions": 2846,
+    "submissionsCorrect": 1731,
+    "accuracy": 0.6082220660576247,
+    "difficulty": 0.6454514596062457
+  },
+  "resources": [
+    {
+      "id": "44631a41-4a95-4c9d-8680-a304c867f1c1",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <stdlib.h>\n\nint createRandom(int, int);\n\nint main()\n{\n  int length1;\n  int length2;\n  int length3;\n  int seed;\n  \n  scanf(\"%d\", &seed);\n  \n  length1 = createRandom(100, 10);\n  length2 = createRandom(200, 10);\n  length3 = createRandom(150, 5);\n  \n  return(0);\n}\n\nint createRandom(int a, int b)\n{\n  int len;\n  \n  len = rand() % a;\n  len += rand() % b;\n  \n  return(len);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "22fb25ab-ffe5-4649-bdfe-927f9fea8b18",
+    "body": "",
+    "questionId": "abbdeaf0-0a08-477e-8046-89f7af2315a2",
+    "resources": [
+      {
+        "id": "ccb48b9c-f996-4e6a-b084-dba4be3c4359",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=5IN1JPyw6RRVrPEw&t=2126"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "22fb25ab-ffe5-4649-bdfe-927f9fea8b18",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

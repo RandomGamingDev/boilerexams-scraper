@@ -1,0 +1,143 @@
+{
+  "id": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the line integral $\\int_{C} \\frac{9 x}{y} d s$, where $C$ is the curve $x=\\frac{t^{3}}{3}, y=\\frac{t^{4}}{4}$ with $1 \\leq t \\leq 2$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d7e82653-51af-4609-9a0c-9ed9e5994d43",
+        "index": 0,
+        "body": "$15^{3 / 2}-3^{3 / 2}$",
+        "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "8a0ffaf0-11ae-473e-bcd4-2f9f7aeaf96c",
+        "index": 1,
+        "body": "$4\\left(5^{3 / 2}-2^{3 / 2}\\right)$",
+        "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+        "stats": {
+          "count": 2817
+        },
+        "resources": []
+      },
+      {
+        "id": "0029cd18-3081-4665-a0c8-423e5b4c64cc",
+        "index": 2,
+        "body": "$15^{3 / 2}-3^{3 / 2}$",
+        "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+        "stats": {
+          "count": 107
+        },
+        "resources": []
+      },
+      {
+        "id": "347dba49-03f4-49da-b4d8-7f6de82c5f72",
+        "index": 3,
+        "body": "$\\frac{1}{2}\\left(15^{3 / 2}-3^{3 / 2}\\right)$",
+        "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+        "stats": {
+          "count": 194
+        },
+        "resources": []
+      },
+      {
+        "id": "35d50720-06cd-4280-ab82-904992cf0e95",
+        "index": 4,
+        "body": "$14^{3 / 2}-3^{3 / 2}$",
+        "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1326785724",
+    "timeSpentVideo": "356737482",
+    "submissions": 5634,
+    "submissionsCorrect": 2817,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "9bc0c75f-e7fa-4cfc-b463-fde67f028080",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10604032967",
+      "timeSpentVideo": "2972029862",
+      "submissions": 47734,
+      "submissionsCorrect": 27532,
+      "questions": 10,
+      "accuracy": 0.576779653915448,
+      "difficulty": 0.6733808588033616
+    }
+  },
+  "explanation": {
+    "id": "fbf647da-8fab-44af-8303-397141e7beea",
+    "body": "",
+    "questionId": "d72a8664-5307-4f17-a0da-ba6a222f8cf7",
+    "resources": [
+      {
+        "id": "6cb52ee5-c2ae-45e3-b458-d3d43bba7812",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/xQFS-kwpzfo?t=1602"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fbf647da-8fab-44af-8303-397141e7beea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "334db9c7-f3fb-4b31-b85f-4831cd44188e",
+      "name": "Line Integral - ds",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15511711835",
+        "timeSpentVideo": "1844731217",
+        "submissions": 37740,
+        "submissionsCorrect": 21910,
+        "questions": 8,
+        "accuracy": 0.5805511393746687,
+        "difficulty": 0.669661733615222
+      }
+    }
+  ],
+  "children": []
+}

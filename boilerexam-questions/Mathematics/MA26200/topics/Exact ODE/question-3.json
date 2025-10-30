@@ -1,0 +1,128 @@
+{
+  "id": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $y(x)$ satisfy the following exact equation with initial condition\n\n\n\\[\n\\left(2 x^{2} e^{2 y}-3 x \\cos y\\right) d y+\\left(-3 \\sin y+2 x e^{2 y}+2\\right) d x=0, \\quad y(1)=0\n\\]\n\nWhich of the following give an implicit formula for $y(x)$ ?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "735f14eb-1859-4821-8acf-78af08d45ea3",
+        "index": 0,
+        "body": "$2 y-x^{2} e^{2 y}+3 x \\sin y=-1$",
+        "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "228fe4d7-9631-4ae0-8632-f24c824efacf",
+        "index": 1,
+        "body": "$2 y+x^{2} e^{2 y}+3 x \\sin y=1$",
+        "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "3f995194-625a-46af-8bb5-195eeebb2721",
+        "index": 2,
+        "body": "$x^{2}+x^{2} e^{2 y}+3 x \\sin y=2$",
+        "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "d9a13f2f-896f-4000-bc27-5a80e3073c51",
+        "index": 3,
+        "body": "$2 x+x^{2} e^{2 y}-3 x \\sin y=3$",
+        "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+        "stats": {
+          "count": 209
+        },
+        "resources": []
+      },
+      {
+        "id": "9fff8f78-5b06-477a-99ff-67949eeb22ed",
+        "index": 4,
+        "body": "$2 x-x^{2} e^{2 y}-3 x \\sin y=1$",
+        "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "81443084",
+    "timeSpentVideo": "0",
+    "submissions": 234,
+    "submissionsCorrect": 206,
+    "accuracy": 0.8803418803418803,
+    "difficulty": 0.4835329341317365
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "3f00d5fe-0147-45f8-bcf6-754c5319e4c4",
+    "body": "",
+    "questionId": "f679cea7-4813-491f-97d0-c9ddc43b91b8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "da6f0128-abf8-44b3-806e-63f9a224d88c",
+      "name": "Exact ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3767959907",
+        "timeSpentVideo": "118577968",
+        "submissions": 7377,
+        "submissionsCorrect": 5374,
+        "questions": 10,
+        "accuracy": 0.7284804120916362,
+        "difficulty": 0.524575364450983
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the value of $b$ for which the given equation is exact, and then solve it using that value of $b$.\n\\[\n(y \\cos (3 x y) + b x) \\, dx + (b x \\cos (3 x y) - 2 y) \\, dy = 0\n\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "2a98bb72-6b5a-4c7f-a3da-0a5572f6c962",
+        "index": 0,
+        "body": "$b = -2, \\quad -\\frac{2 \\sin (3 x y)}{3} - y^2 - x^2 = C$",
+        "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "ce363e16-5f6d-477f-972c-9a5f9e316f99",
+        "index": 1,
+        "body": "$b = 1, \\quad \\frac{\\cos (3 x y)}{9 y^2} + \\frac{x \\sin (3 x y)}{3 y} - y^2 + x y = C$",
+        "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "a1bd3cb7-17f1-43c2-a10a-f5d3e4c2c2df",
+        "index": 2,
+        "body": "$b = 3, \\quad \\sin (3 x y) - y^2 + \\frac{3 x^2}{2} = C$",
+        "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "227928b9-9a4e-43db-9fc2-caa3592948f0",
+        "index": 3,
+        "body": "$b = 1, \\quad \\frac{\\sin (3 x y)}{3} - y^2 + \\frac{x^2}{2} = C$",
+        "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+        "stats": {
+          "count": 542
+        },
+        "resources": []
+      },
+      {
+        "id": "6517b0e0-880d-46c4-b4a3-36c19c0c1d12",
+        "index": 4,
+        "body": "$b = 3, \\quad \\frac{\\sin (3 x y)}{3} - y^2 + \\frac{3 x^2}{2} = C$",
+        "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "277206259",
+    "timeSpentVideo": "36602097",
+    "submissions": 758,
+    "submissionsCorrect": 542,
+    "accuracy": 0.7150395778364116,
+    "difficulty": 0.5600233100233101
+  },
+  "resources": [],
+  "exam": {
+    "id": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
+    "number": 1,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2276743173",
+      "timeSpentVideo": "401363878",
+      "submissions": 8040,
+      "submissionsCorrect": 4797,
+      "questions": 10,
+      "accuracy": 0.5966417910447761,
+      "difficulty": 0.6545454545454545
+    }
+  },
+  "explanation": {
+    "id": "3d2b42ad-9bfe-41eb-988b-835a3e4ad533",
+    "body": null,
+    "questionId": "28ed6d6e-cded-4694-adfc-3f78e24c0bd6",
+    "resources": [
+      {
+        "id": "f28e6f29-ce6f-4c9a-9d62-220a5dd40c55",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/SIcgl2ItOIA?si=ZdJMGIpHPjjIP3gX&t=1778"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3d2b42ad-9bfe-41eb-988b-835a3e4ad533",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "22844638-9a38-4c16-98e5-6e5ced2e330b",
+      "name": "Exact Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4092456179",
+        "timeSpentVideo": "374640397",
+        "submissions": 10203,
+        "submissionsCorrect": 6475,
+        "questions": 10,
+        "accuracy": 0.6346172694305596,
+        "difficulty": 0.6166893137920993
+      }
+    }
+  ],
+  "children": []
+}

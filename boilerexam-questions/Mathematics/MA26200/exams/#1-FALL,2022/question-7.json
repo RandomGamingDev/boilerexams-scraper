@@ -1,0 +1,143 @@
+{
+  "id": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the equation\n\n\\[\n\\frac{d y}{d x}+\\frac{1}{x} y=3 x y^{2} .\n\\]\n\nIf $v=y^{-1}$, then $v$ satisfies",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6175c1dd-39b1-4fb1-aae4-62fa4f5fb491",
+        "index": 0,
+        "body": "$\\frac{d v}{d x}+\\frac{1}{x} v=-3 x$",
+        "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "dac2f91c-dd66-479b-a9f6-60de3cebdc2a",
+        "index": 1,
+        "body": "$\\frac{d v}{d x}-\\frac{1}{x} v=-3 x$",
+        "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+        "stats": {
+          "count": 924
+        },
+        "resources": []
+      },
+      {
+        "id": "78f5951b-d28d-47d3-b547-48dd1e459ace",
+        "index": 2,
+        "body": "$\\frac{d v}{d x}+\\frac{1}{x} v=3 x$",
+        "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "83ecda39-d53d-4c59-8c52-c3947e661887",
+        "index": 3,
+        "body": "$\\frac{d v}{d x}-\\frac{1}{x} v=3 x$",
+        "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "f412a757-abad-4e64-b14a-b96c662045c0",
+        "index": 4,
+        "body": "$\\frac{d v}{d x}+\\frac{1}{2 x} v=-3 x$",
+        "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "298373429",
+    "timeSpentVideo": "4732166",
+    "submissions": 1171,
+    "submissionsCorrect": 924,
+    "accuracy": 0.7890691716481639,
+    "difficulty": 0.4836742722265932
+  },
+  "resources": [],
+  "exam": {
+    "id": "6705fa39-3899-4dc9-90bb-fabc8f85c1cf",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3246944450",
+      "timeSpentVideo": "49477275",
+      "submissions": 10827,
+      "submissionsCorrect": 7462,
+      "questions": 11,
+      "accuracy": 0.6892029186293526,
+      "difficulty": 0.5625285988834996
+    }
+  },
+  "explanation": {
+    "id": "79cdddb0-9bf8-4524-bc1c-e1f863d84e42",
+    "body": "",
+    "questionId": "9a0e1984-3348-4a3a-84ef-17204b8f1e30",
+    "resources": [
+      {
+        "id": "f2df4469-c868-4210-b1de-a30503bf772b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aYp9DzrIgVc?si=2wOL3Tox7MvcXXrf&t=1870"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "79cdddb0-9bf8-4524-bc1c-e1f863d84e42",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "088d5d55-901f-48db-9a68-742ba728e61f",
+      "name": "Bernoulli ODE",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5259709166",
+        "timeSpentVideo": "298135909",
+        "submissions": 8242,
+        "submissionsCorrect": 4655,
+        "questions": 8,
+        "accuracy": 0.5647900994904149,
+        "difficulty": 0.6859865739630784
+      }
+    }
+  ],
+  "children": []
+}

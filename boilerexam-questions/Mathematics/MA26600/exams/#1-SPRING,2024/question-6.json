@@ -1,0 +1,173 @@
+{
+  "id": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A mass-spring-dashpot system with mass m=4, damping constant c=4, and spring constant k=17 is set in free motion with initial conditions x(0)=0 and x'(0)=2, where x(t) is the displacement from the equilibrium position at time t. Find x(2).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "90e8226b-bfac-4b24-9b71-19a7bb468694",
+        "index": 0,
+        "body": "$e^{-1}\\sin{(4)}$",
+        "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+        "stats": {
+          "count": 387
+        },
+        "resources": []
+      },
+      {
+        "id": "3efcf19a-f27b-4a73-a0c3-f60d2e5b573c",
+        "index": 1,
+        "body": "$e^{-1}\\cos{(4)}$",
+        "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "07dc69fa-1657-4c3f-b9bb-21e5e87016ce",
+        "index": 2,
+        "body": "$e^{-1}\\cos{(4)}+e^{-1}\\sin{(4)}$",
+        "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      },
+      {
+        "id": "4323c699-1a61-4adc-9a83-89b24b961023",
+        "index": 3,
+        "body": "$e^{-2}\\cos{(1)}+e^{-2}\\sin{(1)}$",
+        "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "8d0b19a1-2312-442e-8eb2-7dcd50dee6c6",
+        "index": 4,
+        "body": "$e^{-2}\\sin{(1)}$",
+        "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "82301abe-9979-4c8e-83ea-541af6ca5559",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "274019373",
+    "timeSpentVideo": "47427162",
+    "submissions": 960,
+    "submissionsCorrect": 387,
+    "accuracy": 0.403125,
+    "difficulty": 0.8377358490566038
+  },
+  "resources": [],
+  "exam": {
+    "id": "82301abe-9979-4c8e-83ea-541af6ca5559",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2354479366",
+      "timeSpentVideo": "420622954",
+      "submissions": 9906,
+      "submissionsCorrect": 5799,
+      "questions": 10,
+      "accuracy": 0.5854027861901878,
+      "difficulty": 0.6654507295622626
+    }
+  },
+  "explanation": {
+    "id": "d5c8a021-8045-481a-bf16-54da14e94591",
+    "body": null,
+    "questionId": "2765a331-8582-480f-9bc3-cd3e3f35914c",
+    "resources": [
+      {
+        "id": "a0d2a7db-2ba8-49d4-8da5-a73931caff31",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Uo3rS0KPQXM&t=1729s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d5c8a021-8045-481a-bf16-54da14e94591",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    },
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    },
+    {
+      "id": "285427a7-cd4f-44d6-a9a4-b7f09afdfb95",
+      "name": "Spring-mass system",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4447642016",
+        "timeSpentVideo": "429093904",
+        "submissions": 9099,
+        "submissionsCorrect": 4757,
+        "questions": 12,
+        "accuracy": 0.5228047038136059,
+        "difficulty": 0.7274432003478639
+      }
+    }
+  ],
+  "children": []
+}

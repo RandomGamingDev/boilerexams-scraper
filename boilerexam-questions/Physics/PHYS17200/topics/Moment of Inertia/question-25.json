@@ -1,0 +1,160 @@
+{
+  "id": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A rod of length $L$ and negligible mass is attached to a uniform disk of mass $M$ and radius $R$. A string is wrapped around the disk, and you pull on the string with a constant magnitude force $F$.\n\nTwo small balls each of mass $m$ slide along the rod with negligible friction. The apparatus starts from rest, and when the center of the disk has moved a distance $d$, a length of string $s$ has come off the disk, and the balls have collided with the ends of the rod and stuck there. The apparatus slides on a nearly frictionless table.\n\nWhat is the angular speed, $\\omega$ of the disk at this instant?\n\nNote: The moment of inertia of a disk is $I=\\frac{1}{2} M R^{2}$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "378e8630-80f7-4aa9-bbb4-5a4480e4ffd6",
+        "index": 0,
+        "body": "$\\omega=\\sqrt{\\frac{2 F s}{2 m L^{2}+M R^{2}}}$",
+        "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "b73b03b7-287f-4936-a623-82e1ccbe31c8",
+        "index": 1,
+        "body": "$\\omega=\\sqrt{\\frac{2 F s}{m L^{2}+M R^{2}}}$",
+        "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "19e54851-b5c3-454b-8dc9-855e4ed77127",
+        "index": 2,
+        "body": "$\\omega=\\sqrt{\\frac{F s}{m L^{2}+M R^{2}}}$",
+        "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "1eafb7d3-dc29-4a8e-894d-4321c3f75dbc",
+        "index": 3,
+        "body": "$\\omega=\\sqrt{\\frac{2 F s}{4 m L^{2}+M R^{2}}}$",
+        "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "d167c629-4a97-4b96-b7ae-4dfba78cbb14",
+        "index": 4,
+        "body": "$\\omega=\\sqrt{\\frac{4 F s}{m L^{2}+M R^{2}}}$",
+        "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+        "stats": {
+          "count": 702
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": "",
+  "examId": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "235256211",
+    "timeSpentVideo": "72396359",
+    "submissions": 1315,
+    "submissionsCorrect": 702,
+    "accuracy": 0.5338403041825095,
+    "difficulty": 0.7185512367491166
+  },
+  "resources": [
+    {
+      "id": "821f1886-60a1-4661-84ac-aa8ae2a43b92",
+      "type": "IMAGE",
+      "data": {
+        "key": "SY_BRv1dpOjBRClMrp33n",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/SY_BRv1dpOjBRClMrp33n",
+        "altText": ""
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "4ac7facd-73e4-4222-86fd-d421dd8a7748",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5523245305",
+      "timeSpentVideo": "1139418888",
+      "submissions": 48688,
+      "submissionsCorrect": 30313,
+      "questions": 28,
+      "accuracy": 0.6225969438054552,
+      "difficulty": 0.6276543412314504
+    }
+  },
+  "explanation": {
+    "id": "e5200ebe-b083-4655-9496-5d9cb263bd96",
+    "body": "",
+    "questionId": "ea9c8c2f-2ec8-464c-86cd-a63387e7828f",
+    "resources": [
+      {
+        "id": "28f2d4bb-c47d-4bb8-8f57-8a06a24315d0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/VGo5P1HejLE?t=5631\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e5200ebe-b083-4655-9496-5d9cb263bd96",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "55777f70-12c1-46f2-a0d2-63b4594606fd",
+      "name": "Moment of Inertia",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1232465060",
+        "timeSpentVideo": "132992691",
+        "submissions": 3780,
+        "submissionsCorrect": 2338,
+        "questions": 6,
+        "accuracy": 0.6185185185185185,
+        "difficulty": 0.6345360824742268
+      }
+    }
+  ],
+  "children": []
+}

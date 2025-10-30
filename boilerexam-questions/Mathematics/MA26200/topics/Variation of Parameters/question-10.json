@@ -1,0 +1,143 @@
+{
+  "id": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "(8 points) Given that $e^{x}$ is a solution of $x y^{\\prime \\prime}(x)-(x+1) y^{\\prime}(x)+y(x)=0$ for $x>0$, the function $u(x) e^{x}$ is another solution if",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ce3a88a3-7ca4-47e6-aed3-bafcac3da27f",
+        "index": 0,
+        "body": "$x u^{\\prime \\prime}+(x-1) u^{\\prime}=0$",
+        "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+        "stats": {
+          "count": 188
+        },
+        "resources": []
+      },
+      {
+        "id": "7b6b953e-fa35-407c-b072-6de3a406f248",
+        "index": 1,
+        "body": "$x u^{\\prime \\prime}-(x+1) u^{\\prime}=0$",
+        "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "28058623-4811-4920-af69-ad47af73a03c",
+        "index": 2,
+        "body": "$x u^{\\prime \\prime}+2 x u^{\\prime}=0$",
+        "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "6fec6c1d-72fe-41c8-84fc-852f35a58627",
+        "index": 3,
+        "body": "$u^{\\prime \\prime}-x u^{\\prime}=0$",
+        "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "35275df8-59ab-49d8-9289-1108a1d1e163",
+        "index": 4,
+        "body": "$u^{\\prime \\prime}+2 x u^{\\prime}=0$",
+        "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "114085160",
+    "timeSpentVideo": "109668835",
+    "submissions": 547,
+    "submissionsCorrect": 188,
+    "accuracy": 0.3436928702010969,
+    "difficulty": 0.8821483771251932
+  },
+  "resources": [],
+  "exam": {
+    "id": "d6696cb4-9533-4dae-8adb-f078a45e7669",
+    "number": 2,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2161408941",
+      "timeSpentVideo": "1089974669",
+      "submissions": 11508,
+      "submissionsCorrect": 6223,
+      "questions": 12,
+      "accuracy": 0.5407542579075426,
+      "difficulty": 0.7095968297725707
+    }
+  },
+  "explanation": {
+    "id": "6dcc8198-efea-4aa0-a62e-a9f2ecf7e9df",
+    "body": "",
+    "questionId": "3f2dab41-5ad8-471e-9e34-702499dcc9d8",
+    "resources": [
+      {
+        "id": "17509b59-ee6c-422f-ba62-697a800f10dc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/NTBSAzejSqM?si=yzyUaW23hdi7-3CW&t=1462\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6dcc8198-efea-4aa0-a62e-a9f2ecf7e9df",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17bdb3d6-64ce-498e-be9c-c82071d149ed",
+      "name": "Variation of Parameters",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1997271242",
+        "timeSpentVideo": "416128610",
+        "submissions": 3636,
+        "submissionsCorrect": 1638,
+        "questions": 6,
+        "accuracy": 0.4504950495049505,
+        "difficulty": 0.7981798715203425
+      }
+    }
+  ],
+  "children": []
+}

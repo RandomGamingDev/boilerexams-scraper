@@ -1,0 +1,143 @@
+{
+  "id": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A fish tank contains 10 gallons of a salt solution with a concentration of 3 grams of salt per gallon. A salt solution with a concentration of 6 grams/gallon is added to the tank at a rate of 2 gallons per minute. At the same time, the solution is drained from the well mixed tank at a rate of 2 gallons per minute. How many grams of salt are in the tank after 10 minutes?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "a91a5fa7-102b-4943-ad8a-46040b714503",
+        "index": 0,
+        "body": "$30 + 12 e^{-5}$",
+        "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "f4682d1f-431f-473b-9541-350af0ed06de",
+        "index": 1,
+        "body": "$30+30e^{-10}$",
+        "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "e05bf4ac-ba15-487c-9536-302bd99e69e6",
+        "index": 2,
+        "body": "$120-90e^{-2}$",
+        "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "9e4528d9-6481-4a7c-afd4-b13750d32928",
+        "index": 3,
+        "body": "$60-30e^{-2}$",
+        "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+        "stats": {
+          "count": 388
+        },
+        "resources": []
+      },
+      {
+        "id": "cfa5f709-adcf-414d-8041-d14893c3ea5a",
+        "index": 4,
+        "body": "$60$",
+        "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "216690447",
+    "timeSpentVideo": "21840849",
+    "submissions": 735,
+    "submissionsCorrect": 388,
+    "accuracy": 0.527891156462585,
+    "difficulty": 0.7254491017964072
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "c0bd475b-f146-44bf-83c3-a0368a1b601e",
+    "body": null,
+    "questionId": "ab87fd72-2da1-43f5-9b31-d915558833ff",
+    "resources": [
+      {
+        "id": "0198b799-702d-4705-b44d-bee69051673d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=XcoCv5P0EH-nKyk4&t=1656"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c0bd475b-f146-44bf-83c3-a0368a1b601e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

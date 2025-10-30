@@ -1,0 +1,158 @@
+{
+  "id": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\int_{-1}^{1} \\frac{1}{x^{4}} d x$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "3c5e38f8-5dee-4286-98e2-c7675dc89ad8",
+        "index": 0,
+        "body": "$\\frac{2}{3}$",
+        "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+        "stats": {
+          "count": 282
+        },
+        "resources": []
+      },
+      {
+        "id": "faad52b3-64ee-4f9b-90e5-affd8c0ec63f",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+        "stats": {
+          "count": 867
+        },
+        "resources": []
+      },
+      {
+        "id": "6590efe5-b568-42c4-8f22-1e0a887d149a",
+        "index": 2,
+        "body": "$-\\frac{2}{3}$",
+        "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+        "stats": {
+          "count": 915
+        },
+        "resources": []
+      },
+      {
+        "id": "8e7e7cda-0ce8-423c-ad7c-1534128ad335",
+        "index": 3,
+        "body": "Divergent",
+        "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+        "stats": {
+          "count": 3771
+        },
+        "resources": []
+      },
+      {
+        "id": "864cf3ac-84a5-4a83-8cc6-d197de326228",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+        "stats": {
+          "count": 83
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "902551620",
+    "timeSpentVideo": "121261122",
+    "submissions": 6534,
+    "submissionsCorrect": 3771,
+    "accuracy": 0.5771349862258953,
+    "difficulty": 0.6740277359059391
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340671717",
+      "timeSpentVideo": "804826486",
+      "submissions": 39511,
+      "submissionsCorrect": 24592,
+      "questions": 12,
+      "accuracy": 0.6224089494064944,
+      "difficulty": 0.6279000782610891
+    }
+  },
+  "explanation": {
+    "id": "749d104c-8f02-46bd-8eaa-adafa0236d24",
+    "body": "",
+    "questionId": "e2ce42e4-3a6e-46ce-9dab-35f1d7e5e449",
+    "resources": [
+      {
+        "id": "5c487ad3-a9c1-4f11-9b1f-9c1bb0f2ef13",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=1443\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "749d104c-8f02-46bd-8eaa-adafa0236d24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0f35fb89-57ce-4c77-8e90-dfcc55f1c6ce",
+      "name": "Improper Integral",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14329891277",
+        "timeSpentVideo": "894017817",
+        "submissions": 35492,
+        "submissionsCorrect": 21862,
+        "questions": 9,
+        "accuracy": 0.6159697960103685,
+        "difficulty": 0.6343560350640594
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    }
+  ],
+  "children": []
+}

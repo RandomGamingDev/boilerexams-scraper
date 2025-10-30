@@ -1,0 +1,143 @@
+{
+  "id": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{lll}\n1 & 1& 1 \\\\\n2& 3 & 1 \\\\\n1&4&1 \n\\end{array}\\right]$.  Given det$A=3$, find the $(1,2)$ entry of $A^{-1}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "ceb7d922-bbe6-49e5-9cd5-f387c41f3594",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "1046ee28-b20c-43aa-b29d-dbc243a30c87",
+        "index": 1,
+        "body": "$-1$",
+        "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      },
+      {
+        "id": "4619e751-1363-45f9-a0ec-9aba6256f9e0",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "980be48e-0885-4b32-89cb-4c46bf0ae363",
+        "index": 3,
+        "body": "$1$",
+        "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+        "stats": {
+          "count": 710
+        },
+        "resources": []
+      },
+      {
+        "id": "ed953f8f-6d79-4a27-a030-7ea7e79a82c0",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "263290714",
+    "timeSpentVideo": "56984315",
+    "submissions": 1489,
+    "submissionsCorrect": 710,
+    "accuracy": 0.4768300873069174,
+    "difficulty": 0.7717117684078036
+  },
+  "resources": [],
+  "exam": {
+    "id": "4252441d-f4b6-4c55-ae73-b0ee9e115f30",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "6128716711",
+      "timeSpentVideo": "1392387924",
+      "submissions": 27842,
+      "submissionsCorrect": 13522,
+      "questions": 25,
+      "accuracy": 0.48566913296458586,
+      "difficulty": 0.7642795791281941
+    }
+  },
+  "explanation": {
+    "id": "3611d0c1-c22c-4ed5-a274-bc919fde88a4",
+    "body": "",
+    "questionId": "f944b43c-0a55-4ceb-8583-ab32051505d3",
+    "resources": [
+      {
+        "id": "6f91639d-e686-4184-bd0b-d55602c6ade8",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/kNP9-jS8iK8?si=oWEl0S1W4dybulX5&t=1816\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3611d0c1-c22c-4ed5-a274-bc919fde88a4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "fbe00258-c132-4434-9594-167f6197fa76",
+      "name": "Inverse of a Matrix",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2926325455",
+        "timeSpentVideo": "129912520",
+        "submissions": 7159,
+        "submissionsCorrect": 4443,
+        "questions": 7,
+        "accuracy": 0.6206174046654561,
+        "difficulty": 0.6310442209670754
+      }
+    }
+  ],
+  "children": []
+}

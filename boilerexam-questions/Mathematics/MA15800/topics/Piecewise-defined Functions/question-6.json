@@ -1,0 +1,153 @@
+{
+  "id": "f4b49367-6e98-409b-9ae5-0155d771d770",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given\n\n\n\\[\nf(x)= \\begin{cases}-33 & x<0 \\\\ x & 0<x<4 \\\\ x+18 & 4<x<9\\end{cases}\n\\]\n\nfind the domain of $f(x)$.",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "86f011cf-14bc-44b1-bf89-8a62a7d017f3",
+        "index": 0,
+        "body": "$(-\\infty, 4) \\cup(4, \\infty)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "36362c6b-1e38-4466-b9e6-faca12988d2d",
+        "index": 1,
+        "body": "$(-\\infty, 0) \\cup(9, \\infty)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "f7a79043-b864-404c-9971-5b9e9e73b874",
+        "index": 2,
+        "body": "$(0,9)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      },
+      {
+        "id": "7db2bb00-1d63-4231-b10e-ce30ccb4c4f3",
+        "index": 3,
+        "body": "$(-\\infty, 0) \\cup(0,4) \\cup(4,9) \\cup(9, \\infty)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 287
+        },
+        "resources": []
+      },
+      {
+        "id": "497313b5-3098-46aa-ab8e-4c9e4a68e940",
+        "index": 4,
+        "body": "$(-\\infty, \\infty)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "d700c53e-79d2-408f-854d-545fdff71a6d",
+        "index": 5,
+        "body": "$(-\\infty, 0) \\cup (0, 4) \\cup (4,9)$",
+        "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+        "stats": {
+          "count": 809
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "e308a988-18cf-408d-be48-cb45a5cd0ce5",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "194254489",
+    "timeSpentVideo": "0",
+    "submissions": 1294,
+    "submissionsCorrect": 809,
+    "accuracy": 0.625193199381762,
+    "difficulty": 0.6337876614060258
+  },
+  "resources": [],
+  "exam": {
+    "id": "e308a988-18cf-408d-be48-cb45a5cd0ce5",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2489569191",
+      "timeSpentVideo": "0",
+      "submissions": 14273,
+      "submissionsCorrect": 9842,
+      "questions": 15,
+      "accuracy": 0.689553702795488,
+      "difficulty": 0.5617651151464551
+    }
+  },
+  "explanation": {
+    "id": "310b076b-d723-4878-bd9a-f06ed7364723",
+    "body": "",
+    "questionId": "f4b49367-6e98-409b-9ae5-0155d771d770",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a925424-31b0-4e1e-9634-2afe7888d5e4",
+      "name": "Domain and Range",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3272589885",
+        "timeSpentVideo": "56449602",
+        "submissions": 6633,
+        "submissionsCorrect": 4067,
+        "questions": 6,
+        "accuracy": 0.6131463892657922,
+        "difficulty": 0.6385340858458339
+      }
+    },
+    {
+      "id": "79b190ac-ad34-4b96-9aed-84c13e8f64c7",
+      "name": "Piecewise-defined Functions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4699971291",
+        "timeSpentVideo": "88439215",
+        "submissions": 6683,
+        "submissionsCorrect": 4307,
+        "questions": 5,
+        "accuracy": 0.6444710459374532,
+        "difficulty": 0.6076588530148902
+      }
+    }
+  ],
+  "children": []
+}

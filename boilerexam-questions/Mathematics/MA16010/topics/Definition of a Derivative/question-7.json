@@ -1,0 +1,153 @@
+{
+  "id": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "We want to find the derivative of $f(x) = \\frac{1}{5x}$ using the limit definition. In which of the following is the limit definition set up correctly?",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "71d65a23-7e7d-4960-945f-a0dad50fd7cb",
+        "index": 0,
+        "body": "$f'(x) = \\lim _{h\\rightarrow 0} \\frac{\\frac{1}{5(x+h)}+\\frac{1}{5x}}{h}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "e96e8e36-cb47-4a65-aa59-c8989041fcb9",
+        "index": 1,
+        "body": "$f'(x) = \\lim _{h\\rightarrow 0} \\frac{\\frac{1}{5x+h}-\\frac{1}{5x}}{h}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      },
+      {
+        "id": "8f3373d8-d688-4745-b78f-d2f2336eea08",
+        "index": 2,
+        "body": "$f'(x) = \\lim _{x\\rightarrow 0} \\frac{\\frac{1}{5(x+h)}+\\frac{1}{5x}}{h}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "e0d6274a-2f3f-4374-b6f6-557805e924c7",
+        "index": 3,
+        "body": "$f'(x) = \\lim _{x\\rightarrow 0} \\frac{\\frac{1}{5x+h}-\\frac{1}{5x}}{x}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "cc03c9ab-3f89-4ad8-9c7f-3b5372d99cf6",
+        "index": 4,
+        "body": "$f'(x) = \\lim _{x\\rightarrow 0} \\frac{\\frac{1}{5(x+h)}-\\frac{1}{5x}}{x}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "771492d8-9d55-4129-b9e8-87d01eaad5e1",
+        "index": 5,
+        "body": "$f'(x) = \\lim _{h\\rightarrow 0} \\frac{\\frac{1}{5(x+h)}-\\frac{1}{5x}}{h}$",
+        "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+        "stats": {
+          "count": 202
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "49147292",
+    "timeSpentVideo": "2547151",
+    "submissions": 328,
+    "submissionsCorrect": 202,
+    "accuracy": 0.6158536585365854,
+    "difficulty": 0.6612149532710281
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "618fdf7d-f291-4fde-824f-53997afcdbd2",
+    "body": null,
+    "questionId": "f075fec6-61a7-41e1-9ff3-0c8f224d2413",
+    "resources": [
+      {
+        "id": "bbe546e6-775c-4387-bdd1-c9e88fd00c86",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=qSr_nzzg26whFRoK&t=1685"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "618fdf7d-f291-4fde-824f-53997afcdbd2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "22731a20-2827-4bb2-bbb4-b603ddbaa3f4",
+      "name": "Definition of a Derivative",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "220421317",
+        "timeSpentVideo": "2547151",
+        "submissions": 328,
+        "submissionsCorrect": 202,
+        "questions": 1,
+        "accuracy": 0.6158536585365854,
+        "difficulty": 0.6612149532710281
+      }
+    }
+  ],
+  "children": []
+}

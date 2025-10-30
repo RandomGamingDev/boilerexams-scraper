@@ -1,0 +1,133 @@
+{
+  "id": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the concept of scope is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0b9d5f61-7f77-4013-8fcc-38247e40c09f",
+        "index": 0,
+        "body": "User-defined functions with a global scope are defined everywhere in the program",
+        "questionId": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "4aee5ecf-62d1-4f9e-90ca-22a0f15e0112",
+        "index": 1,
+        "body": "The scope of a user-defined function or variable determines the region of the program in which it is defined.",
+        "questionId": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "6bd9f7bd-ec33-416d-96c0-b0400133f2c0",
+        "index": 2,
+        "body": "A variable declared in the local declaration section of a function has a scope that extends until the end of the program.",
+        "questionId": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+        "stats": {
+          "count": 1647
+        },
+        "resources": []
+      },
+      {
+        "id": "f3dde70f-e33e-4239-9340-f9a3a0d500c8",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 46,
+  "disclaimer": "",
+  "examId": "f379e765-c8d9-419b-b19f-2d900347394c",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "132070366",
+    "timeSpentVideo": "0",
+    "submissions": 1917,
+    "submissionsCorrect": 1647,
+    "accuracy": 0.8591549295774648,
+    "difficulty": 0.40865146256817053
+  },
+  "resources": [],
+  "exam": {
+    "id": "f379e765-c8d9-419b-b19f-2d900347394c",
+    "number": 0,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7922189874",
+      "timeSpentVideo": "0",
+      "submissions": 72688,
+      "submissionsCorrect": 47815,
+      "questions": 49,
+      "accuracy": 0.6578114681928241,
+      "difficulty": 0.5924053415398143
+    }
+  },
+  "explanation": {
+    "id": "3f96a488-46b1-416d-a483-aa6322cc2726",
+    "body": "",
+    "questionId": "5000c3c2-4544-4a78-af6f-ccb779e88f62",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "974dcc50-4f03-4a94-b09c-fba13dfc5a59",
+      "name": "Functions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30293635712",
+        "timeSpentVideo": "457141608",
+        "submissions": 102027,
+        "submissionsCorrect": 69760,
+        "questions": 41,
+        "accuracy": 0.6837405784743255,
+        "difficulty": 0.566439335337374
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

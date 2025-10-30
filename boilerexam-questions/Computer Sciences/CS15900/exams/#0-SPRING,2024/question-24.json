@@ -1,0 +1,294 @@
+{
+  "id": "1a73c418-9c24-4f50-a4ba-cd7b4fcc4c72",
+  "type": "PARENT",
+  "data": {
+    "body": "",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 24,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1229973",
+    "timeSpentVideo": "0",
+    "submissions": 15,
+    "submissionsCorrect": 8,
+    "accuracy": 0.5333333333333333,
+    "difficulty": 0.7456521739130435
+  },
+  "resources": [
+    {
+      "id": "2684bae0-cc69-41fc-9bc8-1384aaaa6462",
+      "type": "CODE",
+      "data": {
+        "content": "#define SIZE 8\n\nint main(void)\n{\n  int array[SIZE] = {8, 15, 12, 4, 20, 19, 3, 27};\n  int index;\n  \n  index = sort(array);\n \n  printf(\"Result: %d\\n\", array[index]);\n\n  return(0);\n}\n\nint sort(int array[])\n{\n  int i;\n  int j;\n  int temp;\n\n  for(i = 0; i < SIZE - 1; i++)\n  {\n    for(j = 0; j < SIZE - i - 1; j++)\n    {\n      if(array[j] < array[j + 1])\n      {\n        temp = array[j];\n        array[j] = array[j + 1];\n        array[j + 1] = temp;\n      }\n    }\n  }\n  \n  return(i);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "1a73c418-9c24-4f50-a4ba-cd7b4fcc4c72",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "069a2152-67cd-4753-a3d2-13e34dd311f4",
+    "body": null,
+    "questionId": "1a73c418-9c24-4f50-a4ba-cd7b4fcc4c72",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "d158a516-def5-45d3-8765-e83f4105e114",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which sorting algorithm has been implemented in the code segment above?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "74d0fb76-666a-4715-8383-135666c711a2",
+            "index": 0,
+            "body": "Selection sort.",
+            "questionId": "d158a516-def5-45d3-8765-e83f4105e114",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "33d5ca26-e720-4dc5-afb2-47c8db77aca2",
+            "index": 1,
+            "body": "Bubble sort.",
+            "questionId": "d158a516-def5-45d3-8765-e83f4105e114",
+            "stats": {
+              "count": 13
+            },
+            "resources": []
+          },
+          {
+            "id": "6e896c55-7a93-423c-9dac-531909fd76df",
+            "index": 2,
+            "body": "Insertion sort.",
+            "questionId": "d158a516-def5-45d3-8765-e83f4105e114",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "e4a8df24-2358-4473-bbc8-866a1741aebd",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "d158a516-def5-45d3-8765-e83f4105e114",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "1a73c418-9c24-4f50-a4ba-cd7b4fcc4c72",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 15,
+        "submissionsCorrect": 13,
+        "accuracy": 0.8666666666666667,
+        "difficulty": 0.7021739130434783
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "1e68fa22-c13d-4518-8e70-ef4ec9d7e451",
+        "body": null,
+        "questionId": "d158a516-def5-45d3-8765-e83f4105e114",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following is the output generated by the code segment above?",
+        "solution": [
+          2
+        ],
+        "answerChoices": [
+          {
+            "id": "a3f26b69-1491-444e-8ca2-ad6da94912a1",
+            "index": 0,
+            "body": "<code>Result: 27</code>",
+            "questionId": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          },
+          {
+            "id": "e615265c-8e5c-4563-b070-9fa6afc1d820",
+            "index": 1,
+            "body": "<code>Result: 20</code>",
+            "questionId": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "53c9b198-0390-40e7-8272-7ae5e44f0c2e",
+            "index": 2,
+            "body": "<code>Result: 3</code>",
+            "questionId": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+            "stats": {
+              "count": 10
+            },
+            "resources": []
+          },
+          {
+            "id": "82a81663-63d7-4153-b96c-c887daa8678e",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "1a73c418-9c24-4f50-a4ba-cd7b4fcc4c72",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 15,
+        "submissionsCorrect": 10,
+        "accuracy": 0.6666666666666666,
+        "difficulty": 0.7282608695652174
+      },
+      "resources": [],
+      "exam": {
+        "id": "84f50705-cd60-439c-967e-70ed92547b45",
+        "number": 0,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "101033780",
+          "timeSpentVideo": "0",
+          "submissions": 1328,
+          "submissionsCorrect": 794,
+          "questions": 62,
+          "accuracy": 0.5978915662650602,
+          "difficulty": 0.6589635854341737
+        }
+      },
+      "explanation": {
+        "id": "a8c5846d-103a-48ec-b461-d8b1f6d8d8f9",
+        "body": null,
+        "questionId": "d602c7d1-adf3-41a5-9f2a-9bbb1ad51562",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

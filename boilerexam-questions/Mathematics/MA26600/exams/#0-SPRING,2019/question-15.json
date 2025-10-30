@@ -1,0 +1,143 @@
+{
+  "id": "22147014-20f4-4c1a-859c-6a20eb443675",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the inverse Laplace transform $\\mathcal{L^{-1}}\\{F(s)\\}$ of\n\\[F(s)=\\frac{10e^{-s}}{s^2-5s+6}+\\frac{2}{s^2-2s+5}.\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "72430767-1dcb-4e32-9e76-47aee98c919d",
+        "index": 0,
+        "body": "$10u_{1}(t)(e^{3(t-1)}-e^{2(t-1)})+e^t\\sin (2t)$",
+        "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+        "stats": {
+          "count": 920
+        },
+        "resources": []
+      },
+      {
+        "id": "cc5d39bb-9978-4ee1-ac5e-e51d282b995b",
+        "index": 1,
+        "body": "$10u_{1}(t)(e^{3t}-e^{2t})+e^t\\sin (2t)+2e^t\\sin (2t)$",
+        "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "574506ed-61b4-43f2-9a01-76804b4b592a",
+        "index": 2,
+        "body": "$10u_{1}(t)(e^{3(t-1)}-e^{2(t-1)})+2e^t\\sin (2t)$",
+        "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+        "stats": {
+          "count": 171
+        },
+        "resources": []
+      },
+      {
+        "id": "bb790ce9-95ba-42f7-87c8-71ad802239a3",
+        "index": 3,
+        "body": "$10u_{1}(t)(e^{3t}-e^{2t})+e^t\\sin (2t)+e^t\\sin (2t)$",
+        "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "5e6fb540-97bc-400c-bd40-b071d47c9840",
+        "index": 4,
+        "body": "$10(e^{3t}-e^{2t})+e^t\\sin (2t)$",
+        "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "423512798",
+    "timeSpentVideo": "53207205",
+    "submissions": 1395,
+    "submissionsCorrect": 920,
+    "accuracy": 0.6594982078853047,
+    "difficulty": 0.6011705685618729
+  },
+  "resources": [],
+  "exam": {
+    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9319684919",
+      "timeSpentVideo": "1679450708",
+      "submissions": 37712,
+      "submissionsCorrect": 22395,
+      "questions": 20,
+      "accuracy": 0.59384280865507,
+      "difficulty": 0.6564053739553581
+    }
+  },
+  "explanation": {
+    "id": "ee0258a7-d98d-4991-9368-b1302592a7fc",
+    "body": "",
+    "questionId": "22147014-20f4-4c1a-859c-6a20eb443675",
+    "resources": [
+      {
+        "id": "355ab883-f47e-477c-87b9-bf6cee57768e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/fqET297U3Bc?si=vHq5CNF75OiVVxKu&t=2179"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ee0258a7-d98d-4991-9368-b1302592a7fc",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "cc0a67d9-6c8c-4c30-85b9-e97901f376ea",
+      "name": "Inverse Laplace",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2255453095",
+        "timeSpentVideo": "157741451",
+        "submissions": 3548,
+        "submissionsCorrect": 2145,
+        "questions": 6,
+        "accuracy": 0.60456595264938,
+        "difficulty": 0.6483004385964912
+      }
+    }
+  ],
+  "children": []
+}

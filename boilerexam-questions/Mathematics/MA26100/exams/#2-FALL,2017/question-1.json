@@ -1,0 +1,143 @@
+{
+  "id": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the maximum value of $f(x, y, z)=2 x+y+4 z$ subject to the constraint $x^{2}+y+z^{2}=6$. (You may assume that this function has an absolute maximum and no absolute minimum.)",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9452f73b-c485-4de7-b251-22c2889262dc",
+        "index": 0,
+        "body": "$6$",
+        "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "def67615-8c00-4d40-b378-2c477e28b5f7",
+        "index": 1,
+        "body": "$7$",
+        "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+        "stats": {
+          "count": 121
+        },
+        "resources": []
+      },
+      {
+        "id": "cb4f1462-f7f6-4ba6-b4b7-f3ac8f8454e3",
+        "index": 2,
+        "body": "$11$",
+        "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+        "stats": {
+          "count": 2020
+        },
+        "resources": []
+      },
+      {
+        "id": "e7e91428-ec3b-45a4-89aa-ea2de8682bfb",
+        "index": 3,
+        "body": "$4 \\sqrt{6}$",
+        "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "fe660ebb-a14a-49d3-95c3-e6d07f8f2688",
+        "index": 4,
+        "body": "$6 \\sqrt{6}$",
+        "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "674976421",
+    "timeSpentVideo": "80266304",
+    "submissions": 2772,
+    "submissionsCorrect": 2020,
+    "accuracy": 0.7287157287157288,
+    "difficulty": 0.5292479108635098
+  },
+  "resources": [],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "2ff947eb-b6cc-421a-a52f-90efbcb34812",
+    "body": "",
+    "questionId": "83b28ff4-d0b4-4612-88dc-28035f238cd5",
+    "resources": [
+      {
+        "id": "a9b9cb9b-0f76-4007-9949-d5dace2a346a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=1"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2ff947eb-b6cc-421a-a52f-90efbcb34812",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3ff61fda-168d-4685-9596-9c9cbd9f36c6",
+      "name": "Lagrange Multipliers",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23687011243",
+        "timeSpentVideo": "2391172133",
+        "submissions": 47469,
+        "submissionsCorrect": 30167,
+        "questions": 10,
+        "accuracy": 0.6355094904042639,
+        "difficulty": 0.6147753789232483
+      }
+    }
+  ],
+  "children": []
+}

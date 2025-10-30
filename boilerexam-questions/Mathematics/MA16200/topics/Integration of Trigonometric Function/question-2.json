@@ -1,0 +1,189 @@
+{
+  "id": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What is the area of the region bounded by $y=4 tan^2{(x)}$, $y=0$, and $x=\\frac{\\pi}{4}$?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "67fdcf26-833a-4e4b-8c1b-75d7749a2563",
+        "index": 0,
+        "body": "$4+\\pi$",
+        "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+        "stats": {
+          "count": 178
+        },
+        "resources": []
+      },
+      {
+        "id": "ff546f91-ecae-4341-9947-7e419edcc30d",
+        "index": 1,
+        "body": "$8+4\\pi$",
+        "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "0a530da6-a3df-45c3-a5be-40f27f54cb34",
+        "index": 2,
+        "body": "$8+2\\pi$",
+        "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      },
+      {
+        "id": "21e8a2d5-a6e2-42e3-986a-2b678babc023",
+        "index": 3,
+        "body": "$4-\\pi$",
+        "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+        "stats": {
+          "count": 1649
+        },
+        "resources": []
+      },
+      {
+        "id": "2ec6d42a-09a4-4a7f-9ae9-35fcd3540c5e",
+        "index": 4,
+        "body": "$8-2\\pi$",
+        "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "e9af24d8-053d-4653-9c68-be42a848609b",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "517398228",
+    "timeSpentVideo": "45608371",
+    "submissions": 2496,
+    "submissionsCorrect": 1649,
+    "accuracy": 0.6606570512820513,
+    "difficulty": 0.5955315870570108
+  },
+  "resources": [
+    {
+      "id": "53feead0-9629-424c-aedd-47424d5ca929",
+      "type": "IMAGE",
+      "data": {
+        "key": "RD05ih6VBbV4KBsk-3QmN",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/RD05ih6VBbV4KBsk-3QmN"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "e9af24d8-053d-4653-9c68-be42a848609b",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4642557175",
+      "timeSpentVideo": "567482512",
+      "submissions": 22022,
+      "submissionsCorrect": 13620,
+      "questions": 12,
+      "accuracy": 0.6184724366542549,
+      "difficulty": 0.6320631046017539
+    }
+  },
+  "explanation": {
+    "id": "fa87d85c-df45-4c52-b16a-16fb5ad40ab8",
+    "body": null,
+    "questionId": "d30ba47f-1fc0-48ea-8a1a-f471b35cf2c2",
+    "resources": [
+      {
+        "id": "cc1c4e36-ff6e-4f04-8664-0a3228e1a7e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=-2v2kQnC1iA&t=223s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fa87d85c-df45-4c52-b16a-16fb5ad40ab8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    },
+    {
+      "id": "518d7710-468f-4482-a18e-00c07665b3b0",
+      "name": "Integration of Trigonometric Function",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14052004562",
+        "timeSpentVideo": "815295856",
+        "submissions": 32440,
+        "submissionsCorrect": 20084,
+        "questions": 11,
+        "accuracy": 0.6191122071516646,
+        "difficulty": 0.6312538414259373
+      }
+    },
+    {
+      "id": "b9a0c804-dde8-4109-9dbe-94271ae0c7de",
+      "name": "Area Between Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10742267097",
+        "timeSpentVideo": "327031785",
+        "submissions": 22024,
+        "submissionsCorrect": 15078,
+        "questions": 6,
+        "accuracy": 0.6846167816926989,
+        "difficulty": 0.5662176821551257
+      }
+    }
+  ],
+  "children": []
+}

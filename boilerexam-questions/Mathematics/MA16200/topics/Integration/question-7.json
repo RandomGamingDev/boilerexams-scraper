@@ -1,0 +1,158 @@
+{
+  "id": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\int_{0}^{1} \\frac{(x+2)}{(x+1)(x+3)} dx$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "0f8b40df-d424-407b-b13a-6e2af8c90bd4",
+        "index": 0,
+        "body": "$\\frac{1}{2} \\ln \\left(\\frac{8}{3}\\right)$",
+        "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+        "stats": {
+          "count": 1965
+        },
+        "resources": []
+      },
+      {
+        "id": "54516af6-2e58-452a-a229-e3cd5e3d5213",
+        "index": 1,
+        "body": "$\\ln (2 \\sqrt{3})$",
+        "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+        "stats": {
+          "count": 74
+        },
+        "resources": []
+      },
+      {
+        "id": "91c19a0a-13d6-4688-9565-9def3ec6c38b",
+        "index": 2,
+        "body": "$\\ln \\left(\\frac{2}{\\sqrt{3}}\\right)$",
+        "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "0220d0dc-44d2-45ec-acb7-442318532bba",
+        "index": 3,
+        "body": "$\\frac{1}{2} \\ln (8 \\sqrt{3})$",
+        "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "742d3aa9-aa64-42bd-ba95-3e432af03e07",
+        "index": 4,
+        "body": "$\\ln \\left(\\frac{4}{\\sqrt{3}}\\right)$",
+        "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "700483292",
+    "timeSpentVideo": "48593533",
+    "submissions": 2831,
+    "submissionsCorrect": 1965,
+    "accuracy": 0.694101024373013,
+    "difficulty": 0.5625213237802797
+  },
+  "resources": [],
+  "exam": {
+    "id": "38476f8f-eb9f-43a4-a83c-592ccbc8b33f",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7340671717",
+      "timeSpentVideo": "804826486",
+      "submissions": 39511,
+      "submissionsCorrect": 24592,
+      "questions": 12,
+      "accuracy": 0.6224089494064944,
+      "difficulty": 0.6279000782610891
+    }
+  },
+  "explanation": {
+    "id": "99da774c-07da-4319-9dec-b130f40c5c14",
+    "body": "",
+    "questionId": "1d6ac16f-7bf8-48ae-b3e2-ff8e532936a6",
+    "resources": [
+      {
+        "id": "196c8339-4754-479f-a121-a4923e10279a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/22eaDxN5d28?t=1238\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "99da774c-07da-4319-9dec-b130f40c5c14",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182485144",
+        "timeSpentVideo": "951958617",
+        "submissions": 36369,
+        "submissionsCorrect": 22499,
+        "questions": 15,
+        "accuracy": 0.6186312518903462,
+        "difficulty": 0.6316940415147111
+      }
+    },
+    {
+      "id": "4e93101a-552c-4448-8f8d-c83a18adbcec",
+      "name": "Integration",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28513130428",
+        "timeSpentVideo": "1794352402",
+        "submissions": 66642,
+        "submissionsCorrect": 39686,
+        "questions": 27,
+        "accuracy": 0.5955103388253654,
+        "difficulty": 0.6546327649755777
+      }
+    }
+  ],
+  "children": []
+}

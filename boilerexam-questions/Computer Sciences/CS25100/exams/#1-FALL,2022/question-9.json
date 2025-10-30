@@ -1,0 +1,133 @@
+{
+  "id": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $Q$ be an empty queue implemented using a circular array (as described in class) of capacity $m = 4$. $Q$ starts with $f$ (front) and $b$ (back) indices at index $0$ of the array. We run the following sequence of operations on Q: \\texttt{enqueue(A), enqueue(B), enqueue(C), dequeue(), dequeue(), enqueue(D), enqueue(E), dequeue(), enqueue(F)}.\n\n(b) Can we change the order of the three dequeue calls such that $f=2$ and $b=0$ after finishing the sequence of operations on $Q$? Explain your answer.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "54c274db-f24a-4010-826d-f5b2ccddd29e",
+        "index": 0,
+        "body": "Yes. Placing the three dequeue calls at the very end of the calls will cause $b$ to not move at all.",
+        "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "65ba47f8-7081-49f1-9f19-c30850c82265",
+        "index": 1,
+        "body": "Yes. $f$ will always be at $2$ and $b$ will always be at $0$, no matter the order in which the operations are ran.",
+        "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "b5e0cb0b-2428-4b9d-a6d6-2bcb2cafe542",
+        "index": 2,
+        "body": "No. One enqueue call will always move $b$ forward one space, and one dequeue call will always move $f$ forward one space, so changing the order won't affect the indices.",
+        "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+        "stats": {
+          "count": 970
+        },
+        "resources": []
+      },
+      {
+        "id": "dd8c64e7-5c38-48f8-a973-f28c1cc17995",
+        "index": 3,
+        "body": "No. To have $b$ end at a different spot, a dequeue call would have to be made when the queue is empty, which isn't allowed.",
+        "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+        "stats": {
+          "count": 167
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": "",
+  "examId": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "284699925",
+    "timeSpentVideo": "17667250",
+    "submissions": 1452,
+    "submissionsCorrect": 970,
+    "accuracy": 0.6680440771349863,
+    "difficulty": 0.5927835051546392
+  },
+  "resources": [],
+  "exam": {
+    "id": "b3819e51-6c1a-4a7f-9c5e-51dcc563d260",
+    "number": 1,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3641480364",
+      "timeSpentVideo": "361200476",
+      "submissions": 24836,
+      "submissionsCorrect": 16743,
+      "questions": 17,
+      "accuracy": 0.6741423739732646,
+      "difficulty": 0.5765559833172923
+    }
+  },
+  "explanation": {
+    "id": "fe1a8134-0fce-4b52-ae81-972080ef1153",
+    "body": "",
+    "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
+    "resources": [
+      {
+        "id": "3d2f8799-62e1-4ee5-a030-e8a34f30efcc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/D5lrpFHgczQ?t=1342"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fe1a8134-0fce-4b52-ae81-972080ef1153",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6656b0cd-1337-436c-98ef-701056b4d3dd",
+      "name": "Queues",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4100813051",
+        "timeSpentVideo": "47682286",
+        "submissions": 9433,
+        "submissionsCorrect": 6742,
+        "questions": 8,
+        "accuracy": 0.7147249019399978,
+        "difficulty": 0.5375275359278296
+      }
+    }
+  ],
+  "children": []
+}

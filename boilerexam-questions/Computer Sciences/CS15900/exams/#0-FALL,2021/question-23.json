@@ -1,0 +1,148 @@
+{
+  "id": "257c587c-3c66-4a43-a73f-03b77497a182",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding solutions to repetition problems is TRUE?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "65efce6f-9949-4517-b510-a23328043de8",
+        "index": 0,
+        "body": "Recursive solutions should be reserved for counter-controlled processes only.",
+        "questionId": "257c587c-3c66-4a43-a73f-03b77497a182",
+        "stats": {
+          "count": 3657
+        },
+        "resources": []
+      },
+      {
+        "id": "8977526f-090c-432e-be38-f62f1feffba9",
+        "index": 1,
+        "body": "A logical error in a RECURSIVE solution ALWAYS causes the program to perform the same action(s) forever.",
+        "questionId": "257c587c-3c66-4a43-a73f-03b77497a182",
+        "stats": {
+          "count": 565
+        },
+        "resources": []
+      },
+      {
+        "id": "d4c701fe-de63-41c5-aecd-925a65ab3c65",
+        "index": 2,
+        "body": "A logical error in an ITERATIVE solution ALWAYS causes the program to exhaust its memory resources.",
+        "questionId": "257c587c-3c66-4a43-a73f-03b77497a182",
+        "stats": {
+          "count": 405
+        },
+        "resources": []
+      },
+      {
+        "id": "b0d4f711-9167-487a-b183-7122da6a10c6",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "257c587c-3c66-4a43-a73f-03b77497a182",
+        "stats": {
+          "count": 501
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "491886154",
+    "timeSpentVideo": "0",
+    "submissions": 5173,
+    "submissionsCorrect": 3657,
+    "accuracy": 0.7069398801469167,
+    "difficulty": 0.5469846387255831
+  },
+  "resources": [],
+  "exam": {
+    "id": "6cf4feb3-828c-4ba5-b5f3-a8980e25941f",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "22974939003",
+      "timeSpentVideo": "0",
+      "submissions": 183610,
+      "submissionsCorrect": 126491,
+      "questions": 49,
+      "accuracy": 0.6889112793420837,
+      "difficulty": 0.561191551902455
+    }
+  },
+  "explanation": {
+    "id": "206982a3-08fd-4ce7-a445-8e8f60c02194",
+    "body": "",
+    "questionId": "257c587c-3c66-4a43-a73f-03b77497a182",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "159fdad5-f22e-4728-bac7-6952d8c569ac",
+      "name": "Recursion",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7354252330",
+        "timeSpentVideo": "203712680",
+        "submissions": 24127,
+        "submissionsCorrect": 15897,
+        "questions": 9,
+        "accuracy": 0.6588883823102748,
+        "difficulty": 0.5917674495397697
+      }
+    },
+    {
+      "id": "61027b40-92c5-41ff-9797-f6d00b846de6",
+      "name": "Loops",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "40823748442",
+        "timeSpentVideo": "841269497",
+        "submissions": 136536,
+        "submissionsCorrect": 89623,
+        "questions": 59,
+        "accuracy": 0.65640563660866,
+        "difficulty": 0.5937088322257678
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

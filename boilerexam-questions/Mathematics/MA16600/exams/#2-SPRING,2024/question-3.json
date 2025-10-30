@@ -1,0 +1,158 @@
+{
+  "id": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $$\\int_0^{\\frac{\\pi}{2}} \\cos^4(2x)dx.$$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "fa8812bc-d768-4eeb-8dbd-866abba346ea",
+        "index": 0,
+        "body": "$\\pi/6$",
+        "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "4dcfea85-bebb-457c-8802-b70bf1614f8e",
+        "index": 1,
+        "body": "$\\pi/5$",
+        "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "cb9d1d36-a482-48cc-ac8e-a067fb18ffbe",
+        "index": 2,
+        "body": "$2\\pi/9$",
+        "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "df076395-7e55-471c-adcc-cd33345b1190",
+        "index": 3,
+        "body": "$3\\pi/16$",
+        "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+        "stats": {
+          "count": 159
+        },
+        "resources": []
+      },
+      {
+        "id": "94ec85d5-3253-400b-9ab4-ff6caad5748f",
+        "index": 4,
+        "body": "$5\\pi/8$",
+        "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "89310115",
+    "timeSpentVideo": "11356975",
+    "submissions": 316,
+    "submissionsCorrect": 159,
+    "accuracy": 0.5031645569620253,
+    "difficulty": 0.7475961538461539
+  },
+  "resources": [],
+  "exam": {
+    "id": "8e0d212a-5f09-452c-8c9f-9a87d61ff386",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "783101227",
+      "timeSpentVideo": "99624830",
+      "submissions": 3807,
+      "submissionsCorrect": 1978,
+      "questions": 12,
+      "accuracy": 0.5195692146046756,
+      "difficulty": 0.7309316611210648
+    }
+  },
+  "explanation": {
+    "id": "c1bb25e6-262b-438e-8e10-177a815731b6",
+    "body": "",
+    "questionId": "49cc7b94-f70f-4210-84b6-6365c4d50c3e",
+    "resources": [
+      {
+        "id": "9d5cb88f-9621-4798-bd3a-b93e48e8ffd2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/av3qsbj9J0c?si=o85t1b_tWSR9LWwW&t=722"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "c1bb25e6-262b-438e-8e10-177a815731b6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "909732742",
+        "timeSpentVideo": "64360740",
+        "submissions": 2111,
+        "submissionsCorrect": 1178,
+        "questions": 8,
+        "accuracy": 0.5580293699668404,
+        "difficulty": 0.6945952057892356
+      }
+    }
+  ],
+  "children": []
+}

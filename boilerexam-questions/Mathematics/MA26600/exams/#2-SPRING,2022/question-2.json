@@ -1,0 +1,143 @@
+{
+  "id": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A particular solution $y_{p}$ of the differential equation:\n\n\\[\ny^{(3)}-2 y^{\\prime \\prime}+y^{\\prime}=1+x e^{x}\n\\]\nis of the form",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d3a458c6-e5b7-4040-89c2-5e222e0adf7c",
+        "index": 0,
+        "body": "$y_{p}(x)=A x+B x^{2} e^{x}+C x^{3} e^{x}$",
+        "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+        "stats": {
+          "count": 1432
+        },
+        "resources": []
+      },
+      {
+        "id": "f9ac7778-e041-4696-8f9d-804363af97d7",
+        "index": 1,
+        "body": "$y_{p}(x)=A x+B e^{x}+C x e^{x}$",
+        "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "87162c5b-50be-4cc8-8cdc-1d07f181ff8d",
+        "index": 2,
+        "body": "$y_{p}(x)=A+B x^{2} e^{x}+C x^{3} e^{x}$",
+        "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+        "stats": {
+          "count": 254
+        },
+        "resources": []
+      },
+      {
+        "id": "02bdca55-32da-4882-91a6-e258395d4483",
+        "index": 3,
+        "body": "$y_{p}(x)=A+B e^{x}+C x e^{x}$",
+        "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+        "stats": {
+          "count": 272
+        },
+        "resources": []
+      },
+      {
+        "id": "db6d4595-e8b0-4c59-8c36-eea7c5f45195",
+        "index": 4,
+        "body": "$y_{p}(x)=A x+B x e^{x}+C x^{2} e^{x}$",
+        "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+        "stats": {
+          "count": 385
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "470622041",
+    "timeSpentVideo": "52570858",
+    "submissions": 2694,
+    "submissionsCorrect": 1432,
+    "accuracy": 0.5315515961395694,
+    "difficulty": 0.7195776664280601
+  },
+  "resources": [],
+  "exam": {
+    "id": "946063f6-f626-40b1-aaf6-9cbb14f9d6c2",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2952599483",
+      "timeSpentVideo": "291927434",
+      "submissions": 15841,
+      "submissionsCorrect": 10121,
+      "questions": 10,
+      "accuracy": 0.6389116848683796,
+      "difficulty": 0.6119597264914372
+    }
+  },
+  "explanation": {
+    "id": "9925a33d-cc21-42f5-9121-b25b14d00d5d",
+    "body": "",
+    "questionId": "fd14e1b4-b18c-41ba-a466-52998223ce1d",
+    "resources": [
+      {
+        "id": "eadcfaf8-a4e6-418a-a06a-6455fa6b16b7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Mzmq6p1n4Vk?si=-nm-jo_c9iB0_nvq&t=177"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9925a33d-cc21-42f5-9121-b25b14d00d5d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0a9c6145-c431-4d0f-8123-587e0abb9303",
+      "name": "Undetermined Coefficients",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "8547117924",
+        "timeSpentVideo": "804599477",
+        "submissions": 16188,
+        "submissionsCorrect": 8987,
+        "questions": 16,
+        "accuracy": 0.5551643192488263,
+        "difficulty": 0.6951743614931237
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,157 @@
+{
+  "id": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem\n\\[\n    \\begin{cases}\n        x'(t) = 6x(t) - 3y(t) \\\\\n        y'(t) = 2x(t) + y(t)\n    \\end{cases}\n\\]\nwhere $x(0)=5$ and $y(0)=3$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "796c9c33-7877-4f29-aeee-338ce67db226",
+        "index": 0,
+        "body": "$x(t) = 6e^{-4t} - e^{-3t} \\text{ and } y(t) = 4e^{-4t} - e^{-3t}$",
+        "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "9f85f023-fbec-4b3e-9010-16bb2390d3f8",
+        "index": 1,
+        "body": "$x(t) = \\frac{24}{5}e^{4t} + \\frac{1}{5}e^{3t} \\text{ and } y(t) = \\frac{16}{5}e^{4t} - \\frac{1}{5}e^{3t}$",
+        "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "9884f8f2-d965-4998-bcb6-396e96489b70",
+        "index": 2,
+        "body": "$x(t) = 6e^{4t} - e^{3t} \\text{ and } y(t) = 4e^{4t} - e^{3t}$",
+        "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+        "stats": {
+          "count": 360
+        },
+        "resources": []
+      },
+      {
+        "id": "1698ae70-cec3-418b-beb4-ecea3f62eed7",
+        "index": 3,
+        "body": "$x(t) = \\frac{24}{5}e^{-4t} + \\frac{1}{5}e^{-3t} \\text{ and } y(t) = \\frac{16}{5}e^{-4t} - \\frac{1}{5}e^{-3t}$",
+        "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "4dbef0e6-169c-4edf-9368-3f98482d801e",
+        "index": 4,
+        "body": "$x(t) = 16e^{4t} - 11e^{3t} \\text{ and } y(t) = -24e^{4t} + 11e^{3t}$",
+        "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "198870915",
+    "timeSpentVideo": "18045861",
+    "submissions": 638,
+    "submissionsCorrect": 360,
+    "accuracy": 0.5642633228840125,
+    "difficulty": 0.6944444444444444
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "10711ce1-4198-4e15-8b58-32b50922fab6",
+    "body": null,
+    "questionId": "f28952a2-3d0e-4b45-8b97-74c4269ec018",
+    "resources": [
+      {
+        "id": "3afe4d8e-78d2-4c5c-8f39-eec26c2e7cad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=lpmM4Apbkc6bqKys&t=2898"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "10711ce1-4198-4e15-8b58-32b50922fab6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "db595139-4e64-4600-a949-d0852a9eced6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=QpiVegmplNrtMY5F&t=2278"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "10711ce1-4198-4e15-8b58-32b50922fab6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8a469da1-2abb-4afc-a453-d3d3d7225815",
+      "name": "System of Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2751687092",
+        "timeSpentVideo": "157437810",
+        "submissions": 6359,
+        "submissionsCorrect": 4496,
+        "questions": 9,
+        "accuracy": 0.7070294071394874,
+        "difficulty": 0.5461758786189813
+      }
+    }
+  ],
+  "children": []
+}

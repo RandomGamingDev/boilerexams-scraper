@@ -1,0 +1,143 @@
+{
+  "id": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral $$\\int_{0}^{\\sqrt{2}} \\int_{-3}^{3} \\frac{x y^{2}}{1+x^{2}} d y \\,d x$$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "8de6fe0f-8edf-4df2-86ec-37a80b49f387",
+        "index": 0,
+        "body": "$6 \\ln 3$",
+        "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "f970057e-213b-4340-92c8-1ce08bd0f454",
+        "index": 1,
+        "body": "$9 \\ln 3$",
+        "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+        "stats": {
+          "count": 3526
+        },
+        "resources": []
+      },
+      {
+        "id": "61514008-4710-4206-87ac-8381642afd1a",
+        "index": 2,
+        "body": "$12 \\ln 3$",
+        "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "5bed316d-bff3-42fe-9aba-a1db74c8b4e6",
+        "index": 3,
+        "body": "$18 \\ln 3$",
+        "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+        "stats": {
+          "count": 349
+        },
+        "resources": []
+      },
+      {
+        "id": "beca7ef2-00ab-4da4-b4cc-b623030d9d7b",
+        "index": 4,
+        "body": "$27 \\ln 3$",
+        "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+        "stats": {
+          "count": 112
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "915030876",
+    "timeSpentVideo": "55657685",
+    "submissions": 4563,
+    "submissionsCorrect": 3526,
+    "accuracy": 0.7727372342756959,
+    "difficulty": 0.48311173064550716
+  },
+  "resources": [],
+  "exam": {
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "24811327666",
+      "timeSpentVideo": "4672315561",
+      "submissions": 119796,
+      "submissionsCorrect": 69051,
+      "questions": 20,
+      "accuracy": 0.5764048883101273,
+      "difficulty": 0.6736588376593047
+    }
+  },
+  "explanation": {
+    "id": "3e0f7f4f-7095-4b90-819a-f3aa2bd91b94",
+    "body": "",
+    "questionId": "b3cd6c52-e89f-4fbc-9253-f5b077ae8765",
+    "resources": [
+      {
+        "id": "f21d2cb8-d799-4072-8618-421d90a2629a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/6mfaWmnwZAM?si=W3q-MQU7XZHP2n0K&t=3266"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3e0f7f4f-7095-4b90-819a-f3aa2bd91b94",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    }
+  ],
+  "children": []
+}

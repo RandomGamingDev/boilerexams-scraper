@@ -1,0 +1,143 @@
+{
+  "id": "b82a651e-1a68-45d7-87c1-726790281095",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The following function has a partial fraction decomposition:\n\n\n\\[\n\\frac{x^{3}-14 x^{2}-3 x+2}{x^{4}-x^{2}}=\\frac{A}{x}+\\frac{B}{x^{2}}+\\frac{C}{x-1}+\\frac{D}{x+1}\n\\]\n\nFind $D$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "31dc61ea-5cdd-430e-b6a5-515fd1e088b1",
+        "index": 0,
+        "body": "$5$",
+        "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+        "stats": {
+          "count": 1544
+        },
+        "resources": []
+      },
+      {
+        "id": "6a75626d-d697-4915-b042-aa2cadccf407",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+        "stats": {
+          "count": 87
+        },
+        "resources": []
+      },
+      {
+        "id": "ba571936-4c23-4dd0-ab33-a9ff486ec13f",
+        "index": 2,
+        "body": "$-7$",
+        "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "d34534ea-3c94-466b-9864-4764767b74bd",
+        "index": 3,
+        "body": "$-2$",
+        "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "c095c38d-75f7-404a-888e-2cc2d8fc3061",
+        "index": 4,
+        "body": "$8$",
+        "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "596518727",
+    "timeSpentVideo": "49413422",
+    "submissions": 2477,
+    "submissionsCorrect": 1544,
+    "accuracy": 0.6233346790472346,
+    "difficulty": 0.6314512999611952
+  },
+  "resources": [],
+  "exam": {
+    "id": "f3bb06b7-215b-4cde-8594-e1e14054dade",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8244103510",
+      "timeSpentVideo": "1068074029",
+      "submissions": 46306,
+      "submissionsCorrect": 27622,
+      "questions": 12,
+      "accuracy": 0.5965101714680603,
+      "difficulty": 0.6536977976985735
+    }
+  },
+  "explanation": {
+    "id": "e0ac6dd6-ae39-4529-b260-092591a29419",
+    "body": "- Video messes up when finding B value. It should be -2. But, this B value won't matter when it comes to solving the value for D. When you plug in -1 for x on both sides, this would make every term gone except for D and its coefficient. ",
+    "questionId": "b82a651e-1a68-45d7-87c1-726790281095",
+    "resources": [
+      {
+        "id": "5c902f04-0e64-48c8-b9bd-4f6e5a25092d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ezJ9t_oy2s0?t=1167\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e0ac6dd6-ae39-4529-b260-092591a29419",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14182485144",
+        "timeSpentVideo": "951958617",
+        "submissions": 36369,
+        "submissionsCorrect": 22499,
+        "questions": 15,
+        "accuracy": 0.6186312518903462,
+        "difficulty": 0.6316940415147111
+      }
+    }
+  ],
+  "children": []
+}

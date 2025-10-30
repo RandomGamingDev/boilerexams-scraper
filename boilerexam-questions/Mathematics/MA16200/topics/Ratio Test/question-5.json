@@ -1,0 +1,168 @@
+{
+  "id": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The Ratio Test for the series\n\n\n\\[\n\\sum_{k=1}^{\\infty} \\frac{(k !)^{2}}{(2 k) !}\n\\]\n\ngives a resulting limit of",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "63076488-2cb8-47e0-adb5-2caa69ced68a",
+        "index": 0,
+        "body": "$r=1$ and the series diverges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "6aac26c7-089b-4fc9-abca-573acb77821a",
+        "index": 1,
+        "body": "$r<1$ and therefore the series converges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 2704
+        },
+        "resources": []
+      },
+      {
+        "id": "0b24cb42-2549-4f79-b2b6-6a59546568eb",
+        "index": 2,
+        "body": "$r>1$ and therefore the series converges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "d3c7dd21-608a-45ae-a4e3-de69ec699aa4",
+        "index": 3,
+        "body": "$r<1$ and therefore the series diverges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 143
+        },
+        "resources": []
+      },
+      {
+        "id": "8777afb7-9945-4da1-a511-5295b99a786c",
+        "index": 4,
+        "body": "$r>1$ and therefore the series diverges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 242
+        },
+        "resources": []
+      },
+      {
+        "id": "1903802e-ff2e-4b1c-aff8-9df7d0aaba1b",
+        "index": 5,
+        "body": "$r=1$ and the series converges.",
+        "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": "",
+  "examId": "7036f41b-5805-452b-baaf-0193db73eeda",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "531915210",
+    "timeSpentVideo": "101944670",
+    "submissions": 3517,
+    "submissionsCorrect": 2704,
+    "accuracy": 0.7688370770543076,
+    "difficulty": 0.4885955211501244
+  },
+  "resources": [],
+  "exam": {
+    "id": "7036f41b-5805-452b-baaf-0193db73eeda",
+    "number": 3,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5928747496",
+      "timeSpentVideo": "1683952161",
+      "submissions": 36701,
+      "submissionsCorrect": 22037,
+      "questions": 12,
+      "accuracy": 0.6004468543091469,
+      "difficulty": 0.6498260916822912
+    }
+  },
+  "explanation": {
+    "id": "42d3a5c2-e846-4d66-905f-cb942dfbacba",
+    "body": "",
+    "questionId": "d0854dce-a15a-4383-8587-d8b6fea917a7",
+    "resources": [
+      {
+        "id": "8db52520-75d9-46f1-af7e-9bccab90ff80",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ivT2sj6CbnA?t=1019\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "42d3a5c2-e846-4d66-905f-cb942dfbacba",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2ef692fd-0289-4314-8253-fee0743589a9",
+      "name": "Ratio Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6748751242",
+        "timeSpentVideo": "951842057",
+        "submissions": 20366,
+        "submissionsCorrect": 13843,
+        "questions": 6,
+        "accuracy": 0.6797112835117353,
+        "difficulty": 0.571166813251246
+      }
+    },
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266771297",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102215,
+        "submissionsCorrect": 63359,
+        "questions": 31,
+        "accuracy": 0.6198600988113291,
+        "difficulty": 0.630257049308508
+      }
+    }
+  ],
+  "children": []
+}

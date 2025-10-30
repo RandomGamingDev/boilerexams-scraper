@@ -1,0 +1,128 @@
+{
+  "id": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that the general solution of the homogeneous equation\n\n\n\\[\ny^{(4)}+3 y^{(3)}+3 y^{\\prime \\prime}+y^{\\prime}=0 \\text { is } y_{h}(x)=C_{1}+C_{2} e^{-x}+C_{3} x e^{-x}+C_{4} x^{2} e^{-x}\n\\]\n\nthe general solution to the corresponding nonhomogeneous equation\n\n\\[\ny^{(4)}+3 y^{(3)}+3 y^{\\prime \\prime}+y^{\\prime}=6 x \\cos x+6 x e^{-x}\n\\]\n\nlooks like:",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "8aa37311-724b-43d1-bfaa-96c29c2fb892",
+        "index": 0,
+        "body": "$y(x)=y_{h}(x)+(A x+B) \\cos x+(C x+D) \\sin x+x^{3}(E x+F) e^{-x}$",
+        "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+        "stats": {
+          "count": 229
+        },
+        "resources": []
+      },
+      {
+        "id": "17c4d814-4d15-489a-bd50-d5261bba3ca4",
+        "index": 1,
+        "body": "$y(x)=y_h(x) + (Ax+B)\\cos x+(C x+D) \\sin x+x^{2}(E x+F) e^{-x}$",
+        "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "5c36a166-cf0f-48ae-9622-bf38e5d13043",
+        "index": 2,
+        "body": "$y(x)=y_{h}(x)+(A x+B) \\cos x+(C x+D) \\sin x+x(E x+F) e^{-x}$",
+        "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "9699f2ff-a59f-471b-8e09-436192dfb003",
+        "index": 3,
+        "body": "$y(x)=y_{h}(x)+x(A x+B) \\cos x+x(D x+E) \\sin x+x^{4}(F x+G) e^{-x}$",
+        "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "882eb10a-a9ee-4854-9944-afac6284d8ad",
+        "index": 4,
+        "body": "$y(x)=y_{h}(x)+x(A x+B) \\cos x+x(C x+D) \\sin x+x^{3}(E x+F) e^{-x}$",
+        "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "58373738",
+    "timeSpentVideo": "0",
+    "submissions": 324,
+    "submissionsCorrect": 229,
+    "accuracy": 0.7067901234567902,
+    "difficulty": 0.5919811320754716
+  },
+  "resources": [],
+  "exam": {
+    "id": "d7bf3862-c28f-4b8a-b631-b5d700125392",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1325808819",
+      "timeSpentVideo": "0",
+      "submissions": 5865,
+      "submissionsCorrect": 4292,
+      "questions": 20,
+      "accuracy": 0.7317988064791134,
+      "difficulty": 0.5220871751886001
+    }
+  },
+  "explanation": {
+    "id": "b25371cc-4967-474d-9c61-69a4a1bd90f9",
+    "body": "",
+    "questionId": "767a184f-00f5-4872-b170-a74f6d8ac7a3",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "041a4bc4-e76d-4d3e-98c1-1db1398ffae8",
+      "name": "Undetermined Coefficients",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "798212898",
+        "timeSpentVideo": "0",
+        "submissions": 2226,
+        "submissionsCorrect": 1419,
+        "questions": 3,
+        "accuracy": 0.637466307277628,
+        "difficulty": 0.6184436801375752
+      }
+    }
+  ],
+  "children": []
+}

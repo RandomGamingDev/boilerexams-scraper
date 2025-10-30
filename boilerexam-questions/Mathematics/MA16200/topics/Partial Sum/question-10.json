@@ -1,0 +1,153 @@
+{
+  "id": "ce7338a6-c02c-44b7-b960-710be2e21586",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a formula for the $n$th partial sum,\n\n\n\\[\nS_{n}=\\sum_{k=1}^{n} \\frac{1}{k^{2}+5 k+6}\n\\]\n\nHint: partial fractions",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "a9585728-901d-46cc-8ddd-e2712a9c0b41",
+        "index": 0,
+        "body": "$S_{n}=\\frac{5}{12}-\\frac{1}{n+2}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 81
+        },
+        "resources": []
+      },
+      {
+        "id": "43a77897-15b7-41d6-b0e2-5ab3453a440c",
+        "index": 1,
+        "body": "$S_{n}=\\frac{1}{30}+\\frac{n}{20}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "57475acd-a590-4bd7-b0f7-1c59733e8246",
+        "index": 2,
+        "body": "$S_{n}=\\frac{1}{4}-\\frac{1}{n+2}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "3378e454-16e9-415b-9a34-79fd171a97e6",
+        "index": 3,
+        "body": "$S_{n}=\\frac{1}{12}+\\frac{1}{n+2}-\\frac{1}{n+3}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 183
+        },
+        "resources": []
+      },
+      {
+        "id": "bba90b8d-ed69-43e8-8855-f93e4b6ffcf1",
+        "index": 4,
+        "body": "$S_{n}=\\frac{1}{3}-\\frac{1}{n+3}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 1443
+        },
+        "resources": []
+      },
+      {
+        "id": "6d8a0559-b0cf-4240-af62-cafab8199034",
+        "index": 5,
+        "body": "$S_{n}=\\frac{1}{n+2}-\\frac{1}{n+3}$",
+        "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+        "stats": {
+          "count": 415
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "7036f41b-5805-452b-baaf-0193db73eeda",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "406436686",
+    "timeSpentVideo": "155645360",
+    "submissions": 2506,
+    "submissionsCorrect": 1443,
+    "accuracy": 0.5758180367118915,
+    "difficulty": 0.6770913277052955
+  },
+  "resources": [],
+  "exam": {
+    "id": "7036f41b-5805-452b-baaf-0193db73eeda",
+    "number": 3,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5928747496",
+      "timeSpentVideo": "1683952161",
+      "submissions": 36701,
+      "submissionsCorrect": 22037,
+      "questions": 12,
+      "accuracy": 0.6004468543091469,
+      "difficulty": 0.6498260916822912
+    }
+  },
+  "explanation": {
+    "id": "bff4c100-7b1e-4f91-8f90-0401d59e8b9a",
+    "body": "",
+    "questionId": "ce7338a6-c02c-44b7-b960-710be2e21586",
+    "resources": [
+      {
+        "id": "e3f4ce14-3864-41db-a231-d5af7932a077",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ivT2sj6CbnA?t=1801\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bff4c100-7b1e-4f91-8f90-0401d59e8b9a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c4cccfce-11ff-4535-bf68-50249048b8f1",
+      "name": "Partial Sum",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1132114342",
+        "timeSpentVideo": "164687115",
+        "submissions": 2507,
+        "submissionsCorrect": 1443,
+        "questions": 1,
+        "accuracy": 0.5755883526126845,
+        "difficulty": 0.6773110855389336
+      }
+    }
+  ],
+  "children": []
+}

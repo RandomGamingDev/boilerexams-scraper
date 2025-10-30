@@ -1,0 +1,158 @@
+{
+  "id": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The double integral $\\displaystyle \\int\\limits_{-1}^{1} \\int\\limits_{0}^{\\sqrt{1-x^{2}}} y^{2}\\left(x^{2}+y^{2}\\right)^{3} \\, d y \\, d x$ when converted to polar coordinates becomes",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "178fb6e8-c672-4916-8415-aca2b6101739",
+        "index": 0,
+        "body": "$\\displaystyle \\int_{0}^{\\pi} \\int_{0}^{1} r^{9} \\sin ^{2} \\theta \\, d r \\, d \\theta$",
+        "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+        "stats": {
+          "count": 3886
+        },
+        "resources": []
+      },
+      {
+        "id": "3d491eb9-69d4-4e14-8052-586f95de92bd",
+        "index": 1,
+        "body": "$\\displaystyle \\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{1} r^{9} \\sin ^{2} \\theta \\, d r \\, d \\theta$",
+        "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+        "stats": {
+          "count": 327
+        },
+        "resources": []
+      },
+      {
+        "id": "aa053bb1-4feb-4904-a069-63d8cc508452",
+        "index": 2,
+        "body": "$\\displaystyle \\int_{0}^{\\pi} \\int_{0}^{1} r^{8} \\sin \\theta \\, d r \\, d \\theta$",
+        "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+        "stats": {
+          "count": 310
+        },
+        "resources": []
+      },
+      {
+        "id": "b08a54ab-5def-4005-9a77-d9a624803bda",
+        "index": 3,
+        "body": "$\\displaystyle \\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{1} r^{8} \\sin \\theta \\, d r \\, d \\theta$",
+        "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "61a0dd78-c0e4-4ba9-a6b8-9fc4a9834ac8",
+        "index": 4,
+        "body": "$\\displaystyle \\int_{0}^{\\frac{\\pi}{2}} \\int_{0}^{1} r^{8} \\sin ^{2} \\theta \\, d r \\, d \\theta$",
+        "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+        "stats": {
+          "count": 341
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "661366660",
+    "timeSpentVideo": "36893736",
+    "submissions": 5054,
+    "submissionsCorrect": 3886,
+    "accuracy": 0.7688959240205777,
+    "difficulty": 0.4863213038416764
+  },
+  "resources": [],
+  "exam": {
+    "id": "a7d7928b-5a0e-40be-8309-ce11e5a7ee70",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "20722638482",
+      "timeSpentVideo": "4227663355",
+      "submissions": 115094,
+      "submissionsCorrect": 70402,
+      "questions": 20,
+      "accuracy": 0.6116913131874815,
+      "difficulty": 0.6384056461274025
+    }
+  },
+  "explanation": {
+    "id": "9a7d64a0-e45e-475a-a5d8-c5ed48023cc0",
+    "body": "",
+    "questionId": "62caca9d-dfd6-4418-b89d-64dfec34e50a",
+    "resources": [
+      {
+        "id": "dcb567cd-535c-4dc4-81f2-dbe31b8c74e5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/FlTQB8-xZos?feature=shared&t=1384"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9a7d64a0-e45e-475a-a5d8-c5ed48023cc0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18078708147",
+        "timeSpentVideo": "946931568",
+        "submissions": 46119,
+        "submissionsCorrect": 31643,
+        "questions": 11,
+        "accuracy": 0.686116351178473,
+        "difficulty": 0.5642863324606764
+      }
+    },
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14014797061",
+        "timeSpentVideo": "1388293871",
+        "submissions": 37815,
+        "submissionsCorrect": 23859,
+        "questions": 9,
+        "accuracy": 0.6309401031336771,
+        "difficulty": 0.6194052485823552
+      }
+    }
+  ],
+  "children": []
+}

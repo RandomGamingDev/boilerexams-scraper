@@ -1,0 +1,133 @@
+{
+  "id": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the result of the modulus operator is TRUE?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "8ec3f10b-eaf3-4b05-a656-f3e0040887f8",
+        "index": 0,
+        "body": "The possible result of the following for any non-negative integer x is 0 or 1: <font style=\"font-family:'Courier New'\">(x + 1) % x</font>",
+        "questionId": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+        "stats": {
+          "count": 993
+        },
+        "resources": []
+      },
+      {
+        "id": "1ca1061b-fd80-4c29-bc96-a98566637e53",
+        "index": 1,
+        "body": "The result of the following for any non-negative integer x is 1: <font style=\"font-family:'Courier New'\">(x + 2) % (x + 1)</font>",
+        "questionId": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+        "stats": {
+          "count": 1205
+        },
+        "resources": []
+      },
+      {
+        "id": "6dd5f62a-c206-4417-b829-9551ac25a2c1",
+        "index": 2,
+        "body": "The result of the following for any non-negative integer x is 0: <font style=\"font-family:'Courier New'\">1 - (x + 2) % (x + 1)</font>",
+        "questionId": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+        "stats": {
+          "count": 269
+        },
+        "resources": []
+      },
+      {
+        "id": "92e61ecb-c90e-4fb4-9053-f6f850b84c8f",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+        "stats": {
+          "count": 1983
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "489230098",
+    "timeSpentVideo": "28121653",
+    "submissions": 4630,
+    "submissionsCorrect": 1983,
+    "accuracy": 0.42829373650107994,
+    "difficulty": 0.8201902748414376
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "27321067-3099-4cd2-a577-e458bce175ef",
+    "body": "",
+    "questionId": "bb37dd9f-7cdd-44ad-bc54-6ab7da168c86",
+    "resources": [
+      {
+        "id": "43f95595-0a8b-4b35-a060-14ecba13e6d9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=TSBtXH4NSzK9Xo86&t=942"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "27321067-3099-4cd2-a577-e458bce175ef",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "36b2d3fd-ae6f-41b8-b72c-6c707b28daa8",
+      "name": "Modulus",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2568256807",
+        "timeSpentVideo": "31894298",
+        "submissions": 13086,
+        "submissionsCorrect": 8542,
+        "questions": 7,
+        "accuracy": 0.6527586733914107,
+        "difficulty": 0.598399817988776
+      }
+    }
+  ],
+  "children": []
+}

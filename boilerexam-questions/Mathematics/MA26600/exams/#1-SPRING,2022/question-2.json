@@ -1,0 +1,128 @@
+{
+  "id": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A tank contains $130$ Liters of water and $50$ grams of sugar. Water containing a sugar concentration of $4 e^{-t} \\mathrm{~g} / \\mathrm{L}$ flows into the tank at a rate of $3 \\mathrm{~L} / \\mathrm{min}$, and the mixture in the tank flows out at a rate of $4 \\mathrm{~L} / \\mathrm{min}$. Let $Q(t)$ be the amount of sugar (in grams) in the tank at time $t$ (in minutes). Which differential equation does $Q(t)$ satisfy?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "b829827f-e236-4788-bf44-58584a566b45",
+        "index": 0,
+        "body": "$\\frac{d Q}{d t}=12 e^{-t}-\\frac{4 Q}{130-t}$",
+        "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+        "stats": {
+          "count": 1874
+        },
+        "resources": []
+      },
+      {
+        "id": "8483e0a4-4cfc-476f-a4e3-0df5cc101d2b",
+        "index": 1,
+        "body": "$\\frac{d Q}{d t}=3 e^{-t}-\\frac{4 Q}{130-t}$",
+        "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "b7f0c4bc-65f1-4c59-bc7b-6ef4f5feb0fa",
+        "index": 2,
+        "body": "$\\frac{d Q}{d t}=12 e^{-t}-\\frac{4 Q}{130+t}$",
+        "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "3f59e572-9eb7-46d9-ba8a-c23faebbf484",
+        "index": 3,
+        "body": "$\\frac{d Q}{d t}=12 e^{-t}-\\frac{4 Q}{130}$",
+        "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+        "stats": {
+          "count": 109
+        },
+        "resources": []
+      },
+      {
+        "id": "76643f50-1b9a-48b0-97c0-341d3b666a4e",
+        "index": 4,
+        "body": "$\\frac{d Q}{d t}=4 e^{-t}-\\frac{Q}{50+t}$",
+        "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "37557567-8a85-44f8-a17f-f33e7ca60855",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "554839758",
+    "timeSpentVideo": "0",
+    "submissions": 2283,
+    "submissionsCorrect": 1874,
+    "accuracy": 0.8208497590889181,
+    "difficulty": 0.44261435165757446
+  },
+  "resources": [],
+  "exam": {
+    "id": "37557567-8a85-44f8-a17f-f33e7ca60855",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4210380123",
+      "timeSpentVideo": "0",
+      "submissions": 14075,
+      "submissionsCorrect": 10924,
+      "questions": 7,
+      "accuracy": 0.7761278863232682,
+      "difficulty": 0.4758201058201058
+    }
+  },
+  "explanation": {
+    "id": "9a59eb1d-4802-49a4-9f82-03000511c25d",
+    "body": "",
+    "questionId": "04f22352-41cc-4964-8a1b-c0e7ad94bf04",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "ba0fcd4d-36d8-44b1-8551-5425267b12fd",
+      "name": "Salt Tank Application",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4779265889",
+        "timeSpentVideo": "119327794",
+        "submissions": 9286,
+        "submissionsCorrect": 6809,
+        "questions": 7,
+        "accuracy": 0.7332543614042645,
+        "difficulty": 0.5192307692307693
+      }
+    }
+  ],
+  "children": []
+}

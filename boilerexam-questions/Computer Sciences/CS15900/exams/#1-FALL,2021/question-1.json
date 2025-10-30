@@ -1,0 +1,149 @@
+{
+  "id": "45969728-a501-4167-af6d-001bad83076b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following print statements when placed on line #20 in the program above would generate the output given as presented below?\n\n$\\texttt{-=-=-=-=-=-=-=-=-=-=-=-=-=-=-}$\n$\\texttt{Surface Area:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 314.16}$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ffe42fc4-4066-4713-8b5d-2169afb7f731",
+        "index": 0,
+        "body": "\\verb|printf(\"Surface Area:%10.2f\\n\", surfArea);|",
+        "questionId": "45969728-a501-4167-af6d-001bad83076b",
+        "stats": {
+          "count": 1174
+        },
+        "resources": []
+      },
+      {
+        "id": "2e774789-af24-4be2-adee-d9b4084cd59a",
+        "index": 1,
+        "body": "\\verb|printf(\"Surface Area:%16.2f\\n\", surfArea);|",
+        "questionId": "45969728-a501-4167-af6d-001bad83076b",
+        "stats": {
+          "count": 6795
+        },
+        "resources": []
+      },
+      {
+        "id": "ff7227b2-ab89-4b3e-bdfe-6570edd13fb6",
+        "index": 2,
+        "body": "\\verb|printf(\"Surface Area:%14.2f\\n\", surfArea);|",
+        "questionId": "45969728-a501-4167-af6d-001bad83076b",
+        "stats": {
+          "count": 634
+        },
+        "resources": []
+      },
+      {
+        "id": "03858c5e-fc4c-444b-acef-5d6b3a1ea52c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "45969728-a501-4167-af6d-001bad83076b",
+        "stats": {
+          "count": 323
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1200842901",
+    "timeSpentVideo": "66309316",
+    "submissions": 9110,
+    "submissionsCorrect": 6795,
+    "accuracy": 0.7458836443468716,
+    "difficulty": 0.506786102062975
+  },
+  "resources": [
+    {
+      "id": "e287fe63-0083-4441-8ab0-625b427f6b81",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\n#define PI 3.14159265\n\nint main()\n{\n  int slant = 15;\n  int radius = 5;\n  float height = 3.16;\n\n  float surfArea;\n  float volume;\n\n  surfArea = PI * radius;\n  surfArea *= radius + slant;\n  volume = (int) PI * radius * radius * height;\n  volume /= 3;\n\n  printf(\"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\\n\");\n\n\n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "45969728-a501-4167-af6d-001bad83076b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6a714cda-ab0f-4c46-ae64-b81861a5185a",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "28563695153",
+      "timeSpentVideo": "782845633",
+      "submissions": 235665,
+      "submissionsCorrect": 152474,
+      "questions": 34,
+      "accuracy": 0.6469946746440922,
+      "difficulty": 0.6030676733187708
+    }
+  },
+  "explanation": {
+    "id": "59445871-734f-4e52-89d0-6b9bd53d3dab",
+    "body": "",
+    "questionId": "45969728-a501-4167-af6d-001bad83076b",
+    "resources": [
+      {
+        "id": "63f53561-9245-4d8f-b8a8-9f59c5d72ec7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/R8kEmBxon5A?si=oC8gElAdVUL12CQ4&t=6"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "59445871-734f-4e52-89d0-6b9bd53d3dab",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "5559976b-c520-4f0b-a5f8-868dbd5d8f7b",
+      "name": "printf & scanf",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23602771123",
+        "timeSpentVideo": "187685305",
+        "submissions": 73478,
+        "submissionsCorrect": 48225,
+        "questions": 24,
+        "accuracy": 0.656318898173603,
+        "difficulty": 0.5938935551387643
+      }
+    }
+  ],
+  "children": []
+}

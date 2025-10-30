@@ -1,0 +1,143 @@
+{
+  "id": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The absolute minimum value of \\(f(x, y) = 2 + x^2y^2\\) in the region \\(\\frac{x^2}{2} + y^2 \\leq 1\\) equals 2. The absolute maximum value of \\(f\\) in this region is\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b813fa40-625d-4d05-8583-994673363b9a",
+        "index": 0,
+        "body": "$4.5$",
+        "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "d93007f6-9e0b-4784-9813-9830ce89812c",
+        "index": 1,
+        "body": "$4 $",
+        "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+        "stats": {
+          "count": 313
+        },
+        "resources": []
+      },
+      {
+        "id": "091a815a-bb19-4a92-a779-c891e0c155b5",
+        "index": 2,
+        "body": "$ 3.5$",
+        "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+        "stats": {
+          "count": 184
+        },
+        "resources": []
+      },
+      {
+        "id": "ccfb4935-40df-47ba-8f6d-9fdb771b9da3",
+        "index": 3,
+        "body": "$3 $",
+        "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+        "stats": {
+          "count": 230
+        },
+        "resources": []
+      },
+      {
+        "id": "70e94ce6-91e0-44fa-9311-2ae485fa0de7",
+        "index": 4,
+        "body": "$2.5 $",
+        "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+        "stats": {
+          "count": 1634
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "1071214282",
+    "timeSpentVideo": "338802631",
+    "submissions": 3759,
+    "submissionsCorrect": 1634,
+    "accuracy": 0.4346900771481777,
+    "difficulty": 0.8136175174915781
+  },
+  "resources": [],
+  "exam": {
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
+    "number": 1,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14045692220",
+      "timeSpentVideo": "2133559776",
+      "submissions": 68612,
+      "submissionsCorrect": 42252,
+      "questions": 12,
+      "accuracy": 0.6158106453681572,
+      "difficulty": 0.6343578996390732
+    }
+  },
+  "explanation": {
+    "id": "130f9da2-2907-46ac-a108-767b9758fda0",
+    "body": "Note that Lagrange multipliers \\textit{can} be used to solve this problem, it isn't the question's intention.",
+    "questionId": "acb9b83b-c0ac-487f-94dd-6e080e3b9fb1",
+    "resources": [
+      {
+        "id": "19804276-53cd-4c1d-8634-0e9d77eae685",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QLbA7GKKkPs?t=1345"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "130f9da2-2907-46ac-a108-767b9758fda0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7ebf9728-5c70-4eca-bcfc-b664e78b78c8",
+      "name": "Min Max",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28196006115",
+        "timeSpentVideo": "2853105166",
+        "submissions": 55506,
+        "submissionsCorrect": 29731,
+        "questions": 16,
+        "accuracy": 0.5356357871221129,
+        "difficulty": 0.7144282991044132
+      }
+    }
+  ],
+  "children": []
+}

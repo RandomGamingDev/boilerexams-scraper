@@ -1,0 +1,134 @@
+{
+  "id": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the data in the array after TWO passes of the sorting process in the program above is TRUE?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1008aa21-53b3-4a55-b308-059b628deb13",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">After two passes the element at index 0 is 10.</font>",
+        "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+        "stats": {
+          "count": 454
+        },
+        "resources": []
+      },
+      {
+        "id": "ed2d53ba-9a73-4488-bb08-38db0af95d4c",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">After two passes the element at index 8 is 5.</font>",
+        "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+        "stats": {
+          "count": 1804
+        },
+        "resources": []
+      },
+      {
+        "id": "30b83190-8a8b-4365-9ea8-d8e10a118142",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">After two passes the element at index 2 is 2.</font>",
+        "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+        "stats": {
+          "count": 333
+        },
+        "resources": []
+      },
+      {
+        "id": "211f8934-1675-4f11-a6a7-e4ee205626cc",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+        "stats": {
+          "count": 309
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 46,
+  "disclaimer": "",
+  "examId": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "511719966",
+    "timeSpentVideo": "0",
+    "submissions": 2942,
+    "submissionsCorrect": 1804,
+    "accuracy": 0.6131883072739633,
+    "difficulty": 0.6405325443786982
+  },
+  "resources": [
+    {
+      "id": "fc4a092c-ab12-424a-89f5-c960d68cdf80",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nvoid sortArray(int[], int);\n\nint main(void)\n{\n  int list[10] = {10, 2, 4, 3, 6, 8, 7, 9, 5, 1};\n  sortArray(list, 10);\n  \n  return(0);\n}\n\nvoid sortArray(int list[], int last)\n{\n  int counter;\n  int temp;\n  int located;\n  int current;\n  \n  for(current = 1; current < last; current++)\n  {\n    located = 0;\n    temp = list[current];\n    counter = current - 1;\n    while(counter >= 0 && !located)\n    {\n      if(temp < list[counter])\n      {\n        list[counter + 1] = list[counter];\n        counter--;\n      }\n      else\n      {\n        located = 1;\n      }\n        list[counter + 1] = temp;\n    }\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "1a2b5297-088f-4452-9d1b-0c52656ce09b",
+    "number": 0,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "26068831769",
+      "timeSpentVideo": "0",
+      "submissions": 210948,
+      "submissionsCorrect": 137582,
+      "questions": 49,
+      "accuracy": 0.6522081271213759,
+      "difficulty": 0.5978639930252834
+    }
+  },
+  "explanation": {
+    "id": "424c8446-0b98-458d-b918-4e482ce97e3f",
+    "body": "",
+    "questionId": "0b774d8d-f9f3-4bc0-8a52-7c4275ce45c0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2d552261-778b-44a8-b2a7-27bd70357f9a",
+      "name": "Sorting",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29948537930",
+        "timeSpentVideo": "102754064",
+        "submissions": 76412,
+        "submissionsCorrect": 46952,
+        "questions": 30,
+        "accuracy": 0.614458462021672,
+        "difficulty": 0.6356911334169804
+      }
+    }
+  ],
+  "children": []
+}

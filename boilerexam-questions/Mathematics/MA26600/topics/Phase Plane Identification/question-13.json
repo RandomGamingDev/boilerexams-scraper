@@ -1,0 +1,128 @@
+{
+  "id": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What value(s) (or range of values) for the parameter $b$ cause the system\n\\[\nx' = \\begin{bmatrix}1 & 2b \\\\ -1 & 1\\end{bmatrix}x\n\\]\nto have a phase-plane portrait that is a saddle-point?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "9ddc4fa4-7b38-4e3c-aeda-3d51be8b7d61",
+        "index": 0,
+        "body": "$b=-\\tfrac{1}{2}$ and $b=\\tfrac{1}{2}$",
+        "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "3f002858-10e2-4c7d-aec7-37d9020c928d",
+        "index": 1,
+        "body": "$-\\tfrac{1}{2} < b < 0$",
+        "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "6a6eff3d-51f1-47b2-b205-607ba8cf8031",
+        "index": 2,
+        "body": "$b<-\\tfrac{1}{2}$",
+        "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "0a217a1a-f477-46fb-a0f1-ed00c0c0b5b1",
+        "index": 3,
+        "body": "$b=0$",
+        "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "6d47b37c-daa0-4ab9-ae6c-53a6980ddc34",
+        "index": 4,
+        "body": "$0<b<\\tfrac{1}{2}$",
+        "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "a96199c8-336d-4006-933d-2a8acb16c70a",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2017669",
+    "timeSpentVideo": "0",
+    "submissions": 10,
+    "submissionsCorrect": 7,
+    "accuracy": 0.7,
+    "difficulty": 0.7318181818181818
+  },
+  "resources": [],
+  "exam": {
+    "id": "a96199c8-336d-4006-933d-2a8acb16c70a",
+    "number": 0,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "217709174",
+      "timeSpentVideo": "0",
+      "submissions": 654,
+      "submissionsCorrect": 486,
+      "questions": 20,
+      "accuracy": 0.7431192660550459,
+      "difficulty": 0.5391246684350133
+    }
+  },
+  "explanation": {
+    "id": "75c550fa-30c2-4f85-8d02-f9b056a6e39b",
+    "body": null,
+    "questionId": "41c2412a-c6c4-48d3-8e53-d23ebe134de1",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "c4a3f474-41d0-423a-a8df-59e509291baf",
+      "name": "Phase Plane Identification",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5461446727",
+        "timeSpentVideo": "307706752",
+        "submissions": 14942,
+        "submissionsCorrect": 10559,
+        "questions": 16,
+        "accuracy": 0.7066657743273993,
+        "difficulty": 0.5447081505119
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a differential equation whose general solution is \n\\[\ny(t) = c_1 e^{2t} + c_2 e^t + c_3 e^{-t}.\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "e37a9635-7ec6-49f8-8025-7df9dcbe5dcd",
+        "index": 0,
+        "body": "$y''' + 2y'' - y' - 2y = 0$",
+        "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "d3ab9186-1197-42f7-b7ab-c5430c4e27d7",
+        "index": 1,
+        "body": "$-2y''' + 4y'' - 2y' - 4y = 0$",
+        "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "8070ffd8-607d-44d3-86f2-ac337e788d74",
+        "index": 2,
+        "body": "$y''' - 2y'' - y' + 2y = 0$",
+        "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+        "stats": {
+          "count": 684
+        },
+        "resources": []
+      },
+      {
+        "id": "f7ff9a4f-936b-45cc-a5f4-15692b95df5d",
+        "index": 3,
+        "body": "$y''' - 2y'' + y' + 2y = 0$",
+        "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "6e383f67-d6ed-4f3d-b8cd-36912190aa54",
+        "index": 4,
+        "body": "$-y''' + 2y'' - y' - 2y = 0$",
+        "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "127684164",
+    "timeSpentVideo": "8897413",
+    "submissions": 876,
+    "submissionsCorrect": 684,
+    "accuracy": 0.7808219178082192,
+    "difficulty": 0.4979508196721312
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2771132684",
+      "timeSpentVideo": "371825714",
+      "submissions": 10438,
+      "submissionsCorrect": 6508,
+      "questions": 10,
+      "accuracy": 0.6234910902471738,
+      "difficulty": 0.6276807743404821
+    }
+  },
+  "explanation": {
+    "id": "4003252d-e4a6-4fc7-9b77-1ea8845be337",
+    "body": null,
+    "questionId": "55853ff7-d602-4d2a-87da-aa2dce14ff51",
+    "resources": [
+      {
+        "id": "41d64e7c-e792-4a86-9f26-41b1fea091fe",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/goF0nLKveuM?t=1757"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4003252d-e4a6-4fc7-9b77-1ea8845be337",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}

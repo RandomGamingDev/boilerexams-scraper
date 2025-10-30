@@ -1,0 +1,128 @@
+{
+  "id": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of these subsets of $\\mathbb{R}^{2}$ form vector spaces with respect to the usual operations of addition and scalar multiplication?\n\n\n(I) $\\{(x, y): x y=0\\}$\n\n(II) $\\{(x, y): x+y>0\\}$\n\n(III) $\\{(x, y): x+y=0\\}$\n\n(IV) $\\{(x, y): x+y=1\\}$\n\n(V) $\\left\\{(x, y):\\left[\\begin{array}{ll}2 & 3 \\\\ 3 & 1\\end{array}\\right]\\left[\\begin{array}{l}x \\\\ y\\end{array}\\right]=\\left[\\begin{array}{l}0 \\\\ 0\\end{array}\\right]\\right\\}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "92fd9fcc-1ab3-4988-8a68-895c96b3bb88",
+        "index": 0,
+        "body": "(I) and (II) only",
+        "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "2691f3c3-00b5-42ff-acd2-546c383a2956",
+        "index": 1,
+        "body": "(I) and (III) only",
+        "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "9d135c19-e3e7-4295-8a33-69a8bf1935da",
+        "index": 2,
+        "body": "(III) and (V) only",
+        "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+        "stats": {
+          "count": 241
+        },
+        "resources": []
+      },
+      {
+        "id": "b2886b80-dcca-48db-b711-e6d472b6a0d3",
+        "index": 3,
+        "body": "(IV) and (V) only",
+        "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "b97eaa76-dc06-429b-800b-3fc5ecd9668c",
+        "index": 4,
+        "body": "(I), (II) and (IV) only",
+        "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+  "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "57528608",
+    "timeSpentVideo": "0",
+    "submissions": 356,
+    "submissionsCorrect": 241,
+    "accuracy": 0.6769662921348315,
+    "difficulty": 0.6118421052631579
+  },
+  "resources": [],
+  "exam": {
+    "id": "d913b03f-4e0f-4c3c-8aca-68af6c1271fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1695890842",
+      "timeSpentVideo": "0",
+      "submissions": 6995,
+      "submissionsCorrect": 5388,
+      "questions": 20,
+      "accuracy": 0.7702644746247319,
+      "difficulty": 0.48354474982381956
+    }
+  },
+  "explanation": {
+    "id": "9690ba4a-b492-4df7-991b-0a9beba6acf6",
+    "body": "",
+    "questionId": "c0c42668-6365-496f-9c3f-cae7247d61d5",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "6a9bb5ba-f393-4ebd-ba09-6997ffa459e5",
+      "name": "Linear and Subspaces",
+      "courseId": "0a632987-df1d-4ee0-aee1-4de7d1bfb4ab",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9131473250",
+        "timeSpentVideo": "1060730319",
+        "submissions": 23469,
+        "submissionsCorrect": 13790,
+        "questions": 19,
+        "accuracy": 0.5875836209467808,
+        "difficulty": 0.6627879842165556
+      }
+    }
+  ],
+  "children": []
+}

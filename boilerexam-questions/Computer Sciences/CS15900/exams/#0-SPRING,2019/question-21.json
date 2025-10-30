@@ -1,0 +1,133 @@
+{
+  "id": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding the binary searching algorithm is TRUE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ac07110e-e04b-4fc8-b204-785ad6a51a7d",
+        "index": 0,
+        "body": "The binary searching algorithm will always find a target in an array faster than the sequential searching\nalgorithm.",
+        "questionId": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "512f12ee-4829-4ea7-ad37-c82e0db0c907",
+        "index": 1,
+        "body": "The binary searching algorithm should always be used for searching.",
+        "questionId": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+        "stats": {
+          "count": 113
+        },
+        "resources": []
+      },
+      {
+        "id": "2d1b8cdc-ae1c-4b09-ad23-aee77ae8506f",
+        "index": 2,
+        "body": "With each comparison made in the binary search approximately half of the remaining elements in the\narray are eliminated as possible locations of the target.",
+        "questionId": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+        "stats": {
+          "count": 2035
+        },
+        "resources": []
+      },
+      {
+        "id": "5459ad62-935c-4170-a96b-6fd882f380b4",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "134081208",
+    "timeSpentVideo": "0",
+    "submissions": 2242,
+    "submissionsCorrect": 2035,
+    "accuracy": 0.907671721677074,
+    "difficulty": 0.35973526900085395
+  },
+  "resources": [],
+  "exam": {
+    "id": "81e7ab65-b77b-4bba-8304-b732ae376ed0",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "Please review lecture announcements for content covered in this semester's exam. Topics such as Strings and File I/O may not be tested.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10566247834",
+      "timeSpentVideo": "0",
+      "submissions": 85055,
+      "submissionsCorrect": 53606,
+      "questions": 49,
+      "accuracy": 0.6302510140497325,
+      "difficulty": 0.6199019435147672
+    }
+  },
+  "explanation": {
+    "id": "efb7d0c7-f5e7-47e7-820e-d4006036b463",
+    "body": "",
+    "questionId": "2e558412-2f22-47e3-8fe8-07d2ebdd81a6",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    },
+    {
+      "id": "f60f7875-9643-4726-b92f-34d96a17ecd1",
+      "name": "Searching",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15404997570",
+        "timeSpentVideo": "83329812",
+        "submissions": 47852,
+        "submissionsCorrect": 33957,
+        "questions": 18,
+        "accuracy": 0.7096255119953189,
+        "difficulty": 0.5408116449783117
+      }
+    }
+  ],
+  "children": []
+}

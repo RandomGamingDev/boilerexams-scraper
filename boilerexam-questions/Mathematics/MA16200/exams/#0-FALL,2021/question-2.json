@@ -1,0 +1,153 @@
+{
+  "id": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int_{1}^{4} \\frac{\\sqrt{x^{2}+4 x-5}}{x+2} d x$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "4b44968c-b0fb-4a22-ac40-f79fee1602ff",
+        "index": 0,
+        "body": "$3 \\sqrt{3}-\\pi$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 1304
+        },
+        "resources": []
+      },
+      {
+        "id": "1bc87f8c-9ace-491a-9ce1-20a84b8cb208",
+        "index": 1,
+        "body": "$\\sqrt{3}$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "e90b8f6f-17e4-4b27-8552-56bfb51da739",
+        "index": 2,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "5ccea231-b922-40fa-b6a8-c6f5a548cf07",
+        "index": 3,
+        "body": "$\\frac{\\sqrt{3}}{2}$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "362b4464-b364-4f22-b281-b3a2f8242019",
+        "index": 4,
+        "body": "$\\sqrt{3}-\\frac{\\pi}{3}$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 223
+        },
+        "resources": []
+      },
+      {
+        "id": "8a7abe6a-a005-4f78-b9b4-eb06daf60319",
+        "index": 5,
+        "body": "$\\frac{\\sqrt{3}}{3}$",
+        "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "942662430",
+    "timeSpentVideo": "123203322",
+    "submissions": 2765,
+    "submissionsCorrect": 1304,
+    "accuracy": 0.47160940325497286,
+    "difficulty": 0.7773996509598604
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444048911",
+      "timeSpentVideo": "2335774508",
+      "submissions": 74336,
+      "submissionsCorrect": 39139,
+      "questions": 25,
+      "accuracy": 0.526514743865691,
+      "difficulty": 0.7235208769950024
+    }
+  },
+  "explanation": {
+    "id": "fd215d14-d804-4d2d-be20-fab90551d74d",
+    "body": "",
+    "questionId": "5c8f49e1-cf88-491c-b9c2-992cff97aee9",
+    "resources": [
+      {
+        "id": "41956725-d654-46e6-b99c-d496b378cb77",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/c6Qq5JvsFkw?t=300\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fd215d14-d804-4d2d-be20-fab90551d74d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

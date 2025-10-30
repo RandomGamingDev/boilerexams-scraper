@@ -1,0 +1,135 @@
+{
+  "id": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The Arterial Blood Gas (ABG) test for a patient shows the following results: \n\npH = 7.66, PCO$_{2}$ = 36, HCO$_{3}$$^{-}$ = 33\n\nConsidering the normal values of these parameters indicated below, select the acid-base disorder that the patient is experiencing:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "0f87e867-4b26-4d23-bae4-3f218604abdd",
+        "index": 0,
+        "body": "Respiratory alkalosis",
+        "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+        "stats": {
+          "count": 153
+        },
+        "resources": []
+      },
+      {
+        "id": "088d4bb6-e773-4985-86b1-cc8fc65a7c46",
+        "index": 1,
+        "body": "Respiratory acidosis",
+        "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "bc74a3d3-fcc4-4d5e-8c3c-96fa50f44e3a",
+        "index": 2,
+        "body": "Metabolic acidosis",
+        "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "c419b120-8b0d-4b8c-b020-9e03180ff0ed",
+        "index": 3,
+        "body": "Metabolic alkalosis",
+        "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+        "stats": {
+          "count": 874
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "89c8d70c-ac45-462c-9427-e1a7e9b6d945",
+  "courseId": "30949ec4-4915-44f1-ad9d-c08300116610",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "99376116",
+    "timeSpentVideo": "0",
+    "submissions": 1175,
+    "submissionsCorrect": 874,
+    "accuracy": 0.7438297872340426,
+    "difficulty": 0.5252941176470588
+  },
+  "resources": [
+    {
+      "id": "60931664-2194-4464-8606-a498e3e85ec6",
+      "type": "IMAGE",
+      "data": {
+        "key": "tDGDHxXzJP9HGQrzvPAui",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/tDGDHxXzJP9HGQrzvPAui",
+        "altText": "Normal Values. pH = 7.35-7.45, PCO2 = 35-45 mmHg, HCO3- = 22-28 mmol/L"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "89c8d70c-ac45-462c-9427-e1a7e9b6d945",
+    "number": 3,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "30949ec4-4915-44f1-ad9d-c08300116610",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2600044402",
+      "timeSpentVideo": "0",
+      "submissions": 39460,
+      "submissionsCorrect": 29934,
+      "questions": 40,
+      "accuracy": 0.758590978205778,
+      "difficulty": 0.49206268958543986
+    }
+  },
+  "explanation": {
+    "id": "823be096-007f-4094-b885-007b541d5ed8",
+    "body": "Looking at the pH before anything else can tell us if the patient is in a form of acidosis or alkalosis, and can help us rule out two answer choices right away. \n\nA pH of 7.66 is above the upper limit for normal, so this patient is in some form of alkalosis, either respiratory or metabolic.  \n\nLooking at the pCO$_{2}$, we can see that it's within normal range so we can rule out respiratory alkalosis.\n\nThat leaves metabolic alkalosis as the last option, and looking at the HCO$_{3}$-  concentration, we can confirm. 33 mmol/L is above the upper limit for normal. This indicates that we have a greater concentration of a base which further supports that the patient is in metabolic alkalosis. ",
+    "questionId": "95586f7f-da3d-4b30-ba6a-b948795a720d",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d29e0dcf-81af-4097-846d-30eb15de2332",
+      "name": "Acid-Base Balance",
+      "courseId": "30949ec4-4915-44f1-ad9d-c08300116610",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1849427679",
+        "timeSpentVideo": "0",
+        "submissions": 5738,
+        "submissionsCorrect": 4492,
+        "questions": 5,
+        "accuracy": 0.7828511676542349,
+        "difficulty": 0.47199383350462487
+      }
+    }
+  ],
+  "children": []
+}

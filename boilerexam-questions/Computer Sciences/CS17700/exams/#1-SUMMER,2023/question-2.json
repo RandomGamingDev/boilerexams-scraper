@@ -1,0 +1,149 @@
+{
+  "id": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Bruno suggests replacing lines 13 and 14 with the following statement:\n\\verb|vowels = (vowels + 1) if l == \"a\" or l == \"e\" or l == \"i\" or l == \"o\" or l == \"u\" else 0|\nHowever, no one talks about Bruno's statement. Is Bruno's suggestion correct?\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "07786107-fa13-4d66-95cf-7e9f2a83d921",
+        "index": 0,
+        "body": "Yes. The statement is correct, and they should talk about it.",
+        "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+        "stats": {
+          "count": 59
+        },
+        "resources": []
+      },
+      {
+        "id": "e2f3b16a-86ac-4724-bc33-9352044e9076",
+        "index": 1,
+        "body": "No. The statement resets the vowels counter if the current letter is not a vowel.",
+        "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+        "stats": {
+          "count": 500
+        },
+        "resources": []
+      },
+      {
+        "id": "a3cca10e-df51-4b59-b75d-73324acbef74",
+        "index": 2,
+        "body": "No. The statement is wrong because it needs parentheses. It should be \\verb|vowels = (vowels + 1) if (l == \"a\") or (l == \"e\") or (l == \"i\") or (l == \"o\") or (l == \"u\") else 0 |",
+        "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "4e15a253-308f-4724-8fa9-ee6e77229527",
+        "index": 3,
+        "body": "No. The statement should use the \\verb|and| operator rather than \\verb|or|.",
+        "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "51288277",
+    "timeSpentVideo": "1370451",
+    "submissions": 580,
+    "submissionsCorrect": 500,
+    "accuracy": 0.8620689655172413,
+    "difficulty": 0.4411764705882353
+  },
+  "resources": [
+    {
+      "id": "8f9906b3-5fd9-4163-97c9-16e8962efd30",
+      "type": "CODE",
+      "data": {
+        "content": "# Make sure to add input, otherwise the code will exit with error status 1!\nmessage = input(\"Write a message: \")\n\nvowels = 0\nothers = 0\nindex = 0\nlength = len(message)\n\nwhile index < length:\n\n    l = message[index]\n\n    if l == \"a\" or l == \"e\" or l == \"i\" or l == \"o\" or l == \"u\":\n        vowels = vowels + 1\n\n    else:\n        others = others + 1\n\n    index = index + 1\n\ntally = \"The message has \" + str(vowels) + \" vowels and \" + str(others) + \" others.\"\nprint(tally)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fe4e1746-c47c-4329-adc0-9ac4c5531008",
+    "number": 1,
+    "year": 2023,
+    "season": "SUMMER",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "666986548",
+      "timeSpentVideo": "18131064",
+      "submissions": 8008,
+      "submissionsCorrect": 6551,
+      "questions": 15,
+      "accuracy": 0.8180569430569431,
+      "difficulty": 0.43586581154415394
+    }
+  },
+  "explanation": {
+    "id": "5fdc9128-149e-41e5-8ee2-d97bc604a9ab",
+    "body": "",
+    "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
+    "resources": [
+      {
+        "id": "0017d0d2-d837-402b-b29b-d49bce27e6b6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/UHCitoyUvc8?si=3JJiDl8VU9VhI2lO&t=530"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5fdc9128-149e-41e5-8ee2-d97bc604a9ab",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "370b1649-4c4e-4d91-9429-64041ebfe509",
+      "name": "Ternary Operators",
+      "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1062752701",
+        "timeSpentVideo": "16009852",
+        "submissions": 5344,
+        "submissionsCorrect": 4008,
+        "questions": 6,
+        "accuracy": 0.75,
+        "difficulty": 0.5045922116091109
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,98 @@
+{
+  "id": "011ff2e6-7eef-492a-8023-abfaa9bc30aa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "You have found a MST T of a huge Graph G. G has an edge (v1, v2) whose weight is 10. After the MST was found the edge weight of (v1, v2) is updated. How would you update your MST in the following cases?\n\n(b) (v1, v2) was in T and the edge weight was updated to 20.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "932d68ef-7b4e-4719-bcfe-c7c9b7013f86",
+        "index": 0,
+        "body": "We would need to re-run the MST creation algorithm, as a new update has happened that causes us to find a new edge to possibly replace (v1, v2). $O(E \\log E)$",
+        "questionId": "011ff2e6-7eef-492a-8023-abfaa9bc30aa",
+        "stats": {
+          "count": 950
+        },
+        "resources": []
+      },
+      {
+        "id": "a4989676-d086-4d4a-93a9-e3de042cfd57",
+        "index": 1,
+        "body": "No change needs to be made. (v1, v2) is already in the MST, and no other edge can replace it. $O(1)$",
+        "questionId": "011ff2e6-7eef-492a-8023-abfaa9bc30aa",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "95353025",
+    "timeSpentVideo": "0",
+    "submissions": 1056,
+    "submissionsCorrect": 950,
+    "accuracy": 0.8996212121212122,
+    "difficulty": 0.3849480968858131
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "eb9be1d0-abda-48c3-9b78-81c4157825b6",
+    "body": null,
+    "questionId": "011ff2e6-7eef-492a-8023-abfaa9bc30aa",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "8141ca11-166f-40cf-98ea-1d6bcc40a1a4",
+      "name": "Graphs",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5659879774",
+        "timeSpentVideo": "214725549",
+        "submissions": 10510,
+        "submissionsCorrect": 7896,
+        "questions": 11,
+        "accuracy": 0.7512844909609895,
+        "difficulty": 0.5010838831291234
+      }
+    }
+  ],
+  "children": []
+}

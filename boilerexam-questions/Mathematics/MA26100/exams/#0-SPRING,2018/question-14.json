@@ -1,0 +1,143 @@
+{
+  "id": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $f(x, y, z)=x^{2} y z-x y^{2}+2 x z^{2}$ then $\\operatorname{div}(\\operatorname{grad}(f))$ at $(1,1,1)$ is equal to:",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "ca5b86d9-5bd9-4c6e-9495-691ce34f825a",
+        "index": 0,
+        "body": "$0$",
+        "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+        "stats": {
+          "count": 291
+        },
+        "resources": []
+      },
+      {
+        "id": "cf301bc6-aaf6-4d6d-ae88-6ec4a88b923e",
+        "index": 1,
+        "body": "$1$",
+        "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "50cebe9f-8490-4a57-b45c-8d9d328be6f3",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+        "stats": {
+          "count": 235
+        },
+        "resources": []
+      },
+      {
+        "id": "160d263a-f878-4cc7-b441-16be4e92baca",
+        "index": 3,
+        "body": "$3$",
+        "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      },
+      {
+        "id": "4df1f883-9475-4c7c-ab46-dee72b49b17f",
+        "index": 4,
+        "body": "$4$",
+        "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+        "stats": {
+          "count": 2416
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": "",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "676311232",
+    "timeSpentVideo": "198382281",
+    "submissions": 3879,
+    "submissionsCorrect": 2416,
+    "accuracy": 0.622840938386182,
+    "difficulty": 0.6302462930384519
+  },
+  "resources": [],
+  "exam": {
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
+    "number": 0,
+    "year": 2018,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16274027421",
+      "timeSpentVideo": "3728749086",
+      "submissions": 75416,
+      "submissionsCorrect": 40332,
+      "questions": 20,
+      "accuracy": 0.5347936777341679,
+      "difficulty": 0.7152523968430531
+    }
+  },
+  "explanation": {
+    "id": "47611e4a-e49d-43e8-bc31-fa45371ae065",
+    "body": "The explanation video computes $f_x$ incorrectly, missing the partial derivative of the $-xy^2$ term. This does not impact the result as the second partial derivative of that term with respect to $x$ is zero.",
+    "questionId": "7a9aac22-a779-4a2d-98e9-b2329bdff638",
+    "resources": [
+      {
+        "id": "f039a065-d8a0-4ccc-9d74-7e087f49834e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/cx7-8A4tomU?si=U_UwowZg2_akQMdn&t=2117\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "47611e4a-e49d-43e8-bc31-fa45371ae065",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12211665531",
+        "timeSpentVideo": "1608395474",
+        "submissions": 32383,
+        "submissionsCorrect": 17165,
+        "questions": 8,
+        "accuracy": 0.530062069604422,
+        "difficulty": 0.7200304774805283
+      }
+    }
+  ],
+  "children": []
+}

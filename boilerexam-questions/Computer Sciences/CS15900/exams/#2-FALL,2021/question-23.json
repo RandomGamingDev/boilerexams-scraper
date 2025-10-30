@@ -1,0 +1,149 @@
+{
+  "id": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following logical expressions should be the loop control expression of the <font style=\"font-family:'Courier New'\">do-while</font> loop on line #35 in the function above?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9beafd37-0c25-4924-97da-93da658caa09",
+        "index": 0,
+        "body": "day >= 1 && day <= maxDays",
+        "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+        "stats": {
+          "count": 456
+        },
+        "resources": []
+      },
+      {
+        "id": "7ef00404-d599-40d6-b235-c39e27e0d6f2",
+        "index": 1,
+        "body": "day < 1 || day > maxDays",
+        "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+        "stats": {
+          "count": 1507
+        },
+        "resources": []
+      },
+      {
+        "id": "1931d013-a5a6-4887-ae70-50961ae2bc06",
+        "index": 2,
+        "body": "day < 1 && day > maxDays",
+        "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "2e528430-fe38-4f44-bed7-921658da5a15",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+        "stats": {
+          "count": 30
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "139834686",
+    "timeSpentVideo": "11240996",
+    "submissions": 2143,
+    "submissionsCorrect": 1507,
+    "accuracy": 0.7032197853476435,
+    "difficulty": 0.5558403923316986
+  },
+  "resources": [
+    {
+      "id": "720df34c-f44d-4bbe-b5df-42ed6519e922",
+      "type": "CODE",
+      "data": {
+        "content": "// THIS IS NOT MEANT TO BE RAN\n// ORIGINAL QUESTION APPEARED\n// EXACTLY AS SHOWN BELOW\nint getDay(int month, int leap)\n{\n  int day;\n  int maxDays;\n\n  switch (month)\n  {\n    case 1:\n    case 3:\n    case 5:\n    case 7:\n    case 8:\n    case 10:\n    case 12: maxDays = 31;\n             break;\n    case 4:\n    case 6:\n    case 9:\n    case 11: maxDays = 30;\n             break;\n  }\n  \n  do\n  {\n    printf(\"Enter day of month %d -> \", month);\n    scanf(\"%d\", &day);\n  \n    if (/* Question #22 */)\n    {\n      printf(\"\\nError! Day must be between 1 and %d!\\n\\n\", maxDays);\n    }\n  } while (/* Question #23 */);\n\n  return day;\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "59480f76-ac6b-4641-813c-26e8bc4c1f08",
+    "number": 2,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "8072770293",
+      "timeSpentVideo": "821485966",
+      "submissions": 87767,
+      "submissionsCorrect": 57341,
+      "questions": 34,
+      "accuracy": 0.6533321179942347,
+      "difficulty": 0.5968423867891245
+    }
+  },
+  "explanation": {
+    "id": "089bc495-f913-43c9-b375-2cb388abfe7a",
+    "body": "",
+    "questionId": "4d8f6bd4-98a9-40e9-8c2b-f25a07bd9d58",
+    "resources": [
+      {
+        "id": "57c35b5e-2371-4321-ba16-f32f8985aa43",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/9gYSJgC1HjI?list=PL2vCBSawM0AhgDH3ms9FalJfCrIcdWl6a&t=3184"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "089bc495-f913-43c9-b375-2cb388abfe7a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

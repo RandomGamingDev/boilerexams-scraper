@@ -1,0 +1,143 @@
+{
+  "id": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\int_{C} \\mathbf{F} \\cdot d \\mathbf{r}$, where $\\mathbf{F}(x, y)=x y \\mathbf{i}-y \\mathbf{j}$ and $C$ is given by $\\mathbf{r}(t)=t \\mathbf{i}+t^{2} \\mathbf{j}, 0 \\leq t \\leq 1$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "5a7e005a-26f1-4b50-b3cf-c1fb5ad7b09d",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+        "stats": {
+          "count": 53
+        },
+        "resources": []
+      },
+      {
+        "id": "b53c8b0f-4292-4ec3-b378-ce02bfd78e6e",
+        "index": 1,
+        "body": "$-1$",
+        "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+        "stats": {
+          "count": 85
+        },
+        "resources": []
+      },
+      {
+        "id": "e7684815-36c0-45d8-aa62-83b5b0646090",
+        "index": 2,
+        "body": "$\\frac{1}{4}$",
+        "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "37bdf054-9ae1-4ac9-985e-9f3e30a451e6",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+        "stats": {
+          "count": 149
+        },
+        "resources": []
+      },
+      {
+        "id": "456a45bd-6341-43ce-8998-2d567d44465f",
+        "index": 4,
+        "body": "$-\\frac{1}{4}$",
+        "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+        "stats": {
+          "count": 2053
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": "",
+  "examId": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "501805487",
+    "timeSpentVideo": "72985734",
+    "submissions": 2933,
+    "submissionsCorrect": 2053,
+    "accuracy": 0.6999659052165019,
+    "difficulty": 0.5566271018793274
+  },
+  "resources": [],
+  "exam": {
+    "id": "8913d01b-d18f-4a67-a8a9-8b399a2194a1",
+    "number": 2,
+    "year": 2017,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4791717097",
+      "timeSpentVideo": "887329963",
+      "submissions": 27456,
+      "submissionsCorrect": 17603,
+      "questions": 10,
+      "accuracy": 0.6411349067599068,
+      "difficulty": 0.6093772681085788
+    }
+  },
+  "explanation": {
+    "id": "65d4ee84-8b67-425d-b234-a887c16e57e4",
+    "body": "",
+    "questionId": "f217e40c-085d-4c03-9b8b-3212c0c128be",
+    "resources": [
+      {
+        "id": "acec04be-c316-4de2-b88f-2bef02126c26",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/t9VETCdyWgA?t=1092"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "65d4ee84-8b67-425d-b234-a887c16e57e4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

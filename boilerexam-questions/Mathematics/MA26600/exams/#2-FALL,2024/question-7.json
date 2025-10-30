@@ -1,0 +1,143 @@
+{
+  "id": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the Laplace transform of $f(t) = (1 + \\cos t)^2$.  \n(Hint: $\\cos^2 t = (1 + \\cos 2t)/2$.)",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "cc8427d7-ce9b-4a83-bbd8-5008ef5f1450",
+        "index": 0,
+        "body": "$\\tfrac{1}{2s} + \\tfrac{2s}{s^2+1} + \\tfrac{s}{2(s^2+4)}$",
+        "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "698c383c-6d93-4e85-86b9-b15947246fa4",
+        "index": 1,
+        "body": "$\\tfrac{3}{2s} + \\tfrac{2s}{s^2+1} + \\tfrac{s}{2(s^2+4)}$",
+        "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "d556cc78-8567-4646-b3f0-c7428da8a415",
+        "index": 2,
+        "body": "$\\tfrac{1}{2s} + \\tfrac{s}{s^2+1} + \\tfrac{s}{2(s^2+4)}$",
+        "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "07c07335-775c-4a53-91d1-48a7c75f3a2f",
+        "index": 3,
+        "body": "$\\tfrac{3}{2s} + \\tfrac{2s}{s^2+1} + \\tfrac{s}{s^2+4}$",
+        "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "7f6e4f4b-e19a-42e1-8cdd-064866fcf075",
+        "index": 4,
+        "body": "$\\tfrac{3}{2s} + \\tfrac{s}{s^2+1} + \\tfrac{s}{s^2+4}$",
+        "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "600800",
+    "timeSpentVideo": "5514",
+    "submissions": 6,
+    "submissionsCorrect": 3,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "632033c7-0467-4f77-bfd4-8c47f0e9d06f",
+    "number": 2,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "29482593",
+      "timeSpentVideo": "9697106",
+      "submissions": 143,
+      "submissionsCorrect": 49,
+      "questions": 10,
+      "accuracy": 0.34265734265734266,
+      "difficulty": 0.8425925925925926
+    }
+  },
+  "explanation": {
+    "id": "76057323-2678-44e9-b240-32e5bd4bbfa4",
+    "body": null,
+    "questionId": "01186441-30ad-4c64-a0c6-fd9a274058fa",
+    "resources": [
+      {
+        "id": "b48e11f0-f246-4fb0-b2ff-3fc3f9677427",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/-0V2dZjptNg?si=L-R3LyjYBUOGqh61&t=1655"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "76057323-2678-44e9-b240-32e5bd4bbfa4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9214bfcd-f777-4afb-9753-e08365de069a",
+      "name": "Laplace Transform",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7161053765",
+        "timeSpentVideo": "718074971",
+        "submissions": 11476,
+        "submissionsCorrect": 5967,
+        "questions": 14,
+        "accuracy": 0.5199546880446149,
+        "difficulty": 0.7302176917760884
+      }
+    }
+  ],
+  "children": []
+}

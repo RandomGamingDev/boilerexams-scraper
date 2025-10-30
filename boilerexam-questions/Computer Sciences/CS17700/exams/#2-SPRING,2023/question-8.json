@@ -1,0 +1,113 @@
+{
+  "id": "6a8637b9-260a-4f92-ae22-6c5017e81b21",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The company represents customers in the system using the following classes\n\nApril, Andy\u2019s wife and operations manager (for some reason), has been careless and creates all customers using the class \\verb|GoldenCustomer|. Her point is that all objects created using that class will have the attributes and methods from the super class and base class. So, less work to do. Is her point valid?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ce9c42fd-3cc0-4d4b-ad8e-37aab22dcd34",
+        "index": 0,
+        "body": "Yes",
+        "questionId": "6a8637b9-260a-4f92-ae22-6c5017e81b21",
+        "stats": {
+          "count": 424
+        },
+        "resources": []
+      },
+      {
+        "id": "145332d8-9c51-44e8-ba50-2b6b88db0ae9",
+        "index": 1,
+        "body": "No",
+        "questionId": "6a8637b9-260a-4f92-ae22-6c5017e81b21",
+        "stats": {
+          "count": 250
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+  "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "74205235",
+    "timeSpentVideo": "17877799",
+    "submissions": 693,
+    "submissionsCorrect": 424,
+    "accuracy": 0.6118326118326118,
+    "difficulty": 0.6522698612862547
+  },
+  "resources": [
+    {
+      "id": "f1ec43e9-1f32-4bff-9970-342b9fe05f16",
+      "type": "CODE",
+      "data": {
+        "content": "class Customer:\n\n   def __init__(self, customerDict):\n      self.firstname = customerDict[\"firstname\"]\n      self.lastname = customerDict[\"lastname\"]\n      self.age = customerDict[\"age\"]\n      self.id = customerDict[\"id\"]\n      self.type = customerDict[\"type\"]\n      self.balance = 0\n\n   def charge(self, amount):\n      self.balance += amount\n\n   def credit(self, amount):\n      self.balance -= amount\n\nclass GoldenCustomer(Customer):\n\n   def __init__(self, customerDict, bonus):\n      super().__init__(customerDict)\n      self.bonus = bonus\n\n   def applyBonus(self):\n      self.balance -= self.bonus\n      self.bonus = 0\n\n   def setBonus(self, bonus):\n      self.bonus = bonus\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "6a8637b9-260a-4f92-ae22-6c5017e81b21",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "3b37bf4d-425d-4c0c-bfee-5c72f9936a6c",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "967830168",
+      "timeSpentVideo": "171610350",
+      "submissions": 10305,
+      "submissionsCorrect": 6635,
+      "questions": 13,
+      "accuracy": 0.6438622028141678,
+      "difficulty": 0.6075204228736184
+    }
+  },
+  "explanation": {
+    "id": "837d693d-f883-4382-8fdf-b9ccd8282c15",
+    "body": "",
+    "questionId": "6a8637b9-260a-4f92-ae22-6c5017e81b21",
+    "resources": [
+      {
+        "id": "a132bf4d-2d31-4eb4-b5b8-b86c58a3a24b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iP-l3GdITGA?si=7gHfptTbUnIMk7Ja&t=3495"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "837d693d-f883-4382-8fdf-b9ccd8282c15",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [],
+  "children": []
+}

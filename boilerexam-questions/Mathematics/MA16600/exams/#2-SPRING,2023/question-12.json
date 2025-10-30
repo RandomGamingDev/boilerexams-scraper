@@ -1,0 +1,158 @@
+{
+  "id": "686540a3-35c2-4c51-b762-1bb8243930f2",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the improper integral $\\int _0 ^{\\infty} xe^{-5x^2}dx$. ",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "3e078c2a-6d90-42db-911a-3da912483159",
+        "index": 0,
+        "body": "-$\\frac{1}{2}$",
+        "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "eedfb90b-ed01-4a0b-a531-35c651912b3e",
+        "index": 1,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "c3f6dcc8-2853-452e-a8e9-54fceffbefe7",
+        "index": 2,
+        "body": "-$\\frac{1}{10}$",
+        "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "dfc86341-468e-4f20-a82f-b134087ba47d",
+        "index": 3,
+        "body": "$\\frac{1}{10}$",
+        "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+        "stats": {
+          "count": 140
+        },
+        "resources": []
+      },
+      {
+        "id": "4b17a85d-cef4-4af0-bc20-c338286012ac",
+        "index": 4,
+        "body": "The integral is divergent.",
+        "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "fc64665e-2951-4924-bac3-adfe984fedef",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "32865152",
+    "timeSpentVideo": "2013306",
+    "submissions": 266,
+    "submissionsCorrect": 140,
+    "accuracy": 0.5263157894736842,
+    "difficulty": 0.7308743169398907
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc64665e-2951-4924-bac3-adfe984fedef",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "452313536",
+      "timeSpentVideo": "38071089",
+      "submissions": 2365,
+      "submissionsCorrect": 1360,
+      "questions": 12,
+      "accuracy": 0.5750528541226215,
+      "difficulty": 0.6779918864097363
+    }
+  },
+  "explanation": {
+    "id": "85523816-4309-4073-886f-537c3cbedd0d",
+    "body": null,
+    "questionId": "686540a3-35c2-4c51-b762-1bb8243930f2",
+    "resources": [
+      {
+        "id": "3cf01e6c-44f6-47ec-a881-795d24e33b78",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/n-Gq-yBc_y0?si=x_ppfaj0hI_k1hG7&t=4972"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "85523816-4309-4073-886f-537c3cbedd0d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4268fce6-b1eb-4d0a-a5fb-75a6a3fb7118",
+      "name": "Integration",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2328159292",
+        "timeSpentVideo": "120214345",
+        "submissions": 4826,
+        "submissionsCorrect": 2543,
+        "questions": 21,
+        "accuracy": 0.5269374222958972,
+        "difficulty": 0.723609419407227
+      }
+    },
+    {
+      "id": "beb83d2b-504b-449b-8f24-b39998ba7f7b",
+      "name": "Improper Integral",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "592633495",
+        "timeSpentVideo": "28444555",
+        "submissions": 1140,
+        "submissionsCorrect": 612,
+        "questions": 3,
+        "accuracy": 0.5368421052631579,
+        "difficulty": 0.7161290322580646
+      }
+    }
+  ],
+  "children": []
+}

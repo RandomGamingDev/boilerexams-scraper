@@ -1,0 +1,137 @@
+{
+  "id": "2067c797-cf23-46b8-badc-9c37a2d0ef3d",
+  "type": "FREE_RESPONSE",
+  "data": {
+    "body": "Consider the Left-Leaning Red-Black below. All nodes/links are black. Show the steps in the tree for\ndelete(7).",
+    "solution": "This question is still under review, as some of you have pointed out, the below solution doesn't maintain black height because pathway 8->11->9->NULL has black height 4 while all other paths to NULL have black height 5 so the given solution is incorrect. You need to find a way to change the tree we found to maintain black height. This is why deletion in RB trees is hard :-(",
+    "answerChoices": []
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "152149617",
+    "timeSpentVideo": "21605495",
+    "submissions": 731,
+    "submissionsCorrect": 414,
+    "accuracy": 0.5663474692202463,
+    "difficulty": 0.6916365824308063
+  },
+  "resources": [
+    {
+      "id": "a233b7a5-e441-48f4-aa59-6f631766ff87",
+      "type": "IMAGE",
+      "data": {
+        "key": "tsY0pn3ftjkjRZuX-rpj2",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/tsY0pn3ftjkjRZuX-rpj2"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "2067c797-cf23-46b8-badc-9c37a2d0ef3d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b8acd269-d79d-46e1-9c10-71da9f4dfa49",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1840329698",
+      "timeSpentVideo": "312219573",
+      "submissions": 13210,
+      "submissionsCorrect": 9706,
+      "questions": 17,
+      "accuracy": 0.7347464042392127,
+      "difficulty": 0.5170172802404207
+    }
+  },
+  "explanation": {
+    "id": "eb6e35d2-ad0d-4cd7-9230-2e52147d7352",
+    "body": null,
+    "questionId": "2067c797-cf23-46b8-badc-9c37a2d0ef3d",
+    "resources": [
+      {
+        "id": "bbeda3ac-583c-4330-8470-e9583bea4f42",
+        "type": "IMAGE",
+        "data": {
+          "key": "z-7TWXSYXdnGztp5ZHWNP",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/z-7TWXSYXdnGztp5ZHWNP"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "eb6e35d2-ad0d-4cd7-9230-2e52147d7352",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17a3959f-bfec-46b4-b484-343beba28722",
+      "name": "Binary Search Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3196225368",
+        "timeSpentVideo": "132107689",
+        "submissions": 7887,
+        "submissionsCorrect": 5730,
+        "questions": 7,
+        "accuracy": 0.7265119817421073,
+        "difficulty": 0.5263240265431326
+      }
+    },
+    {
+      "id": "22a1c21a-6a23-4934-8f52-e34a5e95d768",
+      "name": "Binary Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2454907955",
+        "timeSpentVideo": "102315825",
+        "submissions": 5507,
+        "submissionsCorrect": 3892,
+        "questions": 4,
+        "accuracy": 0.7067368803341202,
+        "difficulty": 0.5469502407704655
+      }
+    },
+    {
+      "id": "d8a419a1-5a52-4c92-9c24-e962c5d8d2cb",
+      "name": "2-3 Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4047726045",
+        "timeSpentVideo": "284304138",
+        "submissions": 9800,
+        "submissionsCorrect": 6165,
+        "questions": 8,
+        "accuracy": 0.6290816326530613,
+        "difficulty": 0.6222222222222222
+      }
+    }
+  ],
+  "children": []
+}

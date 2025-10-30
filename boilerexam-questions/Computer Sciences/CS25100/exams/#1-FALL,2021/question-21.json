@@ -1,0 +1,159 @@
+{
+  "id": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Using Insertion Sort for sorting the array [4, 9, 8, 1, 0] in ascending order, the number of compares is:",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "c638e5f8-e53d-4de3-9aad-7a8ab2441a2f",
+        "index": 0,
+        "body": "7",
+        "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      },
+      {
+        "id": "2002ea09-fde4-44bc-b2f7-f4cfc75560a3",
+        "index": 1,
+        "body": "8",
+        "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+        "stats": {
+          "count": 172
+        },
+        "resources": []
+      },
+      {
+        "id": "8f874d26-ed25-435b-b8e4-703316045140",
+        "index": 2,
+        "body": "9",
+        "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "79bc03bb-dccb-466a-b05f-4f6a4283611d",
+        "index": 3,
+        "body": "10",
+        "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+        "stats": {
+          "count": 893
+        },
+        "resources": []
+      },
+      {
+        "id": "9e468c13-725e-4dd9-93e9-261b7a198b24",
+        "index": 4,
+        "body": "11",
+        "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+        "stats": {
+          "count": 98
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "0668792a-5c43-4646-be91-6c572b66201e",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "333741862",
+    "timeSpentVideo": "0",
+    "submissions": 1383,
+    "submissionsCorrect": 893,
+    "accuracy": 0.6456977584960232,
+    "difficulty": 0.6141267700606878
+  },
+  "resources": [
+    {
+      "id": "abe1453a-2776-4a32-a120-cad398955c4a",
+      "type": "CODE",
+      "data": {
+        "content": "Algorithm InsertionSort(A)\n   Let n = |A|\n   for (i = 1, i < n, 1) \n      j = i - 1\n      while (j >= 0 && A[j] > A[j + 1]) \n         swap(A, j, j + 1)\n         j -= 1\n      end while\n   end for\n   return A\nEnd Algorithm\n",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "0668792a-5c43-4646-be91-6c572b66201e",
+    "number": 1,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4946755683",
+      "timeSpentVideo": "13735939",
+      "submissions": 40025,
+      "submissionsCorrect": 29314,
+      "questions": 30,
+      "accuracy": 0.7323922548407246,
+      "difficulty": 0.5181869158878505
+    }
+  },
+  "explanation": {
+    "id": "2ec46a28-a767-4c56-bbdc-1c1cbe604802",
+    "body": null,
+    "questionId": "fd5bb967-a1f2-40bc-830d-c00557fba0c4",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "14047ce8-b831-4973-b2da-7035aa32b520",
+      "name": "Insertion Sort",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1323241961",
+        "timeSpentVideo": "0",
+        "submissions": 3045,
+        "submissionsCorrect": 2113,
+        "questions": 3,
+        "accuracy": 0.6939244663382594,
+        "difficulty": 0.562241653418124
+      }
+    },
+    {
+      "id": "1f57df70-2432-4932-9eda-56c5df3fe206",
+      "name": "Sorting",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7768839669",
+        "timeSpentVideo": "22007056",
+        "submissions": 20954,
+        "submissionsCorrect": 14087,
+        "questions": 21,
+        "accuracy": 0.6722821418344946,
+        "difficulty": 0.5785361451505652
+      }
+    }
+  ],
+  "children": []
+}

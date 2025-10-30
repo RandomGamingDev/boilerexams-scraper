@@ -1,0 +1,278 @@
+{
+  "id": "ed6b75a6-8e95-480e-b4e2-5d2b52a75123",
+  "type": "PARENT",
+  "data": {
+    "body": "<b>Expression One</b>\n<code>x && !y</code>\n\n<b>Expression Two</b>\n<code>!x || y</code>\n\n<b>Expression Three</b>\n<code>x || !y</code>\n\n<b>Expression Four</b>\n<code>x == 0 && y != 0</code>",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "935021",
+    "timeSpentVideo": "0",
+    "submissions": 6,
+    "submissionsCorrect": 3,
+    "accuracy": 0.5,
+    "difficulty": 0.75
+  },
+  "resources": [],
+  "exam": {
+    "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "16161623",
+      "timeSpentVideo": "0",
+      "submissions": 243,
+      "submissionsCorrect": 141,
+      "questions": 44,
+      "accuracy": 0.5802469135802469,
+      "difficulty": 0.6931486880466472
+    }
+  },
+  "explanation": {
+    "id": "1d230beb-cf0c-4e0d-ab9b-22baa578ee04",
+    "body": null,
+    "questionId": "ed6b75a6-8e95-480e-b4e2-5d2b52a75123",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "d407ffee-4fc4-48cc-b3e5-3621d568bcd0",
+      "name": "Selection",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14264593622",
+        "timeSpentVideo": "32506140",
+        "submissions": 51825,
+        "submissionsCorrect": 37112,
+        "questions": 32,
+        "accuracy": 0.7161022672455378,
+        "difficulty": 0.5343139142994704
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "5018008d-97a5-4645-8263-44c3f3b48628",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following expressions are equivalent for all values of <code>x</code> and <code>y</code>?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "3b5a6354-6625-4cd6-b4a1-033663ed9916",
+            "index": 0,
+            "body": "Expression One and Expression Four are equivalent.",
+            "questionId": "5018008d-97a5-4645-8263-44c3f3b48628",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "18d748d3-6e37-4550-b258-2873d49f9cd5",
+            "index": 1,
+            "body": "Expression Two and Expression Three are equivalent.",
+            "questionId": "5018008d-97a5-4645-8263-44c3f3b48628",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "7794a09b-7bde-4e4e-b13b-9cb49615ab59",
+            "index": 2,
+            "body": "Expression Three and Expression Four are equivalent.",
+            "questionId": "5018008d-97a5-4645-8263-44c3f3b48628",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "c8ae3358-1c36-4f9f-bec9-8fda4f5dabea",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "5018008d-97a5-4645-8263-44c3f3b48628",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "ed6b75a6-8e95-480e-b4e2-5d2b52a75123",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 8,
+        "submissionsCorrect": 3,
+        "accuracy": 0.375,
+        "difficulty": 0.7592592592592593
+      },
+      "resources": [],
+      "exam": {
+        "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+        "number": 2,
+        "year": 2025,
+        "season": "SPRING",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "16161623",
+          "timeSpentVideo": "0",
+          "submissions": 243,
+          "submissionsCorrect": 141,
+          "questions": 44,
+          "accuracy": 0.5802469135802469,
+          "difficulty": 0.6931486880466472
+        }
+      },
+      "explanation": {
+        "id": "05609793-cbb9-4859-a4cc-96ca0e68037d",
+        "body": null,
+        "questionId": "5018008d-97a5-4645-8263-44c3f3b48628",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following expressions are complements for all values of <code>x</code> and <code>y</code>?",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "e36d4b67-9b26-4e15-8e38-9bb4d0128da9",
+            "index": 0,
+            "body": "Expression One and Expression Two are complements.",
+            "questionId": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "fc72d36c-4c08-427f-8d1a-b4c785089de7",
+            "index": 1,
+            "body": "Expression One and Expression Three are complements.",
+            "questionId": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "3fe277aa-fb49-433f-a138-516241cf2d5e",
+            "index": 2,
+            "body": "Expression Two and Expression Four are complements.",
+            "questionId": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "ed68bbcd-229a-4948-9132-932ad7b8c3e6",
+            "index": 3,
+            "body": "None of the above.",
+            "questionId": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "parentId": "ed6b75a6-8e95-480e-b4e2-5d2b52a75123",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 8,
+        "submissionsCorrect": 6,
+        "accuracy": 0.75,
+        "difficulty": 0.7314814814814815
+      },
+      "resources": [],
+      "exam": {
+        "id": "e3baf8ae-3baf-4fa5-b3a7-eda972a76ea8",
+        "number": 2,
+        "year": 2025,
+        "season": "SPRING",
+        "disclaimer": "Please note that this exam has 35 questions total and does not reflect the original numbering.",
+        "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "16161623",
+          "timeSpentVideo": "0",
+          "submissions": 243,
+          "submissionsCorrect": 141,
+          "questions": 44,
+          "accuracy": 0.5802469135802469,
+          "difficulty": 0.6931486880466472
+        }
+      },
+      "explanation": {
+        "id": "dd8a96c6-2aae-4fe5-b132-6b95f4a3f4cf",
+        "body": null,
+        "questionId": "0736cd16-e8b4-48da-8659-da5f4aa6c9af",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

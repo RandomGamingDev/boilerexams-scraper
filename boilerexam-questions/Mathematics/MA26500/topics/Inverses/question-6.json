@@ -1,0 +1,158 @@
+{
+  "id": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $A=\\left[\\begin{array}{ccc}1 & 0 & -2 \\\\ -3 & 1 & 4 \\\\ 2 & -3 & 4\\end{array}\\right]$ and let its inverse $A^{-1}=\\left[b_{i j}\\right]$. Find $b_{12}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "62ab10b0-7ab8-44b9-864d-6ccdce54b29c",
+        "index": 0,
+        "body": "$-3$",
+        "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+        "stats": {
+          "count": 613
+        },
+        "resources": []
+      },
+      {
+        "id": "68835a3a-4fda-4fd5-8b4d-c99902d0cbe6",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+        "stats": {
+          "count": 2118
+        },
+        "resources": []
+      },
+      {
+        "id": "d0b16538-3247-4a23-8610-0f96163b574a",
+        "index": 2,
+        "body": "$6$",
+        "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+        "stats": {
+          "count": 218
+        },
+        "resources": []
+      },
+      {
+        "id": "640206d7-7573-4eee-af28-23acda09501a",
+        "index": 3,
+        "body": "$10$",
+        "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+        "stats": {
+          "count": 229
+        },
+        "resources": []
+      },
+      {
+        "id": "63730779-9ce6-4327-b086-1c8676a5289a",
+        "index": 4,
+        "body": "$-10$",
+        "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "779004232",
+    "timeSpentVideo": "108064323",
+    "submissions": 4004,
+    "submissionsCorrect": 2118,
+    "accuracy": 0.528971028971029,
+    "difficulty": 0.7217348927875243
+  },
+  "resources": [],
+  "exam": {
+    "id": "fc70ce83-84cd-4d90-866d-956bc38d01fb",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "15459276069",
+      "timeSpentVideo": "3433069532",
+      "submissions": 82245,
+      "submissionsCorrect": 48786,
+      "questions": 25,
+      "accuracy": 0.5931789166514682,
+      "difficulty": 0.656934240087437
+    }
+  },
+  "explanation": {
+    "id": "a57c591a-7207-4b11-b20d-12ab6dd11a96",
+    "body": "",
+    "questionId": "3549bfc5-3c1f-407b-bb2c-6809c6456692",
+    "resources": [
+      {
+        "id": "2f55beea-775c-458e-9cac-2e3bbe6f8875",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/_6BbhuV8tas?t=1912\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a57c591a-7207-4b11-b20d-12ab6dd11a96",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19238587768",
+        "timeSpentVideo": "1812287772",
+        "submissions": 41140,
+        "submissionsCorrect": 22418,
+        "questions": 17,
+        "accuracy": 0.5449197860962567,
+        "difficulty": 0.7051891367604267
+      }
+    },
+    {
+      "id": "c7d3bdb4-2317-449d-bec3-6f564b949d37",
+      "name": "Cramers Rule",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7622482732",
+        "timeSpentVideo": "637127207",
+        "submissions": 19277,
+        "submissionsCorrect": 10356,
+        "questions": 7,
+        "accuracy": 0.5372205218654355,
+        "difficulty": 0.7129715642256284
+      }
+    }
+  ],
+  "children": []
+}

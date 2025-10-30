@@ -1,0 +1,113 @@
+{
+  "id": "afd94715-53e8-44b9-beb6-d0371ff36ae1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Bruno says the largest key in a 2-3 tree sometimes can be found in an interior node. Is Bruno right?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b42bd1ea-6eb3-403d-9c26-c9f413ac0757",
+        "index": 0,
+        "body": "Yes, Bruno is right. In a 2-3 tree with only one node (the root), the largest key will be found in that node.\n",
+        "questionId": "afd94715-53e8-44b9-beb6-d0371ff36ae1",
+        "stats": {
+          "count": 302
+        },
+        "resources": []
+      },
+      {
+        "id": "4e6ea577-87a6-4b9a-807a-bb71c6c9db7a",
+        "index": 1,
+        "body": "No, Bruno is wrong. Internal nodes in a 2-3 tree always have at least two children, in which the rightmost child will always be bigger than the internal node's key(s).\n",
+        "questionId": "afd94715-53e8-44b9-beb6-d0371ff36ae1",
+        "stats": {
+          "count": 1244
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "85514688",
+    "timeSpentVideo": "10158449",
+    "submissions": 1594,
+    "submissionsCorrect": 1244,
+    "accuracy": 0.7804265997490589,
+    "difficulty": 0.4861275088547816
+  },
+  "resources": [],
+  "exam": {
+    "id": "59cc5994-2177-4291-b12d-b0e69c9cca5a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1946630963",
+      "timeSpentVideo": "322126112",
+      "submissions": 12485,
+      "submissionsCorrect": 8220,
+      "questions": 8,
+      "accuracy": 0.6583900680816981,
+      "difficulty": 0.5928684942391736
+    }
+  },
+  "explanation": {
+    "id": "391c0377-9b62-44d7-a4f2-49a2367044b2",
+    "body": "",
+    "questionId": "afd94715-53e8-44b9-beb6-d0371ff36ae1",
+    "resources": [
+      {
+        "id": "7f5d306d-5168-4f2c-a127-7d0e7d42baf1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/aMC7yAJuKrg?t=1309"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "391c0377-9b62-44d7-a4f2-49a2367044b2",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "d8a419a1-5a52-4c92-9c24-e962c5d8d2cb",
+      "name": "2-3 Trees",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4047726045",
+        "timeSpentVideo": "284304138",
+        "submissions": 9800,
+        "submissionsCorrect": 6165,
+        "questions": 8,
+        "accuracy": 0.6290816326530613,
+        "difficulty": 0.6222222222222222
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,158 @@
+{
+  "id": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $C[-1,1]$ be the space of all continuous functions over $[-1,1]$ with the inner product\n\n\n\\[\n\\langle f(t), g(t)\\rangle=\\int_{-1}^{1} f(t) g(t) d t \\quad \\text { for any } f(t), g(t) \\in C[-1,1] .\n\\]\n\nWhich of the following set is an orthogonal basis of $\\operatorname{Span}\\left\\{1, t-1, t^{2}+t\\right\\}$ ?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "a5026250-804e-4355-8d38-07b147315217",
+        "index": 0,
+        "body": "$1, t, t^{2}$",
+        "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "16a6ff93-b42d-4efd-b0c8-f75ec46870cd",
+        "index": 1,
+        "body": "$1, t-1, t^{2}+t$",
+        "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "0c55ee77-1187-432f-a0ef-cefc2f1c2891",
+        "index": 2,
+        "body": "$1, t, t^{2}-1$",
+        "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "61c48842-8d73-46dd-8cc7-92362cae6414",
+        "index": 3,
+        "body": "$1, t-1, t^{2}$",
+        "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "18ea0aa7-ce34-484f-8bf9-7e8f57970a43",
+        "index": 4,
+        "body": "$1, t, t^{2}-\\frac{1}{3}$.",
+        "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+        "stats": {
+          "count": 723
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": "",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "446493364",
+    "timeSpentVideo": "83596141",
+    "submissions": 1523,
+    "submissionsCorrect": 723,
+    "accuracy": 0.4747209455022981,
+    "difficulty": 0.7737215033887862
+  },
+  "resources": [],
+  "exam": {
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
+    "number": 0,
+    "year": 2019,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "9094957831",
+      "timeSpentVideo": "1664584904",
+      "submissions": 48752,
+      "submissionsCorrect": 30446,
+      "questions": 25,
+      "accuracy": 0.6245077125041024,
+      "difficulty": 0.625747154671252
+    }
+  },
+  "explanation": {
+    "id": "811e01ba-c3ed-4873-b270-c011c4a129d9",
+    "body": "",
+    "questionId": "5f0d48f5-32a7-413e-ab94-e2fee1fcb45e",
+    "resources": [
+      {
+        "id": "99607b9e-98ba-43fd-9702-65344b14ecaf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=4573\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "811e01ba-c3ed-4873-b270-c011c4a129d9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "640baa0d-5555-4cf9-8d6a-025905365429",
+      "name": "Inner Product",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2813088455",
+        "timeSpentVideo": "237315094",
+        "submissions": 5585,
+        "submissionsCorrect": 2916,
+        "questions": 3,
+        "accuracy": 0.5221128021486123,
+        "difficulty": 0.7282761653474055
+      }
+    },
+    {
+      "id": "a990d569-8a18-4df9-a1f0-2fc59b168eda",
+      "name": "Orthogonal Sets",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "6291015559",
+        "timeSpentVideo": "849868826",
+        "submissions": 14614,
+        "submissionsCorrect": 7169,
+        "questions": 7,
+        "accuracy": 0.49055700013685505,
+        "difficulty": 0.7593788228897649
+      }
+    }
+  ],
+  "children": []
+}

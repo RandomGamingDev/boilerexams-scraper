@@ -1,0 +1,133 @@
+{
+  "id": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding user-defined functions is FALSE?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ae0bfb48-bc2e-4b35-92f0-858bc5c7594d",
+        "index": 0,
+        "body": "Not all functions that utilize pass by address are void functions.",
+        "questionId": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+        "stats": {
+          "count": 148
+        },
+        "resources": []
+      },
+      {
+        "id": "526d978b-b735-46c4-9bce-7d961b78302b",
+        "index": 1,
+        "body": "When working with a parameter that has been passed by address it is unnecessary to use the address operator in the scanf because a pointer variable already represents a memory location.",
+        "questionId": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+        "stats": {
+          "count": 564
+        },
+        "resources": []
+      },
+      {
+        "id": "c6fa69f2-a40f-47d7-aad3-02b48ed1912f",
+        "index": 2,
+        "body": "A function that passes at least one parameter by address must pass them all by address.",
+        "questionId": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+        "stats": {
+          "count": 3365
+        },
+        "resources": []
+      },
+      {
+        "id": "b0883f0c-35cc-42b0-9905-d2a495151c61",
+        "index": 3,
+        "body": "None of the above",
+        "questionId": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+        "stats": {
+          "count": 194
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "",
+  "examId": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "392919579",
+    "timeSpentVideo": "6720359",
+    "submissions": 4329,
+    "submissionsCorrect": 3365,
+    "accuracy": 0.7773157773157773,
+    "difficulty": 0.47894558591104086
+  },
+  "resources": [],
+  "exam": {
+    "id": "ac146383-41db-4679-9a20-46ad4b1eb5a1",
+    "number": 1,
+    "year": 2019,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "10989232909",
+      "timeSpentVideo": "216999093",
+      "submissions": 113394,
+      "submissionsCorrect": 80171,
+      "questions": 34,
+      "accuracy": 0.7070127167222252,
+      "difficulty": 0.5431696829788358
+    }
+  },
+  "explanation": {
+    "id": "9f540195-6cb8-4341-a2d3-f5b0fe635454",
+    "body": "",
+    "questionId": "b11f9be2-0597-4e1c-a18e-21adf77967fc",
+    "resources": [
+      {
+        "id": "8374ddd3-5267-47d9-bfaf-c76da59a6133",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/iXIu2rj740o?si=Y2qsDnDbufroCuFh&t=1589"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9f540195-6cb8-4341-a2d3-f5b0fe635454",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9d34ecb4-85a1-4be8-a9b9-b63a0a9a3aae",
+      "name": "True-False E1",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "95394371651",
+        "timeSpentVideo": "637342601",
+        "submissions": 283975,
+        "submissionsCorrect": 186246,
+        "questions": 68,
+        "accuracy": 0.6558535082313584,
+        "difficulty": 0.5942013552758955
+      }
+    }
+  ],
+  "children": []
+}

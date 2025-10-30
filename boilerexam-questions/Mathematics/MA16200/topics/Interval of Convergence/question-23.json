@@ -1,0 +1,153 @@
+{
+  "id": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the interval of convergence for the following power series:\n\n\n\\[\n\\sum_{k=1}^{\\infty} \\frac{x^{k}}{\\sqrt{k}}\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ba24d529-4a54-4685-9eed-23f266e60ac9",
+        "index": 0,
+        "body": "Only $x=0$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 147
+        },
+        "resources": []
+      },
+      {
+        "id": "447b1410-a8d7-493e-bb96-2a6c46af85d7",
+        "index": 1,
+        "body": "$(-\\infty, \\infty)$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 186
+        },
+        "resources": []
+      },
+      {
+        "id": "066afa44-d644-4823-8ea6-25d2ad2420ca",
+        "index": 2,
+        "body": "$[-1,1)$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 1629
+        },
+        "resources": []
+      },
+      {
+        "id": "ad2c6f1f-cd68-4cb6-aafa-9bd6d2bf3191",
+        "index": 3,
+        "body": "$(-1,1)$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 222
+        },
+        "resources": []
+      },
+      {
+        "id": "0eeacae0-9893-4ea7-8f99-6ee6f5b09f14",
+        "index": 4,
+        "body": "$[-1,1]$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 144
+        },
+        "resources": []
+      },
+      {
+        "id": "a200e90d-b743-4ff8-a4ff-a928611d018c",
+        "index": 5,
+        "body": "$(-1,1]$",
+        "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+        "stats": {
+          "count": 126
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": "",
+  "examId": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "315844489",
+    "timeSpentVideo": "63816346",
+    "submissions": 2695,
+    "submissionsCorrect": 1629,
+    "accuracy": 0.6044526901669759,
+    "difficulty": 0.6492844364937388
+  },
+  "resources": [],
+  "exam": {
+    "id": "4fcc7c2a-1fe9-4ae6-9c5c-f8392b60a826",
+    "number": 0,
+    "year": 2021,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "14444364132",
+      "timeSpentVideo": "2335838174",
+      "submissions": 74342,
+      "submissionsCorrect": 39141,
+      "questions": 25,
+      "accuracy": 0.5264991525651718,
+      "difficulty": 0.7235364444802665
+    }
+  },
+  "explanation": {
+    "id": "6402627e-8f67-4d43-9f4d-42a23b911aea",
+    "body": "",
+    "questionId": "d00d8cc2-6b0d-41f1-8634-a084c3a5c04f",
+    "resources": [
+      {
+        "id": "8b5921d4-5909-4868-bdf5-c0bfc09d1a23",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/3cm65JbMGM8?t=1999\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6402627e-8f67-4d43-9f4d-42a23b911aea",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b4a6bc20-d810-457d-82cf-7f9d58e742fa",
+      "name": "Interval of Convergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5544839402",
+        "timeSpentVideo": "849846646",
+        "submissions": 14862,
+        "submissionsCorrect": 8780,
+        "questions": 6,
+        "accuracy": 0.5907684026375992,
+        "difficulty": 0.6598382569175244
+      }
+    }
+  ],
+  "children": []
+}

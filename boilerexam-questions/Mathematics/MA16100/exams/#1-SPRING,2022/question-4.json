@@ -1,0 +1,143 @@
+{
+  "id": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Express the given quantity as a single logarithm\n\n\n\n\\[\n\\frac{2}{5} \\ln (x+7)-\\ln \\sqrt[5]{x}-\\frac{1}{5} \\ln \\left(x^{2}-8\\right)\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "4b8567aa-3b45-485b-b0cb-1dced0a6edaf",
+        "index": 0,
+        "body": "$\\ln \\sqrt[5]{\\frac{(x+7)^{2}\\left(x^{2}-8\\right)}{x}}$",
+        "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+        "stats": {
+          "count": 205
+        },
+        "resources": []
+      },
+      {
+        "id": "da0aaede-b176-4a8b-a1f7-bcf8a0e7b204",
+        "index": 1,
+        "body": "$\\ln \\sqrt[5]{\\frac{x(x+7)^{2}}{\\left(x^{2}-8\\right)}}$",
+        "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+        "stats": {
+          "count": 114
+        },
+        "resources": []
+      },
+      {
+        "id": "5406f135-5898-4371-a063-6ad515ab3807",
+        "index": 2,
+        "body": "$\\ln \\sqrt[5]{\\frac{x^{2}-8}{x(x+7)^{2}}}$",
+        "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "6af7fa22-9a41-410e-aaa2-97781d1f2a96",
+        "index": 3,
+        "body": "$\\ln \\sqrt[5]{\\frac{2(x+7)}{x\\left(x^{2}-8\\right)}}$",
+        "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+        "stats": {
+          "count": 117
+        },
+        "resources": []
+      },
+      {
+        "id": "d5d3b8ac-cc3c-45d5-82d5-d80da6e2236d",
+        "index": 4,
+        "body": "$\\ln \\sqrt[5]{\\frac{(x+7)^2}{x\\left(x^{2}-8\\right)}}$",
+        "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+        "stats": {
+          "count": 1197
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+  "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "299850264",
+    "timeSpentVideo": "66895922",
+    "submissions": 1871,
+    "submissionsCorrect": 1197,
+    "accuracy": 0.6397648316408338,
+    "difficulty": 0.617326230339929
+  },
+  "resources": [],
+  "exam": {
+    "id": "0d0ca633-0a7a-4596-b01f-0ba860c9bcbd",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3559385729",
+      "timeSpentVideo": "911881661",
+      "submissions": 26164,
+      "submissionsCorrect": 15867,
+      "questions": 12,
+      "accuracy": 0.6064439688121083,
+      "difficulty": 0.6439613158696315
+    }
+  },
+  "explanation": {
+    "id": "5f8b8fe1-9477-4ef9-afa9-010061408283",
+    "body": "",
+    "questionId": "28b8fca7-38c9-43e0-95e1-2c22da4b4533",
+    "resources": [
+      {
+        "id": "47aae3c4-0097-4697-904d-d7126e8258a9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/4c4tD0-xJw4?t=1240"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "5f8b8fe1-9477-4ef9-afa9-010061408283",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "25d7a724-98c8-4792-ac97-da58dbc53f3d",
+      "name": "Properties of Logarithms",
+      "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2230447009",
+        "timeSpentVideo": "205484576",
+        "submissions": 5660,
+        "submissionsCorrect": 3749,
+        "questions": 4,
+        "accuracy": 0.6623674911660777,
+        "difficulty": 0.5904513888888889
+      }
+    }
+  ],
+  "children": []
+}

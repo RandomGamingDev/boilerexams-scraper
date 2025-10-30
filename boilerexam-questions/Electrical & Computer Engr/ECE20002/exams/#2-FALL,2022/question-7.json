@@ -1,0 +1,205 @@
+{
+  "id": "a58e920f-1075-4315-914d-17d35979077f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the impulse response of the capacitor voltage, $v_c(t)$, for the circuit shown below. (Assume zero initial conditions.)",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7861802c-a4b0-4336-8994-ce6c0091b84a",
+        "index": 0,
+        "body": "$1-e^{-t}\\ u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "ecbdaec9-282b-4801-96ea-5956009999af",
+        "index": 1,
+        "body": "$-e^{-t}u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "93a395ee-0a61-4e83-8c22-ac77a80f9ad0",
+        "index": 2,
+        "body": "$e^{-t}u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 448
+        },
+        "resources": []
+      },
+      {
+        "id": "4a45af10-9a9c-466b-8f44-0a982b6727ee",
+        "index": 3,
+        "body": "$\\left(10-10e^{-\\frac{t}{10}}\\right)u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f56982b8-0373-455d-aad8-92d0530994dc",
+        "index": 4,
+        "body": "$-10e^{-\\frac{t}{10}}u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "6c5fbd70-42b2-43e7-879b-aadf1b09d2f8",
+        "index": 5,
+        "body": "$10e^{-\\frac{t}{10}}u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "b1b882e9-7ad3-44e4-8f0d-0026b503fb67",
+        "index": 6,
+        "body": "$\\left(1-10e^{-\\frac{t}{10}}\\right)u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "4ac2c999-f8e3-443d-ad05-c9c770c00f9d",
+        "index": 7,
+        "body": "$\\left(1-10e^{-t}\\right)u\\left(t\\right)$",
+        "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "258875154",
+    "timeSpentVideo": "55233559",
+    "submissions": 959,
+    "submissionsCorrect": 448,
+    "accuracy": 0.46715328467153283,
+    "difficulty": 0.7797450424929179
+  },
+  "resources": [
+    {
+      "id": "7c3a0da1-5774-41ca-b24d-fff9163137d5",
+      "type": "IMAGE",
+      "data": {
+        "key": "cI8feJiLBjdPpZ0O3llMj",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/cI8feJiLBjdPpZ0O3llMj",
+        "altText": "Impulse"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "48c3d601-1714-40b4-9cc6-b003717d53df",
+    "body": "",
+    "questionId": "a58e920f-1075-4315-914d-17d35979077f",
+    "resources": [
+      {
+        "id": "56d73b2f-e237-45af-aa25-08ea447c1b2e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=4524s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "48c3d601-1714-40b4-9cc6-b003717d53df",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "094727d5-5b44-49f9-988e-7cd27f10d018",
+      "name": "1st Order Circuits",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2801830227",
+        "timeSpentVideo": "319019934",
+        "submissions": 3485,
+        "submissionsCorrect": 1764,
+        "questions": 4,
+        "accuracy": 0.5061692969870876,
+        "difficulty": 0.744002789400279
+      }
+    },
+    {
+      "id": "bab47bbe-e232-4210-9c16-ea2367899ac4",
+      "name": "Impulse Response",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1401120078",
+        "timeSpentVideo": "157570997",
+        "submissions": 1834,
+        "submissionsCorrect": 706,
+        "questions": 2,
+        "accuracy": 0.38495092693565974,
+        "difficulty": 0.8591003102378489
+      }
+    }
+  ],
+  "children": []
+}

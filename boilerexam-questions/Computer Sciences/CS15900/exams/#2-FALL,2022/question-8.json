@@ -1,0 +1,134 @@
+{
+  "id": "84040148-942b-4a8d-ac67-ffffc53602bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which operator(s) short-circuit in the code segment above?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "dcd8230f-049f-4142-98df-dfd9d272dd62",
+        "index": 0,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical AND on line 9.</font>",
+        "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+        "stats": {
+          "count": 1123
+        },
+        "resources": []
+      },
+      {
+        "id": "9c07b603-b8df-4bfe-a13b-92bb16e2220c",
+        "index": 1,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical AND on line 13.</font>",
+        "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+        "stats": {
+          "count": 514
+        },
+        "resources": []
+      },
+      {
+        "id": "3449d157-620c-4832-bee1-54cb07d5ed54",
+        "index": 2,
+        "body": "<font style=\"font-family:'Times New Roman'\">The logical OR on line 13.</font>",
+        "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+        "stats": {
+          "count": 626
+        },
+        "resources": []
+      },
+      {
+        "id": "fec0bc92-e22b-467d-b151-1703e873606a",
+        "index": 3,
+        "body": "More than one of the above.",
+        "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+        "stats": {
+          "count": 3127
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "452119331",
+    "timeSpentVideo": "0",
+    "submissions": 5431,
+    "submissionsCorrect": 3127,
+    "accuracy": 0.5757687350395876,
+    "difficulty": 0.6756011571144459
+  },
+  "resources": [
+    {
+      "id": "983e1807-f1f5-4bac-8af1-dac9a7fcc9ad",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n\nint main(void) \n{\n  int x = 0;\n  int y = 0;\n  int z = 0;\n  \n  if((++x ? z++ : ++z) && y++)\n  {\n    z = 'A';\n  }\n  else if(y++ || --z && x--)\n  {\n    z = 'B';\n  }\n  else if(!(x + y + z))\n  {\n    z = 'C';\n  }\n  \n  printf(\"x = %d, y = %d\\n\", x, y);\n  printf(\"z = %d\\n\", z);\n  \n  return(0);\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "16333649-8e5e-4b71-90f3-7a6a34213c8a",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11675607438",
+      "timeSpentVideo": "0",
+      "submissions": 140417,
+      "submissionsCorrect": 96793,
+      "questions": 33,
+      "accuracy": 0.6893253665866669,
+      "difficulty": 0.5608093682614915
+    }
+  },
+  "explanation": {
+    "id": "e87ed234-a306-41ef-8f31-1cd9ff6ecf62",
+    "body": "",
+    "questionId": "84040148-942b-4a8d-ac67-ffffc53602bb",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "498b120a-91b0-490e-b593-3506061bac22",
+      "name": "Logical Expressions",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "36295722570",
+        "timeSpentVideo": "577082425",
+        "submissions": 128316,
+        "submissionsCorrect": 83475,
+        "questions": 39,
+        "accuracy": 0.6505424109230338,
+        "difficulty": 0.5995748193371543
+      }
+    }
+  ],
+  "children": []
+}

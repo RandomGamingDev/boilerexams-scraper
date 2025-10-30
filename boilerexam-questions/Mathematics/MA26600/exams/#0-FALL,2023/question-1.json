@@ -1,0 +1,143 @@
+{
+  "id": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a general solution of the differential equation:\n\\[\n    \\frac{dy}{dx} = \\frac{x + 4}{\\sqrt{xy}}, \\quad (x > 0, y > 0)\n\\]",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "810c6c4f-b38b-4f3e-8e81-39948608aa86",
+        "index": 0,
+        "body": "$\n\\frac{1}{2}x^{3/2} + 8x^{1/2} - \\frac{2}{3}y^{2/3} = C\n$",
+        "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "d1a43cfd-edb2-4b9a-8cc3-0f02b9af1388",
+        "index": 1,
+        "body": "$\n\\frac{3}{2}x^{2/3} + 8x^{1/2} + \\frac{3}{2}y^{2/3} = C\n$",
+        "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "6cdf2bca-f4b5-449e-acf4-09cacc367585",
+        "index": 2,
+        "body": "$\ny = x+ 12x^{-1} + C\n$\n",
+        "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "c6767e4b-2318-4093-b9e8-b38b0a697658",
+        "index": 3,
+        "body": "$\ny = (x^{3/2} + 12\\sqrt{x})^{2/3} + C\n$\n",
+        "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+        "stats": {
+          "count": 80
+        },
+        "resources": []
+      },
+      {
+        "id": "45e76551-61a3-45a2-abe3-fd7abe655042",
+        "index": 4,
+        "body": "$\n\\frac{2}{3}x^{3/2} + 8x^{1/2} - \\frac{2}{3}y^{3/2} = C\n$\n",
+        "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+        "stats": {
+          "count": 454
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "219364545",
+    "timeSpentVideo": "42271385",
+    "submissions": 894,
+    "submissionsCorrect": 454,
+    "accuracy": 0.5078299776286354,
+    "difficulty": 0.7429577464788732
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "d97dd218-b910-42c4-b445-d447eb999700",
+    "body": null,
+    "questionId": "352524eb-9f9c-4ff8-ac50-9acb1d22e925",
+    "resources": [
+      {
+        "id": "22a59030-1c5d-4317-a455-4b52cc4bf988",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=3s0aDC4h1w_a_RA1&t=3"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d97dd218-b910-42c4-b445-d447eb999700",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "34aba8fa-b5b2-485b-b97e-c00d4543b0f8",
+      "name": "Separation of Variables",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5099666475",
+        "timeSpentVideo": "411910359",
+        "submissions": 9217,
+        "submissionsCorrect": 6016,
+        "questions": 8,
+        "accuracy": 0.652706954540523,
+        "difficulty": 0.5989320596758614
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,183 @@
+{
+  "id": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find $g'(1).$\n\\[g(x) = \\left(\\frac{-x}{x^2-2} \\right)^3\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "118c54d8-57e7-4aeb-8887-7724685e7ae1",
+        "index": 0,
+        "body": "12",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "e89256d7-3820-41a9-91d4-685bd9f731b5",
+        "index": 1,
+        "body": "9",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 160
+        },
+        "resources": []
+      },
+      {
+        "id": "d2830c62-72d4-4a0f-be8d-08ee24e29d7c",
+        "index": 2,
+        "body": "6",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "3e414f8b-2156-4041-bf82-eaaa9255fca3",
+        "index": 3,
+        "body": "3",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "7680a968-b911-4db6-b457-779c03aea13b",
+        "index": 4,
+        "body": "27",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "a984f3c2-81aa-4021-9871-43b2fb02bfe1",
+        "index": 5,
+        "body": "18",
+        "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "66204368",
+    "timeSpentVideo": "5586549",
+    "submissions": 271,
+    "submissionsCorrect": 160,
+    "accuracy": 0.5904059040590406,
+    "difficulty": 0.6839622641509434
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfdc38d0-2ae7-4a96-9a7a-cfb9b7834927",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "686782416",
+      "timeSpentVideo": "59313704",
+      "submissions": 3541,
+      "submissionsCorrect": 2314,
+      "questions": 12,
+      "accuracy": 0.6534877153346512,
+      "difficulty": 0.6007278220269157
+    }
+  },
+  "explanation": {
+    "id": "a0bf4517-f261-4995-9ced-9c68c2e7a34e",
+    "body": null,
+    "questionId": "aff1febf-259e-4de9-abfc-3c6f7b7693c6",
+    "resources": [
+      {
+        "id": "2cb656a9-34f6-4d4d-a321-0d5c0873233b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/lCDtQkKTFbE?si=qSMi-K_aQpTl1rAt&t=2846"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a0bf4517-f261-4995-9ced-9c68c2e7a34e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "578309b7-0620-41f3-93fc-a40ad9556c92",
+      "name": "Quotient Rule",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "309397595",
+        "timeSpentVideo": "7771825",
+        "submissions": 515,
+        "submissionsCorrect": 318,
+        "questions": 2,
+        "accuracy": 0.6174757281553398,
+        "difficulty": 0.6516260162601626
+      }
+    },
+    {
+      "id": "6e3801d2-70a4-40e5-a8ec-137881e489fa",
+      "name": "Chain Rule",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "148526549",
+        "timeSpentVideo": "5586549",
+        "submissions": 271,
+        "submissionsCorrect": 160,
+        "questions": 1,
+        "accuracy": 0.5904059040590406,
+        "difficulty": 0.6839622641509434
+      }
+    },
+    {
+      "id": "cae2ab69-f512-4331-bace-ce5036bbdc52",
+      "name": "Derivatives E1",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1110546051",
+        "timeSpentVideo": "26984983",
+        "submissions": 1834,
+        "submissionsCorrect": 1230,
+        "questions": 7,
+        "accuracy": 0.6706652126499455,
+        "difficulty": 0.5881592554291624
+      }
+    }
+  ],
+  "children": []
+}

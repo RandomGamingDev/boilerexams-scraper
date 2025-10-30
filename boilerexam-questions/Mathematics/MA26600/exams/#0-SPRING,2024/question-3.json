@@ -1,0 +1,158 @@
+{
+  "id": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If the Wronskian \\( W(f, g) = 4t^4 \\) and \\( f(t) = t^2 \\), for \\( t > 0 \\), then the function \\( g \\) could be:\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "570d4c61-a9d3-43ef-b375-223b51f48455",
+        "index": 0,
+        "body": "\\(C t + 4 t^4\\)",
+        "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "0adab67f-dd5d-4d35-ab76-ef74b63163b8",
+        "index": 1,
+        "body": "\\(C t^2 + 4 t^2\\)",
+        "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "959f7483-2130-4432-b8a9-62d51d1bd74b",
+        "index": 2,
+        "body": "\\(C t ^2+ 4 t^4\\)",
+        "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "dc4123c6-3899-4f23-a2ad-556f8599f6d0",
+        "index": 3,
+        "body": "\\(C t + 4 t^3\\)",
+        "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+        "stats": {
+          "count": 97
+        },
+        "resources": []
+      },
+      {
+        "id": "c1ab1f5a-5b76-4e10-b0f6-e027ee4fc23f",
+        "index": 4,
+        "body": "\\(C t ^2+ 4 t^3\\)",
+        "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+        "stats": {
+          "count": 571
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "226627043",
+    "timeSpentVideo": "52805043",
+    "submissions": 1086,
+    "submissionsCorrect": 571,
+    "accuracy": 0.5257826887661142,
+    "difficulty": 0.7263912310286678
+  },
+  "resources": [],
+  "exam": {
+    "id": "c3ea7c6b-83ab-4ae8-b933-86fc51c8b33b",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3715493202",
+      "timeSpentVideo": "858715550",
+      "submissions": 16650,
+      "submissionsCorrect": 9748,
+      "questions": 20,
+      "accuracy": 0.5854654654654655,
+      "difficulty": 0.6650447761194029
+    }
+  },
+  "explanation": {
+    "id": "edd375d3-4c57-4421-a624-8a8a76d2996b",
+    "body": null,
+    "questionId": "6dcda1be-b614-4ab5-b487-b2001f800de0",
+    "resources": [
+      {
+        "id": "95007b3a-b3dd-4c73-9cd1-3fe4f452c1cf",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=MM5EgYi0oyI&t=698s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "edd375d3-4c57-4421-a624-8a8a76d2996b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "01e06b91-18fe-4c84-91c8-3c31284c54cc",
+      "name": "Wronskian",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3865909676",
+        "timeSpentVideo": "107031537",
+        "submissions": 6559,
+        "submissionsCorrect": 4363,
+        "questions": 5,
+        "accuracy": 0.6651928647659704,
+        "difficulty": 0.5872878810632227
+      }
+    },
+    {
+      "id": "b9f3e8f5-0f29-4c1e-8445-4e4132655c51",
+      "name": "Integrating Factor",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "9758981890",
+        "timeSpentVideo": "524758805",
+        "submissions": 15108,
+        "submissionsCorrect": 9844,
+        "questions": 11,
+        "accuracy": 0.65157532433148,
+        "difficulty": 0.5994213571804313
+      }
+    }
+  ],
+  "children": []
+}

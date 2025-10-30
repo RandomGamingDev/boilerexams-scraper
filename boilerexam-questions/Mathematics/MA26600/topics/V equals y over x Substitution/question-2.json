@@ -1,0 +1,158 @@
+{
+  "id": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Solve the initial value problem \\[\\frac{dy}{dx}=\\frac{xy+y^2}{x^2},y(1)=\\frac{1}{2}\\] for $x>0$ using the substitution $v=\\frac{y}{x}$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6ed19d52-3c07-4f2a-b522-e0805444606e",
+        "index": 0,
+        "body": "\\[y=\\frac{x}{2+lnx}\\]",
+        "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "8b70d27f-22d8-47ee-bb94-930c619a9917",
+        "index": 1,
+        "body": "\\[y=\\frac{x}{2-lnx}\\]",
+        "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+        "stats": {
+          "count": 706
+        },
+        "resources": []
+      },
+      {
+        "id": "14a12326-4086-444d-824c-071053507918",
+        "index": 2,
+        "body": "\\[y=\\frac{1}{2-lnx}\\]",
+        "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "2030504c-db95-4ee8-954c-31b75a612e34",
+        "index": 3,
+        "body": "\\[y=\\frac{x}{4-2x}\\]",
+        "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "b51870fb-4f16-4982-9629-e8cef119bca3",
+        "index": 4,
+        "body": "\\[y=\\frac{x}{1+x}\\]",
+        "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "82301abe-9979-4c8e-83ea-541af6ca5559",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "321353994",
+    "timeSpentVideo": "34886925",
+    "submissions": 1130,
+    "submissionsCorrect": 706,
+    "accuracy": 0.6247787610619469,
+    "difficulty": 0.6353658536585366
+  },
+  "resources": [],
+  "exam": {
+    "id": "82301abe-9979-4c8e-83ea-541af6ca5559",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2354479366",
+      "timeSpentVideo": "420622954",
+      "submissions": 9906,
+      "submissionsCorrect": 5799,
+      "questions": 10,
+      "accuracy": 0.5854027861901878,
+      "difficulty": 0.6654507295622626
+    }
+  },
+  "explanation": {
+    "id": "34ccb71f-1f50-4ec4-a320-7e9238385f2d",
+    "body": null,
+    "questionId": "3d67dfac-6bc0-41aa-a660-b527039f069c",
+    "resources": [
+      {
+        "id": "c76faa95-aef3-439e-8e3b-ac2533b1fac0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=Uo3rS0KPQXM&t=447s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "34ccb71f-1f50-4ec4-a320-7e9238385f2d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "06a9b3f8-81e6-463a-bca0-10d82a5a603e",
+      "name": "V equals y over x Substitution",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3882193550",
+        "timeSpentVideo": "34886925",
+        "submissions": 4372,
+        "submissionsCorrect": 3299,
+        "questions": 3,
+        "accuracy": 0.7545745654162854,
+        "difficulty": 0.5011180679785331
+      }
+    },
+    {
+      "id": "34aba8fa-b5b2-485b-b97e-c00d4543b0f8",
+      "name": "Separation of Variables",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5099666475",
+        "timeSpentVideo": "411910359",
+        "submissions": 9217,
+        "submissionsCorrect": 6016,
+        "questions": 8,
+        "accuracy": 0.652706954540523,
+        "difficulty": 0.5989320596758614
+      }
+    }
+  ],
+  "children": []
+}

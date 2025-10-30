@@ -1,0 +1,118 @@
+{
+  "id": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Alice, Jane and Elizabeth designed three new algorithms for Mango Enterprises. Let $T_A(n)$ (resp. $T_J(n)$ and $T_E(n)$) denote the worst-case running time of Alice\u2019s (resp. Jane\u2019s and Elizabeth\u2019s) algorithm on any input of size $n$. Mango Enterprises works with very large datasets so they are only able to use algorithms with worst case running time $T(n) \u2208 O(n^2)$.\n\n(a) Alice runs her algorithm on data sets of size $n=10^6$ and $n=10^7$ and finds that the algorithm terminates in $3\u00d710^6$ and $3\u00d710^7$ steps respectively. Based on the observations above can Alice conclude that $T_A(n)\u2208O(n)$?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "61fecfc2-b7de-41b9-aef5-7b0bace89393",
+        "index": 0,
+        "body": "Yes. The data given is enough to estimate the algorithm's runtime, which is $O(n)$.",
+        "questionId": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+        "stats": {
+          "count": 168
+        },
+        "resources": []
+      },
+      {
+        "id": "d9f7c4f3-ad0d-40d1-921a-891fbc858d55",
+        "index": 1,
+        "body": "Yes. The algorithm's runtime is $O(3n)$.",
+        "questionId": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "3acd9dc1-828e-404e-b0d3-cc29cde56fed",
+        "index": 2,
+        "body": "No. The function is too slow and has runtimes too large to be considered $O(n)$.",
+        "questionId": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "38e44ce9-4bb2-4614-b57b-97dfadd70447",
+        "index": 3,
+        "body": "No. There is not enough information given from the data given to draw a reasonable conclusion for the algorithm's time complexity.",
+        "questionId": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+        "stats": {
+          "count": 757
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+  "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "171396819",
+    "timeSpentVideo": "0",
+    "submissions": 1104,
+    "submissionsCorrect": 757,
+    "accuracy": 0.6856884057971014,
+    "difficulty": 0.579734219269103
+  },
+  "resources": [],
+  "exam": {
+    "id": "dfc52ac6-393c-4c6a-ab1e-6ec80ee8eb73",
+    "number": 0,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2295258153",
+      "timeSpentVideo": "21124987",
+      "submissions": 15160,
+      "submissionsCorrect": 11655,
+      "questions": 17,
+      "accuracy": 0.7687994722955145,
+      "difficulty": 0.4829619921363041
+    }
+  },
+  "explanation": {
+    "id": "74b68a88-0a78-4269-89dd-8f889a8713f1",
+    "body": null,
+    "questionId": "7d521535-63aa-4b1b-94e3-ec4119a773c7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "885068da-3db9-4bf4-b430-e08260d910f1",
+      "name": "Big-O",
+      "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10975193489",
+        "timeSpentVideo": "225763555",
+        "submissions": 30115,
+        "submissionsCorrect": 22476,
+        "questions": 22,
+        "accuracy": 0.7463390337041341,
+        "difficulty": 0.5044762535164653
+      }
+    }
+  ],
+  "children": []
+}

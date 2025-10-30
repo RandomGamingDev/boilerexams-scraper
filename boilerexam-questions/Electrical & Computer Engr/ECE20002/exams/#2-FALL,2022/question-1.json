@@ -1,0 +1,173 @@
+{
+  "id": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the solution, x(t) to the ODE\n\n$2e^{-2t}=3x(t)+4\\dot{x}(t)+\\ddot{x}(t)$\n\nfor times t $\\geq$ 0, with initial conditons $x(0) = 6,\\ \\dot{x}(0) = -6$.\n\n",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "06989d41-71ed-451e-83ef-2a3a93f4b511",
+        "index": 0,
+        "body": "$5e^{-\\frac{t}{3}}+0.6e^{-t}-0.4e^{-2t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "b2cbd218-985b-417d-857c-1348dbe6773f",
+        "index": 1,
+        "body": "$2e^{-t}-7e^{-2t}+e^{-3t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "f6317848-1bdf-40cc-a710-a7083e4a86e5",
+        "index": 2,
+        "body": "$0.6e^{-\\frac{t}{3}}+5e^{-t}-0.4e^{-2t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "05d931d6-917b-4dad-9abe-4791d72bff5d",
+        "index": 3,
+        "body": "$7e^{-t}-2e^{-2t}+e^{-3t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 535
+        },
+        "resources": []
+      },
+      {
+        "id": "f29cfc04-4915-461c-bf3d-4bbecbf3c08e",
+        "index": 4,
+        "body": "$0.5e^{-\\frac{t}{3}}+0.6e^{-t}-5e^{-2t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "7c7b6ac9-5771-4d75-a75e-22167934f644",
+        "index": 5,
+        "body": "$e^{-t}-7e^{-2t}+2e^{-3t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      },
+      {
+        "id": "699e1d21-8ce6-4cea-abee-13a1b840af01",
+        "index": 6,
+        "body": "$0.4e^{-\\frac{t}{3}}+0.6e^{-t}-5e^{-2t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "a5b518e9-045e-4707-bd3a-40ba579a772a",
+        "index": 7,
+        "body": "$2e^{-t}-e^{-2t}+7e^{-3t}$",
+        "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+  "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "369400947",
+    "timeSpentVideo": "63475789",
+    "submissions": 986,
+    "submissionsCorrect": 535,
+    "accuracy": 0.5425963488843814,
+    "difficulty": 0.7113259668508287
+  },
+  "resources": [],
+  "exam": {
+    "id": "5d5f41fb-c814-42d8-af36-a585bbdd51bf",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2520219658",
+      "timeSpentVideo": "399969773",
+      "submissions": 7648,
+      "submissionsCorrect": 4153,
+      "questions": 10,
+      "accuracy": 0.5430177824267782,
+      "difficulty": 0.7075374290139391
+    }
+  },
+  "explanation": {
+    "id": "cb1f6ce1-4dd5-4e16-b96f-ec426e771616",
+    "body": "",
+    "questionId": "294f1ff0-fa7c-40b6-8566-db4a0e34c457",
+    "resources": [
+      {
+        "id": "48057ec9-d6c0-4d3c-884d-1b4b7c046cd4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XmNN35Eko_U&t=74s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "cb1f6ce1-4dd5-4e16-b96f-ec426e771616",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8782b6f8-9fc9-44e5-a286-6e8a3e47be68",
+      "name": "Differential Equations",
+      "courseId": "80d160dd-4c67-49a5-ad90-6b9414e08685",
+      "stats": {
+        "count": 1,
+        "timeSpent": "968190431",
+        "timeSpentVideo": "80750439",
+        "submissions": 986,
+        "submissionsCorrect": 535,
+        "questions": 1,
+        "accuracy": 0.5425963488843814,
+        "difficulty": 0.7113259668508287
+      }
+    }
+  ],
+  "children": []
+}

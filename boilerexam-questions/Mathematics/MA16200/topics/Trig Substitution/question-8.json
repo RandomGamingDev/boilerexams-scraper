@@ -1,0 +1,143 @@
+{
+  "id": "8d57a00e-f964-4153-b09c-9c516c23f436",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which trigonometric substitution should be used to compute\n\n\n\\[\n\\int \\frac{d t}{\\sqrt{20-4 t+t^{2}}} ?\n\\]",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "c77eecd1-2981-48e9-92ab-127f8c4faf3a",
+        "index": 0,
+        "body": "$t=2 \\tan \\theta-20$",
+        "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      },
+      {
+        "id": "f2a09c06-f770-4a3e-b84d-7a139a9d7b85",
+        "index": 1,
+        "body": "$t=2 \\tan \\theta-2$",
+        "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+        "stats": {
+          "count": 159
+        },
+        "resources": []
+      },
+      {
+        "id": "29071602-a7c6-4db1-9d92-16592bcbf106",
+        "index": 2,
+        "body": "$t=4 \\tan \\theta+2$",
+        "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+        "stats": {
+          "count": 1485
+        },
+        "resources": []
+      },
+      {
+        "id": "21f828c6-7225-4e05-9dbe-ee16795557f0",
+        "index": 3,
+        "body": "$t=4 \\tan \\theta+4$",
+        "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+        "stats": {
+          "count": 200
+        },
+        "resources": []
+      },
+      {
+        "id": "b35888ec-f4ab-40a7-989f-825d9f985998",
+        "index": 4,
+        "body": "$t=20 \\tan \\theta-2$",
+        "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "325758331",
+    "timeSpentVideo": "51177878",
+    "submissions": 2127,
+    "submissionsCorrect": 1485,
+    "accuracy": 0.6981664315937941,
+    "difficulty": 0.5607319263583296
+  },
+  "resources": [],
+  "exam": {
+    "id": "e82ac01a-5bf1-4d4c-95ed-33fb8f24c6d6",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "5399842556",
+      "timeSpentVideo": "732255418",
+      "submissions": 31170,
+      "submissionsCorrect": 19941,
+      "questions": 12,
+      "accuracy": 0.6397497593840231,
+      "difficulty": 0.6106971538215542
+    }
+  },
+  "explanation": {
+    "id": "4a9f5db6-b609-4c8f-8981-180149263390",
+    "body": "",
+    "questionId": "8d57a00e-f964-4153-b09c-9c516c23f436",
+    "resources": [
+      {
+        "id": "6bd22b37-430b-4eb1-b203-3e45cdf81f1a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PTC8Ri_8h4E?t=1314\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a9f5db6-b609-4c8f-8981-180149263390",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b94e04e8-42ff-4bc4-93ce-9c309d3fa4b3",
+      "name": "Trig Substitution",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20332620543",
+        "timeSpentVideo": "1580666257",
+        "submissions": 51508,
+        "submissionsCorrect": 30799,
+        "questions": 20,
+        "accuracy": 0.597945950143667,
+        "difficulty": 0.6522438381646256
+      }
+    }
+  ],
+  "children": []
+}

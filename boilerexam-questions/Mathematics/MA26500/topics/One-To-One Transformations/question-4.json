@@ -1,0 +1,158 @@
+{
+  "id": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathrm{A}$ be an $m \\times n$ matrix. Which of the following statements must be TRUE?\n\n(i) If the equation $A \\mathbf{x}=\\mathbf{0}$ has only the trivial solution, then $A \\mathbf{x}=\\mathbf{b}$ has at most one solution.\n\n(ii) If the linear transformation $\\mathbf{x} \\mapsto A \\mathbf{x}$ is one-to-one, then $m \\geq n$.\n\n(iii) If $m>n$, then the columns of $A$ are linearly dependent.\n\n(iv) If $A$ has $m$ pivot columns, then columns of $A$ span $\\mathbb{R}^{m}$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "f8b75a9a-3502-4814-b32c-c990aa8bf08b",
+        "index": 0,
+        "body": "(i) and (iii) only",
+        "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+        "stats": {
+          "count": 360
+        },
+        "resources": []
+      },
+      {
+        "id": "f70f8b70-162b-4c60-ae1c-2790b927da60",
+        "index": 1,
+        "body": "(ii) and (iii) only",
+        "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+        "stats": {
+          "count": 231
+        },
+        "resources": []
+      },
+      {
+        "id": "aeabe0f2-6450-4309-82c0-dcd40f96f8cd",
+        "index": 2,
+        "body": "(ii) and (iv) only",
+        "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+        "stats": {
+          "count": 845
+        },
+        "resources": []
+      },
+      {
+        "id": "d53d147a-76b8-4f3f-8947-2cbf67856402",
+        "index": 3,
+        "body": "(i), (ii) and (iv) only",
+        "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+        "stats": {
+          "count": 3232
+        },
+        "resources": []
+      },
+      {
+        "id": "47bf6c14-f4e9-4dd1-9088-c0afc8b37683",
+        "index": 4,
+        "body": "(i) only",
+        "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+        "stats": {
+          "count": 232
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+  "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "906777958",
+    "timeSpentVideo": "303899103",
+    "submissions": 5260,
+    "submissionsCorrect": 3232,
+    "accuracy": 0.6144486692015209,
+    "difficulty": 0.6376865671641792
+  },
+  "resources": [],
+  "exam": {
+    "id": "f11f05f3-883c-4557-bde5-f7cac5c203fc",
+    "number": 1,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "7451087147",
+      "timeSpentVideo": "1937973629",
+      "submissions": 38138,
+      "submissionsCorrect": 20922,
+      "questions": 10,
+      "accuracy": 0.548586711416435,
+      "difficulty": 0.7015403525288979
+    }
+  },
+  "explanation": {
+    "id": "aa16b9f4-5c9d-40ff-9bde-9ef21c022fe5",
+    "body": "",
+    "questionId": "73531b2e-b1c3-4db3-aac1-e09cd3d5c535",
+    "resources": [
+      {
+        "id": "e2939291-a0d6-496f-b9a3-569b020236c9",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/QzrKd21HPn8?t=802\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "aa16b9f4-5c9d-40ff-9bde-9ef21c022fe5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20817395401",
+        "timeSpentVideo": "2263737782",
+        "submissions": 43691,
+        "submissionsCorrect": 25420,
+        "questions": 11,
+        "accuracy": 0.5818131880707698,
+        "difficulty": 0.6683736384188532
+      }
+    },
+    {
+      "id": "d99fef25-19a8-4233-a070-ff92a7824447",
+      "name": "Linear Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "37178163451",
+        "timeSpentVideo": "4660987457",
+        "submissions": 81206,
+        "submissionsCorrect": 43737,
+        "questions": 28,
+        "accuracy": 0.538593207398468,
+        "difficulty": 0.7114542592182619
+      }
+    }
+  ],
+  "children": []
+}

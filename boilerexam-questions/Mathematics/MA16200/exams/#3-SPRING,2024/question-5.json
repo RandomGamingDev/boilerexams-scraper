@@ -1,0 +1,188 @@
+{
+  "id": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "What are all values of p that will make the following series converge?\n\\[\\sum_{n=1}^{\\infty}\\frac{(\\ln(n))^p}{n}\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "2ecfa2a8-6d66-48ec-aab3-006a376d6f6e",
+        "index": 0,
+        "body": "$p>-1$",
+        "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+        "stats": {
+          "count": 174
+        },
+        "resources": []
+      },
+      {
+        "id": "19656c90-c7f1-4f63-908c-217cbbc2dc42",
+        "index": 1,
+        "body": "$p<-1$",
+        "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+        "stats": {
+          "count": 1131
+        },
+        "resources": []
+      },
+      {
+        "id": "d5ad9ae5-d9d8-4881-bc03-1b70e880a847",
+        "index": 2,
+        "body": "p can be any real number.",
+        "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+        "stats": {
+          "count": 111
+        },
+        "resources": []
+      },
+      {
+        "id": "2e733346-b81c-410b-8d8d-feb454e9f22e",
+        "index": 3,
+        "body": "There is no value of p that makes the series converge.",
+        "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      },
+      {
+        "id": "e8dcb74c-6fa4-4d10-a913-8848bf19d71e",
+        "index": 4,
+        "body": "$p\\geq-1$",
+        "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+        "stats": {
+          "count": 63
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "366010731",
+    "timeSpentVideo": "78087941",
+    "submissions": 1830,
+    "submissionsCorrect": 1131,
+    "accuracy": 0.6180327868852459,
+    "difficulty": 0.6380829015544042
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a1ef7bd-0584-444b-9844-25592bec3b02",
+    "number": 3,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3456028268",
+      "timeSpentVideo": "520070896",
+      "submissions": 18336,
+      "submissionsCorrect": 11366,
+      "questions": 12,
+      "accuracy": 0.6198734729493892,
+      "difficulty": 0.6307767411586027
+    }
+  },
+  "explanation": {
+    "id": "08a9d5f9-854e-4118-a017-15091fc75e71",
+    "body": null,
+    "questionId": "1e43a495-8768-4c2a-b4b6-7981be8213da",
+    "resources": [
+      {
+        "id": "ce9daf34-aabc-42b9-86ab-1b2686c35854",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=eulVR-n2sNg&t=1422s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "08a9d5f9-854e-4118-a017-15091fc75e71",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b4a6bc20-d810-457d-82cf-7f9d58e742fa",
+      "name": "Interval of Convergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5544839402",
+        "timeSpentVideo": "849846646",
+        "submissions": 14862,
+        "submissionsCorrect": 8780,
+        "questions": 6,
+        "accuracy": 0.5907684026375992,
+        "difficulty": 0.6598382569175244
+      }
+    },
+    {
+      "id": "b5e2df7a-7411-4054-9bf2-a087c543b618",
+      "name": "Series Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34266300647",
+        "timeSpentVideo": "5376355662",
+        "submissions": 102212,
+        "submissionsCorrect": 63358,
+        "questions": 31,
+        "accuracy": 0.6198685085899894,
+        "difficulty": 0.6302486511846118
+      }
+    },
+    {
+      "id": "e440f3e6-b8d7-401e-804d-8ade0d5955fa",
+      "name": "Convergence or Divergence",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21801946375",
+        "timeSpentVideo": "1474388446",
+        "submissions": 50826,
+        "submissionsCorrect": 31966,
+        "questions": 16,
+        "accuracy": 0.6289300751583835,
+        "difficulty": 0.6213230962573145
+      }
+    },
+    {
+      "id": "f66c91f7-af6b-4308-94dd-3b4fc7c5917f",
+      "name": "Integral Test",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1349187354",
+        "timeSpentVideo": "78087941",
+        "submissions": 1830,
+        "submissionsCorrect": 1131,
+        "questions": 1,
+        "accuracy": 0.6180327868852459,
+        "difficulty": 0.6380829015544042
+      }
+    }
+  ],
+  "children": []
+}

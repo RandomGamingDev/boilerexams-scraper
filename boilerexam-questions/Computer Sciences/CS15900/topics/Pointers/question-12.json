@@ -1,0 +1,133 @@
+{
+  "id": "79380372-714c-45bb-81e2-8bec518432c7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following statements regarding pointer variables is <b>FALSE</b>?",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "060ca18c-a5d1-40b7-9cf7-ff302fff6cc4",
+        "index": 0,
+        "body": "Initialization of a pointer variable will include a memory address on the right side of the assignment operator with the pointer variable on the left.",
+        "questionId": "79380372-714c-45bb-81e2-8bec518432c7",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "0989cfab-ae13-44ed-bcb4-ad9f52489d75",
+        "index": 1,
+        "body": "The value stored by a pointer variable may be the location of another variable in the program.",
+        "questionId": "79380372-714c-45bb-81e2-8bec518432c7",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "d5978d65-243f-4f80-9cde-e653d8111b29",
+        "index": 2,
+        "body": "Pointers can be used to indirectly access or modify the data located at the address to which they refer.",
+        "questionId": "79380372-714c-45bb-81e2-8bec518432c7",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "c3472d66-977c-4221-91df-7d137c6122b9",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "79380372-714c-45bb-81e2-8bec518432c7",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "84f50705-cd60-439c-967e-70ed92547b45",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2779661",
+    "timeSpentVideo": "0",
+    "submissions": 54,
+    "submissionsCorrect": 35,
+    "accuracy": 0.6481481481481481,
+    "difficulty": 0.698051948051948
+  },
+  "resources": [],
+  "exam": {
+    "id": "84f50705-cd60-439c-967e-70ed92547b45",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "101033780",
+      "timeSpentVideo": "0",
+      "submissions": 1328,
+      "submissionsCorrect": 794,
+      "questions": 62,
+      "accuracy": 0.5978915662650602,
+      "difficulty": 0.6589635854341737
+    }
+  },
+  "explanation": {
+    "id": "696c20b4-5dd5-498d-acd3-841c8d21bcb2",
+    "body": null,
+    "questionId": "79380372-714c-45bb-81e2-8bec518432c7",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "2bd450d2-6b6f-4334-9cce-ec32bb051b73",
+      "name": "Pointers",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23135421221",
+        "timeSpentVideo": "108143106",
+        "submissions": 72257,
+        "submissionsCorrect": 45875,
+        "questions": 26,
+        "accuracy": 0.6348865853827311,
+        "difficulty": 0.6152998327736087
+      }
+    },
+    {
+      "id": "df1e48e0-5a22-4e33-9682-7b409ee3b1bf",
+      "name": "True-False EF",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "94245331528",
+        "timeSpentVideo": "0",
+        "submissions": 261995,
+        "submissionsCorrect": 174281,
+        "questions": 81,
+        "accuracy": 0.6652073512853298,
+        "difficulty": 0.5848556821000019
+      }
+    }
+  ],
+  "children": []
+}

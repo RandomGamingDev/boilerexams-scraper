@@ -1,0 +1,143 @@
+{
+  "id": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathbf{F}$ be a force given by $\\mathbf{F}(x, y)=\\langle y, x\\rangle$. Compute the work of this force along the curve $C:\\left\\langle t, 4 t-2 t^{2}\\right\\rangle$, with $0 \\leq t \\leq 1$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7c0f59a4-2443-40b1-abe8-27234153e069",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "8c80320e-439b-4d65-a287-5949b960054f",
+        "index": 1,
+        "body": "$2$",
+        "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+        "stats": {
+          "count": 3001
+        },
+        "resources": []
+      },
+      {
+        "id": "9138efd8-21ca-48ef-9f0f-918ac708c64f",
+        "index": 2,
+        "body": "$3$",
+        "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+        "stats": {
+          "count": 142
+        },
+        "resources": []
+      },
+      {
+        "id": "b548d950-8d23-45aa-bd65-f39704aced2e",
+        "index": 3,
+        "body": "$-3$",
+        "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "1854cb00-a5cf-4a39-9531-b93e2551dd53",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+        "stats": {
+          "count": 2338
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": "",
+  "examId": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "866216091",
+    "timeSpentVideo": "207144515",
+    "submissions": 6780,
+    "submissionsCorrect": 3001,
+    "accuracy": 0.44262536873156344,
+    "difficulty": 0.8065406976744186
+  },
+  "resources": [],
+  "exam": {
+    "id": "1e870a79-daf4-46ae-932c-9b766860a9f5",
+    "number": 2,
+    "year": 2022,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "12243139980",
+      "timeSpentVideo": "2523906331",
+      "submissions": 63310,
+      "submissionsCorrect": 37988,
+      "questions": 12,
+      "accuracy": 0.6000315905860054,
+      "difficulty": 0.6501261630657625
+    }
+  },
+  "explanation": {
+    "id": "bbbf8a38-b20c-4236-8595-5d088ff0d8e8",
+    "body": "",
+    "questionId": "95e7d62c-76b8-4535-beff-9b08a4ceac8a",
+    "resources": [
+      {
+        "id": "14a03cfd-3093-45af-b20d-d2552c383ca2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/urweaEqQ8g8?feature=shared&t=1417"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "bbbf8a38-b20c-4236-8595-5d088ff0d8e8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "92c0e1aa-a79a-4771-bbfe-0eebb102c04a",
+      "name": "Line Integral - work done",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "24210909161",
+        "timeSpentVideo": "2616660271",
+        "submissions": 56239,
+        "submissionsCorrect": 31074,
+        "questions": 13,
+        "accuracy": 0.5525347179003894,
+        "difficulty": 0.6975585296153641
+      }
+    }
+  ],
+  "children": []
+}

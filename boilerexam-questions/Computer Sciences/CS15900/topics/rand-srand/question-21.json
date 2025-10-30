@@ -1,0 +1,133 @@
+{
+  "id": "a696508d-636e-4925-8587-fdb610d67b51",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following will generate a random number in the range from <font style=\"font-family:'Courier New'\">x</font> to <font style=\"font-family:'Courier New'\">y</font> (inclusive), where both variables are positive and <font style=\"font-family:'Courier New'\">y</font> is strictly greater than <font style=\"font-family:'Courier New'\">x</font>?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "6e651c2f-dcc9-40ae-882d-5761d5fe6d52",
+        "index": 0,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (y - x) + x;</font>",
+        "questionId": "a696508d-636e-4925-8587-fdb610d67b51",
+        "stats": {
+          "count": 289
+        },
+        "resources": []
+      },
+      {
+        "id": "930e84ec-af88-4d88-ac5d-f636add080b3",
+        "index": 1,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (y - x + 1) + x;</font>",
+        "questionId": "a696508d-636e-4925-8587-fdb610d67b51",
+        "stats": {
+          "count": 2723
+        },
+        "resources": []
+      },
+      {
+        "id": "8fe36869-a875-4181-aaa2-1ea83c8eac8d",
+        "index": 2,
+        "body": "<font style=\"font-family:'Courier New'\">rand() % (y - x) + x + 1;</font>",
+        "questionId": "a696508d-636e-4925-8587-fdb610d67b51",
+        "stats": {
+          "count": 265
+        },
+        "resources": []
+      },
+      {
+        "id": "56fc873b-f026-40d9-8fd4-e580bc8ed29c",
+        "index": 3,
+        "body": "None of the above.",
+        "questionId": "a696508d-636e-4925-8587-fdb610d67b51",
+        "stats": {
+          "count": 76
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": "",
+  "examId": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+  "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "163614456",
+    "timeSpentVideo": "36883770",
+    "submissions": 3518,
+    "submissionsCorrect": 2723,
+    "accuracy": 0.7740193291642979,
+    "difficulty": 0.4835544499723604
+  },
+  "resources": [],
+  "exam": {
+    "id": "d0423f63-42da-4ec7-a10b-22b848b942c5",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "11173084388",
+      "timeSpentVideo": "1479891870",
+      "submissions": 123620,
+      "submissionsCorrect": 82297,
+      "questions": 34,
+      "accuracy": 0.6657256107425983,
+      "difficulty": 0.5844083414161009
+    }
+  },
+  "explanation": {
+    "id": "6d72b62c-3916-4619-b90e-7e26b91b60f5",
+    "body": "",
+    "questionId": "a696508d-636e-4925-8587-fdb610d67b51",
+    "resources": [
+      {
+        "id": "716599db-daf1-4306-b552-c50c0d094f4a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yjlIjGAK7KQ?t=3540"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6d72b62c-3916-4619-b90e-7e26b91b60f5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4051c67b-6073-4505-8d2d-47040d6d9beb",
+      "name": "rand-srand",
+      "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5918732348",
+        "timeSpentVideo": "64020708",
+        "submissions": 29162,
+        "submissionsCorrect": 20400,
+        "questions": 9,
+        "accuracy": 0.6995404979082367,
+        "difficulty": 0.5511414120702618
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,106 @@
+{
+  "id": "829e6f6a-3167-4294-acad-247edcd23a6b",
+  "type": "SHORT_ANSWER",
+  "data": {
+    "body": "A scientist is studying the relationship between annual rainfall (x) measured in centimeters and shoreline erosion (y) which is also measured in centimeters. For each of ten annual rainfall levels, a randomly selected shoreline erosion value was measured. The study reported the following data. You may assume all model assumptions hold. \n\n(a) (10 points) Fit the linear regression line for the association between shoreline erosion and rainfall and interpret the value of \ud835\udc83\ud835\udfcf. \n  (i) Determine the slope (\ud835\udc83\ud835\udfcf) of the least-squares regression line.\n  (ii) Determine the intercept (\ud835\udc83\ud835\udfce) of the least squares regression line.\n  (iii) Write out the equation of the regression line.",
+    "solution": "b1 = 0.0731, b0 = -1.736, y = -1.736+0.0731 * x_rainfall",
+    "answerChoices": []
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "21732086",
+    "timeSpentVideo": "5609729",
+    "submissions": 53,
+    "submissionsCorrect": 1,
+    "accuracy": 0.018867924528301886,
+    "difficulty": 0.9166666666666667
+  },
+  "resources": [
+    {
+      "id": "86a1a879-14ba-4e45-9033-a48df9314bb2",
+      "type": "IMAGE",
+      "data": {
+        "key": "3qPqzPqMtDyCPBeUe96vh",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/3qPqzPqMtDyCPBeUe96vh"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "829e6f6a-3167-4294-acad-247edcd23a6b",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+    "number": 3,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "317038355",
+      "timeSpentVideo": "129568324",
+      "submissions": 3061,
+      "submissionsCorrect": 1194,
+      "questions": 25,
+      "accuracy": 0.39006860503103563,
+      "difficulty": 0.8564536539069915
+    }
+  },
+  "explanation": {
+    "id": "d22605f9-0a15-4881-b6af-7915176227c7",
+    "body": null,
+    "questionId": "829e6f6a-3167-4294-acad-247edcd23a6b",
+    "resources": [
+      {
+        "id": "d84919de-56d3-4681-90a3-419638b20367",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/0Fv09GL-2HE?t=1220"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d22605f9-0a15-4881-b6af-7915176227c7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "bc4a566b-21b0-4def-afe8-4fb12bc4afb6",
+      "name": "Regression",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "116413066",
+        "timeSpentVideo": "20828947",
+        "submissions": 861,
+        "submissionsCorrect": 457,
+        "questions": 5,
+        "accuracy": 0.5307781649245064,
+        "difficulty": 0.7224245577523413
+      }
+    }
+  ],
+  "children": []
+}

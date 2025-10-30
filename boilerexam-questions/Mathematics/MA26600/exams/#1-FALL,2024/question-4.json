@@ -1,0 +1,143 @@
+{
+  "id": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the general solution to the homogenous differential equation using the substitution $v=y/x$. Assume $x>0$.\n\n\\[  x^2 y' = xy + x^2 e^{y/x} \\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "10f9d4c3-4d2d-4a35-9c81-1328a8ca7948",
+        "index": 0,
+        "body": "$y = -x \\ln(C - \\ln x)$",
+        "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+        "stats": {
+          "count": 672
+        },
+        "resources": []
+      },
+      {
+        "id": "45c195cb-d057-4637-863a-784b0ef2eee7",
+        "index": 1,
+        "body": "$y = x(\\ln x + C)$",
+        "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+        "stats": {
+          "count": 104
+        },
+        "resources": []
+      },
+      {
+        "id": "7da91b06-03ef-4f41-969a-31b9c0b70978",
+        "index": 2,
+        "body": "$y = -\\ln(C - \\ln x)$",
+        "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "792284d0-1ea6-49e3-b079-8285d6053320",
+        "index": 3,
+        "body": "$y = x \\ln\\left(\\frac{x^2}{2} + C\\right)$",
+        "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "cbdf08af-d3a5-4345-9e80-dd164f7ae56f",
+        "index": 4,
+        "body": "$y = -x \\ln(C - x)$",
+        "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+        "stats": {
+          "count": 60
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "348868071",
+    "timeSpentVideo": "44277950",
+    "submissions": 1212,
+    "submissionsCorrect": 672,
+    "accuracy": 0.5544554455445545,
+    "difficulty": 0.6996951219512195
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a2ff70d-ae10-4948-bc0b-1954a68c2dad",
+    "number": 1,
+    "year": 2024,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2771132684",
+      "timeSpentVideo": "371825714",
+      "submissions": 10438,
+      "submissionsCorrect": 6508,
+      "questions": 10,
+      "accuracy": 0.6234910902471738,
+      "difficulty": 0.6276807743404821
+    }
+  },
+  "explanation": {
+    "id": "dc8ff2f4-b4fc-4558-9981-c588d45927d4",
+    "body": null,
+    "questionId": "a7449d06-48e0-4268-8b2c-22b142ca9d04",
+    "resources": [
+      {
+        "id": "6b20752b-7064-4f8f-b2d0-2a439ff9e6de",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/goF0nLKveuM?t=916"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dc8ff2f4-b4fc-4558-9981-c588d45927d4",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d251da5-97ca-4d3e-9ce0-6e66ec4e1dc1",
+      "name": "Homogenous Differential Equations",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3217705867",
+        "timeSpentVideo": "190656444",
+        "submissions": 7678,
+        "submissionsCorrect": 5225,
+        "questions": 8,
+        "accuracy": 0.6805157593123209,
+        "difficulty": 0.5718050912831062
+      }
+    }
+  ],
+  "children": []
+}

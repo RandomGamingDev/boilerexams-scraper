@@ -1,0 +1,143 @@
+{
+  "id": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following functions is a solution of $y^{(4)} - 16y = 0$?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "8796dd02-bc75-4365-965a-4d8ccc035b82",
+        "index": 0,
+        "body": "$y = 3e^{2t} - e^{-2t} + 5 \\cos t - 2 \\sin t$",
+        "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "ea6eb103-0ed1-49a1-b74d-9acda0404ce8",
+        "index": 1,
+        "body": "$y = 16e^t - \\cos 4t - \\sin 4t$",
+        "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "aade67cc-5608-467e-b93a-5cb6128ec4a1",
+        "index": 2,
+        "body": "$y = 5e^{2t} - e^{-2t} + 7 \\cos 2t - 3 \\sin 2t$",
+        "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+        "stats": {
+          "count": 370
+        },
+        "resources": []
+      },
+      {
+        "id": "d475725b-8915-4d2d-acf9-2528b7654999",
+        "index": 3,
+        "body": "$y = (2t+1)e^{2t} + (3t-4)e^{-2t}$",
+        "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "e7a0f492-fa07-45e7-9981-9d9b13331760",
+        "index": 4,
+        "body": "$y = (t^3 + 3t^2 - 5t+1)e^{2t}$",
+        "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+  "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "75167069",
+    "timeSpentVideo": "4041469",
+    "submissions": 549,
+    "submissionsCorrect": 370,
+    "accuracy": 0.6739526411657559,
+    "difficulty": 0.6028505392912172
+  },
+  "resources": [],
+  "exam": {
+    "id": "00e565b4-4ac6-4fe5-9338-bf1de57e0d64",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "2799256489",
+      "timeSpentVideo": "322899233",
+      "submissions": 12968,
+      "submissionsCorrect": 7987,
+      "questions": 20,
+      "accuracy": 0.6159006785934609,
+      "difficulty": 0.6349862258953168
+    }
+  },
+  "explanation": {
+    "id": "122ee095-86a1-4f6b-8959-32974299cbf9",
+    "body": null,
+    "questionId": "6abcb7be-b6ff-4714-8374-3ee04bb7904a",
+    "resources": [
+      {
+        "id": "3835e583-e994-4753-81d5-89415168d65f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/PuxALssvZek?si=l4-M2yGdSG4Nn9yY&t=2088"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "122ee095-86a1-4f6b-8959-32974299cbf9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0174137b-3feb-46c2-afdf-c1f765a5b316",
+      "name": "Characteristic Equation",
+      "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12081394739",
+        "timeSpentVideo": "640413115",
+        "submissions": 26298,
+        "submissionsCorrect": 17263,
+        "questions": 25,
+        "accuracy": 0.6564377519202981,
+        "difficulty": 0.5941548602166831
+      }
+    }
+  ],
+  "children": []
+}
