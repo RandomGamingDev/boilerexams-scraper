@@ -31,3 +31,7 @@ Note: Each exam's formatting (directories under `exams`) is its test order withi
 - Returns subjects: `https://api.boilerexams.com/courses/subjects`
 - Returns specific type of study resources for a course: `https://api.boilerexams.com/courses/<course id>/<study resource type>`
 - Returns question (including answers): `https://api.boilerexams.com/questions/<question id>`
+
+<br/>
+
+P.S. I know the error handling and formatting's horrendus. Site data's actual size and # of queries needed to get it are TINY though so no need to overcomplicate.
