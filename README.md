@@ -1,4 +1,5 @@
 <img width="700" height="auto" alt="BoilerexamsScraper" src="https://github.com/user-attachments/assets/be548c88-11d3-41a4-906a-fad983ee6f78" alt="BoilerexamsScraper" />
+*Not official
 
 #### A Python script that gets the `Subjects` ▶ `Courses` ▶ `Exams` & `Topics` ▶ `Questions` from Boilerexams
 
@@ -35,3 +36,4 @@ Note: Each exam's formatting (directories under `exams`) is its test order withi
 <br/>
 
 P.S. I know the error handling and formatting's horrendus. Site data's actual size and # of queries needed to get it are TINY though so no need to overcomplicate.
+
