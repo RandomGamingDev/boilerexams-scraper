@@ -12,7 +12,8 @@
 <br/>
 
 ## Structure
-#### The data's provided in directories following the `<subject>`/`<course>`/`<exams/topics>`/`<assessment>`/`question` format.
+#### The data's provided in directories following the `<subject>`/`<course>`/`<exams/topics>`/`<assessment>`/`<question>` format.
+##### (except for `resources`/`<resource type>`/`<resource>`)
 ##### e.g. exam question `"Aero & Astro Engineering/AAE20300/exams/#0-SPRING,2007/question-1.json"`
 ##### or topic question `"Aero & Astro Engineering/AAE20300/topics/Basic Kinematic Equation (BKE)/question-1.json"`
 #### Each and every directory contains the result from the API which includes additional data except for `<assessment>` since it isn't its own query.
@@ -36,6 +37,7 @@ Note: Each exam's formatting (directories under `exams`) is its test order withi
 <br/>
 
 P.S. I know the error handling and formatting's horrendus. Site data's actual size and # of queries needed to get it are TINY though so no need to overcomplicate.
+
 
 
 
