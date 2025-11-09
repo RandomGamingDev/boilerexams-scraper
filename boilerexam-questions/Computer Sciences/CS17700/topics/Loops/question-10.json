@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "65e925d3-48d3-4570-afeb-49385137623f",
+      "type": "CODE",
+      "data": {
+        "content": "for n in range(1, 33550337):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == 1:\n        print(n)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "be12f8b3-7e3f-4a4e-bb45-4a3520b22916",
+      "customExamId": null
+    },
+    {
+      "id": "9583062a-5815-4885-bf0a-7803fe7911e7",
+      "type": "CODE",
+      "data": {
+        "content": "for n in range(1, 33550336):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == n:\n        print(n)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "bc6eb636-44cc-4a77-b9ca-f0818fa499bd",
+      "customExamId": null
+    },
+    {
+      "id": "78fe4bfa-56a5-44f6-931c-d99ba6c5db70",
+      "type": "CODE",
+      "data": {
+        "content": "for n in range(1, 33550336):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == 1:\n        print(n)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "bb7028da-3af0-4c64-98f5-69fc6cb5e3df",
+      "customExamId": null
+    },
+    {
+      "id": "d4c936d7-aed5-4ebc-a900-716ea946ad75",
+      "type": "CODE",
+      "data": {
+        "content": "for n in range(1, 33550337):\n    sum = 0\n    i = 1\n    while i < n:\n        sum += i if n % i == 0 else 0\n        i += 1\n    if sum == n:\n        print(n)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "50fd468a-5e81-4aa8-978a-e6938513b277",
+      "customExamId": null
     }
   ],
   "exam": {

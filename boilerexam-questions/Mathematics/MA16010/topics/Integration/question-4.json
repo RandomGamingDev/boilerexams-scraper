@@ -1,0 +1,153 @@
+{
+  "id": "087227cb-b70e-436f-9444-9739e5c99a93",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "$\\int (\\sin x - \\csc ^2 x)\\mathrm{d}x = $",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "7c48d904-07f9-406b-b8e9-4dbb8ff12f93",
+        "index": 0,
+        "body": "$-\\cos x + \\csc x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "5300b8e8-99ef-4a9d-b9cc-735de005f937",
+        "index": 1,
+        "body": "$-\\cos x + \\cot x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "dbfce2ed-f247-4537-a475-9ad7535dcde4",
+        "index": 2,
+        "body": "$-\\cos x + \\tan x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "5ae57969-df7f-43f9-af72-517b57ff32b0",
+        "index": 3,
+        "body": "$\\cos x - \\tan x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "f7057301-01cf-4cf9-acf0-3434ef1641b1",
+        "index": 4,
+        "body": "$\\cos x - \\csc x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "b56bf658-38cb-43bd-afde-44acb1123a32",
+        "index": 5,
+        "body": "$\\cos x + \\cot x + C$",
+        "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3210772",
+    "timeSpentVideo": "0",
+    "submissions": 15,
+    "submissionsCorrect": 11,
+    "accuracy": 0.7333333333333333,
+    "difficulty": 0.7195652173913043
+  },
+  "resources": [],
+  "exam": {
+    "id": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+    "number": 3,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "44458335",
+      "timeSpentVideo": "2552695",
+      "submissions": 157,
+      "submissionsCorrect": 94,
+      "questions": 12,
+      "accuracy": 0.5987261146496815,
+      "difficulty": 0.6896887159533074
+    }
+  },
+  "explanation": {
+    "id": "9a8c3b00-a52d-4b05-aa4a-9bbbee7d0c6c",
+    "body": null,
+    "questionId": "087227cb-b70e-436f-9444-9739e5c99a93",
+    "resources": [
+      {
+        "id": "2de9b917-fd38-4ee9-86c6-50513bf9ff58",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1rj5cayKFEU?si=4OgmHaI_bE8ldRhq&t=1151"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9a8c3b00-a52d-4b05-aa4a-9bbbee7d0c6c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3c0b2f21-052f-411c-ae1b-f5d6432c387f",
+      "name": "Integration",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18905370",
+        "timeSpentVideo": "686433",
+        "submissions": 36,
+        "submissionsCorrect": 21,
+        "questions": 3,
+        "accuracy": 0.5833333333333334,
+        "difficulty": 0.7279411764705882
+      }
+    }
+  ],
+  "children": []
+}

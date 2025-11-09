@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "27ee9b17-5df9-47a8-bfd7-1c36ee37be18",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum = i\nelse:\n   sum = 0\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "ba0da77c-0c1c-4f98-b735-5cbf3ba0084e",
+      "customExamId": null
+    },
+    {
+      "id": "c621e077-450e-4d4a-bb69-81796be720ee",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum += i\nelse:\n   sum += 0\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "77b16af0-2b20-4135-97cf-9a4fbfe38934",
+      "customExamId": null
+    },
+    {
+      "id": "37f51bfb-ab70-4ee3-851c-cffed7e3791c",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum = i\nelse:\n   sum += 0\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "53ebbdfd-7925-4613-9a38-f897604c76e2",
+      "customExamId": null
+    },
+    {
+      "id": "d3216a17-784c-42cd-bb3e-c83537845add",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum += i\nelse:\n   sum = 0\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "e8c73d4d-9e18-4551-be9a-6ecce457516e",
+      "customExamId": null
     }
   ],
   "exam": {
@@ -162,13 +222,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1663379579",
+      "timeSpent": "1663798213",
       "timeSpentVideo": "70548358",
-      "submissions": 16006,
-      "submissionsCorrect": 11041,
+      "submissions": 16010,
+      "submissionsCorrect": 11044,
       "questions": 15,
-      "accuracy": 0.6898038235661627,
-      "difficulty": 0.56137464299019
+      "accuracy": 0.6898188632104935,
+      "difficulty": 0.5613594040968343
     }
   },
   "explanation": {

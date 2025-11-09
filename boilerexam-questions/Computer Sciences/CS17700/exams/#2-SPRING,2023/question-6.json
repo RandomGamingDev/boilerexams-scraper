@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "0fb2b62b-cfdc-403e-84b3-962375cc45a2",
+      "type": "CODE",
+      "data": {
+        "content": "def readCustomersData():\n    with open(\"customers.txt\", \"w\") as file:    \n        customers = [customerData(line) for line in file]\n    return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "e46a2080-acb8-476d-87ce-0615109087f9",
+      "customExamId": null
+    },
+    {
+      "id": "c14b790e-ce2f-4c19-92e3-a99ba36d551b",
+      "type": "CODE",
+      "data": {
+        "content": "def readCustomersData():\n    with open(\"customers.txt\", \"r\") as file:    \n        customers = [customerData(file) for line in file]\n    return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "182fc9b0-1982-45d2-8ae6-ca10281f820f",
+      "customExamId": null
+    },
+    {
+      "id": "c8ce212d-ed6f-4400-8255-dfc6687de5d1",
+      "type": "CODE",
+      "data": {
+        "content": "def readCustomersData():\n    with open(\"customers.txt\", \"w\") as file:    \n        customers = [customerData(file) for line in file]\n    return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "d9167943-dcf4-4848-b0ab-665f06d74543",
+      "customExamId": null
+    },
+    {
+      "id": "cd7991f4-0eb1-4198-a51a-5868e676b35c",
+      "type": "CODE",
+      "data": {
+        "content": "def readCustomersData():\n    with open(\"customers.txt\", \"r\") as file:    \n        customers = [customerData(line) for line in file]\n    return customers\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "5374b55c-b521-455f-bc64-ae63da25aef5",
+      "customExamId": null
     }
   ],
   "exam": {

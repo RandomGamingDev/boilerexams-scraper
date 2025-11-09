@@ -13,7 +13,7 @@
         "body": "The first random number generated is based on a seed, either the default provided by the system or one specified by the programmer.",
         "questionId": "dde880f8-67ad-4390-998f-3a5a39a3f164",
         "stats": {
-          "count": 401
+          "count": 403
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "The <font style=\"font-family:'Courier New'\">srand</font> function must be called only once for each random number series.",
         "questionId": "dde880f8-67ad-4390-998f-3a5a39a3f164",
         "stats": {
-          "count": 428
+          "count": 429
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Given that <font style=\"font-family:'Courier New'\">x</font> and <font style=\"font-family:'Courier New'\">y</font> are positive integer variables with <font style=\"font-family:'Courier New'\">x</font> greater than <font style=\"font-family:'Courier New'\">y</font>, the following expression is used to generate an integer value in the range <font style=\"font-family:'Courier New'\">y</font> to <font style=\"font-family:'Courier New'\">x</font> inclusive, rand() % (x - y) + y",
         "questionId": "dde880f8-67ad-4390-998f-3a5a39a3f164",
         "stats": {
-          "count": 3534
+          "count": 3553
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "dde880f8-67ad-4390-998f-3a5a39a3f164",
         "stats": {
-          "count": 630
+          "count": 631
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "498820237",
+    "timeSpent": "500235064",
     "timeSpentVideo": "0",
-    "submissions": 5018,
-    "submissionsCorrect": 3534,
-    "accuracy": 0.7042646472698286,
-    "difficulty": 0.5497264556467371
+    "submissions": 5041,
+    "submissionsCorrect": 3553,
+    "accuracy": 0.7048204721285459,
+    "difficulty": 0.5491635868508072
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "22974939003",
+      "timeSpent": "23054309422",
       "timeSpentVideo": "0",
-      "submissions": 183610,
-      "submissionsCorrect": 126491,
+      "submissions": 184081,
+      "submissionsCorrect": 126805,
       "questions": 49,
-      "accuracy": 0.6889112793420837,
-      "difficulty": 0.561191551902455
+      "accuracy": 0.6888543630249727,
+      "difficulty": 0.5612481743502316
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "5918732348",
-        "timeSpentVideo": "64020708",
-        "submissions": 29162,
-        "submissionsCorrect": 20400,
+        "timeSpent": "6040943603",
+        "timeSpentVideo": "65329304",
+        "submissions": 29766,
+        "submissionsCorrect": 20857,
         "questions": 9,
-        "accuracy": 0.6995404979082367,
-        "difficulty": 0.5511414120702618
+        "accuracy": 0.7006987838473426,
+        "difficulty": 0.5499732136878055
       }
     },
     {
@@ -119,13 +119,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "94245331528",
+        "timeSpent": "94288252211",
         "timeSpentVideo": "0",
-        "submissions": 261995,
-        "submissionsCorrect": 174281,
+        "submissions": 262463,
+        "submissionsCorrect": 174570,
         "questions": 81,
-        "accuracy": 0.6652073512853298,
-        "difficulty": 0.5848556821000019
+        "accuracy": 0.6651223220034824,
+        "difficulty": 0.5849405666449576
       }
     }
   ],

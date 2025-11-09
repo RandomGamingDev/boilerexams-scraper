@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "c4da4f41-43de-410a-b36d-8cd1b58d172e",
+      "type": "CODE",
+      "data": {
+        "content": "count = 0\nfor i in range(0, 21):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n      count += 1\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "5c5ff55e-5abf-4b8d-b960-6178cac5873c",
+      "customExamId": null
+    },
+    {
+      "id": "ca7b0c6b-4f5f-4289-9e45-60064d024e48",
+      "type": "CODE",
+      "data": {
+        "content": "count = 0\nfor i in range(0, 20):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n      count += 1\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "9dcb19b5-bb98-438f-9e8c-9ca9b10014ef",
+      "customExamId": null
+    },
+    {
+      "id": "af26c931-f344-43cd-853c-f6b64fa693e3",
+      "type": "CODE",
+      "data": {
+        "content": "count = 0\ni = 1\nwhile count < 20:\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n      count += 1\n   i += 1\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "31c3e8bb-3868-482a-8f61-afd1a21456ba",
+      "customExamId": null
+    },
+    {
+      "id": "5e9200b2-8b5d-4dca-ad81-d8a4c87fbfff",
+      "type": "CODE",
+      "data": {
+        "content": "count = 0\ni = 1\nwhile i < 20:\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n      count += 1\n   i += 1\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "1cf3b979-0714-4cd9-82f9-82c393b7a1c8",
+      "customExamId": null
     }
   ],
   "exam": {
@@ -162,13 +222,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1663379579",
+      "timeSpent": "1663798213",
       "timeSpentVideo": "70548358",
-      "submissions": 16006,
-      "submissionsCorrect": 11041,
+      "submissions": 16010,
+      "submissionsCorrect": 11044,
       "questions": 15,
-      "accuracy": 0.6898038235661627,
-      "difficulty": 0.56137464299019
+      "accuracy": 0.6898188632104935,
+      "difficulty": 0.5613594040968343
     }
   },
   "explanation": {

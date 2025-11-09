@@ -4,7 +4,7 @@
   "data": {
     "body": "Given the array below:\n\n<code>{ 2, 4, 9, 12, 18, 23, 30, 38, 41, 50, 55 }</code>\n\nWhich of the following are the <b>FINAL</b> values of the <code>first</code> and <code>last</code> variables when using the binary search algorithm to find the <code>target</code> <code>60</code>?",
     "solution": [
-      2
+      3
     ],
     "answerChoices": [
       {
@@ -13,7 +13,7 @@
         "body": "<code>first = 10</code>, <code>last = 9</code>",
         "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
         "stats": {
-          "count": 2
+          "count": 4
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "<code>first = 10</code>, <code>last = 10</code>",
         "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
         "stats": {
-          "count": 3
+          "count": 4
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "<code>first = 11</code>, <code>last = 9</code>",
         "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
         "stats": {
-          "count": 3
+          "count": 4
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "d77fbb82-b70d-4df5-b77e-23c8b42a6703",
         "stats": {
-          "count": 3
+          "count": 9
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "1614172",
+    "timeSpent": "2361921",
     "timeSpentVideo": "0",
-    "submissions": 11,
-    "submissionsCorrect": 3,
-    "accuracy": 0.2727272727272727,
-    "difficulty": 0.7725225225225225
+    "submissions": 21,
+    "submissionsCorrect": 7,
+    "accuracy": 0.3333333333333333,
+    "difficulty": 0.7789256198347108
   },
   "resources": [],
   "exam": {
@@ -74,7 +74,7 @@
     "number": 0,
     "year": 2024,
     "season": "SPRING",
-    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
     "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
     "flags": {
       "published": true,
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "101033780",
+      "timeSpent": "138079740",
       "timeSpentVideo": "0",
-      "submissions": 1328,
-      "submissionsCorrect": 794,
+      "submissions": 1750,
+      "submissionsCorrect": 1048,
       "questions": 62,
-      "accuracy": 0.5978915662650602,
-      "difficulty": 0.6589635854341737
+      "accuracy": 0.5988571428571429,
+      "difficulty": 0.6564864864864864
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "15404997570",
-        "timeSpentVideo": "83329812",
-        "submissions": 47852,
-        "submissionsCorrect": 33957,
+        "timeSpent": "15505672589",
+        "timeSpentVideo": "84949438",
+        "submissions": 48121,
+        "submissionsCorrect": 34108,
         "questions": 18,
-        "accuracy": 0.7096255119953189,
-        "difficulty": 0.5408116449783117
+        "accuracy": 0.7087965752997651,
+        "difficulty": 0.5416364239646627
       }
     }
   ],

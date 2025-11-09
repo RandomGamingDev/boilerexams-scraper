@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "7f0db19e-42ab-4502-a42e-f10f9f14ee0f",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    entries = [entry.split(\":\") for entry in data.split(\",\")]\n    return {field[1].strip():field[0].strip() for field in entries}\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "2f1f9444-8ced-4c33-80f6-fe415facf74f",
+      "customExamId": null
+    },
+    {
+      "id": "baeeee60-9c61-46cb-8a4d-3ff4dbfd576f",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    entries = [entry.split(\":\") for entry in data.split(\",\")]\n    return {field[0].strip():field[1].strip() for field in entries}\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "0fb3643a-71a7-4e56-84b9-00199fa3e892",
+      "customExamId": null
+    },
+    {
+      "id": "77701e8e-bd96-469b-b8c1-1ca180b934d8",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\t\n    entries = [entry.split(\",\") for entry in data.split(\":\")]\n    return {field[0].strip():field[1].strip() for field in entries}\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "617a01c6-ef88-4af2-9546-ad9f36179114",
+      "customExamId": null
+    },
+    {
+      "id": "801c34f5-7835-42cc-af44-d98422fa1d86",
+      "type": "CODE",
+      "data": {
+        "content": "def customerData(data):\n    entries = [entry.split(\",\") for entry in data.split(\":\")]\n    return {field[1].strip():field[0].strip() for field in entries}\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "74ba2663-9197-4b3a-96e2-86adab3d1e60",
+      "customExamId": null
     }
   ],
   "exam": {

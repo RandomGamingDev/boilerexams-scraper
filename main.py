@@ -25,6 +25,12 @@ def main():
   else:
     os.makedirs(QUESTIONS_OUT)
 
+  RESOURCES_OUT = QUESTIONS_OUT / "resources"
+  os.mkdir(RESOURCES_OUT)
+
+  RESOURCE_IMAGE_OUT = RESOURCES_OUT / "IMAGE"
+  os.mkdir(RESOURCE_IMAGE_OUT)
+
   # Get Subjects' and courses
   try:
     res = requests.get("https://api.boilerexams.com/courses/subjects")
@@ -83,9 +89,23 @@ def main():
               res.raise_for_status()
               question_data = res.json()
 
+              resources = question_data["resources"]
+              if question_data["type"] == "MULTIPLE_CHOICE":
+                resources.extend([resource for choice in question_data["data"]["answerChoices"] for resource in choice["resources"]])
+
+              for resource in resources:
+                if resource["type"] == "IMAGE":
+                  img_res = requests.get(resource["data"]["url"], stream=True)
+                  img_res.raise_for_status()
+
+                  with open(RESOURCE_IMAGE_OUT / f"{resource["data"]["key"]}.png", "wb") as f:
+                    for chunk in img_res.iter_content(chunk_size=8192):
+                      f.write(chunk)
+
               with open(STUDY_RESOURCE_OUT / f"question-{question["number"]}.json", 'w') as f:
                 json.dump(question_data, f, indent=JSON_INDENT)
   except requests.exceptions.RequestException as e:
     print(e)
+
 if __name__ == "__main__":
   main()

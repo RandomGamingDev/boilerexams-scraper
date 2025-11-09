@@ -13,7 +13,7 @@
         "body": "<code>(c || a >= 4) && b <= 5</code>",
         "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
         "stats": {
-          "count": 8
+          "count": 161
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "<code>c != 0 && a >= 4 || b <= 5</code>",
         "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
         "stats": {
-          "count": 2
+          "count": 20
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "<code>c != 0 || (a >= 4 && b <= 5)</code>",
         "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
         "stats": {
-          "count": 4
+          "count": 82
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "d24cb759-8af0-49c3-8589-1a6dcf6b7394",
         "stats": {
-          "count": 0
+          "count": 14
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "401650",
+    "timeSpent": "31817302",
     "timeSpentVideo": "0",
-    "submissions": 14,
-    "submissionsCorrect": 8,
-    "accuracy": 0.5714285714285714,
-    "difficulty": 0.7412280701754386
+    "submissions": 278,
+    "submissionsCorrect": 161,
+    "accuracy": 0.579136690647482,
+    "difficulty": 0.6917989417989417
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "16161623",
+      "timeSpent": "606050122",
       "timeSpentVideo": "0",
-      "submissions": 243,
-      "submissionsCorrect": 141,
+      "submissions": 6029,
+      "submissionsCorrect": 3937,
       "questions": 44,
-      "accuracy": 0.5802469135802469,
-      "difficulty": 0.6931486880466472
+      "accuracy": 0.6530104494941118,
+      "difficulty": 0.5994860499265786
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "401650",
+        "timeSpent": "115129945",
         "timeSpentVideo": "0",
-        "submissions": 14,
-        "submissionsCorrect": 8,
+        "submissions": 278,
+        "submissionsCorrect": 161,
         "questions": 1,
-        "accuracy": 0.5714285714285714,
-        "difficulty": 0.7412280701754386
+        "accuracy": 0.579136690647482,
+        "difficulty": 0.6917989417989417
       }
     }
   ],

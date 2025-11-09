@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "50573e0a-03c6-4f16-80cc-250ea5abf1cc",
+      "type": "CODE",
+      "data": {
+        "content": "for i in range(1, 33550337):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "0b8c590f-f9de-471b-af16-9690ce006bab",
+      "customExamId": null
+    },
+    {
+      "id": "0449c80c-e4ac-4cba-97d7-dceb7a0bf9dd",
+      "type": "CODE",
+      "data": {
+        "content": "for i in range(1, 33550336):\n   if sumDivisorsExcludingItself(i) == i:\n      print(i)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "d853db6f-51de-478a-93a2-b4017afa035b",
+      "customExamId": null
+    },
+    {
+      "id": "d12c3560-9f7c-49ef-822d-0126e8b8e719",
+      "type": "CODE",
+      "data": {
+        "content": "for i in range(1, 33550336):\n   if sumDivisorsExcludingItself(i) == 1:\n      print(i)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "248b1fdf-d9e4-4a4b-95c2-2618bf0fe4a6",
+      "customExamId": null
+    },
+    {
+      "id": "19b1f77f-2d48-4fbc-8639-74314d75783e",
+      "type": "CODE",
+      "data": {
+        "content": "for i in range(1, 33550337):\n   if sumDivisorsExcludingItself(i) == i:\n      print(i)\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "1b02d079-6b58-42dd-8545-88ba56b0c8d8",
+      "customExamId": null
     }
   ],
   "exam": {
@@ -162,13 +222,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1663379579",
+      "timeSpent": "1663798213",
       "timeSpentVideo": "70548358",
-      "submissions": 16006,
-      "submissionsCorrect": 11041,
+      "submissions": 16010,
+      "submissionsCorrect": 11044,
       "questions": 15,
-      "accuracy": 0.6898038235661627,
-      "difficulty": 0.56137464299019
+      "accuracy": 0.6898188632104935,
+      "difficulty": 0.5613594040968343
     }
   },
   "explanation": {

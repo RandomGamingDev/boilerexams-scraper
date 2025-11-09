@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "7cee63f0-1119-43d2-95ca-9ffbe18f0a24",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum += i\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "1735819c-a1a1-4063-b46a-cdbef65d8948",
+      "customExamId": null
+    },
+    {
+      "id": "2217f282-a0a6-4893-9df3-0b93a167b55d",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i == 0:\n   sum = i\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "d0f719e3-79b8-436b-8a2d-2b5c1d29fd0a",
+      "customExamId": null
+    },
+    {
+      "id": "aab50ed7-ace3-4496-9c2e-d2d175ff1d6a",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i = 0:\n   sum = i\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "7754755a-7ee3-4e9d-920e-c3747624b6b4",
+      "customExamId": null
+    },
+    {
+      "id": "0cdba1a0-a2d8-437f-bed1-009a85823642",
+      "type": "CODE",
+      "data": {
+        "content": "if n % i = 0:\n   sum += i\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "2c792582-b2bf-4638-adf5-940d650cf491",
+      "customExamId": null
     }
   ],
   "exam": {
@@ -162,13 +222,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1663379579",
+      "timeSpent": "1663798213",
       "timeSpentVideo": "70548358",
-      "submissions": 16006,
-      "submissionsCorrect": 11041,
+      "submissions": 16010,
+      "submissionsCorrect": 11044,
       "questions": 15,
-      "accuracy": 0.6898038235661627,
-      "difficulty": 0.56137464299019
+      "accuracy": 0.6898188632104935,
+      "difficulty": 0.5613594040968343
     }
   },
   "explanation": {

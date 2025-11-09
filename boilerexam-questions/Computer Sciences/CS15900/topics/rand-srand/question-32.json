@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "13594035",
+    "timeSpent": "19134301",
     "timeSpentVideo": "0",
-    "submissions": 43,
-    "submissionsCorrect": 18,
-    "accuracy": 0.4186046511627907,
-    "difficulty": 0.7744755244755245
+    "submissions": 63,
+    "submissionsCorrect": 23,
+    "accuracy": 0.36507936507936506,
+    "difficulty": 0.8021472392638036
   },
   "resources": [
     {
@@ -47,7 +47,7 @@
     "number": 0,
     "year": 2024,
     "season": "SPRING",
-    "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+    "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
     "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
     "flags": {
       "published": true,
@@ -55,13 +55,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "101033780",
+      "timeSpent": "138079740",
       "timeSpentVideo": "0",
-      "submissions": 1328,
-      "submissionsCorrect": 794,
+      "submissions": 1750,
+      "submissionsCorrect": 1048,
       "questions": 62,
-      "accuracy": 0.5978915662650602,
-      "difficulty": 0.6589635854341737
+      "accuracy": 0.5988571428571429,
+      "difficulty": 0.6564864864864864
     }
   },
   "explanation": {
@@ -77,13 +77,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "5918732348",
-        "timeSpentVideo": "64020708",
-        "submissions": 29162,
-        "submissionsCorrect": 20400,
+        "timeSpent": "6040943603",
+        "timeSpentVideo": "65329304",
+        "submissions": 29766,
+        "submissionsCorrect": 20857,
         "questions": 9,
-        "accuracy": 0.6995404979082367,
-        "difficulty": 0.5511414120702618
+        "accuracy": 0.7006987838473426,
+        "difficulty": 0.5499732136878055
       }
     },
     {
@@ -92,13 +92,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "40823748442",
-        "timeSpentVideo": "841269497",
-        "submissions": 136536,
-        "submissionsCorrect": 89623,
+        "timeSpent": "42492707196",
+        "timeSpentVideo": "880133770",
+        "submissions": 141277,
+        "submissionsCorrect": 92769,
         "questions": 59,
-        "accuracy": 0.65640563660866,
-        "difficulty": 0.5937088322257678
+        "accuracy": 0.65664616321128,
+        "difficulty": 0.5934646371050454
       }
     }
   ],
@@ -118,7 +118,7 @@
             "body": "<code>num = rand() % (upper - lower) + lower;</code>",
             "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
             "stats": {
-              "count": 4
+              "count": 8
             },
             "resources": []
           },
@@ -128,7 +128,7 @@
             "body": "<code>num = rand() % (upper - lower + 1) + lower;</code>",
             "questionId": "0e2d4962-7e37-49c1-b669-780055c7822f",
             "stats": {
-              "count": 38
+              "count": 56
             },
             "resources": []
           },
@@ -168,10 +168,10 @@
         "count": 1,
         "timeSpent": "0",
         "timeSpentVideo": "0",
-        "submissions": 42,
-        "submissionsCorrect": 38,
-        "accuracy": 0.9047619047619048,
-        "difficulty": 0.6302816901408451
+        "submissions": 64,
+        "submissionsCorrect": 56,
+        "accuracy": 0.875,
+        "difficulty": 0.6036585365853658
       },
       "resources": [],
       "exam": {
@@ -179,7 +179,7 @@
         "number": 0,
         "year": 2024,
         "season": "SPRING",
-        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
         "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
         "flags": {
           "published": true,
@@ -187,13 +187,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "101033780",
+          "timeSpent": "138079740",
           "timeSpentVideo": "0",
-          "submissions": 1328,
-          "submissionsCorrect": 794,
+          "submissions": 1750,
+          "submissionsCorrect": 1048,
           "questions": 62,
-          "accuracy": 0.5978915662650602,
-          "difficulty": 0.6589635854341737
+          "accuracy": 0.5988571428571429,
+          "difficulty": 0.6564864864864864
         }
       },
       "explanation": {
@@ -219,7 +219,7 @@
             "body": "<code>num = 0</code>",
             "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
             "stats": {
-              "count": 4
+              "count": 7
             },
             "resources": []
           },
@@ -229,7 +229,7 @@
             "body": "<code>num = 13</code>",
             "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
             "stats": {
-              "count": 11
+              "count": 15
             },
             "resources": []
           },
@@ -239,7 +239,7 @@
             "body": "<code>num = 555</code>",
             "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
             "stats": {
-              "count": 6
+              "count": 11
             },
             "resources": []
           },
@@ -249,7 +249,7 @@
             "body": "None of the above.",
             "questionId": "91de29ec-0eb6-406a-95ec-c11b63de6b31",
             "stats": {
-              "count": 10
+              "count": 15
             },
             "resources": []
           }
@@ -269,10 +269,10 @@
         "count": 1,
         "timeSpent": "0",
         "timeSpentVideo": "0",
-        "submissions": 31,
-        "submissionsCorrect": 10,
-        "accuracy": 0.3225806451612903,
-        "difficulty": 0.7919847328244275
+        "submissions": 48,
+        "submissionsCorrect": 15,
+        "accuracy": 0.3125,
+        "difficulty": 0.8108108108108107
       },
       "resources": [],
       "exam": {
@@ -280,7 +280,7 @@
         "number": 0,
         "year": 2024,
         "season": "SPRING",
-        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
         "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
         "flags": {
           "published": true,
@@ -288,13 +288,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "101033780",
+          "timeSpent": "138079740",
           "timeSpentVideo": "0",
-          "submissions": 1328,
-          "submissionsCorrect": 794,
+          "submissions": 1750,
+          "submissionsCorrect": 1048,
           "questions": 62,
-          "accuracy": 0.5978915662650602,
-          "difficulty": 0.6589635854341737
+          "accuracy": 0.5988571428571429,
+          "difficulty": 0.6564864864864864
         }
       },
       "explanation": {
@@ -320,7 +320,7 @@
             "body": "<code>num = 28642</code>",
             "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
             "stats": {
-              "count": 4
+              "count": 6
             },
             "resources": []
           },
@@ -330,7 +330,7 @@
             "body": "<code>num = 48026</code>",
             "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
             "stats": {
-              "count": 15
+              "count": 23
             },
             "resources": []
           },
@@ -340,7 +340,7 @@
             "body": "<code>num = 79531</code>",
             "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
             "stats": {
-              "count": 7
+              "count": 8
             },
             "resources": []
           },
@@ -350,7 +350,7 @@
             "body": "None of the above.",
             "questionId": "351db7c4-4a7b-4a58-88a8-1f0d5668ca35",
             "stats": {
-              "count": 4
+              "count": 8
             },
             "resources": []
           }
@@ -370,10 +370,10 @@
         "count": 1,
         "timeSpent": "0",
         "timeSpentVideo": "0",
-        "submissions": 30,
-        "submissionsCorrect": 15,
-        "accuracy": 0.5,
-        "difficulty": 0.75
+        "submissions": 45,
+        "submissionsCorrect": 23,
+        "accuracy": 0.5111111111111111,
+        "difficulty": 0.746551724137931
       },
       "resources": [],
       "exam": {
@@ -381,7 +381,7 @@
         "number": 0,
         "year": 2024,
         "season": "SPRING",
-        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
         "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
         "flags": {
           "published": true,
@@ -389,13 +389,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "101033780",
+          "timeSpent": "138079740",
           "timeSpentVideo": "0",
-          "submissions": 1328,
-          "submissionsCorrect": 794,
+          "submissions": 1750,
+          "submissionsCorrect": 1048,
           "questions": 62,
-          "accuracy": 0.5978915662650602,
-          "difficulty": 0.6589635854341737
+          "accuracy": 0.5988571428571429,
+          "difficulty": 0.6564864864864864
         }
       },
       "explanation": {
@@ -431,7 +431,7 @@
             "body": "Line 25.",
             "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
             "stats": {
-              "count": 19
+              "count": 27
             },
             "resources": []
           },
@@ -441,7 +441,7 @@
             "body": "Line 27.",
             "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
             "stats": {
-              "count": 6
+              "count": 12
             },
             "resources": []
           },
@@ -451,7 +451,7 @@
             "body": "None of the above.",
             "questionId": "71824c75-aef3-4861-bd48-e26ab45cde7e",
             "stats": {
-              "count": 3
+              "count": 4
             },
             "resources": []
           }
@@ -471,10 +471,10 @@
         "count": 1,
         "timeSpent": "0",
         "timeSpentVideo": "0",
-        "submissions": 33,
-        "submissionsCorrect": 19,
-        "accuracy": 0.5757575757575758,
-        "difficulty": 0.731203007518797
+        "submissions": 48,
+        "submissionsCorrect": 27,
+        "accuracy": 0.5625,
+        "difficulty": 0.7297297297297297
       },
       "resources": [],
       "exam": {
@@ -482,7 +482,7 @@
         "number": 0,
         "year": 2024,
         "season": "SPRING",
-        "disclaimer": "We're excited to present exam content in a new format, but we're still working on the question numbers. Please note that this exam has 50 questions total and does not reflect the original numbering.",
+        "disclaimer": "Please note that this exam has 50 questions total and does not reflect the original numbering.",
         "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
         "flags": {
           "published": true,
@@ -490,13 +490,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "101033780",
+          "timeSpent": "138079740",
           "timeSpentVideo": "0",
-          "submissions": 1328,
-          "submissionsCorrect": 794,
+          "submissions": 1750,
+          "submissionsCorrect": 1048,
           "questions": 62,
-          "accuracy": 0.5978915662650602,
-          "difficulty": 0.6589635854341737
+          "accuracy": 0.5988571428571429,
+          "difficulty": 0.6564864864864864
         }
       },
       "explanation": {

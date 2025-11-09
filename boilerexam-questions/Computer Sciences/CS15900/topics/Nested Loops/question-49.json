@@ -116,7 +116,53 @@
     "accuracy": 0.654532967032967,
     "difficulty": 0.6053984575835476
   },
-  "resources": [],
+  "resources": [
+    {
+      "id": "cc47aa57-2143-45c3-9a7b-dca6d2f2fb22",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 7\n\nint main() {\n  int x[SIZE] = {52, 48, 43, 30, 22, 20, 14};\n  int i;\n\n  for(i = 0; i < SIZE; i++)\n  {\n    while(x[i] % SIZE)\n    {\n      x[i] += (i + 1) % SIZE;\n    }\n    if(i == 2 || i == 3)\n    {\n      printf(\"x[%d] = %d\\n\", i, x[i]);\n    }\n  }\n  \n  return(0); \n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "fa8d1515-f197-4702-babe-5e3887baa60b",
+      "customExamId": null
+    },
+    {
+      "id": "fc5cb70a-bf20-48ca-aa86-ea0d5c3bc2ac",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#define SIZE 8\n\nvoid changeArray(int[], int);\n\nint main()\n{\n  int x[SIZE] = {3, 0, 4, 1, 6, 5, 7, 2};\n  int i;\n  \n  for(i = 0; i <= SIZE / 2; i++) {\n    changeArray(x, x[i]);\n  }\n\n  printf(\"x[0] = %d\\n\", x[0]);\n  \n  return(0); \n}\n\nvoid changeArray(int x[], int val)\n{\n  int i;\n  int j;\n  \n  for(i = 0; i < val; i++)\n  {\n    j = x[i];\n    x[j] += x[j] >= SIZE - 1 ? -1 : 1;\n  }\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "3f95ed7d-4488-4769-a79d-ef4e8f77ef57",
+      "customExamId": null
+    },
+    {
+      "id": "524411e8-642d-463f-bb99-0f2e8c436008",
+      "type": "CODE",
+      "data": {
+        "content": "#include <stdio.h>\n#include <string.h>\n#include <ctype.h>\n\n#define SIZE 50\n\nvoid makeString(char[], char[]);\nvoid printTest(char[], int, int);\n\nint main() {\n  char str[SIZE] = \"Final Exam Dec-12, 3:30pm\";\n  char str2[SIZE];\n  \n  makeString(str, str2);\n  \n  printTest(str, 6, 9);\n  printTest(str2, 3, 6);\n\n  printf(\"Length: %d\\n\", (int) strlen(str2));\n  \n  return(0); \n}\n\nvoid makeString(char x[], char y[])\n{\n  int i;\n  int ct = 0;\n\n  for(i = 0; i < strlen(x); i++)\n  {\n    if(isalpha(x[i]))\n    {\n      y[ct] = toupper(x[i]);\n      ct++;\n\n      x[i] += toupper(x[i]) <= 'M' ? 13 : -13;\n    }\n  }\n  y[ct] = 0; \n}\n\nvoid printTest(char z[], int start, int end) {\n  printf(\"Index %d: \", start);\n\n  while(start <= end)\n  {\n    printf(\"%c\", z[start]);\n    start++; \n  }\n  \n  printf(\"\\n\");\n}",
+        "language": "C"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "d8524b46-e51d-478b-a642-18a8f9b3d878",
+      "customExamId": null
+    }
+  ],
   "exam": {
     "id": "f379e765-c8d9-419b-b19f-2d900347394c",
     "number": 0,
@@ -130,13 +176,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "7922189874",
+      "timeSpent": "7949300357",
       "timeSpentVideo": "0",
-      "submissions": 72688,
-      "submissionsCorrect": 47815,
+      "submissions": 72902,
+      "submissionsCorrect": 47949,
       "questions": 49,
-      "accuracy": 0.6578114681928241,
-      "difficulty": 0.5924053415398143
+      "accuracy": 0.6577185811088859,
+      "difficulty": 0.5924974658228541
     }
   },
   "explanation": {
@@ -152,13 +198,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "2804116285",
+        "timeSpent": "2809308134",
         "timeSpentVideo": "0",
-        "submissions": 8217,
-        "submissionsCorrect": 5556,
+        "submissions": 8233,
+        "submissionsCorrect": 5568,
         "questions": 3,
-        "accuracy": 0.6761591821832785,
-        "difficulty": 0.5759588794036311
+        "accuracy": 0.6763026843192032,
+        "difficulty": 0.5758130325213009
       }
     },
     {
@@ -167,13 +213,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "94245331528",
+        "timeSpent": "94288252211",
         "timeSpentVideo": "0",
-        "submissions": 261995,
-        "submissionsCorrect": 174281,
+        "submissions": 262463,
+        "submissionsCorrect": 174570,
         "questions": 81,
-        "accuracy": 0.6652073512853298,
-        "difficulty": 0.5848556821000019
+        "accuracy": 0.6651223220034824,
+        "difficulty": 0.5849405666449576
       }
     }
   ],

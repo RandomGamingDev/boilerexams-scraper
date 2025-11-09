@@ -1,0 +1,153 @@
+{
+  "id": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate \n\\[\\int \\frac{2\\sqrt{x}+6x^3+3}{x}\\text{d}x\\]",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "d2600c94-7fa8-48e2-9b57-075055084b13",
+        "index": 0,
+        "body": "$4\\sqrt{x}+2x^3+3\\ln \\vert x\\vert + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "65467bd1-0cf1-4e74-b0d3-909c7439970c",
+        "index": 1,
+        "body": "$4\\sqrt{x}+12x+3\\ln \\vert x\\vert + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "f8a51ac0-2bcb-407f-b9da-9ab3962c8cbc",
+        "index": 2,
+        "body": "$2\\sqrt{x}+12x-\\frac{3}{x^2} + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "35dae392-91c9-4799-9101-c1b481ec78b7",
+        "index": 3,
+        "body": "$2\\sqrt{x}+2x^3+3\\ln \\vert x\\vert + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "f6d6ae88-8fae-4c54-b868-4864bf8b251d",
+        "index": 4,
+        "body": "$2\\sqrt{x}+2x^3-\\frac{3}{x^2} + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "0a5b03c9-9e5b-4853-b67e-c9c8bac76337",
+        "index": 5,
+        "body": "$4\\sqrt{x}+2x^3-\\frac{3}{x^2} + C$",
+        "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "2962600",
+    "timeSpentVideo": "204959",
+    "submissions": 13,
+    "submissionsCorrect": 6,
+    "accuracy": 0.46153846153846156,
+    "difficulty": 0.754424778761062
+  },
+  "resources": [],
+  "exam": {
+    "id": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+    "number": 3,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "44458335",
+      "timeSpentVideo": "2552695",
+      "submissions": 157,
+      "submissionsCorrect": 94,
+      "questions": 12,
+      "accuracy": 0.5987261146496815,
+      "difficulty": 0.6896887159533074
+    }
+  },
+  "explanation": {
+    "id": "76411bf2-b53e-4fe3-b713-cb49e4bc9555",
+    "body": null,
+    "questionId": "36524755-f2b9-412a-a2e0-ec48b05a083a",
+    "resources": [
+      {
+        "id": "242d8d89-3e80-45c0-a1e8-cb441c25a818",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1rj5cayKFEU?si=l7IMLIZvheMqvIv5&t=1481"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "76411bf2-b53e-4fe3-b713-cb49e4bc9555",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3c0b2f21-052f-411c-ae1b-f5d6432c387f",
+      "name": "Integration",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18905370",
+        "timeSpentVideo": "686433",
+        "submissions": 36,
+        "submissionsCorrect": 21,
+        "questions": 3,
+        "accuracy": 0.5833333333333334,
+        "difficulty": 0.7279411764705882
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,167 @@
+{
+  "id": "cf9cd075-b248-4678-be8f-a417756ae671",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the right Riemann sum that approximates the area under the curve of $y=\\sqrt{x+5}$ on the interval $[2,12]$ with 100 rectangles. Give the answer in sigma notation. ",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c79fabcc-ae87-4f35-814b-4ca0bf538fa3",
+        "index": 0,
+        "body": "$\\sum_{i=0}^{99}\\frac{1}{10}\\sqrt{5+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "c40199dd-9cc3-4d65-897b-ab8ad8619d92",
+        "index": 1,
+        "body": "$\\sum_{i=1}^{100}\\frac{1}{10}\\sqrt{7+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "c8ba321f-b620-4c17-bd66-345d96164a15",
+        "index": 2,
+        "body": "$\\sum_{i=1}^{100}\\frac{1}{10}\\sqrt{5+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "1d60f873-31bd-404d-a347-6839cfcfc3e4",
+        "index": 3,
+        "body": "$\\sum_{i=0}^{100}\\frac{1}{10}\\sqrt{5+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "579f56bc-c4ef-4651-9146-6d51acacdebf",
+        "index": 4,
+        "body": "$\\sum_{i=0}^{100}\\frac{1}{10}\\sqrt{7+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "7c2ba62b-10c4-40c5-b7de-75a375780619",
+        "index": 5,
+        "body": "$\\sum_{i=0}^{99}\\frac{1}{10}\\sqrt{7+\\frac{1}{10}i}$",
+        "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+  "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "4203661",
+    "timeSpentVideo": "0",
+    "submissions": 10,
+    "submissionsCorrect": 3,
+    "accuracy": 0.3,
+    "difficulty": 0.7681818181818182
+  },
+  "resources": [],
+  "exam": {
+    "id": "4f535c57-14ec-4139-99a2-47e82408a3c0",
+    "number": 3,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "44458335",
+      "timeSpentVideo": "2552695",
+      "submissions": 157,
+      "submissionsCorrect": 94,
+      "questions": 12,
+      "accuracy": 0.5987261146496815,
+      "difficulty": 0.6896887159533074
+    }
+  },
+  "explanation": {
+    "id": "35f4c489-7003-4763-a583-69b2bdb5b204",
+    "body": null,
+    "questionId": "cf9cd075-b248-4678-be8f-a417756ae671",
+    "resources": [
+      {
+        "id": "fef7c4de-25b9-423d-ac29-76d5cf09672c",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1rj5cayKFEU?si=1SRABR2ExRNBXw4k&t=3060"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "35f4c489-7003-4763-a583-69b2bdb5b204",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      },
+      {
+        "id": "8b93fb7e-330e-4fb7-b256-075590ab3e08",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/1rj5cayKFEU?si=1SRABR2ExRNBXw4k&t=3060"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "35f4c489-7003-4763-a583-69b2bdb5b204",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "16aad88f-b5ab-4651-b2fe-4ae32e83ea02",
+      "name": "Riemann Sum",
+      "courseId": "540f4240-f215-4941-b90d-0cd753b212fc",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7072126",
+        "timeSpentVideo": "323341",
+        "submissions": 26,
+        "submissionsCorrect": 17,
+        "questions": 2,
+        "accuracy": 0.6538461538461539,
+        "difficulty": 0.7182539682539683
+      }
+    }
+  ],
+  "children": []
+}

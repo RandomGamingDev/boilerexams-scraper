@@ -147,6 +147,66 @@
       "applicationId": null,
       "answerChoiceId": null,
       "customExamId": null
+    },
+    {
+      "id": "3122780c-d25e-4849-b4d0-b598e6dd9853",
+      "type": "CODE",
+      "data": {
+        "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 1 if customer.type not in typeCounts else typeCounts[customer.type]\n    return typeCounts\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "61c052cf-4e40-4cd0-9520-1fc95bf61b2f",
+      "customExamId": null
+    },
+    {
+      "id": "612d7407-20c7-4115-92ea-72e1cfbead1b",
+      "type": "CODE",
+      "data": {
+        "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 0 if customer.type not in typeCounts else typeCounts[customer.type] + 1\n    return typeCounts\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "c94ba158-a8a4-4c59-b183-11a97911ecfe",
+      "customExamId": null
+    },
+    {
+      "id": "dbbcb4bc-02bd-44dd-b3d4-480a62008aac",
+      "type": "CODE",
+      "data": {
+        "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 1 if customer.type not in typeCounts else typeCounts[customer.type] + 1\n    return typeCounts\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "27edd97a-9613-4e6c-bcf8-9198a9f7ed28",
+      "customExamId": null
+    },
+    {
+      "id": "b8ace1cf-5a6d-4fe5-bdac-d55496bc6499",
+      "type": "CODE",
+      "data": {
+        "content": "def getCustomerTypeCounts(customers):\n    typeCounts = dict()\n    for customer in customers:\n        typeCounts[customer.type] = 0 if customer.type not in typeCounts else typeCounts[customer.type]\n    return typeCounts\n",
+        "language": "PYTHON"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": null,
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": "841ed4bb-14c9-4191-a5ce-a8145689ab13",
+      "customExamId": null
     }
   ],
   "exam": {
