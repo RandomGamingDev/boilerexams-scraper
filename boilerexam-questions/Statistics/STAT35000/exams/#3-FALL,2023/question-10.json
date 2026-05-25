@@ -1,9 +1,9 @@
 {
-  "id": "8c7436f8-b45f-4845-92e8-2da89c6b1c38",
-  "type": "SHORT_ANSWER",
+  "id": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+  "type": "PARENT",
   "data": {
-    "body": "A college dietitian has developed three diet plans, namely Diet 1, Diet 2, and Diet 3, to assist college students in losing weight. The weight of participants who followed these diet programs was measured in pounds both before starting the diet and after completing three months on the respective diet plan. The dietitian is investigating whether there are any differences in the effectiveness of these three diets in terms of the average weight loss achieved. Weight loss is defined as the difference between the weight measured after three months and the weight measured before starting the diet. The summary information for each diet is provided below.\n\n(a) (2 points) Check the assumption of constant variance using the provided summary information. Show your work and state clearly whether the assumption was satisfied or\nnot. Apart from constant variance, you may assume that all other assumptions have been satisfied for the rest of the analysis. ",
-    "solution": "smax/ smin = 1.21/ 0.8 = 1.5125 < 2\nSince, the ratio of the largest variance to the minimum variance is smaller than 2 the assumption\nis valid and we may proceed with the analysis.",
+    "body": "A college dietitian has developed three diet plans, namely Diet 1, Diet 2, and Diet 3, to assist college students in losing weight. The weight of participants who followed these diet programs was measured in pounds both before starting the diet and after completing three months on the respective diet plan. The dietitian is investigating whether there are any differences in the effectiveness of these three diets in terms of the average weight loss achieved. Weight loss is defined as the difference between the weight measured after three months and the weight measured before starting the diet. The summary information for each diet is provided below.",
+    "numberingType": "LOWERCASE",
     "answerChoices": []
   },
   "number": 10,
@@ -14,28 +14,28 @@
   "flags": {
     "published": true,
     "disableRandomAnswers": false,
-    "answersStartHidden": true
+    "answersStartHidden": false
   },
   "stats": {
-    "count": 1,
-    "timeSpent": "23005399",
-    "timeSpentVideo": "5037679",
-    "submissions": 109,
+    "count": 0,
+    "timeSpent": "0",
+    "timeSpentVideo": "0",
+    "submissions": 0,
     "submissionsCorrect": 0,
     "accuracy": 0,
-    "difficulty": 1.0107655502392345
+    "difficulty": 0.75
   },
   "resources": [
     {
-      "id": "710de3c3-e159-4fd7-a6f9-eadaae436731",
+      "id": "4b21305f-5483-4976-a52f-29f6411d11ce",
       "type": "IMAGE",
       "data": {
-        "key": "agZuKzpG0M69NzHgQY5d-",
-        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/agZuKzpG0M69NzHgQY5d-"
+        "key": "V4imocu2Hhuy2rh-wKpLX",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/V4imocu2Hhuy2rh-wKpLX"
       },
       "courseId": null,
       "examId": null,
-      "questionId": "8c7436f8-b45f-4845-92e8-2da89c6b1c38",
+      "questionId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
       "explanationId": null,
       "applicationId": null,
       "answerChoiceId": null,
@@ -47,7 +47,7 @@
     "number": 3,
     "year": 2023,
     "season": "FALL",
-    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
     "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
     "flags": {
       "published": true,
@@ -55,22 +55,22 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "317174247",
-      "timeSpentVideo": "129581725",
-      "submissions": 3064,
-      "submissionsCorrect": 1194,
-      "questions": 25,
-      "accuracy": 0.389686684073107,
-      "difficulty": 0.856826801517067
+      "timeSpent": "242725991",
+      "timeSpentVideo": "102010207",
+      "submissions": 2828,
+      "submissionsCorrect": 1628,
+      "questions": 28,
+      "accuracy": 0.5756718528995757,
+      "difficulty": 0.6769125683060109
     }
   },
   "explanation": {
-    "id": "46d1b914-4431-478e-87a1-05d8610f5300",
+    "id": "8df08885-c3d0-465c-a1c2-ebf1588b7def",
     "body": null,
-    "questionId": "8c7436f8-b45f-4845-92e8-2da89c6b1c38",
+    "questionId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
     "resources": [
       {
-        "id": "cf67199c-65bb-4ae4-977f-98eb9917ab18",
+        "id": "3ebfed93-a91b-4ab1-a01d-c0ca2aac0708",
         "type": "VIDEO",
         "data": {
           "url": "https://youtu.be/0Fv09GL-2HE?t=542"
@@ -78,29 +78,622 @@
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "46d1b914-4431-478e-87a1-05d8610f5300",
+        "explanationId": "8df08885-c3d0-465c-a1c2-ebf1588b7def",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
       }
     ]
   },
-  "topics": [
+  "topics": [],
+  "children": [
     {
-      "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
-      "name": "Assumptions",
+      "id": "1cf6e34c-d004-498f-96f3-378d172ea842",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(a) (2 points) Check the assumption of constant variance using the provided summary information. Show your work and state clearly whether the assumption was satisfied or\nnot. Apart from constant variance, you may assume that all other assumptions have been satisfied for the rest of the analysis. ",
+        "solution": "smax/ smin = 1.21/ 0.8 = 1.5125 < 2\nSince, the ratio of the largest variance to the minimum variance is smaller than 2 the assumption\nis valid and we may proceed with the analysis.",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
       "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
       "stats": {
-        "count": 1,
-        "timeSpent": "63602211",
-        "timeSpentVideo": "9500971",
-        "submissions": 216,
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
         "submissionsCorrect": 0,
-        "questions": 4,
         "accuracy": 0,
-        "difficulty": 1.0917721518987342
-      }
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "b3ce4258-7f8a-4fbf-9e4f-45ce0646e27a",
+        "body": null,
+        "questionId": "1cf6e34c-d004-498f-96f3-378d172ea842",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+          "name": "Assumptions",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "88508228",
+            "timeSpentVideo": "14853639",
+            "submissions": 335,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.1350574712643677
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca14e197-a8ef-48c2-8ace-7afee1cbc919",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(b) (7 points) Complete the ANOVA table below for a, b, c, d, e, f, and g. ",
+        "solution": "$a = 2, b = 27, c = 29, d = 16.31, e = 8.155, f = 0.9533, g = 8.5542 $",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "c6e6ae24-ec13-46c3-a671-5ed6eaf9f3df",
+          "type": "IMAGE",
+          "data": {
+            "key": "8sl8aCeWqbD9Nljt0fo7_",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8sl8aCeWqbD9Nljt0fo7_"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "ca14e197-a8ef-48c2-8ace-7afee1cbc919",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "b47a80f3-fba4-407d-9ffc-26b38917f833",
+        "body": null,
+        "questionId": "ca14e197-a8ef-48c2-8ace-7afee1cbc919",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+          "name": "ANOVA",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "282599832",
+            "timeSpentVideo": "83550085",
+            "submissions": 993,
+            "submissionsCorrect": 494,
+            "questions": 6,
+            "accuracy": 0.49748237663645517,
+            "difficulty": 0.7522872827081427
+          }
+        }
+      ]
+    },
+    {
+      "id": "6c5479be-82b3-4179-9400-8f52c7eda68e",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(c) Using the ANOVA table,  what is the estimated value of the assumed common variance among the three diet plans in the analysis?",
+        "solution": "$s^2 = 0.9533$",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "828c4567-528d-48c4-aa7d-124c4960983e",
+        "body": null,
+        "questionId": "6c5479be-82b3-4179-9400-8f52c7eda68e",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "8aaf6b51-9e7d-4f90-a187-b783b0fe08c2",
+          "name": "Variances",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "18084085",
+            "timeSpentVideo": "4767349",
+            "submissions": 119,
+            "submissionsCorrect": 7,
+            "questions": 1,
+            "accuracy": 0.058823529411764705,
+            "difficulty": 0.9897260273972603
+          }
+        }
+      ]
+    },
+    {
+      "id": "84e21769-7577-4a18-beb2-b66bc80f1292",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "d) (3 points) Choose the correct p-value associated with the ANOVA table in part (b) from the options below. Assume that F-ts, df-factor and df-error are the correct test statistic, degrees of freedom for factor, and degrees of freedom for error, respectively.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "3e497bed-37b8-40f6-b581-22648ac4736d",
+            "index": 0,
+            "body": "pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = TRUE) = 0.9986727",
+            "questionId": "84e21769-7577-4a18-beb2-b66bc80f1292",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "4ec6ecf2-916e-4ef2-8ee9-2d2e15fcbabe",
+            "index": 1,
+            "body": "pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = FALSE) = 0.001327266",
+            "questionId": "84e21769-7577-4a18-beb2-b66bc80f1292",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "62fe43ef-cb45-440e-94df-12f12cb56b90",
+            "index": 2,
+            "body": "2*pf(F-ts, df1 = df-factor, df2 = df-error, lower.tail = FALSE) = 0.002654533",
+            "questionId": "84e21769-7577-4a18-beb2-b66bc80f1292",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "adfdd404-c73f-4781-8917-36d47452f502",
+            "index": 3,
+            "body": "pf(F-ts/2, df1 = df-factor, df2 = df-error, lower.tail = TRUE) = 0.9756361",
+            "questionId": "84e21769-7577-4a18-beb2-b66bc80f1292",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "e8f1a02d-5d1c-40ff-94d5-d6a64a7857a2",
+        "body": null,
+        "questionId": "84e21769-7577-4a18-beb2-b66bc80f1292",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+          "name": "ANOVA",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "282599832",
+            "timeSpentVideo": "83550085",
+            "submissions": 993,
+            "submissionsCorrect": 494,
+            "questions": 6,
+            "accuracy": 0.49748237663645517,
+            "difficulty": 0.7522872827081427
+          }
+        }
+      ]
+    },
+    {
+      "id": "5788bf37-dd1b-49b1-8fb6-992559544921",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(e) (6 points) At 5% level of significance, is there evidence that the average weight lost due to at-least one Diet is different? Provide a formal decision and conclusion in context. (Hint: Use the ANOVA table)",
+        "solution": "Decision: The \ud835\udc91-value = 0.001327266 \u2264 \ud835\udfce.\ud835\udfce\ud835\udfd3; therefore, we have evidence to reject the null hypothesis.",
+        "answerChoices": []
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "85c597fe-6515-49fc-bcfe-1a6f12b6010e",
+        "body": null,
+        "questionId": "5788bf37-dd1b-49b1-8fb6-992559544921",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+          "name": "ANOVA",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "282599832",
+            "timeSpentVideo": "83550085",
+            "submissions": 993,
+            "submissionsCorrect": 494,
+            "questions": 6,
+            "accuracy": 0.49748237663645517,
+            "difficulty": 0.7522872827081427
+          }
+        },
+        {
+          "id": "edb216e8-1697-4437-970b-15e01fb51638",
+          "name": "Hypothesis Test",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "569658031",
+            "timeSpentVideo": "70353004",
+            "submissions": 2324,
+            "submissionsCorrect": 1136,
+            "questions": 13,
+            "accuracy": 0.48881239242685026,
+            "difficulty": 0.7607260726072607
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7682f6f-815b-4507-868f-87a8bf55d5de",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(f) Given the results in part (e), will it be meaningful to conduct a pairwise comparison? Provide an explanation for your answer. \n\nRecall that part (e) states \"At 5% level of significance, is there evidence that the average weight lost due to at-least one Diet is different? Provide a formal decision and conclusion in context\"",
+        "solution": "Yes, it will be meaningful. This is because we have identified that at least one diet results in an average weight loss that is different from the rest. The next step is to examine which diets are different.",
+        "answerChoices": []
+      },
+      "number": 6,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "3bea5840-576c-43e8-b810-56c47fb65f92",
+        "body": null,
+        "questionId": "f7682f6f-815b-4507-868f-87a8bf55d5de",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "edb216e8-1697-4437-970b-15e01fb51638",
+          "name": "Hypothesis Test",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "569658031",
+            "timeSpentVideo": "70353004",
+            "submissions": 2324,
+            "submissionsCorrect": 1136,
+            "questions": 13,
+            "accuracy": 0.48881239242685026,
+            "difficulty": 0.7607260726072607
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc5268bd-69a0-4711-a61c-2127005f1778",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "The college dietician did conduct a pairwise comparison while maintaining the overall type I error at 5% using Tukey\u2019s HSD method. The R output for it is given below. \n\n(g) (5 points) Using the above output and the table of sample statistics draw a graphical representation of the Tukey\u2019s HSD results and write one to two complete English sentences stating which Diet program is the best to reduce weight. Please explain your answer.",
+        "solution": "There should be a line between Diet 2 and Diet 1. \n\nSince, the pairwise Tukey comparison resulted in no significant difference between diet 1\nand diet 2 they are statistically indistinguishable in the population. Diet 3 is different from\nboth diet 1 and diet 2 and resulted in the largest reduction in weight so there is evidence to\nsuggest that diet 3 is the better program to reduce weight.",
+        "answerChoices": []
+      },
+      "number": 7,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "6524fe61-a0d2-425d-8e7b-3d1f66025553",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "48ad25fb-d206-4c75-b0ac-9cae88dca140",
+          "type": "IMAGE",
+          "data": {
+            "key": "xWuFpr_W3G60aPluklU4P",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/xWuFpr_W3G60aPluklU4P"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "fc5268bd-69a0-4711-a61c-2127005f1778",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "e43d96d4-25a0-4eb4-8e26-fb9a7c50684e",
+        "body": null,
+        "questionId": "fc5268bd-69a0-4711-a61c-2127005f1778",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "3918c1a3-2c56-45c1-88d2-105a8fe36b39",
+          "name": "Tukey Method",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "117607005",
+            "timeSpentVideo": "5092334",
+            "submissions": 298,
+            "submissionsCorrect": 201,
+            "questions": 2,
+            "accuracy": 0.674496644295302,
+            "difficulty": 0.6193467336683417
+          }
+        }
+      ]
     }
-  ],
-  "children": []
+  ]
 }

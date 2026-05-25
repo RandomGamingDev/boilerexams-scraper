@@ -1,0 +1,25 @@
+This is a technical description of the provided graph:
+
+### 1. Axes and Labels
+*   **Vertical axis:** The label is $\rho \, (1 \times 10^{16} \, \text{cm}^{-3})$. The axis line is a vertical line with an arrow pointing upward.
+*   **Horizontal axis:** The label is $x \, (\text{nm})$. The axis line is a horizontal line with an arrow pointing to the right.
+*   **Intersection:** The axes cross at the origin $(0,0)$.
+
+### 2. Geometry of the Plot
+The graph represents a piecewise step function (a distribution density plot) consisting of two shaded rectangular areas:
+
+*   **Positive-y Region:** A filled grey rectangle is located in the first quadrant ($x > 0, \rho > 0$).
+    *   The left edge is aligned with the vertical axis ($x = 0$).
+    *   The bottom edge lies on the horizontal axis ($\rho = 0$).
+    *   The top edge is at a constant positive height.
+    *   The right edge is a vertical line segment at a positive $x$ value.
+*   **Negative-x Region:** A filled grey rectangle is located in the third quadrant ($x < 0, \rho < 0$).
+    *   The top edge is aligned with the horizontal axis ($\rho = 0$).
+    *   The right edge is aligned with the vertical axis ($x = 0$).
+    *   The left edge is a vertical line segment at a negative $x$ value (specifically, the segment runs vertically downward along the $x=0$ line for the width of the region).
+    *   The bottom edge is a horizontal line segment at a constant negative $\rho$ value.
+
+### 3. Spatial Relationships
+*   The plot depicts a charge density profile or similar step-function distribution where the value is positive for $x > 0$ and negative for $x < 0$.
+*   The transition of the function occurs abruptly at $x = 0$.
+*   There is a discontinuity in the function at $x = 0$, where the value jumps from a negative constant to a positive constant.

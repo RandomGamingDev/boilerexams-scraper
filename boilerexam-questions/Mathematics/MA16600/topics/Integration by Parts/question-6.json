@@ -13,7 +13,7 @@
         "body": "Since we end up seeing the same formula at the end as we started with, this trial fails to compute the integral.",
         "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
         "stats": {
-          "count": 13
+          "count": 23
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "The only substitution we can use is u = $\\tan (x)$ or $u = \\sec (x)$. For the given integral, neither of them works. The above trial confirms that this integral cannot be computed by any method.",
         "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
         "stats": {
-          "count": 5
+          "count": 7
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "This computation gives the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\tan (x) \\sec (x) - \\ln |\\sec (x) + \\tan (x) | +C$. ",
         "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
         "stats": {
-          "count": 15
+          "count": 22
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "This computation gives the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\frac{1}{2} \\{ \\tan (x) \\sec (x) - \\ln |\\sec (x) + \\tan (x) | \\}+C$. ",
         "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
         "stats": {
-          "count": 117
+          "count": 186
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "The above trial fails. We have to use the formula \n$\\int \\tan ^2 (x) \\sec (x) dx = \\int \\{ \\sec ^2 (x) - 1\\} \\sec (x) dx. $\nThen ONLY after we compute $\\int \\sec ^3 (x) dx$ and $ \\int \\sec (x) dx $, we can derive the formula. ",
         "questionId": "cef40523-2c8d-4cc8-b9e5-50bc9af405f3",
         "stats": {
-          "count": 19
+          "count": 35
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "31034911",
-    "timeSpentVideo": "1537488",
-    "submissions": 194,
-    "submissionsCorrect": 117,
-    "accuracy": 0.6030927835051546,
-    "difficulty": 0.6819727891156463
+    "timeSpent": "47141155",
+    "timeSpentVideo": "2381190",
+    "submissions": 304,
+    "submissionsCorrect": 186,
+    "accuracy": 0.6118421052631579,
+    "difficulty": 0.6658415841584159
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "452313536",
-      "timeSpentVideo": "38071089",
-      "submissions": 2365,
-      "submissionsCorrect": 1360,
+      "timeSpent": "753137034",
+      "timeSpentVideo": "64796218",
+      "submissions": 3655,
+      "submissionsCorrect": 2142,
       "questions": 12,
-      "accuracy": 0.5750528541226215,
-      "difficulty": 0.6779918864097363
+      "accuracy": 0.586046511627907,
+      "difficulty": 0.6662450066577896
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
       "stats": {
         "count": 1,
-        "timeSpent": "2328159292",
-        "timeSpentVideo": "120214345",
-        "submissions": 4826,
-        "submissionsCorrect": 2543,
+        "timeSpent": "4089115572",
+        "timeSpentVideo": "207750833",
+        "submissions": 7854,
+        "submissionsCorrect": 4355,
         "questions": 21,
-        "accuracy": 0.5269374222958972,
-        "difficulty": 0.723609419407227
+        "accuracy": 0.5544945250827604,
+        "difficulty": 0.6961905959265778
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
       "stats": {
         "count": 1,
-        "timeSpent": "192561457",
-        "timeSpentVideo": "2364001",
-        "submissions": 294,
-        "submissionsCorrect": 181,
-        "questions": 3,
-        "accuracy": 0.6156462585034014,
-        "difficulty": 0.6637055837563451
+        "timeSpent": "665046757",
+        "timeSpentVideo": "22863020",
+        "submissions": 1332,
+        "submissionsCorrect": 823,
+        "questions": 9,
+        "accuracy": 0.6178678678678678,
+        "difficulty": 0.6403631284916201
       }
     }
   ],

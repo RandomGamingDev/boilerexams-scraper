@@ -1,0 +1,153 @@
+{
+  "id": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Consider the limit $\\lim_{(x,y)\\rightarrow(0,0)}\\frac{xy}{x^{2}+y^{2}}$. Which of the following statements is true?",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "81057dbe-6317-4632-b5b7-78695614f73d",
+        "index": 0,
+        "body": "The limit does not exist, because the path-restricted limit approaching $(0,0)$ along the diagonal $y=x$ does not exist.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "c7b7f014-4ad5-4fa7-b7b8-f674d7fba93a",
+        "index": 1,
+        "body": "The limit is $0$, even though the path-restricted limits approaching $(0,0)$ along the $x$-axis and the $y$-axis are different.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "81ed1c11-9154-492c-9b08-165e6f7f656a",
+        "index": 2,
+        "body": "The limit is $0$, and the limit along any path approaching $(0,0)$ is also $0$.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 65
+        },
+        "resources": []
+      },
+      {
+        "id": "ba3ce34f-e55f-480e-b54d-9b12399c02f7",
+        "index": 3,
+        "body": "The limit does not exist, because the path-restricted limits approaching $(0,0)$ along the $x$-axis and the $y$-axis are different.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 124
+        },
+        "resources": []
+      },
+      {
+        "id": "ad7b893c-9216-4613-a8b9-8ba9ab24b8cb",
+        "index": 4,
+        "body": "The limit is $0$, because the path-restricted limit approaching $(0,0)$ along the diagonal $y=x$ is $0$.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "bfc4bf58-bf5a-49c6-bccd-d233f148a334",
+        "index": 5,
+        "body": "The limit does not exist, even though the path-restricted limits approaching $(0,0)$ along the $x$-axis and the $y$-axis are both $0$.",
+        "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+        "stats": {
+          "count": 523
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "132693633",
+    "timeSpentVideo": "22807050",
+    "submissions": 915,
+    "submissionsCorrect": 523,
+    "accuracy": 0.571584699453552,
+    "difficulty": 0.6854679802955665
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "4f5bf58f-9b35-4a75-be49-67c9a75dd2d6",
+    "body": null,
+    "questionId": "ac81871d-52e0-4c68-b39b-c8dbb67de52c",
+    "resources": [
+      {
+        "id": "f58fc8b2-3b0c-4745-a952-9e9707bca93f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=3570"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4f5bf58f-9b35-4a75-be49-67c9a75dd2d6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b26bc90d-13cf-4530-99a2-2945ce758aa0",
+      "name": "Continuity",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "289233186",
+        "timeSpentVideo": "22807050",
+        "submissions": 915,
+        "submissionsCorrect": 523,
+        "questions": 1,
+        "accuracy": 0.571584699453552,
+        "difficulty": 0.6854679802955665
+      }
+    }
+  ],
+  "children": []
+}

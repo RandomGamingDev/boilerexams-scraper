@@ -1,0 +1,34 @@
+This is a graph-based network diagram consisting of six nodes (labeled 0 through 5) and weighted edges connecting them. Certain edges are marked with red "scribble" arrows indicating directionality.
+
+### Nodes
+*   **Node 0**: Positioned at the far left.
+*   **Node 1**: Positioned top-left.
+*   **Node 2**: Positioned in the center.
+*   **Node 3**: Positioned bottom-center.
+*   **Node 4**: Positioned top-right.
+*   **Node 5**: Positioned at the far right.
+
+### Edges and Weights
+Edges are defined by the connections between nodes. Some edges have red scribbled arrows indicating a specific direction (from node to node), and all edges have numerical weights.
+
+1.  **Edge (0, 1)**: Weight **3**. Marked with a red arrow pointing from 1 to 0.
+2.  **Edge (0, 3)**: Weight **4**. Marked with a red arrow pointing from 0 to 3.
+3.  **Edge (1, 3)**: Weight **2**. No directional marker.
+4.  **Edge (1, 4)**: Weight **5**. Marked with a red arrow pointing from 4 to 1.
+5.  **Edge (2, 3)**: Weight **1**. No directional marker.
+6.  **Edge (2, 4)**: Weight **5**. Marked with a red arrow pointing from 2 to 4.
+7.  **Edge (3, 5)**: Weight **3**. Marked with a red arrow pointing from 3 to 5.
+8.  **Edge (4, 5)**: Weight **4**. No directional marker.
+
+### Geometry and Spatial Layout
+*   The nodes are arranged in a roughly pentagonal layout with Node 2 positioned internally.
+*   Node 1 and Node 4 form the "top" tier.
+*   Node 0 and Node 5 form the "side" extremities.
+*   Node 3 forms the "bottom" point.
+*   Node 2 is located centrally between Node 3 (below it) and the upper horizontal line connecting 1 and 4.
+*   Red scribbles: These are hand-drawn-style red lines that form arrows.
+    *   Arrow 1: From 1 to 0 (accompanies weight 3).
+    *   Arrow 2: From 0 to 3 (accompanies weight 4).
+    *   Arrow 3: From 4 to 1 (accompanies weight 5).
+    *   Arrow 4: From 2 to 4 (accompanies weight 5).
+    *   Arrow 5: From 3 to 5 (accompanies weight 3).

@@ -1,0 +1,158 @@
+{
+  "id": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given the Force Field $\\vec{F} = \\langle x, y, z \\rangle$, find the work required to move an object on the helix $\\vec{r}(t) = \\langle 2 \\cos t, 2 \\sin t, \\frac{t}{2\\pi} \\rangle, 0 \\le t \\le 2\\pi$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "4b57489f-f529-4f12-87bb-eb8ee5c3778d",
+        "index": 0,
+        "body": "$\\frac{1}{8\\pi^2}$",
+        "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "8c1626ca-642c-468a-a9b7-b0c86d007034",
+        "index": 1,
+        "body": "$\\frac{1}{2\\pi}$",
+        "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "00e4e562-7715-4b39-ab75-76d4d1755441",
+        "index": 2,
+        "body": "$4\\pi + \\frac{1}{2}$",
+        "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "9ed3df0d-188b-4d6d-a49d-c488a104d4cc",
+        "index": 3,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+        "stats": {
+          "count": 803
+        },
+        "resources": []
+      },
+      {
+        "id": "48bb0c19-c36f-4623-bfee-95d2225a32ed",
+        "index": 4,
+        "body": "$8\\pi + \\frac{1}{2}$",
+        "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "322843238",
+    "timeSpentVideo": "19580571",
+    "submissions": 1231,
+    "submissionsCorrect": 803,
+    "accuracy": 0.652315190901706,
+    "difficulty": 0.6091284748309542
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "81e17e6e-a3ae-46f1-9011-251e47e56052",
+    "body": "To find the work, you evaluate the line integral $W = \\int_{C} \\vec{F} \\cdot d\\vec{r}$. However, notice that $\\vec{F} = \\langle x, y, z \\rangle$ is a conservative vector field because it is the gradient of the potential function $f(x, y, z) = \\frac{1}{2}(x^2 + y^2 + z^2)$.",
+    "questionId": "4b0acfd9-fc7f-4354-b47f-0f7131b4c86f",
+    "resources": [
+      {
+        "id": "3311fc7b-6327-412e-bb04-319278b30675",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=133"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "81e17e6e-a3ae-46f1-9011-251e47e56052",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "363c9b2b-60b7-4918-aaae-c5fa2ea772c0",
+      "name": "Conservative Fields",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2020513679",
+        "timeSpentVideo": "62587947",
+        "submissions": 2398,
+        "submissionsCorrect": 1454,
+        "questions": 2,
+        "accuracy": 0.6063386155129274,
+        "difficulty": 0.6479183346677342
+      }
+    },
+    {
+      "id": "a2ca45c1-a73c-4765-9524-8b38351d3bb0",
+      "name": "Fundamental Theorem of Line Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2020513679",
+        "timeSpentVideo": "62587947",
+        "submissions": 2398,
+        "submissionsCorrect": 1454,
+        "questions": 2,
+        "accuracy": 0.6063386155129274,
+        "difficulty": 0.6479183346677342
+      }
+    }
+  ],
+  "children": []
+}

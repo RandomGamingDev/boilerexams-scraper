@@ -1,0 +1,153 @@
+{
+  "id": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a parametrization for the line of intersection between $x+2y+3z=4$ and $-2x-y+z=1$. ",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "d32b8358-e11a-4624-93d0-7f423fb11c38",
+        "index": 0,
+        "body": "$\\langle-2,-1,1\\rangle+t\\langle1,2,3\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "19b9e4b0-ece9-4acf-98e0-3d8586aa967d",
+        "index": 1,
+        "body": "$\\langle3,-4,3\\rangle+t\\langle-5,5,-3\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "692bd4b8-d7a4-444e-9499-18331e035a13",
+        "index": 2,
+        "body": "$\\langle1,2,3\\rangle+t\\langle-2,-1,1\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "075a39a8-ab35-42c4-96ec-691b58a7f618",
+        "index": 3,
+        "body": "$\\langle5,-7,3\\rangle+t\\langle-2,3,0\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 51
+        },
+        "resources": []
+      },
+      {
+        "id": "5e59fdf5-32b2-4896-8fa5-fc2b9b5c9dcb",
+        "index": 4,
+        "body": "$\\langle\\frac{1}{7},0,\\frac{9}{7}\\rangle+t\\langle3,3,2\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 40
+        },
+        "resources": []
+      },
+      {
+        "id": "7b0c9b48-2277-460f-b5ad-841e44159b21",
+        "index": 5,
+        "body": "$\\langle-2,3,0\\rangle+t\\langle5,-7,3\\rangle$",
+        "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+        "stats": {
+          "count": 760
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "282455836",
+    "timeSpentVideo": "32960237",
+    "submissions": 1141,
+    "submissionsCorrect": 760,
+    "accuracy": 0.6660823838737949,
+    "difficulty": 0.5973005640612409
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "8afb2d52-ed7c-4520-aff4-089f940df25e",
+    "body": "Hint: The line of intersection is perpendicular to the normal vectors of both planes. Find the direction of the line by taking the cross product of the two normal vectors, $\\vec{n}_1 \\times \\vec{n}_2$.",
+    "questionId": "c8e2c880-d13e-471a-aad5-0e2f35fe3532",
+    "resources": [
+      {
+        "id": "cf589f63-c00d-4796-ac0f-1f97defc51d2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=2791"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "8afb2d52-ed7c-4520-aff4-089f940df25e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4bdda272-bf22-4378-acf4-3b7a0f512f6c",
+      "name": "Line Parameterization",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7102697667",
+        "timeSpentVideo": "414057994",
+        "submissions": 11966,
+        "submissionsCorrect": 7494,
+        "questions": 4,
+        "accuracy": 0.6262744442587331,
+        "difficulty": 0.6247720868556274
+      }
+    }
+  ],
+  "children": []
+}

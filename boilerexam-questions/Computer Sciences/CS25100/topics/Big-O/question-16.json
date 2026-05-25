@@ -13,7 +13,7 @@
         "body": "Yes. The largest amount of times \\texttt{BAR} is called in a single iteration of \\texttt{FOO} is $n$, thus making it grow in $O(n)$ time.",
         "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
         "stats": {
-          "count": 287
+          "count": 315
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Yes. $n-1$ is $O(n)$.",
         "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
         "stats": {
-          "count": 97
+          "count": 101
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "No. For a \\texttt{FOO} input size of $n$, the number of times \\texttt{BAR} is called grows in $O(n^2)$ time.",
         "questionId": "c3e01ab7-ddeb-4c7d-9c20-c96f84e15035",
         "stats": {
-          "count": 1170
+          "count": 1252
         },
         "resources": []
       },
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "365038152",
-    "timeSpentVideo": "49076109",
-    "submissions": 1820,
-    "submissionsCorrect": 1170,
-    "accuracy": 0.6428571428571429,
-    "difficulty": 0.6145833333333334
+    "timeSpent": "401573535",
+    "timeSpentVideo": "53754976",
+    "submissions": 1953,
+    "submissionsCorrect": 1252,
+    "accuracy": 0.6410650281618023,
+    "difficulty": 0.615806137359961
   },
   "resources": [
     {
@@ -99,13 +99,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "3642246196",
-      "timeSpentVideo": "361200476",
-      "submissions": 24845,
-      "submissionsCorrect": 16750,
+      "timeSpent": "3861776371",
+      "timeSpentVideo": "386619392",
+      "submissions": 26432,
+      "submissionsCorrect": 17840,
       "questions": 17,
-      "accuracy": 0.6741799154759509,
-      "difficulty": 0.5765183403487673
+      "accuracy": 0.6749394673123487,
+      "difficulty": 0.575719885421378
     }
   },
   "explanation": {
@@ -136,13 +136,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "10975892568",
-        "timeSpentVideo": "225763555",
-        "submissions": 30123,
-        "submissionsCorrect": 22481,
+        "timeSpent": "11688037899",
+        "timeSpentVideo": "244022207",
+        "submissions": 32930,
+        "submissionsCorrect": 24596,
         "questions": 22,
-        "accuracy": 0.7463068087507885,
-        "difficulty": 0.5045081560401019
+        "accuracy": 0.7469177042210751,
+        "difficulty": 0.5038298516500151
       }
     }
   ],

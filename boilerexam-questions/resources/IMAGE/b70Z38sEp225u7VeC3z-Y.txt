@@ -1,0 +1,36 @@
+This circuit diagram represents a linear transformer (coupled inductors) circuit in the frequency domain.
+
+### 1. Circuit Topology
+The circuit consists of two loops coupled by mutual inductance.
+
+**Left Loop:**
+*   A voltage source with a value of $100\text{ V}$. The positive terminal is oriented upwards.
+*   A resistor with a value of $20\text{ }\Omega$ connected in series with the voltage source and the primary winding of the transformer.
+*   The primary winding has an impedance of $j25\text{ }\Omega$.
+*   A blue dot is located at the top terminal of the primary winding (near the connection point of the $20\text{ }\Omega$ resistor).
+
+**Right Loop:**
+*   A secondary winding with an impedance of $j16\text{ }\Omega$.
+*   A resistor with a value of $10\text{ }\Omega$ connected in series with the secondary winding.
+*   A blue dot is located at the bottom terminal of the secondary winding.
+
+### 2. Mutual Coupling
+*   The two windings (primary and secondary) are magnetically coupled.
+*   This coupling is indicated by a double-headed blue arc connecting the top terminal of the primary winding to the top terminal of the secondary winding.
+*   The value associated with this mutual coupling is $j14\text{ }\Omega$.
+
+### 3. Summary of Components and Values
+*   **Source:** $100\text{ V}$ (DC-like symbol, likely representing a phasor source).
+*   **Resistors:**
+    *   $R_1 = 20\text{ }\Omega$
+    *   $R_2 = 10\text{ }\Omega$
+*   **Inductors (Impedances):**
+    *   Primary winding: $j25\text{ }\Omega$
+    *   Secondary winding: $j16\text{ }\Omega$
+    *   Mutual impedance: $j14\text{ }\Omega$
+
+### 4. Geometry and Layout
+*   The circuit is drawn as two distinct rectangular loops positioned side-by-side.
+*   The two inductors are depicted vertically, parallel to each other.
+*   The mutual coupling arc is curved above the inductors, connecting the top of the primary to the top of the secondary.
+*   Dot convention: The dot on the primary winding is at the "start" (top) terminal, and the dot on the secondary winding is at the "finish" (bottom) terminal, indicating opposite winding polarities.

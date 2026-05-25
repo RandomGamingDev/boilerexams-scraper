@@ -13,7 +13,7 @@
         "body": "Dynamic memory allocation is required when the size of a data set is known before a program is compiled.",
         "questionId": "9aa474e5-4987-4f9b-92cb-eda47cdffcb9",
         "stats": {
-          "count": 1
+          "count": 94
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Static memory allocation is required when the size of a data set is determined while the program is running.",
         "questionId": "9aa474e5-4987-4f9b-92cb-eda47cdffcb9",
         "stats": {
-          "count": 1
+          "count": 111
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "The memory allocated by the <code>malloc</code> function is not initialized and we should assume that it will contain unknown values.",
         "questionId": "9aa474e5-4987-4f9b-92cb-eda47cdffcb9",
         "stats": {
-          "count": 11
+          "count": 2173
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "9aa474e5-4987-4f9b-92cb-eda47cdffcb9",
         "stats": {
-          "count": 0
+          "count": 222
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "409741",
+    "timeSpent": "258307345",
     "timeSpentVideo": "0",
-    "submissions": 13,
-    "submissionsCorrect": 11,
-    "accuracy": 0.8461538461538461,
-    "difficulty": 0.7101769911504425
+    "submissions": 2613,
+    "submissionsCorrect": 2173,
+    "accuracy": 0.831611174894757,
+    "difficulty": 0.4306118687799484
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "138079740",
-      "timeSpentVideo": "0",
-      "submissions": 1750,
-      "submissionsCorrect": 1048,
+      "timeSpent": "10813753576",
+      "timeSpentVideo": "538945",
+      "submissions": 103489,
+      "submissionsCorrect": 69059,
       "questions": 62,
-      "accuracy": 0.5988571428571429,
-      "difficulty": 0.6564864864864864
+      "accuracy": 0.6673076365604074,
+      "difficulty": 0.5828538744461285
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "8077686656",
+        "timeSpent": "12508580320",
         "timeSpentVideo": "0",
-        "submissions": 19038,
-        "submissionsCorrect": 12937,
+        "submissions": 29998,
+        "submissionsCorrect": 21142,
         "questions": 6,
-        "accuracy": 0.6795356655110831,
-        "difficulty": 0.5714024453965931
+        "accuracy": 0.7047803186879126,
+        "difficulty": 0.5459000598046382
       }
     },
     {
@@ -119,13 +119,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "94288252211",
+        "timeSpent": "144270609339",
         "timeSpentVideo": "0",
-        "submissions": 262463,
-        "submissionsCorrect": 174570,
+        "submissions": 410426,
+        "submissionsCorrect": 274382,
         "questions": 81,
-        "accuracy": 0.6651223220034824,
-        "difficulty": 0.5849405666449576
+        "accuracy": 0.6685297715057038,
+        "difficulty": 0.581511280649703
       }
     }
   ],

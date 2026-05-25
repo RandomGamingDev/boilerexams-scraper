@@ -1,0 +1,20 @@
+This image contains text and a graphical representation of a complex plane (s-plane).
+
+### 1. Textual Information
+*   **Top left:** $\omega_m = 100 \text{ [rad/s]}$
+*   **Bottom left:** $H_m = 10 \text{ [A/V]}$
+
+### 2. Graphical Representation (s-plane)
+The image displays a standard s-plane coordinate system with a horizontal real axis labeled $\sigma$ and a vertical imaginary axis labeled $j\omega$.
+
+*   **Axes:**
+    *   Horizontal axis: Labeled $\sigma$ with an arrow pointing right.
+    *   Vertical axis: Labeled $j\omega$ with an arrow pointing up.
+    *   The axes intersect at the origin $(0,0)$.
+
+*   **Plot markers:**
+    *   **Poles (indicated by red 'x' marks):** Two poles are present, located in the left-half plane (negative real part). 
+        *   One pole is at a positive imaginary value $(+j\omega)$.
+        *   One pole is at a negative imaginary value $(-j\omega)$.
+        *   Both are positioned at the same distance to the left of the $j\omega$ axis and are equidistant from the real axis.
+    *   **Zero (indicated by a red 'o' circle):** A single zero is located exactly at the origin $(0,0)$ of the s-plane, where the $\sigma$ and $j\omega$ axes intersect.

@@ -1,0 +1,30 @@
+This image depicts a mathematical expression represented as a binary expression tree. The tree consists of nodes containing operators and variables/constants, connected by edges.
+
+### Root Node and Structure
+*   **Root:** The top-most node contains the division operator ` / `.
+*   **Structure:** This is a branching hierarchy where the root splits into a left subtree and a right subtree.
+
+### Left Subtree (Dividend)
+The root's left child is a subtraction operator ` - `. Its children are as follows:
+*   **Left branch of ` - `:** A multiplication operator ` * `.
+    *   Left child of ` * `: Variable `b`.
+    *   Right child of ` * `: An exponentiation operator ` ^ `.
+        *   Left child of ` ^ `: Variable `x`.
+        *   Right child of ` ^ `: Constant `2`.
+*   **Right branch of ` - `:** A multiplication operator ` * `.
+    *   Left child of ` * `: Variable `a`.
+    *   Right child of ` * `: A multiplication operator ` * `.
+        *   Left child of ` * `: Variable `x`.
+        *   Right child of ` * `: Variable `y`.
+
+### Right Subtree (Divisor)
+The root's right child is an addition operator ` + `. Its children are as follows:
+*   **Left branch of ` + `:** A multiplication operator ` * `.
+    *   Left child of ` * `: Variable `b`.
+    *   Right child of ` * `: Variable `y`.
+*   **Right branch of ` + `:** Variable `c`.
+
+### Node Summary
+*   **Operators:** `/`, `-`, `+`, `*` (x5), `^` (x1).
+*   **Operands (Variables/Constants):** `b` (x2), `a` (x1), `x` (x2), `y` (x2), `c` (x1), `2` (x1).
+*   **Formatting:** All operators and operands are enclosed in circles and connected by hand-drawn lines.

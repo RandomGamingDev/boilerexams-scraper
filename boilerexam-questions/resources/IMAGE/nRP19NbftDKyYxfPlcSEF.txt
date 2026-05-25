@@ -1,0 +1,20 @@
+This image contains text-based parameters on the left and a pole-zero plot on the right.
+
+### 1. Textual Information (Left Side)
+*   **First line:** $\omega_m = 10 \text{ [rad/s]}$
+*   **Second line:** $H_m = 10 \text{ [A/V]}$
+
+### 2. Graphical Information (Right Side)
+The image features a coordinate plane (s-plane) with the following characteristics:
+
+*   **Axes:**
+    *   **Vertical Axis:** Labeled "$j\omega$" at the top, representing the imaginary component of the complex frequency.
+    *   **Horizontal Axis:** Labeled "$\sigma$" at the right end, representing the real component of the complex frequency.
+    *   The axes intersect at the origin (0,0).
+
+*   **Symbols/Plot Elements:**
+    *   **Red Circle:** A single red circle ('o') is placed exactly at the origin (0,0). In control theory notation, this represents a zero.
+    *   **Red Crosses:** Two red crosses ('x') represent poles. 
+        *   One is located in the upper-left quadrant (complex conjugate pair).
+        *   One is located in the lower-left quadrant (complex conjugate pair).
+    *   **Positioning:** The two red crosses are aligned vertically such that they have the same negative real part ($\sigma < 0$) and symmetric imaginary parts ($+j\omega$ and $-j\omega$).

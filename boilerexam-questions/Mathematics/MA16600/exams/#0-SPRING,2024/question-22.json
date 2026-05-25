@@ -1,0 +1,143 @@
+{
+  "id": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Choose the right formulas to compute the volume of the solid obtained from rotating about the line $x = 2$ the region bounded by $y = e^x, y = 2$, and $x = 0$.\n$(i)$ Washer method,\n$(ii)$ Shell method.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "eea07c6f-4ce8-46cb-9eba-36b01177ff54",
+        "index": 0,
+        "body": "$(i)\\int_1^2 \\pi(4 - (ln(y))^2)dy, \\ \\ \\ \\ \\ (ii)\\int_0^{ln(2)} 2\\pi(2 - e^x)dx$",
+        "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "2c62c38b-0b7b-4a01-857d-d47900d78f1e",
+        "index": 1,
+        "body": "$(i)\\int_1^2 \\pi(4 - (2 - ln(y))^2)dy, \\ \\ \\ \\ \\ (ii)\\int_0^{ln(2)} 2\\pi(2-x)(2 - e^x)dx$",
+        "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "bfa483c6-ba23-4e1e-a46e-b607772162d3",
+        "index": 2,
+        "body": "$(i)\\int_0^{ln(2)} \\pi(2 - e^x)^2dx, \\ \\ \\ \\ \\ (ii) \\int_1^2 2\\pi(2 - (ln(y))^2)dy$",
+        "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "0ea942c3-052a-4b6c-99d8-6a09b2ed5b21",
+        "index": 3,
+        "body": "$(i)\\int_0^{ln(2)} \\pi(2 - e^x)dx, \\ \\ \\ \\ \\ (ii) \\int_1^{2} 2\\pi y(2 - ln(y))dy$",
+        "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "3094ef56-abcb-4829-97eb-9c73a94633f9",
+        "index": 4,
+        "body": "$(i)\\int_1^2 \\pi(2 - (ln(y))^2)dy, \\ \\ \\ \\ \\ (ii)\\int_0^{ln(2)} 2\\pi(2 - e^x)dx$",
+        "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "NOTE: The original problem had no correct answer, so this problem has been adjusted to have a correct answer in the corresponding answer choice. ",
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "34599276",
+    "timeSpentVideo": "2494509",
+    "submissions": 136,
+    "submissionsCorrect": 72,
+    "accuracy": 0.5294117647058824,
+    "difficulty": 0.7330508474576272
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "edddc62a-73a0-4893-bf71-d870447f7d25",
+    "body": null,
+    "questionId": "461f8b92-3af4-4872-9ef1-63eb5e3a5d61",
+    "resources": [
+      {
+        "id": "b047b935-1e69-4412-9858-675e62d31402",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=5842"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "edddc62a-73a0-4893-bf71-d870447f7d25",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75951154-7b2d-4eb9-b027-5eace6f0ac0f",
+      "name": "Volume of Solid",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1041918450",
+        "timeSpentVideo": "46542589",
+        "submissions": 1653,
+        "submissionsCorrect": 937,
+        "questions": 13,
+        "accuracy": 0.5668481548699335,
+        "difficulty": 0.6869652025099829
+      }
+    }
+  ],
+  "children": []
+}

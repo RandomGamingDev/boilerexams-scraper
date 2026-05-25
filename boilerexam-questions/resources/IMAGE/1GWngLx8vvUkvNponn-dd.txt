@@ -1,0 +1,18 @@
+This image consists of two parts: a set of parameter definitions on the left and a complex plane (s-plane) pole-zero diagram on the right.
+
+### 1. Text and Equations (Left Side)
+*   Top line: $\omega_m = 10 \text{ [rad/s]}$
+*   Bottom line: $H_m = 0.1 \text{ [A/V]}$
+
+### 2. Complex Plane Diagram (Right Side)
+*   **Axes:**
+    *   Horizontal axis represents the real component ($\sigma$).
+    *   Vertical axis represents the imaginary component ($j\omega$).
+    *   Both axes are represented as lines intersecting at the origin $(0,0)$.
+    *   The axes are terminated with arrows pointing in the positive directions (right for $\sigma$, up for $j\omega$).
+*   **Geometric Features:**
+    *   There are two red 'x' marks plotted on the complex plane.
+    *   Both marks are located on the vertical ($j\omega$) axis, meaning their real part ($\sigma$) is $0$.
+    *   One 'x' is positioned above the horizontal axis (positive imaginary part).
+    *   One 'x' is positioned below the horizontal axis (negative imaginary part).
+    *   The marks are placed symmetrically with respect to the horizontal axis, indicating a conjugate pair of purely imaginary poles.

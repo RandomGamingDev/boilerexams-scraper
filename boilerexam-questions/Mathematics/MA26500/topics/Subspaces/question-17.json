@@ -13,7 +13,7 @@
         "body": "The best approximation to $\\mathbf{y}$ by elements of a subspace $W$ is the vector $\\mathbf{y}-\\operatorname{proj}_{W} \\mathbf{y}$",
         "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
         "stats": {
-          "count": 1574
+          "count": 2491
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "If $\\mathbf{z}$ is orthogonal to $\\mathbf{u}_{\\mathbf{1}}$ and $\\mathbf{u}_{\\mathbf{2}}$, and if $W=\\operatorname{Span}\\left\\{\\mathbf{u}_{\\mathbf{1}}, \\mathbf{u}_{\\mathbf{2}}\\right\\}$, then $\\mathbf{z}$ is in $W^{\\perp}$.",
         "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
         "stats": {
-          "count": 151
+          "count": 239
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "If $\\mathbf{y}=\\mathbf{z}_{\\mathbf{1}}+\\mathbf{z}_{\\mathbf{2}}$, where $\\mathbf{z}_{\\mathbf{1}}$ is in a subspace $W$ and $\\mathbf{z}_{\\mathbf{2}}$ is in $W^{\\perp}$, then $\\operatorname{proj}_{W} \\mathbf{y}=\\mathbf{z}_{\\mathbf{1}}$.",
         "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
         "stats": {
-          "count": 568
+          "count": 857
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "If $\\mathbf{x}$ is not in a subspace $W$, then $\\mathbf{x}-\\operatorname{proj}_{W} \\mathbf{x}$ is not zero.",
         "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
         "stats": {
-          "count": 390
+          "count": 611
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "If the columns of an $m \\times n$ matrix $A$ are orthonormal, then the linear mapping $\\mathbf{x} \\mapsto A \\mathbf{x}$ preserves length.",
         "questionId": "cda50609-0c44-4008-b801-404bce7aaf5f",
         "stats": {
-          "count": 302
+          "count": 463
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "482281781",
-    "timeSpentVideo": "166312487",
-    "submissions": 3305,
-    "submissionsCorrect": 1574,
-    "accuracy": 0.4762481089258699,
-    "difficulty": 0.7730543318649046
+    "timeSpent": "781378615",
+    "timeSpentVideo": "233638577",
+    "submissions": 5164,
+    "submissionsCorrect": 2491,
+    "accuracy": 0.4823780015491867,
+    "difficulty": 0.7672872340425532
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "15495570671",
-      "timeSpentVideo": "3440528906",
-      "submissions": 82454,
-      "submissionsCorrect": 48895,
+      "timeSpent": "24453521178",
+      "timeSpentVideo": "4744209416",
+      "submissions": 125562,
+      "submissionsCorrect": 75191,
       "questions": 25,
-      "accuracy": 0.5929973075896864,
-      "difficulty": 0.6571153426847881
+      "accuracy": 0.598835634985107,
+      "difficulty": 0.651243016982063
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "27190877248",
-        "timeSpentVideo": "4586992202",
-        "submissions": 68501,
-        "submissionsCorrect": 38334,
-        "questions": 21,
-        "accuracy": 0.5596122684340374,
-        "difficulty": 0.6904746286497281
+        "timeSpent": "42139418536",
+        "timeSpentVideo": "6072917730",
+        "submissions": 99096,
+        "submissionsCorrect": 56170,
+        "questions": 19,
+        "accuracy": 0.5668240897715346,
+        "difficulty": 0.683243275938546
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "6029499322",
-        "timeSpentVideo": "611094532",
-        "submissions": 13320,
-        "submissionsCorrect": 6425,
-        "questions": 7,
-        "accuracy": 0.48235735735735735,
-        "difficulty": 0.767511177347243
+        "timeSpent": "9920503017",
+        "timeSpentVideo": "769250563",
+        "submissions": 19277,
+        "submissionsCorrect": 9216,
+        "questions": 6,
+        "accuracy": 0.4780826892151268,
+        "difficulty": 0.7718042008566858
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "37440604043",
-        "timeSpentVideo": "4696417936",
-        "submissions": 81693,
-        "submissionsCorrect": 43910,
-        "questions": 28,
-        "accuracy": 0.5375001530118859,
-        "difficulty": 0.7125456946193439
+        "timeSpent": "60455662441",
+        "timeSpentVideo": "6686127388",
+        "submissions": 124916,
+        "submissionsCorrect": 65944,
+        "questions": 27,
+        "accuracy": 0.5279067533382433,
+        "difficulty": 0.7221155692071415
       }
     },
     {
@@ -174,13 +174,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "8871104734",
-        "timeSpentVideo": "971401651",
-        "submissions": 19414,
-        "submissionsCorrect": 10036,
-        "questions": 9,
-        "accuracy": 0.5169465334294838,
-        "difficulty": 0.7331403095213693
+        "timeSpent": "14411510992",
+        "timeSpentVideo": "1265281477",
+        "submissions": 29428,
+        "submissionsCorrect": 15434,
+        "questions": 8,
+        "accuracy": 0.5244664944950388,
+        "difficulty": 0.7256163641289624
       }
     }
   ],

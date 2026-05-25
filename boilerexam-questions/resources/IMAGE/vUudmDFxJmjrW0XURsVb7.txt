@@ -1,0 +1,29 @@
+This is a directed graph consisting of 6 nodes (labeled 0 through 5) and 8 directed edges, each with an associated weight.
+
+### Nodes
+*   **Nodes:** 0, 1, 2, 3, 4, 5. Each is represented by a circle containing its numerical label.
+
+### Directed Edges and Weights
+The edges connect the nodes with the following directions and integer weights:
+
+1.  **From 0 to 1:** Weight 3
+2.  **From 0 to 3:** Weight 4
+3.  **From 3 to 1:** Weight 2
+4.  **From 1 to 4:** Weight 5
+5.  **From 3 to 2:** Weight 1
+6.  **From 4 to 2:** Weight 5
+7.  **From 4 to 5:** Weight 4
+8.  **From 3 to 5:** Weight 3
+
+### Spatial Arrangement
+*   **Node 0:** Located on the far left.
+*   **Node 1:** Located above and to the right of Node 0.
+*   **Node 3:** Located below and to the right of Node 0.
+*   **Node 2:** Located in the center-middle, above Node 3 and below the space between Nodes 1 and 4.
+*   **Node 4:** Located in the top-right quadrant.
+*   **Node 5:** Located on the far right.
+
+### Connectivity Geometry
+*   The graph forms a network where flow generally moves from left (Node 0) toward the right (Node 5).
+*   Arrows indicate the direction of each edge.
+*   The weights are positioned along the lines representing the edges.

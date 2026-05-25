@@ -1,0 +1,143 @@
+{
+  "id": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Write out the form of the partial fraction decomposition of the function\n$\\frac{x^3 + x^2 + 10}{(x-1)^2 (x^4 - 1)}$.\n\nNote: The letters $A, B, C, D, E, F, G, H$ in the partial fractions above represent some appropriate constants ",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "c3f5b35c-b21f-481e-be6e-a275157e08d9",
+        "index": 0,
+        "body": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{C}{(x-1)^3} + \\frac{D}{x+1} + \\frac{Ex + F}{x^2 + 1}\n$",
+        "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+        "stats": {
+          "count": 72
+        },
+        "resources": []
+      },
+      {
+        "id": "695fd9f3-ca95-4d2d-88cf-af051d23dfea",
+        "index": 1,
+        "body": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{Cx + D}{x^2 - 1} + \\frac{Ex + F}{x^2 + 1}\n$",
+        "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "24727edb-c342-4e33-b831-df070bac1c1d",
+        "index": 2,
+        "body": "$\\frac{Ax + B}{(x-1)^2} + \\frac{Cx + D}{x^2 + 1} + \\frac{Ex^3 + Fx^2 + Gx + H}{x^4 - 1}\n$",
+        "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "44772984-807e-43ad-8f9e-7f70dae31910",
+        "index": 3,
+        "body": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{C}{x+1} + \\frac{Ex + F}{x^2 + 1}\n$",
+        "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "fb7e5387-a58a-4509-97c3-16466b0d74bb",
+        "index": 4,
+        "body": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{C}{(x-1)^3} + \\frac{Dx + E}{x^3 + 1}\n$",
+        "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13817910",
+    "timeSpentVideo": "1469791",
+    "submissions": 130,
+    "submissionsCorrect": 72,
+    "accuracy": 0.5538461538461539,
+    "difficulty": 0.7195652173913043
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "1acb5162-fab7-4802-b47a-478cec1fa97a",
+    "body": null,
+    "questionId": "8fc83457-d92b-4a4b-a31a-c601165a0fbf",
+    "resources": [
+      {
+        "id": "0f27d577-4688-4918-b185-2be2d6a608e3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=aKuvXch1iCXUK5Da&t=3021"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1acb5162-fab7-4802-b47a-478cec1fa97a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "829111553",
+        "timeSpentVideo": "22928209",
+        "submissions": 1910,
+        "submissionsCorrect": 1234,
+        "questions": 11,
+        "accuracy": 0.6460732984293194,
+        "difficulty": 0.6111940298507462
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,67 +1,67 @@
 {
-  "id": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+  "id": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Evaluate $\\displaystyle \\iint_{D} y d A$ where $D$ is inside the disk $x^{2}+y^{2}=2 x$ and above the $x$-axis.",
+    "body": "Compute $\\int_{-3}^{3} \\int_{-\\sqrt{9-y^2}}^{\\sqrt{9-y^2}} e^{x^2+y^2} \\, dx \\, dy$.",
     "solution": [
-      1
+      0
     ],
     "answerChoices": [
       {
-        "id": "7f9e9e0b-c73e-481e-b1b0-75b9343e9a72",
+        "id": "9a946a1b-d805-4a1c-b8fd-2633224828a5",
         "index": 0,
-        "body": "$\\pi$",
-        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "body": "$\\pi(e^9 - 1)$",
+        "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
         "stats": {
-          "count": 106
+          "count": 697
         },
         "resources": []
       },
       {
-        "id": "799a81d1-1887-49d2-abd5-dbad9fd2ccd7",
+        "id": "233b0678-17f9-47a4-93b8-16188a056faf",
         "index": 1,
-        "body": "$\\frac{2}{3}$",
-        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "body": "$\\frac{\\pi}{2}(e^3 - 1)$",
+        "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
         "stats": {
-          "count": 1655
+          "count": 23
         },
         "resources": []
       },
       {
-        "id": "ac1accd7-d33c-4b7b-964d-2ce739f7ae6a",
+        "id": "c8ccb701-d04e-4ac0-ac6a-ad42af138a37",
         "index": 2,
-        "body": "$\\frac{2 \\pi}{5}$",
-        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "body": "$\\frac{\\pi}{2}(e^9 - 1)$",
+        "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
         "stats": {
-          "count": 79
+          "count": 80
         },
         "resources": []
       },
       {
-        "id": "b74501b9-9924-4137-a7e1-2a53aae6bf2d",
+        "id": "980f4ec2-085f-4855-9119-e3d502065530",
         "index": 3,
-        "body": "$\\frac{8}{3}$",
-        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "body": "$\\pi(e^3 - 1)$",
+        "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
         "stats": {
-          "count": 232
+          "count": 47
         },
         "resources": []
       },
       {
-        "id": "da987bc2-44bd-43ad-92f3-c9f6f0698cf7",
+        "id": "39bd34e6-26e4-44da-8cd6-5cd09e947705",
         "index": 4,
-        "body": "$\\frac{\\pi}{8}$",
-        "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+        "body": "$\\frac{\\pi}{2}(e^6 - 1)$",
+        "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
         "stats": {
-          "count": 50
+          "count": 10
         },
         "resources": []
       }
     ]
   },
   "number": 5,
-  "disclaimer": "",
-  "examId": "a574a7ec-cc60-4044-a502-972468a7dc12",
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,51 +71,51 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "960810617",
-    "timeSpentVideo": "152888412",
-    "submissions": 3635,
-    "submissionsCorrect": 1655,
-    "accuracy": 0.45529573590096284,
-    "difficulty": 0.7935073627844712
+    "timeSpent": "203890871",
+    "timeSpentVideo": "10009693",
+    "submissions": 1012,
+    "submissionsCorrect": 697,
+    "accuracy": 0.6887351778656127,
+    "difficulty": 0.5782374100719424
   },
   "resources": [],
   "exam": {
-    "id": "a574a7ec-cc60-4044-a502-972468a7dc12",
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
     "number": 2,
-    "year": 2016,
-    "season": "FALL",
+    "year": 2024,
+    "season": "SPRING",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
-      "published": false,
+      "published": true,
       "practice": false
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4604005568",
-      "timeSpentVideo": "918117591",
-      "submissions": 21930,
-      "submissionsCorrect": 11494,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
       "questions": 12,
-      "accuracy": 0.5241222070223438,
-      "difficulty": 0.7259872900590104
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
     }
   },
   "explanation": {
-    "id": "312a4457-7d40-4060-8fb9-70116299441c",
-    "body": "",
-    "questionId": "2b59b7da-ce72-4863-81df-3b7366f95a45",
+    "id": "cd20d8d6-d004-4591-bf32-cc324c5c6a2b",
+    "body": "Remember $r^2 = x^2 + y^2 $, and that you can set $x = \\sqrt{9-y^2}\\ $",
+    "questionId": "ca3824fe-89dc-4172-8615-87d0b9a841d2",
     "resources": [
       {
-        "id": "4050e6b2-f853-4910-b829-86a0fcbd6be0",
+        "id": "975b3e16-663a-4635-8c0a-61dc0047c922",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/zNpML76Fxkw?feature=shared&t=494"
+          "url": "https://youtu.be/Ok10cEt_Ses?t=594"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "312a4457-7d40-4060-8fb9-70116299441c",
+        "explanationId": "cd20d8d6-d004-4591-bf32-cc324c5c6a2b",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "18404015194",
-        "timeSpentVideo": "954158868",
-        "submissions": 46608,
-        "submissionsCorrect": 31980,
-        "questions": 11,
-        "accuracy": 0.6861483007209063,
-        "difficulty": 0.564250235505695
+        "timeSpent": "22356378697",
+        "timeSpentVideo": "976332840",
+        "submissions": 55097,
+        "submissionsCorrect": 37877,
+        "questions": 12,
+        "accuracy": 0.6874602972938636,
+        "difficulty": 0.5628793231516206
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "14248632253",
-        "timeSpentVideo": "1394954479",
-        "submissions": 38219,
-        "submissionsCorrect": 24124,
-        "questions": 9,
-        "accuracy": 0.6312043747874094,
-        "difficulty": 0.6191380255225867
+        "timeSpent": "22506035480",
+        "timeSpentVideo": "1648092980",
+        "submissions": 57860,
+        "submissionsCorrect": 37183,
+        "questions": 12,
+        "accuracy": 0.6426374006221915,
+        "difficulty": 0.6076086956521739
       }
     }
   ],

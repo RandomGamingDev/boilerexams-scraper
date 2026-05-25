@@ -1,0 +1,143 @@
+{
+  "id": "81154be4-0393-407b-89eb-ca1aba8889a9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The proper form of the partial fraction decomposition of the rational function\n$\\frac{x+1}{x^2(x^2+4)(x^2+2x+5)}$\nis",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "75feff2a-196d-4a94-9abb-6c7d74366781",
+        "index": 0,
+        "body": "$\\frac{A}{x^2} + \\frac{B}{x+2} + \\frac{C}{x-2} + \\frac{Dx + E}{x^2+2x+5}$",
+        "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "9024f4c6-e4d4-46a8-8439-d08f340e3c7b",
+        "index": 1,
+        "body": "$\\frac{A}{x} + \\frac{B}{x^2} + \\frac{Cx + D}{x^2+4} + \\frac{Ex + F}{x^2+2x+5}$",
+        "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      },
+      {
+        "id": "057354ff-9415-4063-b857-07db500af4c6",
+        "index": 2,
+        "body": "$\\frac{Ax + B}{x} + \\frac{Cx + D}{x^2+4} + \\frac{Ex + F}{x^2+2x+5}$",
+        "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "b83cbf5e-09b3-40f3-a173-49311cc7ec45",
+        "index": 3,
+        "body": "$\\frac{A}{x} + \\frac{B}{x^2} + \\frac{C}{x+2} + \\frac{D}{x-2} + \\frac{Ex + F}{x^2+2x+5}$",
+        "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "71ddf5ec-71a2-4c11-83b4-212d9e61a072",
+        "index": 4,
+        "body": "$\\frac{A}{x^2} + \\frac{Bx+C}{x^2+4} + \\frac{Dx+E}{x^2+2x+5}$",
+        "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3540800",
+    "timeSpentVideo": "298110",
+    "submissions": 67,
+    "submissionsCorrect": 49,
+    "accuracy": 0.7313432835820896,
+    "difficulty": 0.657185628742515
+  },
+  "resources": [],
+  "exam": {
+    "id": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "174675136",
+      "timeSpentVideo": "9779237",
+      "submissions": 684,
+      "submissionsCorrect": 444,
+      "questions": 12,
+      "accuracy": 0.6491228070175439,
+      "difficulty": 0.6198979591836735
+    }
+  },
+  "explanation": {
+    "id": "a4daed1f-b40e-4d1f-ba42-376f605caf67",
+    "body": null,
+    "questionId": "81154be4-0393-407b-89eb-ca1aba8889a9",
+    "resources": [
+      {
+        "id": "03652e9a-7819-44a8-b5d0-f6f00cffe057",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/7FXkRLd72Rg?si=0Wy_jnlNTpt24hZ3&t=3180"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "a4daed1f-b40e-4d1f-ba42-376f605caf67",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "829111553",
+        "timeSpentVideo": "22928209",
+        "submissions": 1910,
+        "submissionsCorrect": 1234,
+        "questions": 11,
+        "accuracy": 0.6460732984293194,
+        "difficulty": 0.6111940298507462
+      }
+    }
+  ],
+  "children": []
+}

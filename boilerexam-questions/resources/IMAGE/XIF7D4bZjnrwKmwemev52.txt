@@ -1,0 +1,26 @@
+This is a circuit diagram containing an n-channel MOSFET in a source-follower (common-drain) configuration.
+
+### 1. Components and Text Labels
+*   **Transistor:** An enhancement-mode n-channel MOSFET symbol is centered in the diagram.
+*   **Top Terminal (Drain):** Connected to a vertical wire extending upwards to a node labeled "5 V".
+*   **Gate Terminal:** Connected to the positive terminal of a DC voltage source.
+*   **DC Voltage Source (Gate):** A circle containing a "+" and "-" symbol, with the text "6.5 V" to its left. The negative terminal is connected to ground.
+*   **Source Terminal:** Connected to a node that leads to both an output terminal labeled "$V_S = 1 \text{ V}$" and a resistor $R$.
+*   **Resistor:** A standard zigzag resistor symbol labeled "$R$" is connected between the source node and ground.
+*   **Ground:** Two ground symbols are present—one at the bottom of the DC source and one at the bottom of resistor $R$.
+*   **Current Direction:** An arrow pointing downwards is positioned to the right of the drain wire, labeled with the variable "$I$".
+
+### 2. Spatial Layout and Connectivity
+*   **Gate Circuit:** A 6.5 V DC source is connected between the transistor gate and ground.
+*   **Drain Circuit:** The drain is tied to a 5 V supply.
+*   **Source Circuit:** The source of the MOSFET is connected to a node. From this node:
+    *   One branch goes to the right, labeled as the output terminal $V_S$, where the potential is defined as $1 \text{ V}$.
+    *   One branch goes downwards through resistor $R$ to ground.
+*   **Current $I$:** The current arrow indicates current flowing from the 5 V source into the drain of the MOSFET.
+
+### 3. Summary of Variables
+*   $V_G = 6.5 \text{ V}$ (applied to the gate)
+*   $V_D = 5 \text{ V}$ (applied to the drain)
+*   $V_S = 1 \text{ V}$ (potential at the source node)
+*   $I$ = Current flowing into the drain.
+*   $R$ = Resistance value connected to the source.

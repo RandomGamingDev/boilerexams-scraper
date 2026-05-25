@@ -1,0 +1,23 @@
+The image displays a directed graph structure, specifically a tree, consisting of nodes containing numerical values connected by straight line segments.
+
+### 1. Nodes
+There are 5 nodes in the tree, each represented by a light blue circular shape with a thin grey border and a yellow numerical value centered inside. The values are:
+*   **7** (Root node)
+*   **8** (Left child of 7)
+*   **15** (Right child of 7)
+*   **11** (Left child of 8)
+*   **10** (Right child of 8)
+
+### 2. Geometry and Spatial Relationships
+*   **Root Level:** The node **7** is positioned at the top center of the diagram.
+*   **Second Level:** The nodes **8** and **15** are positioned below the root. Node **8** is to the left of the vertical axis passing through node 7, and node **15** is to the right of the same axis.
+*   **Third Level:** The nodes **11** and **10** are positioned below node **8**. Node **11** is to the lower-left of node 8, and node **10** is to the lower-right of node 8.
+
+### 3. Edges (Connections)
+The nodes are connected by straight light grey line segments:
+*   A line connects node **7** to node **8**.
+*   A line connects node **7** to node **15**.
+*   A line connects node **8** to node **11**.
+*   A line connects node **8** to node **10**.
+
+The structure forms a binary tree hierarchy where 7 is the parent of 8 and 15, and 8 is the parent of 11 and 10. Node 15, 11, and 10 are leaf nodes.

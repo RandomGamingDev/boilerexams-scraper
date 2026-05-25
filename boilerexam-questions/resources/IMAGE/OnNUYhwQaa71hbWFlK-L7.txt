@@ -1,0 +1,22 @@
+This is a structural diagram of a simply supported beam subject to a linearly varying distributed load.
+
+### 1. Geometry and Layout
+*   **Beam:** A horizontal rectangular beam of length $L$.
+*   **Supports:**
+    *   **Support A (Left):** A pin support located at $x = 0$.
+    *   **Support B (Right):** A roller support located at $x = L$.
+*   **Loading:** A triangular distributed load acts downwards on the top surface of the beam. The intensity of the load is zero at $x = 0$ and increases linearly to a maximum value of $q_0$ at $x = L$. 
+*   **Visual Representation of Load:** Six downward-pointing arrows are depicted along the beam, increasing in length linearly from left to right to represent the distribution.
+
+### 2. Labels and Variables
+*   **Coordinates:** The horizontal axis along the beam is defined by $x=0$ at the left support (A) and $x=L$ at the right support (B).
+*   **Load Intensity:** The variable $q_0$ is placed at the top right of the triangle, indicating the maximum magnitude of the distributed load.
+*   **Node Labels:** 
+    *   "A" is centered below the left pin support.
+    *   "B" is centered below the right roller support.
+
+### 3. Summary of Key Elements
+*   **Left Boundary ($x=0$):** Pin support, load intensity = 0.
+*   **Right Boundary ($x=L$):** Roller support, load intensity = $q_0$.
+*   **Load Type:** Linearly distributed (triangular profile).
+*   **Coordinate System:** 1D horizontal axis $x$, where $0 \le x \le L$.

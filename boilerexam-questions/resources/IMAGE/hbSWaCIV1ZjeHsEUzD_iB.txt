@@ -1,0 +1,20 @@
+This circuit diagram is a single-loop-like parallel circuit consisting of a voltage source, a diode, and a resistor.
+
+**1. Text and Symbols:**
+*   **Voltage Source:** Located on the left branch. It is a circular symbol containing a "+" (top) and a "-" (bottom).
+*   **Source Equation:** To the left of the voltage source is the expression: `5 sin(2π × 0.5t) V`.
+*   **Diode:** Located in the central parallel branch. It is depicted as a standard diode symbol (a triangle pointing downward with a line across its apex).
+*   **Resistor:** Located on the rightmost branch. It is depicted as a zigzag line.
+*   **Resistor Value:** To the left of the resistor is the label `5 kΩ`.
+*   **Current Label:** To the right of the resistor is a downward-pointing arrow with the label `iL`.
+
+**2. Spatial Relationships and Geometry:**
+*   **Topology:** The circuit is composed of three parallel vertical branches connected by a common top wire and a common bottom wire.
+*   **Left Branch:** Contains the voltage source. The positive terminal is oriented toward the top wire.
+*   **Center Branch:** Contains the diode. The cathode (the line side) is oriented toward the top wire, and the anode (the triangle side) is oriented toward the bottom wire.
+*   **Right Branch:** Contains the resistor.
+*   **Current Flow:** An arrow for `iL` indicates current flowing downward through the resistor.
+
+**3. Summary of Connections:**
+*   The circuit is a parallel configuration. The voltage source is in parallel with the diode, which is in parallel with the resistor.
+*   The circuit forms a rectangular closed loop structure with a vertical cross-connection in the middle.

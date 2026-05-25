@@ -13,7 +13,7 @@
         "body": "No, self.y will not be normalized correctly because the value self.sum() changes during the normalization process.",
         "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
         "stats": {
-          "count": 155
+          "count": 164
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "No, self.sum() will throw an error because it is missing the parameter `self`.",
         "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
         "stats": {
-          "count": 14
+          "count": 15
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "Yes, it divides each component by the sum of the components using self.sum(), therefore normalizing the vector.",
         "questionId": "0b7366c6-7a75-4fdb-8a53-c74ff5a75eb3",
         "stats": {
-          "count": 77
+          "count": 83
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "37249015",
+    "timeSpent": "38493277",
     "timeSpentVideo": "5244216",
-    "submissions": 285,
-    "submissionsCorrect": 155,
-    "accuracy": 0.543859649122807,
-    "difficulty": 0.7175324675324676
+    "submissions": 301,
+    "submissionsCorrect": 164,
+    "accuracy": 0.5448504983388704,
+    "difficulty": 0.7163341645885287
   },
   "resources": [
     {
@@ -98,13 +98,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "392850316",
-      "timeSpentVideo": "45854400",
-      "submissions": 2954,
-      "submissionsCorrect": 1876,
+      "timeSpent": "410104672",
+      "timeSpentVideo": "49110651",
+      "submissions": 3136,
+      "submissionsCorrect": 1970,
       "questions": 11,
-      "accuracy": 0.6350710900473934,
-      "difficulty": 0.619351669941061
+      "accuracy": 0.6281887755102041,
+      "difficulty": 0.6257725587144622
     }
   },
   "explanation": {

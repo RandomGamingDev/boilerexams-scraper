@@ -1,0 +1,29 @@
+This is a schematic diagram of a series RC electrical circuit.
+
+**1. Components and Layout:**
+*   **Voltage Source:** An independent voltage source labeled $v_{IN}(t)$ is located on the left branch of the circuit. It is oriented with the positive terminal (+) on top and the negative terminal (-) on the bottom.
+*   **Resistor:** A resistor with a value of $20\ \Omega$ is located on the top wire, connecting the positive terminal of the voltage source to the capacitor.
+*   **Capacitor:** A capacitor labeled "C" is located on the right vertical branch of the circuit.
+
+**2. Circuit Geometry:**
+*   The circuit is a single rectangular loop.
+*   The voltage source is the left vertical branch.
+*   The resistor is on the top horizontal segment.
+*   The capacitor is on the right vertical branch.
+*   The bottom horizontal segment completes the loop, connecting the negative terminal of the voltage source back to the bottom of the capacitor.
+
+**3. Labels and Annotations:**
+*   **Input Voltage:** $v_{IN}(t)$ is positioned to the left of the voltage source.
+*   **Resistance:** $20\ \Omega$ is positioned directly below the zigzag resistor symbol.
+*   **Capacitance:** "C" is positioned to the left of the capacitor symbol.
+*   **Current:** An arrow indicating current $i_C(t)$ is positioned above the wire segment leading to the capacitor, pointing to the right.
+*   **Output Voltage:** $v_{OUT}(t)$ is positioned to the right of the capacitor. There are polarity signs (+) above and (-) below the capacitor branch, corresponding to the $v_{OUT}(t)$ label.
+
+**Text/Symbols summary:**
+*   $v_{IN}(t)$ (Input voltage)
+*   $+$ / $-$ (Voltage source polarity)
+*   $20\ \Omega$ (Resistor value)
+*   $i_C(t)$ (Current, with right-pointing arrow)
+*   $C$ (Capacitor label)
+*   $v_{OUT}(t)$ (Output voltage)
+*   $+$ / $-$ (Output polarity signs)

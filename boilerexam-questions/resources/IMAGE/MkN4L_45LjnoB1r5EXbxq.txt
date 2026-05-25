@@ -1,0 +1,26 @@
+This image represents a complex plane (s-plane) diagram used for control systems analysis, specifically illustrating pole-zero plots.
+
+### 1. Axes and Coordinate System
+*   **Horizontal Axis:** Labeled as **σ** (sigma) at the far right. It represents the real part of the complex frequency variable $s$.
+*   **Vertical Axis:** Labeled as **jω** (j-omega) at the top. It represents the imaginary part of the complex frequency variable $s$.
+*   **Origin:** The axes intersect at $(0,0)$.
+*   **Directionality:** The axes are indicated with black arrows pointing right (for $\sigma$) and up (for $j\omega$).
+
+### 2. Plot Symbols (Poles and Zeros)
+The plot contains markers denoting the locations of system poles and zeros:
+
+*   **Poles (represented by red 'x' marks):**
+    *   There is one pole located on the negative real axis (the horizontal axis to the left of the origin).
+    *   There is a complex conjugate pair of poles located in the left-half plane (LHP). These are positioned symmetrically above and below the horizontal axis, sharing the same negative real component.
+*   **Zeros (represented by red 'o' circles):**
+    *   There is a complex conjugate pair of zeros located in the right-half plane (RHP). These are positioned symmetrically above and below the horizontal axis, sharing the same positive real component.
+
+### 3. Spatial Relationships
+*   **Horizontal Axis ($\sigma$):**
+    *   The pole on the real axis is significantly further to the left than the real component of the complex poles.
+*   **Vertical Axis ($j\omega$):**
+    *   The two zeros are positioned at equal distances above and below the horizontal axis.
+    *   The two complex poles in the LHP are positioned at equal distances above and below the horizontal axis.
+*   **Relative Positioning:**
+    *   The system exhibits symmetry about the real axis (the horizontal axis).
+    *   The poles are located in the LHP (stable region), while the zeros are located in the RHP (unstable region).

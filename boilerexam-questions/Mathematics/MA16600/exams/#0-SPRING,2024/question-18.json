@@ -1,0 +1,143 @@
+{
+  "id": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the following integral.\n$\\int \\frac{dt}{\\sqrt{t^2 - 6t + 13}}$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "02b7a9a8-fea9-4a7e-b00d-0ba3babd18fd",
+        "index": 0,
+        "body": "$\\ln \\left| \\frac{\\sqrt{(t - 3)^2 + 4}}{2} + \\frac{t - 3}{2} \\right| + C\n$",
+        "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+        "stats": {
+          "count": 46
+        },
+        "resources": []
+      },
+      {
+        "id": "ed29a705-d569-4b62-b230-6ae62612435c",
+        "index": 1,
+        "body": "$\\ln \\left| \\sqrt{(t - 3)^2 + 4} + \\frac{t - 3}{2} \\right| + C\n$",
+        "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "db0d0f1c-6610-425f-a28a-da2726202033",
+        "index": 2,
+        "body": "$\\ln \\left| \\frac{\\sqrt{(t - 3)^2 + 4}}{2} - \\frac{t - 3}{2} \\right| + C\n$",
+        "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "54bed055-c50e-4511-b6f7-974b95f311ef",
+        "index": 3,
+        "body": "$\\ln \\left| \\frac{\\sqrt{(t - 3)}}{2} + \\frac{t - 3}{2} \\right| + C\n$",
+        "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "e3b46313-bb69-4dc7-b070-aa24b39c4388",
+        "index": 4,
+        "body": "$\\ln \\left| \\frac{\\sqrt{(t - 3)^2}}{2} + \\frac{t - 3}{2} \\right| + C\n$",
+        "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "23119990",
+    "timeSpentVideo": "2907269",
+    "submissions": 100,
+    "submissionsCorrect": 46,
+    "accuracy": 0.46,
+    "difficulty": 0.77
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "88e2e35c-1325-4b26-be06-846d08be3890",
+    "body": null,
+    "questionId": "b6123e4a-3cbb-4084-8eff-990d7ce5082d",
+    "resources": [
+      {
+        "id": "b7b19b20-35ac-4f5c-b244-6a57521dc385",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=4482"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "88e2e35c-1325-4b26-be06-846d08be3890",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    }
+  ],
+  "children": []
+}

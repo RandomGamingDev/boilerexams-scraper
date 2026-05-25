@@ -1,0 +1,329 @@
+{
+  "id": "e0ed1cb4-f1e5-4ee1-9de2-fa76a5beb2b0",
+  "type": "PARENT",
+  "data": {
+    "body": "A skater, initially at rest, pushes away from the side of a skating rink as shown in the sequence of figures below. While she touches the wall, she exerts a constant force on it and as a result, the wall exerts a constant force $F_N$ on her to the right. While she is in contact with the wall her center of mass moves a distance d. \n\n",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "83071600-c69b-4e51-ad52-174eae3b2e31",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "30819212",
+    "timeSpentVideo": "0",
+    "submissions": 181,
+    "submissionsCorrect": 88,
+    "accuracy": 0.4861878453038674,
+    "difficulty": 0.7588967971530249
+  },
+  "resources": [
+    {
+      "id": "ee331548-68d4-458b-a321-f7dc00c2df3b",
+      "type": "IMAGE",
+      "data": {
+        "key": "FefGBbZUrP75uvsJjFMhv",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/FefGBbZUrP75uvsJjFMhv"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "e0ed1cb4-f1e5-4ee1-9de2-fa76a5beb2b0",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "83071600-c69b-4e51-ad52-174eae3b2e31",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "465230917",
+      "timeSpentVideo": "0",
+      "submissions": 3140,
+      "submissionsCorrect": 2221,
+      "questions": 21,
+      "accuracy": 0.7073248407643312,
+      "difficulty": 0.549074074074074
+    }
+  },
+  "explanation": {
+    "id": "9c5ece0e-4951-42c5-b090-7a774ce1f45a",
+    "body": null,
+    "questionId": "e0ed1cb4-f1e5-4ee1-9de2-fa76a5beb2b0",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "18f2a5fe-7b49-4411-8ac8-2a7149dbcc37",
+      "name": "Systems",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5944044651",
+        "timeSpentVideo": "283013615",
+        "submissions": 18800,
+        "submissionsCorrect": 11634,
+        "questions": 23,
+        "accuracy": 0.6188297872340426,
+        "difficulty": 0.6317989417989418
+      }
+    },
+    {
+      "id": "65b6b684-a8fc-4fe7-802a-b7bb44053438",
+      "name": "Energy Principle",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7937043501",
+        "timeSpentVideo": "497701406",
+        "submissions": 20901,
+        "submissionsCorrect": 12623,
+        "questions": 36,
+        "accuracy": 0.6039423951007129,
+        "difficulty": 0.6465525451168992
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following equations represents the energy principle of the point particle system as applied to the skater from the initial to final positions shown above.",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "497e3134-6fb4-4900-b175-b05f7224c6b4",
+            "index": 0,
+            "body": "$\\triangle E_{int}$ = $F_N d$",
+            "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "1e2b4b29-60c9-477b-9665-b87027b702ae",
+            "index": 1,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = $F_N d$",
+            "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+            "stats": {
+              "count": 21
+            },
+            "resources": []
+          },
+          {
+            "id": "f0bddf34-c448-44dc-acd1-a4e2ea36ec1e",
+            "index": 2,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = 0",
+            "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+            "stats": {
+              "count": 13
+            },
+            "resources": []
+          },
+          {
+            "id": "fa1bd221-6db5-43f9-b738-a79d215a33ba",
+            "index": 3,
+            "body": "$\\triangle K_{trans}$ = $F_N d$",
+            "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+            "stats": {
+              "count": 155
+            },
+            "resources": []
+          },
+          {
+            "id": "33a4587e-d601-4ba3-bbb3-ab0e89ea3ce4",
+            "index": 4,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = -$F_N d$",
+            "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+            "stats": {
+              "count": 15
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "83071600-c69b-4e51-ad52-174eae3b2e31",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "e0ed1cb4-f1e5-4ee1-9de2-fa76a5beb2b0",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "2976539",
+        "timeSpentVideo": "0",
+        "submissions": 212,
+        "submissionsCorrect": 155,
+        "accuracy": 0.7311320754716981,
+        "difficulty": 0.592948717948718
+      },
+      "resources": [],
+      "exam": {
+        "id": "83071600-c69b-4e51-ad52-174eae3b2e31",
+        "number": 2,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "465230917",
+          "timeSpentVideo": "0",
+          "submissions": 3140,
+          "submissionsCorrect": 2221,
+          "questions": 21,
+          "accuracy": 0.7073248407643312,
+          "difficulty": 0.549074074074074
+        }
+      },
+      "explanation": {
+        "id": "9a0dbf22-b254-4d6c-b991-0e74056512ad",
+        "body": null,
+        "questionId": "1f249b90-4d99-4ae7-862b-f8173aecad05",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Which of the following equations represents the energy principle of the extended system as applied to the skater from the initial to the final positions shown above?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "eea13e94-f494-4a53-953a-1d797b99b8a9",
+            "index": 0,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = $F_N d$",
+            "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+            "stats": {
+              "count": 43
+            },
+            "resources": []
+          },
+          {
+            "id": "a6b84bd7-8072-412f-b6b5-f2b9a10fb36c",
+            "index": 1,
+            "body": "$\\triangle K_{trans}$ = $F_N d$",
+            "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "32efa02d-7454-4fcd-ab94-2bcf2321a72d",
+            "index": 2,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = -$F_N d$",
+            "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+            "stats": {
+              "count": 23
+            },
+            "resources": []
+          },
+          {
+            "id": "57e28c95-3eb0-4ba7-9e98-fc4789379f0a",
+            "index": 3,
+            "body": "$\\triangle K_{trans}$ + $\\triangle E_{int}$ = 0",
+            "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+            "stats": {
+              "count": 108
+            },
+            "resources": []
+          },
+          {
+            "id": "ebdf65c4-ed05-4df4-9d61-d09f8f04cda8",
+            "index": 4,
+            "body": "$\\triangle E_{int}$ = $F_N d$",
+            "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "83071600-c69b-4e51-ad52-174eae3b2e31",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "e0ed1cb4-f1e5-4ee1-9de2-fa76a5beb2b0",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "6079",
+        "timeSpentVideo": "0",
+        "submissions": 184,
+        "submissionsCorrect": 108,
+        "accuracy": 0.5869565217391305,
+        "difficulty": 0.6936619718309859
+      },
+      "resources": [],
+      "exam": {
+        "id": "83071600-c69b-4e51-ad52-174eae3b2e31",
+        "number": 2,
+        "year": 2024,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "465230917",
+          "timeSpentVideo": "0",
+          "submissions": 3140,
+          "submissionsCorrect": 2221,
+          "questions": 21,
+          "accuracy": 0.7073248407643312,
+          "difficulty": 0.549074074074074
+        }
+      },
+      "explanation": {
+        "id": "3081b3b4-151f-4841-9908-04b8e04ec3b0",
+        "body": null,
+        "questionId": "e320d4cd-e83b-4eb2-8064-a19b8d370fd1",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

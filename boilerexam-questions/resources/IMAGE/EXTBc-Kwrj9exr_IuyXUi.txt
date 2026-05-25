@@ -1,0 +1,27 @@
+This image represents a rooted tree data structure consisting of nodes and edges.
+
+### 1. Nodes and Labels
+There are 5 circular nodes, each containing a numerical value displayed in yellow text.
+*   **Root node:** Contains the value **7**.
+*   **Level 2 nodes:**
+    *   Left child of 7: Contains the value **10**.
+    *   Right child of 7: Contains the value **8**.
+*   **Level 3 nodes:**
+    *   Left child of 10: Contains the value **11**.
+    *   Right child of 10: Contains the value **15**.
+
+### 2. Geometry and Structure
+*   **Layout:** The structure follows a standard hierarchical tree diagram.
+*   **Edges:** Straight lines connect the parent nodes to their respective child nodes.
+    *   An edge connects node 7 to node 10.
+    *   An edge connects node 7 to node 8.
+    *   An edge connects node 10 to node 11.
+    *   An edge connects node 10 to node 15.
+*   **Visual Style:** Each node is represented by a teal-colored circle with a gold/yellow numerical label centered inside. The connecting edges are thin, light-gray lines.
+
+### 3. Hierarchical Relationships
+*   **Node 7** is the root of the entire tree.
+*   **Node 10** is the left subtree root.
+*   **Node 8** is the right subtree root.
+*   **Node 11** is the left leaf node of node 10.
+*   **Node 15** is the right leaf node of node 10.

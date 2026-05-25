@@ -13,7 +13,7 @@
         "body": "If the set $\\{\\mathbf{u}, \\mathbf{v}, \\mathbf{w}\\}$ is orthonormal, then the set $\\{\\mathbf{u}+\\mathbf{v}, \\mathbf{u}-\\mathbf{v}, \\mathbf{w}\\}$ is orthogonal.",
         "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
         "stats": {
-          "count": 310
+          "count": 512
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "If a matrix $A$ has orthogonal columns, then $A^{T} A$ is a diagonal matrix.",
         "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
         "stats": {
-          "count": 215
+          "count": 320
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Orthogonal matrices are invertible.",
         "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
         "stats": {
-          "count": 286
+          "count": 429
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "For vectors $\\mathbf{u}$ and $\\mathbf{v}$, if $\\|\\mathbf{u}-\\mathbf{v}\\|^{2}=\\|\\mathbf{u}\\|^{2}+\\|\\mathbf{v}\\|^{2}$, then $\\mathbf{u}$ and $\\mathbf{v}$ are orthogonal.",
         "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
         "stats": {
-          "count": 250
+          "count": 398
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "Performing the Gram-Schmidt process on the set $\\left\\{\\mathbf{v}_{1}, \\mathbf{v}_{2}\\right\\}$ and the set $\\left\\{\\mathbf{v}_{2}, \\mathbf{v}_{1}\\right\\}$ always gives the identical orthonormal basis for the $\\operatorname{Span}\\left\\{\\mathbf{v}_{1}, \\mathbf{v}_{2}\\right\\}$.",
         "questionId": "1db354cd-c4bf-4498-8cf6-ae5ba9aabc1c",
         "stats": {
-          "count": 1302
+          "count": 2106
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "343492285",
-    "timeSpentVideo": "129746417",
-    "submissions": 2557,
-    "submissionsCorrect": 1302,
-    "accuracy": 0.5091904575674618,
-    "difficulty": 0.7411554384644335
+    "timeSpent": "570187779",
+    "timeSpentVideo": "181789635",
+    "submissions": 4084,
+    "submissionsCorrect": 2106,
+    "accuracy": 0.5156709108716944,
+    "difficulty": 0.7347036328871893
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12255330332",
-      "timeSpentVideo": "2782590356",
-      "submissions": 66612,
-      "submissionsCorrect": 37122,
+      "timeSpent": "19443736192",
+      "timeSpentVideo": "3842487418",
+      "submissions": 102800,
+      "submissionsCorrect": 58178,
       "questions": 25,
-      "accuracy": 0.5572869753197622,
-      "difficulty": 0.6927988967502099
+      "accuracy": 0.5659338521400779,
+      "difficulty": 0.6841302235179786
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "19767177882",
-        "timeSpentVideo": "2917369717",
-        "submissions": 50124,
-        "submissionsCorrect": 27236,
-        "questions": 15,
-        "accuracy": 0.5433724363578326,
-        "difficulty": 0.7067139216310927
+        "timeSpent": "31127904749",
+        "timeSpentVideo": "3776815412",
+        "submissions": 72592,
+        "submissionsCorrect": 39858,
+        "questions": 14,
+        "accuracy": 0.5490687679083095,
+        "difficulty": 0.7009987343861773
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "6292605579",
-        "timeSpentVideo": "850623229",
-        "submissions": 14635,
-        "submissionsCorrect": 7176,
+        "timeSpent": "10753965198",
+        "timeSpentVideo": "1176880521",
+        "submissions": 23366,
+        "submissionsCorrect": 11717,
         "questions": 7,
-        "accuracy": 0.49033139733515546,
-        "difficulty": 0.7596029860875466
+        "accuracy": 0.5014551057091501,
+        "difficulty": 0.7485510952015683
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "7188614588",
-        "timeSpentVideo": "633073301",
-        "submissions": 15203,
-        "submissionsCorrect": 8467,
-        "questions": 8,
-        "accuracy": 0.5569295533776228,
-        "difficulty": 0.6934424622623016
+        "timeSpent": "11740721479",
+        "timeSpentVideo": "830936995",
+        "submissions": 22696,
+        "submissionsCorrect": 12925,
+        "questions": 7,
+        "accuracy": 0.5694836094465985,
+        "difficulty": 0.6808211967011757
       }
     },
     {
@@ -174,13 +174,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "8871104734",
-        "timeSpentVideo": "971401651",
-        "submissions": 19414,
-        "submissionsCorrect": 10036,
-        "questions": 9,
-        "accuracy": 0.5169465334294838,
-        "difficulty": 0.7331403095213693
+        "timeSpent": "14411510992",
+        "timeSpentVideo": "1265281477",
+        "submissions": 29428,
+        "submissionsCorrect": 15434,
+        "questions": 8,
+        "accuracy": 0.5244664944950388,
+        "difficulty": 0.7256163641289624
       }
     }
   ],

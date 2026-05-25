@@ -1,0 +1,25 @@
+The image shows a full binary tree structure organized into four levels. Each node is represented as a circle containing an integer.
+
+### Tree Structure and Hierarchy
+
+*   **Level 0 (Root):**
+    *   One node containing the number `7`.
+*   **Level 1:**
+    *   Two nodes containing `3` (left child of 7) and `11` (right child of 7).
+*   **Level 2:**
+    *   Four nodes:
+        *   `1` is the left child of `3`.
+        *   `5` is the right child of `3`.
+        *   `9` is the left child of `11`.
+        *   `13` is the right child of `11`.
+*   **Level 3 (Leaves):**
+    *   Eight nodes arranged from left to right:
+        *   `0` and `2` are children of `1`.
+        *   `4` and `6` are children of `5`.
+        *   `8` and `10` are children of `9`.
+        *   `12` and `14` are children of `13`.
+
+### Geometry and Connections
+*   **Nodes:** Each node is a circle containing a number centered horizontally and vertically.
+*   **Edges:** Straight black lines connect parent nodes to their respective child nodes, forming a symmetrical, branching structure.
+*   **Layout:** The tree is balanced and displayed in a hierarchical format, with the root at the top center and subsequent levels branching downward and outward.

@@ -1,0 +1,153 @@
+{
+  "id": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\mathcal{S}$ be the part of the hemisphere $z=\\sqrt{4-x^{2}-y^{2}}$ that is inside of the cylinder $x^{2}+y^{2}=1$. If $\\vec{F}=\\langle yz,-xz,xy \\rangle$, compute the flux integral\n\n $\\iint_{S}(\\nabla\\times\\vec{F})\\cdot d\\vec{S}$\n\nwhere the normal vector to the surface $S$ is oriented upward. \n(Hint: use Stokes Theorem).",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "9a0809e4-7810-467e-ac33-7fbadcf7a6e4",
+        "index": 0,
+        "body": "$-\\frac{\\sqrt{3}}{2}\\pi$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "96c18b2a-3973-4ba1-b908-0add096a94ed",
+        "index": 1,
+        "body": "$-2\\pi\\sqrt{3}$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 608
+        },
+        "resources": []
+      },
+      {
+        "id": "4687901d-3067-4643-8fd0-fd44bfbb9dcf",
+        "index": 2,
+        "body": "$-\\frac{\\pi}{2}$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "ec7c30a3-735d-44a6-934b-72ab9581112d",
+        "index": 3,
+        "body": "$-2\\pi$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "7866cb2c-97dd-48d1-bcb2-237bb660c43d",
+        "index": 4,
+        "body": "$0$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 150
+        },
+        "resources": []
+      },
+      {
+        "id": "14a653d0-bc3f-4f45-b5a2-381991231f97",
+        "index": 5,
+        "body": "$-\\pi\\sqrt{3}$",
+        "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "448569381",
+    "timeSpentVideo": "57324017",
+    "submissions": 1182,
+    "submissionsCorrect": 608,
+    "accuracy": 0.5143824027072758,
+    "difficulty": 0.7367394695787831
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "697eeee2-90d5-490d-b870-2fedb8fad56c",
+    "body": null,
+    "questionId": "5ec0a1e3-1458-4cb9-a235-465fc0d500cb",
+    "resources": [
+      {
+        "id": "1034510b-cfba-4f90-9a58-434dd78a93a1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=1753"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "697eeee2-90d5-490d-b870-2fedb8fad56c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28504246726",
+        "timeSpentVideo": "2383723439",
+        "submissions": 43281,
+        "submissionsCorrect": 19756,
+        "questions": 7,
+        "accuracy": 0.45645895427554817,
+        "difficulty": 0.7934406767939881
+      }
+    }
+  ],
+  "children": []
+}

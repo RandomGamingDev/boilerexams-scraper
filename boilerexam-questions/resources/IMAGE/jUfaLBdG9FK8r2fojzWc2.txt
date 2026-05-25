@@ -1,0 +1,26 @@
+This image is a pie chart consisting of four distinct segments, each labeled with a categorical string and a numerical value. 
+
+### Text and Labels
+The labels are positioned outside the perimeter of the pie chart, adjacent to their respective sectors:
+*   **('subscribed', 6)**: Associated with the blue segment.
+*   **('casual', 8)**: Associated with the orange segment.
+*   **('loyal', 4)**: Associated with the green segment.
+*   **('diamond', 2)**: Associated with the red segment.
+
+### Geometry and Spatial Relationships
+*   **Structure**: The chart is circular and divided into four angular sectors originating from the center.
+*   **Sector Ordering (Clockwise starting from 12 o'clock position):**
+    1.  **Blue sector ('subscribed', 6)**: Occupies the top-right quadrant, starting from the vertical axis (12 o'clock) and extending to approximately the 4 o'clock position.
+    2.  **Red sector ('diamond', 2)**: Occupies the bottom-right section, spanning from approximately the 4 o'clock position to the 6 o'clock position.
+    3.  **Green sector ('loyal', 4)**: Occupies the bottom-left section, spanning from approximately the 6 o'clock position to the 9 o'clock position.
+    4.  **Orange sector ('casual', 8)**: Occupies the remaining left and top-left section, spanning from approximately the 9 o'clock position back to the 12 o'clock position.
+
+### Summary Table of Values
+| Category | Value |
+| :--- | :--- |
+| subscribed | 6 |
+| casual | 8 |
+| loyal | 4 |
+| diamond | 2 |
+
+**Total sum of values**: 20

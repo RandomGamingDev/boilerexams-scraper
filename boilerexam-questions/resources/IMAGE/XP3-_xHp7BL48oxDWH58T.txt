@@ -1,0 +1,26 @@
+This is a 2D line graph representing a radial probability distribution function for a hydrogen-like atom.
+
+### 1. Text and Labels
+*   **Vertical Axis Label:** "Radial probability distribution (sum of all $\Psi^2$)" is oriented vertically, reading upwards.
+*   **Horizontal Axis Label:** "$r (10^{-10}\text{ m})$"
+*   **Data Annotations:**
+    *   "$n = 3$"
+    *   "$l = 0$"
+*   **Horizontal Axis Ticks:** Labeled 0, 2, 4, 6, 8. There are minor tick marks between the labeled integers (representing intervals of 0.5 or 1).
+
+### 2. Geometry and Graph Features
+*   **Axes:** A standard Cartesian coordinate system starting at the origin (0,0).
+*   **Curve Shape:** A solid blue line starting at the origin (0,0). The curve displays a characteristic wave-like oscillation with three distinct peaks (lobes) of increasing height.
+*   **Nodes (Zeros):**
+    *   The curve starts at the origin $(0,0)$.
+    *   The first small peak occurs shortly after $r=0$.
+    *   The curve returns to the x-axis (a node) at approximately $r \approx 1$.
+    *   The second (middle) peak occurs at approximately $r \approx 2$.
+    *   The curve returns to the x-axis (a second node) at approximately $r \approx 3.5$ to $4$.
+    *   The third (largest) peak occurs at approximately $r \approx 6.5$ to $7$.
+    *   After the third peak, the curve slopes downward, approaching the horizontal axis asymptotically as $r$ increases beyond 8.
+
+### 3. Spatial Relationships
+*   The curve is entirely restricted to the first quadrant.
+*   The amplitude of the peaks follows the order: third peak (largest) > second peak > first peak (smallest).
+*   The gap between the nodes increases as $r$ increases (i.e., the distance between the first and second node is smaller than the distance between the second node and the "tail" of the graph).

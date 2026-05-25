@@ -1,0 +1,43 @@
+This image displays a weighted graph with six nodes, numbered 0 through 5. The nodes are arranged in a circular-like layout. Some edges are drawn with straight lines, while others have been marked with additional hand-drawn red scribbles, some of which feature arrowheads.
+
+### 1. Nodes
+There are 6 nodes represented as circles, each containing a single integer:
+*   **0**: Located at the middle-left.
+*   **1**: Located at the top-left.
+*   **2**: Located at the center.
+*   **3**: Located at the bottom-center.
+*   **4**: Located at the top-right.
+*   **5**: Located at the middle-right.
+
+### 2. Edges and Weights
+Edges are lines connecting the nodes, labeled with integer weights. Some connections have been annotated with red hand-drawn squiggly lines and arrows:
+
+*   **Edge (0,1)**: Straight line with weight **3**. A red scribbled arrow points from 1 to 0.
+*   **Edge (0,3)**: Straight line with weight **4**.
+*   **Edge (1,4)**: Straight line with weight **5**.
+*   **Edge (1,3)**: No straight line, but there is a red scribbled arrow pointing from 3 to 1, labeled with weight **2**.
+*   **Edge (2,4)**: Straight line with weight **5**. There is a red scribbled arrow pointing from 2 to 4.
+*   **Edge (2,3)**: No straight line, but there is a red scribbled arrow pointing from 3 to 2, labeled with weight **1**.
+*   **Edge (3,5)**: Straight line with weight **3**.
+*   **Edge (4,5)**: No straight line, but there is a red scribbled arrow pointing from 4 to 5, labeled with weight **4**.
+
+### 3. Spatial Arrangement
+*   **Node 1** and **Node 4** form the upper tier of the graph.
+*   **Node 0** and **Node 5** are on the same horizontal level, forming the middle tier.
+*   **Node 2** sits centrally between nodes 1, 3, and 4.
+*   **Node 3** is at the bottom, acting as a base for nodes 0, 2, and 5.
+
+### 4. Annotations Summary
+The red markings suggest directional flow (directed edges):
+*   **3 → 1** (Weight 2)
+*   **3 → 2** (Weight 1)
+*   **1 → 0** (Weight 3)
+*   **2 → 4** (Weight 5)
+*   **4 → 5** (Weight 4)
+
+The static edges (straight black lines) are:
+*   (0,1) weight 3
+*   (0,3) weight 4
+*   (1,4) weight 5
+*   (2,4) weight 5
+*   (3,5) weight 3

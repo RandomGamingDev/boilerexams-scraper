@@ -1,0 +1,28 @@
+This image represents a 2D Cartesian coordinate system with a triangular path formed by nodes A, B, and C.
+
+### 1. Coordinate System
+*   **Axes:** A standard Cartesian coordinate system is shown. The vertical axis is labeled "+y" and the horizontal axis is labeled "+x".
+*   **Intersection:** The axes intersect at point A.
+
+### 2. Geometry and Nodes
+*   **Nodes:** The vertices of the triangle are labeled **A**, **B**, and **C**.
+    *   **Node A** is located at the origin (0, 0).
+    *   **Node B** lies on the positive y-axis.
+    *   **Node C** lies on the positive x-axis.
+*   **Triangle:** The triangle is a right-angled triangle with the right angle at vertex A. The legs are segments AB and AC, and the hypotenuse is segment BC.
+
+### 3. Labels and Vectors
+*   **Distances:**
+    *   **$d_{AB}$**: A double-headed arrow indicates the vertical distance between points A and B.
+    *   **$d_{BC}$**: A double-headed arrow parallel to the hypotenuse indicates the length of segment BC.
+*   **Velocities:**
+    *   **$v_{AB}$**: Represented by a thick black arrow pointing upwards along segment AB (from A to B).
+    *   **$v_{BC}$**: Represented by a thick black arrow pointing downwards along segment BC (from B to C).
+*   **Annotations:**
+    *   The word "**Start**" is below and to the right of node A, with a curved arrow pointing to node A.
+    *   The word "**Finish**" is below and to the left of node C, with a curved arrow pointing to node C.
+
+### 4. Summary of Spatial Relationships
+*   Segment AB is vertical, coinciding with the positive y-axis.
+*   Segment AC is horizontal, coinciding with the positive x-axis.
+*   The path proceeds from A to B (upwards) and then from B to C (diagonally downwards).

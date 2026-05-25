@@ -1,0 +1,30 @@
+This image displays a directed graph (network diagram) consisting of 6 nodes (labeled 0 through 5) and 8 weighted directed edges.
+
+### Nodes
+*   **0:** Positioned at the far left.
+*   **1:** Positioned at the top left.
+*   **2:** Positioned in the center.
+*   **3:** Positioned at the bottom center.
+*   **4:** Positioned at the top right.
+*   **5:** Positioned at the far right.
+
+### Edges (Directed Arcs)
+Each edge is represented by an arrow indicating direction, with an integer weight value associated with it:
+
+1.  **From 0 to 1:** Weight = 3
+2.  **From 0 to 3:** Weight = 4
+3.  **From 3 to 1:** Weight = 2
+4.  **From 3 to 2:** Weight = 1
+5.  **From 3 to 5:** Weight = 3
+6.  **From 1 to 4:** Weight = 5
+7.  **From 4 to 2:** Weight = 5
+8.  **From 4 to 5:** Weight = 4
+
+### Geometry and Layout
+*   **Node 0** is the source for nodes 1 and 3.
+*   **Node 1** acts as a junction receiving from 0 and 3, and sending to 4.
+*   **Node 3** acts as a central hub receiving from 0, and sending to 1, 2, and 5.
+*   **Node 4** receives from 1 and sends to 2 and 5.
+*   **Node 2** is a terminal node in terms of incoming paths from 3 and 4.
+*   **Node 5** is the final destination for paths from 3 and 4.
+*   The edges are generally straight lines connecting the perimeters of the circles, with arrows pointing to the destination nodes. Weights are placed near the midpoints of these lines.

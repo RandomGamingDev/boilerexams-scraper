@@ -1,0 +1,143 @@
+{
+  "id": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral \n$\\int_{0}^{\\frac{\\pi}{4}} \\tan(x) \\sec^3(x)dx$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "a2e84b3c-2cbb-4a34-a5bb-d3b9ad445369",
+        "index": 0,
+        "body": "$\\frac{4\\sqrt{2}-1}{5}$",
+        "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "a5f59c4b-7bb2-408c-92ce-58ebda941874",
+        "index": 1,
+        "body": "$\\frac{4\\sqrt{2}}{5}$",
+        "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "0ec6afe7-7950-4320-aed4-94c353a84488",
+        "index": 2,
+        "body": "$\\frac{2\\sqrt{2}-1}{3}$",
+        "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "74bdaa87-a3ab-4375-a5cd-02125d5c649d",
+        "index": 3,
+        "body": "$\\frac{2\\sqrt{2}}{3}$",
+        "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "6bb05c50-032f-4081-9a10-97b69e999bf2",
+        "index": 4,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 16,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14584425",
+    "timeSpentVideo": "120007",
+    "submissions": 55,
+    "submissionsCorrect": 41,
+    "accuracy": 0.7454545454545455,
+    "difficulty": 0.6629032258064517
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "88d1ddb5-d34e-429d-a8a4-d23c60c6777c",
+    "body": null,
+    "questionId": "2a687e0a-1ae1-4630-9c58-8f75e2296a97",
+    "resources": [
+      {
+        "id": "658c84dd-ce5a-4231-aa65-96a82a7c5699",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=6818"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "88d1ddb5-d34e-429d-a8a4-d23c60c6777c",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    }
+  ],
+  "children": []
+}

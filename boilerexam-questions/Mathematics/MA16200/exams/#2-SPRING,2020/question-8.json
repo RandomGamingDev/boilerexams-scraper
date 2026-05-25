@@ -1,0 +1,143 @@
+{
+  "id": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A partial fraction decomposition is used to write $\\frac{1}{x^{2}(x-1)^{2}}$ as a sum of partial fractions:\n\n\n\n\\[\n\\frac{1}{x^{2}(x-1)^{2}}=\\frac{A}{x}+\\frac{B}{x^{2}}+\\frac{C}{x-1}+\\frac{D}{(x-1)^{2}},\n\\]\n\nwhere $A, B, C$ and $D$ are constants. What is $A+B+C+D$ ?",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "ae26aa87-d2b8-459a-8a2f-5daea667f41a",
+        "index": 0,
+        "body": "$-2$",
+        "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "5d6b3966-34a1-4736-bf1d-7584ce787775",
+        "index": 1,
+        "body": "$2$",
+        "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+        "stats": {
+          "count": 653
+        },
+        "resources": []
+      },
+      {
+        "id": "8e1d546b-573a-4863-a1d2-4418a442821f",
+        "index": 2,
+        "body": "$1$",
+        "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+        "stats": {
+          "count": 122
+        },
+        "resources": []
+      },
+      {
+        "id": "965fe92f-b763-4cdf-8ce8-0c6a2917f1cb",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+        "stats": {
+          "count": 133
+        },
+        "resources": []
+      },
+      {
+        "id": "405a9546-ea97-45bd-a5a1-a1bfc353630b",
+        "index": 4,
+        "body": "$-1$",
+        "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": "",
+  "examId": "bc4ad7a9-2854-4343-9c01-572926114c72",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "235861089",
+    "timeSpentVideo": "36178483",
+    "submissions": 1149,
+    "submissionsCorrect": 653,
+    "accuracy": 0.5683202785030461,
+    "difficulty": 0.6871497197758206
+  },
+  "resources": [],
+  "exam": {
+    "id": "bc4ad7a9-2854-4343-9c01-572926114c72",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4470720362",
+      "timeSpentVideo": "694382710",
+      "submissions": 27207,
+      "submissionsCorrect": 15144,
+      "questions": 12,
+      "accuracy": 0.5566214577130886,
+      "difficulty": 0.6935858937268832
+    }
+  },
+  "explanation": {
+    "id": "af305177-089e-4963-b760-4e1c7ad5b30b",
+    "body": "",
+    "questionId": "c80b00cf-bf93-4b75-91c0-c91891829d69",
+    "resources": [
+      {
+        "id": "c0b5cc70-c64f-41ea-bf6c-643b60928e06",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YRZpexVsi7o?t=1274\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "af305177-089e-4963-b760-4e1c7ad5b30b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18145948335",
+        "timeSpentVideo": "1123549204",
+        "submissions": 45151,
+        "submissionsCorrect": 27952,
+        "questions": 17,
+        "accuracy": 0.6190782042479679,
+        "difficulty": 0.6311849461890345
+      }
+    }
+  ],
+  "children": []
+}

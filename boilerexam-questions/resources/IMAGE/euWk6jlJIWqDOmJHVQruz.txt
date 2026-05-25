@@ -1,0 +1,23 @@
+This image depicts a single-transistor circuit diagram. Below is the exhaustive structural description:
+
+### 1. Components and Text Labels
+*   **Transistor:** An NMOS transistor symbol is centered in the diagram.
+*   **Voltage Source (Gate):** A DC voltage source connected to the gate of the transistor. It is labeled "6.5 V" next to a circle containing a plus sign (+) and a minus sign (-) terminal, connected to a ground symbol at the negative terminal.
+*   **Drain Supply:** A voltage terminal labeled "5 V" at the top of the circuit.
+*   **Current Label:** An arrow pointing downwards indicates a current labeled "$I$" located between the 5 V terminal and the transistor drain.
+*   **Source Node:** A terminal point on the source leg of the transistor, labeled "$V_S = 1\text{ V}$".
+*   **Resistor:** A resistor labeled "$R$" connected between the source node and ground.
+*   **Grounds:** There are two ground symbols—one at the bottom of the gate voltage source and one at the bottom of the resistor.
+
+### 2. Connectivity and Topology
+*   **Gate Branch:** The positive terminal of the 6.5 V DC source connects to the gate terminal of the NMOS transistor. The negative terminal connects to ground.
+*   **Drain Branch:** The 5 V supply connects to the drain of the transistor. The current $I$ flows from the 5 V supply into the drain.
+*   **Source Branch:** 
+    *   The source terminal of the transistor connects to a node.
+    *   From this node, the circuit splits: one path goes horizontally to a terminal point labeled "$V_S = 1\text{ V}$", and the other path goes vertically downwards through a resistor $R$ to ground.
+*   **Transistor Orientation:** The NMOS transistor is oriented with the gate on the left, drain on the top, and source on the bottom. An arrow on the source indicates current flowing out of the transistor (N-channel).
+
+### 3. Spatial Relationships
+*   The circuit is drawn as a vertical loop.
+*   The gate drive circuit is to the left of the transistor.
+*   The $V_S$ voltage output node is located to the right of the connection between the transistor source and the resistor.

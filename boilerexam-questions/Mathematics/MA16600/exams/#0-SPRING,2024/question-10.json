@@ -1,0 +1,143 @@
+{
+  "id": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The graph of $f(x)=\\frac{1}{4x}+\\frac{x^3}{3}$\non the interval [1, 4] is revolved about the x-axis. Find the right formula that describes the area of the surface generated.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "4baf47eb-d64e-46dc-b7e5-ad0813c96521",
+        "index": 0,
+        "body": "$\\int_{1}^{4} 2\\pi(\\frac{1}{4x}+\\frac{x^3}{3})^2 dx$",
+        "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "2afc22ff-4838-4b24-bcf2-3bf552de7041",
+        "index": 1,
+        "body": "$\\int_{1}^{4} 2\\pi (x)(\\frac{1}{4x^2}+x^2) dx$",
+        "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "8fb3ab4c-3bca-44a9-94bb-6fd7517d9877",
+        "index": 2,
+        "body": "$\\int_{1}^{4} 2\\pi (\\frac{1}{4x}+\\frac{x^3}{3})(\\frac{1}{4x^2}+x^2)dx$",
+        "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "65f7ca62-ffaf-48e3-abe5-319a7c3cd4b2",
+        "index": 3,
+        "body": "$\\int_{1}^{4} 2\\pi (\\frac{1}{4x}+\\frac{x^3}{3})\\sqrt{\\frac{1}{4x^2}+x^2}dx$",
+        "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "fe0f92a0-d347-4826-b9f9-157bd8f0b4a1",
+        "index": 4,
+        "body": "$\\int_{1}^{4} \\pi (\\frac{1}{4x^2}+x^2)^2\\sqrt{\\frac{1}{4x^2}+x^2}dx$",
+        "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "38939960",
+    "timeSpentVideo": "1931856",
+    "submissions": 158,
+    "submissionsCorrect": 77,
+    "accuracy": 0.4873417721518987,
+    "difficulty": 0.7577519379844961
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "951be137-1e22-4dc8-a090-378adabf3b1e",
+    "body": null,
+    "questionId": "53e6d7fd-cec8-4948-bc87-e84fc149148d",
+    "resources": [
+      {
+        "id": "cda2a4e8-f671-4abf-9fc4-914fe29d13be",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=gyYXVfIpJAl3qsHk&t=2099"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "951be137-1e22-4dc8-a090-378adabf3b1e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a78a7ecf-8dd5-45f8-992a-d8f424f735f0",
+      "name": "Surface Area of Curves",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "241638334",
+        "timeSpentVideo": "14874284",
+        "submissions": 448,
+        "submissionsCorrect": 218,
+        "questions": 3,
+        "accuracy": 0.48660714285714285,
+        "difficulty": 0.7609489051094891
+      }
+    }
+  ],
+  "children": []
+}

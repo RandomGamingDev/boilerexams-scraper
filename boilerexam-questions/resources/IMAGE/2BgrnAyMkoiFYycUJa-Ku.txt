@@ -1,0 +1,29 @@
+This image is a two-row table with 12 columns total (one header/label column and 11 data columns).
+
+**Structure:**
+*   **Top Row:** Represents variable $i$.
+*   **Bottom Row:** Represents variable $T$.
+*   **Column Divider:** A solid vertical line separates the labels "i" and "T" from the data values.
+*   **Grid:** The table is partitioned by dotted gray lines into cells.
+
+**Data Mapping:**
+
+| Column Index | Variable $i$ Value | Variable $T$ Value |
+| :--- | :--- | :--- |
+| 1 | 0 | (empty) |
+| 2 | 1 | 12 |
+| 3 | 2 | 2 |
+| 4 | 3 | D |
+| 5 | 4 | (empty) |
+| 6 | 5 | 23 |
+| 7 | 6 | 6 |
+| 8 | 7 | (empty) |
+| 9 | 8 | 9 |
+| 10 | 9 | D |
+| 11 | 10 | 1 |
+
+**Summary of Contents:**
+*   **Row 1 (Header row):** Contains the character "i" in the first column, followed by integers 0 through 10 in columns 2 through 12.
+*   **Row 2:** Contains the character "T" in the first column, followed by the specific values listed in the table above.
+*   **Missing values:** The cells corresponding to ($i=0, T$), ($i=4, T$), and ($i=7, T$) are blank.
+*   **Special values:** The letter "D" appears at $i=3$ and $i=9$ in the $T$ row.

@@ -1,0 +1,32 @@
+The image displays a piecewise function plotted on a Cartesian coordinate system with a grid.
+
+### 1. Axes and Labels
+*   **Horizontal axis (x-axis):** Labeled "x" at the bottom right. The x-axis tick marks are at integer intervals (0, 1, 2, 3, 4, 5). The labels "0", "2", and "4" are explicitly marked on the axis.
+*   **Vertical axis (y-axis):** Labeled "y" at the top left. The y-axis tick marks are at integer intervals (0, 1, 2, 3, 4, 5). The labels "2" and "4" are explicitly marked on the axis.
+
+### 2. Geometry and Function Plot
+The function is composed of three distinct parts:
+
+*   **Linear Segment:**
+    *   Starts at (0, 5).
+    *   Ends at (2, 1) with a closed (filled) circle at the endpoint.
+    *   The slope is -2.
+
+*   **Parabolic Segment:**
+    *   Starts at (2, 2) with an open (unfilled) circle.
+    *   Curves upward to a local maximum at (3, 5).
+    *   Curves downward to end at (4, 2).
+
+*   **Horizontal Segment:**
+    *   Starts at (4, 2) with a solid connected line from the end of the parabolic segment.
+    *   Extends horizontally to the right (at y = 2) to the edge of the grid at x = 5.
+
+### 3. Grid Structure
+*   The grid consists of square units.
+*   Vertical lines are spaced at every x-unit.
+*   Horizontal lines are spaced at every y-unit.
+*   The overall plot spans from x = 0 to 5 and y = 0 to 5.
+
+### 4. Key Points/Discontinuities
+*   **At x = 2:** There is a jump discontinuity. The left piece ends at (2, 1) [closed point]. The middle piece begins at (2, 2) [open point].
+*   **At x = 4:** The function is continuous. The parabolic arc meets the horizontal line at (4, 2).

@@ -3,11 +3,11 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "The column of length L = 5 m shown below is made of a material with an elastic modulus E = 70 GPa. The cross-section is rectangular with dimensions b = 80 mm and h = 120 mm and the y-z coordinate system shown is located at the centroid of the cross-section.\n\na) Calculate $I_y$ and $I_z$ for the cross-section of the column.\n\nb) Calculate the critical buckling load for the column.\n\nc) Without performing any calculations, describe in words how the critical buckling load of the column will change if the pin support at the top is removed. Write no more than three complete sentences.",
-    "solution": [],
+    "solution": "$I_y = 5.12 * 10^{-6}\\;m^4$\n$I_z = 1.15 * 10^{-5}\\;m^4$\n\n$P_{cr} = 288.8 kN$\n",
     "answerChoices": []
   },
   "number": 4,
-  "disclaimer": "The video uses the wrong equation for calculating the load. The video uses the equation for a pinned-pinned configuration, but the correct equation to use is the one for a fixed-pinned configuration. The correct equation to use is 2.046*pi^2*E*I/L^2, making the critical buckling load 289.491 kN.",
+  "disclaimer": "",
   "examId": "d3478294-0225-467c-8a47-befc274df050",
   "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
   "parentId": null,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "38546606",
-    "timeSpentVideo": "6935049",
-    "submissions": 153,
-    "submissionsCorrect": 28,
-    "accuracy": 0.1830065359477124,
-    "difficulty": 0.941699604743083
+    "timeSpent": "71868457",
+    "timeSpentVideo": "13903781",
+    "submissions": 255,
+    "submissionsCorrect": 52,
+    "accuracy": 0.20392156862745098,
+    "difficulty": 0.9626760563380281
   },
   "resources": [
     {
@@ -55,70 +55,25 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "357376191",
-      "timeSpentVideo": "62646898",
-      "submissions": 1383,
-      "submissionsCorrect": 150,
+      "timeSpent": "586760998",
+      "timeSpentVideo": "111462166",
+      "submissions": 1891,
+      "submissionsCorrect": 278,
       "questions": 4,
-      "accuracy": 0.10845986984815618,
-      "difficulty": 1.1151382333108564
+      "accuracy": 0.14701216287678476,
+      "difficulty": 1.0852586639879458
     }
   },
   "explanation": {
     "id": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
-    "body": "The video uses the wrong equation for calculating the load. The video uses the equation for a pinned-pinned configuration, but the correct equation to use is the one for a fixed-pinned configuration. The correct equation to use is $2.046\\pi^2EI/L^2$, making the critical buckling load 289.491 kN.",
+    "body": "$I_y = 5.12 * 10^{-6}\\;m^4$\n$I_z = 1.15 * 10^{-5}\\;m^4$\n\n$P_{cr} = 288.8 kN$",
     "questionId": "02ecd973-96ed-47e5-a114-c86dbcc43dbe",
     "resources": [
       {
-        "id": "6abbea63-8664-423b-8863-4104f750276a",
-        "type": "IMAGE",
-        "data": {
-          "key": "SKBOe_lkjc38049ZkoCQx",
-          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/SKBOe_lkjc38049ZkoCQx"
-        },
-        "courseId": null,
-        "examId": null,
-        "questionId": null,
-        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
-        "applicationId": null,
-        "answerChoiceId": null,
-        "customExamId": null
-      },
-      {
-        "id": "256e68bf-2787-4961-967e-da6f2add4806",
-        "type": "IMAGE",
-        "data": {
-          "key": "0uehq3F4KHuzPq_-ZfVze",
-          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0uehq3F4KHuzPq_-ZfVze"
-        },
-        "courseId": null,
-        "examId": null,
-        "questionId": null,
-        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
-        "applicationId": null,
-        "answerChoiceId": null,
-        "customExamId": null
-      },
-      {
-        "id": "2775de12-2a02-4067-983e-f137b5637d9e",
-        "type": "IMAGE",
-        "data": {
-          "key": "_lvIx4OIVvzv9KJmCZJf9",
-          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/_lvIx4OIVvzv9KJmCZJf9"
-        },
-        "courseId": null,
-        "examId": null,
-        "questionId": null,
-        "explanationId": "a3f26b92-361e-4ca5-942d-a3937b7dc9aa",
-        "applicationId": null,
-        "answerChoiceId": null,
-        "customExamId": null
-      },
-      {
-        "id": "6d4fa8f6-f7c9-4461-b8aa-4043ec08e7af",
+        "id": "1a4967b6-8bdc-4035-9c30-63e0dc1dfce5",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/CFJeee0hZro?si=xivcYWA9mS3halc8&t=2118"
+          "url": "https://youtu.be/4Bq6apWBYWU"
         },
         "courseId": null,
         "examId": null,
@@ -137,13 +92,13 @@
       "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
       "stats": {
         "count": 1,
-        "timeSpent": "192178638",
-        "timeSpentVideo": "6935049",
-        "submissions": 153,
-        "submissionsCorrect": 28,
+        "timeSpent": "366967359",
+        "timeSpentVideo": "19037853",
+        "submissions": 255,
+        "submissionsCorrect": 52,
         "questions": 1,
-        "accuracy": 0.1830065359477124,
-        "difficulty": 0.941699604743083
+        "accuracy": 0.20392156862745098,
+        "difficulty": 0.9626760563380281
       }
     },
     {
@@ -152,13 +107,13 @@
       "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
       "stats": {
         "count": 1,
-        "timeSpent": "394986627",
-        "timeSpentVideo": "16082338",
-        "submissions": 337,
-        "submissionsCorrect": 59,
+        "timeSpent": "674467644",
+        "timeSpentVideo": "33993057",
+        "submissions": 508,
+        "submissionsCorrect": 97,
         "questions": 2,
-        "accuracy": 0.17507418397626112,
-        "difficulty": 1.0005720823798627
+        "accuracy": 0.19094488188976377,
+        "difficulty": 1.0082236842105263
       }
     }
   ],

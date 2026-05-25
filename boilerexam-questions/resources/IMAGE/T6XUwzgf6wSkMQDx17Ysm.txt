@@ -1,0 +1,38 @@
+This image is a standard supply and demand graph with additional horizontal price lines. Here is the structured breakdown:
+
+### 1. Axes and Labels
+*   **Vertical Axis:** Labeled $P$.
+    *   Tick marks and values (from top to bottom): $600$, $310$, $306$, $302$.
+*   **Horizontal Axis:** Labeled $Q$.
+    *   Tick marks and values (from left to right): $5,640$, $5,720$, $5,800$, $5,880$, $5,960$.
+*   **Lines/Curves:**
+    *   **$S$ (Supply):** An upward-sloping straight line starting from the lower-left area, intersecting the $D$ curve at point $(5800, 310)$.
+    *   **$D$ (Demand):** A downward-sloping straight line starting at $(0, 600)$ on the $P$-axis and intersecting the $S$ curve at $(5800, 310)$.
+    *   **$p'_w$:** A horizontal line at $P = 306$.
+    *   **$p_w$:** A horizontal line at $P = 302$.
+
+### 2. Spatial Layout and Intersections
+*   **Equilibrium:** The intersection of $S$ and $D$ occurs at coordinate $(5800, 310)$.
+*   **Dotted vertical lines** drop from the following points to the $Q$-axis:
+    1.  Intersection of $S$ and $P=302$: $Q = 5,640$.
+    2.  Intersection of $S$ and $P=306$: $Q = 5,720$.
+    3.  Intersection of $S, D,$ and $P=310$: $Q = 5,800$.
+    4.  Intersection of $D$ and $P=306$: $Q = 5,880$.
+    5.  Intersection of $D$ and $P=302$: $Q = 5,960$.
+
+### 3. Regions (Labeled Areas)
+The space between the curves and the horizontal price lines is divided into the following labeled regions:
+*   **$F$:** Trapezoid bounded by $P=600$ to $P=310$ on the left and the supply/demand intersection.
+*   **$G$:** Trapezoid bounded by $P=310$ and $P=306$, between the $y$-axis and the $S$ curve.
+*   **$M$:** Triangle bounded by $P=310$, $P=306$, and the $S$ curve.
+*   **$N$:** Triangle bounded by $P=310$, $P=306$, and the $D$ curve.
+*   **$J$:** Trapezoid bounded by $P=306$ and $P=302$, between the $y$-axis and the $S$ curve.
+*   **$H$:** Triangle bounded by $P=306$, $P=302$, and the $S$ curve.
+*   **$T$:** Rectangle bounded by $P=306$, $P=302$, $Q=5720$, and $Q=5800$.
+*   **$K$:** Rectangle bounded by $P=306$, $P=302$, $Q=5800$, and $Q=5880$.
+*   **$L$:** Triangle bounded by $P=306$, $P=302$, and the $D$ curve.
+*   **$O$:** Triangle bounded by $P=302$, the $S$ curve, and the $y$-axis (extending down from the intersection at $(5640, 302)$).
+
+### 4. Notation Summary
+*   **Variables:** $P$ (Price), $Q$ (Quantity), $S$ (Supply), $D$ (Demand), $p_w$ (Price line), $p'_w$ (Price line).
+*   **Mathematical Symbols:** Greek-style subscript formatting on prices ($p_w$, $p'_w$). All numerical values are formatted with standard thousands separators (space or comma).

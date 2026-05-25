@@ -1,0 +1,526 @@
+{
+  "id": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+  "type": "PARENT",
+  "data": {
+    "body": "A research team is conducting a study to evaluate the effectiveness of a general algorithmic modification for generative AI models that create natural images from text prompts. The team will use the same fixed set of text prompts to generate images both with and without the new algorithmic modification. A random sample of different AI models are selected for testing. The Fr\u00e9chet Inception Distance (FID) is a metric that will be used as a measurement of the difference between the generated images and the real images. A lower FID score indicates better performance. You may assume that all assumptions are met in this study. The R output of various tests is provided. Note more information is provided than is needed to answer the questions.\n\n<table style=\"border-collapse: collapse;\"><tr><th style=\"border: 1px solid black; padding: 4px;\">Source</th><th style=\"border: 1px solid black; padding: 4px;\">$n$</th><th style=\"border: 1px solid black; padding: 4px;\">$\\bar{x}$</th><th style=\"border: 1px solid black; padding: 4px;\">$s$</th></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">Algorithmic Modification (M)</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">20.401</td><td style=\"border: 1px solid black; padding: 4px;\">10.910</td></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">Standard Algorithm (S)</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">21.872</td><td style=\"border: 1px solid black; padding: 4px;\">10.081</td></tr><tr><td style=\"border: 1px solid black; padding: 4px;\">M - S</td><td style=\"border: 1px solid black; padding: 4px;\">38</td><td style=\"border: 1px solid black; padding: 4px;\">-1.471</td><td style=\"border: 1px solid black; padding: 4px;\">6.560</td></tr></table>",
+    "numberingType": "LOWERCASE",
+    "answerChoices": []
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": true
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "15939390",
+    "timeSpentVideo": "4614418",
+    "submissions": 67,
+    "submissionsCorrect": 6,
+    "accuracy": 0.08955223880597014,
+    "difficulty": 0.9146706586826348
+  },
+  "resources": [
+    {
+      "id": "4e4532f0-4226-4294-98a0-8111f6d0a91a",
+      "type": "CODE",
+      "data": {
+        "content": "Output 1\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -6.170136 3.227281\n \nOutput 2\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -Inf 2.426865\n \nOutput 3\n   Welch Two Sample t-test\n97.5 percent confidence interval:\n   -5.36972 Inf\n \nOutput 4\n   Paired t-test\n97.5 percent confidence interval:\n   -3.5802517 0.6373965\n\nOutput 5\n   Paired t-test\n97.5 percent confidence interval:\n   -Inf 0.2712962\n \nOutput 6\n   Paired t-test\n97.5 percent confidence interval:\n   -3.214151 Inf",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "713748950",
+      "timeSpentVideo": "190935944",
+      "submissions": 6759,
+      "submissionsCorrect": 3746,
+      "questions": 38,
+      "accuracy": 0.554223997632786,
+      "difficulty": 0.6965665548913836
+    }
+  },
+  "explanation": {
+    "id": "d0965fe3-63dc-4c50-bd35-8a5cc89887c1",
+    "body": null,
+    "questionId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+    "resources": [
+      {
+        "id": "1d03bbf1-d9f6-4202-8915-892127f65120",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=rRDuaKnGF94&t=1102s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d0965fe3-63dc-4c50-bd35-8a5cc89887c1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4948b137-9f66-4e89-ada0-ea9b2aec329c",
+      "name": "Sampling",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "79054515",
+        "timeSpentVideo": "5611761",
+        "submissions": 422,
+        "submissionsCorrect": 291,
+        "questions": 2,
+        "accuracy": 0.6895734597156398,
+        "difficulty": 0.5967432950191571
+      }
+    },
+    {
+      "id": "cc2d1383-add6-4d57-9e43-5738986d38f2",
+      "name": "Validity of Statistical Inference",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "107004950",
+        "timeSpentVideo": "18570505",
+        "submissions": 226,
+        "submissionsCorrect": 10,
+        "questions": 2,
+        "accuracy": 0.04424778761061947,
+        "difficulty": 1.0659509202453987
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "cbdd4b48-6f6b-4778-a4c1-f0b8c6559d8a",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Should you use a two-sample independent procedure or a two-sample matched pairs procedure to analyze the data? Explain your answer. If you choose a matched pairs procedure, please state the common characteristic that makes these data paired.",
+        "solution": "Two-sample paired procedure. Each pair is matched by the fact that they have the same AI model or the same text prompts. ",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "bb0b19de-153f-41fd-8a99-a64adf8c5519",
+        "body": null,
+        "questionId": "cbdd4b48-6f6b-4778-a4c1-f0b8c6559d8a",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "defbcdb5-c041-475b-a735-1193096d99f9",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "If you were to generate graphs to determine whether the assumptions are valid or not, which variable(s) would you be graphing?",
+        "solution": "The difference between the populations, M \u2013 S.",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "f82fab16-4877-45ed-b6ec-c3772111331d",
+        "body": null,
+        "questionId": "defbcdb5-c041-475b-a735-1193096d99f9",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "f0671ce8-5c1f-4e06-bab1-c7703f691620",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Is the average FID score lower when the algorithmic modification is implemented to generate the images at a 2.5% level of significance? Please write down the null and alternative hypotheses in symbols <b>ONLY</b>.",
+        "solution": "$Let\\ D=M-S$\n$H_0:\\mu_D \\geq 0$\n$H_\\alpha:\\mu_D < 0$",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "d844e153-4296-47d0-bb6c-8b1581c7e1e9",
+        "body": null,
+        "questionId": "f0671ce8-5c1f-4e06-bab1-c7703f691620",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "19ca1c08-5944-4057-9808-015e9bfe42ee",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "For the hypothesis test in c), should you use a confidence interval, lower bound, or upper bound? Please explain your answer.",
+        "solution": [
+          2
+        ],
+        "answerChoices": [
+          {
+            "id": "846efa83-745d-4a52-8271-2f5bd209ff05",
+            "index": 0,
+            "body": "Confidence interval",
+            "questionId": "19ca1c08-5944-4057-9808-015e9bfe42ee",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "3a889cef-1dd2-482f-8b10-dafc9b9d0eca",
+            "index": 1,
+            "body": "Lower bound",
+            "questionId": "19ca1c08-5944-4057-9808-015e9bfe42ee",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "598e9e4b-1afb-4125-b97c-f309f74c7c99",
+            "index": 2,
+            "body": "Upper bound",
+            "questionId": "19ca1c08-5944-4057-9808-015e9bfe42ee",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "5d049cd3-83bd-4c18-9ee6-80b80d14eb8a",
+        "body": null,
+        "questionId": "19ca1c08-5944-4057-9808-015e9bfe42ee",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "42dadf9d-db8d-469e-a548-d48266c4d977",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Interpret the appropriate 97.5% confidence interval or bound mentioned in part d). Please include at least three decimal places for the appropriate number(s). Also state the number of the appropriate output used.",
+        "solution": "We are 97.5% confident that the difference between the population or true mean or average FID between the algorithmic modification and the standard algorithm (M - S) is less than the upper bound of 0.2712962.",
+        "answerChoices": []
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "3d79a348-b6b1-44ba-b6fb-9cf910a4acc7",
+        "body": null,
+        "questionId": "42dadf9d-db8d-469e-a548-d48266c4d977",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "ae7952d1-af18-4645-912c-7997784e8367",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Based on your answer for part e), what would the decision be for the appropriate hypothesis test for the hypotheses stated in part c)? Please explain your answer.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "d18a9c04-b87a-4a85-a261-bc373da519be",
+            "index": 0,
+            "body": "Reject $H_0$",
+            "questionId": "ae7952d1-af18-4645-912c-7997784e8367",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "c2b76e33-ef75-48e6-9fd6-30ca6f1d3d51",
+            "index": 1,
+            "body": "Fail to reject $H_0$",
+            "questionId": "ae7952d1-af18-4645-912c-7997784e8367",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 6,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f286e25b-0e8b-4d3f-9ad0-bb92478bba67",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "24c6f3e3-6569-4131-ab93-043f6111fb7e",
+        "body": null,
+        "questionId": "ae7952d1-af18-4645-912c-7997784e8367",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

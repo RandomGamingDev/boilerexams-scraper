@@ -1,0 +1,158 @@
+{
+  "id": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find volume of the solid region bounded by two surfaces $z = x^2 + y^2 - 9$ and $z = -2(x^2 + y^2)$.\nHint: Use Cylindrical Coordinates",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0d4bd251-a68c-44d2-81cf-162fc55e1abb",
+        "index": 0,
+        "body": "$\\frac{27\\pi}{4}$",
+        "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "051f56a8-3c8f-4726-b943-4b6b2873846c",
+        "index": 1,
+        "body": "$\\frac{81\\pi}{2}$",
+        "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+        "stats": {
+          "count": 130
+        },
+        "resources": []
+      },
+      {
+        "id": "039e2f70-2860-4201-bd35-21d48fb8d3e3",
+        "index": 2,
+        "body": "$\\frac{27\\pi}{2}$",
+        "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+        "stats": {
+          "count": 630
+        },
+        "resources": []
+      },
+      {
+        "id": "f49435af-9ec9-4a09-8c6f-c87a8129ece8",
+        "index": 3,
+        "body": "$\\frac{81\\pi}{3}$",
+        "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "3b0b3aba-4b0c-412b-8a33-7e874e17fe75",
+        "index": 4,
+        "body": "$\\frac{81\\pi}{4}$",
+        "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "362821256",
+    "timeSpentVideo": "28101824",
+    "submissions": 1114,
+    "submissionsCorrect": 630,
+    "accuracy": 0.5655296229802513,
+    "difficulty": 0.6898682042833608
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "b1141dfd-0c58-4f2f-9ada-92b9351919c8",
+    "body": "To solve this, we convert to cylindrical coordinates where $x^2 + y^2 = r^2$.",
+    "questionId": "dc44e4d7-d920-41e8-9837-7d69132fd052",
+    "resources": [
+      {
+        "id": "3a4916ed-8604-4386-be8c-46bd60b2a4e2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=258"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b1141dfd-0c58-4f2f-9ada-92b9351919c8",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "32a8f0ac-15ba-46a1-ae13-0ec326867c78",
+      "name": "Triple Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "30308334150",
+        "timeSpentVideo": "2821213946",
+        "submissions": 56763,
+        "submissionsCorrect": 30090,
+        "questions": 11,
+        "accuracy": 0.5300988319856245,
+        "difficulty": 0.7199541002057577
+      }
+    },
+    {
+      "id": "75d665d7-f73c-47b2-a769-49b52f8920b0",
+      "name": "Cylindrical Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29276731347",
+        "timeSpentVideo": "2575975600",
+        "submissions": 60229,
+        "submissionsCorrect": 35645,
+        "questions": 9,
+        "accuracy": 0.5918245363529197,
+        "difficulty": 0.6583276699431451
+      }
+    }
+  ],
+  "children": []
+}

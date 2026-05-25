@@ -1,0 +1,26 @@
+This is a schematic diagram of an electrical circuit containing a dependent or independent voltage source, a current source, and four resistors, with terminals $a$ and $b$ defining an equivalent resistance $R_{eq}$.
+
+### 1. Components and Labels
+*   **Voltage Source ($V_S$):** Located at the top, represented as a circle with a "+" sign on the left and a "|" sign on the right. Below the circle is the label "$V_S$".
+*   **Current Source ($I_S$):** Located on the left, represented as a circle with an upward-pointing arrow inside. To the left of the circle is the label "$I_S$".
+*   **Resistors:** Four resistors are present, each drawn as a standard zig-zag symbol:
+    *   **$R_1$:** Placed vertically on the left side of the inner circuit mesh.
+    *   **$R_2$:** Placed horizontally between the top two nodes.
+    *   **$R_3$:** Placed vertically on the right side of the inner circuit mesh.
+    *   **$R_4$:** Placed horizontally connected to terminal $a$.
+*   **Terminals:** Two open circles on the right side, labeled "$a$" (top) and "$b$" (bottom).
+*   **Equivalent Resistance ($R_{eq}$):** Represented by an arrow pointing leftward toward the circuit interior, positioned below $R_4$, with the label "$R_{eq}$".
+
+### 2. Topology and Connectivity
+*   **Bottom Rail:** A single horizontal wire connects the bottom of the current source, the bottom of $R_1$, the bottom of $R_3$, and terminal $b$. There are solid dots (nodes) at the intersection of the $R_1$ and $R_3$ legs with this bottom rail.
+*   **Current Source Connection:** The current source is connected between the bottom rail and the node connecting $R_1$, $R_2$, and the positive terminal of the voltage source.
+*   **Voltage Source Connection:** The voltage source is connected across the two upper interior nodes. The positive (+) terminal is connected to the node between $R_1$ and $R_2$; the negative (|) terminal is connected to the node between $R_2$, $R_3$, and $R_4$.
+*   **Resistor Placement:**
+    *   $R_1$ is in parallel with the combination of the voltage source and the rest of the network (relative to the current source).
+    *   $R_2$ is horizontal, connecting the node above $R_1$ to the node above $R_3$.
+    *   $R_3$ is vertical, connecting the node above $R_3$ to the bottom rail.
+    *   $R_4$ is in series with terminal $a$, extending from the node above $R_3$ to terminal $a$.
+*   **Nodes:**
+    *   **Node 1 (Left-top):** Intersection of current source top wire, $R_1$ top, $R_2$ left, and voltage source positive terminal.
+    *   **Node 2 (Right-top):** Intersection of $R_2$ right, $R_3$ top, $R_4$ left, and voltage source negative terminal.
+    *   **Nodes 3 & 4 (Bottom):** Two nodes on the bottom rail where $R_1$ and $R_3$ connect.

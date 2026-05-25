@@ -1,0 +1,37 @@
+The image displays two vertically aligned graphs representing motion over time.
+
+### **Structure and Layout**
+*   **Vertical Alignment:** There are two stacked Cartesian coordinate systems sharing a common horizontal axis (time, $t$).
+*   **Grid Lines:** Four vertical dashed lines pass through both graphs, dividing the horizontal axis into five segments.
+*   **Central Label:** A large, bold, black capital letter **D** is positioned between the two graphs, slightly to the right of the vertical center.
+
+---
+
+### **Top Graph: $x(t)$**
+*   **Axes:** The vertical axis is labeled "$x(t)$" in blue. The horizontal axis is labeled "$t$" at the far right.
+*   **Curve:** A continuous sinusoidal wave (blue line) plotted over time.
+    *   Starts at a local minimum on the left.
+    *   Passes through the horizontal axis (moving upward) at the first vertical dashed line.
+    *   Reaches a global maximum between the second and third vertical dashed lines.
+    *   Passes through the horizontal axis (moving downward) at the third vertical dashed line.
+    *   Ends at a local minimum on the right, aligned with the fourth vertical dashed line.
+
+---
+
+### **Bottom Graph: $v_x(t)$**
+*   **Axes:** The vertical axis is labeled "$v_x(t)$" in red. The horizontal axis is labeled "$t$" at the far right.
+*   **Curve:** A continuous sinusoidal wave (red line) plotted over time.
+    *   Starts at $0$ on the horizontal axis (at the left edge).
+    *   Reaches a local minimum between the first and second vertical dashed lines.
+    *   Passes through the horizontal axis (moving upward) at the second vertical dashed line.
+    *   Reaches a global maximum between the third and fourth vertical dashed lines.
+    *   Ends at $0$ on the horizontal axis (at the right edge, aligned with the fourth vertical dashed line).
+
+---
+
+### **Spatial Correlation**
+*   The top graph's points of crossing the $t$-axis (nodes) align perfectly with:
+    *   The first node: The bottom graph's local minimum.
+    *   The second node: The bottom graph's local maximum.
+    *   The third node: The bottom graph's horizontal axis crossing (rising).
+*   The phase relationship between the blue wave and the red wave is offset; the red curve ($v_x$) acts as the derivative of the blue curve ($x$).

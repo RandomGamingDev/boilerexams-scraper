@@ -13,7 +13,7 @@
         "body": "The set of all vectors $\\left[\\begin{array}{ll}x\\\\ y\\end{array}\\right]$ in $V = \\mathbb{R}^{2}$ such that $\\left[\\begin{array}{ll}1 & -2 \\\\ 2 & -4\\end{array}\\right] \\left[\\begin{array}{ll}x\\\\ y\\end{array}\\right] = \\left[\\begin{array}{ll}3 \\\\ -6\\end{array}\\right]$ .",
         "questionId": "452d4112-d2b1-4cd8-b34d-c23d463182c9",
         "stats": {
-          "count": 384
+          "count": 582
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "The set of all vectors $v$ in $V = \\mathbb{R}^{2}$ such that $Av = 3v$ where $A=\\left[\\begin{array}{ll}3 &0\\\\ 2&3\\end{array}\\right]$.",
         "questionId": "452d4112-d2b1-4cd8-b34d-c23d463182c9",
         "stats": {
-          "count": 2443
+          "count": 3968
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "The set of all vectors $v$ in $V = \\mathbb{R}^{4}$ such that $v=\\left[\\begin{array}{ll}x+1\\\\1-x\\\\ 1\\\\2x\\end{array}\\right], x \\in \\mathbb{R}$.",
         "questionId": "452d4112-d2b1-4cd8-b34d-c23d463182c9",
         "stats": {
-          "count": 284
+          "count": 413
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "The set of all polynomials $p(t)$ in $V = P_2 =$ {polynomials of degree at most 2} such that $p(1)p(2)=0$.",
         "questionId": "452d4112-d2b1-4cd8-b34d-c23d463182c9",
         "stats": {
-          "count": 511
+          "count": 791
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "The set of all $n \\times n $ invertible matrices in $V = M_{n \\times n} (\\mathbb{R}) =$ {all the $ n \\times n $ real matrices}.",
         "questionId": "452d4112-d2b1-4cd8-b34d-c23d463182c9",
         "stats": {
-          "count": 479
+          "count": 782
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "655043054",
-    "timeSpentVideo": "398749162",
-    "submissions": 4714,
-    "submissionsCorrect": 2443,
-    "accuracy": 0.5182435299109037,
-    "difficulty": 0.7321354383049439
+    "timeSpent": "1252394363",
+    "timeSpentVideo": "602757066",
+    "submissions": 7556,
+    "submissionsCorrect": 3968,
+    "accuracy": 0.525145579671784,
+    "difficulty": 0.7251828631138976
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4375351437",
-      "timeSpentVideo": "1915464101",
-      "submissions": 32266,
-      "submissionsCorrect": 17875,
+      "timeSpent": "9766932090",
+      "timeSpentVideo": "3090629441",
+      "submissions": 55490,
+      "submissionsCorrect": 30278,
       "questions": 10,
-      "accuracy": 0.5539887187751813,
-      "difficulty": 0.69617808811716
+      "accuracy": 0.5456478644800865,
+      "difficulty": 0.704434250764526
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "40918399826",
-        "timeSpentVideo": "5754109038",
-        "submissions": 106007,
-        "submissionsCorrect": 61188,
-        "questions": 48,
-        "accuracy": 0.5772071655645382,
-        "difficulty": 0.6728655979341608
+        "timeSpent": "75662722012",
+        "timeSpentVideo": "7955793623",
+        "submissions": 169010,
+        "submissionsCorrect": 98405,
+        "questions": 45,
+        "accuracy": 0.5822436542216437,
+        "difficulty": 0.6678049790077465
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "19767177882",
-        "timeSpentVideo": "2917369717",
-        "submissions": 50124,
-        "submissionsCorrect": 27236,
-        "questions": 15,
-        "accuracy": 0.5433724363578326,
-        "difficulty": 0.7067139216310927
+        "timeSpent": "31127904749",
+        "timeSpentVideo": "3776815412",
+        "submissions": 72592,
+        "submissionsCorrect": 39858,
+        "questions": 14,
+        "accuracy": 0.5490687679083095,
+        "difficulty": 0.7009987343861773
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "27190877248",
-        "timeSpentVideo": "4586992202",
-        "submissions": 68501,
-        "submissionsCorrect": 38334,
-        "questions": 21,
-        "accuracy": 0.5596122684340374,
-        "difficulty": 0.6904746286497281
+        "timeSpent": "42139418536",
+        "timeSpentVideo": "6072917730",
+        "submissions": 99096,
+        "submissionsCorrect": 56170,
+        "questions": 19,
+        "accuracy": 0.5668240897715346,
+        "difficulty": 0.683243275938546
       }
     }
   ],

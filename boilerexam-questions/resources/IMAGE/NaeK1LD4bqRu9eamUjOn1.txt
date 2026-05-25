@@ -1,0 +1,17 @@
+This image consists of two parts: a set of two equations on the left and a pole-zero plot on the right.
+
+### 1. Equations (Left)
+*   **Top line:** $\omega_m = 100 \text{ [rad/s]}$
+*   **Bottom line:** $H_m = 0.1 \text{ [A/V]}$
+
+### 2. Plot (Right)
+This is a standard complex s-plane pole-zero diagram.
+*   **Axes:**
+    *   Horizontal axis (Real axis): Labeled $\sigma$ at the far right end, with an arrowhead pointing to the right.
+    *   Vertical axis (Imaginary axis): Labeled $j\omega$ at the top end, with an arrowhead pointing upward.
+    *   The axes intersect at the origin $(0,0)$.
+*   **Data Points:**
+    *   There are two distinct red "x" symbols representing poles.
+    *   **Upper pole:** Located in the second quadrant (negative real part, positive imaginary part).
+    *   **Lower pole:** Located in the third quadrant (negative real part, negative imaginary part).
+    *   Both poles are vertically aligned with each other, positioned to the left of the $j\omega$ axis. The horizontal positions of the two "x" marks are identical. The vertical positions are symmetric with respect to the horizontal $\sigma$ axis.

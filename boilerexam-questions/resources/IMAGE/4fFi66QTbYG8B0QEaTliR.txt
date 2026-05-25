@@ -1,0 +1,25 @@
+This image is a direction field (slope field) plotted on a Cartesian coordinate system.
+
+### 1. Axes and Scale
+*   **Coordinate System:** The plot is centered at the origin (0, 0).
+*   **Horizontal Axis ($x$):** Ranges from -2 to 2.
+    *   Tick marks are provided at integer values: -2, -1, 0, 1, 2.
+    *   There are minor tick marks between each integer, indicating increments of 0.2.
+*   **Vertical Axis ($y$):** Ranges from -2 to 2.
+    *   Tick marks are provided at integer values: -2, -1, 0, 1, 2.
+    *   There are minor tick marks between each integer, indicating increments of 0.2.
+
+### 2. Direction Field Characteristics
+*   **Grid Structure:** The plot features a regular grid of short line segments (slopes).
+*   **Segment Density:** The segments are spaced approximately every 0.2 units along both the $x$ and $y$ axes.
+*   **Slope Behavior:**
+    *   **Along the $y$-axis ($x=0$):** All segments are horizontal (slope = 0).
+    *   **Along the $x$-axis ($y=0$):** All segments are vertical (slope undefined).
+    *   **Quadrants I & III (Top-Right / Bottom-Left):** The slopes are positive. As the distance from the origin increases, the segments transition from nearly vertical (near the $x$-axis) to nearly horizontal (near the $y$-axis).
+    *   **Quadrants II & IV (Top-Left / Bottom-Right):** The slopes are negative. Similarly, the segments transition from nearly vertical (near the $x$-axis) to nearly horizontal (near the $y$-axis).
+    *   **General Pattern:** The segments exhibit the symmetry characteristic of the differential equation $\frac{dy}{dx} = -\frac{x}{y}$. The slopes point towards or away from the origin in a radial pattern, resembling a set of hyperbola trajectories.
+
+### 3. Text and Labels
+*   **Horizontal axis labels:** "-2", "-1", "0", "1", "2" centered below the respective tick marks.
+*   **Vertical axis labels:** "-2", "-1", "0", "1", "2" centered to the left of the respective tick marks.
+*   **No other text, variables, or mathematical symbols appear in the image.**

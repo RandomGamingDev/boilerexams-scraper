@@ -1,0 +1,22 @@
+This technical image contains two main components: text-based parameter definitions on the left and a pole-zero plot on the right.
+
+### 1. Text Definitions
+On the left side, the following parameters are explicitly stated:
+*   `ω_m = 10 [rad/s]`
+*   `H_m = 10 [A/V]`
+
+### 2. Complex Plane (Pole-Zero Plot)
+On the right side is a standard complex s-plane diagram (coordinate system):
+
+*   **Axes:** 
+    *   Horizontal axis is labeled **σ** (sigma), representing the real component.
+    *   Vertical axis is labeled **jω**, representing the imaginary component.
+    *   Arrows indicate positive directions for both axes.
+*   **Intersection:** The axes intersect at the origin (0,0).
+*   **Symbols:**
+    *   There are two red 'x' marks representing poles.
+    *   **Positioning:** Both poles are located in the left half-plane (negative real part).
+    *   **Symmetry:** The poles are located at the same negative real coordinate and are symmetric across the horizontal (σ) axis. Specifically:
+        *   The upper 'x' is at a negative real value and a positive imaginary value (approximately at -σ, +jω).
+        *   The lower 'x' is at the same negative real value and a negative imaginary value (approximately at -σ, -jω).
+    *   The visual height of the poles corresponds to the magnitude indicated by `ω_m = 10` on the vertical scale.

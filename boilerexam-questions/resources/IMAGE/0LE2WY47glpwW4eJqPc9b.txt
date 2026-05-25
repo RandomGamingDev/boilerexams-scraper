@@ -1,0 +1,35 @@
+This image contains two side-by-side Bode plots sharing the same x-axis scale. Both plots use a logarithmic scale for the x-axis.
+
+### Common X-Axis
+*   **Label:** "Angular Frequency [rad/s]"
+*   **Scale:** Logarithmic, ranging from $10^{-3}$ to $10^{3}$.
+
+---
+
+### Left Plot: Magnitude Response
+*   **Y-Axis Label:** "|H| [dB]"
+*   **Y-Axis Range:** 0 to -60 in increments of 10.
+*   **Curve Characteristics:**
+    *   Starts at 0 dB at $10^{-3}$ rad/s.
+    *   Remains near 0 dB until approximately $10^{-1}$ rad/s, where it begins to roll off.
+    *   Passes through approximately -17 dB at $10^0$ rad/s.
+    *   Passes through approximately -23 dB at $10^1$ rad/s.
+    *   Continues a downward trend, reaching -60 dB at $10^3$ rad/s.
+    *   The slope changes slightly around $10^0$ rad/s, suggesting a change in pole/zero behavior.
+
+---
+
+### Right Plot: Phase Response
+*   **Y-Axis Label:** "Phase(H) [degree]"
+*   **Y-Axis Range:** 0 to -90 in increments of 10.
+*   **Curve Characteristics:**
+    *   Starts at 0 degrees at $10^{-3}$ rad/s.
+    *   Decreases monotonically to a local minimum of approximately -57 degrees at roughly $3 \times 10^{-1}$ rad/s.
+    *   Increases to a local maximum of approximately -33 degrees at roughly $3 \times 10^0$ rad/s.
+    *   Decreases again, approaching an asymptote of -90 degrees as it moves toward $10^3$ rad/s.
+
+---
+
+### Grid Layout
+*   Both plots utilize a standard Cartesian grid with major lines aligned with the axis tick marks.
+*   The x-axis grid lines for both plots are positioned at the major logarithmic intervals ($10^{-3}, 10^{-2}, 10^{-1}, 10^0, 10^1, 10^2, 10^3$).

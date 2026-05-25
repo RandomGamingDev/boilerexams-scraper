@@ -1,0 +1,143 @@
+{
+  "id": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "At which points on the curve $x^2 + y^2 = 4$ does the function $f(x, y) = 4x^2 + 10y^2$ achieve an absolute maximum?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "fbd71332-178d-454b-aac3-d41a8c34abf9",
+        "index": 0,
+        "body": "$(0, 2)$ and $(0, -2)$",
+        "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+        "stats": {
+          "count": 558
+        },
+        "resources": []
+      },
+      {
+        "id": "b4422338-e0ca-408a-a1d4-075182038ac8",
+        "index": 1,
+        "body": "$(0, 2)$ only",
+        "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "d1f480af-e5c4-4685-b870-0eb30a563b20",
+        "index": 2,
+        "body": "$(2, 0)$ and $(2, 0)$",
+        "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "a4e02804-cd06-49c3-aef6-c0fbaf771b00",
+        "index": 3,
+        "body": "$(2, 0)$ only",
+        "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "74417e6d-21f9-40c4-a6b3-9ad72bd1ebd7",
+        "index": 4,
+        "body": "It does not achieve an absolute maximum",
+        "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+        "stats": {
+          "count": 120
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "269159813",
+    "timeSpentVideo": "30085826",
+    "submissions": 979,
+    "submissionsCorrect": 558,
+    "accuracy": 0.5699693564862104,
+    "difficulty": 0.6865152919369787
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "dfd383db-100a-48e5-886f-5fc705d37296",
+    "body": "You can solve this by substituting the constraint into the function. Since $x^2 + y^2 = 4$, we know $x^2 = 4 - y^2$.",
+    "questionId": "f154444b-a0a6-44dd-aa9b-e0daa5cd47ff",
+    "resources": [
+      {
+        "id": "0a66c8f2-2d4d-47f3-8fe5-0dfb8e90c363",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=844"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dfd383db-100a-48e5-886f-5fc705d37296",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "3ff61fda-168d-4685-9596-9c9cbd9f36c6",
+      "name": "Lagrange Multipliers",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "33030275676",
+        "timeSpentVideo": "2812922524",
+        "submissions": 64734,
+        "submissionsCorrect": 41563,
+        "questions": 10,
+        "accuracy": 0.6420582692248278,
+        "difficulty": 0.6081608415337632
+      }
+    }
+  ],
+  "children": []
+}

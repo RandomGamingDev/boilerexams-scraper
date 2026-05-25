@@ -1,0 +1,143 @@
+{
+  "id": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral:\n$\\int_{0}^{\\infty} xe^{-x^2} dx$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "a033ae99-f29f-405a-a07a-ae6dd4ea1857",
+        "index": 0,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "98a65298-ddfa-4979-9ed0-a82fe6197ac6",
+        "index": 1,
+        "body": "1",
+        "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "8e7b50a0-2d89-4ac5-9b9c-bec85dc2093f",
+        "index": 2,
+        "body": "2",
+        "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "3124441e-939b-495a-90c2-a021ddc2f412",
+        "index": 3,
+        "body": "The integral is divergent.",
+        "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "76b29a0a-72d0-4b15-b3fa-d3bf76bfd80c",
+        "index": 4,
+        "body": "$e$",
+        "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "11252658",
+    "timeSpentVideo": "146551",
+    "submissions": 54,
+    "submissionsCorrect": 31,
+    "accuracy": 0.5740740740740741,
+    "difficulty": 0.724025974025974
+  },
+  "resources": [],
+  "exam": {
+    "id": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "174675136",
+      "timeSpentVideo": "9779237",
+      "submissions": 684,
+      "submissionsCorrect": 444,
+      "questions": 12,
+      "accuracy": 0.6491228070175439,
+      "difficulty": 0.6198979591836735
+    }
+  },
+  "explanation": {
+    "id": "91719780-2bd4-4882-b779-2368213f264f",
+    "body": null,
+    "questionId": "dc3f014f-a745-4509-83a8-159d0a21ebc4",
+    "resources": [
+      {
+        "id": "e9982408-06b4-46ea-8971-ab6b41d72fc0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/7FXkRLd72Rg?si=1xIj2PSH8e29F7x0&t=4451"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "91719780-2bd4-4882-b779-2368213f264f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ad125629-aefa-4f78-ac8c-4a6a3d64b5f5",
+      "name": "U-Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "14939801",
+        "timeSpentVideo": "146551",
+        "submissions": 54,
+        "submissionsCorrect": 31,
+        "questions": 1,
+        "accuracy": 0.5740740740740741,
+        "difficulty": 0.724025974025974
+      }
+    }
+  ],
+  "children": []
+}

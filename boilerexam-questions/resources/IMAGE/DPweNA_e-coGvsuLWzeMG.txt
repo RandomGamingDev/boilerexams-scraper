@@ -1,0 +1,27 @@
+This image shows a single-loop electrical circuit containing a voltage source, resistors, and an inductor.
+
+### 1. Circuit Components and Symbols
+*   **Voltage Source:** Located on the far left, represented by a circle with '+' at the top and '-' at the bottom. It is labeled "$12 u(t - 2) \text{ V}$" to its left.
+*   **Resistors:**
+    *   There is a $4 \Omega$ resistor positioned horizontally on the top branch, to the right of the voltage source.
+    *   There is another $4 \Omega$ resistor positioned horizontally on the top branch, to the right of the first resistor.
+    *   There is a third $4 \Omega$ resistor positioned vertically in the right-hand branch of the circuit.
+*   **Inductor:** Positioned on the far right vertical branch, in parallel with the third $4 \Omega$ resistor. It is labeled "$3 \text{ H}$".
+*   **Current:** An arrow indicates a current flow labeled $i_L(t)$ pointing to the right along the top wire, just before it reaches the junction with the inductor branch.
+
+### 2. Spatial Layout and Connections
+*   **Loop Structure:** The circuit forms a rectangular main loop. 
+    *   The voltage source is the left vertical branch.
+    *   The bottom wire is a straight horizontal connection between the bottom of the voltage source and the bottom of the inductor branch.
+    *   The top branch contains the two $4 \Omega$ resistors in series.
+*   **Junctions:** After the second $4 \Omega$ resistor, the circuit splits into two parallel vertical branches:
+    *   The left branch of this parallel section contains a $4 \Omega$ resistor.
+    *   The right branch of this parallel section contains the $3 \text{ H}$ inductor.
+*   **Ground/Return:** Both the $4 \Omega$ resistor and the $3 \text{ H}$ inductor are connected to the common bottom return wire.
+
+### 3. Text and Labels Summary
+*   **Source:** $12 u(t - 2) \text{ V}$
+*   **Top branch resistors:** $4 \Omega$ and $4 \Omega$ (arranged in series)
+*   **Vertical branch resistor:** $4 \Omega$
+*   **Vertical branch inductor:** $3 \text{ H}$
+*   **Current variable:** $i_L(t)$ with a rightward-pointing arrow.

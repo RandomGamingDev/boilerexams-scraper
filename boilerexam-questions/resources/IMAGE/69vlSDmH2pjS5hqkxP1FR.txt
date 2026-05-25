@@ -1,0 +1,33 @@
+This image depicts a mechanical model of a stepped bar fixed at both ends, subjected to an internal load.
+
+### 1. Geometry and Structure
+*   **Support Conditions:** The system is bounded by two vertical walls (fixed supports) represented by hatched lines. 
+    *   Wall A is on the far left.
+    *   Wall D is on the far right.
+*   **The Bar:** A stepped horizontal bar is oriented between the walls. 
+    *   The left portion is wider and extends from point A to point C.
+    *   The right portion is narrower and extends from point C to point D.
+*   **Nodes:** The points are labeled linearly along the bottom: A, B, C, and D.
+    *   Point A is at the left boundary.
+    *   Point B is located at the interface between the first and second segments of the left-hand bar section.
+    *   Point C is at the step change in the bar diameter.
+    *   Point D is at the right boundary.
+
+### 2. Dimensions
+Dimension lines with arrows are provided at the bottom:
+*   **Section A to B:** Length = 180 mm.
+*   **Section B to C:** Length = 120 mm.
+*   **Section C to D:** Length = 200 mm.
+
+### 3. Load and Variables
+*   **Applied Load:** 
+    *   Above the bar, in the segment between points B and C, there is a text label: "60 kN".
+    *   Inside the bar section between B and C, there is a solid black dot. An arrow originates from this dot and points to the right. 
+    *   The arrow signifies a point load applied at this location acting in the positive horizontal (rightward) direction.
+
+### 4. Text and Notation
+*   **"60 kN"**: Located centrally above the bar section between B and C.
+*   **"A", "B", "C", "D"**: Labeled beneath the respective points on the structure.
+*   **"180 mm"**: Located beneath the dimension line for segment A-B.
+*   **"120 mm"**: Located beneath the dimension line for segment B-C.
+*   **"200 mm"**: Located beneath the dimension line for segment C-D.

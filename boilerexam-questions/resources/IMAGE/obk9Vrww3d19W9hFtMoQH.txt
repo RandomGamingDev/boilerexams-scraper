@@ -1,0 +1,33 @@
+This is a structural engineering diagram of a simply supported beam with an overhanging section and a distributed load.
+
+### 1. Beam Structure and Geometry
+*   **Beam Shape:** A horizontal rectangular beam.
+*   **Supports:**
+    *   **Node A (Left):** A pinned support (triangle on a hatched surface).
+    *   **Node B (Middle):** A roller support (circle on a hatched surface).
+*   **Nodes:** The beam is defined by points A, B, and C.
+    *   **A** is at the far left end.
+    *   **B** is located at a distance of 4 m from A.
+    *   **C** is the far right end, located at a distance of 2 m from B.
+*   **Total Length:** 6 meters (4 m + 2 m).
+
+### 2. Loading
+*   **Type:** A uniformly distributed load (UDL) acting downwards.
+*   **Magnitude:** $4 \text{ kN/m}$.
+*   **Span of Load:** The load acts over the rightmost segment of the beam, starting from Node B and ending at the far right end at Node C (a length of 2 m).
+*   **Representation:** The load is depicted as a horizontal line segment above the beam with four downward-pointing arrows indicating the direction of the force.
+
+### 3. Labels and Dimensions
+*   **Text/Labels:**
+    *   "A" is positioned below the pinned support.
+    *   "B" is positioned below the roller support.
+    *   "C" is positioned below the far right end of the beam.
+    *   "4 kN/m" is centered above the distributed load.
+*   **Dimensions:**
+    *   "4 m" is centered horizontally between supports A and B.
+    *   "2 m" is centered horizontally between supports B and C.
+
+### 4. Summary of Nodes and Spatial Relationships
+*   The beam is supported at $x = 0$ (A) and $x = 4 \text{ m}$ (B).
+*   The free end (C) is at $x = 6 \text{ m}$.
+*   The distributed load $4 \text{ kN/m}$ occupies the region from $x = 4 \text{ m}$ to $x = 6 \text{ m}$.

@@ -1,0 +1,25 @@
+This image is a direction field (or slope field) plotted on a Cartesian coordinate system.
+
+### 1. Axes and Scale
+*   **Horizontal Axis ($x$):** Ranges from -2 to 2, with major tick marks labeled at -2, -1, 0, 1, and 2. There are smaller unlabelled tick marks between the integers.
+*   **Vertical Axis ($y$):** Ranges from -2 to 2, with major tick marks labeled at -2, -1, 0, 1, and 2. There are smaller unlabelled tick marks between the integers.
+*   **Grid:** The axes form a square frame enclosing the field.
+
+### 2. Direction Field Characteristics
+The field consists of a grid of short line segments, each representing the slope $dy/dx$ at that point $(x, y)$.
+
+*   **Horizontal line at $y=0$:** There is a distinct horizontal row of segments along the x-axis where all segments are perfectly horizontal (slope = 0).
+*   **Upper half ($y > 0$):**
+    *   As $y$ increases (moving away from the x-axis), the slope of the segments becomes increasingly negative.
+    *   For a fixed $y$, the slopes appear uniform across different $x$ values, suggesting the slope depends primarily on $y$ rather than $x$.
+    *   At the top of the graph (near $y=2$), the segments point steeply downward to the right.
+*   **Lower half ($y < 0$):**
+    *   As $y$ decreases (moving further below the x-axis), the slope of the segments becomes increasingly positive.
+    *   For a fixed $y$, the slopes appear uniform across different $x$ values.
+    *   At the bottom of the graph (near $y=-2$), the segments point steeply upward to the right.
+*   **Symmetry:** The field exhibits reflectional symmetry across the x-axis. For any point $(x, y)$ with slope $m$, the point $(x, -y)$ has a slope of $-m$. 
+
+### 3. Text and Symbols
+*   **Numbers on x-axis:** -2, -1, 0, 1, 2 (bottom).
+*   **Numbers on y-axis:** -2, -1, 0, 1, 2 (left side).
+*   No other labels, variables, or mathematical notation appear in the image.

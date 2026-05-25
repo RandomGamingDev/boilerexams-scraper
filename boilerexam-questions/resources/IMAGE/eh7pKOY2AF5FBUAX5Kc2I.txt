@@ -1,0 +1,23 @@
+This is a technical description of a Cartesian coordinate system containing a plotted polynomial function.
+
+### 1. Coordinate System
+*   **Axes:** A standard Cartesian plane with a horizontal x-axis and a vertical y-axis intersecting at the origin $(0,0)$. The axes are drawn as bold black lines.
+*   **Grid:** The background features a grid with square units. The lines are spaced at unit intervals (1 grid square = 1 unit).
+*   **Labels/Ticks:**
+    *   The origin is marked with a "0".
+    *   The x-axis features a tick mark labeled "5" at the grid line 5 units to the right of the origin.
+    *   The y-axis features a tick mark labeled "5" at the grid line 5 units above the origin and a tick mark labeled "-5" at the grid line 5 units below the origin.
+
+### 2. Plotted Function
+*   **Geometry:** The graph is a continuous red curve representing a cubic polynomial function.
+*   **Behavior and Key Points:**
+    *   **Left behavior:** As $x \to -\infty$, $y \to -\infty$.
+    *   **Right behavior:** As $x \to \infty$, $y \to \infty$.
+    *   **x-intercepts:**
+        *   One intercept is located between $x=1$ and $x=2$ (appearing to be at approximately $x=1.5$).
+        *   One intercept is located exactly at $x = 4$ (tangent to the x-axis).
+    *   **Local Extrema:**
+        *   **Local Maximum:** Located at $x \approx 2$, $y \approx 4$.
+        *   **Local Minimum:** Located at $x = 4$, $y = 0$ (the curve touches the x-axis here).
+    *   **y-intercept:** The curve crosses the y-axis at a negative value, appearing to be approximately $y = -2$.
+*   **Shape:** The curve rises from the third quadrant, crosses the x-axis, reaches a local maximum in the first quadrant, descends to touch the x-axis at $(4,0)$, and then turns upward again into the first quadrant.

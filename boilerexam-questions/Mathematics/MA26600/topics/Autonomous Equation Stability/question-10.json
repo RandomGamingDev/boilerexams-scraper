@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "Consider the following differential equation: \\[\\frac{dx}{dt}=(x+1)(3-x)+h\\] where h is a parameter. Determine the number of critical points depending on the value of h.\n(You don't need to solve the differential equation.)",
-    "solution": [],
+    "solution": "\\[\n\\begin{cases} \nh = -4 & \\text{1 critical point} \\\\\nh < -4 & \\text{0 critical points} \\\\\nh > -4 & \\text{2 critical points} \n\\end{cases}\n\\]",
     "answerChoices": []
   },
   "number": 10,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "166433484",
-    "timeSpentVideo": "87677832",
-    "submissions": 960,
-    "submissionsCorrect": 292,
-    "accuracy": 0.30416666666666664,
-    "difficulty": 0.9273584905660377
+    "timeSpent": "363571817",
+    "timeSpentVideo": "178797580",
+    "submissions": 1992,
+    "submissionsCorrect": 614,
+    "accuracy": 0.30823293172690763,
+    "difficulty": 0.9326003824091778
   },
   "resources": [],
   "exam": {
@@ -39,13 +39,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "2381267943",
-      "timeSpentVideo": "424209473",
-      "submissions": 9999,
-      "submissionsCorrect": 5858,
+      "timeSpent": "5178932862",
+      "timeSpentVideo": "860655005",
+      "submissions": 21436,
+      "submissionsCorrect": 12733,
       "questions": 10,
-      "accuracy": 0.5858585858585859,
-      "difficulty": 0.6649915833250817
+      "accuracy": 0.5940007464079119,
+      "difficulty": 0.65643573551263
     }
   },
   "explanation": {
@@ -76,13 +76,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "5827895702",
-        "timeSpentVideo": "453069812",
-        "submissions": 12545,
-        "submissionsCorrect": 8144,
+        "timeSpent": "10219554755",
+        "timeSpentVideo": "733351284",
+        "submissions": 22924,
+        "submissionsCorrect": 15230,
         "questions": 8,
-        "accuracy": 0.6491829414109207,
-        "difficulty": 0.6019968366943456
+        "accuracy": 0.6643692200314081,
+        "difficulty": 0.5863446838082002
       }
     }
   ],

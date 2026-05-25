@@ -1,0 +1,153 @@
+{
+  "id": "4ac72c73-071f-4379-b4bc-a9450577f331",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x)=\\begin{cases} 3x+7 & \\space x<0 \\\\ x^2-10 & \\space 0\\le x\\le 2 \\\\ \\sqrt{3} & \\space 2 < x\\le3 \\\\ x^3 & \\space x > 3 \\end{cases} \\\\ $ Evaluate $f(0)+f(2)$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "0b064a36-c39f-41c8-a537-acdf5214a519",
+        "index": 0,
+        "body": "$\\sqrt{3}-10$",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "88d30d85-5ae2-4d21-8853-2b75c7f3d9d0",
+        "index": 1,
+        "body": "7",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "403639cf-7a23-4573-ac67-f21f17498fb8",
+        "index": 2,
+        "body": "-3",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "e406e7ee-45a5-4fe9-9bb4-7d355ce74812",
+        "index": 3,
+        "body": "$\\sqrt{3}+7$",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "b843fb56-4711-454a-84b3-450cc79dc827",
+        "index": 4,
+        "body": "-16",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "ce29d3d8-5351-4a4a-b9fa-866f461d1ce3",
+        "index": 5,
+        "body": "$\\sqrt{3}-6$",
+        "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "19884286",
+    "timeSpentVideo": "993004",
+    "submissions": 139,
+    "submissionsCorrect": 118,
+    "accuracy": 0.8489208633093526,
+    "difficulty": 0.547071129707113
+  },
+  "resources": [],
+  "exam": {
+    "id": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "380776244",
+      "timeSpentVideo": "45560993",
+      "submissions": 2520,
+      "submissionsCorrect": 1649,
+      "questions": 15,
+      "accuracy": 0.6543650793650794,
+      "difficulty": 0.601526717557252
+    }
+  },
+  "explanation": {
+    "id": "24ddd9a8-7e29-42a0-9a7a-61c6ebb2a066",
+    "body": null,
+    "questionId": "4ac72c73-071f-4379-b4bc-a9450577f331",
+    "resources": [
+      {
+        "id": "64c88fd5-15fd-4721-8aac-0e30c8ca0773",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=qxpSCDu5Yuo&t=1970s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "24ddd9a8-7e29-42a0-9a7a-61c6ebb2a066",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79b190ac-ad34-4b96-9aed-84c13e8f64c7",
+      "name": "Piecewise-defined Functions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "69361169",
+        "timeSpentVideo": "3852422",
+        "submissions": 298,
+        "submissionsCorrect": 180,
+        "questions": 2,
+        "accuracy": 0.6040268456375839,
+        "difficulty": 0.6721105527638191
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the value of the series\n$\\sum_{k=0}^{\\infty} \\dfrac{k^2+3k+2}{3^k}$\n\nHINT:\n(1) Observe\n$\\sum_{k=0}^{\\infty} (k^2+3k+2)x^k = \\sum_{k=0}^{\\infty} (k+2)(k+1)x^k$\n\n(2) Starting from the power series\n$f(x)=\\frac{1}{1-x}=\\sum_{k=0}^{\\infty} x^k = 1+x+x^2+x^3+x^4+...$\ncompute the power series for $f''(x)$. After an appropriate index change\nfor $k$, how does the power series for $f''(x)$ compare with the one in (1) ?\n\n(3) What value should one put for x to evaluate the given series ?\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "f4686d24-af6d-4b42-a972-669b18feaffb",
+        "index": 0,
+        "body": "8",
+        "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "e0d77c25-d2c8-4d33-ba89-d6be02b00dbb",
+        "index": 1,
+        "body": "$\\frac{27}{4}$",
+        "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "671fee70-0e4a-4564-beff-229cf484a470",
+        "index": 2,
+        "body": "$\\frac{27}{8}$",
+        "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "afe6f860-1bc1-4032-a1c4-3a805aa58255",
+        "index": 3,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "8b874957-ac85-40e0-8dc5-7455665e35e8",
+        "index": 4,
+        "body": "$2\\ln(2)$",
+        "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "18281353",
+    "timeSpentVideo": "1852028",
+    "submissions": 63,
+    "submissionsCorrect": 32,
+    "accuracy": 0.5079365079365079,
+    "difficulty": 0.7469325153374233
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "03bcd161-1a2a-45ee-a258-dc06e4aa60f5",
+    "body": null,
+    "questionId": "a2944bc7-ba42-4790-9bf7-da528f4a29bf",
+    "resources": [
+      {
+        "id": "d6a1472e-61b2-4c49-8624-d03e6ae626e5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=9471"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "03bcd161-1a2a-45ee-a258-dc06e4aa60f5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8d21f86c-b2f9-4de0-9a19-17b309493345",
+      "name": "Power Series",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "357438206",
+        "timeSpentVideo": "17527014",
+        "submissions": 662,
+        "submissionsCorrect": 409,
+        "questions": 3,
+        "accuracy": 0.6178247734138973,
+        "difficulty": 0.6476377952755905
+      }
+    }
+  ],
+  "children": []
+}

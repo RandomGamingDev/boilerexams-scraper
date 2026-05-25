@@ -1,67 +1,67 @@
 {
-  "id": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+  "id": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "The equation of the tangent plane to the graph of the function $f(x, y)=x-\\frac{y^{2}}{2}$ at $(2,4,-6)$ is:",
+    "body": "Consider the surface\n\\[\nz=3-x^{2}-y^{2}+6 y.\n\\]\nFind the points on the surface at which the tangent plane is horizontal.",
     "solution": [
-      3
+      0
     ],
     "answerChoices": [
       {
-        "id": "78da6c6a-b953-4075-820a-db84f76d0b15",
+        "id": "f547e6be-aebd-4721-91b0-36f9b93fb553",
         "index": 0,
-        "body": "$2 x+y+z=2$",
-        "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+        "body": "(0, 3, 12)",
+        "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
         "stats": {
-          "count": 45
+          "count": 3220
         },
         "resources": []
       },
       {
-        "id": "46aa6bf8-db91-45c8-beef-dd389f13fd58",
+        "id": "9fa0a3fb-bc97-4de4-943a-735f862f298f",
         "index": 1,
-        "body": "$x+4 y=18$",
-        "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+        "body": "(1, 2, 3)",
+        "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
         "stats": {
-          "count": 379
+          "count": 62
         },
         "resources": []
       },
       {
-        "id": "c591d0ee-c9b0-439a-a7f0-d045d67f6286",
+        "id": "0a8c70ca-e249-4666-ba42-20d314b2d591",
         "index": 2,
-        "body": "$x-4 y-z=-4$",
-        "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+        "body": "(3, 2, 3)",
+        "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
         "stats": {
-          "count": 434
+          "count": 83
         },
         "resources": []
       },
       {
-        "id": "dfc5138e-4623-472b-a71b-d8308e53b930",
+        "id": "e9be9fdc-b4ef-47fc-a32e-e62b97ca87e4",
         "index": 3,
-        "body": "$-x+4 y+z=8$",
-        "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+        "body": "(12, 3, 0)",
+        "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
         "stats": {
-          "count": 2109
+          "count": 377
         },
         "resources": []
       },
       {
-        "id": "1b7ea78a-4d40-4480-8ff3-40547c66bea6",
+        "id": "ef456f08-c2d7-4249-94ca-72f55e0c6ddd",
         "index": 4,
-        "body": "$x-y-2 z=10$",
-        "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+        "body": "(3, 2, -3)",
+        "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
         "stats": {
-          "count": 69
+          "count": 48
         },
         "resources": []
       }
     ]
   },
   "number": 11,
-  "disclaimer": "",
-  "examId": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+  "disclaimer": null,
+  "examId": "a6b34688-8127-432c-9850-74f016cdf9da",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "800966746",
-    "timeSpentVideo": "78092952",
-    "submissions": 4001,
-    "submissionsCorrect": 2108,
-    "accuracy": 0.5268682829292677,
-    "difficulty": 0.723786881248476
+    "timeSpent": "1104209848",
+    "timeSpentVideo": "242927008",
+    "submissions": 5467,
+    "submissionsCorrect": 3220,
+    "accuracy": 0.58898847631242,
+    "difficulty": 0.6626100233518951
   },
   "resources": [],
   "exam": {
-    "id": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+    "id": "a6b34688-8127-432c-9850-74f016cdf9da",
     "number": 1,
-    "year": 2019,
-    "season": "SPRING",
+    "year": 2022,
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12089540840",
-      "timeSpentVideo": "1355376322",
-      "submissions": 54414,
-      "submissionsCorrect": 32901,
-      "questions": 11,
-      "accuracy": 0.6046421876722902,
-      "difficulty": 0.6455497670323219
+      "timeSpent": "13340168716",
+      "timeSpentVideo": "1931689360",
+      "submissions": 66331,
+      "submissionsCorrect": 39120,
+      "questions": 12,
+      "accuracy": 0.5897694893790234,
+      "difficulty": 0.6603656425464015
     }
   },
   "explanation": {
-    "id": "d7ba87c8-d718-412d-ae03-bc1a5414cafb",
-    "body": "",
-    "questionId": "7b97edfc-a505-4558-8e7f-2ce24ef26020",
+    "id": "780b2897-d7d2-4d3e-93d8-13f10ba3ad9e",
+    "body": null,
+    "questionId": "ec03b040-6c03-4115-bb02-de4ecf644b8d",
     "resources": [
       {
-        "id": "4c194e1a-b554-4cb2-a5db-a9e06bf60060",
+        "id": "c7fc1bfd-87f2-4a3b-91b7-f4ca8dca3319",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/TA9-ezOW78k?feature=shared&t=1579"
+          "url": "https://youtu.be/ah7thsth9eU?si=AWygkaPH5_18XhM0&t=1989"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "d7ba87c8-d718-412d-ae03-bc1a5414cafb",
+        "explanationId": "780b2897-d7d2-4d3e-93d8-13f10ba3ad9e",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,28 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "28638509493",
-        "timeSpentVideo": "2459665348",
-        "submissions": 63415,
-        "submissionsCorrect": 35302,
-        "questions": 15,
-        "accuracy": 0.5566821729874636,
-        "difficulty": 0.6934070691962528
+        "timeSpent": "34362531367",
+        "timeSpentVideo": "2872623562",
+        "submissions": 72552,
+        "submissionsCorrect": 41568,
+        "questions": 14,
+        "accuracy": 0.5729407872973867,
+        "difficulty": 0.6771596101965535
+      }
+    },
+    {
+      "id": "8d28ace7-00c7-4a8c-bbb1-40b1561b8293",
+      "name": "Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "35171504021",
+        "timeSpentVideo": "2672987443",
+        "submissions": 59137,
+        "submissionsCorrect": 34990,
+        "questions": 8,
+        "accuracy": 0.59167695351472,
+        "difficulty": 0.6584778094771848
       }
     }
   ],

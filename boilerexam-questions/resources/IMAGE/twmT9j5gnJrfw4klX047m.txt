@@ -1,0 +1,32 @@
+This is a table containing 3 columns and 8 rows (including the header row), representing Laplace transform pairs and their corresponding Regions of Convergence (ROC).
+
+### **Column Headers**
+1.  **Column 1:** $f(t)$
+2.  **Column 2:** $F(s)$
+3.  **Column 3:** ROC
+
+---
+
+### **Table Content (Row by Row)**
+
+| Row | Column 1: $f(t)$ | Column 2: $F(s)$ | Column 3: ROC |
+| :--- | :--- | :--- | :--- |
+| **1** | $\delta(t)$ | $1$ | $all\ s$ |
+| **2** | $u(t)$ | $\frac{1}{s}$ | $Re\{s\} > 0$ |
+| **3** | $tu(t)$ | $\frac{1}{s^2}$ | $Re\{s\} > 0$ |
+| **4** | $e^{-at}u(t)$ | $\frac{1}{s + a}$ | $Re\{s\} > Re\{a\}$ |
+| **5** | $te^{-at}u(t)$ | $\frac{1}{(s + a)^2}$ | $Re\{s\} > Re\{a\}$ |
+| **6** | $cos(\omega_0t)u(t)$ | $\frac{s}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+| **7** | $sin(\omega_0t)u(t)$ | $\frac{\omega_0}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+
+---
+
+### **Technical Notes:**
+*   **Structure:** The table is bounded by solid black grid lines.
+*   **Formatting:** All $f(t)$ and $F(s)$ entries use standard mathematical notation. 
+*   **Symbols:**
+    *   $\delta(t)$ represents the Dirac delta function.
+    *   $u(t)$ represents the unit step function.
+    *   $Re\{s\}$ denotes the real part of the complex variable $s$.
+    *   $\omega_0$ represents the angular frequency.
+    *   $a$ is a constant parameter.

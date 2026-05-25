@@ -1,0 +1,159 @@
+{
+  "id": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Four objects, each of mass \\textbf{m} are attached to a disk of mass \\textbf{M} and radius \\textbf{R} as shown. Each object is at distance \\textbf{b} from the axis of the disk. The system is initially at rest on a frictionless flat surface. A string is wound around the disk and such that when the end of the string pulled with a constant force \\textbf{F}, the disks both rotates and translates. When the end of the string is pulled a distance \\textbf{w+d}, the center of mass of the disk (and 4 masses attached to it) has translated a distance  \\textbf{d}.\n\nWhat is the angular speed, $\\omega$ of the system at this instant?\n\nThe moment of inertia $I_{disk}$ = $\\frac{1}{2}MR^2$ and  $I_{pointmass}$ = $mb^2$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "1b10b54a-659a-4176-8159-e2f389272068",
+        "index": 0,
+        "body": "$\\omega$ = $\\sqrt{\\frac{2Fd}{4mb^2 + MR^2}}$",
+        "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "ff8dbb2d-427f-4a9e-b6ee-3607fd7e2959",
+        "index": 1,
+        "body": "$\\omega$ = $\\sqrt{\\frac{4Fw}{8mb^2 + MR^2}}$",
+        "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+        "stats": {
+          "count": 146
+        },
+        "resources": []
+      },
+      {
+        "id": "f9f7eb52-f5c6-48ee-b1c9-699652ea80ee",
+        "index": 2,
+        "body": "$\\omega$ = $\\sqrt{\\frac{4Fd}{8mb^2 + MR^2}}$",
+        "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "5e3694c6-184d-4a3d-a655-ae598b9f2d4f",
+        "index": 3,
+        "body": "$\\omega$ = $\\sqrt{\\frac{2Fw}{4mb^2 + MR^2}}$",
+        "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "35c56a03-7df2-4d40-8619-fc75c3587b56",
+        "index": 4,
+        "body": "$\\omega$ = $\\sqrt{\\frac{4F(w+d)}{8mb^2 + MR^2}}$",
+        "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "83071600-c69b-4e51-ad52-174eae3b2e31",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "39490229",
+    "timeSpentVideo": "0",
+    "submissions": 182,
+    "submissionsCorrect": 146,
+    "accuracy": 0.8021978021978022,
+    "difficulty": 0.5549645390070922
+  },
+  "resources": [
+    {
+      "id": "75e0dd4b-a97b-4483-b0d4-113a805615a8",
+      "type": "IMAGE",
+      "data": {
+        "key": "ZRvcK61z2Y-ifZEUqxyur",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/ZRvcK61z2Y-ifZEUqxyur"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "83071600-c69b-4e51-ad52-174eae3b2e31",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "465230917",
+      "timeSpentVideo": "0",
+      "submissions": 3140,
+      "submissionsCorrect": 2221,
+      "questions": 21,
+      "accuracy": 0.7073248407643312,
+      "difficulty": 0.549074074074074
+    }
+  },
+  "explanation": {
+    "id": "5db56dab-d731-4b98-958c-f41c34bfbe57",
+    "body": null,
+    "questionId": "30ccef0b-8062-4332-96c0-a5f67792d5b9",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "55777f70-12c1-46f2-a0d2-63b4594606fd",
+      "name": "Moment of Inertia",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3703792141",
+        "timeSpentVideo": "242808655",
+        "submissions": 8568,
+        "submissionsCorrect": 5378,
+        "questions": 18,
+        "accuracy": 0.6276844070961718,
+        "difficulty": 0.6237886479003231
+      }
+    },
+    {
+      "id": "65b6b684-a8fc-4fe7-802a-b7bb44053438",
+      "name": "Energy Principle",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7937043501",
+        "timeSpentVideo": "497701406",
+        "submissions": 20901,
+        "submissionsCorrect": 12623,
+        "questions": 36,
+        "accuracy": 0.6039423951007129,
+        "difficulty": 0.6465525451168992
+      }
+    }
+  ],
+  "children": []
+}

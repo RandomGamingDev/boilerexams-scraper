@@ -13,7 +13,7 @@
         "body": "If $\\left\\{v_{1}, v_{2}, v_{3}\\right\\}$ is linearly dependent, then $v_{3}$ is a linear combination of $v_{1}$ and $v_{2}$.",
         "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
         "stats": {
-          "count": 1720
+          "count": 2678
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Suppose that the columns of $A$ are $v_{1}, v_{2}$, and $v_{3}$. Then the matrix equation $A\\left[\\begin{array}{l}x_{1} \\\\ x_{2} \\\\ x_{3}\\end{array}\\right]=b$ is equivalent to the vector equation $x_{1} v_{1}+x_{2} v_{2}+x_{3} v_{3}=b$.",
         "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
         "stats": {
-          "count": 127
+          "count": 204
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Suppose that $X_{0}$ is a solution to the linear system $A X=b$. Then $\\{X \\mid A X=b\\}=$ $X_{0}+\\{X \\mid A X=0\\}$.",
         "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
         "stats": {
-          "count": 637
+          "count": 958
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "The columns of $A$ are linearly independent if and only if $A$ has a pivot position in every column.",
         "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
         "stats": {
-          "count": 158
+          "count": 236
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "A homogeneous linear system has a non-trivial solution if and only if it has at least one free variable.",
         "questionId": "55d28748-2f4b-496c-8e45-ae8635c428c4",
         "stats": {
-          "count": 392
+          "count": 566
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "430371819",
-    "timeSpentVideo": "134073166",
-    "submissions": 3246,
-    "submissionsCorrect": 1720,
-    "accuracy": 0.529882932840419,
-    "difficulty": 0.7210101613867305
+    "timeSpent": "683913138",
+    "timeSpentVideo": "170464854",
+    "submissions": 4932,
+    "submissionsCorrect": 2678,
+    "accuracy": 0.5429845904298459,
+    "difficulty": 0.7078696343402225
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "9163238793",
-      "timeSpentVideo": "1676189237",
-      "submissions": 49070,
-      "submissionsCorrect": 30636,
+      "timeSpent": "14980997869",
+      "timeSpentVideo": "2297156121",
+      "submissions": 75804,
+      "submissionsCorrect": 47589,
       "questions": 25,
-      "accuracy": 0.6243325861014877,
-      "difficulty": 0.6259202765914176
+      "accuracy": 0.6277900902327054,
+      "difficulty": 0.6223782672849916
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "38430916733",
-        "timeSpentVideo": "4797788342",
-        "submissions": 93356,
-        "submissionsCorrect": 55827,
-        "questions": 26,
-        "accuracy": 0.5980011997086422,
-        "difficulty": 0.6521036637562061
+        "timeSpent": "57019927809",
+        "timeSpentVideo": "6104797328",
+        "submissions": 129389,
+        "submissionsCorrect": 77647,
+        "questions": 24,
+        "accuracy": 0.6001051093987897,
+        "difficulty": 0.6499721984106758
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "12832439127",
-        "timeSpentVideo": "1557644711",
-        "submissions": 29590,
-        "submissionsCorrect": 17171,
-        "questions": 10,
-        "accuracy": 0.5802973977695167,
-        "difficulty": 0.66997305490064
+        "timeSpent": "19434312175",
+        "timeSpentVideo": "2070447099",
+        "submissions": 42160,
+        "submissionsCorrect": 23755,
+        "questions": 9,
+        "accuracy": 0.5634487666034156,
+        "difficulty": 0.6867013724562234
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "22318099442",
-        "timeSpentVideo": "2567476807",
-        "submissions": 50248,
-        "submissionsCorrect": 27646,
-        "questions": 15,
-        "accuracy": 0.5501910523801943,
-        "difficulty": 0.6999086358941765
+        "timeSpent": "31029451104",
+        "timeSpentVideo": "3150318545",
+        "submissions": 67793,
+        "submissionsCorrect": 36982,
+        "questions": 13,
+        "accuracy": 0.5455135485964627,
+        "difficulty": 0.7045534885776148
       }
     }
   ],

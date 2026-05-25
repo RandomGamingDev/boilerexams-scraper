@@ -13,7 +13,7 @@
         "body": "If the file only contains whitespaces, the function will return a list of zeroes.",
         "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
         "stats": {
-          "count": 9
+          "count": 15
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "The function raises an exception if the file contains a mix of integer and non-integer value.",
         "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
         "stats": {
-          "count": 181
+          "count": 190
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "If the file is empty, the function will return a list with a single element containing the string \"Empty data read.\"",
         "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
         "stats": {
-          "count": 108
+          "count": 120
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "The function ignores any lines in the file that can't be converted to integer.",
         "questionId": "5df38d60-ce42-4fe3-9d0c-4046c73a98a9",
         "stats": {
-          "count": 17
+          "count": 24
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "80420932",
-    "timeSpentVideo": "12239001",
-    "submissions": 340,
-    "submissionsCorrect": 181,
-    "accuracy": 0.5323529411764706,
-    "difficulty": 0.725
+    "timeSpent": "84729172",
+    "timeSpentVideo": "14344579",
+    "submissions": 377,
+    "submissionsCorrect": 190,
+    "accuracy": 0.5039787798408488,
+    "difficulty": 0.7468553459119497
   },
   "resources": [
     {
@@ -98,13 +98,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "392850316",
-      "timeSpentVideo": "45854400",
-      "submissions": 2954,
-      "submissionsCorrect": 1876,
+      "timeSpent": "410104672",
+      "timeSpentVideo": "49110651",
+      "submissions": 3136,
+      "submissionsCorrect": 1970,
       "questions": 11,
-      "accuracy": 0.6350710900473934,
-      "difficulty": 0.619351669941061
+      "accuracy": 0.6281887755102041,
+      "difficulty": 0.6257725587144622
     }
   },
   "explanation": {

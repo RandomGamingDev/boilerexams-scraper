@@ -1,0 +1,153 @@
+{
+  "id": "c300d3af-e4ca-42c4-b277-116273e5b067",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the derivative of $f(x,y,z)=xyz$ in the direction $\\vec{i}-2\\vec{k}$ at the point $(1, 2, 3)$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "f5852fe2-1541-4e84-b3ee-7a8991da9bb5",
+        "index": 0,
+        "body": "$\\frac{2}{\\sqrt{5}}$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 612
+        },
+        "resources": []
+      },
+      {
+        "id": "56ec5670-7334-4378-9506-f7448989a8bd",
+        "index": 1,
+        "body": "$\\sqrt{5}$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "dbe413bc-eb64-4174-bb6a-cf255f7fac90",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 77
+        },
+        "resources": []
+      },
+      {
+        "id": "9aad4284-5e07-4479-8b86-e439ae103d45",
+        "index": 3,
+        "body": "$5$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "2ec54694-dff9-495d-a7c2-cafea570f806",
+        "index": 4,
+        "body": "$2$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "af395b1a-eddd-4f6f-94f7-08530d9d7cba",
+        "index": 5,
+        "body": "$\\frac{\\sqrt{5}}{2}$",
+        "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "193606447",
+    "timeSpentVideo": "19161594",
+    "submissions": 973,
+    "submissionsCorrect": 612,
+    "accuracy": 0.6289825282631039,
+    "difficulty": 0.6330382106244176
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "1f071bf9-d0ba-470c-a6d8-d9a24dabe744",
+    "body": null,
+    "questionId": "c300d3af-e4ca-42c4-b277-116273e5b067",
+    "resources": [
+      {
+        "id": "889cb429-c06c-4480-8e7f-a5642561299f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=4239"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1f071bf9-d0ba-470c-a6d8-d9a24dabe744",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "848a87e3-bdec-406f-9dce-fa318c43c49e",
+      "name": "Directional Derivative",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10687862173",
+        "timeSpentVideo": "554928723",
+        "submissions": 25387,
+        "submissionsCorrect": 15460,
+        "questions": 6,
+        "accuracy": 0.6089730964666955,
+        "difficulty": 0.6414544669831679
+      }
+    }
+  ],
+  "children": []
+}

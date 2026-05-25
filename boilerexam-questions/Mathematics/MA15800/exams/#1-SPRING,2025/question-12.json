@@ -1,0 +1,153 @@
+{
+  "id": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Simplify the expression: \\[\\frac{\\frac{1}{x+1}}{1+\\frac{1}{x}}\\]",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "d39fdcc7-c799-446d-afe1-cc6708679e2f",
+        "index": 0,
+        "body": "1",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "a155cfb8-997e-4647-bbd2-751faa05a627",
+        "index": 1,
+        "body": "x",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "cbccf12f-6b73-430e-b24a-d208836b0e40",
+        "index": 2,
+        "body": "$\\frac{2}{x(x+1)}$",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "6451ab8c-0b26-4420-96b6-b318ba371c30",
+        "index": 3,
+        "body": "$\\frac{x}{(x+1)^2}$",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 73
+        },
+        "resources": []
+      },
+      {
+        "id": "a030e153-54e5-4aa7-94d8-8ee8836928c4",
+        "index": 4,
+        "body": "$(x+1)^2$",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "aed3c39f-e944-4e07-91ae-8e9abec1ddeb",
+        "index": 5,
+        "body": "$\\frac{1}{x}$",
+        "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "28832634",
+    "timeSpentVideo": "3560297",
+    "submissions": 144,
+    "submissionsCorrect": 73,
+    "accuracy": 0.5069444444444444,
+    "difficulty": 0.7459016393442623
+  },
+  "resources": [],
+  "exam": {
+    "id": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "380776244",
+      "timeSpentVideo": "45560993",
+      "submissions": 2520,
+      "submissionsCorrect": 1649,
+      "questions": 15,
+      "accuracy": 0.6543650793650794,
+      "difficulty": 0.601526717557252
+    }
+  },
+  "explanation": {
+    "id": "ed214777-5618-4ea4-8e33-de9815c1a4ae",
+    "body": null,
+    "questionId": "2efb84ee-f8ca-489a-993b-006b7a86a231",
+    "resources": [
+      {
+        "id": "0619c3ef-14fe-4406-a440-72ce6dc5d98e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=qxpSCDu5Yuo&t=2819s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ed214777-5618-4ea4-8e33-de9815c1a4ae",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "13f0f6a6-ec20-4bf6-9012-2642d68138ef",
+      "name": "Simplifying Algebraic Expressions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "367398178",
+        "timeSpentVideo": "21255946",
+        "submissions": 1020,
+        "submissionsCorrect": 707,
+        "questions": 6,
+        "accuracy": 0.6931372549019608,
+        "difficulty": 0.5741071428571428
+      }
+    }
+  ],
+  "children": []
+}

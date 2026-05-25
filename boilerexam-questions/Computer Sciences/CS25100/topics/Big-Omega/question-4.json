@@ -13,7 +13,7 @@
         "body": "Yes. Jane's algorithm is at best $\\Omega(n^9)$, so we should discard it.",
         "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
         "stats": {
-          "count": 222
+          "count": 239
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Yes. Jane's algorithm has a chance of being too inefficient for Mango Enterprises, so we should definitely discard it.",
         "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
         "stats": {
-          "count": 122
+          "count": 126
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "No. The only information we can gather is that Jane's algorithm is $O(n^9)$, which is too ambiguous for us to discard just yet.",
         "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
         "stats": {
-          "count": 1171
+          "count": 1235
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "No. Jane's algorithm is guaranteed to be $O(n^2)$, so we definitely shouldn't discard it.",
         "questionId": "7a326625-30c6-4ad3-94f3-7e3b4a8821bb",
         "stats": {
-          "count": 48
+          "count": 53
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "247514057",
-    "timeSpentVideo": "18617709",
-    "submissions": 1696,
-    "submissionsCorrect": 1171,
-    "accuracy": 0.6904481132075472,
-    "difficulty": 0.5701559020044543
+    "timeSpent": "255615850",
+    "timeSpentVideo": "20892739",
+    "submissions": 1795,
+    "submissionsCorrect": 1235,
+    "accuracy": 0.6880222841225627,
+    "difficulty": 0.5718997361477572
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "3642246196",
-      "timeSpentVideo": "361200476",
-      "submissions": 24845,
-      "submissionsCorrect": 16750,
+      "timeSpent": "3861776371",
+      "timeSpentVideo": "386619392",
+      "submissions": 26432,
+      "submissionsCorrect": 17840,
       "questions": 17,
-      "accuracy": 0.6741799154759509,
-      "difficulty": 0.5765183403487673
+      "accuracy": 0.6749394673123487,
+      "difficulty": 0.575719885421378
     }
   },
   "explanation": {
@@ -119,13 +119,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "4563369111",
-        "timeSpentVideo": "88611608",
-        "submissions": 13895,
-        "submissionsCorrect": 10677,
+        "timeSpent": "4926925146",
+        "timeSpentVideo": "97528877",
+        "submissions": 15093,
+        "submissionsCorrect": 11595,
         "questions": 12,
-        "accuracy": 0.7684059014033825,
-        "difficulty": 0.48351196856020007
+        "accuracy": 0.7682369310276287,
+        "difficulty": 0.48352859869676823
       }
     },
     {
@@ -134,13 +134,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "10975892568",
-        "timeSpentVideo": "225763555",
-        "submissions": 30123,
-        "submissionsCorrect": 22481,
+        "timeSpent": "11688037899",
+        "timeSpentVideo": "244022207",
+        "submissions": 32930,
+        "submissionsCorrect": 24596,
         "questions": 22,
-        "accuracy": 0.7463068087507885,
-        "difficulty": 0.5045081560401019
+        "accuracy": 0.7469177042210751,
+        "difficulty": 0.5038298516500151
       }
     }
   ],

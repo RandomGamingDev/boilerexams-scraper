@@ -1,0 +1,26 @@
+This image displays a 2x2 payoff matrix representing a strategic game between two players: **Macrofirm** and **Gaggle**.
+
+### 1. Structure and Layout
+*   **Grid:** A 2x2 matrix framed by a rectangular border.
+*   **Player 1 (Macrofirm):** Labeled vertically on the left, with its strategies listed as rows.
+*   **Player 2 (Gaggle):** Labeled horizontally above the matrix, with its strategies listed as columns.
+
+### 2. Labels and Variables
+*   **Top Header:** "Gaggle"
+*   **Left Header:** "Macrofirm"
+*   **Column Headers:** "PaaS" and "IaaS"
+*   **Row Labels:** "PaaS" and "SaaS"
+
+### 3. Matrix Cell Contents (Payoff Values)
+Each cell contains a pair of numbers, representing the payoffs for (Macrofirm, Gaggle):
+
+*   **Top-Left Cell (Macrofirm: PaaS, Gaggle: PaaS):** "800, 600"
+*   **Top-Right Cell (Macrofirm: PaaS, Gaggle: IaaS):** "500, 500"
+*   **Bottom-Left Cell (Macrofirm: SaaS, Gaggle: PaaS):** "900, 400"
+*   **Bottom-Right Cell (Macrofirm: SaaS, Gaggle: IaaS):** "700, 600"
+
+### 4. Spatial Geometry
+*   The matrix is organized into two rows and two columns.
+*   The "Macrofirm" label is horizontally centered to the left of the matrix.
+*   The "Gaggle" label is horizontally centered above the "PaaS" and "IaaS" column headers.
+*   The grid lines consist of one outer rectangle divided by one horizontal line and one vertical line intersecting at the center.

@@ -1,0 +1,22 @@
+The image displays a two-mesh electrical circuit schematic. The circuit consists of two loops connected by a common branch.
+
+### 1. Circuit Topology
+*   **Loop 1 (Left Mesh):** Contains an independent current source on the left branch, a component with impedance $-j15\ \Omega$ on the top branch, and shares a middle branch containing a component with impedance $j20\ \Omega$ with Loop 2.
+*   **Loop 2 (Right Mesh):** Contains the shared middle branch with impedance $j20\ \Omega$, a top branch with impedance $10\ \Omega$, and a right branch containing an independent voltage source.
+*   **Shared Bottom Rail:** The bottom of both loops is connected by a common wire.
+
+### 2. Components and Labels
+*   **Current Source (Left Branch):** An independent current source with a value of $0.5\text{ A}$. The arrow inside the source symbol points upward.
+*   **Impedance 1 (Top-Left):** $-j15\ \Omega$ is placed on the top wire between the left branch and the middle branch.
+*   **Impedance 2 (Middle Branch):** $j20\ \Omega$ is placed on the vertical branch connecting the top wire to the bottom wire.
+*   **Impedance 3 (Top-Right):** $10\ \Omega$ is placed on the top wire between the middle branch and the right branch.
+*   **Voltage Source (Right Branch):** An independent voltage source labeled $j20\text{ V}$. The polarity markings indicate a negative sign $(-)$ at the top and a positive sign $(+)$ at the bottom.
+
+### 3. Mesh Currents
+*   **$\tilde{I}_1$:** Labeled in the center of the left mesh, depicted with a circular arrow indicating a clockwise direction.
+*   **$\tilde{I}_2$:** Labeled in the center of the right mesh, depicted with a circular arrow indicating a clockwise direction.
+
+### 4. Nodes and Connections
+*   The circuit is a planar, rectangular grid consisting of three vertical branches and two horizontal branches (top and bottom).
+*   The top wire connects the current source to the $-j15\ \Omega$ component, the middle branch, the $10\ \Omega$ component, and the voltage source.
+*   The bottom wire connects the current source, the middle branch, and the voltage source.

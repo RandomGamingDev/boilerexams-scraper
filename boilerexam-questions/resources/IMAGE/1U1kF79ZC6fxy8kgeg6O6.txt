@@ -1,0 +1,31 @@
+This is a schematic diagram of an electrical circuit consisting of resistors, sources, and labeled mesh currents.
+
+### Circuit Topology
+*   The circuit is a planar network with three distinct mesh loops.
+*   **Bottom Rail:** A single horizontal wire segment runs along the bottom, connecting the bottom of the current source ($I_{S1}$), the bottom of the dependent voltage source, and the bottom of the voltage source ($V_{S2}$). There is a solid dot (node) at the intersection with the dependent source's bottom lead.
+*   **Left Vertical Branch:** Contains an independent current source $I_{S1}$ at the bottom.
+*   **Middle Vertical Branch:** Contains a dependent voltage source labeled $\alpha I_0$.
+*   **Right Vertical Branch:** Contains an independent voltage source $V_{S2}$ at the bottom.
+*   **Top Horizontal Branch:** Contains a resistor $R_3$.
+*   **Middle Horizontal Branch:** Divided into two segments by a center node; the left segment contains $R_1$, and the right segment contains $R_2$.
+
+### Components and Labels
+1.  **Independent Current Source ($I_{S1}$):** Located in the lower-left branch. It is a circle with an arrow pointing upward.
+2.  **Dependent Voltage Source ($\alpha I_0$):** Located in the center vertical branch. It is represented by a diamond shape with '+' (top) and '-' (bottom) polarity markings. The label $\alpha I_0$ is placed to the right of the diamond.
+3.  **Independent Voltage Source ($V_{S2}$):** Located in the lower-right branch. It is a circle with '+' (top) and '-' (bottom) polarity markings.
+4.  **Resistors:**
+    *   $R_1$: Placed horizontally between the left vertical branch and the center node.
+    *   $R_2$: Placed horizontally between the center node and the right vertical branch.
+    *   $R_3$: Placed horizontally across the top branch.
+
+### Mesh Currents and Variables
+*   **Mesh Loop 1 ($I_1$):** Indicated by a red curved arrow in a clockwise direction, located in the bottom-left mesh (bounded by the bottom rail, left branch, middle branch, and $R_1$).
+*   **Mesh Loop 2 ($I_2$):** Indicated by a red curved arrow in a clockwise direction, located in the bottom-right mesh (bounded by the bottom rail, middle branch, right branch, and $R_2$).
+*   **Mesh Loop 3 ($I_3$):** Indicated by a red curved arrow in a clockwise direction, located in the top mesh (bounded by the top wire with $R_3$, the left vertical wire, and the horizontal segments containing $R_1$ and $R_2$).
+*   **Current variable $I_0$:** Indicated by a black arrow pointing to the right on the top horizontal wire, passing through $R_3$.
+
+### Nodes (Junctions)
+*   **Center Node:** A solid dot connects $R_1$, $R_2$, and the top of the dependent voltage source ($\alpha I_0$).
+*   **Left Mid-Node:** A solid dot connects the top of the current source ($I_{S1}$), the left wire to the top loop, and the resistor $R_1$.
+*   **Right Mid-Node:** A solid dot connects the right wire to the top loop, the resistor $R_2$, and the top of the voltage source ($V_{S2}$).
+*   **Bottom Node:** A solid dot connects the bottom of the dependent voltage source to the bottom rail.

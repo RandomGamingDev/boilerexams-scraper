@@ -1,0 +1,22 @@
+This image depicts a DC circuit diagram consisting of a voltage source and three resistors.
+
+**Components and Labels:**
+*   **Voltage Source:** Represented by a circle containing a plus sign (+) at the top and a minus sign (-) at the bottom. The label "10 V" is positioned to the left of the voltage source.
+*   **Resistor A:** Located in the top horizontal branch to the right of the voltage source. It is represented by a rectangle labeled "A (3 W)".
+*   **Resistor B:** Located in the middle vertical branch. It is represented by a vertical rectangle labeled "B (12 W)".
+*   **Resistor C:** Located in the rightmost vertical branch. It is represented by a vertical rectangle labeled "C (5 W)".
+
+**Circuit Topology and Connections:**
+*   The circuit is a single-loop voltage source connected to a parallel combination of resistors.
+*   **Voltage Source branch:** The positive terminal connects to the start of the branch containing Resistor A.
+*   **Current Indicator:** An arrow labeled "$I$" is placed on the vertical wire above the positive terminal of the voltage source, indicating upward current flow.
+*   **Resistor A connection:** Resistor A is in series with the main supply. After passing through Resistor A, the circuit node splits into two parallel branches.
+*   **Parallel junction:** A dot (black circle) indicates a node connection at the top junction where the current splits between branches containing Resistor B and Resistor C.
+*   **Bottom junction:** A dot (black circle) indicates a node connection at the bottom where the current from the branches containing Resistor B and Resistor C recombines before returning to the negative terminal of the voltage source.
+
+**Geometric Arrangement:**
+*   The circuit is drawn as a rectangular schematic.
+*   The voltage source is on the far left.
+*   Resistor A is positioned horizontally in the top wire segment after the voltage source.
+*   Resistors B and C are positioned vertically, parallel to each other, to the right of Resistor A.
+*   The circuit is closed at the bottom by a horizontal wire connecting the bottom of the voltage source to the bottom of the branches containing Resistors B and C.

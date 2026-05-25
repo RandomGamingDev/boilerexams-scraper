@@ -1,0 +1,20 @@
+The image displays an electrical circuit diagram alongside a list of component values.
+
+### Circuit Diagram
+The circuit consists of three parallel branches connected to common top and bottom horizontal wires:
+1.  **Left Branch:** Contains an independent current source pointing upwards, labeled $I_{IN}$.
+2.  **Center Branch:** Contains a resistor $R$ connected in series with an inductor $L$.
+    *   The resistor $R$ is positioned above the inductor.
+    *   The inductor $L$ has voltage polarity markings: a '+' sign is located to the left of the top terminal of the inductor, and a '-' sign is located to the left of the bottom terminal. The label $V_L$ is positioned to the left of these markings.
+3.  **Right Branch:** Contains a capacitor $C$.
+
+### Component Values
+To the right of the circuit diagram, the following values are explicitly listed:
+*   $R = 0.5 \ [\Omega]$
+*   $L = 1 \ [H]$
+*   $C = 1 \ [F]$
+
+### Spatial Relationships
+*   The circuit is a standard parallel configuration where the current source drives the parallel network of the RL-series branch and the capacitive branch.
+*   The $R$ and $L$ components form a single branch in series with each other.
+*   The capacitor $C$ is in parallel with the series combination of $R$ and $L$.

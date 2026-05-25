@@ -1,0 +1,17 @@
+The image is a table composed of four cells, organized into two rows and two columns, containing R console-style output for the `qnorm()` function. The text is rendered in a monospaced font.
+
+**Top-Left Cell:**
+*   Input: `qnorm(p = 0.001/2, lower.tail = FALSE)`
+*   Output: `[1] 3.290527`
+
+**Top-Right Cell:**
+*   Input: `qnorm(p = 1-0.995, lower.tail = FALSE)`
+*   Output: `[1] 2.575829`
+
+**Bottom-Left Cell:**
+*   Input: `qnorm(p = (1-0.995)/2, lower.tail = FALSE)`
+*   Output: `[1] 2.807034`
+
+**Bottom-Right Cell:**
+*   Input: `qnorm(p = 0.001, lower.tail = FALSE)`
+*   Output: `[1] 3.090232`

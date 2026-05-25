@@ -1,0 +1,168 @@
+{
+  "id": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate $\\int_{0}^{1}\\int_{\\sqrt{y}}^{1}ye^{x^{5}}dx~dy$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "75d2685c-4c15-4c3f-a847-8c7ba1d86a1f",
+        "index": 0,
+        "body": "$\\frac{e}{2}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "3244002b-07aa-4778-ae7f-7a7ea2cb003a",
+        "index": 1,
+        "body": "$\\frac{e}{10}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "32f50eb9-ae45-42e0-93ce-a1e25add7c08",
+        "index": 2,
+        "body": "$\\frac{e}{5}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "55c4468a-9e22-4b69-813e-683be9926002",
+        "index": 3,
+        "body": "$\\frac{e-1}{10}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 584
+        },
+        "resources": []
+      },
+      {
+        "id": "c02e7096-9767-4f30-b023-a0128dc5965d",
+        "index": 4,
+        "body": "$\\frac{e-1}{5}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "9d3624bb-2a20-4e8e-ab41-de1d3c824522",
+        "index": 5,
+        "body": "$\\frac{e-1}{2}$",
+        "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "176956578",
+    "timeSpentVideo": "7774252",
+    "submissions": 794,
+    "submissionsCorrect": 578,
+    "accuracy": 0.7279596977329975,
+    "difficulty": 0.5475391498881432
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "2649a043-cf02-46d0-94b0-52331df0e5a6",
+    "body": null,
+    "questionId": "7dff0f5b-9e12-4c45-aa9b-2dfc2751378f",
+    "resources": [
+      {
+        "id": "a83b9006-9145-43b2-a86f-97b91cb4d1fd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=6132"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2649a043-cf02-46d0-94b0-52331df0e5a6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22356378697",
+        "timeSpentVideo": "976332840",
+        "submissions": 55097,
+        "submissionsCorrect": 37877,
+        "questions": 12,
+        "accuracy": 0.6874602972938636,
+        "difficulty": 0.5628793231516206
+      }
+    },
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17152205794",
+        "timeSpentVideo": "1321597581",
+        "submissions": 41169,
+        "submissionsCorrect": 28885,
+        "questions": 10,
+        "accuracy": 0.7016201510845539,
+        "difficulty": 0.5488684000096925
+      }
+    }
+  ],
+  "children": []
+}

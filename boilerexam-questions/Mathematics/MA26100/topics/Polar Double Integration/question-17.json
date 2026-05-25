@@ -1,0 +1,153 @@
+{
+  "id": "9234b797-5fa1-4e53-b10d-db3358011dad",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area of the region $D=\\{(r,\\theta): 0\\le\\theta\\le2\\pi, 0\\le r\\le3+\\sin\\theta\\}$ in polar coordinates. \n(Hint: $\\sin^{2}\\theta=\\frac{1-\\cos 2\\theta}{2}$).",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "21fc6d5a-6309-4f4b-8c76-5513c6b471f5",
+        "index": 0,
+        "body": "$2\\pi$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "0a8ee271-7b42-41fc-8903-035877c09995",
+        "index": 1,
+        "body": "$6\\pi$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "84924e16-39ee-47ce-93e0-6e7c432c45f2",
+        "index": 2,
+        "body": "$9\\pi/2$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "9256562a-cd59-4370-beb2-6b04ca1e6ea7",
+        "index": 3,
+        "body": "$9\\pi$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "57566aff-b80c-4c4e-b39e-a9f0b6476336",
+        "index": 4,
+        "body": "$19\\pi/2$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 485
+        },
+        "resources": []
+      },
+      {
+        "id": "7ffb94a4-6039-4540-b58a-56aba843f6be",
+        "index": 5,
+        "body": "$3\\pi$",
+        "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "205960475",
+    "timeSpentVideo": "9074774",
+    "submissions": 682,
+    "submissionsCorrect": 485,
+    "accuracy": 0.7111436950146628,
+    "difficulty": 0.5658567774936062
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "efbd30d6-dc9a-49f1-8002-90d4932df47e",
+    "body": null,
+    "questionId": "9234b797-5fa1-4e53-b10d-db3358011dad",
+    "resources": [
+      {
+        "id": "4f02fa40-dfe6-4790-87bd-d3e13d56b958",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=5757"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "efbd30d6-dc9a-49f1-8002-90d4932df47e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c7afd876-bc1d-4731-939b-b51140e472cd",
+      "name": "Polar Double Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22506035480",
+        "timeSpentVideo": "1648092980",
+        "submissions": 57860,
+        "submissionsCorrect": 37183,
+        "questions": 12,
+        "accuracy": 0.6426374006221915,
+        "difficulty": 0.6076086956521739
+      }
+    }
+  ],
+  "children": []
+}

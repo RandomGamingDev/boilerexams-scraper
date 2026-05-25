@@ -1,0 +1,143 @@
+{
+  "id": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In the Taylor series of $f(x) = \\frac{1}{x}$ centered at $a = 2$, the coefficient of  $(x-2)^4$ is",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "719f95c6-ca8b-43d6-93d8-9d95d3bf2c8d",
+        "index": 0,
+        "body": "$\\frac{ 1}{4! }$.",
+        "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "59aca0e4-91ca-4ec0-ad13-e83dfc676f9f",
+        "index": 1,
+        "body": "$\\frac{ 1}{ 2^5}$.",
+        "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+        "stats": {
+          "count": 66
+        },
+        "resources": []
+      },
+      {
+        "id": "e0b8f186-cfc0-44ea-88ab-30921bc4b87d",
+        "index": 2,
+        "body": "$\\frac{ 2^4}{4! }$.",
+        "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "f5194201-407b-48ba-a8ff-1bf0e33cab24",
+        "index": 3,
+        "body": "$\\frac{ 1}{2^4 ( 4!) }$.",
+        "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "1c850ce2-7a34-4055-95ec-2c9901c7ff57",
+        "index": 4,
+        "body": "2.",
+        "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "19616783",
+    "timeSpentVideo": "1812390",
+    "submissions": 135,
+    "submissionsCorrect": 66,
+    "accuracy": 0.4888888888888889,
+    "difficulty": 0.7563829787234042
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "d79f8fb8-10c9-4c4f-aaf0-f8efc36cc791",
+    "body": null,
+    "questionId": "7673a827-e8b7-4855-8e32-d094f2fb6cbe",
+    "resources": [
+      {
+        "id": "a58d8ab6-be0a-44f2-b30c-bd429e18017d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=6842"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d79f8fb8-10c9-4c4f-aaf0-f8efc36cc791",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42f6ba49-6784-446f-9249-82406193f466",
+      "name": "Taylor Polynomial",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "673200937",
+        "timeSpentVideo": "29143386",
+        "submissions": 1181,
+        "submissionsCorrect": 701,
+        "questions": 4,
+        "accuracy": 0.5935647756138865,
+        "difficulty": 0.6637392661982826
+      }
+    }
+  ],
+  "children": []
+}

@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "It is known that one of the solutions of the differential equation \n\n\\[\nx^2 y'' - x y' - 15y = 0 \\quad (x > 0)\n\\]\n\nis $y_1(x)=x^5$. Use the method of reduction of order to find a second linearly independent solution $y_2(x)$. Recall that this method consists of substituting $y_2(x) = v(x)y_1(x)$ into the differential equation above and reducing it to a first order equation for $v'$.",
-    "solution": [],
+    "solution": "$y_2=x^{-3}$",
     "answerChoices": []
   },
   "number": 9,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "204202830",
-    "timeSpentVideo": "62225544",
-    "submissions": 711,
-    "submissionsCorrect": 156,
-    "accuracy": 0.21940928270042195,
-    "difficulty": 0.9959926017262639
+    "timeSpent": "416821481",
+    "timeSpentVideo": "102492662",
+    "submissions": 1337,
+    "submissionsCorrect": 339,
+    "accuracy": 0.25355272999252054,
+    "difficulty": 0.9792971468336813
   },
   "resources": [],
   "exam": {
@@ -39,13 +39,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4577962103",
-      "timeSpentVideo": "320618650",
-      "submissions": 16764,
-      "submissionsCorrect": 9910,
+      "timeSpent": "6722578850",
+      "timeSpentVideo": "581305259",
+      "submissions": 25427,
+      "submissionsCorrect": 14590,
       "questions": 10,
-      "accuracy": 0.5911476974469101,
-      "difficulty": 0.6593927893738141
+      "accuracy": 0.573799504463759,
+      "difficulty": 0.6764895992478552
     }
   },
   "explanation": {
@@ -76,13 +76,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "1745054142",
-        "timeSpentVideo": "181286202",
-        "submissions": 2730,
-        "submissionsCorrect": 1024,
-        "questions": 2,
-        "accuracy": 0.3750915750915751,
-        "difficulty": 0.8704946996466432
+        "timeSpent": "908925575",
+        "timeSpentVideo": "102492662",
+        "submissions": 1337,
+        "submissionsCorrect": 339,
+        "questions": 1,
+        "accuracy": 0.25355272999252054,
+        "difficulty": 0.9792971468336813
       }
     }
   ],

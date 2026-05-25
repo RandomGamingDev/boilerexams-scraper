@@ -1,0 +1,31 @@
+This image represents a tree data structure consisting of nodes with two distinct shapes: circles and triangles (with dashed borders). Each node contains an integer value.
+
+### Structure and Geometry
+The tree is hierarchical, with the root node at the top center. Lines (solid or dashed) connect the nodes, representing parent-child relationships.
+
+**Hierarchy Levels:**
+1.  **Level 0 (Root):** Node containing **10** (Circle).
+2.  **Level 1:** Two nodes, both (Triangles), connected to the root by dashed lines.
+    *   Left: Node **5**.
+    *   Right: Node **20**.
+3.  **Level 2:** Four nodes connected to the Level 1 nodes.
+    *   Under Node 5:
+        *   Left: Node **3** (Circle, connected by a solid line).
+        *   Right: Node **8** (Circle, connected by a solid line).
+    *   Under Node 20:
+        *   Left: Node **15** (Circle, connected by a solid line).
+        *   Right: Node **21** (Circle, connected by a solid line).
+4.  **Level 3:** Two nodes connected to Level 2 nodes.
+    *   Under Node 3:
+        *   Left: Node **1** (Triangle, connected by a dashed line).
+        *   Right: Node **4** (Circle, connected by a solid line).
+    *   Under Node 15:
+        *   Left: Node **12** (Triangle, connected by a dashed line).
+
+### Node Details
+*   **Circular Nodes:** These contain the values 10, 3, 8, 4, 15, 21. They are drawn with a solid border.
+*   **Triangular Nodes:** These contain the values 5, 20, 1, 12. They are drawn with a dashed border.
+
+### Connections (Edges)
+*   **Dashed Lines:** Connect Root (10) to nodes 5 and 20; connect node 3 to node 1; connect node 15 to node 12.
+*   **Solid Lines:** Connect node 5 to 3 and 8; connect node 20 to 15 and 21; connect node 3 to 4.

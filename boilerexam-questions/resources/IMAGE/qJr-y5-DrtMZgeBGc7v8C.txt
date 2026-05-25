@@ -1,0 +1,44 @@
+This is a directed graph consisting of 8 circular nodes, each containing a unique integer label. The nodes are connected by directed edges (arrows).
+
+### 1. Nodes
+The graph contains nodes labeled with the following integers:
+*   **2, 3, 5, 7, 8, 9, 10, 11**
+
+### 2. Spatial Configuration and Connections
+The graph is organized into a roughly planar layout. The connections (arrows) are as follows:
+
+*   **Node 2:**
+    *   Has an incoming edge from Node 9.
+    *   Has an incoming edge from Node 11.
+    *   Has an outgoing edge to Node 7.
+*   **Node 3:**
+    *   Has an outgoing edge to Node 8.
+    *   Has an outgoing edge to Node 10.
+*   **Node 5:**
+    *   Has an outgoing edge to Node 11.
+*   **Node 7:**
+    *   Has an outgoing edge to Node 11.
+    *   Has an outgoing edge to Node 8.
+    *   Has an incoming edge from Node 2.
+*   **Node 8:**
+    *   Has an incoming edge from Node 3.
+    *   Has an incoming edge from Node 7.
+    *   Has an outgoing edge to Node 9.
+*   **Node 9:**
+    *   Has an incoming edge from Node 8.
+    *   Has an incoming edge from Node 11.
+    *   Has an outgoing edge to Node 2.
+*   **Node 10:**
+    *   Has an incoming edge from Node 3.
+    *   Has an incoming edge from Node 11.
+*   **Node 11:**
+    *   Has an incoming edge from Node 7.
+    *   Has an incoming edge from Node 5.
+    *   Has an outgoing edge to Node 2.
+    *   Has an outgoing edge to Node 9.
+    *   Has an outgoing edge to Node 10.
+
+### 3. Summary of Graph Structure
+*   **Total nodes:** 8
+*   **Total edges:** 14 directed edges
+*   **Structure type:** Directed Acyclic Graph (DAG) or Cyclic Graph (contains cycles such as 2 -> 7 -> 11 -> 2 and 2 -> 7 -> 8 -> 9 -> 2).

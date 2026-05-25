@@ -1,59 +1,59 @@
 {
-  "id": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+  "id": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Suppose $\\mathbf{F}(x, y)=P(x, y) \\mathbf{i}+Q(x, y) \\mathbf{j}$ and $\\frac{\\partial Q}{\\partial x}-\\frac{\\partial P}{\\partial y}=2$ for every $(x, y)$ in the plane.\n\nFind $\\oint_{C} \\mathbf{F} \\cdot d \\mathbf{r}$, where $C$ is parameterized by $\\mathbf{r}(t)=(3 \\cos t) \\mathbf{i}+(3 \\sin t) \\mathbf{j}, \\quad 0 \\leq t \\leq 2 \\pi$.",
+    "body": "Use Green\u2019s Theorem to evaluate $\\int_{c}{}x^{2}dy$ where $C$ is the boundary of the rectangle of vertices {(0, 0),(2, 0),(2, 3),(0, 3)}, oriented counterclockwise. ",
     "solution": [
-      4
+      2
     ],
     "answerChoices": [
       {
-        "id": "f048e4d8-6037-4a83-b28f-d38413c0a2c4",
+        "id": "86f36653-4e29-47dc-acda-3636064ff5ec",
         "index": 0,
-        "body": "$2 \\pi$",
-        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "body": "$4$",
+        "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
         "stats": {
-          "count": 41
+          "count": 83
         },
         "resources": []
       },
       {
-        "id": "ee8832c8-89f6-43f1-a568-21c196aeb16a",
+        "id": "f6f47e03-6c16-4233-9b55-937357db7773",
         "index": 1,
-        "body": "$6 \\pi$",
-        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "body": "$8$",
+        "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
         "stats": {
-          "count": 131
+          "count": 224
         },
         "resources": []
       },
       {
-        "id": "a42319c1-010a-4359-a37d-32806f5e1834",
+        "id": "9cc7c918-0714-4de1-9fe1-14035df12ca4",
         "index": 2,
-        "body": "$9 \\pi$",
-        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "body": "$12$",
+        "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
         "stats": {
-          "count": 58
+          "count": 4274
         },
         "resources": []
       },
       {
-        "id": "7f5c835d-e8ed-4ef1-adee-e2f0f6764f88",
+        "id": "b7a4396e-a23e-42c8-ba0d-57ac021051d0",
         "index": 3,
-        "body": "$12 \\pi$",
-        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "body": "$16$",
+        "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
         "stats": {
-          "count": 434
+          "count": 96
         },
         "resources": []
       },
       {
-        "id": "7a5651e1-09c6-44d2-a491-c3e4413f7332",
+        "id": "e848143a-d63c-4c3f-a33c-09874f4986d1",
         "index": 4,
-        "body": "$18 \\pi$",
-        "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+        "body": "$24$",
+        "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
         "stats": {
-          "count": 1793
+          "count": 40
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 13,
   "disclaimer": "",
-  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "examId": "5e299c40-a35e-4d50-b80c-a494128da1cc",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "495323520",
-    "timeSpentVideo": "121617633",
-    "submissions": 3087,
-    "submissionsCorrect": 1793,
-    "accuracy": 0.5808228053126012,
-    "difficulty": 0.6717132099152808
+    "timeSpent": "840463271",
+    "timeSpentVideo": "141945874",
+    "submissions": 5752,
+    "submissionsCorrect": 4274,
+    "accuracy": 0.7430458970792768,
+    "difficulty": 0.5111073137388927
   },
   "resources": [],
   "exam": {
-    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+    "id": "5e299c40-a35e-4d50-b80c-a494128da1cc",
     "number": 0,
-    "year": 2017,
-    "season": "FALL",
+    "year": 2018,
+    "season": "SPRING",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12970869277",
-      "timeSpentVideo": "3013699290",
-      "submissions": 61009,
-      "submissionsCorrect": 28238,
+      "timeSpent": "24519596994",
+      "timeSpentVideo": "4528132436",
+      "submissions": 105150,
+      "submissionsCorrect": 57451,
       "questions": 20,
-      "accuracy": 0.4628497434804701,
-      "difficulty": 0.7870894630905432
+      "accuracy": 0.5463718497384689,
+      "difficulty": 0.7036722090261283
     }
   },
   "explanation": {
-    "id": "6ed9f236-187b-4b16-bfdf-d0dc12ecc621",
+    "id": "18122434-cc80-48f3-a8be-1506563d0386",
     "body": "",
-    "questionId": "5d67cc5f-5295-4c9c-9c77-0af5f4cc4f81",
+    "questionId": "f307c0ed-004c-446e-a03f-d4118d4ca74d",
     "resources": [
       {
-        "id": "7e4bb436-6059-4cad-bc3d-08bc0b730c4f",
+        "id": "d665bc60-e0fa-41a1-8c5d-3a73ca7f25be",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/snzGJb-fM6o?si=Cdui_FyiSkQG5_Zl&t=1942\r"
+          "url": "https://youtu.be/cx7-8A4tomU?si=vcLgGmZasLiG12Hs&t=2001\r"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "6ed9f236-187b-4b16-bfdf-d0dc12ecc621",
+        "explanationId": "18122434-cc80-48f3-a8be-1506563d0386",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "18858197906",
-        "timeSpentVideo": "1776677794",
-        "submissions": 39567,
-        "submissionsCorrect": 21983,
-        "questions": 7,
-        "accuracy": 0.5555892536709884,
-        "difficulty": 0.6945508861270073
+        "timeSpent": "28069500696",
+        "timeSpentVideo": "2120659051",
+        "submissions": 55714,
+        "submissionsCorrect": 31401,
+        "questions": 8,
+        "accuracy": 0.5636105826183724,
+        "difficulty": 0.6865033862471781
       }
     }
   ],

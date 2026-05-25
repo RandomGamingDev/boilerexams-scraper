@@ -13,7 +13,7 @@
         "body": "<font style=\"font-family:'Courier New'\"> year % 4 != 0 && year % 100 == 0 || year % 400 != 0</font>",
         "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
         "stats": {
-          "count": 303
+          "count": 386
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "<font style=\"font-family:'Courier New'\">year % 4 == 0 && year % 100 != 0 || year % 400 == 0</font>",
         "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
         "stats": {
-          "count": 4960
+          "count": 6273
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "<font style=\"font-family:'Courier New'\">year % 4 == 0 && (year % 100 != 0 || year % 400 != 0)</font>",
         "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
         "stats": {
-          "count": 666
+          "count": 790
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "85058fc7-6b04-49d8-ac12-df53d3d3ca96",
         "stats": {
-          "count": 353
+          "count": 402
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "705630817",
+    "timeSpent": "985796567",
     "timeSpentVideo": "0",
-    "submissions": 6312,
-    "submissionsCorrect": 4960,
-    "accuracy": 0.7858048162230672,
-    "difficulty": 0.46865252651278855
+    "submissions": 7890,
+    "submissionsCorrect": 6273,
+    "accuracy": 0.7950570342205323,
+    "difficulty": 0.4586357947434293
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12302600843",
+      "timeSpent": "17446189287",
       "timeSpentVideo": "0",
-      "submissions": 145484,
-      "submissionsCorrect": 100324,
+      "submissions": 188102,
+      "submissionsCorrect": 130253,
       "questions": 33,
-      "accuracy": 0.6895878584586621,
-      "difficulty": 0.5605423672931091
+      "accuracy": 0.6924594103199329,
+      "difficulty": 0.5576428518294173
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "37307217150",
-        "timeSpentVideo": "598804226",
-        "submissions": 131885,
-        "submissionsCorrect": 85902,
+        "timeSpent": "53370726302",
+        "timeSpentVideo": "710479112",
+        "submissions": 175923,
+        "submissionsCorrect": 115675,
         "questions": 39,
-        "accuracy": 0.6513401827349585,
-        "difficulty": 0.5987744819487063
+        "accuracy": 0.6575319884267549,
+        "difficulty": 0.5925575066894667
       }
     }
   ],

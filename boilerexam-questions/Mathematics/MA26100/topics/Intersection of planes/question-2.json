@@ -1,59 +1,59 @@
 {
-  "id": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+  "id": "92b0b416-a28e-4d94-a6d0-00e30c836209",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "The plane passing through the point $(0,1,-1)$ and parallel to the plane $x+y+2 z=3$ intersects the $x$-axis at the point:",
+    "body": "Given two planes $x+y+z=1$ and $x-2 y+2 z=4$. Which equations describe the parametric equations of the line of intersections of those two planes?",
     "solution": [
-      0
+      1
     ],
     "answerChoices": [
       {
-        "id": "a132dbd9-0fdc-469c-a143-d768b977d9af",
+        "id": "2ff4eaa3-a99c-401d-81fb-4f2195da4b32",
         "index": 0,
-        "body": "$(-1,0,0)$",
-        "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+        "body": "$x=2+4 t, y=1-t, z=-3 t$;",
+        "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
         "stats": {
-          "count": 2375
+          "count": 655
         },
         "resources": []
       },
       {
-        "id": "b3074767-01af-4181-bf5e-046645a1f6f6",
+        "id": "76816c10-07d1-432d-994e-313acec1fbac",
         "index": 1,
-        "body": "$(1,0,0)$",
-        "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+        "body": "$x=2+4 t, y=-1-t, z=-3 t$;",
+        "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
         "stats": {
-          "count": 226
+          "count": 5743
         },
         "resources": []
       },
       {
-        "id": "53a06e4e-72ad-4898-a432-ed853fe48a7b",
+        "id": "382e3187-6ebb-4fed-b9c2-bd776cd69979",
         "index": 2,
-        "body": "$(-3,0,0)$",
-        "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+        "body": "$x=2+t, y=-1-t, z=-2 t$;",
+        "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
         "stats": {
-          "count": 119
+          "count": 134
         },
         "resources": []
       },
       {
-        "id": "187c67c3-c430-4540-81a0-14fcdcc69cf8",
+        "id": "8bb79509-b7ca-434d-ab92-ff60be1fd733",
         "index": 3,
-        "body": "$(3,0,0)$",
-        "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+        "body": "$x=2+3 t, y=-1-t, z=-2 t$;",
+        "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
         "stats": {
-          "count": 478
+          "count": 101
         },
         "resources": []
       },
       {
-        "id": "4ab2d0eb-5270-4e6c-bf32-c43e6eb5e37b",
+        "id": "39450332-08bb-428e-843c-6c8feb339c09",
         "index": 4,
-        "body": "$(2,0,0)$",
-        "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+        "body": "$x=2+4 t, y=2-t, z=-3 t$;",
+        "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
         "stats": {
-          "count": 140
+          "count": 298
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 2,
   "disclaimer": "",
-  "examId": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
+  "examId": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,18 +71,18 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "762377694",
-    "timeSpentVideo": "162454952",
-    "submissions": 4591,
-    "submissionsCorrect": 2375,
-    "accuracy": 0.5173164887824003,
-    "difficulty": 0.733052654018333
+    "timeSpent": "2623785356",
+    "timeSpentVideo": "340449538",
+    "submissions": 10344,
+    "submissionsCorrect": 5742,
+    "accuracy": 0.5551044083526682,
+    "difficulty": 0.6954232094982765
   },
   "resources": [],
   "exam": {
-    "id": "f9eee034-5fd5-4afb-9e87-3c36038d309c",
-    "number": 0,
-    "year": 2017,
+    "id": "c2e7e67a-0ee3-4c5b-92a7-4f7552061833",
+    "number": 1,
+    "year": 2018,
     "season": "FALL",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12970869277",
-      "timeSpentVideo": "3013699290",
-      "submissions": 61009,
-      "submissionsCorrect": 28238,
-      "questions": 20,
-      "accuracy": 0.4628497434804701,
-      "difficulty": 0.7870894630905432
+      "timeSpent": "18525559935",
+      "timeSpentVideo": "2671140391",
+      "submissions": 95195,
+      "submissionsCorrect": 59930,
+      "questions": 12,
+      "accuracy": 0.6295498713167709,
+      "difficulty": 0.6205860748202948
     }
   },
   "explanation": {
-    "id": "5acec2d1-134a-4f8c-a103-1b84bc54bb31",
+    "id": "797c7ec2-4bb7-48eb-9bc7-555877d4dbaa",
     "body": "",
-    "questionId": "bbf861f0-5c39-4be1-8d1c-b1e8d86e12d5",
+    "questionId": "92b0b416-a28e-4d94-a6d0-00e30c836209",
     "resources": [
       {
-        "id": "4657b9a4-6124-44b0-b6e2-dea51a1d5513",
+        "id": "563cab20-4deb-4b50-9e32-1b754729adaf",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/snzGJb-fM6o?si=CsrGoaMoUAphI8Lj&t=131\r"
+          "url": "https://youtu.be/PId1CHqVGmE?t=104"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "5acec2d1-134a-4f8c-a103-1b84bc54bb31",
+        "explanationId": "797c7ec2-4bb7-48eb-9bc7-555877d4dbaa",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "19133007932",
-        "timeSpentVideo": "1496646846",
-        "submissions": 33775,
-        "submissionsCorrect": 18603,
-        "questions": 5,
-        "accuracy": 0.5507920059215397,
-        "difficulty": 0.6993579335793358
+        "timeSpent": "21348780239",
+        "timeSpentVideo": "1516747084",
+        "submissions": 35653,
+        "submissionsCorrect": 20055,
+        "questions": 4,
+        "accuracy": 0.562505259024486,
+        "difficulty": 0.6876695661902498
       }
     }
   ],

@@ -1,0 +1,22 @@
+This is a data table with 4 columns and 5 rows (including the header row).
+
+**Structure:**
+*   **Column 1:** Price ($/Bottle)
+*   **Column 2:** Sandra's Demand (Bottles)
+*   **Column 3:** David's Demand (Bottles)
+*   **Column 4:** Mary's Demand (Bottles)
+
+**Table Content (Row by Row):**
+
+| Price ($/Bottle) | Sandra's Demand (Bottles) | David's Demand (Bottles) | Mary's Demand (Bottles) |
+| :--- | :--- | :--- | :--- |
+| $8 | 2 | [Empty] | 10 |
+| $6 | 14 | 15 | 18 |
+| $4 | [Empty] | 23 | 24 |
+| $2 | 24 | 27 | 28 |
+
+**Notes:**
+*   The table contains two empty cells:
+    1.  David's Demand at $8.
+    2.  Sandra's Demand at $4.
+*   All other cells contain integer values.

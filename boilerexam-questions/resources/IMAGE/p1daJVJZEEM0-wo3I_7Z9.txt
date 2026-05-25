@@ -1,0 +1,43 @@
+This is a structured table of Laplace transform pairs. The table consists of three columns and eight rows (including the header row).
+
+### Column Headers
+*   **Column 1:** $f(t)$
+*   **Column 2:** $F(s)$
+*   **Column 3:** ROC (Region of Convergence)
+
+### Table Content (Row by Row)
+
+**Row 1:**
+*   $f(t)$: $\delta(t)$
+*   $F(s)$: $1$
+*   ROC: $all \ s$
+
+**Row 2:**
+*   $f(t)$: $u(t)$
+*   $F(s)$: $\frac{1}{s}$
+*   ROC: $Re\{s\} > 0$
+
+**Row 3:**
+*   $f(t)$: $tu(t)$
+*   $F(s)$: $\frac{1}{s^2}$
+*   ROC: $Re\{s\} > 0$
+
+**Row 4:**
+*   $f(t)$: $e^{-at}u(t)$
+*   $F(s)$: $\frac{1}{s+a}$
+*   ROC: $Re\{s\} > Re\{a\}$
+
+**Row 5:**
+*   $f(t)$: $te^{-at}u(t)$
+*   $F(s)$: $\frac{1}{(s+a)^2}$
+*   ROC: $Re\{s\} > Re\{a\}$
+
+**Row 6:**
+*   $f(t)$: $\cos(\omega_0 t)u(t)$
+*   $F(s)$: $\frac{s}{s^2 + \omega_0^2}$
+*   ROC: $Re\{s\} > 0$
+
+**Row 7:**
+*   $f(t)$: $\sin(\omega_0 t)u(t)$
+*   $F(s)$: $\frac{\omega_0}{s^2 + \omega_0^2}$
+*   ROC: $Re\{s\} > 0$

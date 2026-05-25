@@ -1,0 +1,158 @@
+{
+  "id": "ac346159-6d95-4958-bc70-509f601b6eac",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $f(x, y, z) = x^4 + y^2 + z^5$ and $g(x, y, z) = x^2 + 3y + 2z$. Suppose $\\vec{\\nabla}f(1, 1, -1)$ is perpendicular to $\\vec{\\nabla}g(a, b, c)$, then",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e7d00669-1872-41be-9684-d9ae09bd847f",
+        "index": 0,
+        "body": "$a = -2$",
+        "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+        "stats": {
+          "count": 633
+        },
+        "resources": []
+      },
+      {
+        "id": "a24b5f98-3891-4bfc-a9ef-dd0eab0763ae",
+        "index": 1,
+        "body": "$a = 1$",
+        "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+        "stats": {
+          "count": 15
+        },
+        "resources": []
+      },
+      {
+        "id": "c78f42e2-2e8f-445f-8141-e6af64ecad65",
+        "index": 2,
+        "body": "$a = 2$",
+        "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "9de76e55-951c-4cab-a7ea-7faaf516dfd8",
+        "index": 3,
+        "body": "$a = \\frac{1}{2}$",
+        "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+        "stats": {
+          "count": 64
+        },
+        "resources": []
+      },
+      {
+        "id": "f86f15ac-4850-4944-842c-f7f7da652cbf",
+        "index": 4,
+        "body": "$a = -1$",
+        "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "216088826",
+    "timeSpentVideo": "10534131",
+    "submissions": 990,
+    "submissionsCorrect": 633,
+    "accuracy": 0.6393939393939394,
+    "difficulty": 0.6233944954128441
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "72494f4a-eede-41bf-8810-f72470ca19a3",
+    "body": "Two vectors are perpendicular if their dot product is zero: $\\vec{\\nabla}f \\cdot \\vec{\\nabla}g = 0$.",
+    "questionId": "ac346159-6d95-4958-bc70-509f601b6eac",
+    "resources": [
+      {
+        "id": "83402fcc-0d34-4409-939f-b342cc784fdc",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=1076"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "72494f4a-eede-41bf-8810-f72470ca19a3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2e05110b-efbd-4404-a0d9-6f7783fe2c17",
+      "name": "Gradient Vector",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23646619636",
+        "timeSpentVideo": "1111209178",
+        "submissions": 53907,
+        "submissionsCorrect": 32044,
+        "questions": 8,
+        "accuracy": 0.594431149943421,
+        "difficulty": 0.6557436998907549
+      }
+    },
+    {
+      "id": "cbf2c4e6-6556-4165-9c2d-e66d1f30a735",
+      "name": "Orthogonality",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "428031824",
+        "timeSpentVideo": "10534131",
+        "submissions": 990,
+        "submissionsCorrect": 633,
+        "questions": 1,
+        "accuracy": 0.6393939393939394,
+        "difficulty": 0.6233944954128441
+      }
+    }
+  ],
+  "children": []
+}

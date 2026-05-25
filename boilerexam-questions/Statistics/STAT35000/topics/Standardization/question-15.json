@@ -1,0 +1,468 @@
+{
+  "id": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+  "type": "PARENT",
+  "data": {
+    "body": "In Computer Assignment #5b you explored the relationship of <b>Type I ($\\alpha$)</b> and <b>Type II error ($\\beta$)</b>, <b>Power ($1 - \\beta$)</b>, <b>sample size ($n$)</b>, the <b>standard deviation ($\\sigma$)</b>, and the choice of an alternative mean value ($\\mu_a$) for a one-sample test of the population mean. You were asked to explore graphically what value of the sample size was required for the Type II error to be equivalent to the specified significance level (<b>Type I error</b>) for a given alternative $\\mu_a$. Suppose we want to test the following hypothesis:\n\n$H_0$: $\\mu \\geq 76$\n$H_a$: $\\mu < 76$\n\nWe will sample from a population that is known to be normally distributed with a standard deviation of $\\sigma = 16$. We will require control of the <b>Type I error</b> at a level $\\alpha = 0.02$ and require the <b>Type II error</b> to also be $\\beta = 0.02$ for an alternative of $\\mu_a = 60$. Determine the sample size required to ensure that the <b>Type I error</b> and <b>Type II</b> error probabilities are equal ($\\alpha = \\beta$).",
+    "numberingType": "LOWERCASE",
+    "answerChoices": []
+  },
+  "number": 15,
+  "disclaimer": "",
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "11320004",
+    "timeSpentVideo": "4403247",
+    "submissions": 68,
+    "submissionsCorrect": 6,
+    "accuracy": 0.08823529411764706,
+    "difficulty": 0.9166666666666667
+  },
+  "resources": [
+    {
+      "id": "447538cc-d72e-4ae6-af74-92679422da1b",
+      "type": "IMAGE",
+      "data": {
+        "key": "HhvS0VQwIkkjAggKm5BFf",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/HhvS0VQwIkkjAggKm5BFf",
+        "altText": "Bell Curve "
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "713748950",
+      "timeSpentVideo": "190935944",
+      "submissions": 6759,
+      "submissionsCorrect": 3746,
+      "questions": 38,
+      "accuracy": 0.554223997632786,
+      "difficulty": 0.6965665548913836
+    }
+  },
+  "explanation": {
+    "id": "dbb05817-7466-45e9-9fd8-2e5d2d52f5be",
+    "body": "",
+    "questionId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+    "resources": [
+      {
+        "id": "1b0ac0c9-9abb-468b-9bda-1e2074c60a6d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/rRDuaKnGF94?t=2671"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "dbb05817-7466-45e9-9fd8-2e5d2d52f5be",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b1ec03e5-397d-44fb-bc91-2d5058569578",
+      "name": "Standardization",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "264951333",
+        "timeSpentVideo": "17510404",
+        "submissions": 686,
+        "submissionsCorrect": 399,
+        "questions": 2,
+        "accuracy": 0.5816326530612245,
+        "difficulty": 0.6787531806615776
+      }
+    },
+    {
+      "id": "ef91314c-bb73-4b81-ace2-5cd8edb663ca",
+      "name": "Error Types",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "174270525",
+        "timeSpentVideo": "7362493",
+        "submissions": 390,
+        "submissionsCorrect": 197,
+        "questions": 2,
+        "accuracy": 0.5051282051282051,
+        "difficulty": 0.7459183673469387
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "adcf6806-6fd4-4f25-8e37-914ef0cc3fb9",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Select the correct code and output for determining the $z$ critical value (quantile) that forms the rejection region boundary of the standardized distribution.",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "791464f9-29b7-4642-8ed5-3475a589c8d7",
+            "index": 0,
+            "body": "",
+            "questionId": "adcf6806-6fd4-4f25-8e37-914ef0cc3fb9",
+            "stats": {
+              "count": 0
+            },
+            "resources": [
+              {
+                "id": "b14af5e7-f839-496d-bb6c-6beba305c087",
+                "type": "CODE",
+                "data": {
+                  "content": "> z <- qnorm(alpha, lower.tail = FALSE)\n> z\n[1] 2.05374",
+                  "language": "TEXT"
+                },
+                "courseId": null,
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": "791464f9-29b7-4642-8ed5-3475a589c8d7",
+                "customExamId": null
+              }
+            ]
+          },
+          {
+            "id": "bca435d8-7a62-4b63-9f40-fed20b1c2b76",
+            "index": 1,
+            "body": "",
+            "questionId": "adcf6806-6fd4-4f25-8e37-914ef0cc3fb9",
+            "stats": {
+              "count": 0
+            },
+            "resources": [
+              {
+                "id": "00e613ee-76f6-4fb4-b19b-50b7149eeca1",
+                "type": "CODE",
+                "data": {
+                  "content": "> z <- qnorm(0.02/2, lower.tail = FALSE)\n> z\n[1] 2.326348",
+                  "language": "TEXT"
+                },
+                "courseId": null,
+                "examId": null,
+                "questionId": null,
+                "explanationId": null,
+                "applicationId": null,
+                "answerChoiceId": "bca435d8-7a62-4b63-9f40-fed20b1c2b76",
+                "customExamId": null
+              }
+            ]
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "f78c3e08-1209-448f-b5cf-fa391e02e2cd",
+        "body": null,
+        "questionId": "adcf6806-6fd4-4f25-8e37-914ef0cc3fb9",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "3ac4e302-fd52-48e4-b107-feb9b54b2f4a",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Determine a formula for $\\bar{x}_{\\text{cutoff}}$ with respect to the null value $\\mu_{0}$.",
+        "solution": "$\\bar{x}_{\\text{cutoff}} =-2.05374 * \\frac{16}{\\sqrt{n}}+76$",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "8ae7a9cd-c8cf-4116-a706-032a1684b805",
+        "body": null,
+        "questionId": "3ac4e302-fd52-48e4-b107-feb9b54b2f4a",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "b05e48b7-5bb8-4de7-aba9-22346da5376b",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Determine a formula for the probability of Type II error using $\\bar{x}_{\\text{cutoff}}$ in the probability statement.",
+        "solution": "$P(\\bar{X}>\\bar{x}_{\\text{cutoff}}|\\mu=\\mu_\\alpha)=0.02$",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "40d83e85-e948-48e5-a19f-80980b468ef1",
+        "body": null,
+        "questionId": "b05e48b7-5bb8-4de7-aba9-22346da5376b",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "b468b4eb-f9c1-4604-b366-eefc536f2b91",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Standardize $\\bar{x}_{\\text{cutoff}}$ with respect to the alternative and equate the value to appropriate $z$ critical value (quantile).\n<i>Hint: think about the standardized graphs.</i>",
+        "solution": "$\\frac{\\bar{x}_{\\text{cutoff}}-\\mu_\\alpha}{\\sigma/\\sqrt{n}}=2.05374$",
+        "answerChoices": []
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "f0999db7-39a7-4567-9356-a7073aa206b6",
+        "body": null,
+        "questionId": "b468b4eb-f9c1-4604-b366-eefc536f2b91",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "e523f721-8e4d-41cc-86b9-ce66244a90d0",
+      "type": "SHORT_ANSWER",
+      "data": {
+        "body": "Solve your equation for the sample size and obtain the minimal sample size required to ensure that the <b>Type I error</b> and <b>Type I error</b> probabilities are equal ($\\alpha=\\beta$) for the given alternative of $\\mu_\\alpha=60$.",
+        "solution": "17",
+        "answerChoices": []
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "c297bfe4-8e34-4b0b-8a13-edbfa8da196a",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "2f4a2b75-122f-49cf-bd13-c22fe4cc5ce3",
+        "body": null,
+        "questionId": "e523f721-8e4d-41cc-86b9-ce66244a90d0",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+This image represents a 3D coordinate system containing a solid region bounded by coordinate planes and a surface.
+
+### 1. Coordinate System
+*   A standard 3D Cartesian coordinate system is shown with three axes meeting at the origin (0,0,0).
+*   **Axes:**
+    *   Vertical axis labeled **$z$**, pointing upwards.
+    *   Horizontal axis labeled **$x$**, pointing towards the bottom-left.
+    *   Horizontal axis labeled **$y$**, pointing towards the bottom-right.
+*   The segments of the axes hidden by the solid are rendered with dashed lines.
+
+### 2. Geometry and Surfaces
+*   **Bounding Planes:** The solid region is bounded by the $xy$-plane, the $xz$-plane, and the $yz$-plane (i.e., $x \ge 0$, $y \ge 0$, $z \ge 0$).
+*   **Surface:** The solid is enclosed by a curved surface in the first octant.
+*   **Label:** A thin line points from the text **$x^2 + z + y = 9$** to the curved surface.
+*   **Surface Texture:** The surface features subtle, light-grey horizontal contour lines to indicate curvature.
+*   **Boundary Traces:**
+    *   The intersection of the surface with the $xz$-plane follows a downward-opening parabolic arc starting from a point on the $z$-axis down to the $x$-axis.
+    *   The intersection of the surface with the $yz$-plane follows a downward-opening parabolic arc starting from a point on the $z$-axis down to the $y$-axis.
+    *   The base of the solid in the $xy$-plane is bounded by a curved arc connecting the $x$-axis and the $y$-axis.
+    *   The top vertex of the solid lies on the $z$-axis.

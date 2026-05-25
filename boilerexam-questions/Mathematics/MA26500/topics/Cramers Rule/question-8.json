@@ -1,59 +1,59 @@
 {
-  "id": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+  "id": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Let $3 a-2 b=3$ and $2 b-c=4$. Find the value $x$ determined by the linear system\n\n\n\\[\n\\left[\\begin{array}{ll}\na & b \\\\\n2 & 3\n\\end{array}\\right]\\left[\\begin{array}{l}\nx \\\\\ny\n\\end{array}\\right]=\\left[\\begin{array}{l}\nc \\\\\n6\n\\end{array}\\right] .\n\\]",
+    "body": "Let $A=\\left[\\begin{array}{ccc}1 & 0 & 1 \\\\ 1 & 0 & 2 \\\\ -1 & 3 & 1\\end{array}\\right]$ and $B=A^{-1}$. Find $b_{12}$, the $(1,2)$-entry of $B$.",
     "solution": [
-      0
+      3
     ],
     "answerChoices": [
       {
-        "id": "70ef7259-2180-4033-ae8b-0991eabedfc2",
+        "id": "9b1e1855-e109-443b-b1d7-7621b2e9ba15",
         "index": 0,
-        "body": "$x=-4$",
-        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "body": "$0$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
         "stats": {
-          "count": 780
+          "count": 300
         },
         "resources": []
       },
       {
-        "id": "066d5b56-86e1-4de1-a328-61903037d8a3",
+        "id": "a0f47096-17e5-40ed-a269-1a9a3cf90886",
         "index": 1,
-        "body": "$x=2$",
-        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "body": "$2$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
         "stats": {
-          "count": 42
+          "count": 85
         },
         "resources": []
       },
       {
-        "id": "da897c95-be69-46bb-a6a3-749ef94ffa5d",
+        "id": "81a000b5-09d3-4b16-b613-4b4b05c7a5c0",
         "index": 2,
-        "body": "$x=3$",
-        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "body": "$-2$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
         "stats": {
-          "count": 53
+          "count": 115
         },
         "resources": []
       },
       {
-        "id": "923db36b-6e7a-4716-94a0-779e69bd1c1a",
+        "id": "5055788e-2e30-49d3-9f70-005c4bf0c1d7",
         "index": 3,
-        "body": "$x=4$",
-        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "body": "$-1$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
         "stats": {
-          "count": 109
+          "count": 3101
         },
         "resources": []
       },
       {
-        "id": "51050a0a-ccb7-4c85-a7b2-fda8d8cb752c",
+        "id": "e5274b10-4d36-4a8d-9dfb-3fcb7ee1a350",
         "index": 4,
-        "body": "$x=6$",
-        "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+        "body": "$1$",
+        "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
         "stats": {
-          "count": 24
+          "count": 966
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 8,
   "disclaimer": "",
-  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "examId": "8b1c6ad6-f255-4709-8d79-77416b059366",
   "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "471213219",
-    "timeSpentVideo": "52375606",
-    "submissions": 1673,
-    "submissionsCorrect": 780,
-    "accuracy": 0.46622833233711897,
-    "difficulty": 0.7818668922729837
+    "timeSpent": "969674839",
+    "timeSpentVideo": "105397710",
+    "submissions": 5481,
+    "submissionsCorrect": 3101,
+    "accuracy": 0.565772669220945,
+    "difficulty": 0.6854058412470884
   },
   "resources": [],
   "exam": {
-    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "id": "8b1c6ad6-f255-4709-8d79-77416b059366",
     "number": 0,
-    "year": 2018,
-    "season": "SPRING",
+    "year": 2022,
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "5616732096",
-      "timeSpentVideo": "1076104380",
-      "submissions": 33390,
-      "submissionsCorrect": 19864,
-      "questions": 20,
-      "accuracy": 0.5949086552860138,
-      "difficulty": 0.6553747387279785
+      "timeSpent": "19443736192",
+      "timeSpentVideo": "3842487418",
+      "submissions": 102800,
+      "submissionsCorrect": 58178,
+      "questions": 25,
+      "accuracy": 0.5659338521400779,
+      "difficulty": 0.6841302235179786
     }
   },
   "explanation": {
-    "id": "829f3967-20f5-453d-8082-68048cb8a222",
+    "id": "464fe77e-75d2-4619-952a-f1f6d845ced9",
     "body": "",
-    "questionId": "2f0ca5a5-f871-40e8-89a1-2da8b288a73e",
+    "questionId": "1fdd041f-5aaf-46de-9579-7b70457ecc7b",
     "resources": [
       {
-        "id": "10f7585a-04ae-4dfe-ba11-4851adae1d8a",
+        "id": "9f66cd53-ff24-49a0-801f-4c89eda87c26",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/1qA9exO23-k?t=1003\r"
+          "url": "https://youtu.be/l5K1zQGY3uk?t=2495\r"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "829f3967-20f5-453d-8082-68048cb8a222",
+        "explanationId": "464fe77e-75d2-4619-952a-f1f6d845ced9",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -124,33 +124,33 @@
   },
   "topics": [
     {
+      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
+      "name": "Inverses",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28198233531",
+        "timeSpentVideo": "2210612164",
+        "submissions": 56454,
+        "submissionsCorrect": 31222,
+        "questions": 15,
+        "accuracy": 0.5530520423707798,
+        "difficulty": 0.6970417653923684
+      }
+    },
+    {
       "id": "c7d3bdb4-2317-449d-bec3-6f564b949d37",
       "name": "Cramers Rule",
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "7623579856",
-        "timeSpentVideo": "637254578",
-        "submissions": 19285,
-        "submissionsCorrect": 10361,
-        "questions": 7,
-        "accuracy": 0.5372569354420534,
-        "difficulty": 0.7129352592210472
-      }
-    },
-    {
-      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
-      "name": "Row Reduction",
-      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
-      "stats": {
-        "count": 1,
-        "timeSpent": "28558859256",
-        "timeSpentVideo": "3354217774",
-        "submissions": 58602,
-        "submissionsCorrect": 34041,
-        "questions": 24,
-        "accuracy": 0.5808846114467083,
-        "difficulty": 0.6692531770638138
+        "timeSpent": "9868408680",
+        "timeSpentVideo": "647859470",
+        "submissions": 23019,
+        "submissionsCorrect": 12752,
+        "questions": 5,
+        "accuracy": 0.5539771493114384,
+        "difficulty": 0.696256325965656
       }
     }
   ],

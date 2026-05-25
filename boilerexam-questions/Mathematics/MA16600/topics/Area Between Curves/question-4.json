@@ -1,0 +1,158 @@
+{
+  "id": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area between the curves defined by the polar equations\n$r=e^{\\frac{\\theta}{2}}$ & $r=1$, $0 \\leq \\theta \\leq 1$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "69c246ec-1865-45d8-ad3a-00e655ae516f",
+        "index": 0,
+        "body": "$\\frac{e - 2}{2}$",
+        "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+        "stats": {
+          "count": 78
+        },
+        "resources": []
+      },
+      {
+        "id": "5f26f580-7180-4614-a8f9-401d1ea07dce",
+        "index": 1,
+        "body": "$e-2$",
+        "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "984a5857-5d1f-4bef-80d1-2ee9ba5f112e",
+        "index": 2,
+        "body": "$\\frac{2 - e}{2}$",
+        "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "451fdcd2-198f-412e-b755-90895406fb80",
+        "index": 3,
+        "body": "$e^{1/2} + \\frac{1}{2}$",
+        "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "c681b2cf-ce43-41e6-8b7a-b0fd826ecb89",
+        "index": 4,
+        "body": "$e-1$",
+        "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "21532086",
+    "timeSpentVideo": "2140715",
+    "submissions": 120,
+    "submissionsCorrect": 78,
+    "accuracy": 0.65,
+    "difficulty": 0.6681818181818182
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "0781068b-42fe-4b38-8c42-58e04ab82e24",
+    "body": null,
+    "questionId": "1141c3b4-1bfb-4bb3-bb7b-e7e08eba7092",
+    "resources": [
+      {
+        "id": "882d5786-b3f6-4fd1-8799-ec0fe47758ec",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/8DkSZWW--1A?si=dSlM5mKY_9Gc5nqK&t=1059"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0781068b-42fe-4b38-8c42-58e04ab82e24",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "60c5d08c-2196-4fa8-beaa-1c56f4cc59fc",
+      "name": "Area Between Curves",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "659790126",
+        "timeSpentVideo": "36015429",
+        "submissions": 1187,
+        "submissionsCorrect": 621,
+        "questions": 7,
+        "accuracy": 0.523167649536647,
+        "difficulty": 0.7286324786324786
+      }
+    },
+    {
+      "id": "d69e38cc-8039-4eb0-a9b8-4fb8e10c1fdf",
+      "name": "Polar Coordinates",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "954703113",
+        "timeSpentVideo": "55144238",
+        "submissions": 1305,
+        "submissionsCorrect": 717,
+        "questions": 7,
+        "accuracy": 0.5494252873563218,
+        "difficulty": 0.7040925266903915
+      }
+    }
+  ],
+  "children": []
+}

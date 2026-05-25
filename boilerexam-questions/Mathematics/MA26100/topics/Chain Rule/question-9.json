@@ -1,59 +1,59 @@
 {
-  "id": "7f84f900-be75-4866-9053-41dbe2ef4777",
+  "id": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Let $z=e^{r} \\cos \\theta, r=12 s t, \\theta=\\sqrt{s^{2}+t^{2}}$. The partial derivative $\\frac{\\partial z}{\\partial s}$ is:",
+    "body": "Let \\(f(x, y, z)\\) be a function which is differentiable at \\((1, 1, 1)\\) and \\(\\frac{\\partial f}{\\partial x}(1, 1, 1) = -6\\), \\(\\frac{\\partial f}{\\partial y}(1, 1, 1) = 2\\), and \\(\\frac{\\partial f}{\\partial z}(1, 1, 1) = -1\\).\n\nLet \\(\\boldsymbol{\\gamma}(t) = \\langle x(t), y(t), z(t) \\rangle\\) be the parametric equation of a differentiable curve in \\(\\mathbb{R}^3\\), and suppose \\(\\boldsymbol{\\gamma}(0) = \\langle 1, 1, 1 \\rangle\\) and \\(\\frac{d\\boldsymbol{\\gamma}}{dt}(0) = 3\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}\\).\n\nWe can conclude that \\(\\frac{d}{dt}f(\\boldsymbol{\\gamma}(t))\\) at \\(t = 0\\) is equal to\n",
     "solution": [
       0
     ],
     "answerChoices": [
       {
-        "id": "4933935f-7577-4d99-8d8b-a206eaead4ce",
+        "id": "9ad6dd65-0a90-4869-b2ee-1b24b17275ff",
         "index": 0,
-        "body": "$e^{r}\\left(12 t \\cos \\theta-\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
-        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "body": "$-25$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
         "stats": {
-          "count": 2997
+          "count": 4257
         },
         "resources": []
       },
       {
-        "id": "0f30ed5e-1dcc-4e23-84f5-5096d1b9c273",
+        "id": "43b6edc4-28c0-49fa-aec0-d6e3f85ae4ca",
         "index": 1,
-        "body": "$e^{r}\\left(t \\cos \\theta-\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
-        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "body": "$-14$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
         "stats": {
-          "count": 98
+          "count": 134
         },
         "resources": []
       },
       {
-        "id": "efb9ad7f-bacc-47a4-912f-b96de1b9ac5e",
+        "id": "429dca4d-d8b5-46d2-9de6-a2891e7dc699",
         "index": 2,
-        "body": "$e^{r}\\left(12 t \\cos \\theta+\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
-        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "body": "$-13$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
         "stats": {
-          "count": 390
+          "count": 195
         },
         "resources": []
       },
       {
-        "id": "5fef0d3d-054f-4685-946a-c533cf4aef93",
+        "id": "8136bea0-8c93-4e46-9360-655f548c1862",
         "index": 3,
-        "body": "$e^{r}\\left(t \\cos \\theta+\\frac{s \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}\\right)$",
-        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "body": "$-11$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
         "stats": {
-          "count": 29
+          "count": 115
         },
         "resources": []
       },
       {
-        "id": "732c6e7a-9572-4fc6-bd2a-ce39975dadb3",
+        "id": "0871f2e5-01c7-4bf1-871f-ad701cf364e4",
         "index": 4,
-        "body": "$12 t \\cos \\theta-\\frac{s e^{r} \\sin \\theta}{\\sqrt{s^{2}+t^{2}}}$",
-        "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+        "body": "$-4$",
+        "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
         "stats": {
-          "count": 50
+          "count": 107
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 9,
   "disclaimer": "",
-  "examId": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+  "examId": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,18 +71,18 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "1094314489",
-    "timeSpentVideo": "42724077",
-    "submissions": 4213,
-    "submissionsCorrect": 2996,
-    "accuracy": 0.7111322098267268,
-    "difficulty": 0.5437630419661489
+    "timeSpent": "1735771111",
+    "timeSpentVideo": "242749985",
+    "submissions": 6468,
+    "submissionsCorrect": 4257,
+    "accuracy": 0.6581632653061225,
+    "difficulty": 0.5942448233861145
   },
   "resources": [],
   "exam": {
-    "id": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+    "id": "53ed878f-49d2-4eac-908c-287fd4bdc8a1",
     "number": 1,
-    "year": 2019,
+    "year": 2018,
     "season": "SPRING",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12089540840",
-      "timeSpentVideo": "1355376322",
-      "submissions": 54414,
-      "submissionsCorrect": 32901,
-      "questions": 11,
-      "accuracy": 0.6046421876722902,
-      "difficulty": 0.6455497670323219
+      "timeSpent": "16266469034",
+      "timeSpentVideo": "2317686130",
+      "submissions": 77952,
+      "submissionsCorrect": 48153,
+      "questions": 12,
+      "accuracy": 0.6177262931034483,
+      "difficulty": 0.6324245374878287
     }
   },
   "explanation": {
-    "id": "2bec416f-8bd6-42f7-8cd7-b52cbc3f75c1",
+    "id": "3a11f348-372a-4518-bf57-94a708aeac1d",
     "body": "",
-    "questionId": "7f84f900-be75-4866-9053-41dbe2ef4777",
+    "questionId": "e9cc9865-5519-4acd-82b8-e7919e05f8b8",
     "resources": [
       {
-        "id": "c8b6b1fc-cbf6-4731-972b-98e1856db43d",
+        "id": "aea809e5-f560-4536-b8ff-87efdf665dd9",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/TA9-ezOW78k?feature=shared&t=1286"
+          "url": "https://youtu.be/QLbA7GKKkPs?t=894"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "2bec416f-8bd6-42f7-8cd7-b52cbc3f75c1",
+        "explanationId": "3a11f348-372a-4518-bf57-94a708aeac1d",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "23057812481",
-        "timeSpentVideo": "1389899846",
-        "submissions": 43932,
-        "submissionsCorrect": 25501,
+        "timeSpent": "26608077856",
+        "timeSpentVideo": "1604035746",
+        "submissions": 51078,
+        "submissionsCorrect": 29401,
         "questions": 8,
-        "accuracy": 0.5804652644996813,
-        "difficulty": 0.6697174781976745
+        "accuracy": 0.5756098515995145,
+        "difficulty": 0.6745378873734807
       }
     }
   ],

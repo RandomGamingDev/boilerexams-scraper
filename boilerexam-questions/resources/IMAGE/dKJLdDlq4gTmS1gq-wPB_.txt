@@ -1,0 +1,26 @@
+The image contains three plots depicting rectangular pulses and their convolution.
+
+### 1. Top-Left Plot: $f(t)$
+*   **Axes:** The vertical axis ranges from 0 to 1, with a labeled tick at 0.5. The horizontal axis has ticks at -2 and 2.
+*   **Waveform:** A rectangular pulse that is 0 for $t < -2$, rises abruptly to 1 at $t = -2$, remains at 1 for $-2 \le t \le 2$, and drops abruptly to 0 at $t = 2$.
+*   **Legend:** The line is labeled "f(t)".
+
+### 2. Top-Right Plot: $g(t)$
+*   **Axes:** The vertical axis ranges from 0 to 1, with a labeled tick at 0.5. The horizontal axis has ticks at -1 and 1.
+*   **Waveform:** A rectangular pulse that is 0 for $t < -1$, rises abruptly to 1 at $t = -1$, remains at 1 for $-1 \le t \le 1$, and drops abruptly to 0 at $t = 1$.
+*   **Legend:** The line is labeled "g(t)".
+
+### 3. Bottom Plot: $f(t) * g(t)$
+*   **Axes:** The vertical axis has a tick at 0 at the bottom and is labeled 'a' at the peak height. The horizontal axis has two labels, '-b' and 'b', corresponding to the inflection points of the waveform.
+*   **Waveform:** A trapezoidal shape.
+    *   The signal is 0 until it reaches a leftmost point (a value smaller than -b), where it rises linearly.
+    *   It reaches the value 'a' at $t = -b$.
+    *   It remains at value 'a' between $t = -b$ and $t = b$.
+    *   It descends linearly from 'a' starting at $t = b$, reaching 0 at a rightmost point (a value larger than b).
+    *   It remains at 0 thereafter.
+*   **Legend:** The line is labeled "f(t)*g(t)".
+
+### Summary of variables:
+*   **Vertical axes:** Represent amplitude.
+*   **Horizontal axes:** Represent time ($t$).
+*   **Constants:** 'a' represents the maximum amplitude of the resulting convolution, while 'b' and '-b' represent the time coordinates defining the flat top of the trapezoidal result.

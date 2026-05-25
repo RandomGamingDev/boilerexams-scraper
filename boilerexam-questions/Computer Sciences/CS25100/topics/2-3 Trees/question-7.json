@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "Show the state of the 2-3 Tree after each of the following operations:\n\n\ninsert(3), insert(7), insert(2), insert(9), insert(0), insert(11), insert(1), delete(3)",
-    "solution": "See explanation video and below final image. NOTE: The video creator accidentally flipped the positions of the 2 and 1 and corrects himself after a short pause.",
+    "solution": "Two solutions are possible depending on inorder successor or predecessor is replaced. Check video for a broader explanation.",
     "answerChoices": [
       {
         "id": "b9aad275-f15b-4e59-b971-fffd93bec075",
@@ -29,12 +29,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "286954301",
-    "timeSpentVideo": "77156947",
-    "submissions": 1594,
-    "submissionsCorrect": 761,
-    "accuracy": 0.47741530740276034,
-    "difficulty": 0.7712514757969303
+    "timeSpent": "345810699",
+    "timeSpentVideo": "86060061",
+    "submissions": 1792,
+    "submissionsCorrect": 864,
+    "accuracy": 0.48214285714285715,
+    "difficulty": 0.7669133192389006
   },
   "resources": [],
   "exam": {
@@ -50,13 +50,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1949065076",
-      "timeSpentVideo": "322353957",
-      "submissions": 12502,
-      "submissionsCorrect": 8234,
+      "timeSpent": "2182089026",
+      "timeSpentVideo": "351415897",
+      "submissions": 13742,
+      "submissionsCorrect": 9069,
       "questions": 8,
-      "accuracy": 0.6586146216605343,
-      "difficulty": 0.592644024757975
+      "accuracy": 0.6599476058797846,
+      "difficulty": 0.5912079179309349
     }
   },
   "explanation": {
@@ -68,7 +68,7 @@
         "id": "50886282-d520-41aa-a36a-c74b0321d5f1",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/aMC7yAJuKrg?t=1402"
+          "url": "https://www.youtube.com/watch?v=FJIgR5oZ_b4"
         },
         "courseId": null,
         "examId": null,
@@ -79,11 +79,11 @@
         "customExamId": null
       },
       {
-        "id": "5c9a061c-4ee4-4836-9472-d0b82ae0674a",
+        "id": "eebeb822-dd9d-4201-92f4-7d61f1b6ee6c",
         "type": "IMAGE",
         "data": {
-          "key": "7G3nh1VDwal5wcxjNXrDX",
-          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/7G3nh1VDwal5wcxjNXrDX"
+          "key": "SNsAm5I3vIMvRUnuvAuYi",
+          "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/SNsAm5I3vIMvRUnuvAuYi"
         },
         "courseId": null,
         "examId": null,
@@ -102,13 +102,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "4089550628",
-        "timeSpentVideo": "284695423",
-        "submissions": 9840,
-        "submissionsCorrect": 6196,
+        "timeSpent": "5079044852",
+        "timeSpentVideo": "319071298",
+        "submissions": 11462,
+        "submissionsCorrect": 7295,
         "questions": 8,
-        "accuracy": 0.6296747967479674,
-        "difficulty": 0.6216297786720322
+        "accuracy": 0.6364508811725702,
+        "difficulty": 0.6147292855907283
       }
     }
   ],

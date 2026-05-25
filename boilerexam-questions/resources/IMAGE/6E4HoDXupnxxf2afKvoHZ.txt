@@ -1,0 +1,30 @@
+The image is a data table organized into a grid with two rows and twelve columns (one header/label column and eleven data columns).
+
+**Structure:**
+*   The table is divided by vertical dotted lines separating each cell.
+*   The first column contains the row labels "i" (top) and "T" (bottom), separated from the data columns by a thick, solid vertical black line.
+*   The data columns correspond to indices i = 0 through i = 10.
+
+**Row-by-Row Content:**
+
+*   **Row 1 (Label 'i'):** Contains the sequence of integers from 0 to 10 in consecutive cells.
+    *   Columns 2 through 12: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+*   **Row 2 (Label 'T'):** Contains numerical values and the variable 'D' in corresponding columns.
+    *   i=0: 2
+    *   i=1: 12
+    *   i=2: D
+    *   i=3: D
+    *   i=4: 23
+    *   i=5: D
+    *   i=6: 6
+    *   i=7: [Empty Cell]
+    *   i=8: 9
+    *   i=9: D
+    *   i=10: 1
+
+**Summary Table of values:**
+
+| i | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **T** | 2 | 12 | D | D | 23 | D | 6 | | 9 | D | 1 |

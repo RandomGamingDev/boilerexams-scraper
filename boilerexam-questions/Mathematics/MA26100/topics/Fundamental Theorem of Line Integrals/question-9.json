@@ -1,0 +1,158 @@
+{
+  "id": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that $\\vec{F} = \\langle 7 - 4y, 2y - 4x \\rangle$ is conservative and $\\vec{F} = \\vec{\\nabla}\\phi$. Evaluate $\\int_{C} \\vec{\\nabla}\\phi \\cdot d\\vec{r}$, where the curve $C$ is parametrized as $\\vec{r}(t) = \\langle e^t \\sin t, e^t \\cos t \\rangle, 0 \\le t \\le 2\\pi$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "dba2625d-acb0-418c-8715-7f6f4e183955",
+        "index": 0,
+        "body": "$e^{2\\pi} - 1$",
+        "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+        "stats": {
+          "count": 84
+        },
+        "resources": []
+      },
+      {
+        "id": "2a42cd54-0aeb-4e47-b1fd-09e4f7dab4b4",
+        "index": 1,
+        "body": "$-e^{4\\pi} - 1$",
+        "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "8e1883f0-b07b-45ea-9cca-2f682ab33f9c",
+        "index": 2,
+        "body": "$4\\pi^2$",
+        "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "9b7d3c64-494a-4b46-b0ee-b845e17d2e6a",
+        "index": 3,
+        "body": "$-4\\pi^2$",
+        "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "0d495987-7133-42d2-bc5c-8ef5439bb443",
+        "index": 4,
+        "body": "$e^{4\\pi} - 1$",
+        "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+        "stats": {
+          "count": 651
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 9,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "437431694",
+    "timeSpentVideo": "43007376",
+    "submissions": 1167,
+    "submissionsCorrect": 651,
+    "accuracy": 0.5578406169665809,
+    "difficulty": 0.69672454617206
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "1b4a103d-d9b6-4af3-9834-6e0b04fae761",
+    "body": "Since $\\vec{F}$ is a conservative field, you can use the Fundamental Theorem of Line Integrals, which states that the integral depends only on the endpoints of the curve:$$\\int_{C} \\vec{\\nabla}\\phi \\cdot d\\vec{r} = \\phi(\\vec{r}(2\\pi)) - \\phi(\\vec{r}(0))$$",
+    "questionId": "6a8e14fb-7ca1-43d2-9008-09cede0df497",
+    "resources": [
+      {
+        "id": "9aa09a87-020f-4ce0-8638-6f0218cb56b1",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=1228"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1b4a103d-d9b6-4af3-9834-6e0b04fae761",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "363c9b2b-60b7-4918-aaae-c5fa2ea772c0",
+      "name": "Conservative Fields",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2020513679",
+        "timeSpentVideo": "62587947",
+        "submissions": 2398,
+        "submissionsCorrect": 1454,
+        "questions": 2,
+        "accuracy": 0.6063386155129274,
+        "difficulty": 0.6479183346677342
+      }
+    },
+    {
+      "id": "a2ca45c1-a73c-4765-9524-8b38351d3bb0",
+      "name": "Fundamental Theorem of Line Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2020513679",
+        "timeSpentVideo": "62587947",
+        "submissions": 2398,
+        "submissionsCorrect": 1454,
+        "questions": 2,
+        "accuracy": 0.6063386155129274,
+        "difficulty": 0.6479183346677342
+      }
+    }
+  ],
+  "children": []
+}

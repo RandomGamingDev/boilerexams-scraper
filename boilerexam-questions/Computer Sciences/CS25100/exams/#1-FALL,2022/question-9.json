@@ -13,7 +13,7 @@
         "body": "Yes. Placing the three dequeue calls at the very end of the calls will cause $b$ to not move at all.",
         "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
         "stats": {
-          "count": 64
+          "count": 70
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Yes. $f$ will always be at $2$ and $b$ will always be at $0$, no matter the order in which the operations are ran.",
         "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
         "stats": {
-          "count": 36
+          "count": 42
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "No. One enqueue call will always move $b$ forward one space, and one dequeue call will always move $f$ forward one space, so changing the order won't affect the indices.",
         "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
         "stats": {
-          "count": 970
+          "count": 1051
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "No. To have $b$ end at a different spot, a dequeue call would have to be made when the queue is empty, which isn't allowed.",
         "questionId": "21ac8ba8-1b0b-4038-85a1-ea011891d987",
         "stats": {
-          "count": 167
+          "count": 179
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "284699925",
-    "timeSpentVideo": "17667250",
-    "submissions": 1452,
-    "submissionsCorrect": 970,
-    "accuracy": 0.6680440771349863,
-    "difficulty": 0.5927835051546392
+    "timeSpent": "315656622",
+    "timeSpentVideo": "19424165",
+    "submissions": 1572,
+    "submissionsCorrect": 1051,
+    "accuracy": 0.6685750636132316,
+    "difficulty": 0.5915071770334929
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "3642246196",
-      "timeSpentVideo": "361200476",
-      "submissions": 24845,
-      "submissionsCorrect": 16750,
+      "timeSpent": "3861776371",
+      "timeSpentVideo": "386619392",
+      "submissions": 26432,
+      "submissionsCorrect": 17840,
       "questions": 17,
-      "accuracy": 0.6741799154759509,
-      "difficulty": 0.5765183403487673
+      "accuracy": 0.6749394673123487,
+      "difficulty": 0.575719885421378
     }
   },
   "explanation": {
@@ -119,13 +119,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "4100813051",
-        "timeSpentVideo": "47682286",
-        "submissions": 9433,
-        "submissionsCorrect": 6742,
+        "timeSpent": "4453194663",
+        "timeSpentVideo": "50483292",
+        "submissions": 10191,
+        "submissionsCorrect": 7330,
         "questions": 8,
-        "accuracy": 0.7147249019399978,
-        "difficulty": 0.5375275359278296
+        "accuracy": 0.7192620940045138,
+        "difficulty": 0.5328685258964143
       }
     }
   ],

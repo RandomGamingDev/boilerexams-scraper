@@ -1,0 +1,30 @@
+This is an exhaustive description of the provided electrical circuit diagram.
+
+### 1. Circuit Topology
+The circuit is a single-loop-like structure containing three branches connected in parallel to a common bottom rail, forming a circuit with one main loop on the left and one on the right. 
+
+*   **Left Branch:** Contains an independent DC voltage source.
+*   **Middle Branch:** Contains an inductor.
+*   **Right Branch:** Contains a resistor.
+
+### 2. Components and Labels
+*   **Voltage Source:** Located on the far left. It is represented by a circle with a "+" sign at the top and a "-" sign at the bottom. The label "$V_s = 90\text{ V}$" is positioned to the left of the voltage source.
+*   **Resistor 1:** Located in the top horizontal wire, between the voltage source and the middle branch node. It is represented by a standard zig-zag symbol and is labeled "$30\text{ }\Omega$".
+*   **Inductor:** Located in the middle vertical branch. It is represented by a coil symbol and is labeled "$2\text{ H}$".
+*   **Resistor 2:** Located in the far right vertical branch. It is represented by a standard zig-zag symbol and is labeled "$15\text{ }\Omega$".
+
+### 3. Spatial Relationships and Connectivity
+*   **Bottom Rail:** A single horizontal wire runs along the bottom, connecting the negative terminal of the voltage source, the bottom of the inductor, and the bottom of the right-hand resistor.
+*   **Top Rail:** 
+    *   The positive terminal of the voltage source is connected to one side of the $30\text{ }\Omega$ resistor.
+    *   The other side of the $30\text{ }\Omega$ resistor connects to a node where the top of the inductor and the top of the $15\text{ }\Omega$ resistor meet.
+    *   The rightmost wire connects the top node to the top of the $15\text{ }\Omega$ resistor.
+*   **Node Structure:**
+    *   There is a main junction node at the top where the $30\text{ }\Omega$ resistor, the inductor, and the right-hand wire meet.
+    *   There is a main junction node at the bottom where the negative terminal of the voltage source, the inductor, and the $15\text{ }\Omega$ resistor meet.
+
+### 4. Mathematical Notations
+*   "$V_s = 90\text{ V}$"
+*   "$30\text{ }\Omega$"
+*   "$2\text{ H}$"
+*   "$15\text{ }\Omega$"

@@ -1,0 +1,25 @@
+This is a schematic diagram of a series RC electrical circuit.
+
+### 1. Circuit Topology
+*   The circuit is a single-loop series configuration.
+*   **Components included:**
+    *   One independent voltage source labeled $v_{IN}(t)$.
+    *   One resistor with a value of $2\ \Omega$.
+    *   One capacitor with a value of $4\text{ F}$.
+
+### 2. Component Placement and Connections
+*   **Voltage Source ($v_{IN}(t)$):** Positioned on the left branch of the circuit. The positive (+) terminal is on top, and the negative (-) terminal is on the bottom.
+*   **Resistor ($2\ \Omega$):** Positioned on the top wire, connected between the positive terminal of the voltage source and the capacitor.
+*   **Capacitor ($4\text{ F}$):** Positioned on the right vertical branch of the circuit. It is connected in series after the resistor.
+*   **Bottom Rail:** A wire connects the bottom of the capacitor directly back to the negative terminal of the voltage source, completing the loop.
+
+### 3. Text and Labels
+*   **Voltage Source:** Labeled $v_{IN}(t)$ to the left of the circle representing the source.
+*   **Resistor:** Labeled $2\ \Omega$ directly below the resistor symbol.
+*   **Current:** Labeled $i_C(t)$ in blue text above the top-right wire segment, with a blue arrow pointing to the right, indicating current flow entering the capacitor.
+*   **Output Voltage:** Labeled $v_{OUT}(t)$ in blue text to the right of the capacitor.
+*   **Polarity Markers:** Blue "+" sign is placed above the top plate of the capacitor, and a blue "-" sign is placed below the bottom plate, defining the voltage $v_{OUT}(t)$ across the capacitor.
+
+### 4. Mathematical/Physical Notation
+*   The system uses time-dependent variables $v_{IN}(t)$, $v_{OUT}(t)$, and $i_C(t)$.
+*   Component values are provided as constants: $2\ \Omega$ (resistance) and $4\text{ F}$ (capacitance).

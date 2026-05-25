@@ -1,0 +1,153 @@
+{
+  "id": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $\\vec{F}=\\langle \\tan^{-1}(\\frac{x}{y}),\\ln(z-1),y^{2}\\rangle$. Compute $\\nabla\\cdot(\\nabla\\times\\vec{F})$ at $(0,1,2)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4110803c-8b1c-4a60-b949-2361e95152ae",
+        "index": 0,
+        "body": "$(0, 0, 0)$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 58
+        },
+        "resources": []
+      },
+      {
+        "id": "c7c9d93e-e145-4bea-929c-8c722c706d94",
+        "index": 1,
+        "body": "$0$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 879
+        },
+        "resources": []
+      },
+      {
+        "id": "7d73ded2-f30a-41cb-8d0f-92cfcf023030",
+        "index": 2,
+        "body": "$2$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "83e6ce89-f071-4d64-9551-f6e0a04139e8",
+        "index": 3,
+        "body": "$(1, 0, 0)$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "4e4895c4-c651-4702-b5c5-a0967c3a405a",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "92450a36-f259-402e-9dff-4cbe231cd689",
+        "index": 5,
+        "body": "$\\langle 1,0,1 \\rangle$",
+        "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "183318962",
+    "timeSpentVideo": "18296366",
+    "submissions": 1098,
+    "submissionsCorrect": 879,
+    "accuracy": 0.8005464480874317,
+    "difficulty": 0.47454090150250416
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "944fee94-58e9-4018-ab7d-31fe9f1bf930",
+    "body": null,
+    "questionId": "584ebfc0-ec60-465b-804d-9f8d72122cf6",
+    "resources": [
+      {
+        "id": "7c047ff2-a4f1-458d-ac95-8586c3aff700",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=1248"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "944fee94-58e9-4018-ab7d-31fe9f1bf930",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15699330134",
+        "timeSpentVideo": "1607506810",
+        "submissions": 42114,
+        "submissionsCorrect": 24202,
+        "questions": 8,
+        "accuracy": 0.5746782542622406,
+        "difficulty": 0.6754986497370541
+      }
+    }
+  ],
+  "children": []
+}

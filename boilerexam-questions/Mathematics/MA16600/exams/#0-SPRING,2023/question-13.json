@@ -1,0 +1,143 @@
+{
+  "id": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral\n$\\int_{}^{} \\dfrac{1}{x^2+4x+3} dx$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7c40019d-4cce-42cf-be5a-4919cedf6f41",
+        "index": 0,
+        "body": "$\\ln|x+1| - \\ln|x+3| + C$",
+        "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "ab5cccce-fa06-4a66-9ef9-589b2d0820a4",
+        "index": 1,
+        "body": "$\\ln|x^2 + 3x + 2| + C$",
+        "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "865e2bf5-3075-488b-bc3e-c6d65a299d0d",
+        "index": 2,
+        "body": "$\\frac{1}{2}\\ln|x+1| - \\frac{1}{2}\\ln|x+3| + C$",
+        "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "7ae820b2-7ea5-4528-8f55-8c40e8b43b22",
+        "index": 3,
+        "body": "$\\ln|x+3| - \\ln|x+1| + C$",
+        "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "1641c47e-2cbd-480f-92a2-e32ca78d859c",
+        "index": 4,
+        "body": "$\\tan^{-1}(x+2) + C$",
+        "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 13,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14226378",
+    "timeSpentVideo": "307410",
+    "submissions": 71,
+    "submissionsCorrect": 50,
+    "accuracy": 0.704225352112676,
+    "difficulty": 0.6652046783625731
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "e22072b9-e8f2-49bd-8a67-f7ae902f934d",
+    "body": null,
+    "questionId": "6c1aaed2-4937-447d-b31b-8d69f5cf8a2e",
+    "resources": [
+      {
+        "id": "32a7d928-374f-4933-858e-9445e8a9a9c2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=5457"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e22072b9-e8f2-49bd-8a67-f7ae902f934d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "829111553",
+        "timeSpentVideo": "22928209",
+        "submissions": 1910,
+        "submissionsCorrect": 1234,
+        "questions": 11,
+        "accuracy": 0.6460732984293194,
+        "difficulty": 0.6111940298507462
+      }
+    }
+  ],
+  "children": []
+}

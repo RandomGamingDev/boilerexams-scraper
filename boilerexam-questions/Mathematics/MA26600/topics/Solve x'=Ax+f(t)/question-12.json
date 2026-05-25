@@ -13,7 +13,7 @@
         "body": "$x_p(t) = (at+b)e^t + ce^{2t}$",
         "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
         "stats": {
-          "count": 1
+          "count": 171
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "$x_p(t) = (at+b)e^t + (ct+d)e^{2t}$",
         "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
         "stats": {
-          "count": 7
+          "count": 978
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "$x_p(t) = (at+b)e^t + cte^{2t}$",
         "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
         "stats": {
-          "count": 4
+          "count": 342
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "$x_p(t) = (at^2+bt+c)e^t + de^{2t}$",
         "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
         "stats": {
-          "count": 0
+          "count": 72
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "The system has no solution, so no form is appropriate.",
         "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
         "stats": {
-          "count": 2
+          "count": 27
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "2586212",
-    "timeSpentVideo": "0",
-    "submissions": 14,
-    "submissionsCorrect": 7,
-    "accuracy": 0.5,
-    "difficulty": 0.75
+    "timeSpent": "444727927",
+    "timeSpentVideo": "26564814",
+    "submissions": 1701,
+    "submissionsCorrect": 978,
+    "accuracy": 0.5749559082892416,
+    "difficulty": 0.6792059966685174
   },
   "resources": [],
   "exam": {
@@ -92,20 +92,35 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "263835681",
-      "timeSpentVideo": "0",
-      "submissions": 825,
-      "submissionsCorrect": 591,
+      "timeSpent": "8190216461",
+      "timeSpentVideo": "168127082",
+      "submissions": 27617,
+      "submissionsCorrect": 19254,
       "questions": 20,
-      "accuracy": 0.7163636363636363,
-      "difficulty": 0.557027027027027
+      "accuracy": 0.697179273635804,
+      "difficulty": 0.5535321282967132
     }
   },
   "explanation": {
     "id": "f9b8bd21-5302-4823-94fc-53babaa06da0",
     "body": null,
     "questionId": "6ba9a65a-2ce2-4a86-b7f3-1fd75bf13390",
-    "resources": []
+    "resources": [
+      {
+        "id": "f8cc9517-7e13-4c7d-a6ec-4bec0eb59c61",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XVwLYOhdPDg?si=MbP1Bg88Aw5M-2Qv&t=849"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f9b8bd21-5302-4823-94fc-53babaa06da0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
   },
   "topics": [
     {
@@ -114,13 +129,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "3350879121",
-        "timeSpentVideo": "445080056",
-        "submissions": 5830,
-        "submissionsCorrect": 2365,
-        "questions": 7,
-        "accuracy": 0.4056603773584906,
-        "difficulty": 0.8427487352445193
+        "timeSpent": "7423416898",
+        "timeSpentVideo": "858066815",
+        "submissions": 13562,
+        "submissionsCorrect": 6052,
+        "questions": 6,
+        "accuracy": 0.44624686624391685,
+        "difficulty": 0.8033596837944664
       }
     }
   ],

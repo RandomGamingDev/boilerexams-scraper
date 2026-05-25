@@ -1,59 +1,59 @@
 {
-  "id": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+  "id": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Compute the determinant of $A$, where\n\n\\[\nA=\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n2 & 5 & 4 & 2 \\\\\n0 & 0 & 0 & 2 \\\\\n0 & -3 & 0 & -4 \\\\\n1 & 0 & -1 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]^{-1}\n\\]\n\n",
+    "body": "Find the third column of the matrix $D$, given that $C=\\left[\\begin{array}{rr}1 & -1 \\\\ 3 & 2\\end{array}\\right]$ and $C D=$ $\\left[\\begin{array}{rrrrr}2 & 0 & -2 & 1 & 0 \\\\ 0 & 3 & 1 & 7 & 0\\end{array}\\right]$.",
     "solution": [
-      4
+      1
     ],
     "answerChoices": [
       {
-        "id": "40bbae82-61d2-4b34-9198-06682d8a67b8",
+        "id": "eb404245-67c9-468c-9b51-44f44c1fac0f",
         "index": 0,
-        "body": "$\\operatorname{det}(A)=-36$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$\\left[\\begin{array}{r}-\\frac{12}{5} \\\\ \\frac{7}{5}\\end{array}\\right]$",
+        "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
         "stats": {
-          "count": 160
+          "count": 37
         },
         "resources": []
       },
       {
-        "id": "9b8f9df9-914c-4b33-8b78-d9262f473ccc",
+        "id": "cb986870-533a-40bb-8816-26852f5dc97c",
         "index": 1,
-        "body": "$\\operatorname{det}(A)=5$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$\\left[\\begin{array}{r}-\\frac{3}{5} \\\\ \\frac{7}{5}\\end{array}\\right]$",
+        "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
         "stats": {
-          "count": 15
+          "count": 1695
         },
         "resources": []
       },
       {
-        "id": "99ac9fb1-02ae-4b75-bf02-84d7fe69b81b",
+        "id": "c2e273c1-21b1-4148-a59c-f92761b8e6b6",
         "index": 2,
-        "body": "$\\operatorname{det}(A)=0$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$\\left[\\begin{array}{r}-\\frac{2}{5} \\\\ \\frac{1}{5}\\end{array}\\right]$",
+        "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
         "stats": {
-          "count": 147
+          "count": 41
         },
         "resources": []
       },
       {
-        "id": "e2ce08e4-2369-45d6-bd3b-9450bc35e6a4",
+        "id": "c2832bf1-a17d-47b2-a49c-c941ca4f5fe5",
         "index": 3,
-        "body": "$\\operatorname{det}(A)=-13$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$\\left[\\begin{array}{l}-5 \\\\ -7\\end{array}\\right]$",
+        "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
         "stats": {
-          "count": 20
+          "count": 81
         },
         "resources": []
       },
       {
-        "id": "a369583d-97fc-4043-9601-cb6d29b1b57f",
+        "id": "99b4e9f3-d65c-4487-873e-0652ff3c6fe1",
         "index": 4,
-        "body": "$\\operatorname{det}(A)=36$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$\\left[\\begin{array}{l}-7 \\\\ -5\\end{array}\\right]$",
+        "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
         "stats": {
-          "count": 755
+          "count": 58
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 7,
   "disclaimer": "",
-  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "examId": "9d767996-45d5-4543-bca7-0ec4a612d57f",
   "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
   "parentId": null,
   "flags": {
@@ -71,18 +71,18 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "236626886",
-    "timeSpentVideo": "45194178",
-    "submissions": 1432,
-    "submissionsCorrect": 755,
-    "accuracy": 0.5272346368715084,
-    "difficulty": 0.7245430809399478
+    "timeSpent": "556077984",
+    "timeSpentVideo": "49349160",
+    "submissions": 2315,
+    "submissionsCorrect": 1695,
+    "accuracy": 0.7321814254859611,
+    "difficulty": 0.527432712215321
   },
   "resources": [],
   "exam": {
-    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "id": "9d767996-45d5-4543-bca7-0ec4a612d57f",
     "number": 0,
-    "year": 2018,
+    "year": 2019,
     "season": "SPRING",
     "disclaimer": "",
     "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "5616732096",
-      "timeSpentVideo": "1076104380",
-      "submissions": 33390,
-      "submissionsCorrect": 19864,
-      "questions": 20,
-      "accuracy": 0.5949086552860138,
-      "difficulty": 0.6553747387279785
+      "timeSpent": "14980997869",
+      "timeSpentVideo": "2297156121",
+      "submissions": 75804,
+      "submissionsCorrect": 47589,
+      "questions": 25,
+      "accuracy": 0.6277900902327054,
+      "difficulty": 0.6223782672849916
     }
   },
   "explanation": {
-    "id": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+    "id": "ac44696a-95fa-40a4-82bc-936bbdba839b",
     "body": "",
-    "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+    "questionId": "729f44af-a73f-46b8-9f6b-fff0e535a60a",
     "resources": [
       {
-        "id": "3d302321-1a67-46f5-9ec3-fa40793f82c8",
+        "id": "adc7e43b-f494-4124-bf69-5d41e88cf5c0",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/1qA9exO23-k?t=884\r"
+          "url": "https://youtu.be/Se8tLJHiHz8?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1263\r"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+        "explanationId": "ac44696a-95fa-40a4-82bc-936bbdba839b",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,28 +129,28 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "19253059750",
-        "timeSpentVideo": "1812823806",
-        "submissions": 41193,
-        "submissionsCorrect": 22451,
-        "questions": 17,
-        "accuracy": 0.5450197849149128,
-        "difficulty": 0.7050892403070739
+        "timeSpent": "28198233531",
+        "timeSpentVideo": "2210612164",
+        "submissions": 56454,
+        "submissionsCorrect": 31222,
+        "questions": 15,
+        "accuracy": 0.5530520423707798,
+        "difficulty": 0.6970417653923684
       }
     },
     {
-      "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
-      "name": "Determinant",
+      "id": "fcdb1de3-4dcd-4ade-9796-6939e21c8f37",
+      "name": "Row Reduction",
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "20944052113",
-        "timeSpentVideo": "2769695136",
-        "submissions": 55682,
-        "submissionsCorrect": 32300,
-        "questions": 19,
-        "accuracy": 0.5800797385151395,
-        "difficulty": 0.670063819870209
+        "timeSpent": "42964924877",
+        "timeSpentVideo": "4405113199",
+        "submissions": 82014,
+        "submissionsCorrect": 47012,
+        "questions": 21,
+        "accuracy": 0.5732192064769429,
+        "difficulty": 0.6768699612733516
       }
     }
   ],

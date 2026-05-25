@@ -1,0 +1,38 @@
+This is a structural mechanics diagram depicting a system of two members interacting at a contact point.
+
+### 1. Components and Nodes
+*   **Member 1:** An angled bar pinned at point **A** to a vertical wall. The bar extends to point **B**.
+*   **Member 2:** A horizontal bar pinned at point **D** to a vertical wall. The bar extends horizontally and interacts with the angled bar.
+*   **Point A:** Pin support at the lower left wall.
+*   **Point B:** The end of the angled member. A vertical cable/rod is attached here, extending upward to a fixed ceiling support.
+*   **Point C:** A contact point located on the underside of the horizontal member. Member 1 (specifically the top surface at/near B) supports Member 2 from below at point **C**.
+*   **Weight W:** A block resting on the horizontal member between points C and D.
+*   **Point D:** Pin support at the upper right wall.
+
+### 2. Geometry and Dimensions
+*   **Member AB:** Length is marked as **6'** (6 feet).
+*   **Angle:** The angle between the member AB and the horizontal is **60°**.
+*   **Horizontal Segments:** 
+    *   There is a vertical line indicating the position of the cable attached at B.
+    *   The distance from the vertical line (at B) to point C is marked as **1'**.
+    *   The distance from point C to the center of the block **W** is marked as **1'**.
+    *   The distance from the center of the block **W** to the wall at D is marked as **2'**.
+    *   Total horizontal length of the horizontal member from the wall D to the point C is implied to be 3' (1' + 2').
+
+### 3. Text, Symbols, and Annotations
+*   **A, B, C, D:** Labels for the critical geometric points.
+*   **W:** Label for the rectangular weight block sitting on the horizontal bar.
+*   **6':** Length of the angled member AB.
+*   **60°:** Angle of inclination of member AB relative to the horizontal.
+*   **1', 1', 2':** Horizontal dimensioning segments across the top of the horizontal member.
+*   **Gravity vector:** A downward-pointing arrow labeled **g** with a hat symbol (**ĝ**) is located in the top right, indicating the direction of the gravitational field.
+*   **Supports:**
+    *   Left wall at A: Pinned connection.
+    *   Bottom wall at A: Brick-patterned representation of a wall.
+    *   Top ceiling support: A horizontal line with hash marks underneath, representing a fixed support.
+    *   Right wall at D: Brick-patterned representation of a wall with a pinned connection.
+
+### 4. Spatial Relationships
+*   The angled bar AB is pinned at A and supported by a vertical tension member at B.
+*   The tip of bar AB exerts an upward force on the horizontal bar at point C.
+*   The horizontal bar is pinned at D and acts as a lever/beam supporting the weight W and being supported from below by the angled bar at point C.

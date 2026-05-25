@@ -1,6 +1,6 @@
 {
   "id": "abf3cdf7-4f82-4102-a6a2-7b350d234706",
-  "type": "MULTIPLE_CHOICE",
+  "type": "FREE_RESPONSE",
   "data": {
     "body": "Let $T: \\mathbb{R} ^2\\rightarrow  \\mathbb{R} ^2$ be the linear transformation for which\n\\[T\\left(\\begin{bmatrix} 1\\\\ 1\\\\\\end{bmatrix}\\right) = \\begin{bmatrix} 3\\\\ 4\\\\\\end{bmatrix} \\textrm{     and     } T\\left(\\begin{bmatrix} -1\\\\ 1\\\\\\end{bmatrix}\\right) = \\begin{bmatrix} -1\\\\ -2\\\\\\end{bmatrix}\\]\n(1) Find $T \\left(\\begin{bmatrix} 1\\\\ 0\\\\\\end{bmatrix}\\right)$ and $T \\left(\\begin{bmatrix} 0\\\\ 1\\\\\\end{bmatrix}\\right)$.\n\n(2) Let $A$ be the standard matrix of $T$, find $A$ and $A^{-1}$. \n\n(3) Let \\textbf{b} $= \\begin{bmatrix} 7\\\\ 9\\\\\\end{bmatrix}$, find all the vectors \\textbf{x} in $\\mathbb{R}^2$ such that $T(\\textbf{x}) = \\textbf{b}$. ",
     "solution": [],
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "228785802",
-    "timeSpentVideo": "56571122",
-    "submissions": 882,
-    "submissionsCorrect": 0,
-    "accuracy": 0,
-    "difficulty": 1.1990835030549898
+    "timeSpent": "577516555",
+    "timeSpentVideo": "131530536",
+    "submissions": 1973,
+    "submissionsCorrect": 410,
+    "accuracy": 0.20780537252914344,
+    "difficulty": 1.028099372889532
   },
   "resources": [],
   "exam": {
@@ -39,13 +39,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "7459805080",
-      "timeSpentVideo": "1940377024",
-      "submissions": 38193,
-      "submissionsCorrect": 20945,
+      "timeSpent": "10451246104",
+      "timeSpentVideo": "2399778214",
+      "submissions": 51006,
+      "submissionsCorrect": 27590,
       "questions": 10,
-      "accuracy": 0.5483989212682953,
-      "difficulty": 0.7017274697725433
+      "accuracy": 0.5409167548915814,
+      "difficulty": 0.7091633076351114
     }
   },
   "explanation": {
@@ -76,13 +76,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "19253059750",
-        "timeSpentVideo": "1812823806",
-        "submissions": 41193,
-        "submissionsCorrect": 22451,
-        "questions": 17,
-        "accuracy": 0.5450197849149128,
-        "difficulty": 0.7050892403070739
+        "timeSpent": "28198233531",
+        "timeSpentVideo": "2210612164",
+        "submissions": 56454,
+        "submissionsCorrect": 31222,
+        "questions": 15,
+        "accuracy": 0.5530520423707798,
+        "difficulty": 0.6970417653923684
       }
     },
     {
@@ -91,13 +91,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "8211293141",
-        "timeSpentVideo": "818710093",
-        "submissions": 16357,
-        "submissionsCorrect": 9289,
-        "questions": 9,
-        "accuracy": 0.567891422632512,
-        "difficulty": 0.6825211156346843
+        "timeSpent": "12022207564",
+        "timeSpentVideo": "974786421",
+        "submissions": 22759,
+        "submissionsCorrect": 13485,
+        "questions": 8,
+        "accuracy": 0.5925128520585263,
+        "difficulty": 0.6578918587864736
       }
     },
     {
@@ -106,13 +106,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "37440604043",
-        "timeSpentVideo": "4696417936",
-        "submissions": 81693,
-        "submissionsCorrect": 43910,
-        "questions": 28,
-        "accuracy": 0.5375001530118859,
-        "difficulty": 0.7125456946193439
+        "timeSpent": "60455662441",
+        "timeSpentVideo": "6686127388",
+        "submissions": 124916,
+        "submissionsCorrect": 65944,
+        "questions": 27,
+        "accuracy": 0.5279067533382433,
+        "difficulty": 0.7221155692071415
       }
     }
   ],

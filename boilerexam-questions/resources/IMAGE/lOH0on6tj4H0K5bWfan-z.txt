@@ -1,0 +1,24 @@
+This is a tabular data representation of bond energies.
+
+### Structure
+*   **Format:** A grid table with two columns and four rows (including the header row).
+*   **Layout:** The table is bounded by a black rectangular border, with internal black lines separating the rows and columns.
+
+### Content
+
+**Header Row:**
+*   **Column 1:** "bond"
+*   **Column 2:** "bond energy (kJ/mol)"
+
+**Data Rows:**
+
+| Row | Column 1 (Bond) | Column 2 (Energy) |
+| :--- | :--- | :--- |
+| 1 | O—H | 467 |
+| 2 | O—O | 204 |
+| 3 | O=O | 498 |
+
+### Notes on Symbols:
+*   The first row contains a single hyphen/dash representing a single bond.
+*   The second row contains a single hyphen/dash representing a single bond.
+*   The third row contains two parallel horizontal lines representing a double bond.

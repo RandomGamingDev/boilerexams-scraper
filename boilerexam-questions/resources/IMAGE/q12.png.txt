@@ -1,0 +1,27 @@
+This image displays a continuous curved path representing a particle trajectory, composed of two arc segments.
+
+### 1. Text and Labels
+*   **"A"**: Label at the start of the path (left end).
+*   **"Point 1"**: Label identifying the lowest point of the first arc segment.
+*   **"v"**: Velocity vector label next to an arrow at Point 1.
+*   **"2R"**: Label indicating the radius of curvature for the first arc segment (A to B).
+*   **"B"**: Label identifying the inflection point where the path transitions from one arc to the next.
+*   **"Point 2"**: Label identifying the peak of the second arc segment.
+*   **"R"**: Label indicating the radius of curvature for the second arc segment (B to C).
+*   **"2v"**: Velocity vector label next to an arrow at Point 2.
+*   **"C"**: Label at the end of the path (right end).
+
+### 2. Geometry and Spatial Relationships
+*   **The Path**: The path consists of two smooth, continuous curves.
+    *   **Segment A-B**: A concave-up arc (like a valley) with a radius of curvature of **2R**. The point labeled "Point 1" is the bottom-most point of this arc.
+    *   **Segment B-C**: A concave-down arc (like a hill) starting from point B with a radius of curvature of **R**. The point labeled "Point 2" is the top-most point of this arc.
+*   **Orientation**: 
+    *   Point 1 is located to the left and below Point 2.
+    *   The transition point "B" acts as an inflection point between the two curves.
+*   **Velocity Vectors**:
+    *   At "Point 1", there is a horizontal vector pointing to the right, labeled **$v$**.
+    *   At "Point 2", there is a horizontal vector pointing to the right, labeled **$2v$**. 
+    *   Both vectors are tangent to the curve at their respective points.
+*   **Radii Indicators**:
+    *   A dashed line with arrows at both ends indicates the radius **2R**, extending from the center of curvature of the first arc (up and to the right) to the path.
+    *   A dashed line with an arrow at one end indicates the radius **R**, extending from the center of curvature of the second arc (down) to the path at "Point 2".

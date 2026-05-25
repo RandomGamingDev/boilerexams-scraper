@@ -1,0 +1,158 @@
+{
+  "id": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the interval of convergence for the power series\n$\\sum_{0}^{\\infty} \\dfrac{(-1)^k}{4^k(k+5)}(x-3)^{2k}$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "ec544cc5-cee5-4a44-85cb-f5951253fa00",
+        "index": 0,
+        "body": "[1,5)",
+        "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "0bb93d4c-117c-4f99-a47e-e851c6b73e60",
+        "index": 1,
+        "body": "(1,5]",
+        "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "f4d25c10-d04a-49c0-a755-fdc2cd8cfb2c",
+        "index": 2,
+        "body": "[1,5]",
+        "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "af640972-b208-408f-bb85-d3ce6e465d38",
+        "index": 3,
+        "body": "(-1,7]",
+        "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "af7e9175-bd71-42a5-aa16-8fe321a9430e",
+        "index": 4,
+        "body": "[-1,7)",
+        "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14675126",
+    "timeSpentVideo": "2599547",
+    "submissions": 63,
+    "submissionsCorrect": 38,
+    "accuracy": 0.6031746031746031,
+    "difficulty": 0.7101226993865031
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "ddadc7a6-3c54-41bf-b83b-5571d5d536e6",
+    "body": null,
+    "questionId": "25cb5cd3-06a1-4ffe-9d9c-2ad87dfb71e8",
+    "resources": [
+      {
+        "id": "617a54ca-e4e2-4e1d-ba28-b3ef5b4eddc2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=8711"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ddadc7a6-3c54-41bf-b83b-5571d5d536e6",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4109222473",
+        "timeSpentVideo": "259191192",
+        "submissions": 7003,
+        "submissionsCorrect": 4133,
+        "questions": 11,
+        "accuracy": 0.5901756390118521,
+        "difficulty": 0.6610939039842321
+      }
+    },
+    {
+      "id": "e9e2beb1-f60c-41c7-a66e-c91d1f4cbbcf",
+      "name": "Radius of Convergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "685611039",
+        "timeSpentVideo": "37293355",
+        "submissions": 1053,
+        "submissionsCorrect": 597,
+        "questions": 3,
+        "accuracy": 0.5669515669515669,
+        "difficulty": 0.6888551604509974
+      }
+    }
+  ],
+  "children": []
+}

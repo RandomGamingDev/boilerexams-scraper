@@ -13,7 +13,7 @@
         "body": "If $A$ is an $n \\times n$ matrix with all entries being positive, then $\\operatorname{det}(A)>0$.",
         "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
         "stats": {
-          "count": 62
+          "count": 82
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "If $A$ and $B$ are two $n \\times n$ matrices with $\\operatorname{det}(A)>0$ and $\\operatorname{det}(B)>0$, then also $\\operatorname{det}(A+B)>0$.",
         "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
         "stats": {
-          "count": 808
+          "count": 1069
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "If $A$ and $B$ are two $n \\times n$ matrices such that $A B=0$, then both $A$ and $B$ are singular.",
         "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
         "stats": {
-          "count": 334
+          "count": 432
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "If rows of an $n \\times n$ matrix $A$ are linearly independent, then $\\operatorname{det}\\left(A^{T} A\\right)>0$.",
         "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
         "stats": {
-          "count": 2419
+          "count": 3146
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "If $A$ is an $n \\times n$ matrix with $A^{2}=I_{n}$, then $\\operatorname{det}(A)=1$.",
         "questionId": "276b47d3-9d15-4a95-b50c-663c83c3cd9b",
         "stats": {
-          "count": 1007
+          "count": 1297
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "805320075",
-    "timeSpentVideo": "348867613",
-    "submissions": 5028,
-    "submissionsCorrect": 2419,
-    "accuracy": 0.48110580747812254,
-    "difficulty": 0.7685257410296411
+    "timeSpent": "1061187370",
+    "timeSpentVideo": "424408186",
+    "submissions": 6534,
+    "submissionsCorrect": 3146,
+    "accuracy": 0.48148148148148145,
+    "difficulty": 0.768239372927344
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "7162777623",
-      "timeSpentVideo": "1607873717",
-      "submissions": 33701,
-      "submissionsCorrect": 20630,
+      "timeSpent": "9858450089",
+      "timeSpentVideo": "1995193122",
+      "submissions": 44934,
+      "submissionsCorrect": 27644,
       "questions": 10,
-      "accuracy": 0.612148007477523,
-      "difficulty": 0.6381837815449247
+      "accuracy": 0.6152134241331731,
+      "difficulty": 0.6350424123995204
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "19767177882",
-        "timeSpentVideo": "2917369717",
-        "submissions": 50124,
-        "submissionsCorrect": 27236,
-        "questions": 15,
-        "accuracy": 0.5433724363578326,
-        "difficulty": 0.7067139216310927
+        "timeSpent": "31127904749",
+        "timeSpentVideo": "3776815412",
+        "submissions": 72592,
+        "submissionsCorrect": 39858,
+        "questions": 14,
+        "accuracy": 0.5490687679083095,
+        "difficulty": 0.7009987343861773
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "20944052113",
-        "timeSpentVideo": "2769695136",
-        "submissions": 55682,
-        "submissionsCorrect": 32300,
-        "questions": 19,
-        "accuracy": 0.5800797385151395,
-        "difficulty": 0.670063819870209
+        "timeSpent": "27057068299",
+        "timeSpentVideo": "3095877999",
+        "submissions": 69712,
+        "submissionsCorrect": 40730,
+        "questions": 16,
+        "accuracy": 0.5842609593757172,
+        "difficulty": 0.6658597375809316
       }
     }
   ],

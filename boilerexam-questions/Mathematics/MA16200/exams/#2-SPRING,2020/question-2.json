@@ -1,0 +1,143 @@
+{
+  "id": "a4cee151-28c4-4405-807b-6af481ef44bb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value of the integral $\\int \\frac{x^{2}}{x^{2}+1} \\mathrm{~d} x$ ?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e3b5e8a4-ad78-4782-8992-2cfb5fe43eac",
+        "index": 0,
+        "body": "$x-\\tan ^{-1} x+c$",
+        "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+        "stats": {
+          "count": 1374
+        },
+        "resources": []
+      },
+      {
+        "id": "f5faf4ab-351c-425f-9d32-1ba288898401",
+        "index": 1,
+        "body": "$\\frac{x}{x^{2}+1}+c$",
+        "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "50679a32-a987-466d-8611-5d5dd7baf44c",
+        "index": 2,
+        "body": "$\\frac{1}{2} \\ln \\left(x^{2}+1\\right)+c$",
+        "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+        "stats": {
+          "count": 177
+        },
+        "resources": []
+      },
+      {
+        "id": "80967cfa-2fe4-418e-bedd-73a81869ec50",
+        "index": 3,
+        "body": "$\\frac{x^{3}}{3}+x+c$",
+        "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "05f528fc-36b7-43bb-850a-380673d1c8cc",
+        "index": 4,
+        "body": "$x+\\tan ^{-1} x+c$",
+        "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+        "stats": {
+          "count": 397
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": "",
+  "examId": "bc4ad7a9-2854-4343-9c01-572926114c72",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "457951233",
+    "timeSpentVideo": "63022771",
+    "submissions": 2811,
+    "submissionsCorrect": 1374,
+    "accuracy": 0.4887940234791889,
+    "difficulty": 0.7608210237031947
+  },
+  "resources": [],
+  "exam": {
+    "id": "bc4ad7a9-2854-4343-9c01-572926114c72",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4470720362",
+      "timeSpentVideo": "694382710",
+      "submissions": 27207,
+      "submissionsCorrect": 15144,
+      "questions": 12,
+      "accuracy": 0.5566214577130886,
+      "difficulty": 0.6935858937268832
+    }
+  },
+  "explanation": {
+    "id": "4b67c51c-6f96-4cc3-a3ee-2ff6f9f3af2f",
+    "body": "",
+    "questionId": "a4cee151-28c4-4405-807b-6af481ef44bb",
+    "resources": [
+      {
+        "id": "c5b87f8c-71e6-4c78-bf23-a590922614ff",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YRZpexVsi7o?t=128\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4b67c51c-6f96-4cc3-a3ee-2ff6f9f3af2f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "518d7710-468f-4482-a18e-00c07665b3b0",
+      "name": "Integration of Trigonometric Function",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19342854581",
+        "timeSpentVideo": "1078001315",
+        "submissions": 45747,
+        "submissionsCorrect": 28323,
+        "questions": 14,
+        "accuracy": 0.6191225654141255,
+        "difficulty": 0.6311372608894802
+      }
+    }
+  ],
+  "children": []
+}

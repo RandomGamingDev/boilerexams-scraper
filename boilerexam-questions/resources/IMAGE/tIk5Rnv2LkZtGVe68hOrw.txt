@@ -1,0 +1,28 @@
+This image contains a circuit diagram on the left and a set of mathematical definitions and Laplace transform identities on the right.
+
+### 1. Circuit Diagram
+*   **Topology:** A series RLC circuit consisting of a voltage source, a resistor ($R$), an inductor ($L$), and a capacitor ($C$).
+*   **Voltage Source:** A circle containing a sine wave symbol represents the source $v_{IN}(t)$. It has a '+' sign at the top terminal.
+*   **Components:**
+    *   **Resistor ($R$):** Located on the top branch, connected to the positive terminal of the voltage source.
+    *   **Inductor ($L$):** Located on the top branch, in series with the resistor.
+    *   **Capacitor ($C$):** Located on the right vertical branch.
+*   **Labels/Currents:**
+    *   An arrow labeled $i_L(t)$ (in blue) points to the right, indicating current flowing from the resistor towards the inductor.
+    *   The voltage across the capacitor is labeled $v_C(t)$ (in blue) next to the capacitor, with a blue '+' above it and a blue '-' below it.
+
+### 2. Parameter Definitions
+To the right of the circuit, the following values are defined:
+*   $R = 1 \ [\Omega]$
+*   $L = 1 \ [H]$
+*   $C = 1 \ [F]$
+*   **Input Voltage:** 
+    $v_{in}(t) = \begin{cases} 2e^{-2t} \ [V] & \text{for } t \ge 0 \\ 0 \ [V] & \text{for } t < 0 \end{cases}$
+*   **Initial Conditions:**
+    *   $v_C(0) = 0 \ [V]$
+    *   $i_L(0) = 0 \ [A]$
+
+### 3. Mathematical Identities
+Further to the right, two Laplace transform identities are provided:
+*   $\text{L}[u(t)] = \frac{1}{s}$
+*   $\text{L}[e^{-at}] = \frac{1}{s + a}$

@@ -1,0 +1,20 @@
+This image displays a $2 \times 2$ payoff matrix in a strategic game-theory format.
+
+### 1. Text and Labels
+*   **Top Header:** "Gaggle" is centered above the two columns.
+*   **Column Headers:** The two columns are labeled "$PaaS$" and "$IaaS$" from left to right.
+*   **Row Headers:** The two rows are labeled "$PaaS$" and "$SaaS$" from top to bottom.
+*   **Left-hand side Label:** The word "Macrofirm" is placed to the left of the row headers, indicating these represent the player's strategies.
+
+### 2. Geometry and Structure
+*   The matrix is represented by a rectangular grid consisting of two rows and two columns, enclosed by a solid black border.
+*   A horizontal line separates the two rows.
+*   A vertical line separates the two columns.
+
+### 3. Matrix Content (Payoff values)
+Each cell contains a pair of numbers separated by a comma (representing payoffs for [Macrofirm, Gaggle]):
+
+*   **Top-Left Cell (Macrofirm: $PaaS$, Gaggle: $PaaS$):** 800, 600
+*   **Top-Right Cell (Macrofirm: $PaaS$, Gaggle: $IaaS$):** 500, 500
+*   **Bottom-Left Cell (Macrofirm: $SaaS$, Gaggle: $PaaS$):** 900, 400
+*   **Bottom-Right Cell (Macrofirm: $SaaS$, Gaggle: $IaaS$):** 700, 600

@@ -1,59 +1,59 @@
 {
-  "id": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+  "id": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "If $y=y(x)$ is the solution to \n\n\\[\\frac{dy}{dx}=\\frac{4xy}{2+x^2},\\;\\;\\;\\;\\;\\;y(0)=4,\\]\n\nthen $y(\\sqrt{3})=$\n",
+    "body": "Find the explicit solution of the initial value problem \n\n$y^{\\prime}=\\frac{xy^{2}}{x^2 + 1} $   ,   $y(0) = 3$",
     "solution": [
       1
     ],
     "answerChoices": [
       {
-        "id": "95536cfd-6d70-43a3-87c6-ab786cf92119",
+        "id": "3732a6e1-fb52-4c68-9022-891c38f7f162",
         "index": 0,
-        "body": "$16$",
-        "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+        "body": "$\\frac{1}{2}\\left(6+\\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
         "stats": {
-          "count": 37
+          "count": 82
         },
         "resources": []
       },
       {
-        "id": "34ceb828-ee5d-4f8f-a982-6e212316776b",
+        "id": "61b3b416-e877-468c-a6ea-5b7b793eb5bb",
         "index": 1,
-        "body": "$25$",
-        "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+        "body": "$\\frac{6}{2-3 \\ln \\left(1+x^{2}\\right)}$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
         "stats": {
-          "count": 1284
+          "count": 1847
         },
         "resources": []
       },
       {
-        "id": "9d661a17-7de0-4795-a57e-acd2667107b7",
+        "id": "032f1cce-3db7-4927-9d21-89bcece09a27",
         "index": 2,
-        "body": "$9$",
-        "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+        "body": "$\\frac{6}{2+3 \\ln \\left(1+x^{2}\\right)}$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
         "stats": {
-          "count": 51
+          "count": 329
         },
         "resources": []
       },
       {
-        "id": "3cb3b99c-afa8-4810-bad0-f2d97c14572e",
+        "id": "5f75d9fa-64bf-4f06-a725-1d6894e99286",
         "index": 3,
-        "body": "$4$",
-        "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+        "body": "$\\frac{1}{2}\\left(6-3 \\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
         "stats": {
-          "count": 21
+          "count": 100
         },
         "resources": []
       },
       {
-        "id": "a95a0e31-833b-40f5-95ea-dbfd7cdf9e8c",
+        "id": "9e6b4dcf-dd5d-4ce8-86e9-62b174aae28d",
         "index": 4,
-        "body": "$2 \\sqrt{3}$",
-        "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+        "body": "$\\frac{1}{3}\\left(9-2 \\ln \\left(1+x^{2}\\right)\\right)$",
+        "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
         "stats": {
-          "count": 34
+          "count": 64
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 3,
   "disclaimer": "",
-  "examId": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+  "examId": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
   "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "415225402",
-    "timeSpentVideo": "45755822",
-    "submissions": 1741,
-    "submissionsCorrect": 1284,
-    "accuracy": 0.7375071797817346,
-    "difficulty": 0.5253938077131993
+    "timeSpent": "891942046",
+    "timeSpentVideo": "68778491",
+    "submissions": 3044,
+    "submissionsCorrect": 1847,
+    "accuracy": 0.6067674113009198,
+    "difficulty": 0.6466284987277354
   },
   "resources": [],
   "exam": {
-    "id": "ef6e29b3-bfc7-4de6-813b-d8d6bf5131cf",
+    "id": "4e73e657-e8c5-4dbf-839b-6d33bd848500",
     "number": 0,
     "year": 2019,
-    "season": "SPRING",
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "9440346187",
-      "timeSpentVideo": "1697976725",
-      "submissions": 38059,
-      "submissionsCorrect": 22567,
+      "timeSpent": "16088442404",
+      "timeSpentVideo": "2844116171",
+      "submissions": 63456,
+      "submissionsCorrect": 35873,
       "questions": 20,
-      "accuracy": 0.5929477915867469,
-      "difficulty": 0.6572957886737074
+      "accuracy": 0.5653208522440747,
+      "difficulty": 0.6847819246019259
     }
   },
   "explanation": {
-    "id": "3a8081fa-6c81-4fd0-920f-e280de1f4138",
+    "id": "fa38842a-e15c-4c61-a6cc-b0ff2a55109d",
     "body": "",
-    "questionId": "2d3ca60b-8d63-42fb-8e88-8db41d1ee595",
+    "questionId": "76001967-36f3-45f6-888f-a6fd1b7b4da2",
     "resources": [
       {
-        "id": "ce727a5c-60ed-4b1f-9698-1c68d9cfa687",
+        "id": "ef43e011-c278-4468-887c-48b3aa268f00",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/fqET297U3Bc?si=sLWsCgT8qfuV9XKO&t=174"
+          "url": "https://youtu.be/t9hdIc6yBe4?si=JTfkYhLJsPHXCD8h&t=388"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "3a8081fa-6c81-4fd0-920f-e280de1f4138",
+        "explanationId": "fa38842a-e15c-4c61-a6cc-b0ff2a55109d",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "5101164079",
-        "timeSpentVideo": "411931565",
-        "submissions": 9221,
-        "submissionsCorrect": 6018,
-        "questions": 8,
-        "accuracy": 0.6526407114195857,
-        "difficulty": 0.5989968887458427
+        "timeSpent": "9510766425",
+        "timeSpentVideo": "903438740",
+        "submissions": 15846,
+        "submissionsCorrect": 10048,
+        "questions": 7,
+        "accuracy": 0.6341032437208128,
+        "difficulty": 0.6167377398720683
       }
     }
   ],

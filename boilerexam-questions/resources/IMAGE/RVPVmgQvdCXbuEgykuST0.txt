@@ -1,0 +1,29 @@
+This is a schematic diagram of an electrical circuit consisting of a voltage source, two resistors, and a current source.
+
+### 1. Circuit Topology
+The circuit is a single-loop system with a parallel branch structure:
+*   **Left branch:** An independent voltage source of $24\text{ V}$ is connected in series with a $12\text{ }\Omega$ resistor.
+*   **Middle branch:** A $6\text{ }\Omega$ resistor connected in parallel across the rest of the circuit.
+*   **Right branch:** An independent current source of $3\text{ A}$ (pointing upward) connected in parallel.
+*   **Terminals:** Two output terminals labeled $a$ (top) and $b$ (bottom) represent the voltage $V_{Th}$ across the right-hand portion of the circuit.
+
+### 2. Component Details
+*   **Voltage Source:** Located on the far left. Value is $24\text{ V}$. Positive terminal is on top, negative terminal is on bottom.
+*   **Resistor 1:** Located in series between the voltage source and the middle branch. Value is $12\text{ }\Omega$.
+*   **Resistor 2:** Located in the middle branch, connected between the top and bottom rails. Value is $6\text{ }\Omega$.
+*   **Current Source:** Located on the right side of the circuit, connected between the top and bottom rails. Value is $3\text{ A}$, with an upward-pointing arrow indicating the direction of current flow.
+
+### 3. Labels and Annotations
+*   **$24\text{ V}$**: Placed to the left of the voltage source.
+*   **$12\text{ }\Omega$**: Placed above the top resistor.
+*   **$6\text{ }\Omega$**: Placed to the right of the middle resistor.
+*   **$3\text{ A}$**: Placed to the right of the current source.
+*   **Terminal $a$**: Located at the open-circuit node at the top right.
+*   **Terminal $b$**: Located at the open-circuit node at the bottom right.
+*   **$V_{Th}$**: Labeled near the right side, corresponding to the potential difference between terminals $a$ and $b$.
+*   **Polarity signs**: A '$+$' symbol is placed below node $a$, and a '$-$' symbol is placed above node $b$, indicating the polarity for $V_{Th}$.
+
+### 4. Nodes and Connections
+*   There are two main horizontal rails: a top rail and a bottom rail.
+*   The circuit has two junctions (dots) on the top rail and two corresponding junctions on the bottom rail.
+*   The voltage source, $12\text{ }\Omega$ resistor, $6\text{ }\Omega$ resistor, $3\text{ A}$ current source, and terminals $a/b$ are all connected in parallel across the two rails, except for the $12\text{ }\Omega$ resistor, which is in series with the $24\text{ V}$ source before the first parallel junction.

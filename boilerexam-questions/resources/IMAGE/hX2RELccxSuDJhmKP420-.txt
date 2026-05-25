@@ -1,0 +1,42 @@
+The image contains two distinct tables presenting properties and transform pairs for the Laplace Transform.
+
+### Table 1: Laplace Transform Properties
+This is a 3-column table with a header row and four data rows.
+
+*   **Header Row:**
+    *   Column 1: "Operation"
+    *   Column 2: "$g(t) =$"
+    *   Column 3: "$G(s) =$"
+*   **Row 1 (Differentiation):**
+    *   Operation: "Differentiation"
+    *   $g(t)$: $\frac{d}{dt} f(t)$
+    *   $G(s)$: $sF(s) - f(0^-)$
+*   **Row 2 (Integration):**
+    *   Operation: "Integration"
+    *   $g(t)$: $\int_{-\infty}^{t} f(\tau) d\tau$
+    *   $G(s)$: $\frac{F(s)}{s} + \frac{\int_{-\infty}^{0^-} f(\tau) d\tau}{s}$
+*   **Row 3 (Time-shift):**
+    *   Operation: "Time-shift"
+    *   $g(t)$: $f(t - t_0)$
+    *   $G(s)$: $e^{-st_0}F(s)$
+*   **Row 4 (Frequency-shift):**
+    *   Operation: "Frequency-shift"
+    *   $g(t)$: $e^{-at}f(t)$
+    *   $G(s)$: $F(s + a)$
+
+---
+
+### Table 2: Laplace Transform Pairs
+This is a 3-column table with a header row and seven data rows.
+
+*   **Header Row:**
+    *   Column 1: $f(t)$
+    *   Column 2: $F(s)$
+    *   Column 3: ROC
+*   **Row 1:** $f(t) = \delta(t)$, $F(s) = 1$, ROC = $all\ s$
+*   **Row 2:** $f(t) = u(t)$, $F(s) = \frac{1}{s}$, ROC = $Re\{s\} > 0$
+*   **Row 3:** $f(t) = tu(t)$, $F(s) = \frac{1}{s^2}$, ROC = $Re\{s\} > 0$
+*   **Row 4:** $f(t) = e^{-at}u(t)$, $F(s) = \frac{1}{s + a}$, ROC = $Re\{s\} > Re\{a\}$
+*   **Row 5:** $f(t) = te^{-at}u(t)$, $F(s) = \frac{1}{(s + a)^2}$, ROC = $Re\{s\} > Re\{a\}$
+*   **Row 6:** $f(t) = \cos(\omega_0 t)u(t)$, $F(s) = \frac{s}{s^2 + \omega_0^2}$, ROC = $Re\{s\} > 0$
+*   **Row 7:** $f(t) = \sin(\omega_0 t)u(t)$, $F(s) = \frac{\omega_0}{s^2 + \omega_0^2}$, ROC = $Re\{s\} > 0$

@@ -1,0 +1,15 @@
+This is a circuit diagram consisting of a single rectangular loop with a central vertical branch, creating two interior meshes.
+
+**Components and Layout:**
+1.  **Voltage Source:** Located on the leftmost vertical branch. It is a circle with a "+" sign at the top and a "-" sign at the bottom. The label "$V_s = 10\text{ V}$" is positioned to the left of the source.
+2.  **Resistor 1:** Located on the top horizontal segment, positioned between the voltage source branch and the central branch. It is labeled "$5\text{ }\Omega$".
+3.  **Capacitor:** Located on the central vertical branch. It is represented by two parallel horizontal lines and labeled "$4\text{ F}$" to its right.
+4.  **Resistor 2:** Located on the rightmost vertical branch. It is a zigzag line labeled "$20\text{ }\Omega$" to its right.
+
+**Circuit Connectivity:**
+*   The circuit is a two-loop network.
+*   The voltage source is in series with the $5\text{ }\Omega$ resistor in the leftmost loop.
+*   The capacitor forms the common branch between the left and right loops.
+*   The $20\text{ }\Omega$ resistor forms the rightmost branch.
+*   The bottom horizontal wire connects the negative terminal of the voltage source, the bottom of the capacitor, and the bottom of the $20\text{ }\Omega$ resistor, forming a common ground/return path.
+*   The top horizontal wire connects the $5\text{ }\Omega$ resistor, the top of the capacitor, and the top of the $20\text{ }\Omega$ resistor.

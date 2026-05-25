@@ -1,0 +1,38 @@
+This image displays two vertically stacked, synchronized graphs sharing a common time ($t$) axis.
+
+### 1. General Layout
+*   **Structure:** Two graphs plotted one above the other.
+*   **Coordinate System:** Both graphs have a horizontal time axis ($t$) and a vertical axis representing the variable ($x(t)$ for the top, $v_x(t)$ for the bottom).
+*   **Alignment:** Four vertical dashed lines pass through both graphs, indicating synchronized time points.
+*   **Label:** A large bold letter "**A**" is located in the central white space between the two graphs.
+
+### 2. Top Graph ($x(t)$)
+*   **Vertical Axis Label:** $x(t)$ (in blue text).
+*   **Horizontal Axis Label:** $t$.
+*   **Curve Shape:** A blue sinusoidal curve.
+*   **Key Features:**
+    *   Starts at the origin $(t=0, x=0)$.
+    *   Curves downwards into a negative trough between the first two vertical dashed lines.
+    *   Crosses the $t$-axis at the third vertical dashed line (going from negative to positive).
+    *   Reaches a positive peak between the third and fourth vertical dashed lines.
+    *   Ends at the $t$-axis at the fourth vertical dashed line.
+
+### 3. Bottom Graph ($v_x(t)$)
+*   **Vertical Axis Label:** $v_x(t)$ (in red text).
+*   **Horizontal Axis Label:** $t$.
+*   **Curve Shape:** A red sinusoidal curve.
+*   **Key Features:**
+    *   Starts at the origin $(t=0, v_x=0)$.
+    *   Curves upwards into a positive peak between the first and second vertical dashed lines.
+    *   Crosses the $t$-axis at the third vertical dashed line (going from positive to negative).
+    *   Reaches a negative trough between the third and fourth vertical dashed lines.
+    *   Ends at the $t$-axis at the fourth vertical dashed line.
+
+### 4. Geometry and Alignment
+*   **Vertical Grid Lines:** There are four vertical dashed lines spanning the height of the entire image. 
+    *   Line 1: At $t=0$ (the start of the waves).
+    *   Line 2: Aligned with the trough of the blue curve and the peak of the red curve.
+    *   Line 3: Aligned with the zero-crossing of both curves.
+    *   Line 4: Aligned with the peak of the blue curve and the trough of the red curve.
+    *   Line 5 (right edge): Aligned with the end-point of both curves.
+*   **Arrows:** Both graphs have vertical double-headed arrows indicating the range of the vertical axes (extending above and below the $t$-axis) and horizontal single-headed arrows indicating the positive direction of the $t$-axis.

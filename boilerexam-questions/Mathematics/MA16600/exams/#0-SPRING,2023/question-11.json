@@ -1,0 +1,143 @@
+{
+  "id": "7750f37e-431f-4728-9c80-edf469fb2394",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\int_{0}^{1} x^{2}e^{x}dx$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e3e37328-fdbf-4611-b556-a90bf620914c",
+        "index": 0,
+        "body": "$e-2$",
+        "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      },
+      {
+        "id": "77cdbaf2-5e05-4481-8b5a-4a897cae1bf3",
+        "index": 1,
+        "body": "$e$",
+        "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "105de3f7-5d3f-425f-85f1-707d4e04396a",
+        "index": 2,
+        "body": "$2e$",
+        "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "57e22166-5c19-45ca-9970-03d70c614024",
+        "index": 3,
+        "body": "$e+2$",
+        "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "683eb7f0-f4eb-4a8c-8d6c-0239eb083626",
+        "index": 4,
+        "body": "1",
+        "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "The answer provided on the original exam file answer key was incorrect. The answer has been adjusted to provide the correct answer. ",
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "24372228",
+    "timeSpentVideo": "1606427",
+    "submissions": 85,
+    "submissionsCorrect": 56,
+    "accuracy": 0.6588235294117647,
+    "difficulty": 0.677027027027027
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "70f0c432-5896-44ea-983f-8d28afdcfcb0",
+    "body": null,
+    "questionId": "7750f37e-431f-4728-9c80-edf469fb2394",
+    "resources": [
+      {
+        "id": "353d106c-3b93-4430-945f-0483948661e6",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=4370"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "70f0c432-5896-44ea-983f-8d28afdcfcb0",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "665046757",
+        "timeSpentVideo": "22863020",
+        "submissions": 1332,
+        "submissionsCorrect": 823,
+        "questions": 9,
+        "accuracy": 0.6178678678678678,
+        "difficulty": 0.6403631284916201
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,25 @@
+This image shows an RLC series circuit diagram alongside its component values.
+
+### 1. Circuit Diagram Description
+The diagram represents a single-loop series circuit consisting of:
+*   **Voltage Source:** On the far left, a sinusoidal voltage source labeled $v_{IN}(t)$ (in blue) with "+" and "-" polarity markers indicating top and bottom terminals respectively.
+*   **Vertical Boundary:** A purple dashed vertical line separates the voltage source from the rest of the circuit.
+*   **Resistor ($R_s$):** A resistor component connected in series, labeled $R_s$ underneath it.
+*   **Inductor ($L_s$):** An inductor component connected in series after the resistor, labeled $L_s$ underneath it.
+*   **Current Direction:** A blue arrow pointing to the right, positioned above the wire between the resistor and the inductor, labeled $i_{OUT}(t)$ (in blue).
+*   **Capacitor ($C_s$):** A capacitor component connected in series after the inductor, labeled $C_s$ to its left.
+*   **Input Admittance:** A purple bent arrow pointing into the bottom node of the voltage source, labeled $Y_{IN}$ (in purple).
+
+### 2. Component Values
+To the right of the circuit diagram, the following values are listed as a vertical list:
+*   $R = 0.1 \ [\Omega]$
+*   $L = 0.1 \ [H]$
+*   $C = 0.1 \ [F]$
+
+### 3. Spatial Geometry
+*   The circuit forms a rectangular loop.
+*   The voltage source is at the left vertical branch.
+*   The resistor, inductor, and capacitor are connected in series along the top horizontal path.
+*   The bottom path is a continuous straight wire returning to the bottom of the voltage source.
+*   The purple dashed line crosses the top and bottom wires, isolating the voltage source input.
+*   The $Y_{IN}$ indicator is located at the bottom left, signifying an input admittance perspective at the source terminals.

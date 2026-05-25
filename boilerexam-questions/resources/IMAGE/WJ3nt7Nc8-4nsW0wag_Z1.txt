@@ -1,0 +1,27 @@
+This image contains a circuit diagram and a set of mathematical definitions and parameters.
+
+### 1. Circuit Diagram Description
+The diagram displays a series RC circuit:
+*   **Voltage Source:** On the far left, there is an AC voltage source circle with a sine wave symbol inside. It is labeled $v_{in}(t)$ to its left, with a "+" sign above the circle and a "-" sign below it.
+*   **Resistor:** A resistor, labeled "R", is positioned on the top wire.
+*   **Capacitor:** A capacitor is positioned on the far right vertical wire, labeled "C". The capacitor voltage is denoted as $v_{C}(t)$ to the right of the capacitor, with a "+" sign above the capacitor plates and a "-" sign below.
+*   **Topology:** The components form a single closed loop with the source, the resistor, and the capacitor connected in series.
+
+### 2. Parameter and Equation Transcription
+To the right of the circuit diagram, the following mathematical expressions are listed:
+
+**Circuit Parameters:**
+*   $R = 1 \ [\Omega]$
+*   $C = 1 \ [F]$
+*   $v_{in}(t) = 5e^{-2t}u(t) \ [V]$
+*   $v_{C}(0) = 5 \ [V]$
+
+**Laplace Transform Definitions:**
+*   $L[u(t)] = \frac{1}{s}$
+*   $L[e^{-at}] = \frac{1}{s+a}$
+
+### 3. Spatial Layout
+*   The circuit diagram occupies the left side of the image.
+*   The parameters and Laplace definitions occupy the right side, arranged in two vertical columns.
+*   The four circuit parameters are stacked vertically on the left-center.
+*   The two Laplace equations are stacked vertically on the far right.

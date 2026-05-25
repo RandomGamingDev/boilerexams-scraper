@@ -1,0 +1,143 @@
+{
+  "id": "bb176adf-68a3-41ff-b1f8-708d46956244",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the integral $\\int_{2}^{3} \\frac{x+5}{x^{2}+x-2} d x$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "ba6b1f6e-d408-4636-afc0-344f7db584bd",
+        "index": 0,
+        "body": "$\\ln (16 / 5)$",
+        "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+        "stats": {
+          "count": 754
+        },
+        "resources": []
+      },
+      {
+        "id": "7e6042b8-9f91-4b2a-89a4-9c53f2fbc822",
+        "index": 1,
+        "body": "$\\ln (9 / 5)$",
+        "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "bb2f16f3-147d-4db5-abdc-dedd227e7c65",
+        "index": 2,
+        "body": "$\\ln (8 / 5)$",
+        "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+        "stats": {
+          "count": 123
+        },
+        "resources": []
+      },
+      {
+        "id": "287b753f-26a0-4496-b7b1-a7dc411bf953",
+        "index": 3,
+        "body": "$\\ln (12 / 5)$",
+        "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+        "stats": {
+          "count": 27
+        },
+        "resources": []
+      },
+      {
+        "id": "8489d154-b6d2-486a-a238-725c3481a2a8",
+        "index": 4,
+        "body": "$\\ln (4 / 5)$",
+        "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": "",
+  "examId": "bc4ad7a9-2854-4343-9c01-572926114c72",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "269676622",
+    "timeSpentVideo": "25107179",
+    "submissions": 1161,
+    "submissionsCorrect": 754,
+    "accuracy": 0.6494401378122309,
+    "difficulty": 0.6124107850911975
+  },
+  "resources": [],
+  "exam": {
+    "id": "bc4ad7a9-2854-4343-9c01-572926114c72",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4470720362",
+      "timeSpentVideo": "694382710",
+      "submissions": 27207,
+      "submissionsCorrect": 15144,
+      "questions": 12,
+      "accuracy": 0.5566214577130886,
+      "difficulty": 0.6935858937268832
+    }
+  },
+  "explanation": {
+    "id": "e19bb882-023f-4166-9fb2-78ab59498829",
+    "body": "",
+    "questionId": "bb176adf-68a3-41ff-b1f8-708d46956244",
+    "resources": [
+      {
+        "id": "f4311317-14f0-4904-b003-86315a797af4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YRZpexVsi7o?t=782\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e19bb882-023f-4166-9fb2-78ab59498829",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "12d0571c-7906-4db4-bee4-cd1988690a76",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18145948335",
+        "timeSpentVideo": "1123549204",
+        "submissions": 45151,
+        "submissionsCorrect": 27952,
+        "questions": 17,
+        "accuracy": 0.6190782042479679,
+        "difficulty": 0.6311849461890345
+      }
+    }
+  ],
+  "children": []
+}

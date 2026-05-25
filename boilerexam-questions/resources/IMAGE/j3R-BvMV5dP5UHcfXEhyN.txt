@@ -1,0 +1,30 @@
+This is an electrical circuit diagram containing resistors, independent current sources, and a ground reference.
+
+### 1. Circuit Components and Labels:
+*   **Resistors:**
+    *   $R_1$: Located on the far-left vertical branch.
+    *   $R_2$: Located on the horizontal branch connecting the top of $R_1$ to node $V_2$.
+    *   $R_3$: Located on a vertical branch to the right of $I_1$.
+*   **Current Sources:**
+    *   $I_1$: A vertical current source labeled with an upward-pointing arrow. It is connected between node $V_2$ and the bottom common rail.
+    *   $I_2$: A vertical current source labeled with a downward-pointing arrow. It is connected at the far-right branch between the top horizontal rail and the bottom common rail.
+*   **Nodes:**
+    *   $V_2$: A designated node at the junction connecting $R_2$, the $I_1$ current source, and the rest of the top horizontal rail.
+    *   **Ground:** A ground symbol is attached to the center of the bottom horizontal rail.
+
+### 2. Spatial Geometry and Topology:
+*   **Main Rail:** There is a common bottom horizontal rail connected to ground.
+*   **Top Loop Structure:**
+    *   The circuit starts on the left with a vertical branch containing $R_1$ connected to the bottom rail.
+    *   From the top of $R_1$, a horizontal branch with $R_2$ leads to node $V_2$.
+    *   Node $V_2$ acts as a major junction.
+    *   To the right of node $V_2$, the top horizontal rail continues, connecting to the $R_3$ branch and finally the $I_2$ branch.
+*   **Connections:**
+    *   $R_1$ is in series with $R_2$.
+    *   The combination of $(R_1 + R_2)$ is connected in parallel with the current source $I_1$.
+    *   $R_3$ is in parallel with the $I_2$ source.
+    *   The entire assembly is connected across the common bottom rail (reference node) and the top rail that includes node $V_2$.
+
+### 3. Conventions:
+*   **Current Direction:** $I_1$ points upward (from the bottom rail toward the top rail). $I_2$ points downward (from the top rail toward the bottom rail).
+*   **Labels:** All variable text ($R_1, R_2, V_2, I_1, R_3, I_2$) is written in a standard serif mathematical font.

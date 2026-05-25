@@ -1,0 +1,25 @@
+The image displays a single-loop circuit diagram consisting of a voltage source, two resistors, and two diodes arranged in a parallel configuration.
+
+**Components and Layout:**
+1.  **Voltage Source:** Located on the left side of the rectangular circuit loop. It is a circle containing a minus sign (top) and a plus sign (bottom). To the left of the circle is the label "15 V".
+2.  **Current Direction:** An arrow is positioned to the right of the voltage source, pointing downwards, parallel to the source, labeled with the variable "$I$".
+3.  **Resistors:**
+    *   Top resistor: Positioned on the top branch of the circuit, labeled "6 $\Omega$".
+    *   Bottom resistor: Positioned on the bottom branch of the circuit, labeled "9 $\Omega$".
+4.  **Diodes:** Located on the rightmost vertical branch of the circuit. The branch splits into two parallel vertical paths:
+    *   **Left path:** Contains diode "$D1$". The triangular symbol points upwards (anode on top, cathode on bottom).
+    *   **Right path:** Contains diode "$D2$". The triangular symbol points downwards (anode on bottom, cathode on top).
+
+**Connectivity:**
+*   The circuit is a single rectangular loop.
+*   Starting from the positive terminal of the 15 V source (bottom): the wire moves right, passes through the 9 $\Omega$ resistor, reaches the junction for the diodes.
+*   The diodes $D1$ and $D2$ are connected in parallel between the bottom wire and the top wire.
+*   From the top junction, the wire moves left, passes through the 6 $\Omega$ resistor, and returns to the negative terminal of the 15 V source (top).
+
+**Summary of Text/Labels:**
+*   "15 V" (beside the voltage source)
+*   "$I$" (beside the downward-pointing arrow)
+*   "$6 \Omega$" (above the top resistor)
+*   "$9 \Omega$" (below the bottom resistor)
+*   "$D1$" (to the left of the left diode)
+*   "$D2$" (to the right of the right diode)

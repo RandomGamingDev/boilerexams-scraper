@@ -13,7 +13,7 @@
         "body": "$y(t) = \\tfrac{1}{2}\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
         "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
         "stats": {
-          "count": 1
+          "count": 907
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "$y(t) = \\tfrac{1}{6}\\int_0^t \\tau^3 f(t-\\tau)\\,d\\tau$",
         "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
         "stats": {
-          "count": 0
+          "count": 141
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "$y(t) = \\tfrac{1}{6}\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
         "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
         "stats": {
-          "count": 0
+          "count": 85
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "$y(t) = 2\\int_0^t \\tau^2 f(t-\\tau)\\,d\\tau$",
         "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
         "stats": {
-          "count": 0
+          "count": 40
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "$y(t) = 6\\int_0^t \\tau^3 f(t-\\tau)\\,d\\tau$",
         "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
         "stats": {
-          "count": 0
+          "count": 35
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "188153",
-    "timeSpentVideo": "0",
-    "submissions": 1,
-    "submissionsCorrect": 1,
-    "accuracy": 1,
-    "difficulty": 0.745049504950495
+    "timeSpent": "328497878",
+    "timeSpentVideo": "13621820",
+    "submissions": 1295,
+    "submissionsCorrect": 907,
+    "accuracy": 0.7003861003861004,
+    "difficulty": 0.5639784946236559
   },
   "resources": [],
   "exam": {
@@ -92,20 +92,35 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "263835681",
-      "timeSpentVideo": "0",
-      "submissions": 825,
-      "submissionsCorrect": 591,
+      "timeSpent": "8190216461",
+      "timeSpentVideo": "168127082",
+      "submissions": 27617,
+      "submissionsCorrect": 19254,
       "questions": 20,
-      "accuracy": 0.7163636363636363,
-      "difficulty": 0.557027027027027
+      "accuracy": 0.697179273635804,
+      "difficulty": 0.5535321282967132
     }
   },
   "explanation": {
     "id": "66ebd350-66a7-47f9-96d2-c286656b0f89",
     "body": null,
     "questionId": "7ee3dc65-5f6b-419e-b0cb-5c365bc085be",
-    "resources": []
+    "resources": [
+      {
+        "id": "9fb69c02-715e-4af4-8654-1fbb68d658ea",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XVwLYOhdPDg?si=HRqHYMriBzuYU0du&t=3099"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "66ebd350-66a7-47f9-96d2-c286656b0f89",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
   },
   "topics": [
     {
@@ -114,13 +129,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "7210061576",
-        "timeSpentVideo": "721702380",
-        "submissions": 11565,
-        "submissionsCorrect": 6000,
-        "questions": 14,
-        "accuracy": 0.5188067444876784,
-        "difficulty": 0.7313544792113159
+        "timeSpent": "17402874273",
+        "timeSpentVideo": "1537778700",
+        "submissions": 26720,
+        "submissionsCorrect": 14908,
+        "questions": 12,
+        "accuracy": 0.557934131736527,
+        "difficulty": 0.6922818791946309
       }
     }
   ],

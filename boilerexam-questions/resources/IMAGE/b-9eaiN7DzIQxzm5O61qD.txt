@@ -1,0 +1,51 @@
+This image is a directed acyclic graph (an expression tree) representing a mathematical expression. The structure consists of nodes containing operators or variables, connected by lines. Each node is represented as a circle.
+
+### Structural Hierarchy
+The tree is rooted at the top and branches downward into a binary structure.
+
+**Root Node:**
+*   Contains the division operator: `/`
+
+**Second Level (Children of Root):**
+*   **Left Branch:** Contains the subtraction operator: `-`
+*   **Right Branch:** Contains the addition operator: `+`
+
+**Third Level (Children of Second Level):**
+*   **Left branch of `-`:** Contains the multiplication operator: `*`
+*   **Right branch of `-`:** Contains the multiplication operator: `*`
+*   **Left branch of `+`:** Contains the multiplication operator: `*`
+*   **Right branch of `+`:** Contains the variable: `c`
+
+**Fourth Level (Children of Third Level):**
+*   **From first `*` (left):**
+    *   Left branch: variable `b`
+    *   Right branch: another multiplication operator `*`
+*   **From second `*` (middle-left):**
+    *   Left branch: variable `a`
+    *   Right branch: another multiplication operator `*`
+*   **From third `*` (right):**
+    *   Left branch: variable `b`
+    *   Right branch: variable `y`
+
+**Fifth Level (Children of Fourth Level):**
+*   **From the lower `*` (under first `*`):**
+    *   Left branch: variable `x`
+    *   Right branch: variable `x`
+*   **From the lower `*` (under second `*`):**
+    *   Left branch: variable `x`
+    *   Right branch: variable `y`
+
+### Summary of Tree Connections (Parent -> Left Child, Right Child):
+1.  `/` -> `-`, `+`
+2.  `-` -> `*`, `*`
+3.  `+` -> `*`, `c`
+4.  First `*` (left) -> `b`, `*`
+5.  Second `*` (middle-left) -> `a`, `*`
+6.  Third `*` (right) -> `b`, `y`
+7.  Fourth `*` (bottom-left) -> `x`, `x`
+8.  Fifth `*` (bottom-middle) -> `x`, `y`
+
+### Visual Notation
+*   Each node is a circle containing the character (operator or variable).
+*   Each node also features two small, empty circles attached to its lower-left and lower-right edges.
+*   Connections are indicated by straight black lines connecting the parent node to the center of the child nodes.

@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "Consider the tip-loaded cantilever beam of length L shown in the figure below. The elastic modulus is E and the cross-sectional moment of inertia is I.\n\na) Integrate the internal bending moment to find an expression for the deflection of the beam. Clearly state the differential equation and boundary conditions you are using. \n\nb) Without performing any calculations, describe in words how you would solve for the deflection if the discrete tip load P was replaced with a distributed load q(x) over the entire length of the beam. Write no more than three complete sentences.",
-    "solution": [],
+    "solution": "a) $\\frac{1}{EI}[-\\frac{Px^3}{6} + \\frac{PL^2x}{2} - \\frac{PL^3}{3}]$",
     "answerChoices": []
   },
   "number": 1,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "118167783",
-    "timeSpentVideo": "28991482",
-    "submissions": 741,
-    "submissionsCorrect": 56,
-    "accuracy": 0.07557354925775979,
-    "difficulty": 1.1239595719381688
+    "timeSpent": "182710701",
+    "timeSpentVideo": "48742586",
+    "submissions": 896,
+    "submissionsCorrect": 95,
+    "accuracy": 0.10602678571428571,
+    "difficulty": 1.104417670682731
   },
   "resources": [
     {
@@ -55,13 +55,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "357376191",
-      "timeSpentVideo": "62646898",
-      "submissions": 1383,
-      "submissionsCorrect": 150,
+      "timeSpent": "586760998",
+      "timeSpentVideo": "111462166",
+      "submissions": 1891,
+      "submissionsCorrect": 278,
       "questions": 4,
-      "accuracy": 0.10845986984815618,
-      "difficulty": 1.1151382333108564
+      "accuracy": 0.14701216287678476,
+      "difficulty": 1.0852586639879458
     }
   },
   "explanation": {
@@ -137,13 +137,13 @@
       "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
       "stats": {
         "count": 1,
-        "timeSpent": "233564797",
-        "timeSpentVideo": "28991482",
-        "submissions": 741,
-        "submissionsCorrect": 56,
+        "timeSpent": "423739837",
+        "timeSpentVideo": "48742586",
+        "submissions": 896,
+        "submissionsCorrect": 95,
         "questions": 1,
-        "accuracy": 0.07557354925775979,
-        "difficulty": 1.1239595719381688
+        "accuracy": 0.10602678571428571,
+        "difficulty": 1.104417670682731
       }
     },
     {
@@ -152,13 +152,13 @@
       "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
       "stats": {
         "count": 1,
-        "timeSpent": "394435193",
-        "timeSpentVideo": "39088226",
-        "submissions": 967,
-        "submissionsCorrect": 82,
+        "timeSpent": "707230016",
+        "timeSpentVideo": "71325367",
+        "submissions": 1244,
+        "submissionsCorrect": 148,
         "questions": 2,
-        "accuracy": 0.08479834539813857,
-        "difficulty": 1.1262886597938144
+        "accuracy": 0.1189710610932476,
+        "difficulty": 1.1026785714285714
       }
     },
     {
@@ -167,13 +167,13 @@
       "courseId": "4e7d365a-7901-424c-a5eb-64cc91d8d4db",
       "stats": {
         "count": 1,
-        "timeSpent": "621269140",
-        "timeSpentVideo": "74125864",
-        "submissions": 1177,
-        "submissionsCorrect": 120,
+        "timeSpent": "1165597400",
+        "timeSpentVideo": "129112120",
+        "submissions": 1606,
+        "submissionsCorrect": 204,
         "questions": 3,
-        "accuracy": 0.10195412064570943,
-        "difficulty": 1.1168754894283477
+        "accuracy": 0.12702366127023662,
+        "difficulty": 1.1011137162954279
       }
     }
   ],

@@ -1,0 +1,143 @@
+{
+  "id": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following is the value of the integral $\\int \\tan ^{-1} x \\mathrm{~d} x$ ?",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7bda9771-b09e-405a-8089-976812dd8ee4",
+        "index": 0,
+        "body": "$\\ln (\\tan x)+c$",
+        "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+        "stats": {
+          "count": 105
+        },
+        "resources": []
+      },
+      {
+        "id": "8a6e74fe-ba80-4e09-b6bc-da7475fe132a",
+        "index": 1,
+        "body": "$\\ln (\\sin x)+c$",
+        "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+        "stats": {
+          "count": 161
+        },
+        "resources": []
+      },
+      {
+        "id": "75a08ddd-b5c9-4410-9e97-cebb55a4d0f4",
+        "index": 2,
+        "body": "$x \\tan ^{-1} x-\\frac{1}{2} \\ln \\left(x^{2}+1\\right)+c$",
+        "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+        "stats": {
+          "count": 1023
+        },
+        "resources": []
+      },
+      {
+        "id": "017624bb-df01-4cb2-8aed-d58828681a6b",
+        "index": 3,
+        "body": "$x \\tan ^{-1} x+\\frac{1}{2} \\ln \\left(x^{2}+1\\right)+c$",
+        "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+        "stats": {
+          "count": 119
+        },
+        "resources": []
+      },
+      {
+        "id": "6dbf8973-d3d8-402c-bf95-3623c1c431ff",
+        "index": 4,
+        "body": "$x \\tan ^{-1} x-2 \\ln \\left(x^{2}+1\\right)+c$",
+        "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+        "stats": {
+          "count": 49
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": "",
+  "examId": "bc4ad7a9-2854-4343-9c01-572926114c72",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "260416126",
+    "timeSpentVideo": "54600603",
+    "submissions": 1914,
+    "submissionsCorrect": 1023,
+    "accuracy": 0.5344827586206896,
+    "difficulty": 0.7172293942403177
+  },
+  "resources": [],
+  "exam": {
+    "id": "bc4ad7a9-2854-4343-9c01-572926114c72",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4470720362",
+      "timeSpentVideo": "694382710",
+      "submissions": 27207,
+      "submissionsCorrect": 15144,
+      "questions": 12,
+      "accuracy": 0.5566214577130886,
+      "difficulty": 0.6935858937268832
+    }
+  },
+  "explanation": {
+    "id": "deadb883-a74d-407b-8b0a-f670eaeabe9b",
+    "body": "",
+    "questionId": "c2ecfd31-3c80-4fb2-9deb-a879dde488bc",
+    "resources": [
+      {
+        "id": "335e4014-2b00-40e9-99fb-67c683ac743e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YRZpexVsi7o?t=385\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "deadb883-a74d-407b-8b0a-f670eaeabe9b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20053656857",
+        "timeSpentVideo": "1182672762",
+        "submissions": 43467,
+        "submissionsCorrect": 26290,
+        "questions": 14,
+        "accuracy": 0.6048266501023765,
+        "difficulty": 0.6454139601074208
+      }
+    }
+  ],
+  "children": []
+}

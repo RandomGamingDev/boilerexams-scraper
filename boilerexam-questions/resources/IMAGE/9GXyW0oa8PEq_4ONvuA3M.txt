@@ -1,0 +1,29 @@
+This image displays two vertically stacked, synchronized graphs illustrating the relationship between position ($x(t)$) and velocity ($v_x(t)$) over time ($t$).
+
+### **1. General Structure**
+*   **Layout:** Two plots stacked vertically, sharing the same horizontal time axis.
+*   **Vertical Dotted Lines:** Four dashed vertical lines extend through both graphs to show temporal alignment of key points (extrema and intercepts).
+*   **Labels:** The letter "B" is printed in bold black text in the space between the two graphs.
+
+### **2. Upper Graph: Position vs. Time**
+*   **Axes:** 
+    *   Horizontal axis labeled "$t$".
+    *   Vertical axis labeled "$x(t)$" in blue.
+*   **Curve:** A sinusoidal wave (blue line) starting at the origin $(0,0)$. 
+*   **Trajectory:** The wave goes negative (minimum peak), crosses the horizontal axis at the center, reaches a maximum peak, and returns to the horizontal axis at the rightmost edge.
+
+### **3. Lower Graph: Velocity vs. Time**
+*   **Axes:** 
+    *   Horizontal axis labeled "$t$".
+    *   Vertical axis labeled "$v_x(t)$" in red.
+*   **Curve:** A sinusoidal wave (red line) starting at a minimum value.
+*   **Trajectory:** The wave rises from its minimum, crosses the horizontal axis at the first vertical alignment line, reaches its maximum peak, crosses the horizontal axis again at the fourth vertical alignment line, and trends downward toward its minimum.
+
+### **4. Synchronization/Phase Relationships**
+The vertical dotted lines indicate points of phase correlation:
+1.  **Line 1 (left):** Aligns with the minimum of the $x(t)$ graph and a point between the minimum and the first intercept of the $v_x(t)$ graph.
+2.  **Line 2:** Aligns with the first intercept of the $x(t)$ graph (zero-crossing) and the first intercept of the $v_x(t)$ graph.
+3.  **Line 3:** Aligns with the maximum of the $x(t)$ graph and the intercept of the $v_x(t)$ graph (zero-crossing).
+4.  **Line 4 (right):** Aligns with the final intercept of the $x(t)$ graph and a point near the final minimum of the $v_x(t)$ graph.
+
+*(Note: The $v_x(t)$ peak appears to be aligned with the $x(t)$ intercept, consistent with $v = dx/dt$.)*

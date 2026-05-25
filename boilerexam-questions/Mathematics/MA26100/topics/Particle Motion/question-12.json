@@ -1,67 +1,67 @@
 {
-  "id": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+  "id": "548085b7-d042-4002-a138-9bb71c895043",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Find $f^{\\prime}(1)$, where $f(t)=\\mathbf{u}(t) \\cdot \\mathbf{v}(t), \\mathbf{u}(1)=\\langle 1,1,1\\rangle, \\mathbf{u}^{\\prime}(1)=\\langle 1,2,3\\rangle$, and $\\mathbf{v}(t)=\\left\\langle t, t^{2}, t^{3}\\right\\rangle$.",
+    "body": "Find $\\vec{r}(1)$ if $\\vec{r^{\\prime \\prime}}(t)=12 t \\vec{i}+12 t^2 \\vec{j}+\\vec{k}$ and $\\vec{r}(0)=\\vec{j}$ and $\\vec{r^{\\prime}}(0)=-\\vec{k}$",
     "solution": [
-      3
+      0
     ],
     "answerChoices": [
       {
-        "id": "cf7bd300-c86e-42f3-9780-e152f5d65d05",
+        "id": "ec64ce13-023c-46b9-9b77-f76b0a934ed6",
         "index": 0,
-        "body": "$6$",
-        "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+        "body": "$2 \\vec{i}+2 \\vec{j}-\\frac{1}{2} \\vec{k}$",
+        "questionId": "548085b7-d042-4002-a138-9bb71c895043",
         "stats": {
-          "count": 62
+          "count": 4178
         },
         "resources": []
       },
       {
-        "id": "3e97c788-26f2-4064-bee7-636d468c376c",
+        "id": "f00b8c56-228a-4866-9677-9eaaa2cf7219",
         "index": 1,
-        "body": "$14$",
-        "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+        "body": "$6 \\vec{i}-\\vec{j}$",
+        "questionId": "548085b7-d042-4002-a138-9bb71c895043",
         "stats": {
-          "count": 111
+          "count": 33
         },
         "resources": []
       },
       {
-        "id": "392e06bc-536b-494f-96fd-931b135e8a4b",
+        "id": "67e57842-6b29-4405-b4fa-6e5426f24df9",
         "index": 2,
-        "body": "$28$",
-        "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+        "body": "$2 \\vec{i}-3 \\vec{j}+\\vec{k}$",
+        "questionId": "548085b7-d042-4002-a138-9bb71c895043",
         "stats": {
-          "count": 14
+          "count": 51
         },
         "resources": []
       },
       {
-        "id": "c7536b9a-dd64-4fc2-aa9d-ba3a128c88cc",
+        "id": "21d0bdd1-030b-4cd5-97eb-8daaac4b49ec",
         "index": 3,
-        "body": "$12$",
-        "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+        "body": "$2 \\vec{i}+\\vec{k}$",
+        "questionId": "548085b7-d042-4002-a138-9bb71c895043",
         "stats": {
-          "count": 668
+          "count": 37
         },
         "resources": []
       },
       {
-        "id": "81deaf7c-ea20-4429-9d4d-4e7193c3a2ae",
+        "id": "ed34de1a-ad21-4694-8125-dcd2cf96f428",
         "index": 4,
-        "body": "$24$",
-        "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+        "body": "$2 \\vec{i}+\\vec{j}+\\frac{1}{2} \\vec{k}$",
+        "questionId": "548085b7-d042-4002-a138-9bb71c895043",
         "stats": {
-          "count": 7
+          "count": 259
         },
         "resources": []
       }
     ]
   },
   "number": 12,
-  "disclaimer": null,
-  "examId": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
+  "disclaimer": "",
+  "examId": "22108f94-89b5-460d-bf28-d85af94b1be2",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,18 +71,18 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "169218732",
-    "timeSpentVideo": "13050566",
-    "submissions": 995,
-    "submissionsCorrect": 667,
-    "accuracy": 0.6703517587939698,
-    "difficulty": 0.5952054794520548
+    "timeSpent": "1084110311",
+    "timeSpentVideo": "43885534",
+    "submissions": 4836,
+    "submissionsCorrect": 4178,
+    "accuracy": 0.8639371381306865,
+    "difficulty": 0.39343598055105344
   },
   "resources": [],
   "exam": {
-    "id": "398e3f6f-9b2b-4d04-af0d-d2806a932a49",
-    "number": 1,
-    "year": 2017,
+    "id": "22108f94-89b5-460d-bf28-d85af94b1be2",
+    "number": 0,
+    "year": 2022,
     "season": "FALL",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4803184149",
-      "timeSpentVideo": "630782135",
-      "submissions": 24326,
-      "submissionsCorrect": 13948,
-      "questions": 12,
-      "accuracy": 0.5733782783852668,
-      "difficulty": 0.6769221321542619
+      "timeSpent": "36694436050",
+      "timeSpentVideo": "5871503797",
+      "submissions": 167993,
+      "submissionsCorrect": 100303,
+      "questions": 20,
+      "accuracy": 0.5970665444393516,
+      "difficulty": 0.6529912012992808
     }
   },
   "explanation": {
-    "id": "2edd8c63-c4f7-4739-bfe5-8e3d63472d68",
-    "body": null,
-    "questionId": "4ffedf49-1350-448f-a9c0-0f69d7528544",
+    "id": "5527b62e-a999-4386-9f98-81c8d8a21c7c",
+    "body": "",
+    "questionId": "548085b7-d042-4002-a138-9bb71c895043",
     "resources": [
       {
-        "id": "9fd3e142-d85e-4859-b559-856ac29b1038",
+        "id": "5ab3ea85-d1af-48f2-b3c7-053c4282e4c8",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/Z-J8h5pdEfQ?si=5HS-hQG8PM_ZDTAi&t=2086"
+          "url": "https://youtu.be/6mfaWmnwZAM?si=nllHdYcq6XEp8FuO&t=2453"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "2edd8c63-c4f7-4739-bfe5-8e3d63472d68",
+        "explanationId": "5527b62e-a999-4386-9f98-81c8d8a21c7c",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -129,13 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "27634509693",
-        "timeSpentVideo": "1513885505",
-        "submissions": 59326,
-        "submissionsCorrect": 39646,
-        "questions": 15,
-        "accuracy": 0.6682736068502849,
-        "difficulty": 0.5820095581058796
+        "timeSpent": "30035519618",
+        "timeSpentVideo": "1547321611",
+        "submissions": 64748,
+        "submissionsCorrect": 43761,
+        "questions": 13,
+        "accuracy": 0.675866436028912,
+        "difficulty": 0.5744047619047619
       }
     }
   ],

@@ -1,0 +1,37 @@
+This is an exhaustive description of the provided circuit diagram, representing a transformer with primary and secondary circuits.
+
+### 1. Circuit Topology
+The diagram consists of two separate rectangular circuit loops placed side-by-side.
+
+*   **Left Loop (Primary Circuit):**
+    *   Contains a voltage source ($\tilde{V}_S$), a resistor ($R_1$), and an inductor ($L_1$).
+    *   The voltage source $\tilde{V}_S$ is on the left vertical branch, with the positive terminal at the top.
+    *   The resistor $R_1$ is on the top horizontal branch.
+    *   The inductor $L_1$ is on the right vertical branch of this loop.
+    *   There is a **dot marker** at the bottom end of the inductor $L_1$.
+
+*   **Right Loop (Secondary Circuit):**
+    *   Contains an inductor ($L_2$) and a resistor ($R_2$).
+    *   The inductor $L_2$ is on the left vertical branch of this loop.
+    *   The resistor $R_2$ is on the right vertical branch of this loop.
+    *   There is a **dot marker** at the top end of the inductor $L_2$.
+
+### 2. Text, Variables, and Symbols
+*   **Voltage Source:** Labelled as $\tilde{V}_S$ to the left of the circle containing a `+` (top) and `-` (bottom) sign.
+*   **Resistors:**
+    *   Top resistor labeled $R_1$ positioned above the zigzag symbol.
+    *   Right resistor labeled $R_2$ positioned to the right of the zigzag symbol.
+*   **Inductors/Mutual Inductance:**
+    *   Primary inductor labeled $L_1$ to the left of the inductor symbol.
+    *   Secondary inductor labeled $L_2$ to the right of the inductor symbol.
+    *   Mutual inductance labeled as $L_{12}$ positioned between the two loops. There are two curved arrows pointing from the $L_{12}$ label toward the space between the two inductors.
+*   **Currents:**
+    *   Primary current labeled $\tilde{I}_1$ with an arrow pointing to the right, located above the top wire of the primary circuit.
+    *   Secondary current labeled $\tilde{I}_2$ with an arrow pointing upward, located to the right of the resistor $R_2$.
+
+### 3. Spatial Relationships
+*   The two loops are magnetically coupled via $L_{12}$.
+*   The primary circuit (left) is a standard series loop.
+*   The secondary circuit (right) is a standard series loop.
+*   **Dot Convention:** The dot on $L_1$ is at the bottom terminal. The dot on $L_2$ is at the top terminal. This indicates a phase inversion between the primary and secondary windings.
+*   The arrows for $\tilde{I}_1$ and $\tilde{I}_2$ define the reference directions for the currents in the respective loops.

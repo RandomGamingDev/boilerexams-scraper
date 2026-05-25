@@ -13,7 +13,7 @@
         "body": "We would need to re-run the MST creation algorithm, as a new update has happened that causes us to find a new edge to possibly replace (v1, v2). $O(E \\log E)$",
         "questionId": "5eb5ac4b-ad7c-425f-aa89-fd41b0cccde2",
         "stats": {
-          "count": 288
+          "count": 346
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "No change needs to be made. (v1, v2) is already in the MST, and no other edge can replace it. $O(1)$",
         "questionId": "5eb5ac4b-ad7c-425f-aa89-fd41b0cccde2",
         "stats": {
-          "count": 500
+          "count": 655
         },
         "resources": []
       }
@@ -41,12 +41,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "101164153",
+    "timeSpent": "117793678",
     "timeSpentVideo": "0",
-    "submissions": 1195,
-    "submissionsCorrect": 869,
-    "accuracy": 0.7271966527196653,
-    "difficulty": 0.5403474903474903
+    "submissions": 1413,
+    "submissionsCorrect": 1024,
+    "accuracy": 0.7246992215145082,
+    "difficulty": 0.5401520158625248
   },
   "resources": [],
   "exam": {
@@ -62,13 +62,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "2297672348",
-      "timeSpentVideo": "21159737",
-      "submissions": 15182,
-      "submissionsCorrect": 11664,
+      "timeSpent": "2767042047",
+      "timeSpentVideo": "29207138",
+      "submissions": 17666,
+      "submissionsCorrect": 13598,
       "questions": 17,
-      "accuracy": 0.7682782242128837,
-      "difficulty": 0.483477293547965
+      "accuracy": 0.7697271595154535,
+      "difficulty": 0.48179106157829565
     }
   },
   "explanation": {
@@ -84,13 +84,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "5701164731",
-        "timeSpentVideo": "216147085",
-        "submissions": 10608,
-        "submissionsCorrect": 7952,
+        "timeSpent": "6950130382",
+        "timeSpentVideo": "280785053",
+        "submissions": 12930,
+        "submissionsCorrect": 9617,
         "questions": 11,
-        "accuracy": 0.7496229260935143,
-        "difficulty": 0.5027082555098992
+        "accuracy": 0.7437741686001547,
+        "difficulty": 0.508096699923254
       }
     }
   ],

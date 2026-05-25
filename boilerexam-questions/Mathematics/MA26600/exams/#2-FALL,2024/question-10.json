@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "An undamped mass-spring system is given by\n\\[\nx'' + x = 2\\cos(\\omega t).\n\\]\n[(a)] What value of $\\omega$ gives resonance?\n[(b)] With $\\omega$ from part (a), use undetermined coefficients to find a particular solution.",
-    "solution": [],
+    "solution": "$\\omega = 1$,\n$x_p = t\\sin{(t)}$",
     "answerChoices": []
   },
   "number": 10,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "30103844",
-    "timeSpentVideo": "10795691",
-    "submissions": 125,
-    "submissionsCorrect": 31,
-    "accuracy": 0.248,
-    "difficulty": 0.89
+    "timeSpent": "451030187",
+    "timeSpentVideo": "140541360",
+    "submissions": 1869,
+    "submissionsCorrect": 525,
+    "accuracy": 0.2808988764044944,
+    "difficulty": 0.957973590655155
   },
   "resources": [],
   "exam": {
@@ -39,25 +39,25 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "298874368",
-      "timeSpentVideo": "69410399",
-      "submissions": 1300,
-      "submissionsCorrect": 596,
+      "timeSpent": "4270175595",
+      "timeSpentVideo": "832822845",
+      "submissions": 18892,
+      "submissionsCorrect": 10142,
       "questions": 10,
-      "accuracy": 0.4584615384615385,
-      "difficulty": 0.7885714285714286
+      "accuracy": 0.5368409908956172,
+      "difficulty": 0.7133529907329402
     }
   },
   "explanation": {
     "id": "b2838d97-c8ff-4337-a47e-8fd138be6568",
-    "body": null,
+    "body": "CORRECTION: The expression for $x_p''$ has a $Bt\\sin{t}$ where there should be $-Bt\\sin{t}$. This is corrected in the next step, so does not affect the solution.",
     "questionId": "6136583a-af53-49dc-85bd-97928c0fce65",
     "resources": [
       {
         "id": "5f6fc21a-c127-49b0-9303-7210b6081d6c",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/-0V2dZjptNg?si=J7H9FJVvGd7XHg_X&t=2369"
+          "url": "https://youtu.be/-0V2dZjptNg?si=J7H9FJVvGd7XHg_X&t=2375"
         },
         "courseId": null,
         "examId": null,
@@ -76,13 +76,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "4841779133",
-        "timeSpentVideo": "476949054",
-        "submissions": 10016,
-        "submissionsCorrect": 5205,
+        "timeSpent": "14004461927",
+        "timeSpentVideo": "1257046141",
+        "submissions": 28773,
+        "submissionsCorrect": 15300,
         "questions": 12,
-        "accuracy": 0.5196685303514377,
-        "difficulty": 0.7305258995650454
+        "accuracy": 0.5317485142320926,
+        "difficulty": 0.7183614449485679
       }
     }
   ],

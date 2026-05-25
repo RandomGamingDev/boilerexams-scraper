@@ -1,0 +1,19 @@
+This image is a line graph representing an electrical current $i_L$ (in mA) over time $t$ (in seconds).
+
+### 1. Axes and Labels
+*   **Vertical Axis:** Labeled $i_L$ (mA). The scale ranges from -1 at the bottom to 1 at the top, with 0 at the origin.
+*   **Horizontal Axis:** Labeled $t$ (s). The scale consists of integer markings at 1, 2, 3, and 4.
+
+### 2. Plot Geometry
+The graph plots $i_L$ as a function of $t$. The signal is piecewise-defined:
+
+*   **Interval [0, 1]:** The value of $i_L$ is 0.
+*   **Interval [1, 2]:** The curve forms a downward-opening parabolic arc (resembling a negative half-sine wave). The curve originates at $(1, 0)$, reaches a minimum value of $-1$ at $t = 1.5$, and returns to $0$ at $t = 2$.
+*   **Interval [2, 3]:** The value of $i_L$ is 0.
+*   **Interval [3, 4]:** The curve repeats the previous arc shape. It originates at $(3, 0)$, reaches a minimum value of $-1$ at $t = 3.5$, and returns to $0$ at $t = 4$.
+
+### 3. Text and Symbols
+*   **Axis labels:** "$i_L$ (mA)" for the vertical axis and "$t$ (s)" for the horizontal axis.
+*   **Y-axis markers:** "-1", "0", and "1".
+*   **X-axis markers:** "1", "2", "3", and "4".
+*   **Curve characteristics:** The plot shows two identical concave-down arches located below the time axis, centered at $t=1.5$ and $t=3.5$, respectively.

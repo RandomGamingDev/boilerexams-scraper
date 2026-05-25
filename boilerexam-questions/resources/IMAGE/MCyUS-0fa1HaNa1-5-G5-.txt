@@ -1,0 +1,29 @@
+This image is a two-row table representing indexed data. The table is structured with a solid vertical line separating a header column from the data columns, and dashed vertical and horizontal lines forming a grid.
+
+**Table Layout:**
+*   **Rows:** 2 rows of data values.
+*   **Columns:** 12 columns total. The first column contains the row labels ("i" and "T"). The remaining 11 columns (indexed 0 through 10) contain the corresponding values.
+
+**Content Mapping:**
+
+| i / T | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **i** | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| **T** | [empty] | 12 | D | D | 2 | D | 6 | 1 | 9 | D | 23 |
+
+**Detailed Cell Contents:**
+*   **Top Row (i):** The headers are the integers from 0 to 10 inclusive, spaced horizontally.
+*   **Bottom Row (T):** The values are as follows:
+    *   i=0: Empty
+    *   i=1: 12
+    *   i=2: D
+    *   i=3: D
+    *   i=4: 2
+    *   i=5: D
+    *   i=6: 6
+    *   i=7: 1
+    *   i=8: 9
+    *   i=9: D
+    *   i=10: 23
+
+All text is in a standard serif font, dark blue/grey in color, set against a light grey background with a faint grid pattern.

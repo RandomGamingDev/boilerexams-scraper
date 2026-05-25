@@ -1,0 +1,24 @@
+This is a schematic diagram of a single-loop circuit containing an independent voltage source, two resistors, and an independent current source.
+
+### 1. Components and Labels
+*   **Voltage Source ($V_S$):** Located on the left side of the circuit. It is an independent voltage source represented by a circle with a plus (+) sign at the top and a minus (-) sign at the bottom.
+*   **Resistor 1 ($12\ \Omega$):** Positioned horizontally between the voltage source and the central node. It has a polarity indicator below it: a plus (+) sign on the left and a minus (-) sign on the right, labeled with $V_{\text{out}}$.
+*   **Resistor 2 ($6\ \Omega$):** Positioned vertically in the center of the circuit.
+*   **Current Source ($I_S$):** Located on the right side of the circuit. It is an independent current source represented by a circle with an upward-pointing arrow inside.
+*   **Ground:** A ground terminal symbol is present at the bottom-center node, connecting to the bottom wire.
+
+### 2. Topology and Connections
+*   **Nodes:** There is a main node at the top-center junction connecting the $12\ \Omega$ resistor, the $6\ \Omega$ resistor, and the current source. There is a common reference node (ground) at the bottom wire connecting the voltage source, the $6\ \Omega$ resistor, and the current source.
+*   **Loop Structure:**
+    *   The circuit consists of two main loops sharing the central vertical branch containing the $6\ \Omega$ resistor.
+    *   The **left branch** contains the voltage source $V_S$ and the $12\ \Omega$ resistor in series.
+    *   The **center branch** contains the $6\ \Omega$ resistor connected between the top-center node and the ground line.
+    *   The **right branch** contains the current source $I_S$, which points upward into the top-center node.
+*   **Geometry:** The circuit is drawn as a rectangle with a central vertical branch. The top wire connects the $12\ \Omega$ resistor to the current source. The bottom wire serves as the common reference rail (ground).
+
+### 3. Text and Symbols Summary
+*   **Variables:** $V_S$, $V_{\text{out}}$, $I_S$.
+*   **Values:** $12\ \Omega$, $6\ \Omega$.
+*   **Polarity indicators:** Plus and minus signs associated with $V_S$ (inside the circle) and $V_{\text{out}}$ (below the $12\ \Omega$ resistor).
+*   **Directional indicators:** Upward arrow inside the $I_S$ circle.
+*   **Junction dots:** Two black dots represent connections at the top-center node and the ground node.

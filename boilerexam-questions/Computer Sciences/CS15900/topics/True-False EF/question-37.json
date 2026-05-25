@@ -13,7 +13,7 @@
         "body": "When the data types of two operands for the division operator are different, the lower-ranked type is\npromoted to the rank of the higher type.",
         "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
         "stats": {
-          "count": 414
+          "count": 636
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "In an assignment statement, promotion occurs if the right expression has a lower rank than the variable\non the left and demotion occurs if the right expression has a higher rank.",
         "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
         "stats": {
-          "count": 689
+          "count": 1057
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "An explicit type conversion is the programmer taking control and specifying the data type of an operand\nin an expression.",
         "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
         "stats": {
-          "count": 100
+          "count": 158
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "123ca77b-97ea-4d3c-bec4-38c7ae16c81c",
         "stats": {
-          "count": 1697
+          "count": 2802
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "250327292",
+    "timeSpent": "435761543",
     "timeSpentVideo": "0",
-    "submissions": 2931,
-    "submissionsCorrect": 1697,
-    "accuracy": 0.5789832821562607,
-    "difficulty": 0.6736225668096338
+    "submissions": 4697,
+    "submissionsCorrect": 2802,
+    "accuracy": 0.5965509899936129,
+    "difficulty": 0.6554617469251616
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "10598004989",
+      "timeSpent": "16210821890",
       "timeSpentVideo": "0",
-      "submissions": 85318,
-      "submissionsCorrect": 53730,
+      "submissions": 125838,
+      "submissionsCorrect": 79659,
       "questions": 49,
-      "accuracy": 0.6297615977871024,
-      "difficulty": 0.6203903158584841
+      "accuracy": 0.6330281790873981,
+      "difficulty": 0.6170774508091283
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "35628941831",
-        "timeSpentVideo": "146417483",
-        "submissions": 121290,
-        "submissionsCorrect": 78329,
+        "timeSpent": "53012449935",
+        "timeSpentVideo": "177551899",
+        "submissions": 173733,
+        "submissionsCorrect": 111259,
         "questions": 41,
-        "accuracy": 0.6457993239343721,
-        "difficulty": 0.6043207842491144
+        "accuracy": 0.6404022264048856,
+        "difficulty": 0.6096785420489781
       }
     },
     {
@@ -119,13 +119,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "94288252211",
+        "timeSpent": "144270609339",
         "timeSpentVideo": "0",
-        "submissions": 262463,
-        "submissionsCorrect": 174570,
+        "submissions": 410426,
+        "submissionsCorrect": 274382,
         "questions": 81,
-        "accuracy": 0.6651223220034824,
-        "difficulty": 0.5849405666449576
+        "accuracy": 0.6685297715057038,
+        "difficulty": 0.581511280649703
       }
     }
   ],

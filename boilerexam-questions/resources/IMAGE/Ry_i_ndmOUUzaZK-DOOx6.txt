@@ -1,0 +1,43 @@
+This image depicts two circuit diagrams representing the same circuit at two different time intervals: $t < 0$ and $t \ge 0$.
+
+### **General Layout**
+*   The image consists of two separate circuit schematics, one stacked above the other.
+*   Both circuits share the same fundamental components: two DC voltage sources, two resistors, and one capacitor, connected in a similar topological arrangement.
+*   The state of the connection between the voltage sources and the rest of the circuit is determined by a switch, which is in different positions for the two time intervals.
+
+---
+
+### **1. Top Circuit Diagram: $t < 0$**
+*   **Switch Configuration:** The switch connects the $3\text{ V}$ voltage source to the circuit, while the $15\text{ V}$ source is left open (disconnected).
+*   **Components:**
+    *   **Voltage Source 1 (Left):** $15\text{ V}$ source; open terminal.
+    *   **Voltage Source 2 (Right):** $3\text{ V}$ source; connected to the rest of the circuit.
+    *   **Resistor 1:** $1\ \Omega$, placed in series with the voltage source branch.
+    *   **Resistor 2:** $2\ \Omega$, placed in parallel with the capacitor.
+    *   **Capacitor:** $\frac{3}{2}\text{ F}$, connected in parallel with the $2\ \Omega$ resistor.
+*   **Voltage Measurement:** The voltage across the $2\ \Omega$ resistor (and the capacitor) is labeled $v_c(t)$ with a positive sign at the top node and a negative sign at the bottom reference node.
+
+---
+
+### **2. Bottom Circuit Diagram: $t \ge 0$**
+*   **Switch Configuration:** The switch connects the $15\text{ V}$ voltage source to the circuit, while the $3\text{ V}$ source is left open (disconnected).
+*   **Components:**
+    *   **Voltage Source 1 (Left):** $15\text{ V}$ source; connected to the rest of the circuit.
+    *   **Voltage Source 2 (Right):** $3\text{ V}$ source; open terminal.
+    *   **Resistor 1:** $1\ \Omega$, placed in series with the voltage source branch.
+    *   **Resistor 2:** $2\ \Omega$, placed in parallel with the capacitor.
+    *   **Capacitor:** $\frac{3}{2}\text{ F}$, connected in parallel with the $2\ \Omega$ resistor.
+*   **Voltage Measurement:** The voltage across the $2\ \Omega$ resistor (and the capacitor) is labeled $v_c(t)$ with a positive sign at the top node and a negative sign at the bottom reference node.
+
+---
+
+### **Summary of Annotations & Symbols**
+*   **Labels:**
+    *   Top left: "$t < 0$"
+    *   Bottom left: "$t \ge 0$"
+*   **Voltage Sources:** Labeled "$15\text{ V}$" and "$3\text{ V}$" with circular symbols containing "$+$" and "$-$" signs indicating polarity.
+*   **Resistors:** Standard zigzag line symbols.
+    *   $1\ \Omega$ resistor is horizontal.
+    *   $2\ \Omega$ resistor is vertical.
+*   **Capacitor:** Parallel plate symbol labeled "$\frac{3}{2}\text{ F}$".
+*   **Node Voltage Variable:** "$v_c(t)$" located between the $2\ \Omega$ resistor and the capacitor, with "$+$" and "$-$" polarity indicators.

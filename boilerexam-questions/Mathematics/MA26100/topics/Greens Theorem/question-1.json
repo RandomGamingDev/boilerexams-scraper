@@ -1,0 +1,143 @@
+{
+  "id": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "According to Green\u2019s Theorem, which of the following line integrals is NOT equal to the area of the region enclosed by a simple closed curve $C$, oriented counter clockwise?",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "fa0345a9-ebbb-4cde-ac0d-31fb16a9ae46",
+        "index": 0,
+        "body": "$\\frac{1}{5} \\int_{C} y \\, dx + 6x \\, dy$",
+        "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      },
+      {
+        "id": "40204187-35c7-4d99-b5f5-1fa7fb64e75e",
+        "index": 1,
+        "body": "$\\frac{1}{5} \\int_{C} -3y \\, dx + 2x \\, dy$",
+        "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      },
+      {
+        "id": "6b1a5174-0be5-4453-994a-f3c3be985f79",
+        "index": 2,
+        "body": "$\\frac{1}{5} \\int_{C} -4y \\, dx + x \\, dy$",
+        "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "aeaddef5-fc96-4b8b-9487-e0b1206139b8",
+        "index": 3,
+        "body": "$\\frac{1}{5} \\int_{C} 2y \\, dx + 7x \\, dy$",
+        "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "c065694c-c39e-429b-8765-cdcd4608f73a",
+        "index": 4,
+        "body": "$\\frac{1}{5} \\int_{C} 2y \\, dx - 3x \\, dy$",
+        "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+        "stats": {
+          "count": 805
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "269849178",
+    "timeSpentVideo": "57328700",
+    "submissions": 1280,
+    "submissionsCorrect": 805,
+    "accuracy": 0.62890625,
+    "difficulty": 0.6304347826086957
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "3960c010-2522-4c6d-a399-27c8467012de",
+    "body": "According to Green's Theorem:$$\\oint_{C} (L \\, dx + M \\, dy) = \\iint_{D} \\left( \\frac{\\partial M}{\\partial x} - \\frac{\\partial L}{\\partial y} \\right) dA$$For the integral to equal the Area, the term $\\frac{1}{5} \\left( \\frac{\\partial M}{\\partial x} - \\frac{\\partial L}{\\partial y} \\right)$ must equal $1$.\nA: $\\frac{1}{5}(6 - 1) = 1$ (Equal to Area)\nB: $\\frac{1}{5}(2 - (-3)) = 1$ (Equal to Area)\nC: $\\frac{1}{5}(1 - (-4)) = 1$ (Equal to Area)\nD: $\\frac{1}{5}(7 - 2) = 1$ (Equal to Area)\nE: $\\frac{1}{5}(-3 - 2) = -1$ (NOT equal to Area)",
+    "questionId": "3bfb76ac-d78b-4dcc-9ccc-ac955918cad8",
+    "resources": [
+      {
+        "id": "ba9ce1eb-9659-4abf-9f13-ca465bdee560",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=16"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3960c010-2522-4c6d-a399-27c8467012de",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "6b00f507-0e71-49ad-b1c7-8bab72eafe3e",
+      "name": "Greens Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28069500696",
+        "timeSpentVideo": "2120659051",
+        "submissions": 55714,
+        "submissionsCorrect": 31401,
+        "questions": 8,
+        "accuracy": 0.5636105826183724,
+        "difficulty": 0.6865033862471781
+      }
+    }
+  ],
+  "children": []
+}

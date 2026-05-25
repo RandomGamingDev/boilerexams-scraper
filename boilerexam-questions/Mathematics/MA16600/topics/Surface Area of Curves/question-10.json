@@ -1,0 +1,143 @@
+{
+  "id": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The graph of $f(x) = \\dfrac{e^x+e^{-x}}{2}$ on the interval $[\u22122, 2]$ is revolved about the x-axis. Find the right formula that describes the area of the surface generated.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "3e16ff22-6104-4f85-87c3-15b054399968",
+        "index": 0,
+        "body": "$\\int_{-2}^{2} \\pi \\left(e^{2x} - e^{-2x}\\right)\\, dx$",
+        "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "1704bfe3-4d62-450d-bc5d-c3ff86d96bfe",
+        "index": 1,
+        "body": "$\\int_{-2}^{2} 2\\pi \\left(\\frac{e^{x} + e^{-x}}{2}\\right)\\left(\\frac{e^{x} - e^{-x}}{2}\\right)\\, dx$",
+        "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "4a588c46-0fbd-479f-bb4a-1428606c2fc1",
+        "index": 2,
+        "body": "$\\int_{-2}^{2} 2\\pi \\left(\\frac{e^{x} - e^{-x}}{2}\\right)^{2}\\, dx$",
+        "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "4fe783a9-4c3b-4889-ae63-09e16c14e5eb",
+        "index": 3,
+        "body": "$\\int_{-2}^{2} 2\\pi \\left(\\frac{e^{x} + e^{-x}}{2}\\right)^{2}\\, dx$",
+        "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "664acbc1-bcd2-4f5a-862b-45da5cb3aa76",
+        "index": 4,
+        "body": "$\\int_{-2}^{2} 2\\pi \\left(\\frac{e^{x} + e^{-x}}{2}\\right)\\sqrt{1 + \\frac{e^{2x}}{4} + \\frac{e^{-2x}}{4}}\\, dx$",
+        "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+        "stats": {
+          "count": 16
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "20045210",
+    "timeSpentVideo": "1966338",
+    "submissions": 102,
+    "submissionsCorrect": 44,
+    "accuracy": 0.43137254901960786,
+    "difficulty": 0.7846534653465347
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "081713f3-a95e-48a3-a172-ac8519ab378d",
+    "body": null,
+    "questionId": "bbb6223d-8b2b-4dca-97ab-de2170aec60a",
+    "resources": [
+      {
+        "id": "db5d0d35-63ce-4f1f-9711-f302152eaa5d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=3843"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "081713f3-a95e-48a3-a172-ac8519ab378d",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a78a7ecf-8dd5-45f8-992a-d8f424f735f0",
+      "name": "Surface Area of Curves",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "241638334",
+        "timeSpentVideo": "14874284",
+        "submissions": 448,
+        "submissionsCorrect": 218,
+        "questions": 3,
+        "accuracy": 0.48660714285714285,
+        "difficulty": 0.7609489051094891
+      }
+    }
+  ],
+  "children": []
+}

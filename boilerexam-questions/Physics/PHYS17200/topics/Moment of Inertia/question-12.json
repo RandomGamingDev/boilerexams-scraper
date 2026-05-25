@@ -1,0 +1,329 @@
+{
+  "id": "edec665b-faf2-4d3e-ad11-3b7821bf2cff",
+  "type": "PARENT",
+  "data": {
+    "body": "A device consists of eight balls, each of mass \\textbf{M} = 6 \\textbf{kg}, attached to the ends of low-mass spokes of length  \\textbf{L} = 1.2 \\textbf{m}, so the radius of rotation of the balls is \\textbf{L/2}. The device is mounted in the vertical plane, as shown in the figure. The axle is held up by supports that are not shown, and the device rotates on the nearly frictionless axle. A lump of clay with mass \\textbf{m} = 3 \\textbf{kg} strikes at the bottom ball at an angle $\\mathbf{\\theta}$ = $25^\\circ$, and sticks to it. Just before the impact the clay has a speed \\textbf{v} = 5 \\textbf{m/s}, and the device is rotating \\textbf{counterclockwise} with angular speed $\\mathbf{\\omega}$ = 0.5 \\textbf{rad/s}",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "35519014",
+    "timeSpentVideo": "0",
+    "submissions": 79,
+    "submissionsCorrect": 48,
+    "accuracy": 0.6075949367088608,
+    "difficulty": 0.702513966480447
+  },
+  "resources": [
+    {
+      "id": "fc51649b-1666-47de-98ea-2407faf878ca",
+      "type": "IMAGE",
+      "data": {
+        "key": "CsVFOcEi6WHSn7iA6DBA_",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/CsVFOcEi6WHSn7iA6DBA_"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "edec665b-faf2-4d3e-ad11-3b7821bf2cff",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "964550750",
+      "timeSpentVideo": "2649206",
+      "submissions": 6343,
+      "submissionsCorrect": 4188,
+      "questions": 43,
+      "accuracy": 0.6602553996531609,
+      "difficulty": 0.5922318795592115
+    }
+  },
+  "explanation": {
+    "id": "9f26d14a-7529-43e6-afaa-03ae06bd60c6",
+    "body": null,
+    "questionId": "edec665b-faf2-4d3e-ad11-3b7821bf2cff",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "55777f70-12c1-46f2-a0d2-63b4594606fd",
+      "name": "Moment of Inertia",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "3703792141",
+        "timeSpentVideo": "242808655",
+        "submissions": 8568,
+        "submissionsCorrect": 5378,
+        "questions": 18,
+        "accuracy": 0.6276844070961718,
+        "difficulty": 0.6237886479003231
+      }
+    },
+    {
+      "id": "9df5a37c-499e-4b09-a2df-3c447cc1c191",
+      "name": "Conversation of Angular Momentum",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1762812913",
+        "timeSpentVideo": "82874333",
+        "submissions": 2930,
+        "submissionsCorrect": 1800,
+        "questions": 9,
+        "accuracy": 0.6143344709897611,
+        "difficulty": 0.6394389438943895
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "6547f560-4558-4af2-8177-5b62950fd900",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part A:} What is the \\textbf{initial angular momentum} of the system (device + clay)?",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "1710a558-5e74-416e-8a4b-614f46066c87",
+            "index": 0,
+            "body": "$<0, 0, 16.78> kg-m^2/s$",
+            "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+            "stats": {
+              "count": 52
+            },
+            "resources": []
+          },
+          {
+            "id": "d5276aab-15db-4d33-9c99-c6e6be264e45",
+            "index": 1,
+            "body": "None of these",
+            "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "9906ce1b-f9ef-4c06-9c13-011a240159ac",
+            "index": 2,
+            "body": "$<0, 0, -4.81> kg-m^2/s$",
+            "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+            "stats": {
+              "count": 8
+            },
+            "resources": []
+          },
+          {
+            "id": "939fbaa6-efea-46d9-a39e-8db6430e7163",
+            "index": 3,
+            "body": "$<0, 0, -0.50> kg-m^2/s$",
+            "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+            "stats": {
+              "count": 5
+            },
+            "resources": []
+          },
+          {
+            "id": "1be00e68-338d-437f-a159-2309928bd606",
+            "index": 4,
+            "body": "$<0, 0, 12.46> kg-m^2/s$",
+            "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+            "stats": {
+              "count": 13
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "edec665b-faf2-4d3e-ad11-3b7821bf2cff",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "1085410",
+        "timeSpentVideo": "0",
+        "submissions": 86,
+        "submissionsCorrect": 52,
+        "accuracy": 0.6046511627906976,
+        "difficulty": 0.7016129032258065
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "2c87f11a-7b19-4280-8884-96fac06981b3",
+        "body": null,
+        "questionId": "6547f560-4558-4af2-8177-5b62950fd900",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part B:} What is the \\textbf{final angular velocity} of the system?",
+        "solution": [
+          4
+        ],
+        "answerChoices": [
+          {
+            "id": "62efd1cc-4782-401c-b21f-d8a53ac6fb11",
+            "index": 0,
+            "body": "$<0, 0, -0.26> rad/s$",
+            "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "afe8dd63-cac5-459b-9958-9eddb37b43db",
+            "index": 1,
+            "body": "$<0, 0, -0.03> rad/s$",
+            "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+            "stats": {
+              "count": 5
+            },
+            "resources": []
+          },
+          {
+            "id": "6f39caad-94b1-4554-9c12-564ba3fd3e93",
+            "index": 2,
+            "body": "None of these",
+            "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "86435e2d-cfec-467d-923e-d719a0cb4872",
+            "index": 3,
+            "body": "$<0, 0, 0.68> rad/s$",
+            "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+            "stats": {
+              "count": 10
+            },
+            "resources": []
+          },
+          {
+            "id": "29638566-c4b1-4219-9037-ed1d9ce12350",
+            "index": 4,
+            "body": "$<0, 0, 0.91> rad/s$",
+            "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+            "stats": {
+              "count": 46
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "edec665b-faf2-4d3e-ad11-3b7821bf2cff",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 68,
+        "submissionsCorrect": 46,
+        "accuracy": 0.6764705882352942,
+        "difficulty": 0.6785714285714286
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "e3975b8d-011b-4620-9a95-79b6bdd7446e",
+        "body": null,
+        "questionId": "0fa04eb6-1abf-4030-b1c2-fbb52022bdc9",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

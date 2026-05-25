@@ -1,0 +1,30 @@
+The image displays two vertically stacked, synchronized graphs plotted against a horizontal time axis ($t$).
+
+### 1. General Layout and Annotations
+*   **Central Annotation:** A bold, black letter "E" is positioned between the two plots.
+*   **Alignment:** There are four vertical dashed grid lines that pass through both plots, dividing the time axis into five distinct intervals. These lines align key features (intercepts and extrema) of the two curves.
+
+### 2. Top Graph: Position-Time
+*   **Axis Label:** The vertical axis is labeled $x(t)$ in blue text.
+*   **Curve:** A continuous blue sinusoidal curve.
+*   **Key Features:**
+    *   Starts at a local minimum on the far left.
+    *   Crosses the horizontal axis moving upward at the first vertical dashed line.
+    *   Reaches a local maximum at the second vertical dashed line.
+    *   Crosses the horizontal axis moving downward at the third vertical dashed line.
+    *   Ends at a local minimum at the fourth vertical dashed line on the right.
+
+### 3. Bottom Graph: Velocity-Time
+*   **Axis Label:** The vertical axis is labeled $v_x(t)$ in red text.
+*   **Curve:** A continuous red sinusoidal curve.
+*   **Key Features:**
+    *   Starts at the origin (0,0) at the far left.
+    *   Reaches a local maximum at the first vertical dashed line.
+    *   Crosses the horizontal axis moving downward at the second vertical dashed line.
+    *   Reaches a local minimum at the third vertical dashed line.
+    *   Crosses the horizontal axis moving upward at the fourth vertical dashed line on the right.
+
+### 4. Coordinate System and Relationships
+*   **Horizontal Axis ($t$):** Shared by both graphs.
+*   **Vertical Axes:** Represent magnitude, with bidirectional arrows indicating both positive and negative values.
+*   **Phase Relationship:** The graphs are temporally aligned such that the roots and extrema of the top curve $x(t)$ correspond to specific slopes and values of the bottom curve $v_x(t)$. Specifically, $v_x(t)$ is zero where $x(t)$ is at its extrema, and $v_x(t)$ is at its extrema where $x(t)$ crosses the horizontal axis.

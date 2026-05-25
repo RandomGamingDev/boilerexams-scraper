@@ -1,0 +1,17 @@
+This is a pie chart consisting of four distinct segments, one of which is exploded (separated from the main body).
+
+### Text Labels
+There are four text labels positioned around the perimeter of the chart, corresponding to each segment:
+1.  **"casual"**: Associated with the top-right orange segment.
+2.  **"loyal"**: Associated with the top-left green segment.
+3.  **"diamond"**: Associated with the bottom-left red segment.
+4.  **"subscribed"**: Associated with the bottom-right blue segment.
+
+### Geometry and Spatial Relationships
+*   **Structure**: The chart is a circle divided into four sectors.
+*   **Orientation/Order (Clockwise starting from top):**
+    *   **Casual (Orange)**: Occupies the largest portion, spanning approximately the top and right side of the circle (roughly 12 o'clock to 5 o'clock position).
+    *   **Subscribed (Blue)**: Occupies the bottom-right portion (roughly 5 o'clock to 8 o'clock position).
+    *   **Diamond (Red)**: Occupies a thin slice at the bottom-left. This segment is "exploded," meaning it is physically detached from the center of the pie, positioned radially outward to the bottom-left.
+    *   **Loyal (Green)**: Occupies the remaining portion on the left (roughly 8 o'clock to 12 o'clock position).
+*   **Exploded Segment**: The "diamond" (red) slice is separated from the center point, creating a gap between the red segment and the adjacent blue and green segments.

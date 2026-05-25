@@ -1,0 +1,153 @@
+{
+  "id": "25c47697-94a8-48ea-aff4-7db020a3694f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the arc length of the curve given by the vector-valued function $$\\vec{r}(t)=\\langle t^{2}, \\sin t-t \\cos t, \\cos t+t \\sin t\\rangle$$from $t=0$ to $t=1$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "1572a28e-bd5d-4869-b8eb-5cd48b9ab34b",
+        "index": 0,
+        "body": "$2\\sqrt{5}$",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "ca624afb-15e0-45d4-8e2c-581df4209cbf",
+        "index": 1,
+        "body": "$\\sqrt{5}$ ",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 99
+        },
+        "resources": []
+      },
+      {
+        "id": "902f5528-b049-4939-b31e-a38966606c6b",
+        "index": 2,
+        "body": "$\\frac{\\sqrt{5}}{2}$",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 714
+        },
+        "resources": []
+      },
+      {
+        "id": "531d161d-0d33-4cdb-a220-c500d93793c6",
+        "index": 3,
+        "body": "$\\sqrt{3}-1$",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "bcde2510-6955-4ef5-acfc-ca1827b22d50",
+        "index": 4,
+        "body": "$\\sqrt{3}$ ",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "5458de61-95af-41f0-b7d8-042091fbcd44",
+        "index": 5,
+        "body": "$3$",
+        "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "310442290",
+    "timeSpentVideo": "15536820",
+    "submissions": 1041,
+    "submissionsCorrect": 714,
+    "accuracy": 0.6858789625360231,
+    "difficulty": 0.5804119193689746
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "1c95de0e-1ad5-4f15-8dbe-d041fcc6bc28",
+    "body": "Hint: The formula is $\\int |\\vec{r}'(t)| dt$. After you find the components of $\\vec{r}'(t)$, the magnitude will involve $\\sin^2 t + \\cos^2 t$. Use the Pythagorean Identity to simplify the square root before you try to integrate.",
+    "questionId": "25c47697-94a8-48ea-aff4-7db020a3694f",
+    "resources": [
+      {
+        "id": "76484f39-7e8b-4f03-824e-713e2ee1bd16",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=2348"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "1c95de0e-1ad5-4f15-8dbe-d041fcc6bc28",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ae4e633c-83e3-4b7d-9cdb-f01a1cf447b1",
+      "name": "Arc Length",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "19283006528",
+        "timeSpentVideo": "719549960",
+        "submissions": 47051,
+        "submissionsCorrect": 33738,
+        "questions": 7,
+        "accuracy": 0.717051709846762,
+        "difficulty": 0.5334086233589955
+      }
+    }
+  ],
+  "children": []
+}

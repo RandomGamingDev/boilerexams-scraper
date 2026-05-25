@@ -1,0 +1,26 @@
+This is a circuit diagram composed of two main loops connected by a switch mechanism.
+
+### 1. Circuit Topology
+The circuit consists of a horizontal reference wire (bottom rail) and an upper wire structure.
+*   **Left Branch:** Contains a voltage source $v_{\text{in}}(t)$ (circle with $+$ on top, $-$ on bottom), a resistor labeled $4\ \Omega$, and an inductor labeled $0.08\ \text{H}$, connected in series.
+*   **Switching Mechanism:** Located in the center, there is a switch that can toggle between node **A** and node **B**. In the diagram, the switch is drawn connecting the central vertical branch (containing a capacitor) to node **B** (solid line), with a dashed line indicating an alternative connection to node **A**.
+*   **Central Branch:** Connected to the switch arm, this branch contains a capacitor labeled $0.02\ \text{F}$ and is marked with the voltage $v_{\text{c}}$ (with $+$ on top and $-$ on bottom, relative to the capacitor).
+*   **Right Branch:** Contains a resistor labeled $4\ \Omega$ in parallel with an inductor labeled $0.08\ \text{H}$.
+*   **Far Right Branch:** Contains a current source labeled $i_{\text{in}}(t)$ (circle with an upward-pointing arrow).
+
+### 2. Labels, Symbols, and Values
+*   **Left Voltage Source:** Circular symbol, labeled $v_{\text{in}}(t)$, polarity defined as positive terminal up.
+*   **Resistor 1 (Left):** Zig-zag symbol, labeled $4\ \Omega$.
+*   **Inductor 1 (Left):** Coil symbol, labeled $0.08\ \text{H}$.
+*   **Switch Points:** Nodes labeled **A** and **B**.
+*   **Central Capacitor:** Parallel plate symbol, labeled $0.02\ \text{F}$. Voltage across it is labeled $v_{\text{c}}$ with the positive polarity at the top plate and negative at the bottom.
+*   **Resistor 2 (Right):** Zig-zag symbol, labeled $4\ \Omega$.
+*   **Inductor 2 (Right):** Coil symbol, labeled $0.08\ \text{H}$.
+*   **Right Current Source:** Circular symbol containing an upward arrow, labeled $i_{\text{in}}(t)$.
+
+### 3. Spatial Relationships
+*   The left branch (voltage source, resistor, inductor) is in series leading into the switch node A.
+*   The switch is a single-pole, double-throw (SPDT) type. The arm is currently connected to node B.
+*   The central vertical branch containing the $0.02\ \text{F}$ capacitor is connected at the bottom to the reference rail and at the top to the switch arm.
+*   Node B is connected to the top of the right-hand portion of the circuit.
+*   The resistor ($4\ \Omega$), inductor ($0.08\ \text{H}$), and current source ($i_{\text{in}}(t)$) on the right side are all connected in parallel to each other between the top rail and the bottom reference rail.

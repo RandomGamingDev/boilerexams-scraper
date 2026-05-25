@@ -1,0 +1,32 @@
+The image is a data table consisting of four columns and twelve rows (including the header row).
+
+### Table Structure
+The table is organized with the following four column headers from left to right:
+1. **Price**
+2. **Quantity demanded**
+3. **Initial Quantity Supplied**
+4. **NEW: Quantity Supplied after change**
+
+### Data Rows
+Each row corresponds to a specific Price value, with associated quantities in the subsequent columns. The data is as follows:
+
+| Price | Quantity demanded | Initial Quantity Supplied | NEW: Quantity Supplied after change |
+| :--- | :--- | :--- | :--- |
+| 0 | 40 | 0 | 0 |
+| 1 | 36 | 0 | 4 |
+| 2 | 32 | 0 | 8 |
+| 3 | 28 | 4 | 12 |
+| 4 | 24 | 8 | 16 |
+| 5 | 20 | 12 | 20 |
+| 6 | 16 | 16 | 24 |
+| 7 | 12 | 20 | 28 |
+| 8 | 8 | 24 | 32 |
+| 9 | 4 | 28 | 36 |
+| 10 | 0 | 32 | 40 |
+
+### Geometric and Formatting Details:
+* The table is enclosed by a solid black border.
+* Internal grid lines separate each cell.
+* The header row is aligned at the top of the table.
+* The values in all columns are horizontally centered within their respective cells.
+* The font style is a standard sans-serif typeface, black text on a white background.

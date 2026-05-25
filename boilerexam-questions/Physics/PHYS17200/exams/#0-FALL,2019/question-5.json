@@ -3,7 +3,9 @@
   "type": "MULTIPLE_CHOICE",
   "data": {
     "body": "A small comet follows the path around a massive star as shown in the figure below. The comets orbit lies in the x-z plane. When the comet is a distance $d_1$ from the star, it is traveling in the $\\textbf{+y direction}$ and has a momentum of magnitude, $p_1$. When the comet is a distance $d_2$ from the star, it is traveling in the $\\textbf{-x direction}$ with a momentum of magnitude, $p_2$ as shown in the figure.\n\nWhat is the $\\textbf{ratio}$ $\\frac {p_2} {p_1}$ ?",
-    "solution": [],
+    "solution": [
+      2
+    ],
     "answerChoices": [
       {
         "id": "376c5a81-2eaf-4888-9b31-f0f9d3ea78ea",
@@ -11,7 +13,7 @@
         "body": "$\\frac{p_2} {p_1}$ = $\\frac{d_2} {d_1 cos\\theta}$",
         "questionId": "3306fb9c-1812-491f-b6f3-aeca44843472",
         "stats": {
-          "count": 4
+          "count": 24
         },
         "resources": []
       },
@@ -21,7 +23,7 @@
         "body": "$\\frac{p_2} {p_1}$ = $\\frac{d_1} {d_2 cos\\theta}$",
         "questionId": "3306fb9c-1812-491f-b6f3-aeca44843472",
         "stats": {
-          "count": 3
+          "count": 94
         },
         "resources": []
       },
@@ -31,7 +33,7 @@
         "body": "$\\frac{p_2} {p_1}$ = $\\frac{d_1} {d_2 sin\\theta}$",
         "questionId": "3306fb9c-1812-491f-b6f3-aeca44843472",
         "stats": {
-          "count": 7
+          "count": 286
         },
         "resources": []
       },
@@ -41,7 +43,7 @@
         "body": "$\\frac{p_2} {p_1}$ = $\\frac{d_2} {d_1 sin\\theta}$",
         "questionId": "3306fb9c-1812-491f-b6f3-aeca44843472",
         "stats": {
-          "count": 3
+          "count": 48
         },
         "resources": []
       },
@@ -51,7 +53,7 @@
         "body": "None of the above",
         "questionId": "3306fb9c-1812-491f-b6f3-aeca44843472",
         "stats": {
-          "count": 3
+          "count": 24
         },
         "resources": []
       }
@@ -69,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "2346224",
-    "timeSpentVideo": "87477",
-    "submissions": 25,
-    "submissionsCorrect": 0,
-    "accuracy": 0,
-    "difficulty": 0.85
+    "timeSpent": "96544060",
+    "timeSpentVideo": "15107951",
+    "submissions": 534,
+    "submissionsCorrect": 270,
+    "accuracy": 0.5056179775280899,
+    "difficulty": 0.7452681388012619
   },
   "resources": [
     {
@@ -106,13 +108,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "86592155",
-      "timeSpentVideo": "20844357",
-      "submissions": 672,
-      "submissionsCorrect": 302,
+      "timeSpent": "2057773217",
+      "timeSpentVideo": "248326587",
+      "submissions": 14070,
+      "submissionsCorrect": 9365,
       "questions": 37,
-      "accuracy": 0.4494047619047619,
-      "difficulty": 0.794041450777202
+      "accuracy": 0.6656005685856432,
+      "difficulty": 0.5855681016231475
     }
   },
   "explanation": {
@@ -143,13 +145,13 @@
       "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
       "stats": {
         "count": 1,
-        "timeSpent": "39697332",
-        "timeSpentVideo": "5675444",
-        "submissions": 128,
-        "submissionsCorrect": 37,
-        "questions": 6,
-        "accuracy": 0.2890625,
-        "difficulty": 0.868421052631579
+        "timeSpent": "1762812913",
+        "timeSpentVideo": "82874333",
+        "submissions": 2930,
+        "submissionsCorrect": 1800,
+        "questions": 9,
+        "accuracy": 0.6143344709897611,
+        "difficulty": 0.6394389438943895
       }
     }
   ],

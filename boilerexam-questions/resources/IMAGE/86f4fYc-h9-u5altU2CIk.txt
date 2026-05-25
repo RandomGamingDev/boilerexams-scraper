@@ -1,0 +1,26 @@
+This is a schematic diagram of a diode-resistor circuit. Here is the exhaustive description:
+
+**1. Components and Annotations:**
+*   **Voltage Sources:**
+    *   Top terminal: A DC voltage source labeled **-10 V**.
+    *   Bottom terminal: A DC voltage source labeled **10 V**.
+*   **Resistors:**
+    *   Top resistor: Labeled **$R_1$**, connected between the -10 V source and the central junction node.
+    *   Bottom resistor: Labeled **$100\ \Omega$**, connected between the central junction node and the 10 V source.
+*   **Diode:**
+    *   A diode symbol is positioned horizontally on the left side of the circuit.
+    *   Anode (left side) is connected to a ground reference (triangle symbol).
+    *   Cathode (right side) is connected to the central junction node.
+    *   **Polarity signs:** A **+** sign is placed near the anode and a **-** sign is placed near the cathode, with the label **$V_D$** underneath the diode.
+    *   **Current indicator:** An arrow labeled **$I_D$** points toward the right (in the direction of the diode's anode).
+*   **Output:**
+    *   A node on the right, indicated by a solid black dot, is labeled **$V_o$**.
+
+**2. Geometry and Spatial Relationships:**
+*   The circuit features a central intersection (a node) where four branches meet:
+    1.  **Upward branch:** Contains resistor $R_1$ leading to the -10 V terminal.
+    2.  **Downward branch:** Contains the $100\ \Omega$ resistor leading to the 10 V terminal.
+    3.  **Leftward branch:** Contains the diode, which is connected to a ground reference (triangle pointing down) on its left side.
+    4.  **Rightward branch:** Leads directly to the output node labeled $V_o$.
+*   The central junction acts as a common point for the diode cathode, the output $V_o$, the bottom of $R_1$, and the top of the $100\ \Omega$ resistor.
+*   The ground reference is positioned to the left of the diode, connecting the circuit to common ground at the anode.

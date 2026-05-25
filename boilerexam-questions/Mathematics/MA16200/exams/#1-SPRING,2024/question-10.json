@@ -1,0 +1,143 @@
+{
+  "id": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which one of the following integrals equals the arc length of the curve \\[y=x^3+1,\\text{ }1\\leq{x}\\leq{2}?\\]",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "4b5344e7-08f5-49e2-a533-180c6db2e88f",
+        "index": 0,
+        "body": "$\\int_1^2{x^3+1}dx$",
+        "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "afab9996-df9f-42ed-b150-a31e6d0a4d27",
+        "index": 1,
+        "body": "$\\int_1^2{\\sqrt{9x^4+1}}dx$",
+        "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+        "stats": {
+          "count": 521
+        },
+        "resources": []
+      },
+      {
+        "id": "59274ba8-a785-40e9-8d06-5a2d14366f12",
+        "index": 2,
+        "body": "$\\int_1^2{3x^2}dx$",
+        "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "af2d3734-04ed-4993-950a-7cf183218993",
+        "index": 3,
+        "body": "$\\int_1^2{\\sqrt{x^3+2}}dx$",
+        "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "42e6a40f-3b7a-433f-8878-988c69e8cdd0",
+        "index": 4,
+        "body": "$\\int_1^2{\\sqrt{x^3+1}}dx$",
+        "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "e09dda15-652a-4c52-83dc-9f25320120d1",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "73631283",
+    "timeSpentVideo": "1494584",
+    "submissions": 610,
+    "submissionsCorrect": 521,
+    "accuracy": 0.8540983606557377,
+    "difficulty": 0.4457746478873239
+  },
+  "resources": [],
+  "exam": {
+    "id": "e09dda15-652a-4c52-83dc-9f25320120d1",
+    "number": 1,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "1797998030",
+      "timeSpentVideo": "262789557",
+      "submissions": 8492,
+      "submissionsCorrect": 5294,
+      "questions": 12,
+      "accuracy": 0.6234102684879888,
+      "difficulty": 0.6280260707635009
+    }
+  },
+  "explanation": {
+    "id": "6c0771a4-0142-4b2d-aa50-cd0e6c3fc6a7",
+    "body": null,
+    "questionId": "e398ed58-e5d5-4842-82c5-ff1981faae28",
+    "resources": [
+      {
+        "id": "0858b576-343a-4806-a77f-358bab1e6415",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=gWo6gpXm4y8&t=4407s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6c0771a4-0142-4b2d-aa50-cd0e6c3fc6a7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "a73d585a-5c9f-43ad-b5fd-3789a6c57ffb",
+      "name": "Length of Curves",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4325302750",
+        "timeSpentVideo": "199499208",
+        "submissions": 11483,
+        "submissionsCorrect": 6798,
+        "questions": 4,
+        "accuracy": 0.5920055734564138,
+        "difficulty": 0.6587887421220755
+      }
+    }
+  ],
+  "children": []
+}

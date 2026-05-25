@@ -1,0 +1,143 @@
+{
+  "id": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The interval of convergence for the power series $\\sum_{n=1}^\\infty \\frac{3^n(x-1)^n}{n}$ is",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "253f0f5e-263d-4ef5-86a6-ca60302326d0",
+        "index": 0,
+        "body": "(2,4)",
+        "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "9980b96b-7a27-452a-a166-ac85d434c636",
+        "index": 1,
+        "body": "[2,4]",
+        "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "abafdbb8-1f9c-45e3-8ccf-3df9eeb2bd4e",
+        "index": 2,
+        "body": "$[\\frac{2}{3}, \\frac{4}{3}]$",
+        "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "7f863965-6375-44d7-9ea0-46e38ab7f437",
+        "index": 3,
+        "body": "$[\\frac{2}{3}, \\frac{4}{3})$",
+        "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+        "stats": {
+          "count": 69
+        },
+        "resources": []
+      },
+      {
+        "id": "6bfac732-5702-4b69-8413-27dffa8a5352",
+        "index": 4,
+        "body": "$(\\frac{2}{3}, \\frac{4}{3})$",
+        "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 20,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "22608845",
+    "timeSpentVideo": "1188332",
+    "submissions": 98,
+    "submissionsCorrect": 69,
+    "accuracy": 0.7040816326530612,
+    "difficulty": 0.648989898989899
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "70fd58f2-4ec9-410b-aa90-59221d1e094a",
+    "body": null,
+    "questionId": "c967eb14-0f52-435a-a1ff-0fa547d98fe1",
+    "resources": [
+      {
+        "id": "a33c7971-b1e8-4557-93da-82de1b403019",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=5268"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "70fd58f2-4ec9-410b-aa90-59221d1e094a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "18bb1f1e-6a94-4790-88ce-77d5d3808838",
+      "name": "Ratio Test",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1474276429",
+        "timeSpentVideo": "82719223",
+        "submissions": 2217,
+        "submissionsCorrect": 1317,
+        "questions": 3,
+        "accuracy": 0.5940460081190798,
+        "difficulty": 0.6600129477772982
+      }
+    }
+  ],
+  "children": []
+}

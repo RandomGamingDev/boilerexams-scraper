@@ -1,0 +1,22 @@
+This image shows a Cartesian coordinate system plotting a waveform for current $i_L$ (in mA) versus time $t$ (in seconds).
+
+### 1. Text, Variables, and Labels
+*   **Vertical Axis Label:** $i_L$ (mA)
+*   **Horizontal Axis Label:** $t$ (s)
+*   **Horizontal Axis Tick Marks:** Labeled 1, 2, 3, 4 at regular intervals.
+*   **Vertical Axis Tick Marks:** Labeled 1, 0, -1.
+
+### 2. Geometry and Graph Characteristics
+*   **Axes:** The origin (0,0) is at the intersection of the two axes. The vertical axis ranges from -1 to 1. The horizontal axis ranges from 0 to 4.
+*   **Shape:** The plot displays a periodic, rectified-style waveform residing entirely below the horizontal axis (negative values).
+*   **Waveform Details:** 
+    *   The waveform consists of four identical full-cycle "dips" or inverted humps.
+    *   The waveform starts at (0,0).
+    *   It reaches a local minimum (peak amplitude) of -1 at the midpoints of each interval (i.e., at $t = 0.5, 1.5, 2.5, 3.5$).
+    *   It returns to 0 at each integer interval on the $t$-axis (i.e., at $t = 0, 1, 2, 3, 4$).
+    *   The curves are smooth, concave-upward arcs resembling segments of sine or cosine waves.
+
+### 3. Coordinate Points
+The graph follows a periodic pattern of zeroes and minima:
+*   **Intercepts (Zero-crossings):** (0,0), (1,0), (2,0), (3,0), (4,0)
+*   **Minima:** (0.5, -1), (1.5, -1), (2.5, -1), (3.5, -1)

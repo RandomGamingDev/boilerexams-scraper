@@ -1,0 +1,23 @@
+This image displays two vertically stacked, synchronized graphs sharing a common horizontal time axis ($t$).
+
+### 1. Text and Labels
+*   **Top Graph:** Y-axis is labeled **$x(t)$** in blue text.
+*   **Bottom Graph:** Y-axis is labeled **$v_x(t)$** in red text.
+*   **Horizontal Axes:** Both graphs have a horizontal axis labeled **$t$** at the far right.
+*   **Center:** The letter **C** is printed in large, black, bold font between the two graphs.
+
+### 2. Geometry and Structure
+*   **Layout:** Two plots are aligned vertically. Four equidistant dashed vertical lines span both plots, creating visual alignment points for corresponding phases of the waves.
+*   **Plot 1 (Top, $x(t)$):**
+    *   **Curve:** A continuous blue sinusoidal-type wave.
+    *   **Phase:** The curve starts at a minimum (negative value), crosses the t-axis at the first dashed line, reaches a positive maximum at the second dashed line, crosses the t-axis at the third dashed line, and returns to a minimum at the fourth dashed line.
+*   **Plot 2 (Bottom, $v_x(t)$):**
+    *   **Curve:** A continuous red sinusoidal-type wave.
+    *   **Phase:** The curve starts at a positive maximum, crosses the t-axis at the first dashed line, reaches a negative minimum at the second dashed line, crosses the t-axis at the third dashed line, and returns to a positive maximum at the fourth dashed line.
+
+### 3. Spatial Relationships
+*   **Synchronization:** The extrema and zero-crossings of the two waves are locked to the vertical dashed lines.
+    *   At the first dashed line: $x(t)$ crosses 0 from negative to positive; $v_x(t)$ crosses 0 from positive to negative.
+    *   At the second dashed line: $x(t)$ is at a positive maximum; $v_x(t)$ is at a negative minimum.
+    *   At the third dashed line: $x(t)$ crosses 0 from positive to negative; $v_x(t)$ crosses 0 from negative to positive.
+*   **Alignment:** Both Y-axes extend vertically across the full height of their respective plots. Both t-axes are horizontal lines representing the zero-value baseline for each function.

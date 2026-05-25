@@ -1,0 +1,158 @@
+{
+  "id": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the $Proj_v(u)$ where $u = \u27e81, 1, 2\u27e9$ and $v = \u27e82, 1, \u22122\u27e9.$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "5dd0cbcf-e36a-459d-a999-f513dd20db2e",
+        "index": 0,
+        "body": "$\\frac{1}{9}v$",
+        "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "af54d6d3-ea0a-4abc-a31f-38f44f9a938c",
+        "index": 1,
+        "body": "$-\\frac{1}{6}u$",
+        "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "392d4974-0b2d-48d7-bd4b-30f8adc73e8e",
+        "index": 2,
+        "body": "$\\frac{1}{6}v$",
+        "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      },
+      {
+        "id": "3d38d33b-2da9-4f10-a52e-847a17a62304",
+        "index": 3,
+        "body": "$-\\frac{1}{9}u$",
+        "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "e2af856e-7f2b-45a3-ad49-c056a0059e58",
+        "index": 4,
+        "body": "$-\\frac{1}{9}v$",
+        "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "25d735d0-a82d-4f72-89d2-97381fce8d42",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "3136759",
+    "timeSpentVideo": "312063",
+    "submissions": 18,
+    "submissionsCorrect": 10,
+    "accuracy": 0.5555555555555556,
+    "difficulty": 0.7415254237288136
+  },
+  "resources": [],
+  "exam": {
+    "id": "25d735d0-a82d-4f72-89d2-97381fce8d42",
+    "number": 1,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "49514489",
+      "timeSpentVideo": "2803845",
+      "submissions": 197,
+      "submissionsCorrect": 105,
+      "questions": 12,
+      "accuracy": 0.5329949238578681,
+      "difficulty": 0.7281144781144782
+    }
+  },
+  "explanation": {
+    "id": "0e7884c4-0f09-4ed7-98ee-b0024f879a51",
+    "body": null,
+    "questionId": "5addc5c9-d91e-4f13-bf52-87e8067497a3",
+    "resources": [
+      {
+        "id": "a4890361-9419-48ea-b0e2-f392fee31a6d",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/jQfMgiqqS24?si=WwccPUErrAOyw0te&t=540"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "0e7884c4-0f09-4ed7-98ee-b0024f879a51",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "76f22a88-44c7-44d4-863c-e3464539805c",
+      "name": "Orthogonal Projection",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "268592021",
+        "timeSpentVideo": "8646546",
+        "submissions": 456,
+        "submissionsCorrect": 321,
+        "questions": 3,
+        "accuracy": 0.7039473684210527,
+        "difficulty": 0.5827338129496403
+      }
+    },
+    {
+      "id": "8c85d8e3-db65-4216-9463-a4d4a7f3f7be",
+      "name": "Dot Products",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "652341964",
+        "timeSpentVideo": "29140944",
+        "submissions": 1073,
+        "submissionsCorrect": 687,
+        "questions": 8,
+        "accuracy": 0.6402609506057781,
+        "difficulty": 0.6216965046888321
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,22 @@
+This image displays a 2D Cartesian coordinate plot showing a piecewise constant voltage waveform $v(t)$ as a function of time $t$.
+
+### 1. Axes
+*   **Vertical axis:** Labeled as $v(t)$ (V). The origin is marked as $0$. There are tick marks corresponding to levels $3$ (positive) and $-1$ (negative).
+*   **Horizontal axis:** Labeled as $t$ (s). The origin is marked as $0$. There are tick marks at time values $3, 4, 7, 10,$ and $11$.
+
+### 2. Waveform Description (Cyan Line)
+The waveform is a rectangular pulse train starting at $t=0$:
+*   **Interval $[0, 3)$:** The voltage is constant at $v(t) = 3$ V.
+*   **Interval $[3, 4)$:** There is a vertical step down to $v(t) = -1$ V, where it remains constant.
+*   **Interval $[4, 7)$:** There is a vertical step up to $v(t) = 0$ V, where it remains constant.
+*   **Interval $[7, 10)$:** There is a vertical step up to $v(t) = 3$ V, where it remains constant.
+*   **Interval $[10, 11)$:** There is a vertical step down to $v(t) = -1$ V, where it remains constant.
+*   **Interval $t > 11$:** There is a vertical step up to $v(t) = 0$ V, where it remains at $0$ V for the remainder of the visible axis.
+
+### 3. Key Coordinates (t, v)
+*   $(0, 3)$ to $(3, 3)$
+*   $(3, -1)$ to $(4, -1)$
+*   $(4, 0)$ to $(7, 0)$
+*   $(7, 3)$ to $(10, 3)$
+*   $(10, -1)$ to $(11, -1)$
+*   $(11, 0)$ and continuing along the $t$-axis.

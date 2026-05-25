@@ -1,0 +1,32 @@
+This image depicts a mechanical system consisting of a cart, two bars, and a reference coordinate frame.
+
+### 1. Coordinate System
+*   A fixed coordinate frame is shown on the left with origin $O$.
+*   Unit vectors are defined as: $\hat{e}_1$ (horizontal, to the right), $\hat{e}_2$ (vertical, upward), and $\hat{e}_3$ (into the page, indicated by a circular arrow around the origin).
+
+### 2. Main Components
+*   **The Cart:** A rectangular body shown on a hatched horizontal surface. It moves to the right with velocity $v$.
+*   **Bar 1:** Attached to the cart at a pivot point labeled **A**. It extends at an angle upward to the right. 
+*   **The Pivot B:** Located on Bar 1, a second bar (Bar 2) is attached here.
+*   **Bar 2:** A horizontal-ish bar that passes through pivot B.
+*   **Point P:** A marked point on Bar 2.
+
+### 3. Variables and Dimensions
+*   **$y$:** Represents the distance along Bar 1 from pivot point A to pivot point B.
+*   **$x$:** Represents the distance along Bar 2 from pivot point B to point P.
+*   **$\Omega$:** An angular velocity symbol (curved arrow) indicating the rotation of Bar 1 around pivot A.
+*   **$\omega$:** An angular velocity symbol (curved arrow) indicating the rotation of Bar 2 around pivot B.
+*   **$v$:** A horizontal arrow pointing to the right, indicating the velocity of the cart.
+
+### 4. Text Labels
+*   "**Bar 1**": Points to the rod connecting A and B.
+*   "**Bar 2**": Points to the rod containing point P.
+*   "**Cart**": Points to the base vehicle.
+
+### 5. Spatial Geometry
+*   The cart is constrained to the horizontal ground.
+*   Bar 1 is a rigid link rotating about pivot A on the cart.
+*   Bar 2 is a rigid link that passes through pivot B on Bar 1.
+*   The distance $y$ is measured as a straight line along the longitudinal axis of Bar 1.
+*   The distance $x$ is measured as a straight line along the longitudinal axis of Bar 2.
+*   The system is set in a 2D plane ($\hat{e}_1, \hat{e}_2$), with $\hat{e}_3$ providing the third dimension.

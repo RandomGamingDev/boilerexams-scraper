@@ -1,0 +1,39 @@
+This is a directed tree diagram representing a mathematical expression, composed of nodes (circles containing operations or variables) connected by line segments.
+
+### Hierarchy and Node Structure
+
+*   **Root Node:** The root of the tree is the division operator `(/)`.
+    *   **Left Child of Root:** The subtraction operator `(-)`
+    *   **Right Child of Root:** The addition operator `(+)`
+
+*   **Left Subtree (under the subtraction node):**
+    *   **Left Child of subtraction:** The multiplication operator `(*)`
+        *   Left leaf: `b`
+        *   Right child: The exponentiation operator `(^)`
+            *   Left leaf: `x`
+            *   Right leaf: `2`
+    *   **Right Child of subtraction:** The multiplication operator `(*)`
+        *   Left leaf: `a`
+        *   Right child: The multiplication operator `(*)`
+            *   Left leaf: `x`
+            *   Right leaf: `y`
+
+*   **Right Subtree (under the addition node):**
+    *   **Left Child of addition:** The multiplication operator `(*)`
+        *   Left leaf: `b`
+        *   Right leaf: `y`
+    *   **Right Child of addition:** The leaf variable `c`
+
+### Summary of Tree Connections
+*   `(/)` connects to `(-)` (left) and `(+)` (right).
+*   `(-)` connects to `(*)` (left) and `(*)` (right).
+*   `(*)` [left of -] connects to `b` (left) and `(^)` (right).
+*   `(^)` connects to `x` (left) and `2` (right).
+*   `(*)` [right of -] connects to `a` (left) and `(*)` (right).
+*   `(*)` [child of previous *] connects to `x` (left) and `y` (right).
+*   `(+)` connects to `(*)` (left) and `c` (right).
+*   `(*)` [left of +] connects to `b` (left) and `y` (right).
+
+### List of Symbols
+*   **Operators:** `/`, `-`, `+`, `*` (multiplication), `^` (exponentiation).
+*   **Variables/Constants:** `b`, `x`, `2`, `a`, `y`, `c`.

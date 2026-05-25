@@ -13,7 +13,7 @@
         "body": "Yes. The statement is correct, and they should talk about it.",
         "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
         "stats": {
-          "count": 59
+          "count": 66
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "No. The statement resets the vowels counter if the current letter is not a vowel.",
         "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
         "stats": {
-          "count": 500
+          "count": 521
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "No. The statement is wrong because it needs parentheses. It should be \\verb|vowels = (vowels + 1) if (l == \"a\") or (l == \"e\") or (l == \"i\") or (l == \"o\") or (l == \"u\") else 0 |",
         "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
         "stats": {
-          "count": 15
+          "count": 16
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "No. The statement should use the \\verb|and| operator rather than \\verb|or|.",
         "questionId": "d72a2966-5c26-427c-9116-fcd72940c5bb",
         "stats": {
-          "count": 2
+          "count": 4
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "51288277",
-    "timeSpentVideo": "1370451",
-    "submissions": 580,
-    "submissionsCorrect": 500,
-    "accuracy": 0.8620689655172413,
-    "difficulty": 0.4411764705882353
+    "timeSpent": "53159620",
+    "timeSpentVideo": "1377500",
+    "submissions": 611,
+    "submissionsCorrect": 521,
+    "accuracy": 0.8527004909983633,
+    "difficulty": 0.44690576652601965
   },
   "resources": [
     {
@@ -98,13 +98,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "666986548",
-      "timeSpentVideo": "18131064",
-      "submissions": 8008,
-      "submissionsCorrect": 6551,
+      "timeSpent": "688088724",
+      "timeSpentVideo": "19920988",
+      "submissions": 8374,
+      "submissionsCorrect": 6826,
       "questions": 15,
-      "accuracy": 0.8180569430569431,
-      "difficulty": 0.43586581154415394
+      "accuracy": 0.8151421065201815,
+      "difficulty": 0.4385768232239793
     }
   },
   "explanation": {
@@ -135,13 +135,13 @@
       "courseId": "920272c4-6859-48d3-8fe7-f981c8a159e1",
       "stats": {
         "count": 1,
-        "timeSpent": "1063097469",
-        "timeSpentVideo": "16009852",
-        "submissions": 5347,
-        "submissionsCorrect": 4010,
+        "timeSpent": "1088282881",
+        "timeSpentVideo": "17150975",
+        "submissions": 5630,
+        "submissionsCorrect": 4209,
         "questions": 6,
-        "accuracy": 0.7499532448101739,
-        "difficulty": 0.5046355792179181
+        "accuracy": 0.7476021314387211,
+        "difficulty": 0.506719022687609
       }
     }
   ],

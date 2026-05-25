@@ -1,0 +1,28 @@
+This is a phase portrait for a system of two first-order linear differential equations, plotted on a Cartesian coordinate system.
+
+### 1. Text, Variables, and Labels
+*   **Horizontal Axis Label:** $x_1$ (positioned at the top center).
+*   **Vertical Axis Label:** $x_2$ (positioned at the middle left).
+*   **Axis Ticks:** 
+    *   Horizontal ($x_1$): Labeled at intervals of 2 (i.e., -4, -2, 0, 2, 4).
+    *   Vertical ($x_2$): Labeled at intervals of 2 (i.e., -4, -2, 0, 2, 4).
+
+### 2. Geometry and Layout
+*   **Coordinate System:** A standard 2D Cartesian plane with origin $(0,0)$ at the center. The plot range covers approximately -5 to +5 on both axes.
+*   **Axes:** Solid black lines intersecting at $(0,0)$. The $x_1$-axis runs horizontally, and the $x_2$-axis runs vertically. 
+
+### 3. Vector Field Characteristics (Phase Portrait)
+The image depicts a flow pattern characteristic of a **saddle point** at the origin $(0,0)$.
+
+*   **Inward Flow (Stable Manifold):**
+    *   Trajectories approach the origin along the diagonal quadrant from the top-left to the bottom-right.
+    *   In the second quadrant (top-left), trajectories originate from the top edge and move downward and toward the origin.
+    *   In the fourth quadrant (bottom-right), trajectories originate from the right edge and move upward and toward the origin.
+*   **Outward Flow (Unstable Manifold):**
+    *   Trajectories move away from the origin along the diagonal quadrant from the bottom-left to the top-right.
+    *   In the third quadrant (bottom-left), trajectories move from the origin outward toward the bottom-left corner and the left edge.
+    *   In the first quadrant (top-right), trajectories move from the origin outward toward the top-right corner and the top edge.
+*   **Directionality:** All trajectories are marked with arrowheads indicating the direction of the flow. 
+    *   The flow moves toward the origin from the upper-left and lower-right regions.
+    *   The flow moves away from the origin into the lower-left and upper-right regions.
+*   **Curve Behavior:** The trajectories are hyperbolic-like curves that never intersect. Near the origin, the flow is constrained by the stable and unstable manifolds (approximate asymptotes along the diagonal lines $x_2 = x_1$ and $x_2 = -x_1$). As trajectories move further from the origin, they bend outward toward the edges of the box.

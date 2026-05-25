@@ -1,0 +1,168 @@
+{
+  "id": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the maximum rate of increase (in any direction) at the point $(2, 1, 1)$ for the function $$f(x,y,z)=x \\ln|y|+\\frac{1}{z}$$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "73150369-11fd-4f3c-a361-1967adf19d7c",
+        "index": 0,
+        "body": "$\\sqrt{2}$",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "bd58c7cc-62d3-4918-9fda-4ccea6534396",
+        "index": 1,
+        "body": "$\\sqrt{5}$ ",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 892
+        },
+        "resources": []
+      },
+      {
+        "id": "b1cbcba6-01b9-45c0-9b67-ad3417b41693",
+        "index": 2,
+        "body": "$\\sqrt{3}$ ",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "3b5ee4ba-5560-43e8-9274-4605bd2eea53",
+        "index": 3,
+        "body": "$\\sqrt{6}$ ",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "ffaac054-7a29-41b2-8a5e-eb303bb7895a",
+        "index": 4,
+        "body": "$1$",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      },
+      {
+        "id": "50f45311-c4b4-4189-aebd-564de97c19b8",
+        "index": 5,
+        "body": "$2$",
+        "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 5,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "259458394",
+    "timeSpentVideo": "21304723",
+    "submissions": 1273,
+    "submissionsCorrect": 892,
+    "accuracy": 0.7007069913589945,
+    "difficulty": 0.5639111434814276
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "6d9f9598-ee6f-45d8-bacf-02672cffb52e",
+    "body": "Hint: The direction of maximum increase is the gradient vector $\\nabla f$. The magnitude (length) of that gradient vector, $|\\nabla f|$, is the actual \"maximum rate.\"",
+    "questionId": "de1d8f4e-3e47-4158-90f7-3f3fd504bae7",
+    "resources": [
+      {
+        "id": "352e15c7-f3aa-43a9-b083-c7f16f270299",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=1463"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6d9f9598-ee6f-45d8-bacf-02672cffb52e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "2e05110b-efbd-4404-a0d9-6f7783fe2c17",
+      "name": "Gradient Vector",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "23646619636",
+        "timeSpentVideo": "1111209178",
+        "submissions": 53907,
+        "submissionsCorrect": 32044,
+        "questions": 8,
+        "accuracy": 0.594431149943421,
+        "difficulty": 0.6557436998907549
+      }
+    },
+    {
+      "id": "848a87e3-bdec-406f-9dce-fa318c43c49e",
+      "name": "Directional Derivative",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "10687862173",
+        "timeSpentVideo": "554928723",
+        "submissions": 25387,
+        "submissionsCorrect": 15460,
+        "questions": 6,
+        "accuracy": 0.6089730964666955,
+        "difficulty": 0.6414544669831679
+      }
+    }
+  ],
+  "children": []
+}

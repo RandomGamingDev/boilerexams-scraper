@@ -1,0 +1,24 @@
+This image represents an N-channel enhancement-mode MOSFET circuit diagram. Below is an exhaustive technical description:
+
+### 1. Circuit Components and Topology
+*   **Voltage Source (Gate):** Located on the left, an independent voltage source is represented by a circle with a "+" and "-" sign inside. It is labeled "$V_G + v_g(t) \text{ V}$". The negative terminal is connected to the common ground rail, and the positive terminal is connected to the gate terminal of the MOSFET.
+*   **MOSFET:** An N-channel enhancement-mode MOSFET is at the center of the diagram.
+    *   **Gate terminal:** Connected to the positive terminal of the input voltage source.
+    *   **Source terminal:** Connected directly to the common ground rail.
+    *   **Drain terminal:** Connected to the bottom lead of resistor $R_D$.
+*   **Resistor ($R_D$):** A resistor labeled "$R_D = 2000 \Omega$" is positioned in the upper right branch, connected between the drain terminal and the $V_{dd}$ supply.
+*   **Supply Voltage ($V_{dd}$):** Labeled "$V_{dd} = 24 \text{ V}$", this represents the node voltage at the top of the resistor $R_D$.
+*   **Ground:** A ground symbol (inverted triangle) is located at the bottom center, representing the common reference node (0 V) to which the source terminal and the negative terminal of the input voltage source are connected.
+
+### 2. Labels, Symbols, and Annotations
+*   **Current ($I_D$):** An arrow pointing downward indicates the drain current $I_D$. This arrow is positioned just above the drain node, between the resistor and the MOSFET.
+*   **Output Voltage ($V_D$):** An output port is shown to the right of the MOSFET.
+    *   The positive terminal is connected to the drain node.
+    *   The negative terminal is connected to the ground rail.
+    *   The label "$V_D$" is written between the two terminals of this port.
+    *   A "+" sign is positioned above the upper terminal and a "-" sign is positioned below the lower terminal of this output port.
+
+### 3. Spatial Relationships
+*   **Ground Rail:** A horizontal line at the bottom connects the source terminal, the negative terminal of the voltage source, the ground symbol, and the negative output terminal.
+*   **Drain Path:** The current path starts at the $V_{dd}$ terminal, passes through resistor $R_D$, continues through the MOSFET (from drain to source), and terminates at ground.
+*   **Gate Path:** The gate is driven by the $V_G + v_g(t)$ source, referenced to ground.

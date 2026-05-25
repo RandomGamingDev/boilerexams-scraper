@@ -1,0 +1,36 @@
+This image displays two diagrams representing physical states along a horizontal 1D coordinate axis.
+
+### 1. Axis Structure
+*   Both diagrams share a horizontal axis representing position (implied $x$).
+*   Each diagram features a vertical axis indicating a potential constraint or frame.
+*   The diagrams are vertically stacked, with "INITIAL STATE" on top and "FINAL STATE" below.
+
+### 2. Components
+*   **Objects:** Two brown rectangular blocks are connected by a solid red horizontal rod.
+*   **Force:** A blue arrow pointing to the right labeled **$F$** is attached to the right side of the right-hand block in both diagrams.
+*   **Labels (Initial State):**
+    *   Text: "INITIAL STATE" in green, located above the blocks.
+    *   Position markers:
+        *   **$x_{1,i}$** in green, corresponding to the left edge of the left block.
+        *   **$x_{2,i}$** in green, corresponding to the right edge of the right block.
+*   **Labels (Final State):**
+    *   Text: "FINAL STATE" in red, located above the blocks.
+    *   Position markers:
+        *   **$x_{1,f}$** in red, corresponding to the left edge of the left block.
+        *   **$x_{2,f}$** in red, corresponding to the right edge of the right block.
+
+### 3. Spatial Relationships and Geometry
+*   **Initial State:**
+    *   The two blocks are positioned close together.
+    *   The red rod connecting them is relatively short.
+    *   The left edge of the system is at $x_{1,i}$, and the right edge is at $x_{2,i}$.
+*   **Final State:**
+    *   The system has been displaced to the right relative to the initial state.
+    *   The distance between the two blocks has increased (the red rod is longer than in the initial state).
+    *   The left edge of the system is now at $x_{1,f}$, and the right edge is at $x_{2,f}$.
+*   **Force Application:** In both cases, the force $F$ is acting on the rightmost block, pulling the entire assembly in the positive direction of the axis.
+
+### 4. Color Code Summary
+*   **Green:** Text and variables associated with the "INITIAL STATE".
+*   **Red:** Text and variables associated with the "FINAL STATE", the connecting rod, and the block texture.
+*   **Blue:** The force vector $F$.

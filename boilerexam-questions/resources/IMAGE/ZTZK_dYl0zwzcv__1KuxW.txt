@@ -1,0 +1,25 @@
+This image contains two distinct parts: a set of parameter definitions on the left and a pole-zero plot on the right.
+
+### 1. Text and Parameter Definitions
+Located on the left side of the image, vertically aligned:
+*   **Top line:** $\omega_m = 100 \text{ [rad/s]}$
+*   **Bottom line:** $H_m = 0.1 \text{ [A/V]}$
+
+### 2. Pole-Zero Plot
+Located on the right side of the image, the plot displays the complex $s$-plane ($s = \sigma + j\omega$):
+
+*   **Axes:**
+    *   **Horizontal axis (Real axis):** Labeled as $\sigma$. Directional arrow points to the right.
+    *   **Vertical axis (Imaginary axis):** Labeled as $j\omega$. Directional arrow points upwards.
+    *   **Origin:** The intersection of the axes is at $(0, 0)$.
+
+*   **Symbols/Plot Elements:**
+    *   **Poles (marked with a red 'x'):** 
+        *   Two poles are placed on the imaginary axis, symmetric about the real axis.
+        *   One pole is at $0 + j\omega$ (positive imaginary value).
+        *   One pole is at $0 - j\omega$ (negative imaginary value).
+    *   **Zeros (marked with a red 'o'):** 
+        *   One zero is located exactly at the origin $(0, 0)$.
+
+*   **Geometry:**
+    *   The pole-zero configuration consists of a zero at the origin and a pair of purely imaginary, complex conjugate poles located symmetrically above and below the real axis along the $j\omega$ axis.

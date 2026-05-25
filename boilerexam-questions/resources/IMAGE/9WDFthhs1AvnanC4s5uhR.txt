@@ -1,0 +1,32 @@
+This image is a directed graph consisting of 8 circular nodes, each containing a numeric label, connected by directional arrows.
+
+### Nodes (Vertices)
+The nodes are organized roughly in a three-level hierarchical layout:
+*   **Top level:** Nodes labeled 7, 5, 3 (left to right).
+*   **Middle level:** Nodes labeled 11, 8 (left to right).
+*   **Bottom level:** Nodes labeled 2, 9, 10 (left to right).
+
+### Edges (Directed Arrows)
+The connections between the nodes are as follows:
+
+1.  **From node 7:**
+    *   Arrow to node 11
+    *   Arrow to node 8
+2.  **From node 5:**
+    *   Arrow to node 11
+3.  **From node 3:**
+    *   Arrow to node 8
+    *   Arrow to node 10
+4.  **From node 11:**
+    *   Arrow to node 2
+    *   Arrow to node 9
+    *   Arrow to node 10
+5.  **From node 8:**
+    *   Arrow to node 9
+
+### Spatial Relationships
+*   **Node 11** is the most highly connected node (out-degree 3, in-degree 2).
+*   **Node 8** is the second most highly connected (out-degree 1, in-degree 2).
+*   Nodes 7, 5, and 3 act as sources (in-degree 0).
+*   Nodes 2, 9, and 10 act as sinks or intermediate terminal points (out-degree 0, though node 10 is reached from both 3 and 11).
+*   The layout is planar in appearance, with no edges explicitly crossing over one another in a way that creates a junction point.

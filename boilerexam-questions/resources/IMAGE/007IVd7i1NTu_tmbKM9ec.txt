@@ -1,0 +1,24 @@
+This image displays a series RLC circuit diagram alongside its associated component values and input voltage function.
+
+### 1. Circuit Diagram Description
+*   **Topology:** The circuit is a single-loop series circuit.
+*   **Components:**
+    *   **Voltage Source:** An AC voltage source labeled $v_{in}(t)$ is on the left vertical branch. It includes "+" and "-" polarity markers.
+    *   **Resistor:** A resistor labeled $R$ is on the top horizontal branch. Below the resistor, there is a voltage drop indicator labeled $v_R(t)$ with "+" and "-" signs indicating polarity.
+    *   **Inductor:** An inductor labeled $L$ is connected in series with the resistor on the top horizontal branch.
+    *   **Capacitor:** A capacitor labeled $C$ is on the right vertical branch.
+
+### 2. Text, Variables, and Mathematical Expressions
+To the right of the circuit diagram, the following list of parameters and functions is provided:
+*   $R = 10 \text{ [}\Omega\text{]}$
+*   $L = 0.1 \text{ [}H\text{]}$
+*   $C = 0.1 \text{ [}F\text{]}$
+*   $v_{in}(t) = 2 \cos(10t + 45^\circ) \text{ [V]}$
+
+### 3. Spatial Relationships
+*   The circuit is organized in a rectangular loop.
+*   The voltage source is at the leftmost side of the loop.
+*   The resistor and inductor are positioned in series on the top horizontal line segment (moving clockwise from the voltage source).
+*   The capacitor is on the rightmost vertical line segment.
+*   The bottom horizontal line segment connects the capacitor back to the bottom of the voltage source.
+*   The text block is aligned to the right of the circuit schematic, with values listed vertically from top to bottom in the order: $R$, $L$, $C$, and $v_{in}(t)$.

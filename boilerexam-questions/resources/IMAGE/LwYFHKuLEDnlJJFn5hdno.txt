@@ -1,0 +1,29 @@
+This image is a circuit diagram of a single-node-pair circuit (or a circuit with a reference node and a principal node).
+
+### 1. Circuit Topology
+*   The circuit is a single-loop-like structure formed by three parallel branches connected between a top common wire and a bottom reference (ground) wire.
+*   **Left branch:** Contains an independent current source.
+*   **Middle branch:** Contains an impedance element connected to ground.
+*   **Right branch:** Contains an impedance element in series with an independent voltage source.
+*   **Ground:** The entire bottom wire is connected to a ground symbol at the center-bottom.
+
+### 2. Components and Labels
+*   **Top Node:** The horizontal wire connecting the top of the three branches is labeled $\tilde{V}_o$.
+*   **Left Branch (Current Source):**
+    *   An upward-pointing arrow inside a circle represents an independent current source.
+    *   To the left of the circle is the label: $\tilde{I}_s = 6\angle 90^\circ \text{A}$.
+*   **Middle Branch (Impedance):**
+    *   A rectangular impedance box is connected vertically between the top node $\tilde{V}_o$ and the ground line.
+    *   The value is labeled to the right of the box: $j5 \;\Omega$.
+*   **Right Branch (Voltage Source and Impedance):**
+    *   The branch contains a rectangular impedance box in series with a circular voltage source.
+    *   The impedance box is located above the voltage source.
+    *   The impedance is labeled: $j10 \;\Omega$.
+    *   The voltage source is located below the impedance, with the positive terminal (+) facing upward and the negative terminal (−) facing downward.
+    *   To the right of the voltage source is the label: $\tilde{V}_s = 30\angle 0^\circ \text{V}$.
+
+### 3. Geometry and Orientation
+*   The circuit is drawn as a rectangle with a central vertical branch.
+*   **Top Horizontal Rail:** Connects the left current source, the middle impedance, and the right-side impedance.
+*   **Bottom Horizontal Rail:** Connects the bottom of the left current source, the bottom of the middle impedance, and the negative terminal of the right voltage source.
+*   **Ground Symbol:** An inverted pyramid of three horizontal lines of decreasing width is located at the center of the bottom horizontal wire.

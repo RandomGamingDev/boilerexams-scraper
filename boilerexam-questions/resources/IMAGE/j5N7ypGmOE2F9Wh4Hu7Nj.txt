@@ -1,0 +1,26 @@
+This image depicts a mechanical model of a Ferris wheel with a coordinate system.
+
+### 1. Geometry and Structure
+*   **Central Hub:** A small circular central hub labeled **A** is positioned at the center of the structure.
+*   **Radial Spokes:** Eight straight lines (spokes) emanate from the central hub **A** to the outer perimeter, dividing the circle into eight equal angular segments.
+*   **Perimeter:** An outer circle connects the ends of the radial spokes.
+*   **Inner Polygon:** A secondary set of straight lines forms a regular octagon interior to the circle, connecting points along the spokes at a fixed distance from the center.
+*   **Passenger Carts:** Small rectangular carts containing a single figure are attached to the outer perimeter. There are eight carts total, positioned at the endpoints of the spokes labeled **B, C, D, E, F, G, H,** and **K**.
+    *   **B:** Positioned at the top (12 o'clock).
+    *   **C:** Positioned at approximately 1:30 o'clock.
+    *   **D:** Positioned at the far right (3 o'clock).
+    *   **E:** Positioned at approximately 4:30 o'clock.
+    *   **F:** Positioned at the bottom (6 o'clock).
+    *   **G:** Positioned at approximately 7:30 o'clock.
+    *   **H:** Positioned at the far left (9 o'clock).
+    *   **K:** Positioned at approximately 10:30 o'clock.
+
+### 2. Labels and Variables
+*   **Node Labels:** The letters **A, B, C, D, E, F, G, H,** and **K** are written in a serif font to identify the central hub and the eight cart positions.
+*   **Coordinate System:** To the right of the Ferris wheel, a set of orthogonal unit vectors is provided:
+    *   A vertical vector pointing upward labeled **ŷ**.
+    *   A horizontal vector pointing right labeled **x̂**.
+
+### 3. Spatial Relationships
+*   **Ferris Wheel:** The entire wheel is a symmetric radial structure centered on point **A**.
+*   **Coordinate Orientation:** The vectors **x̂** and **ŷ** define a Cartesian coordinate system. The x-axis is horizontal and the y-axis is vertical. Assuming the center **A** is the origin $(0,0)$, the geometry is aligned such that the spokes to **D** and **H** lie along the x-axis, and the spokes to **B** and **F** lie along the y-axis.

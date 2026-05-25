@@ -1,0 +1,158 @@
+{
+  "id": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following series are conditionally convergent? \n$(i) \\sum_{n=1}^{\\infty} (-1)^n (\\frac{1}{2})^n \\\\\n(ii) \\sum_{n=1}^{\\infty} (-1)^n (\\frac{1}{\\sqrt{n}}) \\\\\n(iii) \\sum_{n=1}^{\\infty} (-1)^n (\\frac{1}{ln(n)})$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "985dcf82-49ad-4616-adc5-708cd6a94004",
+        "index": 0,
+        "body": "$(i)$ only.",
+        "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "f684dd30-a63b-445d-9be5-d1f297be552b",
+        "index": 1,
+        "body": "$(i)$ and $(ii)$ only.",
+        "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "b644659e-7451-408b-9c58-ad0e9e60463a",
+        "index": 2,
+        "body": "$(ii)$ and $(iii)$ only.",
+        "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+        "stats": {
+          "count": 102
+        },
+        "resources": []
+      },
+      {
+        "id": "c6e70234-3cf4-4f1f-bba6-35d3a43d30b1",
+        "index": 3,
+        "body": "All.",
+        "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "655e998d-ded4-4696-9aa4-1b21dddc7f69",
+        "index": 4,
+        "body": "None.",
+        "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 25,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "30933022",
+    "timeSpentVideo": "2628752",
+    "submissions": 184,
+    "submissionsCorrect": 102,
+    "accuracy": 0.5543478260869565,
+    "difficulty": 0.7147887323943662
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "b584ea48-55cf-4d7d-93d9-a628639f6ed1",
+    "body": "Conditional convergence evaluates if the given alternating series converges ONLY as an alternating series. \nSeries $(i)$ is a geometric series whose $r$ value is less than 1, so the series converges absolutely. Absolute convergence and conditional convergence are mutually exclusive, so Series $(i)$ is excluded from our possibilities. \nSeries $(ii)$ is a p-series whose p value is less than 1. Thus, under normal circumstances, $(ii)$ would diverge. However, because it is alternating and its terms go to 0, the series converges conditionally. \nSeries $(iii)$ would diverge under normal conditions. However, the terms still go to zero and the series alternates, so the series converges conditionally. ",
+    "questionId": "f13cb17f-9f28-447c-93c5-c22564a8a791",
+    "resources": [
+      {
+        "id": "ce0a20f7-c341-4039-9fed-fdff4db0642a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=7029"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "b584ea48-55cf-4d7d-93d9-a628639f6ed1",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26e7a4c3-53ce-49ab-a5c5-020c29c0e55f",
+      "name": "Absolute or Conditionally Convergent",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1575218885",
+        "timeSpentVideo": "96753459",
+        "submissions": 3141,
+        "submissionsCorrect": 1919,
+        "questions": 6,
+        "accuracy": 0.6109519261381725,
+        "difficulty": 0.6424714594261031
+      }
+    },
+    {
+      "id": "9c81ab5e-8192-4ab8-aeaf-62bcbd52ec0c",
+      "name": "Convergence or Divergence",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "4109222473",
+        "timeSpentVideo": "259191192",
+        "submissions": 7003,
+        "submissionsCorrect": 4133,
+        "questions": 11,
+        "accuracy": 0.5901756390118521,
+        "difficulty": 0.6610939039842321
+      }
+    }
+  ],
+  "children": []
+}

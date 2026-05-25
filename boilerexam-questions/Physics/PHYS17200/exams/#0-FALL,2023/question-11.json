@@ -1,0 +1,440 @@
+{
+  "id": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+  "type": "PARENT",
+  "data": {
+    "body": "Two small balls each of mass \\textit{m} are connected by a massless rod of length \\textit{L}. At a particular instant they have the velocities shown in the accompanying diagram. We are looking down on the system which is sliding on an icy surface, the x-y plane. ",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 11,
+  "disclaimer": null,
+  "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "51175882",
+    "timeSpentVideo": "0",
+    "submissions": 133,
+    "submissionsCorrect": 61,
+    "accuracy": 0.45864661654135336,
+    "difficulty": 0.7736051502145922
+  },
+  "resources": [
+    {
+      "id": "846d8b45-7e3f-47ed-b770-90bb471c61e0",
+      "type": "IMAGE",
+      "data": {
+        "key": "9MX0kGakMvByvYjsl9KLl",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/9MX0kGakMvByvYjsl9KLl"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "964550750",
+      "timeSpentVideo": "2649206",
+      "submissions": 6343,
+      "submissionsCorrect": 4188,
+      "questions": 43,
+      "accuracy": 0.6602553996531609,
+      "difficulty": 0.5922318795592115
+    }
+  },
+  "explanation": {
+    "id": "96a80437-0e0d-42ef-9af2-cfd50565f4d4",
+    "body": null,
+    "questionId": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "c23bfd37-1f6d-43f8-97be-268b8541f2db",
+      "name": "Angular acceleration",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1491423083",
+        "timeSpentVideo": "38174411",
+        "submissions": 2472,
+        "submissionsCorrect": 1658,
+        "questions": 10,
+        "accuracy": 0.6707119741100324,
+        "difficulty": 0.5859253499222395
+      }
+    },
+    {
+      "id": "f52077cb-e91a-4129-bdf2-adc24c6c8d58",
+      "name": "Torque",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2682382939",
+        "timeSpentVideo": "101689315",
+        "submissions": 5032,
+        "submissionsCorrect": 3347,
+        "questions": 19,
+        "accuracy": 0.6651430842607313,
+        "difficulty": 0.588074824629774
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part A:} What is the $\\underline{\\boldsymbol{translational}}$ \\textbf{angular momentum} about point \\textit{A} of the system shown?",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "ae07ca9e-9fd5-4a0c-8f8b-61331bc7c6fb",
+            "index": 0,
+            "body": "$L_{trans, A}$ = $<0, 0, -2mv(L + \\frac{d}{2})>$",
+            "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+            "stats": {
+              "count": 12
+            },
+            "resources": []
+          },
+          {
+            "id": "ae3b6f50-6816-40ef-9608-62d5246cec2b",
+            "index": 1,
+            "body": "$L_{trans, A}$ = $<0, 0, 0>$",
+            "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+            "stats": {
+              "count": 101
+            },
+            "resources": []
+          },
+          {
+            "id": "436353ab-ff37-46c4-9301-98c65a3961c2",
+            "index": 2,
+            "body": "$L_{trans, A}$ = $<0, 0, -mvL>$",
+            "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+            "stats": {
+              "count": 28
+            },
+            "resources": []
+          },
+          {
+            "id": "e1e93338-4517-4039-93c0-5e24480b9704",
+            "index": 3,
+            "body": "$L_{trans, A}$ = $<0, 0, -2mvL>$",
+            "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+            "stats": {
+              "count": 9
+            },
+            "resources": []
+          },
+          {
+            "id": "972e3395-6877-465a-85b7-84acda952074",
+            "index": 4,
+            "body": "$L_{trans, A}$ = $<0, 0, -mv(L + \\frac{d}{2})>$",
+            "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+            "stats": {
+              "count": 8
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "930213",
+        "timeSpentVideo": "0",
+        "submissions": 159,
+        "submissionsCorrect": 101,
+        "accuracy": 0.6352201257861635,
+        "difficulty": 0.666988416988417
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "08e1e8dc-f0c8-45ec-8bea-5a5ec419c579",
+        "body": null,
+        "questionId": "03e99fe6-a14a-4619-8834-6ef0662c3c80",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part B:} What is the $\\underline{\\boldsymbol{rotational}}$ \\textbf{angular momentum} of the system problem?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "e9a15f2d-1658-446d-9fbf-d8cdbb427fd6",
+            "index": 0,
+            "body": "$L_{rot, A}$ = $<0, 0, -mv(L + \\frac{d}{2})>$",
+            "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "c7bfa118-a912-475c-a6ad-f4124459ebb1",
+            "index": 1,
+            "body": "$L_{rot, A}$ = $<0, 0, -2mv(L + \\frac{d}{2})>$",
+            "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+            "stats": {
+              "count": 14
+            },
+            "resources": []
+          },
+          {
+            "id": "f82864ea-bcfb-44cc-8383-07cc6a01ba4f",
+            "index": 2,
+            "body": "$L_{rot, A}$ = $<0, 0, 0>$",
+            "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+            "stats": {
+              "count": 18
+            },
+            "resources": []
+          },
+          {
+            "id": "627bd686-440c-43ef-947c-bf75a176d3f6",
+            "index": 3,
+            "body": "$L_{rot, A}$ = $<0, 0, -mvL>$",
+            "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+            "stats": {
+              "count": 81
+            },
+            "resources": []
+          },
+          {
+            "id": "ee45d145-2c96-4da1-84a7-33078645f325",
+            "index": 4,
+            "body": "$L_{rot, A}$ = $<0, 0, -2mvL>$",
+            "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "8626",
+        "timeSpentVideo": "0",
+        "submissions": 128,
+        "submissionsCorrect": 81,
+        "accuracy": 0.6328125,
+        "difficulty": 0.6754385964912281
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "bd8bcde0-8f5c-41d3-b4f3-478aae7a007f",
+        "body": null,
+        "questionId": "db8aa7f5-ac6a-4541-8c8d-77452aef16db",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part C:} What is the $\\underline{\\boldsymbol{total}}$ \\textbf{angular momentum} about point \\textit{A} in the proceeding problems?",
+        "solution": [
+          3
+        ],
+        "answerChoices": [
+          {
+            "id": "73a42474-aed1-422f-aeda-6a237cebe7dc",
+            "index": 0,
+            "body": "$L_{rot, A}$ = $<0, 0, -mv(L + \\frac{d}{2})>$",
+            "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+            "stats": {
+              "count": 4
+            },
+            "resources": []
+          },
+          {
+            "id": "08985d24-18be-4814-a8f5-fe1d4450c06b",
+            "index": 1,
+            "body": "$L_{rot, A}$ = $<0, 0, -2mvL>$",
+            "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+            "stats": {
+              "count": 12
+            },
+            "resources": []
+          },
+          {
+            "id": "bc83959f-c6b7-4b88-af78-c5036be2fc7e",
+            "index": 2,
+            "body": "$L_{rot, A}$ = $<0, 0, 0>$",
+            "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "d0e1e734-3066-4776-92b2-f889faadd230",
+            "index": 3,
+            "body": "$L_{rot, A}$ = $<0, 0, -mvL>$",
+            "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+            "stats": {
+              "count": 76
+            },
+            "resources": []
+          },
+          {
+            "id": "3862873d-f627-4ef6-8464-18fe477614ec",
+            "index": 4,
+            "body": "$L_{rot, A}$ = $<0, 0, -2mv(L + \\frac{d}{2})>$",
+            "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+            "stats": {
+              "count": 23
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "f1a0af78-ea8c-45d3-aff9-c49004881806",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 123,
+        "submissionsCorrect": 76,
+        "accuracy": 0.6178861788617886,
+        "difficulty": 0.6849775784753364
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "7cdbb650-d263-4d1d-a467-339684454999",
+        "body": null,
+        "questionId": "1e194190-cb99-4562-a6ac-74ef05f75c94",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

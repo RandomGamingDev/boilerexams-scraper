@@ -1,0 +1,143 @@
+{
+  "id": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the improper integral $\\int_{0}^{2} xln(x)dx$.",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "19ee53b4-79c7-403a-a1e6-8001d3033245",
+        "index": 0,
+        "body": "0",
+        "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "03ce5895-b548-4ea2-974d-bc66682382e8",
+        "index": 1,
+        "body": "ln(2)",
+        "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "1aeb3978-033d-4c8d-ab74-794b9043e1ba",
+        "index": 2,
+        "body": "2ln(2)",
+        "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "ddd876ff-797e-418e-a8f8-0f338221f884",
+        "index": 3,
+        "body": "2ln(2) $-$ 1",
+        "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+        "stats": {
+          "count": 79
+        },
+        "resources": []
+      },
+      {
+        "id": "9e4fd77d-eedf-4dc7-80d7-b67466433aff",
+        "index": 4,
+        "body": "Does not converge. ",
+        "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "19907996",
+    "timeSpentVideo": "752689",
+    "submissions": 112,
+    "submissionsCorrect": 79,
+    "accuracy": 0.7053571428571429,
+    "difficulty": 0.6415094339622641
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "4a3058ac-4f99-4225-9eb8-3f68118871c7",
+    "body": null,
+    "questionId": "2f4761e0-6e41-4300-8b3c-5c12230b1e2b",
+    "resources": [
+      {
+        "id": "4d25c003-1548-438e-8327-140cc3befc85",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=aKuvXch1iCXUK5Da&t=3411"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4a3058ac-4f99-4225-9eb8-3f68118871c7",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "665046757",
+        "timeSpentVideo": "22863020",
+        "submissions": 1332,
+        "submissionsCorrect": 823,
+        "questions": 9,
+        "accuracy": 0.6178678678678678,
+        "difficulty": 0.6403631284916201
+      }
+    }
+  ],
+  "children": []
+}

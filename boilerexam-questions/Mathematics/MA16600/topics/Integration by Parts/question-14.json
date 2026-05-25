@@ -1,0 +1,143 @@
+{
+  "id": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the improper integral:\n$\\int_{0}^{\\infty} 2x^3 e^{-x^2} dx$",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "0be5168b-3ef9-4ba6-b7e1-e88955f11031",
+        "index": 0,
+        "body": "0",
+        "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "0610132f-5f76-4dbf-bd75-998a45d84eff",
+        "index": 1,
+        "body": "1",
+        "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+        "stats": {
+          "count": 37
+        },
+        "resources": []
+      },
+      {
+        "id": "2338cc4a-eb06-401a-91b9-1abaea447b47",
+        "index": 2,
+        "body": "2",
+        "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "4e591ce0-d675-4cfd-b8d7-fdfb6265c278",
+        "index": 3,
+        "body": "$\\frac12$",
+        "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "f83f562e-4a10-4d04-9ac9-878da5951d4b",
+        "index": 4,
+        "body": "$\\infty$",
+        "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14377088",
+    "timeSpentVideo": "2572653",
+    "submissions": 79,
+    "submissionsCorrect": 37,
+    "accuracy": 0.46835443037974683,
+    "difficulty": 0.7639664804469274
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "378a14d8-d393-4384-891f-fafc427f47ae",
+    "body": null,
+    "questionId": "151e7ee1-5318-4bf8-afc2-993584ce6e09",
+    "resources": [
+      {
+        "id": "9493d31a-bf49-466c-a5f5-fc8375bd2c52",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=5735"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "378a14d8-d393-4384-891f-fafc427f47ae",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "665046757",
+        "timeSpentVideo": "22863020",
+        "submissions": 1332,
+        "submissionsCorrect": 823,
+        "questions": 9,
+        "accuracy": 0.6178678678678678,
+        "difficulty": 0.6403631284916201
+      }
+    }
+  ],
+  "children": []
+}

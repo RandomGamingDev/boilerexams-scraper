@@ -1,0 +1,23 @@
+This is a vector field plot displayed on a Cartesian coordinate system.
+
+### 1. Axes and Labels
+*   **Horizontal Axis ($x_1$):**
+    *   Label: "$x_1$"
+    *   Scale: Range from -4 to 4, with labeled integer tick marks at intervals of 1 (-4, -3, -2, -1, 0, 1, 2, 3, 4).
+*   **Vertical Axis ($x_2$):**
+    *   Label: "$x_2$"
+    *   Scale: Range from -4 to 4, with labeled integer tick marks at intervals of 1 (-4, -3, -2, -1, 0, 1, 2, 3, 4).
+
+### 2. Geometry and Vector Field Structure
+*   **Grid:** The plot is a grid of vectors arranged in a 17x17 array (covering integer and half-integer coordinates from -4 to 4 on both axes).
+*   **Vector Characteristics:**
+    *   Each vector is represented by a blue arrow.
+    *   The vectors indicate flow direction in the $x_1$-$x_2$ plane.
+*   **Visual Pattern/Flow:**
+    *   **Upper half ($x_2 > 0$):** In the region where $x_1 < 0$, vectors point predominantly downward and slightly to the left. As $x_1$ increases toward 0 and beyond, the vectors rotate clockwise, eventually pointing upward and to the right in the region $x_1 > 0, x_2 > 0$.
+    *   **Lower half ($x_2 < 0$):** In the region where $x_1 < 0$, vectors point upward and to the left. As $x_1$ increases toward 0 and beyond, they rotate counter-clockwise, eventually pointing downward and to the right in the region $x_1 > 0, x_2 < 0$.
+    *   **Horizontal "Divider":** There is a region of transformation roughly along the line $x_2 = 0$.
+        *   Along the $x_2 \approx 0$ line, vectors are primarily horizontal. 
+        *   For $x_1 < 0, x_2 \approx 0$, the flow is leftward.
+        *   For $x_1 > 0, x_2 \approx 0$, the flow is rightward.
+    *   **Equilibrium/Singularity:** There is a visual "sink" or "source" effect concentrated near the origin $(0,0)$, where the vectors appear to be oriented away from the origin in the first and third quadrants and toward the origin in the second and fourth quadrants, suggesting a saddle-point-like behavior.

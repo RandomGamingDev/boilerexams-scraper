@@ -1,0 +1,35 @@
+This image is a weighted, undirected graph diagram consisting of six circular nodes labeled 0 through 5, with some edges annotated with weights and others marked with red scribbled lines.
+
+### 1. Node Positions
+The nodes are arranged in a roughly pentagonal layout with a central node:
+*   **Node 0:** Far left.
+*   **Node 1:** Top left.
+*   **Node 2:** Center.
+*   **Node 3:** Bottom center.
+*   **Node 4:** Top right.
+*   **Node 5:** Far right.
+
+### 2. Edges and Weights
+Edges connect the following pairs of nodes:
+*   **0 to 1:** Straight line with weight **3**. The line has a thick red scribble along its length, terminating in an arrow pointing from 1 toward 0.
+*   **0 to 3:** Straight line with weight **4**.
+*   **1 to 4:** Straight line with weight **5**. The line has a thick red scribble along its length, terminating in an arrow pointing from 1 toward 4.
+*   **1 to 3:** Straight line with weight **2**. The line has a thick red scribble along its length, terminating in an arrow pointing from 3 toward 1.
+*   **2 to 3:** Straight line with weight **1**. The line has a thick red scribble along its length, terminating in an arrow pointing from 2 toward 3.
+*   **2 to 4:** Straight line with weight **5**.
+*   **3 to 5:** Straight line with weight **3**.
+*   **4 to 5:** Straight line with weight **4**. The line has a thick red scribble along its length, terminating in an arrow pointing from 4 toward 5.
+
+### 3. Summary of Graph Structure
+*   **Undirected Edges:** 0–3, 2–4, 3–5.
+*   **Directed Edges (indicated by red scribbles and arrows):**
+    *   1 → 0 (weight 3)
+    *   1 → 4 (weight 5)
+    *   3 → 1 (weight 2)
+    *   2 → 3 (weight 1)
+    *   4 → 5 (weight 4)
+
+### 4. Visual Elements
+*   **Nodes:** Represented as white circles with black borders containing a single digit.
+*   **Edges:** Represented as thin straight black lines.
+*   **Annotations:** Red scribbled lines overlaid on specific edges, each ending in a red arrow indicating a direction of flow.

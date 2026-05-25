@@ -13,7 +13,7 @@
         "body": "Rolle's Theorem does not apply because the function is not continuous on $\\left[\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right]$",
         "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
         "stats": {
-          "count": 33
+          "count": 47
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Rolle's Theorem does not apply because the function is not differentiable on $\\left(\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right)$",
         "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
         "stats": {
-          "count": 37
+          "count": 47
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{3 \\pi}{8}$",
         "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
         "stats": {
-          "count": 502
+          "count": 711
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{\\pi}{6}$",
         "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
         "stats": {
-          "count": 49
+          "count": 68
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "Rolle's Theorem applies and a horizontal tangent line is guaranteed to exist at $x=\\frac{\\pi}{6}$ and $x=\\frac{3 \\pi}{8}$",
         "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
         "stats": {
-          "count": 89
+          "count": 112
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "154729261",
-    "timeSpentVideo": "33249906",
-    "submissions": 857,
-    "submissionsCorrect": 502,
-    "accuracy": 0.5857642940490082,
-    "difficulty": 0.6731974921630094
+    "timeSpent": "241512503",
+    "timeSpentVideo": "39848293",
+    "submissions": 1186,
+    "submissionsCorrect": 711,
+    "accuracy": 0.5994940978077572,
+    "difficulty": 0.6582426127527217
   },
   "resources": [],
   "exam": {
@@ -92,25 +92,25 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1814462589",
-      "timeSpentVideo": "386367752",
-      "submissions": 11953,
-      "submissionsCorrect": 7655,
+      "timeSpent": "2677809119",
+      "timeSpentVideo": "475479086",
+      "submissions": 16420,
+      "submissionsCorrect": 10648,
       "questions": 12,
-      "accuracy": 0.6404249979084748,
-      "difficulty": 0.6107400647141791
+      "accuracy": 0.6484774665042631,
+      "difficulty": 0.6024213075060533
     }
   },
   "explanation": {
     "id": "474b340f-1b2e-4abb-b54e-bdf789cebff1",
-    "body": "",
+    "body": "In addition to the method shown in the video, you could also recognize that the values $x=\\frac{\\pi}{6}$ in options D and E are not contained within $(a, b)$ and therefore must not be the locations of guaranteed horizontal asymptotes.",
     "questionId": "8ccfa1dc-0c59-4952-bdb3-99d2ab0781c2",
     "resources": [
       {
         "id": "237cab98-0751-4ebd-b858-6d2b7fc9ae38",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/pylbivuLRNY?t=1113"
+          "url": "https://www.youtube.com/watch?v=FbCaDDIveNA"
         },
         "courseId": null,
         "examId": null,
@@ -129,13 +129,13 @@
       "courseId": "12e7296b-53d1-4cba-909b-9b8c8bce8415",
       "stats": {
         "count": 1,
-        "timeSpent": "651014245",
-        "timeSpentVideo": "93241879",
-        "submissions": 2086,
-        "submissionsCorrect": 1128,
+        "timeSpent": "1252389302",
+        "timeSpentVideo": "111235831",
+        "submissions": 2879,
+        "submissionsCorrect": 1568,
         "questions": 2,
-        "accuracy": 0.5407478427612655,
-        "difficulty": 0.7111161939615737
+        "accuracy": 0.544633553317124,
+        "difficulty": 0.7068647197045989
       }
     }
   ],

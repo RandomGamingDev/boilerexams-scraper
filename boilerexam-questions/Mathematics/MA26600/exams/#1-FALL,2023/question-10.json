@@ -3,11 +3,11 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "A mass of $2 \\, \\text{kg}$ is attached to the end of a spring that is stretched $2 \\, \\text{m}$ by a force of $100 \\, \\text{N}$. At time $t = 0 \\, \\text{s}$, the mass is set in motion from its equilibrium position with initial velocity $v_0 = 20 \\, \\text{m/s}$.\n\n(a) Let $x(t)$ be the displacement (in meters) of the mass at time $t$ (in seconds). Write down an initial value problem for $x(t)$.\n(b) Solve the initial value problem from part (a). What are the amplitude and frequency of $x(t)$?",
-    "solution": "(a) $x'' + 25x = 0, \\quad x(0)=0, \\; x'(0)=20$\n(b) Amplitude = $4$, Frequency = $\\frac{2\\pi}{5}$",
+    "solution": "(a) $x'' + 25x = 0, \\quad x(0)=0, \\; x'(0)=20$\n(b) Amplitude = $4$, Frequency = $\\frac{5}{2\\pi}$",
     "answerChoices": []
   },
   "number": 10,
-  "disclaimer": null,
+  "disclaimer": "frequency = w/2pi, not 2pi/w, this part was incorrect in the video.",
   "examId": "55d02e20-3b58-4839-8f9f-3b217c8838ab",
   "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
   "parentId": null,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "174940753",
-    "timeSpentVideo": "57384200",
-    "submissions": 570,
-    "submissionsCorrect": 152,
-    "accuracy": 0.26666666666666666,
-    "difficulty": 0.9485074626865672
+    "timeSpent": "468260920",
+    "timeSpentVideo": "131240304",
+    "submissions": 1510,
+    "submissionsCorrect": 479,
+    "accuracy": 0.3172185430463576,
+    "difficulty": 0.9214285714285715
   },
   "resources": [],
   "exam": {
@@ -39,18 +39,18 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "2305163954",
-      "timeSpentVideo": "407390419",
-      "submissions": 8136,
-      "submissionsCorrect": 4834,
+      "timeSpent": "4737116491",
+      "timeSpentVideo": "805853715",
+      "submissions": 16744,
+      "submissionsCorrect": 9938,
       "questions": 10,
-      "accuracy": 0.594149459193707,
-      "difficulty": 0.6569936862554638
+      "accuracy": 0.5935260391782131,
+      "difficulty": 0.6570292092139635
     }
   },
   "explanation": {
     "id": "951af8f0-9596-4ffd-accf-0b1118094527",
-    "body": null,
+    "body": "NOTE: frequency = w/2pi, not 2pi/w, this part was incorrect in the video.",
     "questionId": "3798e110-b5d5-4c72-b1e4-6120ef48915e",
     "resources": [
       {
@@ -76,13 +76,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "12378690121",
-        "timeSpentVideo": "679686942",
-        "submissions": 26975,
-        "submissionsCorrect": 17655,
-        "questions": 25,
-        "accuracy": 0.6544949026876737,
-        "difficulty": 0.5960757156048014
+        "timeSpent": "22675252749",
+        "timeSpentVideo": "1058614260",
+        "submissions": 47651,
+        "submissionsCorrect": 31912,
+        "questions": 24,
+        "accuracy": 0.6697026295355816,
+        "difficulty": 0.5806527611987183
       }
     },
     {
@@ -91,13 +91,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "4841779133",
-        "timeSpentVideo": "476949054",
-        "submissions": 10016,
-        "submissionsCorrect": 5205,
+        "timeSpent": "14004461927",
+        "timeSpentVideo": "1257046141",
+        "submissions": 28773,
+        "submissionsCorrect": 15300,
         "questions": 12,
-        "accuracy": 0.5196685303514377,
-        "difficulty": 0.7305258995650454
+        "accuracy": 0.5317485142320926,
+        "difficulty": 0.7183614449485679
       }
     }
   ],

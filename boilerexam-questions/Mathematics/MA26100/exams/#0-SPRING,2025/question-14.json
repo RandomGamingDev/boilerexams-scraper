@@ -1,0 +1,153 @@
+{
+  "id": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the area of the surface $z=x^{2}+y^{2}$ when $x^{2}+y^{2}\\le1$.",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "a0b9be7c-9c84-4c6c-829b-5846f5fc0b1b",
+        "index": 0,
+        "body": "$\\frac{\\sqrt{5}-1}{6}\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "d2ab32e8-547c-4e46-91cd-1b41ae91a0ae",
+        "index": 1,
+        "body": "$(\\sqrt{5}-1)\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 22
+        },
+        "resources": []
+      },
+      {
+        "id": "1879f1df-ba08-4d7a-829b-8739729dd277",
+        "index": 2,
+        "body": "$(5^{3/2}-1)\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      },
+      {
+        "id": "a6c852b7-539f-4dfd-9387-0b927e2040ba",
+        "index": 3,
+        "body": "$\\frac{\\sqrt{2}+1}{6}\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      },
+      {
+        "id": "44791577-3583-49ac-a848-3cc936165208",
+        "index": 4,
+        "body": "$(\\sqrt{2}+1)\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 21
+        },
+        "resources": []
+      },
+      {
+        "id": "79cb15da-d989-451e-aa82-79ca469350ff",
+        "index": 5,
+        "body": "$\\frac{5^{3/2}-1}{6}\\pi$",
+        "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+        "stats": {
+          "count": 523
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 14,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "298604540",
+    "timeSpentVideo": "26682390",
+    "submissions": 915,
+    "submissionsCorrect": 523,
+    "accuracy": 0.571584699453552,
+    "difficulty": 0.6854679802955665
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "34d55062-46b9-44b9-88f2-a0198836e47a",
+    "body": null,
+    "questionId": "3353d85a-2e23-44bd-a5cf-8e65cf030b01",
+    "resources": [
+      {
+        "id": "aea956e0-134c-4283-9d9c-a627d2df486e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=4498"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "34d55062-46b9-44b9-88f2-a0198836e47a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "23d62d20-7d47-423e-9d59-d4ad3f2b0aa7",
+      "name": "Surface Area Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15580890306",
+        "timeSpentVideo": "1634155903",
+        "submissions": 36957,
+        "submissionsCorrect": 21779,
+        "questions": 10,
+        "accuracy": 0.5893064913277593,
+        "difficulty": 0.6609345063011037
+      }
+    }
+  ],
+  "children": []
+}

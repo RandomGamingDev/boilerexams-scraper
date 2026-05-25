@@ -1,0 +1,143 @@
+{
+  "id": "2caa293e-d911-4991-933b-e527e40c04ed",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following series converges absolutely?\n",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "67d3b7cc-16d4-47ac-87b0-9932b0f7235c",
+        "index": 0,
+        "body": "$\\sum_{k=2}^{\\infty} \\frac{(-1)^k}{\\sqrt[3]{k^3+k}}$",
+        "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "8399ec4b-7bef-4f53-a147-91e1683eec5e",
+        "index": 1,
+        "body": "$\\sum_{k=2}^{\\infty} \\frac{(-1)^k}{k^3+k}$",
+        "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "95039e5f-346e-413c-9031-be8dc1818ec6",
+        "index": 2,
+        "body": "$\\sum_{k=2}^{\\infty} (-1)^k \\sqrt[k]{\\frac{1}{k^5}}$",
+        "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "08feb237-8dd8-44d8-962d-5ecea92124f7",
+        "index": 3,
+        "body": "$\\sum_{k=2}^{\\infty} \\frac{(-1)^k}{\\ln k}$",
+        "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "a326d263-5c13-4ba4-9b12-068b66e1775d",
+        "index": 4,
+        "body": "$\\sum_{k=2}^{\\infty} \\frac{(-7)^k}{k^2}$",
+        "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 19,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "12283633",
+    "timeSpentVideo": "1517433",
+    "submissions": 71,
+    "submissionsCorrect": 48,
+    "accuracy": 0.676056338028169,
+    "difficulty": 0.6769005847953217
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "ad460237-306f-4e92-8e9f-08f7c25cf170",
+    "body": null,
+    "questionId": "2caa293e-d911-4991-933b-e527e40c04ed",
+    "resources": [
+      {
+        "id": "eac95f11-65a8-4169-9c45-f6446c2d4726",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=8243"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ad460237-306f-4e92-8e9f-08f7c25cf170",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "26e7a4c3-53ce-49ab-a5c5-020c29c0e55f",
+      "name": "Absolute or Conditionally Convergent",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1575218885",
+        "timeSpentVideo": "96753459",
+        "submissions": 3141,
+        "submissionsCorrect": 1919,
+        "questions": 6,
+        "accuracy": 0.6109519261381725,
+        "difficulty": 0.6424714594261031
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute:\n$\\int_{}^{}$ sin$^{\\frac{1}{2}}$($x$) cos$^3$($x$) $dx$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "2d15ccf6-9489-41c3-81fd-8309e9360ee1",
+        "index": 0,
+        "body": "$\\frac{2}{3}$sin$^{\\frac{3}{2}}$($x$) + $\\frac{2}{7}$sin$^{\\frac{7}{2}}$($x$) + C",
+        "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "f6ac2392-9a4f-4df1-80ca-a37134ff6f90",
+        "index": 1,
+        "body": "$2$sin$^{\\frac{1}{2}}$($x$) + $\\frac{2}{5}$sin$^{\\frac{5}{2}}$($x$) + C",
+        "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "ffdf3612-7542-48be-9ae1-b2460300c731",
+        "index": 2,
+        "body": "$2$sin$^{\\frac{1}{2}}$($x$) + $\\frac{2}{3}$sin$^{\\frac{3}{2}}$($x$) + C",
+        "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "09cd1198-be17-41f4-a44a-e38b5cc01534",
+        "index": 3,
+        "body": "$-\\frac{2}{3}$sin$^{\\frac{3}{2}}$($x$) + $\\frac{2}{7}$sin$^{\\frac{7}{2}}$($x$) + C",
+        "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "3185cf3a-c14f-4e5e-ac5a-b590f7badcb3",
+        "index": 4,
+        "body": "$\\frac{2}{3}$sin$^{\\frac{3}{2}}$($x$) $-$ $\\frac{2}{7}$sin$^{\\frac{7}{2}}$($x$) + C",
+        "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+        "stats": {
+          "count": 42
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14128234",
+    "timeSpentVideo": "472963",
+    "submissions": 61,
+    "submissionsCorrect": 42,
+    "accuracy": 0.6885245901639344,
+    "difficulty": 0.6785714285714286
+  },
+  "resources": [],
+  "exam": {
+    "id": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "174675136",
+      "timeSpentVideo": "9779237",
+      "submissions": 684,
+      "submissionsCorrect": 444,
+      "questions": 12,
+      "accuracy": 0.6491228070175439,
+      "difficulty": 0.6198979591836735
+    }
+  },
+  "explanation": {
+    "id": "9d2619d9-d611-498b-b48d-743cd26e5a9a",
+    "body": null,
+    "questionId": "e1ca4007-5848-4156-8a01-58ea652c70c0",
+    "resources": [
+      {
+        "id": "375e9f7d-9933-4ac2-9d19-85b36ca6876f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/7FXkRLd72Rg?si=0Wy_jnlNTpt24hZ3&t=759"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9d2619d9-d611-498b-b48d-743cd26e5a9a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    }
+  ],
+  "children": []
+}

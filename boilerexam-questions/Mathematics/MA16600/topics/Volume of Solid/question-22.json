@@ -1,0 +1,160 @@
+{
+  "id": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Choose the right formulas to compute the volume of the solid obtained from rotating about the line $x = 3$ the region given below, using\n(i) Washer method,\n(ii) Shell method.\nThe region is bounded by \n$y = \u2212x^2 + 4$, $x = 2$ and $y = 4$.",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "015549b0-be96-4282-8acd-267b75a4e3cd",
+        "index": 0,
+        "body": "$\\text{(i)} \\int_0^4 \\pi\\left\\{(3-\\sqrt{4-y})^2 - 1^2\\right\\}dy, \\quad \\text{(ii)} \\int_0^2 2\\pi(3-x)\\left\\{4-(-x^2+4)\\right\\}dx$",
+        "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "b38f313b-968c-4d35-9ab1-6b83c42cd979",
+        "index": 1,
+        "body": "$\\text{(i)} \\int_0^4 \\pi\\left(5-\\sqrt{4-y}\\right)^2 dy, \\quad \\text{(ii)} \\int_0^2 2\\pi x(-x^2+4)\\,dx$",
+        "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "d626e2aa-323b-4514-a78d-d439e49c4715",
+        "index": 2,
+        "body": "$\\text{(i)} \\int_0^2 \\pi\\left(4-(-x^2+4)\\right)^2 dx, \\quad \\text{(ii)} \\int_0^4 2\\pi(3-y)\\left\\{2-\\sqrt{4-y}\\right\\}dy$",
+        "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "98a296a4-3f71-4855-acdf-defe5651ee7a",
+        "index": 3,
+        "body": "$\\text{(i)} \\int_0^2 \\pi\\left\\{4^2-(-x^2+4)^2\\right\\}dx, \\quad \\text{(ii)} \\int_0^4 2\\pi y\\left(2-\\sqrt{4-y}\\right)dy$",
+        "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "d3833f00-8df2-4344-b75e-0468ad5fbcca",
+        "index": 4,
+        "body": "$\\text{(i)} \\int_0^4 \\pi\\left\\{1^2-(3-\\sqrt{4-y})^2\\right\\}dy, \\quad \\text{(ii)} \\int_0^2 2\\pi(x-3)\\left\\{4-(-x^2+4)\\right\\}dx$",
+        "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 22,
+  "disclaimer": "The provided image was not added in by BoilerExams developers. The image was provided by the exam writers. ",
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13306835",
+    "timeSpentVideo": "2019843",
+    "submissions": 66,
+    "submissionsCorrect": 41,
+    "accuracy": 0.6212121212121212,
+    "difficulty": 0.7018072289156626
+  },
+  "resources": [
+    {
+      "id": "b91ea134-2ed0-4a7d-bf84-96425a39356d",
+      "type": "IMAGE",
+      "data": {
+        "key": "jX-Ad1ecd5sT1GHYy62i5",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/jX-Ad1ecd5sT1GHYy62i5",
+        "altText": "Believe it or not, this is a real graph from the exam."
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "9823b9e8-1daa-4725-9196-ecbe695369af",
+    "body": null,
+    "questionId": "ad0f93ad-66de-42c3-9a10-b439d887addb",
+    "resources": [
+      {
+        "id": "63ca394d-308d-4f7c-a6cf-86071f00d4ab",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=9826"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "9823b9e8-1daa-4725-9196-ecbe695369af",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75951154-7b2d-4eb9-b027-5eace6f0ac0f",
+      "name": "Volume of Solid",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1041918450",
+        "timeSpentVideo": "46542589",
+        "submissions": 1653,
+        "submissionsCorrect": 937,
+        "questions": 13,
+        "accuracy": 0.5668481548699335,
+        "difficulty": 0.6869652025099829
+      }
+    }
+  ],
+  "children": []
+}

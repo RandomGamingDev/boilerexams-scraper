@@ -1,0 +1,35 @@
+This is a circuit diagram of a common-source amplifier configuration featuring an N-channel enhancement-mode MOSFET.
+
+### **Circuit Components and Layout**
+1.  **MOSFET:**
+    *   Located in the center of the diagram.
+    *   It is an N-channel MOSFET (enhancement mode).
+    *   The **Gate** is connected to the positive terminal of the input voltage source.
+    *   The **Source** is connected directly to ground.
+    *   The **Drain** is connected to the output node and to resistor $R_D$.
+
+2.  **Input Voltage Source:**
+    *   Located on the left side.
+    *   It is a DC voltage source with a time-varying component, labeled as $V_G + v_g(t) \text{ V}$.
+    *   The positive terminal is oriented upward, and the negative terminal is connected to ground.
+
+3.  **Output Section:**
+    *   An output node is present at the drain of the MOSFET.
+    *   $V_D$ is measured across the output, with the positive terminal at the drain and the negative terminal at ground.
+
+4.  **Drain Circuit:**
+    *   Resistor $R_D = 2000 \text{ } \Omega$ is placed in series between the drain and the supply voltage.
+    *   The supply voltage $V_{dd} = 24 \text{ V}$ is connected to the other side of $R_D$.
+    *   Current $I_D$ flows downward from the supply through $R_D$ into the drain of the MOSFET.
+
+### **Labels, Symbols, and Variables**
+*   **Text/Variables:**
+    *   $V_G + v_g(t) \text{ V}$: Input signal voltage applied to the gate.
+    *   $I_D$: Drain current, shown with a downward-pointing arrow.
+    *   $R_D = 2000 \text{ } \Omega$: Resistance value.
+    *   $V_{dd} = 24 \text{ V}$: DC supply voltage.
+    *   $V_D$: Output voltage across the drain and ground.
+*   **Ground:** A standard triangular ground symbol is located at the bottom center, connected to the negative terminal of the input source, the source of the MOSFET, and the negative terminal of the output $V_D$.
+*   **Polarity:**
+    *   Input source: `+` at the top, `-` at the bottom.
+    *   Output $V_D$: `+` at the drain node, `-` at the ground line.

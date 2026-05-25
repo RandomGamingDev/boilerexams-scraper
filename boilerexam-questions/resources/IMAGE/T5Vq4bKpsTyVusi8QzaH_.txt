@@ -1,0 +1,21 @@
+This image depicts a standard pole-zero plot in the complex s-plane.
+
+### 1. Axes and Labels
+*   **Horizontal Axis:** Labeled "σ" (sigma) at the far right end, with an arrowhead pointing to the right. This represents the real part of the complex frequency variable $s$.
+*   **Vertical Axis:** Labeled "jω" (j-omega) at the top end, with an arrowhead pointing upward. This represents the imaginary part of the complex frequency variable $s$.
+*   **Origin:** The intersection of the two axes marks the coordinate $(0,0)$.
+
+### 2. Plot Elements (Poles and Zeros)
+The plot contains symbols representing poles ('x') and zeros ('o') in red.
+
+*   **Poles (marked with 'x'):** There are three poles located in the left-half plane (LHP):
+    1.  **On the negative real axis:** One 'x' is placed to the left of the origin.
+    2.  **Complex conjugate pair:** Two 'x' symbols are placed off-axis in the left-half plane, symmetrically above and below the horizontal axis. These are horizontally aligned with each other and are located to the left of the pole on the real axis.
+*   **Zero (marked with 'o'):** There is one zero located in the right-half plane (RHP):
+    1.  **On the positive real axis:** One 'o' is placed to the right of the origin.
+
+### 3. Spatial Relationships
+*   The entire plot is centered on the origin $(0,0)$.
+*   The pole on the real axis is between the origin and the complex conjugate pole pair.
+*   The complex conjugate poles are located at the same negative real value as the leftmost x-coordinate.
+*   The zero is located at a positive real value on the horizontal axis.

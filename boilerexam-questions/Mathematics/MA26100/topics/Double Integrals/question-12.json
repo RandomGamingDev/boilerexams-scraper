@@ -1,0 +1,158 @@
+{
+  "id": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute $\\iint_R \\cos(y^2) \\, dy \\, dx$, over the triangle $R$ with vertices $(0, 0)$, $\\left(0, \\sqrt{\\frac{\\pi}{2}}\\right)$, and $\\left(\\sqrt{\\frac{\\pi}{2}}, \\sqrt{\\frac{\\pi}{2}}\\right)$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "c351bfb0-a0ac-422d-bafa-1da3786783ea",
+        "index": 0,
+        "body": "$1$",
+        "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+        "stats": {
+          "count": 29
+        },
+        "resources": []
+      },
+      {
+        "id": "7b2e318c-1fd0-4f70-9f49-a30c8e87aa39",
+        "index": 1,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+        "stats": {
+          "count": 543
+        },
+        "resources": []
+      },
+      {
+        "id": "5eaa6d28-dd37-4cbe-978f-31a457b3cd70",
+        "index": 2,
+        "body": "$\\frac{\\pi}{2}$",
+        "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+        "stats": {
+          "count": 33
+        },
+        "resources": []
+      },
+      {
+        "id": "ad3778a9-b8cb-4336-800f-e8ac8c10884b",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "66512f77-2779-4325-b968-4028828d1e56",
+        "index": 4,
+        "body": " $\\sqrt{\\frac{\\pi}{2}}$",
+        "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "260033175",
+    "timeSpentVideo": "15821992",
+    "submissions": 895,
+    "submissionsCorrect": 543,
+    "accuracy": 0.6067039106145251,
+    "difficulty": 0.6540201005025126
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "fafb3bbd-c031-42bc-9715-8bb5da3ca395",
+    "body": "You need to change the order of integration from $dy \\, dx$ to $dx \\, dy$",
+    "questionId": "cde74bbd-ce88-4a01-a21f-9b4477709831",
+    "resources": [
+      {
+        "id": "a4b38ccf-4856-4412-bde5-2078df3920b3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=2178"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fafb3bbd-c031-42bc-9715-8bb5da3ca395",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
+      "name": "Double Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "22356378697",
+        "timeSpentVideo": "976332840",
+        "submissions": 55097,
+        "submissionsCorrect": 37877,
+        "questions": 12,
+        "accuracy": 0.6874602972938636,
+        "difficulty": 0.5628793231516206
+      }
+    },
+    {
+      "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
+      "name": "Reverse Order of Integration",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "17152205794",
+        "timeSpentVideo": "1321597581",
+        "submissions": 41169,
+        "submissionsCorrect": 28885,
+        "questions": 10,
+        "accuracy": 0.7016201510845539,
+        "difficulty": 0.5488684000096925
+      }
+    }
+  ],
+  "children": []
+}

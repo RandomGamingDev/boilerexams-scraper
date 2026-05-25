@@ -1,0 +1,22 @@
+This image contains a circuit diagram and a set of associated mathematical parameters and Laplace transform identities.
+
+### 1. Circuit Diagram Description
+The circuit is a parallel configuration consisting of three branches connected between an upper and a lower node:
+*   **Left Branch:** An independent current source labeled $i_{IN}(t)$ with an arrow pointing upward.
+*   **Middle Branch:** A resistor with the value $\frac{1}{4} \Omega$.
+*   **Right Branch:** A capacitor with the value $2 \text{ F}$.
+*   **Output:** The voltage across the capacitor (and the entire parallel combination) is marked as $v_{OUT}(t)$, with a blue plus sign ($+$) at the top wire and a blue minus sign ($-$) at the bottom wire.
+
+### 2. Parameter Definitions (Right of the diagram)
+The following values and initial conditions are listed:
+*   $R = 0.25 \text{ } [\Omega]$
+*   $C = 2 \text{ } [F]$
+*   $i_{in}(t) = 2u(t) \text{ } [A]$
+*   $v_{C}(0^-) = 2 \text{ } [V]$
+
+### 3. Laplace Transform Identities (Far right)
+Two standard Laplace transform formulas are provided:
+*   $\text{L} [u(t)] = \dfrac{1}{s}$
+*   $\text{L} [e^{-at}] = \dfrac{1}{s+a}$
+
+*(Note: In the identity $\text{L}[e^{-at}]$, the operator L is written in a standard font, while the other text is in a mathematical serif font.)*

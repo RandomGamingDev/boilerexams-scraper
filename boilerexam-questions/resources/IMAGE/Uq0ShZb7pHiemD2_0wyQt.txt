@@ -1,0 +1,26 @@
+This image displays a tree data structure diagram consisting of nodes (represented as teal circles) and connecting edges (represented as light gray lines).
+
+### Nodes
+Each node contains a single integer value in yellow text.
+*   **Root node:** Located at the top center, labeled `7`.
+*   **Second-level nodes:**
+    *   Left child of root: Labeled `8`.
+    *   Right child of root: Labeled `11`.
+*   **Third-level nodes:**
+    *   Left child of node `8`: Labeled `10`.
+    *   Right child of node `8`: Labeled `15`.
+
+### Topology and Connections
+The tree follows a hierarchical parent-child structure:
+1.  **Level 0 (Root):** Node `7`.
+2.  **Level 1:**
+    *   Node `8` is connected to the root `7` via a diagonal edge descending to the left.
+    *   Node `11` is connected to the root `7` via a diagonal edge descending to the right.
+3.  **Level 2:**
+    *   Node `10` is connected to parent node `8` via a diagonal edge descending to the left.
+    *   Node `15` is connected to parent node `8` via a diagonal edge descending to the right.
+
+### Spatial Relationships
+*   The layout is symmetrical around the vertical axis passing through the root node `7`.
+*   The tree depth is 3 levels.
+*   The horizontal spacing is wider between the nodes at level 2 than at level 1.

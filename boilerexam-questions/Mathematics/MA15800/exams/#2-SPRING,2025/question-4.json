@@ -1,0 +1,153 @@
+{
+  "id": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find and simplify the difference quotient $\\frac{f(x+h)-f(x)}{h}$ for the function $f(x)=3x^2-7x+15$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "94581bae-ab7e-45f4-91ba-af4b584fddc7",
+        "index": 0,
+        "body": "3x+3h",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "3e72acea-6e10-40a2-8e79-de3d43b47e2c",
+        "index": 1,
+        "body": "6x-7",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "7b290d44-128b-497f-bd6d-44f31f0f4fcd",
+        "index": 2,
+        "body": "6x-7+3h",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "752993fd-6e5e-4ff5-82d0-bc79169d9687",
+        "index": 3,
+        "body": "6x+3h",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "fffba73c-2fdd-46a6-9d60-23da41634d88",
+        "index": 4,
+        "body": "3x-7",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "f36c604d-2c0e-4ad5-b5d5-47bc2433dbc8",
+        "index": 5,
+        "body": "3x-7+3h",
+        "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "d630f9bf-bd4f-44b8-84ef-f32a17c0cad0",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "31181005",
+    "timeSpentVideo": "7549268",
+    "submissions": 149,
+    "submissionsCorrect": 90,
+    "accuracy": 0.6040268456375839,
+    "difficulty": 0.6877510040160643
+  },
+  "resources": [],
+  "exam": {
+    "id": "d630f9bf-bd4f-44b8-84ef-f32a17c0cad0",
+    "number": 2,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "268946086",
+      "timeSpentVideo": "44146424",
+      "submissions": 1837,
+      "submissionsCorrect": 1153,
+      "questions": 15,
+      "accuracy": 0.6276537833424061,
+      "difficulty": 0.6289364997418688
+    }
+  },
+  "explanation": {
+    "id": "6388319e-7aa5-4c02-8567-b659d5a38aa5",
+    "body": null,
+    "questionId": "488f6ef1-c0fe-4fad-8bf9-93f8e9a6459f",
+    "resources": [
+      {
+        "id": "2f20296a-f616-44f6-81e6-ccfaba48b702",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=XssJ1jBbDS0&t=933s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "6388319e-7aa5-4c02-8567-b659d5a38aa5",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "e69ed633-0993-4035-86c5-2891af318d9c",
+      "name": "The difference quotient",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "82748917",
+        "timeSpentVideo": "7549268",
+        "submissions": 149,
+        "submissionsCorrect": 90,
+        "questions": 1,
+        "accuracy": 0.6040268456375839,
+        "difficulty": 0.6877510040160643
+      }
+    }
+  ],
+  "children": []
+}

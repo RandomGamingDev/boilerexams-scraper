@@ -4,7 +4,7 @@
   "data": {
     "body": "Using Shell Sort with H={13,4,1} for sorting the array [P, U, R, D, U, E] in descending order, the number of compares is:",
     "solution": [
-      4
+      2
     ],
     "answerChoices": [
       {
@@ -13,7 +13,7 @@
         "body": "11",
         "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
         "stats": {
-          "count": 78
+          "count": 81
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "10",
         "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
         "stats": {
-          "count": 83
+          "count": 88
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "9",
         "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
         "stats": {
-          "count": 84
+          "count": 91
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "8",
         "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
         "stats": {
-          "count": 51
+          "count": 54
         },
         "resources": []
       },
@@ -53,14 +53,14 @@
         "body": "7",
         "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
         "stats": {
-          "count": 235
+          "count": 251
         },
         "resources": []
       }
     ]
   },
   "number": 23,
-  "disclaimer": null,
+  "disclaimer": "Shell sort has likely been discontinued as a topic taught in CS 251, so feel free to skip it if it is not taught in your semester.",
   "examId": "0668792a-5c43-4646-be91-6c572b66201e",
   "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
   "parentId": null,
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "195014658",
+    "timeSpent": "208736474",
     "timeSpentVideo": "0",
-    "submissions": 604,
-    "submissionsCorrect": 235,
-    "accuracy": 0.3890728476821192,
-    "difficulty": 0.8451704545454546
+    "submissions": 640,
+    "submissionsCorrect": 252,
+    "accuracy": 0.39375,
+    "difficulty": 0.8418918918918918
   },
   "resources": [
     {
       "id": "998753a7-f587-475d-8ba5-87d4cbc5f0ff",
       "type": "CODE",
       "data": {
-        "content": "Algorithm ShellSort(A, H)\n   Let n = |A|\n   Let m = |H|\n   for (h = 0, h < m, 1)\n      Let gap = H[h]\n      for (i = 1, i < n, 1) \n         j = i - 1\n         while (j >= 0 && j + gap < n && A[j] > A[j + gap]) \n            swap(A, j, j + gap)\n            j -= gap\n         end while\n      end for\n   end for\n   return A\nEnd Algorithm\n",
+        "content": "Algorithm ShellSort(A, H)\n   Let n = |A|\n   Let m = |H|\n   for (h = 0, h < m, 1)\n      Let gap = H[h]\n      for (i = 1, i < n, 1) \n         j = i - 1\n         while (j >= 0 && j + gap < n && A[j] < A[j + gap]) \n            swap(A, j, j + gap)\n            j -= gap\n         end while\n      end for\n   end for\n   return A\nEnd Algorithm\n",
         "language": "TEXT"
       },
       "courseId": null,
@@ -108,18 +108,18 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4947697690",
-      "timeSpentVideo": "13735939",
-      "submissions": 40036,
-      "submissionsCorrect": 29320,
+      "timeSpent": "5354277106",
+      "timeSpentVideo": "15910054",
+      "submissions": 43336,
+      "submissionsCorrect": 31708,
       "questions": 30,
-      "accuracy": 0.7323408931961235,
-      "difficulty": 0.5182379908311741
+      "accuracy": 0.7316780505815027,
+      "difficulty": 0.5188553273782116
     }
   },
   "explanation": {
     "id": "258c6e9b-5e33-4986-a34a-ff9db4e65adf",
-    "body": null,
+    "body": "For Gap = 13, n = 6 so comparison never executes, 0 compares. \nGap = 4 gives 2 compares (P < U, U < E). \nGap = 1 gives 7 compares (U < U, U < R, R < D, D < P, R < D, D < E, P < E). Total is 9 compares.",
     "questionId": "5f349344-4cd6-474a-8070-ba68ba7da143",
     "resources": []
   },
@@ -130,13 +130,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "7769082597",
-        "timeSpentVideo": "22007056",
-        "submissions": 20957,
-        "submissionsCorrect": 14088,
+        "timeSpent": "8231010773",
+        "timeSpentVideo": "23675199",
+        "submissions": 22476,
+        "submissionsCorrect": 15045,
         "questions": 21,
-        "accuracy": 0.6722336212244119,
-        "difficulty": 0.5785843187538586
+        "accuracy": 0.6693806727175654,
+        "difficulty": 0.5813695960311835
       }
     },
     {
@@ -145,13 +145,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "743801622",
+        "timeSpent": "769752311",
         "timeSpentVideo": "0",
-        "submissions": 1350,
-        "submissionsCorrect": 589,
+        "submissions": 1444,
+        "submissionsCorrect": 629,
         "questions": 3,
-        "accuracy": 0.4362962962962963,
-        "difficulty": 0.8093103448275862
+        "accuracy": 0.435595567867036,
+        "difficulty": 0.8102331606217616
       }
     }
   ],

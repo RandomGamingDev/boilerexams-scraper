@@ -1,0 +1,24 @@
+The provided image is a circuit diagram consisting of a single loop with an AC voltage source and a series load.
+
+### 1. Components and Values
+*   **Voltage Source:** An AC voltage source is represented by a circle containing a tilde (~) symbol. It is labeled to the left of the symbol as `cos(100t)`.
+*   **Resistor 1:** A fixed resistor in the top branch, positioned to the right of the voltage source, with a value of `10 Ω`.
+*   **Inductor:** An inductor in the top branch, to the right of the $10\ \Omega$ resistor, with a value of `80 mH`.
+*   **Load (Dashed Box):** To the right of the main circuit, there is a rectangular dashed box labeled "Load" to its lower right. Inside this box are two components connected in series:
+    *   **Capacitor:** A capacitor labeled `C_L`.
+    *   **Resistor 2:** A resistor labeled `R_L`, connected below the capacitor.
+
+### 2. Circuit Topology and Geometry
+*   The circuit is a single series loop.
+*   The voltage source is on the leftmost vertical branch.
+*   The top horizontal branch contains, in sequence from left to right: a $10\ \Omega$ resistor, an $80\ \text{mH}$ inductor, and a junction point (represented by a solid black dot).
+*   The rightmost vertical branch contains the components of the "Load" (the capacitor $C_L$ and resistor $R_L$ in series). The top of this branch connects to the main circuit at the solid black dot mentioned above. The bottom of this branch connects to the bottom horizontal wire at another solid black dot.
+*   The bottom horizontal branch returns from the load to the bottom of the voltage source.
+
+### 3. Text and Labels
+*   `cos(100t)`: Located to the left of the AC source.
+*   `10 Ω`: Located above the first resistor symbol.
+*   `80 mH`: Located above the inductor symbol.
+*   `C_L`: Located to the right of the capacitor symbol.
+*   `R_L`: Located to the right of the second resistor symbol.
+*   `Load`: Located outside the dashed box at the bottom right.

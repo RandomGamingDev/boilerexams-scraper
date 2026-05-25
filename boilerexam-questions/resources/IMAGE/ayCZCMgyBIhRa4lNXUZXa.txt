@@ -1,0 +1,35 @@
+This image depicts a stress state acting on an infinitesimal element within a larger object.
+
+### 1. General Geometry and Layout
+*   **Left side:** A 2D outline of a structural component (appearing like a cantilever or a generic planar shape). Inside this shape is a small, highlighted square representing a differential element.
+*   **Center/Right:** A magnified view of the differential element shown as a square. Dashed lines connect the corners of the square in the structural component to the corners of the magnified square.
+*   **Bottom Right:** A coordinate system showing orthogonal axes labeled 'X' (horizontal, pointing right) and 'Y' (vertical, pointing up).
+
+### 2. Magnified Differential Element (Stress State)
+The square element is subject to normal and shear stresses on its faces:
+
+*   **Vertical Normal Stresses:**
+    *   An upward-pointing arrow on the top face labeled "25 MPa".
+    *   A downward-pointing arrow on the bottom face (unlabeled, but symmetric to the top).
+*   **Horizontal Normal Stresses:**
+    *   A rightward-pointing arrow on the right face labeled "20 MPa".
+    *   A leftward-pointing arrow on the left face (unlabeled, but symmetric to the right).
+*   **Shear Stresses:**
+    *   Top face: A rightward-pointing arrow labeled "10 MPa".
+    *   Right face: An upward-pointing arrow (unlabeled).
+    *   Bottom face: A leftward-pointing arrow (unlabeled).
+    *   Left face: A downward-pointing arrow (unlabeled).
+    *   *Note:* The arrows on the perimeter of the square follow a consistent clockwise rotational sense for the shear components.
+
+### 3. Text and Symbols
+*   **"25 MPa"**: Located above the top normal stress arrow.
+*   **"10 MPa"**: Located to the right of the top horizontal shear arrow.
+*   **"20 MPa"**: Located to the right of the rightward normal stress arrow.
+*   **"X"**: Labeled at the end of the horizontal axis arrow in the coordinate system.
+*   **"Y"**: Labeled at the end of the vertical axis arrow in the coordinate system.
+
+### 4. Spatial Relationships
+*   The coordinate system origin is at the bottom right of the diagram.
+*   The X-axis aligns horizontally with the rightward normal stress.
+*   The Y-axis aligns vertically with the upward normal stress.
+*   The dashed lines originating from the small square within the shape indicate a projection/magnification of the state of stress to the larger square element.

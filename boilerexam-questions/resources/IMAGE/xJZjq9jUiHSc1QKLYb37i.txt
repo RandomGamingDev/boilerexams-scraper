@@ -1,0 +1,36 @@
+This image is a weighted undirected graph consisting of six nodes (labeled A through F) connected by edges, each of which has an associated numerical weight.
+
+### 1. Nodes
+There are 6 nodes represented as circles, each containing a single capital letter:
+*   **A** (positioned at the far left)
+*   **B** (positioned at the top-left)
+*   **C** (positioned at the bottom-center)
+*   **D** (positioned in the center)
+*   **E** (positioned at the top-right)
+*   **F** (positioned at the middle-right)
+
+### 2. Edges and Weights
+The edges are represented by straight lines connecting the nodes. Each edge is labeled with a weight enclosed in a rectangular box:
+
+*   **A to B:** Weight = **6**
+*   **A to C:** Weight = **8**
+*   **B to C:** Weight = **4**
+*   **B to D:** Weight = **15**
+*   **B to E:** Weight = **10**
+*   **C to D:** Weight = **1**
+*   **C to F:** Weight = **7**
+*   **D to E:** Weight = **10**
+*   **E to F:** Weight = **8**
+
+### 3. Spatial Arrangement
+*   **Node B** is the northernmost node.
+*   **Node C** is the southernmost node.
+*   **Node D** acts as a central hub for the graph.
+*   The graph is roughly arranged in a circular-like structure with node D located centrally relative to the other nodes.
+*   The connections are as follows:
+    *   Node A connects to nodes B and C.
+    *   Node B connects to nodes A, C, D, and E.
+    *   Node C connects to nodes A, B, D, and F.
+    *   Node D connects to nodes B, C, and E.
+    *   Node E connects to nodes B, D, and F.
+    *   Node F connects to nodes C and E.

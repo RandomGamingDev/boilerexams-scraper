@@ -1,0 +1,168 @@
+{
+  "id": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "In planes parallel to and distinct from the $xy$-plane, the traces of the quadric surface $$z=x^{2}-4y^{2}$$are:",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b157f7e2-2b3b-4c77-a989-203cb1198349",
+        "index": 0,
+        "body": "Parabolas",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 187
+        },
+        "resources": []
+      },
+      {
+        "id": "40f45425-37db-4012-b7a9-4d6cd2d70bd6",
+        "index": 1,
+        "body": "Hyperbolas",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 1006
+        },
+        "resources": []
+      },
+      {
+        "id": "711080da-e131-44b8-8800-f2bfa2acc48e",
+        "index": 2,
+        "body": "Circles",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 43
+        },
+        "resources": []
+      },
+      {
+        "id": "1ef1ede5-3a1e-4749-a21d-97130a182870",
+        "index": 3,
+        "body": "Non-circular ellipses",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 152
+        },
+        "resources": []
+      },
+      {
+        "id": "0768a9d3-d6c0-481f-ad52-39a411d28bbe",
+        "index": 4,
+        "body": "Isolated Points",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 10
+        },
+        "resources": []
+      },
+      {
+        "id": "0118a838-6959-4e5d-949c-22b27f03579c",
+        "index": 5,
+        "body": "Lines",
+        "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+        "stats": {
+          "count": 89
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 3,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "187958942",
+    "timeSpentVideo": "31746702",
+    "submissions": 1601,
+    "submissionsCorrect": 1006,
+    "accuracy": 0.6283572767020612,
+    "difficulty": 0.6291887125220459
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "ebac3c6e-eef9-4839-be03-620ff2df559b",
+    "body": "Hint: \"Traces parallel to the $xy$-plane\" means you should set $z = k$ (a constant). Look at the resulting equation $k = x^2 - 4y^2$. Identify which conic section (ellipse, hyperbola, parabola) matches that standard form.",
+    "questionId": "0f81c500-0463-4b24-a294-440d0d54eeaa",
+    "resources": [
+      {
+        "id": "987bb98c-33f4-4bc7-9a8d-94aea7957f9a",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=829"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "ebac3c6e-eef9-4839-be03-620ff2df559b",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "070728e3-0022-4791-8ba3-6830f25149df",
+      "name": "Traces",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "587556467",
+        "timeSpentVideo": "31746702",
+        "submissions": 1601,
+        "submissionsCorrect": 1006,
+        "questions": 1,
+        "accuracy": 0.6283572767020612,
+        "difficulty": 0.6291887125220459
+      }
+    },
+    {
+      "id": "1ee8b64e-2815-4346-b957-742c33ccbaf6",
+      "name": "Level Curves",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7562591306",
+        "timeSpentVideo": "693992412",
+        "submissions": 26915,
+        "submissionsCorrect": 16072,
+        "questions": 5,
+        "accuracy": 0.5971391417425228,
+        "difficulty": 0.6532204330927263
+      }
+    }
+  ],
+  "children": []
+}

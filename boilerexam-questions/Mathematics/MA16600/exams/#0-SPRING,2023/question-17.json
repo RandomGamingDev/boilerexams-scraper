@@ -1,0 +1,158 @@
+{
+  "id": "58be1164-9396-4928-8642-79bb03c84089",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The appropriate trigonometric substitution will convert the following integral:\n$\\int_{2}^{7} \\sqrt{x^2 - 4x + 29} \\ dx$",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "300cfdf2-cd96-4590-836c-3f59f8f81030",
+        "index": 0,
+        "body": "$25 \\int_{ 0 }^{ \\frac{\\pi}{4} } \\sec^3(\\theta)  d\\theta$",
+        "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+        "stats": {
+          "count": 39
+        },
+        "resources": []
+      },
+      {
+        "id": "e3f07987-66fa-4173-aef4-7a4cf58eaad8",
+        "index": 1,
+        "body": "$  5 \\int_{  0}^{  \\frac{  \\pi}{  4 }} \\sec^3(\\theta)d\\theta$",
+        "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "2813d438-352c-4743-b433-b2876bbc107f",
+        "index": 2,
+        "body": "$ 25  \\int_{  0}^{  \\frac{  \\pi}{   2}} \\sec(\\theta) \\tan^2(\\theta) d\\theta$",
+        "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "f29046b8-c334-4405-aa46-0a97a901e536",
+        "index": 3,
+        "body": "$   5\\int_{  0}^{  \\frac{  \\pi}{  2 }} \\sec(\\theta) \\tan^2(\\theta) d\\theta$",
+        "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "ea611618-e849-48cc-8a25-8cdf77c19c33",
+        "index": 4,
+        "body": "$  25 \\int_{  0}^{  \\frac{  \\pi}{  2 }} \\sec^2(\\theta) \\tan(\\theta) d\\theta$",
+        "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "12426980",
+    "timeSpentVideo": "3769601",
+    "submissions": 73,
+    "submissionsCorrect": 39,
+    "accuracy": 0.5342465753424658,
+    "difficulty": 0.7355491329479769
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "f949754d-b8e0-44d9-9c08-847120c7254a",
+    "body": null,
+    "questionId": "58be1164-9396-4928-8642-79bb03c84089",
+    "resources": [
+      {
+        "id": "3c56f7e4-6896-42bf-88b4-7db00ae65371",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=7109"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f949754d-b8e0-44d9-9c08-847120c7254a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    },
+    {
+      "id": "e5b1a622-47b0-4dfe-87fb-7c392235a167",
+      "name": "Completing the Square",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "48414196",
+        "timeSpentVideo": "3769601",
+        "submissions": 73,
+        "submissionsCorrect": 39,
+        "questions": 1,
+        "accuracy": 0.5342465753424658,
+        "difficulty": 0.7355491329479769
+      }
+    }
+  ],
+  "children": []
+}

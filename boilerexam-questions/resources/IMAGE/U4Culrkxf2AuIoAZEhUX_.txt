@@ -1,0 +1,21 @@
+This image displays a voltage-time graph featuring a periodic sawtooth-like waveform.
+
+### 1. Axes and Labels
+*   **Vertical Axis (Y-axis):** Labeled "Voltage (V)". It spans from -4 to 4, with marked ticks at -4, -2, 0, 2, and 4.
+*   **Horizontal Axis (X-axis):** Labeled "Time (s)". It spans from 0 to 4, with marked ticks at 0, 1, 2, 3, and 4.
+*   **Grid:** A light grey grid is overlaid, corresponding to the marked ticks on both axes.
+
+### 2. Waveform Geometry and Coordinates
+The waveform is periodic with a period of 2 seconds. The path of the line is defined by the following segments:
+
+*   **Segment 1 (0 to 1s):** Starts at (0, 0) and increases linearly to (1, 4).
+*   **Segment 2 (1s to 2s):** At t=1, there is a vertical drop from (1, 4) to (1, 0). Then, from t=1 to t=2, it decreases linearly from (1, 0) to (2, -4).
+*   **Segment 3 (2s to 3s):** At t=2, there is a vertical rise from (2, -4) to (2, 0). Then, from t=2 to t=3, it increases linearly from (2, 0) to (3, 4).
+*   **Segment 4 (3s to 4s):** At t=3, there is a vertical drop from (3, 4) to (3, 0). Then, from t=3 to t=4, it decreases linearly from (3, 0) to (4, -4).
+*   **Final Point:** The graph ends with a vertical segment at t=4, rising from (4, -4) to (4, 0).
+
+### 3. Summary of Characteristics
+*   The waveform consists of repeated linear "ramp" functions interspersed with vertical instantaneous transitions.
+*   The signal oscillates between +4V and -4V.
+*   The positive slope segments (0 to 1s and 2 to 3s) have a slope of +4 V/s.
+*   The negative slope segments (1 to 2s and 3 to 4s) have a slope of -4 V/s.

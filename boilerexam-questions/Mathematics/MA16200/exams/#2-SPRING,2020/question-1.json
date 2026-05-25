@@ -1,0 +1,143 @@
+{
+  "id": "a0c58601-18f7-437d-97e6-652836eaab7f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the value of the integral $\\int_{1}^{\\mathrm{e}} 2 x \\ln x \\mathrm{~d} x$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "7a8dce11-d7f1-4ede-ba78-52c043521cb1",
+        "index": 0,
+        "body": "$\\frac{1}{2}$",
+        "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "81461c9a-4398-4318-ac35-c172eb9b25ec",
+        "index": 1,
+        "body": "$\\frac{1-\\mathrm{e}^{2}}{2}$",
+        "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+        "stats": {
+          "count": 224
+        },
+        "resources": []
+      },
+      {
+        "id": "48643e6f-48f4-4895-89da-1e271a55d32c",
+        "index": 2,
+        "body": "$\\frac{1+\\mathrm{e}^{2}}{2}$",
+        "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+        "stats": {
+          "count": 1484
+        },
+        "resources": []
+      },
+      {
+        "id": "2408d420-75bd-426b-9be3-687693daadae",
+        "index": 3,
+        "body": "$\\frac{3 \\mathrm{e}^{2}-1}{2}$",
+        "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+        "stats": {
+          "count": 88
+        },
+        "resources": []
+      },
+      {
+        "id": "3e0d03a1-510d-42c7-8190-c2f237b214b4",
+        "index": 4,
+        "body": "$\\frac{\\mathrm{e}^{2}}{2}$",
+        "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+        "stats": {
+          "count": 56
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": "",
+  "examId": "bc4ad7a9-2854-4343-9c01-572926114c72",
+  "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "403439370",
+    "timeSpentVideo": "33541084",
+    "submissions": 2114,
+    "submissionsCorrect": 1484,
+    "accuracy": 0.7019867549668874,
+    "difficulty": 0.5571364046973803
+  },
+  "resources": [],
+  "exam": {
+    "id": "bc4ad7a9-2854-4343-9c01-572926114c72",
+    "number": 2,
+    "year": 2020,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4470720362",
+      "timeSpentVideo": "694382710",
+      "submissions": 27207,
+      "submissionsCorrect": 15144,
+      "questions": 12,
+      "accuracy": 0.5566214577130886,
+      "difficulty": 0.6935858937268832
+    }
+  },
+  "explanation": {
+    "id": "3a9a7846-cbd4-4bf4-8ea9-b17fd39592be",
+    "body": "",
+    "questionId": "a0c58601-18f7-437d-97e6-652836eaab7f",
+    "resources": [
+      {
+        "id": "532d3ecd-5a9a-4caf-b12e-e6e35faec22f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/YRZpexVsi7o?t=1\r"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3a9a7846-cbd4-4bf4-8ea9-b17fd39592be",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "61c84c6c-3b05-48ab-a08c-2de0577ccbd1",
+      "name": "Integration by Parts",
+      "courseId": "70661c23-09d4-445b-abdf-a91c55cebcf5",
+      "stats": {
+        "count": 1,
+        "timeSpent": "20053656857",
+        "timeSpentVideo": "1182672762",
+        "submissions": 43467,
+        "submissionsCorrect": 26290,
+        "questions": 14,
+        "accuracy": 0.6048266501023765,
+        "difficulty": 0.6454139601074208
+      }
+    }
+  ],
+  "children": []
+}

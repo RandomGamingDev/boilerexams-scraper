@@ -1,0 +1,143 @@
+{
+  "id": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Which of the following integrals represent volume of the solid in the first octant bounded by the plane $3x + 2y + 6z = 12$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "394e49ca-bf59-4b64-8956-d3e3d70415dc",
+        "index": 0,
+        "body": "$\\int_{0}^{6} \\int_{0}^{4-\\frac{2y}{3}} \\int_{0}^{3-\\frac{x}{2}-\\frac{y}{3}} dz \\, dx \\, dy$",
+        "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "8c8a4469-799d-496e-8e3b-28adfb694827",
+        "index": 1,
+        "body": "$\\int_{0}^{6} \\int_{0}^{4-\\frac{2y}{3}} \\int_{0}^{2-\\frac{x}{2}-\\frac{y}{3}} dz \\, dx \\, dy$",
+        "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+        "stats": {
+          "count": 704
+        },
+        "resources": []
+      },
+      {
+        "id": "29e92838-96d4-4f4c-b85b-8d15d65cc282",
+        "index": 2,
+        "body": "$\\int_{0}^{4} \\int_{0}^{6-y} \\int_{0}^{2-\\frac{x}{2}-\\frac{y}{3}} dz \\, dx \\, dy$",
+        "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "e10d0c53-034f-42c2-8312-5a437d4f14ef",
+        "index": 3,
+        "body": "$\\int_{0}^{6} \\int_{0}^{4-\\frac{y}{3}} \\int_{0}^{2-\\frac{x}{3}-\\frac{y}{3}} dz \\, dx \\, dy$",
+        "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "967288b1-dd48-404e-83e7-a0f8c07674a4",
+        "index": 4,
+        "body": "$\\int_{0}^{4} \\int_{0}^{6-y} \\int_{0}^{2-\\frac{x}{3}-\\frac{y}{3}} dz \\, dx \\, dy$",
+        "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 6,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "192903207",
+    "timeSpentVideo": "5537873",
+    "submissions": 861,
+    "submissionsCorrect": 704,
+    "accuracy": 0.8176538908246226,
+    "difficulty": 0.4654006243496358
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "31272fc6-02c9-42ee-9908-61f8e325f83e",
+    "body": "To find the volume in the first octant, we solve the plane equation for $z$:\n$6z = 12 - 3x - 2y \\implies z = 2 - \\frac{1}{2}x - \\frac{1}{3}y$",
+    "questionId": "c07eb1df-66b2-4db8-87fb-1929a4afde94",
+    "resources": [
+      {
+        "id": "5361e1ac-eb87-4a60-b88b-ca5f3bc96c89",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=714"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "31272fc6-02c9-42ee-9908-61f8e325f83e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "c60ea0cb-d041-4af3-a439-ec714de1a0df",
+      "name": "Converting to Integral",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "404844670",
+        "timeSpentVideo": "5537873",
+        "submissions": 861,
+        "submissionsCorrect": 704,
+        "questions": 1,
+        "accuracy": 0.8176538908246226,
+        "difficulty": 0.4654006243496358
+      }
+    }
+  ],
+  "children": []
+}

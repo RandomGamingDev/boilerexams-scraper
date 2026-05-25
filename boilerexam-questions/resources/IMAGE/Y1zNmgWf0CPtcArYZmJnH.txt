@@ -1,0 +1,27 @@
+This is a schematic diagram of a planar electric circuit with three defined mesh currents.
+
+### Circuit Topology and Components
+The circuit consists of three loops arranged in a rectangular structure with a central vertical wire.
+
+1.  **Voltage Source (Left):** A 10 V independent DC voltage source is located on the far-left vertical wire. The positive terminal is at the top, and the negative terminal is at the bottom.
+2.  **Current Source (Top):** A 2 A independent DC current source is located on the top horizontal wire. The arrow points to the right.
+3.  **Resistor (Left-Center):** A 5 $\Omega$ resistor is located on the horizontal branch connecting the top-left node to the central vertical wire. Below the resistor, there is a voltage label $V_x$ with a minus sign on the left and a plus sign on the right.
+4.  **Dependent Source (Right-Center):** A diamond-shaped controlled voltage source is located on the horizontal branch connecting the central vertical wire to the top-right node. The label $0.2V_x$ is written above it. Inside the diamond, there is a minus sign on the left and a plus sign on the right.
+5.  **Resistor (Center):** A 20 $\Omega$ resistor is located on the central vertical wire, between the central node and the bottom wire.
+6.  **Resistor (Right):** A 15 $\Omega$ resistor is located on the far-right vertical wire, between the node to the right of the dependent source and the bottom wire.
+
+### Loop Definitions and Mesh Currents
+The circuit identifies three mesh currents with associated circular arrows:
+*   **Mesh $I_1$:** Located in the top-center region. The arrow indicates a clockwise path encompassing the current source, the dependent source, and the path through the top wires.
+*   **Mesh $I_2$:** Located in the bottom-left region. The arrow indicates a clockwise path encompassing the 10 V source, the 5 $\Omega$ resistor, and the 20 $\Omega$ resistor.
+*   **Mesh $I_3$:** Located in the bottom-right region. The arrow indicates a clockwise path encompassing the 20 $\Omega$ resistor, the dependent source, and the 15 $\Omega$ resistor.
+
+### Text and Labels Summary
+*   **Voltage:** "10 V" (left), "$V_x$" (below 5 $\Omega$ resistor), "$0.2V_x$" (above dependent source).
+*   **Current:** "2 A" (above top current source).
+*   **Resistance:** "5 $\Omega$", "20 $\Omega$", "15 $\Omega$".
+*   **Mesh variables:** "$I_1$", "$I_2$", "$I_3$".
+*   **Polarity signs:**
+    *   10 V source: "+" (top), "-" (bottom).
+    *   5 $\Omega$ resistor: "-" (left), "+" (right).
+    *   Dependent source: "-" (left), "+" (right).

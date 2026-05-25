@@ -1,9 +1,9 @@
 {
-  "id": "a107d04f-0b7e-49b3-85d4-f4839838f991",
-  "type": "SHORT_ANSWER",
+  "id": "86980099-beb4-4efa-bb7a-ccbfa8614965",
+  "type": "PARENT",
   "data": {
-    "body": "A college dietitian has developed three diet plans, namely Diet 1, Diet 2, and Diet 3, to assist college students in losing weight. The weight of participants who followed these diet programs was measured in pounds both before starting the diet and after completing three months on the respective diet plan. The dietitian is investigating whether there are any differences in the effectiveness of these three diets in terms of the average weight loss achieved. Weight loss is defined as the difference between the weight measured after three months and the weight measured before starting the diet. The summary information for each diet is provided below.\n\n(c) Using the ANOVA table,  what is the estimated value of the assumed common variance among the three diet plans in the analysis?",
-    "solution": "s^2 = 0.9533",
+    "body": "A university is studying the relationship between the amount of investment in server facilities to the average server traffic. The research team obtained the following set of graphics from their data of 100 pairs, collected from an SRS of other universities with servers of varying sizes.",
+    "numberingType": "LOWERCASE",
     "answerChoices": []
   },
   "number": 12,
@@ -14,40 +14,24 @@
   "flags": {
     "published": true,
     "disableRandomAnswers": false,
-    "answersStartHidden": true
+    "answersStartHidden": false
   },
   "stats": {
     "count": 1,
-    "timeSpent": "7044009",
-    "timeSpentVideo": "4159231",
-    "submissions": 84,
-    "submissionsCorrect": 6,
-    "accuracy": 0.07142857142857142,
-    "difficulty": 0.9456521739130435
+    "timeSpent": "156589",
+    "timeSpentVideo": "0",
+    "submissions": 2,
+    "submissionsCorrect": 2,
+    "accuracy": 1,
+    "difficulty": 0.7401960784313726
   },
-  "resources": [
-    {
-      "id": "c872af19-08f9-4bc2-b6c6-15bc7d34e54e",
-      "type": "IMAGE",
-      "data": {
-        "key": "3EAUWxVzqHn52ypkjROB1",
-        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/3EAUWxVzqHn52ypkjROB1"
-      },
-      "courseId": null,
-      "examId": null,
-      "questionId": "a107d04f-0b7e-49b3-85d4-f4839838f991",
-      "explanationId": null,
-      "applicationId": null,
-      "answerChoiceId": null,
-      "customExamId": null
-    }
-  ],
+  "resources": [],
   "exam": {
     "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
     "number": 3,
     "year": 2023,
     "season": "FALL",
-    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
     "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
     "flags": {
       "published": true,
@@ -55,52 +39,306 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "317174247",
-      "timeSpentVideo": "129581725",
-      "submissions": 3064,
-      "submissionsCorrect": 1194,
-      "questions": 25,
-      "accuracy": 0.389686684073107,
-      "difficulty": 0.856826801517067
+      "timeSpent": "242725991",
+      "timeSpentVideo": "102010207",
+      "submissions": 2828,
+      "submissionsCorrect": 1628,
+      "questions": 28,
+      "accuracy": 0.5756718528995757,
+      "difficulty": 0.6769125683060109
     }
   },
   "explanation": {
-    "id": "acec91a3-8f37-4585-be3c-7c9602f4577a",
+    "id": "84de8e5d-2430-47bd-9cb7-e0f1eaa7804b",
     "body": null,
-    "questionId": "a107d04f-0b7e-49b3-85d4-f4839838f991",
+    "questionId": "86980099-beb4-4efa-bb7a-ccbfa8614965",
     "resources": [
       {
-        "id": "5b5fc749-f963-4dd2-a11d-b4fe7f6862df",
+        "id": "29638236-3c15-4bb5-8bec-b2c3f05b5679",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/0Fv09GL-2HE?t=815"
+          "url": "https://youtu.be/0Fv09GL-2HE?t=2452"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "acec91a3-8f37-4585-be3c-7c9602f4577a",
+        "explanationId": "84de8e5d-2430-47bd-9cb7-e0f1eaa7804b",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
       }
     ]
   },
-  "topics": [
+  "topics": [],
+  "children": [
     {
-      "id": "8aaf6b51-9e7d-4f90-a187-b783b0fe08c2",
-      "name": "Variances",
+      "id": "df898a95-9704-409f-b131-c82d7d3a5f55",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(a) List ALL assumptions which should be satisfied to conduct inference in a simple linear regression analysis.",
+        "solution": "Assumptions:\n1) SRS: The response (server traffic) is obtained as a simple random sample for each\nfixed \ud835\udc99 (investment). It is okay if they mention that the pairs are SRS.\n2) Linearity: Assume that the relationship between server traffic and investment dollars\nis linear.\n3) Homogeneity/Constant Variance: Assume that the residual errors have common\nvariance.\n4) Normality: Assume that the residual errors are normally distribued.",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
       "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "86980099-beb4-4efa-bb7a-ccbfa8614965",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
       "stats": {
-        "count": 1,
-        "timeSpent": "14766043",
-        "timeSpentVideo": "4159231",
-        "submissions": 84,
-        "submissionsCorrect": 6,
-        "questions": 1,
-        "accuracy": 0.07142857142857142,
-        "difficulty": 0.9456521739130435
-      }
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "da5e362b-55ae-44de-9d86-440495697d11",
+        "body": null,
+        "questionId": "df898a95-9704-409f-b131-c82d7d3a5f55",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+          "name": "Assumptions",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "88508228",
+            "timeSpentVideo": "14853639",
+            "submissions": 335,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.1350574712643677
+          }
+        }
+      ]
+    },
+    {
+      "id": "8f378cdc-ed37-48cc-951f-99ef69816bc1",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(b) (13 points) Evaluate whether each assumption in (a) is satisfied. For each assumption, where appropriate, clearly state ALL graphs that can be used to assess the validity of the assumption and the features used. ",
+        "solution": "1) SRS: Is assumed true as stated in the problem description. (Valid)\n2) Linearity: Curvature clearly visible. (Invalid)\ngraphs: Scatter Plot: Curvature of points &  Residual Plot: Curvature of points\n3) Homogeneity/Constant Variance: Variability is low for small values (below 20) and high for large\nvalues (above 20). (Invalid)\ngraphs: Scatter Plot: Concentration of Points &  Residual Plot: Concentration of Points\n4) Normality: The residuals are positively skewed and have outliers. (Invalid)\ngraphs: Histogram of Residuals: Gaps in histogram indicate outliers and long right tail. Blue\nnormal curve and red kernel curve do not align. &  Normal Probability Plot of Residuals: Concave up and points do not follow the line.\n",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "86980099-beb4-4efa-bb7a-ccbfa8614965",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "9cfe1f91-b459-4307-9be3-95397138f151",
+          "type": "IMAGE",
+          "data": {
+            "key": "4Z-kQKGVE-fYNFxLcKS3v",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/4Z-kQKGVE-fYNFxLcKS3v"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "8f378cdc-ed37-48cc-951f-99ef69816bc1",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "aeba6cb7-fc4b-4b31-983f-65a7222fdef0",
+        "body": null,
+        "questionId": "8f378cdc-ed37-48cc-951f-99ef69816bc1",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+          "name": "Assumptions",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "88508228",
+            "timeSpentVideo": "14853639",
+            "submissions": 335,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.1350574712643677
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6f5bb93-a623-49d0-b938-8fbae60914f6",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "\n(c) Below is the R output from running a linear regression analysis with this dataset. What can you conclude based on this and your answers of (a) and (b)?",
+        "solution": "The R output does not matter as our assumptions have been strongly violated and we cannot conclude\nanything other than that the relationship between server traffic and investment is non-linear. ",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "86980099-beb4-4efa-bb7a-ccbfa8614965",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "1fd4aa77-136c-4716-9dcf-523e798e981d",
+          "type": "IMAGE",
+          "data": {
+            "key": "F6knezElac72VqSZh2v_p",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/F6knezElac72VqSZh2v_p"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "d6f5bb93-a623-49d0-b938-8fbae60914f6",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "62bf45db-4cfe-4083-89d3-0c4985e672c2",
+        "body": null,
+        "questionId": "d6f5bb93-a623-49d0-b938-8fbae60914f6",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b9c6c81e-8600-453a-bdbd-f78f3fd97464",
+          "name": "Assumptions",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "88508228",
+            "timeSpentVideo": "14853639",
+            "submissions": 335,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.1350574712643677
+          }
+        },
+        {
+          "id": "f155766a-e193-487a-b556-a9356f8f0682",
+          "name": "R2",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "40046505",
+            "timeSpentVideo": "1257886",
+            "submissions": 127,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.0297356828193833
+          }
+        }
+      ]
     }
-  ],
-  "children": []
+  ]
 }

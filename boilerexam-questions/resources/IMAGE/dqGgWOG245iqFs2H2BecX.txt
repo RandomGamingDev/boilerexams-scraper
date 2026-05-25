@@ -1,0 +1,19 @@
+This image represents a complex plane (s-plane) plot, typically used in control systems and signal processing to illustrate pole-zero locations.
+
+### 1. Axes and Labels
+*   **Horizontal Axis:** Labeled as **σ** (sigma) at the far right end. It represents the real component of the complex frequency variable $s = \sigma + j\omega$.
+*   **Vertical Axis:** Labeled as **jω** at the top end. It represents the imaginary component of $s$.
+*   **Intersection:** The axes intersect at the origin $(0,0)$.
+
+### 2. Symbols and Markers
+The plot contains markers in red:
+*   **X markers (Poles):** There are two red "x" symbols located in the left half-plane (LHP), where $\sigma < 0$. They are placed symmetrically across the real axis (the horizontal $\sigma$ axis). One is located at a positive imaginary value ($+\omega$), and one at an equivalent negative imaginary value ($-\omega$). Both share the same real component ($-\sigma$).
+*   **O markers (Zeros):** There are three red "o" symbols:
+    *   **One** is located on the positive real axis ($\sigma > 0, \omega = 0$).
+    *   **Two** are located in the right half-plane (RHP), where $\sigma > 0$. These two are positioned symmetrically across the real axis, sharing the same positive real coordinate. One is at a positive imaginary value ($+\omega$) and one is at an equivalent negative imaginary value ($-\omega$).
+
+### 3. Spatial Arrangement
+*   **Left Half-Plane:** Contains two poles (x) stacked vertically at the same real-axis distance from the origin.
+*   **Right Half-Plane:** Contains two zeros (o) stacked vertically, positioned further from the origin than the poles.
+*   **Real Axis:** Contains one zero (o) located to the right of the origin.
+*   **Symmetry:** The entire configuration of poles and zeros is symmetric with respect to the real ($\sigma$) axis.

@@ -1,0 +1,24 @@
+This image is a table presenting Laplace Transform pairs. The table consists of three columns and eight rows (including the header row).
+
+### Table Structure
+*   **Column 1 Header:** $f(t)$
+*   **Column 2 Header:** $F(s)$
+*   **Column 3 Header:** ROC
+
+### Row-by-Row Content
+
+| Row | Column 1: $f(t)$ | Column 2: $F(s)$ | Column 3: ROC |
+| :--- | :--- | :--- | :--- |
+| **1** | $\delta(t)$ | $1$ | $all \ s$ |
+| **2** | $u(t)$ | $\frac{1}{s}$ | $Re\{s\} > 0$ |
+| **3** | $tu(t)$ | $\frac{1}{s^2}$ | $Re\{s\} > 0$ |
+| **4** | $e^{-at}u(t)$ | $\frac{1}{s + a}$ | $Re\{s\} > Re\{a\}$ |
+| **5** | $te^{-at}u(t)$ | $\frac{1}{(s + a)^2}$ | $Re\{s\} > Re\{a\}$ |
+| **6** | $\cos(\omega_0t)u(t)$ | $\frac{s}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+| **7** | $\sin(\omega_0t)u(t)$ | $\frac{\omega_0}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+
+### Notational Details:
+*   The headers use bold typeface.
+*   The ROC column utilizes italics for the text "all s" and the Re{} notation.
+*   The functions utilize standard mathematical notation for Laplace transforms (e.g., $u(t)$ for the unit step function, $\delta(t)$ for the Dirac delta function).
+*   All algebraic fractions are vertically stacked with a horizontal vinculum.

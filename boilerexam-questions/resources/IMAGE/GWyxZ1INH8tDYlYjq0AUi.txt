@@ -1,0 +1,28 @@
+The image displays a 3D coordinate system (x, y, z) with a shaded triangular surface, representing a plane segment intersecting the axes.
+
+### 1. Text and Variables
+*   **x**: Located at the extremity of the x-axis (bottom left).
+*   **y**: Located at the extremity of the y-axis (top right).
+*   **z**: Located at the extremity of the z-axis (top left).
+*   The labels are in a grey serif font.
+
+### 2. Geometry and Spatial Relationships
+*   **Coordinate System**: A standard 3D Cartesian-like projection. The origin is at the center where the three interior segments meet.
+*   **Shaded Surface**: A triangular face defined by three vertices on the axes. The surface is filled with a light grey color.
+*   **Edges of the Triangle**:
+    1.  **Vertical Edge**: Connects the z-axis vertex to the origin (on the z-axis).
+    2.  **Bottom Edge**: Connects the origin to the x-axis vertex (on the x-axis).
+    3.  **Hypotenuse Edge**: Connects the z-axis vertex to the y-axis vertex.
+    *   *Note*: The face appears to lie in a plane spanning the axes.
+
+### 3. Flow Directions (Arrows)
+The edges of the shaded region are decorated with directional arrows indicating flow:
+*   **Along the z-axis edge (vertical)**: Three arrows point downwards, towards the origin.
+*   **Along the x-axis edge (bottom)**: Three arrows point outwards, away from the origin toward the x-axis vertex.
+*   **Along the diagonal edge (hypotenuse)**: Three pairs of arrows (total of 6 arrowheads) point downwards/leftward along the line connecting the z-axis intercept and the y-axis intercept.
+
+### 4. Summary of Structure
+*   The diagram depicts a simplex or a triangular section of a plane bounded by the coordinate axes.
+*   The origin $(0,0,0)$ acts as a corner vertex of the shaded region.
+*   The shading covers the area bounded by the triangle formed by the origin and two other points on the axes (one on the z-axis, one on the x-axis) and a third point on the y-axis, though visually the shading fills the region between the z-axis and the plane boundary. 
+*   There is a small dot (period) located to the right of the 'y' label.

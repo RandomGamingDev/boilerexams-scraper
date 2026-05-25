@@ -1,0 +1,35 @@
+This image is a standard MOSFET output characteristic graph (Drain Current $I_D$ versus Drain-Source Voltage $V_D$).
+
+### 1. Axes and Scales
+*   **Vertical Axis (Y-axis):** Labeled $I_D$ (mA). 
+    *   The scale ranges from 0 to 8 with major grid lines at intervals of 2 and minor tick marks at intervals of 0.5.
+*   **Horizontal Axis (X-axis):** Labeled $V_D$ (V). 
+    *   The scale ranges from 0 to 5 with major grid lines at intervals of 1 and minor tick marks at intervals of 0.2.
+
+### 2. Graphical Elements
+*   **Characteristic Curves:** There are four solid black curves representing different gate voltages ($V_G$). Each starts at the origin $(0,0)$, follows a parabolic-like upward curve (triode region), and levels off to a horizontal line (saturation region).
+    *   **$V_G = 2$:** Saturation occurs at approximately $(1, 0.5)$.
+    *   **$V_G = 3$:** Saturation occurs at approximately $(2, 2.0)$.
+    *   **$V_G = 4$:** Saturation occurs at approximately $(3, 4.5)$.
+    *   **$V_G = 5$:** Saturation occurs at approximately $(4, 8.0)$.
+*   **Pinch-off/Saturation Boundary:** A dashed line starts at the origin $(0,0)$ and passes through the "knee" (transition point) of each curve, indicated by a solid black dot at each saturation point:
+    *   Point 1: $(1, 0.5)$
+    *   Point 2: $(2, 2.0)$
+    *   Point 3: $(3, 4.5)$
+    *   Point 4: $(4, 8.0)$
+
+### 3. Text and Labels
+*   **Axis labels:** "$I_D$ (mA)" on the left, "$V_D$ (V)" at the bottom.
+*   **Curve labels:** Located to the right of each horizontal saturation segment:
+    *   "$V_G = 5$"
+    *   "$V_G = 4$"
+    *   "$V_G = 3$"
+    *   "$V_G = 2$"
+*   **Numeric markers:** 
+    *   Y-axis: 0, 2, 4, 6, 8.
+    *   X-axis: 0, 1, 2, 3, 4, 5.
+
+### 4. Geometry and Layout
+*   The grid consists of vertical lines at $V_D$ integer intervals and light horizontal lines at increments of 0.5 mA (though the major labels are at 2, 4, 6, 8).
+*   The curves are concave down throughout their triode regions.
+*   The dashed line representing the boundary between the triode and saturation regions follows a non-linear path, visually appearing to be approximately parabolic ($I_D \propto V_D^2$).

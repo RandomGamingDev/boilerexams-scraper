@@ -1,0 +1,28 @@
+This image displays an electrical circuit diagram on the left and a Laplace transform reference table on the right.
+
+### 1. Circuit Diagram
+The circuit is a series RLC circuit connected to a time-dependent voltage source.
+*   **Voltage Source:** Located on the far left branch, marked with a "+" at the top and "-" at the bottom. The source value is $e^{-4t}u(t)$.
+*   **Inductor:** Connected to the positive terminal of the voltage source in the top horizontal branch. Labeled $4\,H$. Below the inductor is an arrow pointing to the right labeled $i_L(t)$.
+*   **Capacitor:** Connected in series with the inductor in the top horizontal branch. Labeled $\frac{1}{2}\,F$.
+*   **Resistor:** Connected on the far right vertical branch, in series with the capacitor. Labeled $1\,\Omega$.
+*   **Layout:** The components are connected in a single rectangular loop with a common ground wire at the bottom.
+
+### 2. Laplace Transform Table
+A table with three columns labeled **$f(t)$**, **$F(s)$**, and **ROC** (Region of Convergence). The rows correspond to specific functions:
+
+| $f(t)$ | $F(s)$ | ROC |
+| :--- | :--- | :--- |
+| $\delta(t)$ | $1$ | $all\,s$ |
+| $u(t)$ | $\frac{1}{s}$ | $Re\{s\} > 0$ |
+| $tu(t)$ | $\frac{1}{s^2}$ | $Re\{s\} > 0$ |
+| $e^{-at}u(t)$ | $\frac{1}{s+a}$ | $Re\{s\} > Re\{a\}$ |
+| $te^{-at}u(t)$ | $\frac{1}{(s+a)^2}$ | $Re\{s\} > Re\{a\}$ |
+| $\cos(\omega_0 t)u(t)$ | $\frac{s}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+| $sin(\omega_0 t)u(t)$ | $\frac{\omega_0}{s^2 + \omega_0^2}$ | $Re\{s\} > 0$ |
+
+**Notation Notes:**
+*   $u(t)$ represents the unit step function.
+*   $\delta(t)$ represents the Dirac delta function.
+*   $Re\{s\}$ denotes the real part of the complex variable $s$.
+*   $a$ and $\omega_0$ are constants.

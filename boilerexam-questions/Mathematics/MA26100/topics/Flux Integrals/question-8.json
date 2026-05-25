@@ -1,0 +1,168 @@
+{
+  "id": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the net outward flux of $\\vec{F}=\\langle 2y^{3}(x^{2}+z^{2}), e^{x+z}-xy^{4}, 2z-\\sqrt{x^{2}+y^{2}} \\rangle$ across the sides of the box $\\{(x,y,z):0\\le x\\le1, 0\\le y\\le2, 0\\le z\\le3\\}$.\nHint: There is a better way to do this problem than by computing six flux surface integrals.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "0c719641-f2d5-45ed-8acb-c8e4b5e0d32a",
+        "index": 0,
+        "body": "$22$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 14
+        },
+        "resources": []
+      },
+      {
+        "id": "ff9ce7d6-0e5e-45f2-9da7-2c84b2dd740a",
+        "index": 1,
+        "body": "$6$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "79d286f8-fc05-4360-ae1c-dbfba400e64c",
+        "index": 2,
+        "body": "$12$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 721
+        },
+        "resources": []
+      },
+      {
+        "id": "673dd499-1cfb-4f31-ba3a-a3b71d6a4ff3",
+        "index": 3,
+        "body": "$0$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 47
+        },
+        "resources": []
+      },
+      {
+        "id": "731c869b-4389-4590-ab68-fdc488f7ac39",
+        "index": 4,
+        "body": "$36$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      },
+      {
+        "id": "9ef6c369-83c6-4f8a-bc2a-cd42d9421df5",
+        "index": 5,
+        "body": "$24$",
+        "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+        "stats": {
+          "count": 18
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "255679904",
+    "timeSpentVideo": "16709109",
+    "submissions": 998,
+    "submissionsCorrect": 721,
+    "accuracy": 0.7224448897795591,
+    "difficulty": 0.5478142076502732
+  },
+  "resources": [],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "7e343671-bf2e-4fcb-a704-128385f4f1db",
+    "body": null,
+    "questionId": "877e0360-865b-4ee2-a69f-79ff58f52c2a",
+    "resources": [
+      {
+        "id": "83490dd5-75f3-443f-a7d6-b8a6af9d84ad",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=2471"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7e343671-bf2e-4fcb-a704-128385f4f1db",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "0d788edd-4ff3-42db-9cf5-eff7b76c66b2",
+      "name": "Divergence Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "21092057066",
+        "timeSpentVideo": "1886100804",
+        "submissions": 45783,
+        "submissionsCorrect": 23797,
+        "questions": 8,
+        "accuracy": 0.5197780835681366,
+        "difficulty": 0.7302650219035373
+      }
+    },
+    {
+      "id": "6eea2d38-e964-4d09-ba3a-850374ec1486",
+      "name": "Flux Integrals",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "18450099519",
+        "timeSpentVideo": "1381882278",
+        "submissions": 30925,
+        "submissionsCorrect": 16380,
+        "questions": 6,
+        "accuracy": 0.5296685529506872,
+        "difficulty": 0.7204270749395648
+      }
+    }
+  ],
+  "children": []
+}

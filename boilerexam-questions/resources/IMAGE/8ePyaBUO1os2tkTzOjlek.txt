@@ -1,0 +1,27 @@
+This is a circuit diagram consisting of a voltage source, two resistors, and a transformer circuit. Below is the exhaustive description of the components and their spatial relationships:
+
+### 1. Circuit Topology
+*   **Left Loop:** Contains an AC voltage source ($\tilde{V}_s$) in series with a resistor ($2\,\Omega$). 
+*   **Middle Branch:** A resistor ($4\,\Omega$) is connected in parallel with the primary side of the transformer.
+*   **Transformer:** A two-winding transformer with a turns ratio of $1:5$. 
+*   **Right Loop:** The secondary side of the transformer is connected in parallel with a load resistor ($100\,\Omega$).
+
+### 2. Components and Labels
+*   **Voltage Source:** Represented by a circle containing a tilde ($\sim$) symbol, located on the far left. To its left is the label: $\tilde{V}_s = 10\text{ V}_{\text{RMS}}$.
+*   **Resistor 1 (Series):** A zigzag resistor symbol labeled "$2\,\Omega$" is positioned on the top wire between the voltage source and the middle branch.
+*   **Resistor 2 (Shunt):** A zigzag resistor symbol labeled "$4\,\Omega$" is positioned vertically in the branch immediately preceding the transformer primary.
+*   **Transformer:**
+    *   Located between the middle branch and the right loop.
+    *   Represented by two sets of vertical coils separated by two vertical parallel lines.
+    *   **Turns Ratio:** The label "1:5" is placed above the transformer.
+    *   **Polarity Dots:** 
+        *   Primary side: A dot is located at the top terminal of the primary winding.
+        *   Secondary side: A dot is located at the bottom terminal of the secondary winding.
+*   **Resistor 3 (Load):** A zigzag resistor symbol labeled "$100\,\Omega$" is positioned on the far right vertical branch.
+*   **Output Voltage:** $\tilde{V}_L$ is labeled in the space between the transformer secondary and the load resistor. The polarity is marked with a plus sign (+) at the top wire and a minus sign (-) at the bottom wire of the load branch.
+
+### 3. Spatial Arrangement
+*   The circuit is drawn as a planar schematic. 
+*   Current flows from the voltage source through the $2\,\Omega$ resistor, then splits between the $4\,\Omega$ resistor and the primary side of the transformer.
+*   The entire circuit is completed by a common bottom return wire connecting all elements.
+*   The transformer acts as the coupling element between the primary circuit (containing the $4\,\Omega$ resistor) and the secondary circuit (containing the $100\,\Omega$ resistor).

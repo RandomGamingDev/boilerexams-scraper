@@ -1,0 +1,158 @@
+{
+  "id": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "A spherical tank 10 feet in diameter is half full with water (density $62.5 \\frac{lb}{ft^3}$). The work required to pump all of the water in the tank to the top of the tank is given by the following integral. (Let the origin be the center of the tank with the y-axis pointing upward).",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "e5412d57-f865-4503-b87b-003321f4ff76",
+        "index": 0,
+        "body": "$\\int_{-5}^{0} 62.5(5 \u2212 y) \\pi (25 \u2212 y^2\n) \\,dy$",
+        "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+        "stats": {
+          "count": 100
+        },
+        "resources": []
+      },
+      {
+        "id": "d06b7fb2-0c5a-4e7e-b45d-9d59a1ea16b4",
+        "index": 1,
+        "body": "$\\int_{-5}^{0} 62.5(5 \u2212 y) \\pi \\sqrt{25 \u2212 y^2\n} \\,dy$",
+        "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+        "stats": {
+          "count": 26
+        },
+        "resources": []
+      },
+      {
+        "id": "df4d6e21-5bbb-4051-85d9-97638e662084",
+        "index": 2,
+        "body": "$\\int_{-5}^{0} 62.5(5 \u2212 y) \\pi (5 \u2212 y)^2 \\,dy$",
+        "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "1446ef98-412a-41fc-aad6-c141450852a9",
+        "index": 3,
+        "body": "$\\int_{0}^{5} 62.5(5 \u2212 y) \\pi (25 \u2212 y^2\n) \\,dy$",
+        "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "c13521f0-8e5e-44a7-b6dc-4a82430c7fe2",
+        "index": 4,
+        "body": "$\\int_{-5}^{0} 62.5(5 + y) \\pi \\sqrt{25 \u2212 y^2\n} \\,dy$",
+        "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 8,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "31363882",
+    "timeSpentVideo": "7847990",
+    "submissions": 195,
+    "submissionsCorrect": 100,
+    "accuracy": 0.5128205128205128,
+    "difficulty": 0.7415254237288136
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "53cd1807-318c-45e7-8185-e847f720a173",
+    "body": null,
+    "questionId": "c98b5f36-9341-4ef6-b00a-d9d9472e71f1",
+    "resources": [
+      {
+        "id": "4e8f68dc-956a-406b-8ede-67181f36da72",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=nftj7jfZVSrFOwqG&t=1522"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "53cd1807-318c-45e7-8185-e847f720a173",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "75951154-7b2d-4eb9-b027-5eace6f0ac0f",
+      "name": "Volume of Solid",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1041918450",
+        "timeSpentVideo": "46542589",
+        "submissions": 1653,
+        "submissionsCorrect": 937,
+        "questions": 13,
+        "accuracy": 0.5668481548699335,
+        "difficulty": 0.6869652025099829
+      }
+    },
+    {
+      "id": "81c96465-1f5d-4c1f-98fd-2b7e0f8ae510",
+      "name": "Work",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "465949673",
+        "timeSpentVideo": "26654278",
+        "submissions": 936,
+        "submissionsCorrect": 541,
+        "questions": 6,
+        "accuracy": 0.5779914529914529,
+        "difficulty": 0.6795366795366795
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,21 @@
+This image displays a pseudocode snippet for a function titled `Foo(n)`, enclosed between two horizontal lines. The structure is as follows:
+
+**Textual Content and Structure:**
+
+*   **Line 1:** `function Foo(n)`
+*   **Line 2 (Indented):** `if n == 1 then`
+*   **Line 3 (Double Indented):** `return 1`
+*   **Line 4 (Indented):** `end if`
+*   **Line 5 (Indented):** `for i = 1, i <= n, i += 1 do`
+*   **Line 6 (Double Indented):** `BAR(i)`
+*   **Line 7 (Indented):** `end for`
+*   **Line 8 (Indented):** `return n + Foo(b(n))`
+*   **Line 9:** `end function`
+
+**Formatting Details:**
+*   **Font:** The text is in a serif-style font (e.g., Computer Modern/LaTeX).
+*   **Hierarchy:** There is consistent indentation for blocks inside the `if`, `for`, and `function` structures.
+*   **Syntax:**
+    *   Variables used: `n`, `i`, and function identifiers `Foo` and `BAR`.
+    *   Mathematical/Programming operators used: `==` (equality comparison), `+=` (increment assignment), `<=` (less than or equal to), `,` (argument/iteration separator), `+` (addition), and parentheses `()` for function calls.
+    *   `b(n)` appears as a function or transformation applied to `n` within the recursive call to `Foo`.

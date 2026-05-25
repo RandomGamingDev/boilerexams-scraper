@@ -1,0 +1,22 @@
+The image contains a block of pseudocode enclosed in a rectangular border, set against a light gray background. The text is written in a monospaced font.
+
+**Text and Symbol Transcription:**
+
+Line 1: `algorithm BrunoSort(L):`
+Line 2: `    for (i = 0; i < 10; i = i + 1)`
+Line 3: `        // Use Selection Sort to sort the numbers based on the i-th digit.`
+Line 4: `    end for`
+Line 5: `end algorithm`
+
+**Structural and Spatial Description:**
+
+*   **Boundary:** The entire text block is contained within a thin, black rectangular border.
+*   **Indentation:**
+    *   Line 2 is indented relative to Line 1.
+    *   Line 3 is indented further relative to Line 2.
+    *   Line 4 is indented to the same level as Line 2.
+*   **Components:**
+    *   **Function Definition:** The algorithm is defined as `BrunoSort` taking one parameter `L`.
+    *   **Control Flow:** A `for` loop is defined, iterating from `i = 0` up to, but not including, `10`, incrementing by `1` in each step.
+    *   **Comment:** Line 3 is a comment (indicated by the `//` prefix) describing the internal logic, specifying the use of the "Selection Sort" algorithm to sort elements based on the `i-th` digit.
+    *   **Termination:** The `for` loop and the `algorithm` block both explicitly use `end` keywords.

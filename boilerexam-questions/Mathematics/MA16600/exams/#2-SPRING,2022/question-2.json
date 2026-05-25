@@ -1,0 +1,143 @@
+{
+  "id": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral:\n$\\int_{0}^{\\pi}  x^2 $cos($x$)$dx$",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "b546af7e-5807-4ac6-92bb-a53156525e6d",
+        "index": 0,
+        "body": "$\\frac{\\pi^2}{4}-2$",
+        "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "a0d05da5-9e59-47fa-98d9-bac8ec8cac63",
+        "index": 1,
+        "body": "$\\pi$",
+        "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "ed563370-daa7-47a5-bae9-82a9ddd0ac85",
+        "index": 2,
+        "body": "$-2\\pi$",
+        "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+        "stats": {
+          "count": 38
+        },
+        "resources": []
+      },
+      {
+        "id": "3ccc2fd0-0365-4196-828f-e173a17b4677",
+        "index": 3,
+        "body": "$-\\frac{\\pi^2}{4}$",
+        "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "0be9967e-c7fd-4146-b4ad-a765e1fcd160",
+        "index": 4,
+        "body": "$-2$",
+        "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 2,
+  "disclaimer": null,
+  "examId": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13971272",
+    "timeSpentVideo": "548462",
+    "submissions": 60,
+    "submissionsCorrect": 38,
+    "accuracy": 0.6333333333333333,
+    "difficulty": 0.7
+  },
+  "resources": [],
+  "exam": {
+    "id": "54f1fe1c-7378-48ce-ba0f-99b5cdf8931e",
+    "number": 2,
+    "year": 2022,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "174675136",
+      "timeSpentVideo": "9779237",
+      "submissions": 684,
+      "submissionsCorrect": 444,
+      "questions": 12,
+      "accuracy": 0.6491228070175439,
+      "difficulty": 0.6198979591836735
+    }
+  },
+  "explanation": {
+    "id": "3e90d346-95d6-4be3-b211-65f3c55cd817",
+    "body": null,
+    "questionId": "0dbe4dcb-9c40-4ecb-88b6-d2651a79b081",
+    "resources": [
+      {
+        "id": "dd38bfab-92e0-4203-ad04-27f903cfc33e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/7FXkRLd72Rg?si=7UMbRFoEySvTuhwr&t=290"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3e90d346-95d6-4be3-b211-65f3c55cd817",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "f3f1474c-26b7-4f5c-88bb-478132035e61",
+      "name": "Integration by Parts",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "665046757",
+        "timeSpentVideo": "22863020",
+        "submissions": 1332,
+        "submissionsCorrect": 823,
+        "questions": 9,
+        "accuracy": 0.6178678678678678,
+        "difficulty": 0.6403631284916201
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,20 @@
+This is a Bode magnitude plot representing the transfer function magnitude $|H|$ versus angular frequency.
+
+### 1. Axes Labels
+*   **Vertical Axis:** $|H|$ [dB]
+*   **Horizontal Axis:** Angular Frequency [rad/s]
+
+### 2. Scale and Grid
+*   **Vertical Scale:** Linear, labeled from -120 to 0 in increments of 20 units. Grid lines exist at intervals of 20 dB.
+*   **Horizontal Scale:** Logarithmic (Base 10), labeled from $10^{-2}$ to $10^6$. Major grid lines correspond to powers of 10. There are tick marks for intermediate logarithmic intervals (e.g., $2 \times 10^n, 3 \times 10^n$, etc.).
+
+### 3. Plot Characteristics
+*   **Curve:** A single continuous blue line.
+*   **Shape:** The curve exhibits a band-pass filter characteristic.
+    *   **Low Frequency:** At $10^{-2}$ rad/s, the magnitude is approximately -40 dB. The curve slopes upward towards the center.
+    *   **Passband:** The peak magnitude is 0 dB, occurring in the range approximately between $10^0$ and $10^2$ rad/s.
+    *   **High Frequency:** At frequencies above $10^2$ rad/s, the curve slopes downward.
+    *   **Terminal point:** At the right-most edge of the graph ($10^6$ rad/s), the magnitude is -120 dB.
+*   **Slope Analysis (Approximated):**
+    *   Between $10^4$ and $10^6$ rad/s, the line appears linear on the log-log scale, decreasing from approximately -80 dB to -120 dB over two decades, suggesting a roll-off of approximately -20 dB/decade in that specific region.
+    *   The transition between the passband and high-frequency roll-off begins around $10^2$ rad/s.

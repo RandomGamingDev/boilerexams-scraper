@@ -1,0 +1,36 @@
+This is a schematic diagram of a CMOS-style transistor circuit. Here is the exhaustive description:
+
+### 1. Circuit Topology
+The circuit is a vertical stack of components connected between a positive voltage supply and a negative voltage supply.
+
+*   **Top Rail:** Connected to a terminal labeled **+5 V**.
+*   **Resistor:** A $1\text{ k}\Omega$ resistor is connected in series with the top rail. 
+*   **Current Direction:** An arrow labeled **$I$** points downward, parallel to the resistor.
+*   **Transistor $Q_1$:** An n-channel MOSFET (identified by the arrow on the source pointing outward) is placed below the resistor.
+    *   The drain of $Q_1$ is connected to the bottom of the $1\text{ k}\Omega$ resistor.
+    *   The gate of $Q_1$ is connected to a node labeled **+2.5 V**.
+    *   The source of $Q_1$ is connected directly to the drain of $Q_2$.
+*   **Transistor $Q_2$:** An n-channel MOSFET is placed below $Q_1$.
+    *   The gate of $Q_2$ is connected to ground (indicated by a standard three-line ground symbol).
+    *   The source of $Q_2$ is connected to the top of a current source.
+*   **Current Source:** A circular symbol with a downward-pointing arrow contains the label **$3\text{ mA}$**.
+*   **Bottom Rail:** The bottom of the $3\text{ mA}$ current source connects to a terminal labeled **-5 V**.
+
+### 2. Labels, Variables, and Symbols
+*   **Voltage Sources:**
+    *   Top supply: **+5 V**
+    *   Gate $Q_1$ supply: **+2.5 V**
+    *   Bottom supply: **-5 V**
+*   **Components:**
+    *   Resistor: **$1\text{ k}\Omega$**
+    *   Transistor labels: **$Q_1$** (next to top FET) and **$Q_2$** (next to bottom FET).
+    *   Current: **$I$** (with a vertical downward arrow next to the resistor).
+    *   Current Source: **$3\text{ mA}$** (within a circle, with a vertical downward arrow).
+*   **Symbols:**
+    *   **MOSFETs:** N-channel enhancement-mode symbols with bulk terminals not explicitly connected (standard convention).
+    *   **Ground:** Standard three-line horizontal ground symbol at the gate of $Q_2$.
+
+### 3. Spatial Relationships
+*   The components are arranged linearly in a vertical stack from top to bottom: +5 V supply $\rightarrow$ Resistor $\rightarrow$ Drain of $Q_1$ $\rightarrow$ Source of $Q_1$ $\rightarrow$ Drain of $Q_2$ $\rightarrow$ Source of $Q_2$ $\rightarrow$ Current Source $\rightarrow$ -5 V supply.
+*   The gate of $Q_1$ extends to the left from the device.
+*   The gate of $Q_2$ extends to the left from the device, terminating at the ground symbol.

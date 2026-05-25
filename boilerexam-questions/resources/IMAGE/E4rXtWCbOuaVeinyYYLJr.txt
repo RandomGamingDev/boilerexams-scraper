@@ -1,0 +1,19 @@
+The image provides numerical parameters and a complex s-plane pole-zero plot.
+
+### 1. Text and Variables
+*   **Top left:** $\omega_m = 10 \text{ [rad/s]}$
+*   **Bottom left:** $H_m = 0.1 \text{ [A/V]}$
+
+### 2. S-Plane Diagram (Right Side)
+The diagram is a standard Cartesian coordinate system representing the complex s-plane:
+*   **Horizontal Axis:** Labeled as $\sigma$ (the real axis), with an arrow pointing to the right.
+*   **Vertical Axis:** Labeled as $j\omega$ (the imaginary axis), with an arrow pointing upward.
+*   **Intersection:** The axes intersect at the origin (0,0).
+
+### 3. Symbols and Geometry
+The diagram indicates the locations of poles and zeros:
+*   **Zeros:** A single red circle 'o' is located exactly at the origin (0,0).
+*   **Poles:** Two red 'x' symbols are located symmetrically on the vertical $j\omega$ axis:
+    *   One 'x' is positioned on the positive $j\omega$ axis (above the real axis).
+    *   One 'x' is positioned on the negative $j\omega$ axis (below the real axis).
+*   **Spatial relationship:** Both poles are equidistant from the origin, situated directly on the imaginary axis, indicating a system with purely oscillatory behavior (undamped poles).

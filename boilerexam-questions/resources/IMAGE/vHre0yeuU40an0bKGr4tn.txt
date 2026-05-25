@@ -1,0 +1,24 @@
+This is an electrical circuit diagram featuring a two-winding transformer.
+
+### 1. Primary (Left) Loop:
+*   **Source:** An independent current source labeled $j10\text{ A}$ is connected on the left vertical branch, with an upward-pointing arrow indicating the current direction.
+*   **Resistor:** A $10\text{ }\Omega$ resistor is located on the top horizontal branch.
+*   **Transformer Primary Coil:** The coil is on the right side of the primary loop.
+    *   It has a dot polarity mark (a solid blue circle) at the top terminal.
+    *   Voltage polarity is marked with a plus sign at the top and a minus sign at the bottom, labeled $\tilde{V}_1$.
+
+### 2. Transformer Core:
+*   The primary and secondary coils are coupled by two vertical lines representing the transformer core.
+*   The turns ratio is specified above the core as $3 : 6$.
+
+### 3. Secondary (Right) Loop:
+*   **Transformer Secondary Coil:**
+    *   It has a dot polarity mark (a solid blue circle) at the top terminal.
+    *   Voltage polarity is marked with a plus sign at the top and a minus sign at the bottom, labeled $\tilde{V}_2$.
+*   **Impedance:** A $-j4\text{ }\Omega$ element (capacitor) is placed on the top horizontal branch.
+*   **Resistor:** A $3\text{ }\Omega$ resistor is placed on the right vertical branch.
+*   **Current:** An arrow indicates the direction of current $\tilde{I}_2$ flowing from left to right through the top branch (passing through the $-j4\text{ }\Omega$ element).
+
+### 4. Geometry and Layout:
+*   The circuit is arranged in two rectangular loops sharing the transformer core as their boundary.
+*   The dot marks for both the primary and secondary coils are placed at the top terminals of the transformer windings, indicating in-phase polarity.

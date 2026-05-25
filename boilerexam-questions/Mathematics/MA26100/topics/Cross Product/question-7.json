@@ -1,0 +1,168 @@
+{
+  "id": "24a48771-77f9-4e0d-a252-93803c5e0124",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "If $\\vec{v}$ and $\\vec{w}$ are vectors in $\\mathbb{R}^{3}$ then $$\\vec{v}\\times(|\\vec{v}|\\vec{w}-\\vec{v})$$is equivalent to which of the following?",
+    "solution": [
+      0
+    ],
+    "answerChoices": [
+      {
+        "id": "7b0041a7-dc8f-4c01-a730-9c61f398822c",
+        "index": 0,
+        "body": "$-|\\vec{v}|(\\vec{w}\\times\\vec{v})$",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 662
+        },
+        "resources": []
+      },
+      {
+        "id": "2d4cad2c-2075-4fde-8b2c-e1e90b001681",
+        "index": 1,
+        "body": "$-|\\vec{v}|(\\vec{w}\\times\\vec{v})-|\\vec{v}|^{2}$ ",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 55
+        },
+        "resources": []
+      },
+      {
+        "id": "9eca119f-5d87-4559-83f8-f1e59201a5e8",
+        "index": 2,
+        "body": "$|\\vec{v}|(\\vec{w}\\times\\vec{v})-\\vec{v}$",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 90
+        },
+        "resources": []
+      },
+      {
+        "id": "8296d047-b4e8-48cd-b458-754299f96c7e",
+        "index": 3,
+        "body": "$|\\vec{v}|(\\vec{w}\\times\\vec{v})-|\\vec{v}|^{2}$",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "2fd35a68-c3dc-4bfb-9cb8-0b900f506d09",
+        "index": 4,
+        "body": "$-|\\vec{v}|(\\vec{w}\\times\\vec{v})-\\vec{v}$",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 91
+        },
+        "resources": []
+      },
+      {
+        "id": "4682704e-4aa2-4d24-a6cd-9ef079dcb017",
+        "index": 5,
+        "body": "$|\\vec{v}|(\\vec{w}\\times\\vec{v})$",
+        "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+        "stats": {
+          "count": 135
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 7,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "242555349",
+    "timeSpentVideo": "53139924",
+    "submissions": 1383,
+    "submissionsCorrect": 662,
+    "accuracy": 0.4786695589298626,
+    "difficulty": 0.7698921105866487
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "2c33c867-a87e-433a-b995-06c48ae3072f",
+    "body": "Hint: Distribute the cross product just like multiplication: $\\vec{v} \\times (A - B) = (\\vec{v} \\times A) - (\\vec{v} \\times B)$. Remember two key properties:Any vector crossed with itself is zero ($\\vec{v} \\times \\vec{v} = \\vec{0}$).$\\vec{v} \\times \\vec{w} = -(\\vec{w} \\times \\vec{v})$.",
+    "questionId": "24a48771-77f9-4e0d-a252-93803c5e0124",
+    "resources": [
+      {
+        "id": "e4270988-9023-44b3-8271-bcd9c6e678d7",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=2057"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "2c33c867-a87e-433a-b995-06c48ae3072f",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8316a28a-ecf4-49b9-84c2-3f9389fb7a31",
+      "name": "Cross Product",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "564802139",
+        "timeSpentVideo": "53139924",
+        "submissions": 1383,
+        "submissionsCorrect": 662,
+        "questions": 1,
+        "accuracy": 0.4786695589298626,
+        "difficulty": 0.7698921105866487
+      }
+    },
+    {
+      "id": "9415d5d8-019a-4177-b5a7-a671d7618e6d",
+      "name": "Conceptual",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "564802139",
+        "timeSpentVideo": "53139924",
+        "submissions": 1383,
+        "submissionsCorrect": 662,
+        "questions": 1,
+        "accuracy": 0.4786695589298626,
+        "difficulty": 0.7698921105866487
+      }
+    }
+  ],
+  "children": []
+}

@@ -13,7 +13,7 @@
         "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} e^{2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{2t}$",
         "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
         "stats": {
-          "count": 11
+          "count": 775
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix}$",
         "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
         "stats": {
-          "count": 1
+          "count": 29
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "$x = c_1 \\begin{bmatrix}-\\sin t \\\\ \\cos t\\end{bmatrix} e^{-2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{-2t}$",
         "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
         "stats": {
-          "count": 2
+          "count": 58
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "$x = c_1 \\begin{bmatrix}\\sin t \\\\ \\cos t\\end{bmatrix} e^{2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{2t}$",
         "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
         "stats": {
-          "count": 3
+          "count": 118
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "$x = c_1 \\begin{bmatrix}\\sin t \\\\ \\cos t\\end{bmatrix} e^{-2t} + c_2 \\begin{bmatrix}\\cos t \\\\ \\sin t\\end{bmatrix} e^{-2t}$",
         "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
         "stats": {
-          "count": 0
+          "count": 13
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "6444791",
-    "timeSpentVideo": "0",
-    "submissions": 17,
-    "submissionsCorrect": 11,
-    "accuracy": 0.6470588235294118,
-    "difficulty": 0.7286324786324786
+    "timeSpent": "425182820",
+    "timeSpentVideo": "9147339",
+    "submissions": 1072,
+    "submissionsCorrect": 775,
+    "accuracy": 0.7229477611940298,
+    "difficulty": 0.5460750853242321
   },
   "resources": [],
   "exam": {
@@ -92,20 +92,35 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "263835681",
-      "timeSpentVideo": "0",
-      "submissions": 825,
-      "submissionsCorrect": 591,
+      "timeSpent": "8190216461",
+      "timeSpentVideo": "168127082",
+      "submissions": 27617,
+      "submissionsCorrect": 19254,
       "questions": 20,
-      "accuracy": 0.7163636363636363,
-      "difficulty": 0.557027027027027
+      "accuracy": 0.697179273635804,
+      "difficulty": 0.5535321282967132
     }
   },
   "explanation": {
     "id": "7a50aa55-07de-44a4-956a-375effabec96",
     "body": null,
     "questionId": "4558b2e3-a5d5-43a5-82b3-3f28f29802fb",
-    "resources": []
+    "resources": [
+      {
+        "id": "cc1580b4-a7dc-47b8-83e8-37d0c07aafc3",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/XVwLYOhdPDg?si=HRqHYMriBzuYU0du&t=1486"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "7a50aa55-07de-44a4-956a-375effabec96",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
   },
   "topics": [
     {
@@ -114,13 +129,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "10296542223",
-        "timeSpentVideo": "741957670",
-        "submissions": 19112,
-        "submissionsCorrect": 11393,
-        "questions": 28,
-        "accuracy": 0.5961176224361657,
-        "difficulty": 0.6543826774932334
+        "timeSpent": "27215194968",
+        "timeSpentVideo": "1752589474",
+        "submissions": 47779,
+        "submissionsCorrect": 27631,
+        "questions": 26,
+        "accuracy": 0.5783084618765566,
+        "difficulty": 0.6718550930470562
       }
     }
   ],

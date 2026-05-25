@@ -13,7 +13,7 @@
         "body": "$A$ is an $n \\times m$ matrix.",
         "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
         "stats": {
-          "count": 119
+          "count": 215
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "If $T$ is one-to-one, then $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for any $\\mathbf{b}$ in $\\mathbb{R}^{m}$.",
         "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
         "stats": {
-          "count": 352
+          "count": 584
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "If $T$ is one-to-one, then $m \\geq n$.",
         "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
         "stats": {
-          "count": 1545
+          "count": 2576
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "The columns of $A$ are linearly independent if and only if $\\operatorname{rank}(A)=m$.",
         "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
         "stats": {
-          "count": 257
+          "count": 406
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "If the set $\\left\\{\\mathbf{v}_{\\mathbf{1}}, \\mathbf{v}_{\\mathbf{2}}, \\ldots, \\mathbf{v}_{\\mathbf{k}}\\right\\}$ spans $\\mathbb{R}^{n}$, then the set $\\left\\{T\\left(\\mathbf{v}_{\\mathbf{1}}\\right), T\\left(\\mathbf{v}_{\\mathbf{2}}\\right), \\ldots, T\\left(\\mathbf{v}_{\\mathbf{k}}\\right)\\right\\}$ spans $\\mathbb{R}^{m}$.",
         "questionId": "ba948d3e-6d4e-47e8-a85e-ae5fafcb30aa",
         "stats": {
-          "count": 263
+          "count": 464
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "460164027",
-    "timeSpentVideo": "181895535",
-    "submissions": 2788,
-    "submissionsCorrect": 1545,
-    "accuracy": 0.5541606886657102,
-    "difficulty": 0.6977146814404432
+    "timeSpent": "774346911",
+    "timeSpentVideo": "276516546",
+    "submissions": 4638,
+    "submissionsCorrect": 2576,
+    "accuracy": 0.5554118154376887,
+    "difficulty": 0.6957577036724356
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "3956974402",
-      "timeSpentVideo": "1239139187",
-      "submissions": 19007,
-      "submissionsCorrect": 9769,
+      "timeSpent": "6783043840",
+      "timeSpentVideo": "1812112547",
+      "submissions": 31704,
+      "submissionsCorrect": 16462,
       "questions": 10,
-      "accuracy": 0.5139685379070869,
-      "difficulty": 0.7361045690061234
+      "accuracy": 0.5192404743880898,
+      "difficulty": 0.7308200226386617
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "3151077120",
-        "timeSpentVideo": "421748155",
-        "submissions": 6922,
-        "submissionsCorrect": 3601,
-        "questions": 3,
-        "accuracy": 0.5202253683906386,
-        "difficulty": 0.7300626602107662
+        "timeSpent": "4302673707",
+        "timeSpentVideo": "548470502",
+        "submissions": 9062,
+        "submissionsCorrect": 4796,
+        "questions": 2,
+        "accuracy": 0.5292429927168395,
+        "difficulty": 0.721076184239249
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "7418458428",
-        "timeSpentVideo": "850721988",
-        "submissions": 14779,
-        "submissionsCorrect": 8414,
+        "timeSpent": "12116347557",
+        "timeSpentVideo": "1232278905",
+        "submissions": 23925,
+        "submissionsCorrect": 13572,
         "questions": 7,
-        "accuracy": 0.5693213343257325,
-        "difficulty": 0.6811445661670811
+        "accuracy": 0.5672727272727273,
+        "difficulty": 0.6830072840790843
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "20837099969",
-        "timeSpentVideo": "2264931816",
-        "submissions": 43742,
-        "submissionsCorrect": 25447,
+        "timeSpent": "29941001108",
+        "timeSpentVideo": "2911201595",
+        "submissions": 62399,
+        "submissionsCorrect": 36436,
         "questions": 11,
-        "accuracy": 0.581752091811074,
-        "difficulty": 0.6684343779937046
+        "accuracy": 0.5839196140963797,
+        "difficulty": 0.6662146594345509
       }
     },
     {
@@ -174,13 +174,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "27770866895",
-        "timeSpentVideo": "3922929141",
-        "submissions": 65367,
-        "submissionsCorrect": 37769,
-        "questions": 17,
-        "accuracy": 0.5777991953126195,
-        "difficulty": 0.6723196419570165
+        "timeSpent": "42350010680",
+        "timeSpentVideo": "5142475438",
+        "submissions": 93016,
+        "submissionsCorrect": 53847,
+        "questions": 16,
+        "accuracy": 0.5789004042315301,
+        "difficulty": 0.6711843292237639
       }
     },
     {
@@ -189,13 +189,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "37440604043",
-        "timeSpentVideo": "4696417936",
-        "submissions": 81693,
-        "submissionsCorrect": 43910,
-        "questions": 28,
-        "accuracy": 0.5375001530118859,
-        "difficulty": 0.7125456946193439
+        "timeSpent": "60455662441",
+        "timeSpentVideo": "6686127388",
+        "submissions": 124916,
+        "submissionsCorrect": 65944,
+        "questions": 27,
+        "accuracy": 0.5279067533382433,
+        "difficulty": 0.7221155692071415
       }
     }
   ],

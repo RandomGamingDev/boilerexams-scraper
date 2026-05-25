@@ -1,0 +1,143 @@
+{
+  "id": "81623e09-0323-4f1d-8918-4e19234dc910",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Evaluate the integral\n$\\int_{4}^{\\frac{11}{2}} \\frac{1}{\\sqrt{-x^2+8x-7}} dx$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2b154c63-d2f6-4e31-8a52-c3dda8775206",
+        "index": 0,
+        "body": "$\\frac{ \\pi  }{   2}$",
+        "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "e982e438-5dc3-4666-a099-454dd6e485e2",
+        "index": 1,
+        "body": "$\\frac{ \\pi  }{  3 }$",
+        "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "58e89b9e-5045-4080-8b77-75e7f2c89287",
+        "index": 2,
+        "body": "$\\frac{ \\pi  }{   6}$",
+        "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+        "stats": {
+          "count": 31
+        },
+        "resources": []
+      },
+      {
+        "id": "6be3e4c3-6fee-4c4a-aae3-b3bd2a3b6a4b",
+        "index": 3,
+        "body": "$\\frac{  \\sqrt{2} }{  2 }$",
+        "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "915e23a5-4a94-42df-a0e7-756f7f756385",
+        "index": 4,
+        "body": "$\\frac{   \\sqrt{3}}{2   }$",
+        "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+        "stats": {
+          "count": 0
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 18,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13917694",
+    "timeSpentVideo": "879664",
+    "submissions": 57,
+    "submissionsCorrect": 31,
+    "accuracy": 0.543859649122807,
+    "difficulty": 0.7340764331210191
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "d9adec41-1741-4ae5-9fc6-d36a2b0b78cd",
+    "body": null,
+    "questionId": "81623e09-0323-4f1d-8918-4e19234dc910",
+    "resources": [
+      {
+        "id": "9c60df7b-a911-4331-90a8-2a7a7100e40f",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=7780"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d9adec41-1741-4ae5-9fc6-d36a2b0b78cd",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    }
+  ],
+  "children": []
+}

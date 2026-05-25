@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "Solve the IVP:\n\\[\nx' = \\begin{bmatrix} -1 & 3 \\\\ 3 & -1 \\end{bmatrix} x, \\quad\nx(0) = \\begin{bmatrix} 1 \\\\ 5 \\end{bmatrix}.\n\\]\n",
-    "solution": [],
+    "solution": "\n\\[\n\\vec{x}(t) = 3 \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} e^{2t} - 2 \\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix} e^{-4t}\n\\]\nor any equivalent solution",
     "answerChoices": []
   },
   "number": 9,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "17627181",
-    "timeSpentVideo": "4006113",
-    "submissions": 99,
-    "submissionsCorrect": 38,
-    "accuracy": 0.3838383838383838,
-    "difficulty": 0.8077889447236181
+    "timeSpent": "387985240",
+    "timeSpentVideo": "36084920",
+    "submissions": 1616,
+    "submissionsCorrect": 732,
+    "accuracy": 0.452970297029703,
+    "difficulty": 0.7942890442890442
   },
   "resources": [],
   "exam": {
@@ -39,13 +39,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "298874368",
-      "timeSpentVideo": "69410399",
-      "submissions": 1300,
-      "submissionsCorrect": 596,
+      "timeSpent": "4270175595",
+      "timeSpentVideo": "832822845",
+      "submissions": 18892,
+      "submissionsCorrect": 10142,
       "questions": 10,
-      "accuracy": 0.4584615384615385,
-      "difficulty": 0.7885714285714286
+      "accuracy": 0.5368409908956172,
+      "difficulty": 0.7133529907329402
     }
   },
   "explanation": {
@@ -76,13 +76,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "1222053960",
-        "timeSpentVideo": "113600693",
-        "submissions": 1936,
-        "submissionsCorrect": 879,
+        "timeSpent": "4229858004",
+        "timeSpentVideo": "321567133",
+        "submissions": 7347,
+        "submissionsCorrect": 3563,
         "questions": 3,
-        "accuracy": 0.4540289256198347,
-        "difficulty": 0.7937131630648331
+        "accuracy": 0.4849598475568259,
+        "difficulty": 0.7648381898751175
       }
     }
   ],

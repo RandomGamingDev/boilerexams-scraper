@@ -1,41 +1,42 @@
 {
-  "id": "4ef5362e-6b36-4945-add3-72682b4e4f4c",
-  "type": "SHORT_ANSWER",
+  "id": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+  "type": "PARENT",
   "data": {
-    "body": "A scientist is studying the relationship between annual rainfall (x) measured in centimeters and shoreline erosion (y) which is also measured in centimeters. For each of ten annual rainfall levels, a randomly selected shoreline erosion value was measured. The study reported the following data. You may assume all model assumptions hold. \n\n(d) (3 points) What proportion of the total variation of the shoreline erosion is NOT explained by the rainfall?",
-    "solution": "\ud835\udfcf \u2212 \ud835\udc79^\ud835\udfd0 = \ud835\udfcf \u2212 \ud835\udfce. \ud835\udfd7\ud835\udfd6\ud835\udfd5\ud835\udfd6 = \ud835\udfce. \ud835\udfce\ud835\udfcf\ud835\udfd0\ud835\udfd0\nTherefore, 1.22% of the total variation of the shoreline erosion is not explained by the linear\nrelationship with rainfall",
+    "body": "A scientist is studying the relationship between annual rainfall (x) measured in centimeters and shoreline erosion (y) which is also measured in centimeters. For each of ten annual rainfall levels, a randomly selected shoreline erosion value was measured. The study reported the following data. You may assume all model assumptions hold.",
+    "numberingType": "LOWERCASE",
     "answerChoices": []
   },
   "number": 20,
-  "disclaimer": null,
+  "disclaimer": "",
   "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
   "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
   "parentId": null,
   "flags": {
     "published": true,
-    "disableRandomAnswers": true,
-    "answersStartHidden": true
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
   },
   "stats": {
     "count": 1,
-    "timeSpent": "2054479",
-    "timeSpentVideo": "128629",
-    "submissions": 36,
-    "submissionsCorrect": 0,
-    "accuracy": 0,
-    "difficulty": 0.8823529411764706
+    "timeSpent": "37146",
+    "timeSpentVideo": "0",
+    "submissions": 5,
+    "submissionsCorrect": 5,
+    "accuracy": 1,
+    "difficulty": 0.7261904761904762
   },
   "resources": [
     {
-      "id": "d5de2a99-22a7-4e4d-b7ce-4ea27870d271",
+      "id": "5a213030-f0b6-4d96-85ca-aad84d3533f5",
       "type": "IMAGE",
       "data": {
-        "key": "qh5pYGwojpd7Br_W1sSbf",
-        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/qh5pYGwojpd7Br_W1sSbf"
+        "key": "0qEBViT3zXfIC1lOkWlsl",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/0qEBViT3zXfIC1lOkWlsl",
+        "altText": "Summary Info"
       },
       "courseId": null,
       "examId": null,
-      "questionId": "4ef5362e-6b36-4945-add3-72682b4e4f4c",
+      "questionId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
       "explanationId": null,
       "applicationId": null,
       "answerChoiceId": null,
@@ -47,7 +48,7 @@
     "number": 3,
     "year": 2023,
     "season": "FALL",
-    "disclaimer": "This exam will cover 60% of the content for the final. ",
+    "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
     "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
     "flags": {
       "published": true,
@@ -55,52 +56,591 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "317174247",
-      "timeSpentVideo": "129581725",
-      "submissions": 3064,
-      "submissionsCorrect": 1194,
-      "questions": 25,
-      "accuracy": 0.389686684073107,
-      "difficulty": 0.856826801517067
+      "timeSpent": "242725991",
+      "timeSpentVideo": "102010207",
+      "submissions": 2828,
+      "submissionsCorrect": 1628,
+      "questions": 28,
+      "accuracy": 0.5756718528995757,
+      "difficulty": 0.6769125683060109
     }
   },
   "explanation": {
-    "id": "edb38c2b-91ea-469f-a07f-39ef85dad9fe",
+    "id": "6d47e944-cb99-4cf3-a89e-a612d41318ee",
     "body": null,
-    "questionId": "4ef5362e-6b36-4945-add3-72682b4e4f4c",
+    "questionId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
     "resources": [
       {
-        "id": "19fd599a-ea7e-4088-b395-55a7d2fd869b",
+        "id": "0b71e0ad-155c-48df-af64-fd6b3c65d0b2",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/0Fv09GL-2HE?t=1759"
+          "url": "https://youtu.be/0Fv09GL-2HE?t=1220"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "edb38c2b-91ea-469f-a07f-39ef85dad9fe",
+        "explanationId": "6d47e944-cb99-4cf3-a89e-a612d41318ee",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
       }
     ]
   },
-  "topics": [
+  "topics": [],
+  "children": [
     {
-      "id": "f155766a-e193-487a-b556-a9356f8f0682",
-      "name": "R2",
+      "id": "eebb1945-f1df-4ace-b863-c9f13839b37b",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(a) (10 points) Fit the linear regression line for the association between shoreline erosion and rainfall and interpret the value of \ud835\udc83\ud835\udfcf.\n(i) Determine the slope (\ud835\udc83\ud835\udfcf) of the least-squares regression line.\n(ii) Determine the intercept (\ud835\udc83\ud835\udfce) of the least squares regression line.\n(iii) Write out the equation of the regression line.",
+        "solution": "b1 = 0.0731, b0 = -1.736, y = -1.736+0.0731 * x_rainfall",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
       "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
       "stats": {
-        "count": 1,
-        "timeSpent": "35504087",
-        "timeSpentVideo": "1217545",
-        "submissions": 80,
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
         "submissionsCorrect": 0,
-        "questions": 2,
         "accuracy": 0,
-        "difficulty": 0.9722222222222222
-      }
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "e8a4ecf7-38be-43b5-93a6-4b59b184cd3a",
+          "type": "IMAGE",
+          "data": {
+            "key": "BAIMlfGGyFCtTUnW4FARv",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/BAIMlfGGyFCtTUnW4FARv"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "eebb1945-f1df-4ace-b863-c9f13839b37b",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "dde6b249-6711-45fb-99ec-59e9f349c334",
+        "body": null,
+        "questionId": "eebb1945-f1df-4ace-b863-c9f13839b37b",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "bc4a566b-21b0-4def-afe8-4fb12bc4afb6",
+          "name": "Regression",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "169926377",
+            "timeSpentVideo": "17993460",
+            "submissions": 1107,
+            "submissionsCorrect": 639,
+            "questions": 5,
+            "accuracy": 0.5772357723577236,
+            "difficulty": 0.6791632145816073
+          }
+        }
+      ]
+    },
+    {
+      "id": "7479bba9-3cfd-414a-908c-61a28bde1b2b",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(b) (5 points) Complete the ANOVA table for a, b, c, d, e, f, and g. (You don\u2019t need to show work.)",
+        "solution": "a = 1, b = 8, c= 9, d = 0.467, e = 38.405, f = 37.938, g = 654.8276",
+        "answerChoices": []
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "a369697f-5d0e-4d26-a738-d125fcaf413b",
+          "type": "IMAGE",
+          "data": {
+            "key": "WVrpod5yRjkyY0rbQGWL4",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/WVrpod5yRjkyY0rbQGWL4"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "7479bba9-3cfd-414a-908c-61a28bde1b2b",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        },
+        {
+          "id": "58d088a4-2b16-41c3-b2b3-b229bba3a305",
+          "type": "IMAGE",
+          "data": {
+            "key": "u7qcdoi-I8x7bqb8qZNrE",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/u7qcdoi-I8x7bqb8qZNrE"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "7479bba9-3cfd-414a-908c-61a28bde1b2b",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "1814fc51-20ed-490a-918b-587d3efc9422",
+        "body": null,
+        "questionId": "7479bba9-3cfd-414a-908c-61a28bde1b2b",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "b6594673-baca-42bd-8351-8cd92516a8b2",
+          "name": "ANOVA",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "282599832",
+            "timeSpentVideo": "83550085",
+            "submissions": 993,
+            "submissionsCorrect": 494,
+            "questions": 6,
+            "accuracy": 0.49748237663645517,
+            "difficulty": 0.7522872827081427
+          }
+        }
+      ]
+    },
+    {
+      "id": "de509555-4301-428c-b7ab-39e2bb82c8df",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(c) (5 points) Is there a significant linear association between rainfall and shoreline erosion at a \ud835\udf36 = \ud835\udfce. \ud835\udfce\ud835\udfcf level of significance? Provide a formal decision and conclusion in context. Regardless of the results of the hypothesis test, determine the coefficient of\ndetermination and assess what this tells us about the linear regression in context. (Hint: Use the ANOVA table)",
+        "solution": "Decision: The \ud835\udc91-value < \ud835\udfce. \ud835\udfce\ud835\udfce\ud835\udfce\ud835\udfcf \u2264 \ud835\udfce. \ud835\udfce\ud835\udfcf = \ud835\udf36 therefore we have evidence to reject the null\nhypothesis. \n\nThe data does give strong support (\ud835\udc91-value< \ud835\udfce. \ud835\udfce\ud835\udfce\ud835\udfce\ud835\udfcf) to the claim that that there is a linear\nassociation between rainfall and shoreline erosion in the population.\nR^2= \ud835\udfd1\ud835\udfd5. \ud835\udfd7\ud835\udfd1\ud835\udfd6/ \ud835\udfd1\ud835\udfd6. \ud835\udfd2\ud835\udfce\ud835\udfd3 = \ud835\udfce. \ud835\udfd7\ud835\udfd6\ud835\udfd5\ud835\udfd6\n\ud835\udc79^\ud835\udfd0 tells us that 98.78% of the variation in the shoreline erosion has been explained by the\nregression line.",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "bb42a4f4-9fdd-468d-b8d1-747ef65b07dc",
+          "type": "IMAGE",
+          "data": {
+            "key": "8ge06O-VQXrYAHQy_Duym",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/8ge06O-VQXrYAHQy_Duym"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "de509555-4301-428c-b7ab-39e2bb82c8df",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "0cc90d1c-2b04-4917-923d-1d1fd05063f7",
+        "body": null,
+        "questionId": "de509555-4301-428c-b7ab-39e2bb82c8df",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "edb216e8-1697-4437-970b-15e01fb51638",
+          "name": "Hypothesis Test",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "569658031",
+            "timeSpentVideo": "70353004",
+            "submissions": 2324,
+            "submissionsCorrect": 1136,
+            "questions": 13,
+            "accuracy": 0.48881239242685026,
+            "difficulty": 0.7607260726072607
+          }
+        },
+        {
+          "id": "f155766a-e193-487a-b556-a9356f8f0682",
+          "name": "R2",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "40046505",
+            "timeSpentVideo": "1257886",
+            "submissions": 127,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.0297356828193833
+          }
+        }
+      ]
+    },
+    {
+      "id": "3eb85b21-c995-49a4-bf34-69c880156112",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(d) (3 points) What proportion of the total variation of the shoreline erosion is NOT explained by the rainfall?",
+        "solution": "\ud835\udfcf \u2212 \ud835\udc79^\ud835\udfd0 = \ud835\udfcf \u2212 \ud835\udfce. \ud835\udfd7\ud835\udfd6\ud835\udfd5\ud835\udfd6 = \ud835\udfce. \ud835\udfce\ud835\udfcf\ud835\udfd0\ud835\udfd0\nTherefore, 1.22% of the total variation of the shoreline erosion is not explained by the linear\nrelationship with rainfall",
+        "answerChoices": []
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "d33236f7-1b37-401a-9824-dc8b7da6122d",
+        "body": null,
+        "questionId": "3eb85b21-c995-49a4-bf34-69c880156112",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "f155766a-e193-487a-b556-a9356f8f0682",
+          "name": "R2",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "40046505",
+            "timeSpentVideo": "1257886",
+            "submissions": 127,
+            "submissionsCorrect": 0,
+            "questions": 4,
+            "accuracy": 0,
+            "difficulty": 1.0297356828193833
+          }
+        }
+      ]
+    },
+    {
+      "id": "df28351e-497c-4d3a-bae6-9a7c4b121ab8",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(e) (5 points) Construct a 99% confidence interval for \ud835\udf37\ud835\udfcf. Select an appropriate critical value for the calculation.",
+        "solution": "\ud835\udc61=  3.355387\n\ud835\udc4f1 = 0.0731\nMSE = 0.058\n\ud835\udc4f1 \u00b1 \ud835\udc61 \u2217 sqrt(MSE/ Sxx) = 0.0731 \u00b1 3.355387 \u2217 sqrt(0.058/7100) = (\ud835\udfce. \ud835\udfce\ud835\udfd4\ud835\udfd1\ud835\udfd3, \ud835\udfce. \ud835\udfce\ud835\udfd6\ud835\udfd0\ud835\udfd5)",
+        "answerChoices": []
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "e42cd70d-ca26-4182-9226-9219344a993f",
+          "type": "IMAGE",
+          "data": {
+            "key": "zaLNQMrPZfHXsAOncm-WK",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/zaLNQMrPZfHXsAOncm-WK"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "df28351e-497c-4d3a-bae6-9a7c4b121ab8",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "e63d4e44-7e29-4ffd-9df6-e9c63427fc84",
+        "body": null,
+        "questionId": "df28351e-497c-4d3a-bae6-9a7c4b121ab8",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "de9074ca-7126-4b35-8a18-fade09f055a4",
+          "name": "Confidence Interval",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "423492048",
+            "timeSpentVideo": "31226658",
+            "submissions": 1442,
+            "submissionsCorrect": 798,
+            "questions": 7,
+            "accuracy": 0.5533980582524272,
+            "difficulty": 0.7000648508430609
+          }
+        }
+      ]
+    },
+    {
+      "id": "529981e5-9850-4709-b1dc-74ebadceab82",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "(f) (5 points) Using the same critical value as (e) construct a 99% prediction interval of shoreline erosion when the amount of rainfall is 100 cm.",
+        "solution": "Confidence interval is (\ud835\udfd2.\ud835\udfd4\ud835\udfd2\ud835\udfce\ud835\udfd7, \ud835\udfd4.\ud835\udfd3\ud835\udfce\ud835\udfd5\ud835\udfcf)",
+        "answerChoices": []
+      },
+      "number": 6,
+      "disclaimer": null,
+      "examId": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "f75dc473-0db7-4e40-9aae-d58f61c1f2ab",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [
+        {
+          "id": "9a98a706-0f49-4cfd-8dfb-da32566a3b6f",
+          "type": "IMAGE",
+          "data": {
+            "key": "_j4lNVabRvhzWDJFG8B2f",
+            "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/_j4lNVabRvhzWDJFG8B2f"
+          },
+          "courseId": null,
+          "examId": null,
+          "questionId": "529981e5-9850-4709-b1dc-74ebadceab82",
+          "explanationId": null,
+          "applicationId": null,
+          "answerChoiceId": null,
+          "customExamId": null
+        }
+      ],
+      "exam": {
+        "id": "fb51682d-ca61-46bf-968a-03ec8c54b681",
+        "number": 3,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "This exam will cover 60% of the content for the final | Question numbering may differ from the original exam.",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "242725991",
+          "timeSpentVideo": "102010207",
+          "submissions": 2828,
+          "submissionsCorrect": 1628,
+          "questions": 28,
+          "accuracy": 0.5756718528995757,
+          "difficulty": 0.6769125683060109
+        }
+      },
+      "explanation": {
+        "id": "13238f46-d20c-41fd-b36d-6df14edc80d1",
+        "body": null,
+        "questionId": "529981e5-9850-4709-b1dc-74ebadceab82",
+        "resources": []
+      },
+      "topics": [
+        {
+          "id": "de9074ca-7126-4b35-8a18-fade09f055a4",
+          "name": "Confidence Interval",
+          "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+          "stats": {
+            "count": 1,
+            "timeSpent": "423492048",
+            "timeSpentVideo": "31226658",
+            "submissions": 1442,
+            "submissionsCorrect": 798,
+            "questions": 7,
+            "accuracy": 0.5533980582524272,
+            "difficulty": 0.7000648508430609
+          }
+        }
+      ]
     }
-  ],
-  "children": []
+  ]
 }

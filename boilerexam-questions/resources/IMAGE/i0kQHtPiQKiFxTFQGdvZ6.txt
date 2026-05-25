@@ -1,0 +1,28 @@
+This image contains a chemical structure of a tetrapeptide and a prompt to calculate its net charge.
+
+### 1. Text and Labels
+*   **Prompt text:** "Charge at pH 7 =" followed by an empty rectangular box.
+*   **pKa annotations (from left to right, top to bottom):**
+    *   `pKa = 9` located above the N-terminal amine group.
+    *   `pKa = 12` located above the guanidinium side chain group.
+    *   `pKa = 2` located below the C-terminal carboxylic acid group.
+    *   `pKa = 4` located below the side chain carboxylic acid group of the second amino acid residue.
+
+### 2. Chemical Structure Analysis
+The molecule is a linear tetrapeptide. Moving from the N-terminus (left) to the C-terminus (right):
+
+*   **Residue 1 (N-terminus):** An Alanine derivative. The alpha-carbon is attached to a methyl group, a carbonyl group (part of the peptide bond), and an `NH3+` group (labeled with `pKa = 9`).
+*   **Residue 2:** A Glutamic acid residue. Its side chain consists of a `-CH2-CH2-COOH` group. The carboxylic acid (`COOH`) is labeled `pKa = 4`.
+*   **Residue 3:** An Arginine derivative. Its side chain consists of `-(CH2)3-NH-C(=NH)-NH2`. The terminal guanidinium group is depicted with a positive charge (`+`) and labeled `pKa = 12`.
+*   **Residue 4 (C-terminus):** A Glutamine residue. Its side chain consists of a `-CH2-CH2-CONH2` group (an amide). The C-terminal group is a carboxylic acid (`COOH`) labeled `pKa = 2`.
+
+### 3. Spatial Arrangement and Bonds
+*   **Backbone:** The peptide backbone sequence is `N-Cα-C-N-Cα-C-N-Cα-C-N-Cα-C`.
+*   **Stereochemistry:** The alpha-carbons have dashed/wedged bond indications for the side chain/backbone attachments, signifying specific stereochemical configurations.
+*   **Peptide Bonds:** Three central amide linkages (`-CONH-`) connect the four alpha-carbons.
+*   **Side Chains:**
+    *   Leftmost side chain: `-CH3`
+    *   Second from left side chain: `-CH2-CH2-COOH`
+    *   Third from left side chain: `-CH2-CH2-CH2-NH-C(=NH)-NH2` (with positive charge on the terminal nitrogen)
+    *   Rightmost side chain: `-CH2-CH2-CONH2`
+*   **Geometry:** The structure is laid out horizontally with residues linked by peptide bonds. The pKa values are positioned pointing toward the specific functional groups they describe.

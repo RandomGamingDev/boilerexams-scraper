@@ -1,0 +1,22 @@
+The image is a circuit diagram featuring an enhancement-mode N-channel MOSFET in a common-source configuration.
+
+### 1. Circuit Components and Connections
+*   **Power Supply:** A voltage source labeled "+10 V" is connected to the top of resistor $R_D$.
+*   **Resistor:** A resistor labeled "$R_D = 1000\ \Omega$" is connected in series between the +10 V supply and the drain of the MOSFET.
+*   **MOSFET:** An N-channel enhancement-mode MOSFET symbol is oriented vertically.
+    *   **Drain (D):** The drain terminal is connected to the bottom of resistor $R_D$.
+    *   **Source (S):** The source terminal is connected directly to a ground node (triangle symbol).
+    *   **Gate (G):** The gate terminal is connected to an input node.
+*   **Ground:** A ground terminal is depicted at the bottom rail, connecting the source of the MOSFET to the negative terminal of the $V_D$ output.
+
+### 2. Labels, Variables, and Symbols
+*   **Input Voltage:** An input port is shown to the left of the gate, labeled "$V_G = 2\text{ V}$". The '+' sign is above the gate input terminal, and the '-' sign is aligned with the bottom common ground wire.
+*   **Output Voltage:** An output port is shown to the right of the MOSFET, labeled "$V_D$". The '+' sign is near the drain node, and the '-' sign is near the bottom ground wire.
+*   **Current:** A downward-pointing arrow indicates current "$I_D$" flowing into the drain of the MOSFET.
+
+### 3. Spatial Geometry
+*   The circuit is arranged with a main horizontal wire at the bottom acting as a common reference (ground).
+*   The MOSFET is positioned in the center, with its source connected to the ground rail.
+*   The gate input port is on the left; the $V_G$ voltage is applied across the gate terminal and ground.
+*   The drain output port is on the right; the $V_D$ voltage is measured across the drain terminal and ground.
+*   The branch containing the +10 V source and $R_D$ is connected vertically to the drain node.

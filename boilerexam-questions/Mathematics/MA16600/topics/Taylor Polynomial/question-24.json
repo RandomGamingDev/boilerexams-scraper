@@ -1,0 +1,143 @@
+{
+  "id": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given that \n$\\sum_{k=0}^{\\infty} \\dfrac{5k}{(k+3)!}(x-2)^{2k}$ \nis the Taylor series for the function $f(x)$ centered at $x = 2$, \nthe value of $f^{(5)}(2)$ is:\n",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "d2365ba2-579e-4617-a6bd-f4cc16c2c8ab",
+        "index": 0,
+        "body": "$\\frac{ 4   ! 5^{ 6  } }{    8  }$",
+        "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "42df89b2-83e3-4d1e-9975-60826555b83d",
+        "index": 1,
+        "body": "$\\frac{5   ! 5^{ 6  } }{    8  }$",
+        "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      },
+      {
+        "id": "cd9fb300-ac4b-4012-8474-8be9d32cd427",
+        "index": 2,
+        "body": "$\\frac{4   ! 5^{ 6  } }{  7    }$",
+        "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+        "stats": {
+          "count": 2
+        },
+        "resources": []
+      },
+      {
+        "id": "630ac717-fd8b-46d8-840c-56241b65c9fe",
+        "index": 3,
+        "body": "$\\frac{ 6  ! 5^{  6 } }{   8  }$",
+        "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "1dbc75a6-b857-43b1-bfb9-09f6534b46cc",
+        "index": 4,
+        "body": "0",
+        "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+        "stats": {
+          "count": 35
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 24,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "14264247",
+    "timeSpentVideo": "2163342",
+    "submissions": 65,
+    "submissionsCorrect": 29,
+    "accuracy": 0.4461538461538462,
+    "difficulty": 0.7712121212121212
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "4b13ac8b-2465-4dc0-b06d-17d44f31f567",
+    "body": null,
+    "questionId": "6503d5b3-1030-4709-992d-d3dcfe93434a",
+    "resources": [
+      {
+        "id": "3456e6d8-91e1-48a3-b757-63b8634dadf4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=11121"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4b13ac8b-2465-4dc0-b06d-17d44f31f567",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "42f6ba49-6784-446f-9249-82406193f466",
+      "name": "Taylor Polynomial",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "673200937",
+        "timeSpentVideo": "29143386",
+        "submissions": 1181,
+        "submissionsCorrect": 701,
+        "questions": 4,
+        "accuracy": 0.5935647756138865,
+        "difficulty": 0.6637392661982826
+      }
+    }
+  ],
+  "children": []
+}

@@ -4,7 +4,8 @@
   "data": {
     "body": "Consider the system\n\n\n\\[\n\\mathbf{x}^{\\prime}=\\left[\\begin{array}{cc}\n3 & -4 \\\\\n1 & 7\n\\end{array}\\right] \\mathbf{x}\n\\]\n\nIt is known that the system has one defective eigenvalue $\\lambda=5$. Find its general solution.",
     "solution": [
-      0
+      0,
+      3
     ],
     "answerChoices": [
       {
@@ -13,7 +14,7 @@
         "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-2 t+1 \\\\ t\\end{array}\\right] e^{5 t}$",
         "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
         "stats": {
-          "count": 393
+          "count": 1094
         },
         "resources": []
       },
@@ -23,7 +24,7 @@
         "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] e^{5 t}$",
         "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
         "stats": {
-          "count": 19
+          "count": 55
         },
         "resources": []
       },
@@ -33,7 +34,7 @@
         "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}4 \\\\ -2\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}4 t+1 \\\\ -2 t\\end{array}\\right] e^{5 t}$",
         "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
         "stats": {
-          "count": 8
+          "count": 62
         },
         "resources": []
       },
@@ -43,7 +44,7 @@
         "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}2 \\\\ -1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}2 t+1 \\\\ -t\\end{array}\\right] e^{5 t}$",
         "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
         "stats": {
-          "count": 51
+          "count": 290
         },
         "resources": []
       },
@@ -53,14 +54,14 @@
         "body": "$\\mathbf{x}(t)=c_{1}\\left[\\begin{array}{c}-2 \\\\ 1\\end{array}\\right] e^{5 t}+c_{2}\\left[\\begin{array}{c}-2 t \\\\ t+1\\end{array}\\right] e^{5 t}$",
         "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
         "stats": {
-          "count": 19
+          "count": 77
         },
         "resources": []
       }
     ]
   },
   "number": 6,
-  "disclaimer": "",
+  "disclaimer": "This question originally had two correct answers. Selecting either would be correct, though Boilerexams will mark it incorrect unless you select both.",
   "examId": "8c02be9d-22e6-41bb-8afe-37900556defe",
   "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
   "parentId": null,
@@ -71,12 +72,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "134030970",
-    "timeSpentVideo": "14810462",
-    "submissions": 562,
-    "submissionsCorrect": 393,
-    "accuracy": 0.699288256227758,
-    "difficulty": 0.5808157099697885
+    "timeSpent": "357942461",
+    "timeSpentVideo": "31463713",
+    "submissions": 1511,
+    "submissionsCorrect": 1113,
+    "accuracy": 0.7365982792852416,
+    "difficulty": 0.5280881440099318
   },
   "resources": [],
   "exam": {
@@ -92,18 +93,18 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "1453372297",
-      "timeSpentVideo": "423608724",
-      "submissions": 6958,
-      "submissionsCorrect": 3449,
+      "timeSpent": "4182133114",
+      "timeSpentVideo": "1072891517",
+      "submissions": 18281,
+      "submissionsCorrect": 9463,
       "questions": 10,
-      "accuracy": 0.49568841621155507,
-      "difficulty": 0.7542504958911873
+      "accuracy": 0.5176412668891198,
+      "difficulty": 0.7324547086665578
     }
   },
   "explanation": {
     "id": "29303544-aeeb-4961-adc1-8db48e726380",
-    "body": "",
+    "body": "This question originally had two correct answers. Selecting either would be correct, though Boilerexams will mark it incorrect.",
     "questionId": "e4fb9188-20d4-4932-8d3e-54895031ba50",
     "resources": [
       {
@@ -129,13 +130,13 @@
       "courseId": "b5fe6d3e-d7ff-42d1-993b-44ee2bfe2dd3",
       "stats": {
         "count": 1,
-        "timeSpent": "10296542223",
-        "timeSpentVideo": "741957670",
-        "submissions": 19112,
-        "submissionsCorrect": 11393,
-        "questions": 28,
-        "accuracy": 0.5961176224361657,
-        "difficulty": 0.6543826774932334
+        "timeSpent": "27215194968",
+        "timeSpentVideo": "1752589474",
+        "submissions": 47779,
+        "submissionsCorrect": 27631,
+        "questions": 26,
+        "accuracy": 0.5783084618765566,
+        "difficulty": 0.6718550930470562
       }
     }
   ],

@@ -1,0 +1,31 @@
+The image contains a table displaying R console output for the `pnorm()` function, arranged in a grid with 3 rows and 2 columns. All text uses a monospaced font.
+
+### Grid Layout and Content
+
+**Row 1:**
+*   **Left Cell:**
+    *   `> pnorm(1.642632, lower.tail = TRUE)`
+    *   `[1] 0.9497705`
+*   **Right Cell:**
+    *   `> pnorm(2.625553, lower.tail = FALSE)`
+    *   `[1] 0.004325417`
+
+**Row 2:**
+*   **Left Cell:**
+    *   `> pnorm(2.386993, lower.tail = TRUE)`
+    *   `[1] 0.9915066`
+*   **Right Cell:**
+    *   `> pnorm(2.386993, lower.tail = FALSE)`
+    *   `[1] 0.008493407`
+
+**Row 3:**
+*   **Left Cell:**
+    *   `> pnorm(2.825847, lower.tail = TRUE)`
+    *   `[1] 0.9976422`
+*   **Right Cell:**
+    *   `> pnorm(2.825847, lower.tail = FALSE)`
+    *   `[1] 0.002357789`
+
+### Formatting Notes
+*   Each entry consists of a command starting with the prompt character `>` followed by the function call, and the resulting output on the line below starting with the index `[1]`.
+*   The values provided are standard R output for calculating cumulative distribution function (CDF) or survival function (1 - CDF) probabilities for a normal distribution.

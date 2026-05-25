@@ -1,0 +1,147 @@
+{
+  "id": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Write out the form of the partial fraction decomposition of the function\n$\\dfrac{5x^3 + 8x^2 - 21}{(x-1)^2(x^2+9)(x^3-1)}$",
+    "solution": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "4542edba-c3ad-49a9-bf65-5afbfcdbaced",
+        "index": 0,
+        "body": "$\\dfrac{A}{x-1} + \\dfrac{B}{(x-1)^2} + \\dfrac{C}{x-3} + \\dfrac{D}{x+3} + \\dfrac{Ex+F}{x^3-1}$",
+        "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "f1e36367-21ca-4b72-842d-5100ed9f9e7c",
+        "index": 1,
+        "body": "$\\dfrac{A}{x-1} + \\dfrac{B}{(x-1)^2} + \\dfrac{C}{(x-1)^3} + \\dfrac{D}{x+3} + \\dfrac{E}{x-3} + \\dfrac{Fx+G}{x^2+x+1}$",
+        "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "c1409e56-a0af-4d4a-a867-b348d1e20e4b",
+        "index": 2,
+        "body": "$\\dfrac{Ax+B}{(x-2)^2} + \\dfrac{Cx+D}{x^2+9} + \\dfrac{Ex^2+Fx+G}{x^3-1}$",
+        "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "f40b4827-6818-4114-88fb-6bfab02375b8",
+        "index": 3,
+        "body": "$\\dfrac{A}{x-1} + \\dfrac{B}{(x-1)^2} + \\dfrac{Cx+D}{x^2+9} + \\dfrac{Ex+F}{x^2+x+1}$",
+        "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "96f7a470-5913-4659-a941-85e59e8f8e5a",
+        "index": 4,
+        "body": "$\\dfrac{A}{x-1} + \\dfrac{B}{(x-1)^2} + \\dfrac{C}{(x-1)^3} + \\dfrac{Dx+E}{x^2+9} + \\dfrac{Fx+G}{x^2+x+1}$",
+        "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+        "stats": {
+          "count": 52
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "15473247",
+    "timeSpentVideo": "524291",
+    "submissions": 105,
+    "submissionsCorrect": 101,
+    "accuracy": 0.9619047619047619,
+    "difficulty": 0.5134146341463415
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "d76d3178-39ce-45d6-8f00-d970107ef989",
+    "body": null,
+    "questionId": "4f6959bc-fcfe-4138-b293-8c8ad1d50e69",
+    "resources": [
+      {
+        "id": "3ec7d51d-097e-48a1-acc5-866be7872aee",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=4747"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "d76d3178-39ce-45d6-8f00-d970107ef989",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "ecc2d589-5b8f-4b03-9947-89d4f14c3fed",
+      "name": "Partial Fraction Decomposition",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "829111553",
+        "timeSpentVideo": "22928209",
+        "submissions": 1910,
+        "submissionsCorrect": 1234,
+        "questions": 11,
+        "accuracy": 0.6460732984293194,
+        "difficulty": 0.6111940298507462
+      }
+    }
+  ],
+  "children": []
+}

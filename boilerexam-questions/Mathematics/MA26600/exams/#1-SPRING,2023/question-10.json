@@ -3,7 +3,7 @@
   "type": "FREE_RESPONSE",
   "data": {
     "body": "Solve the initial value problem\n\\[\nx^2 y' - y^2 - xy = 0, \\quad y(1) = 2,\n\\]\nby writing the equation in the homogeneous form $y'=f(y/x)$ and using the substitution $v=y/x$.",
-    "solution": [],
+    "solution": "\\[y=-\\frac{x}{\\ln{|x|}-\\frac{1}{2}}\\]",
     "answerChoices": []
   },
   "number": 10,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "101184660",
-    "timeSpentVideo": "10177467",
-    "submissions": 319,
-    "submissionsCorrect": 121,
-    "accuracy": 0.3793103448275862,
-    "difficulty": 0.8418854415274464
+    "timeSpent": "165820424",
+    "timeSpentVideo": "15917494",
+    "submissions": 593,
+    "submissionsCorrect": 239,
+    "accuracy": 0.403035413153457,
+    "difficulty": 0.8329725829725829
   },
   "resources": [],
   "exam": {
@@ -39,13 +39,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "4577962103",
-      "timeSpentVideo": "320618650",
-      "submissions": 16764,
-      "submissionsCorrect": 9910,
+      "timeSpent": "6722578850",
+      "timeSpentVideo": "581305259",
+      "submissions": 25427,
+      "submissionsCorrect": 14590,
       "questions": 10,
-      "accuracy": 0.5911476974469101,
-      "difficulty": 0.6593927893738141
+      "accuracy": 0.573799504463759,
+      "difficulty": 0.6764895992478552
     }
   },
   "explanation": {

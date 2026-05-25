@@ -1,0 +1,43 @@
+The image displays a vector diagram overlaid on a Cartesian coordinate grid.
+
+### 1. Axes and Grid
+*   **Coordinate System:** A standard 2D Cartesian plane.
+*   **Axes:**
+    *   Horizontal axis labeled **$x$** (arrow pointing right).
+    *   Vertical axis labeled **$H$** (arrow pointing up).
+*   **Grid:** A background of dashed, thin grey lines forming a square grid.
+*   **Origin:** The intersection of the $x$ and $H$ axes.
+
+### 2. Vectors and Geometry
+The image shows a closed loop formed by four directed line segments (vectors), labeled $\vec{a}, \vec{b}, \vec{c},$ and $\vec{d}$. Each vector originates at the tip of the preceding one.
+
+*   **Vector $\vec{a}$:**
+    *   Points generally upward and slightly right.
+    *   Starts at coordinate $(2, -3)$ and ends at $(3, 3)$. (Using the grid intersection points).
+*   **Vector $\vec{b}$:**
+    *   Points generally left and slightly upward.
+    *   Starts at $(3, 3)$ and ends at $(-3, 2)$.
+*   **Vector $\vec{c}$:**
+    *   Points generally upward and right.
+    *   Starts at $(-3, 2)$ and ends at $(-2, 1)$. (Wait, observing the path: the vector starts at $(-3, 2)$ and proceeds to a point that looks like $(-2.5, 0)$ is incorrect; let's re-evaluate based on vertices).
+
+**Vertex coordinates (relative to origin as $(0,0)$ and grid units):**
+*   **Vertex 1:** $(3, -3)$ — Tail of $\vec{a}$.
+*   **Vertex 2:** $(3, 3)$ — Head of $\vec{a}$, tail of $\vec{b}$.
+*   **Vertex 3:** $(-3, 2)$ — Head of $\vec{b}$, tail of $\vec{c}$.
+*   **Vertex 4:** $(-2, -1)$ — Head of $\vec{c}$, tail of $\vec{d}$.
+*   **Loop closure:** Vector $\vec{d}$ connects $(-2, -1)$ back to $(3, -3)$.
+
+### 3. Labels and Annotations
+*   **$\vec{a}$**: Positioned to the right of the vector $\vec{a}$.
+*   **$\vec{b}$**: Positioned above the vector $\vec{b}$.
+*   **$\vec{c}$**: Positioned to the left of the vector $\vec{c}$.
+*   **$\vec{d}$**: Positioned below the vector $\vec{d}$.
+*   **$x$**: At the far right end of the horizontal axis.
+*   **$H$**: At the top end of the vertical axis.
+
+### 4. Summary of Vector Orientation
+*   **$\vec{a}$**: Points from $(3, -3)$ to $(3, 3)$ (Vertical segment).
+*   **$\vec{b}$**: Points from $(3, 3)$ to $(-3, 2)$ (Oblique, downward slope).
+*   **$\vec{c}$**: Points from $(-3, 2)$ to $(-2, -1)$ (Oblique, downward slope).
+*   **$\vec{d}$**: Points from $(-2, -1)$ to $(3, -3)$ (Oblique, downward slope).

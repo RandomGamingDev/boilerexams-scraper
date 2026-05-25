@@ -1,0 +1,38 @@
+This is a technical description of the provided circuit diagram.
+
+### Circuit Topology
+The circuit is a diamond-shaped configuration with a central cross, featuring five nodes labeled **A, B, C, D,** and **E**.
+*   **A** is the top vertex.
+*   **B** is the right vertex.
+*   **C** is the bottom vertex.
+*   **D** is the left vertex.
+*   **E** is the central intersection node where the vertical and horizontal branches meet.
+
+### Components and Branch Details
+
+1.  **Branch A-D:** Contains a resistor with resistance **12 $\Omega$**. Voltage polarity is marked with **+** near node D and **-** near node A. The label **$V_2$** is placed above the resistor. An arrow indicates current **$I_2$** flowing from D toward A.
+2.  **Branch A-E:** Contains a resistor with resistance **3 $\Omega$**.
+3.  **Branch A-B:** Contains an independent current source pointing from A toward B with a value of **5 A**.
+4.  **Branch D-E:** Contains an independent current source pointing from E toward D with a value of **3 A**.
+5.  **Branch E-B:** Contains an independent current source pointing from E toward B with a value of **4 A**. Below this source, the label **$V_{4A}$** is written, with a **-** sign near E and a **+** sign near B.
+6.  **Branch E-C:** Contains a resistor with resistance **10 $\Omega$**. The label **$V_3$** is to the left of the resistor. Voltage polarity is marked with **-** above the resistor and **+** below the resistor. An arrow indicates current **$I_3$** flowing from E toward C.
+7.  **Branch D-C:** Contains an independent current source pointing from D toward C with a value of **2 A**.
+8.  **Branch B-C:** Contains a resistor with resistance **4 $\Omega$**. An arrow indicates current **$I_4$** flowing from B toward C.
+
+### Summary of Labels and Orientations
+*   **Nodes:** A (top), B (right), C (bottom), D (left), E (center).
+*   **Current Variables:**
+    *   **$I_2$**: Labeled on branch D-A, pointing toward A.
+    *   **$I_3$**: Labeled on branch E-C, pointing toward C.
+    *   **$I_4$**: Labeled on branch B-C, pointing toward C.
+*   **Voltage Variables/Polarity:**
+    *   **$V_2$**: Across 12 $\Omega$ resistor; + at D, - at A.
+    *   **$V_{4A}$**: Across 4 A current source; - at E, + at B.
+    *   **$V_3$**: Across 10 $\Omega$ resistor; - at E, + at C.
+*   **Passive Components:**
+    *   Resistors: 12 $\Omega$ (D-A), 3 $\Omega$ (A-E), 10 $\Omega$ (E-C), 4 $\Omega$ (B-C).
+*   **Active Components (Current Sources):**
+    *   5 A (A to B)
+    *   3 A (E to D)
+    *   4 A (E to B)
+    *   2 A (D to C)

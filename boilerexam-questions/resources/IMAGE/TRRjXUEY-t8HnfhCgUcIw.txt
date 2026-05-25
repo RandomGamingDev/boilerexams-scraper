@@ -1,0 +1,41 @@
+This is a supply and demand graph illustrating the domestic market for wheat with a tariff.
+
+### 1. Axes and Scales
+*   **Vertical Axis:** Labeled "Price". The scale runs from 0 to 24 in increments of 1.
+*   **Horizontal Axis:** Labeled "Quantity" (with a note below: "Note that quantity is given in thousands of units"). The scale runs from 0 to 12 in increments of 1.
+
+### 2. Curves and Lines
+*   **Demand Curve ($D_1$):** A downward-sloping blue line starting at (0, 22) and passing through (4.5, 13), (6, 10), and (7, 8).
+*   **Supply Curve ($S_1$):** An upward-sloping red line starting at (0, 4) and passing through (2, 8), (3, 10), and (4.5, 13).
+*   **World Price ($P_w$):** A horizontal black line at Price = 8, extending across the graph.
+*   **World Price + Tariff ($P_{w+tar}$):** A horizontal black line at Price = 10, extending across the graph.
+
+### 3. Key Coordinate Points and Intersections
+*   **Equilibrium ($D_1$ and $S_1$):** Intersect at $(4.5, 13)$.
+*   **Intersection of $P_w$ (Price = 8):**
+    *   Intersects $S_1$ at $(2, 8)$.
+    *   Intersects $D_1$ at $(7, 8)$.
+*   **Intersection of $P_{w+tar}$ (Price = 10):**
+    *   Intersects $S_1$ at $(3, 10)$.
+    *   Intersects $D_1$ at $(6, 10)$.
+
+### 4. Labeled Regions
+The areas between the curves and horizontal lines are labeled with letters:
+*   **S:** Region bounded above by the Y-axis and to the right by the $D_1$ curve (above the intersection at 13).
+*   **R:** Region bounded between Price 10 and 13, bounded by the Y-axis on the left and $S_1$ on the right.
+*   **O:** Triangle region bounded by $S_1$ and $D_1$, with its vertex at $(4.5, 13)$ and base along the $P_{w+tar}$ line between $(3, 10)$ and $(6, 10)$.
+*   **N:** Region bounded between Price 10 and 13, bounded by $D_1$ on the right.
+*   **X:** Region between Price 8 and 10, bounded by the Y-axis on the left and $S_1$ on the right.
+*   **M:** Triangle region bounded by $S_1$, $P_w$, and $P_{w+tar}$. Vertices at $(2, 8)$, $(3, 8)$, and $(3, 10)$.
+*   **F:** Rectangle region bounded by Price 8 and 10, $S_1$ at $(3, 10)$, and the vertical line at $Q=4.5$.
+*   **G:** Rectangle region bounded by Price 8 and 10, $D_1$ at $(6, 10)$, and the vertical line at $Q=4.5$.
+*   **L:** Triangle region bounded by $D_1$, $P_w$, and $P_{w+tar}$. Vertices at $(6, 10)$, $(7, 10)$, and $(7, 8)$.
+*   **Y:** Triangle region bounded by the Y-axis, $S_1$, and $P_w$. Vertices at $(0, 4)$, $(0, 8)$, and $(2, 8)$.
+
+### 5. Text Labels
+*   "S": Located at coordinates approximately $(1, 16.5)$.
+*   "$S_1$": Located at the end of the red line near $(5.2, 16)$.
+*   "$D_1$": Located at the end of the blue line near $(10.2, 2.2)$.
+*   "$P_w$": Located at the right end of the line at Price = 8.
+*   "$P_{w+tar}$": Located at the right end of the line at Price = 10.
+*   **Bottom caption:** "Figure 2.2: The domestic market for wheat with a tariff. Note that quantity is given in thousands of units."

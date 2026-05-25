@@ -1,0 +1,45 @@
+This circuit diagram depicts an AC circuit featuring an ideal transformer, a current source, and several impedances.
+
+### 1. Circuit Topology
+The circuit consists of two loops coupled by an ideal transformer.
+
+**Primary Loop (Left):**
+*   Contains a current source of $j10\text{ A}$ pointing upwards.
+*   Connected in series with a resistor of $10\ \Omega$.
+*   Connected to the primary winding of the transformer.
+*   A voltage $\tilde{V}_1$ is defined across the primary winding, with the '+' terminal at the top and '-' at the bottom.
+*   A blue dot is positioned at the top terminal of the primary winding.
+
+**Secondary Loop (Right):**
+*   Connected to the secondary winding of the transformer.
+*   Contains an impedance of $-j4\ \Omega$ in series with a resistor of $3\ \Omega$.
+*   A voltage $\tilde{V}_2$ is defined across the secondary winding, with the '+' terminal at the top and '-' at the bottom.
+*   A blue dot is positioned at the top terminal of the secondary winding.
+*   An arrow indicates the current flow direction for $\tilde{I}_2$ through the top branch (pointing to the right).
+
+### 2. Transformer and Labels
+*   **Transformer Ratio:** The turns ratio is indicated above the transformer core as $3 : 6$.
+*   **Transformer Core:** Represented by two parallel vertical lines between the two inductors.
+*   **Primary Winding:** Indicated by a coil symbol.
+*   **Secondary Winding:** Indicated by a coil symbol.
+
+### 3. Text and Symbols
+*   **Current Source (Left):** $j10\ \text{A}$
+*   **Primary Resistor:** $10\ \Omega$
+*   **Transformer Ratio:** $3 : 6$
+*   **Primary Voltage:** $\tilde{V}_1$
+*   **Secondary Voltage:** $\tilde{V}_2$
+*   **Secondary Impedance (Top):** $-j4\ \Omega$
+*   **Secondary Current:** $\tilde{I}_2$
+*   **Secondary Resistor (Right side):** $3\ \Omega$
+
+### 4. Geometric Relationships
+*   The primary circuit loop is rectangular.
+*   The secondary circuit loop is rectangular.
+*   The transformer is situated between the two loops.
+*   The primary and secondary windings are oriented vertically.
+*   The polarity dots (blue) are on the top terminals of both primary and secondary windings, indicating the same polarity for the transformer windings.
+*   The current source $j10\ \text{A}$ is on the leftmost vertical branch of the first loop.
+*   The $10\ \Omega$ resistor is on the top horizontal branch of the first loop.
+*   The $-j4\ \Omega$ impedance is on the top horizontal branch of the second loop.
+*   The $3\ \Omega$ resistor is on the rightmost vertical branch of the second loop.

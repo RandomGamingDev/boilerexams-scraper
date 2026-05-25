@@ -1,0 +1,153 @@
+{
+  "id": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the limit if it exists. $$\\lim_{(x,y)\\rightarrow(1,-2)}\\frac{y^{4}+x^{2}y^{4}-16-16x^{2}}{y^{2}-4}$$",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "c717e98d-277a-4d76-8297-f4e424d0d829",
+        "index": 0,
+        "body": "$12$",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 20
+        },
+        "resources": []
+      },
+      {
+        "id": "bb34c033-a2cf-4ddc-965a-b4834faa8ea0",
+        "index": 1,
+        "body": "$-8$",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 11
+        },
+        "resources": []
+      },
+      {
+        "id": "34e7289a-3b07-4dd8-8a94-81b89c73265c",
+        "index": 2,
+        "body": "$0$",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 61
+        },
+        "resources": []
+      },
+      {
+        "id": "7ee2b3d2-5c45-4cf4-bf7d-f8ea1fbf347f",
+        "index": 3,
+        "body": "$8$",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 118
+        },
+        "resources": []
+      },
+      {
+        "id": "e709119f-55bf-4723-9080-d0f33606130e",
+        "index": 4,
+        "body": "$16$",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 776
+        },
+        "resources": []
+      },
+      {
+        "id": "05184090-3945-4fed-a033-96d8cb2b084e",
+        "index": 5,
+        "body": "The limit does not exist.",
+        "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+        "stats": {
+          "count": 172
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 1,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "359806143",
+    "timeSpentVideo": "79945935",
+    "submissions": 1468,
+    "submissionsCorrect": 776,
+    "accuracy": 0.5286103542234333,
+    "difficulty": 0.7232142857142857
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "3941e760-e6cb-48e9-b065-903e58bfac9e",
+    "body": "Hint: Don't assume the limit doesn't exist just because you get $0/0$. Look at the numerator: it has four terms. Try factoring by grouping. Group the first two terms and the last two terms to see if a common factor emerges that cancels the denominator.",
+    "questionId": "432d2b5e-f225-4335-8cd0-ff76b181dac7",
+    "resources": [
+      {
+        "id": "b2fcf272-e20d-419c-9362-3be2826b0330",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=26"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "3941e760-e6cb-48e9-b065-903e58bfac9e",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "58f54792-e004-464f-9e6d-b51e5c0d183c",
+      "name": "Limits",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "972283961",
+        "timeSpentVideo": "91701395",
+        "submissions": 1468,
+        "submissionsCorrect": 776,
+        "questions": 1,
+        "accuracy": 0.5286103542234333,
+        "difficulty": 0.7232142857142857
+      }
+    }
+  ],
+  "children": []
+}

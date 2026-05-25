@@ -1,0 +1,41 @@
+This flowchart depicts an experimental design process, progressing from left to right through a series of blocks, treatments, and data collection points.
+
+### 1. Structural Overview
+The diagram is oriented horizontally. It starts from a single node on the left, branches into three parallel paths, and converges into a single node on the right. Purple arrows represent the direction of flow.
+
+### 2. Node Descriptions (Text and Visual Style)
+
+**Leftmost Node:**
+*   **Text:** "Experimental Units"
+*   **Shape:** Rounded blue rectangle.
+
+**Middle "Block" Layer:**
+*   Three parallel nodes, stacked vertically.
+*   **Appearance:** Rounded blue rectangles labeled "Block 1", "Block 2", and "Block 3" from top to bottom.
+*   **Connections:** One purple arrow points from the "Experimental Units" node to each of the three "Block" nodes.
+
+**"Treatment" Layer:**
+*   Three parallel nodes, stacked vertically.
+*   **Appearance:** Rounded white rectangles with black borders.
+*   **Labels:** "Treatment 1" (top), "Treatment 2" (middle), "Treatment3" (bottom).
+*   **Connections:** One purple arrow points from each "Block X" node to its corresponding "Treatment X" node.
+
+**"Record Response" Layer:**
+*   Three parallel nodes, stacked vertically.
+*   **Appearance:** Rounded red rectangles.
+*   **Labels:** "Record response" (identical text in all three).
+*   **Connections:** One purple arrow points from each "Treatment X" node to its corresponding "Record response" node.
+
+**Rightmost Node:**
+*   **Text:** "Compare Results"
+*   **Shape:** Yellow scroll icon.
+*   **Connections:** One purple arrow points from each of the three "Record response" nodes to this central "Compare Results" node.
+
+### 3. Spatial Relationships
+*   The diagram is organized into four distinct vertical stages/columns:
+    1.  Experimental Units
+    2.  Blocks 1–3
+    3.  Treatments 1–3
+    4.  Record Response 1–3
+*   The final stage, "Compare Results," acts as a terminal convergence point for all three data paths.
+*   The layout is symmetrical relative to the middle horizontal axis (passing through Block 2).

@@ -1,59 +1,59 @@
 {
-  "id": "8d711c2a-8771-495b-8722-20a315b92355",
+  "id": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Let $R^{3}$ be the real vector space of all $n \\times 1$ real vectors and $M_{22}$ be the real vector space of all $2 \\times 2$ real matrices. Let $L: R^{3} \\rightarrow M_{22}$ be a linear transformation that satisfies\n\n\n\\[\nL\\left(\\left[\\begin{array}{l}\n1 \\\\\n0 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{ll}\n2 & 1 \\\\\n3 & 0\n\\end{array}\\right], \\quad L\\left(\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n1\n\\end{array}\\right]\\right)=\\left[\\begin{array}{ll}\n1 & 0 \\\\\n0 & 1\n\\end{array}\\right], \\quad L\\left(\\left[\\begin{array}{l}\n1 \\\\\n1 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{cc}\n-1 & 0 \\\\\n1 & 0\n\\end{array}\\right] .\n\\]\n\nWhat is $L\\left(\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 2\\end{array}\\right]\\right)$ equal to?",
+    "body": "Consider the linear transformation $T: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{3}$ given by\n\n\n\n\\[\nT\\left(\\left[\\begin{array}{l}\n1 \\\\\n0 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\na \\\\\n1 \\\\\n2\n\\end{array}\\right], \\quad T\\left(\\left[\\begin{array}{l}\n0 \\\\\n1 \\\\\n0\n\\end{array}\\right]\\right)=\\left[\\begin{array}{r}\n-1 \\\\\n3 \\\\\n1\n\\end{array}\\right], \\quad T\\left(\\left[\\begin{array}{l}\n0 \\\\\n0 \\\\\n1\n\\end{array}\\right]\\right)=\\left[\\begin{array}{l}\n4 \\\\\na \\\\\n4\n\\end{array}\\right],\n\\]\n\nwhere $a$ is a real number. Which of the following statements are/is TRUE?\n\n(i) The linear transformation $T$ is one-to-one for every real value of $a$.\n\n(ii) The linear transformation is not onto for $a=2$.\n\n(iii) The standard matrix for the linear transformation $T$ (relative to the standard basis on $\\mathbb{R}^{3}$ ) has rank $3$ for all real numbers $a \\neq 2,8$.",
     "solution": [
-      1
+      3
     ],
     "answerChoices": [
       {
-        "id": "c25f8871-6141-49be-86d7-f51076a21707",
+        "id": "d6ffea2d-225c-4ca7-bd8d-5f7ffaf4531e",
         "index": 0,
-        "body": "$\\quad\\left[\\begin{array}{l}0 \\\\ 1 \\\\ 2\\end{array}\\right]$",
-        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "body": "(ii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
         "stats": {
-          "count": 5
+          "count": 371
         },
         "resources": []
       },
       {
-        "id": "0dc79bfd-301c-4092-86aa-58831d7aa81d",
+        "id": "20df955e-30ff-4181-ad69-0b95a5471680",
         "index": 1,
-        "body": "$\\quad\\left[\\begin{array}{ll}5 & 1 \\\\ 2 & 2\\end{array}\\right]$",
-        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "body": "(i) and (ii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
         "stats": {
-          "count": 729
+          "count": 170
         },
         "resources": []
       },
       {
-        "id": "d72f8b8a-3a31-4770-8c52-8112fac3bf7a",
+        "id": "56ca7e72-9e2c-47d4-ba13-fe2214340190",
         "index": 2,
-        "body": "$\\quad\\left[\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right]$",
-        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "body": "(iii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
         "stats": {
-          "count": 17
+          "count": 632
         },
         "resources": []
       },
       {
-        "id": "318b3180-8aa4-4171-9780-459d4239ef71",
+        "id": "72cd085e-2669-4970-9441-b721044c201d",
         "index": 3,
-        "body": "$\\quad\\left[\\begin{array}{cc}-1 & 0 \\\\ 2 & 1\\end{array}\\right]$",
-        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "body": "(ii) and (iii) only",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
         "stats": {
-          "count": 36
+          "count": 2020
         },
         "resources": []
       },
       {
-        "id": "1dfccb75-43e6-49b4-8ae6-cc1237658d0c",
+        "id": "19ff6962-b7f4-44a5-b134-b8180d599939",
         "index": 4,
-        "body": "$\\quad\\left[\\begin{array}{ll}-5 & -1 \\\\ -2 & -2\\end{array}\\right]$",
-        "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+        "body": "(i), (ii) and (iii)",
+        "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
         "stats": {
-          "count": 26
+          "count": 155
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 16,
   "disclaimer": "",
-  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
   "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "202632779",
-    "timeSpentVideo": "22097615",
-    "submissions": 982,
-    "submissionsCorrect": 729,
-    "accuracy": 0.7423625254582484,
-    "difficulty": 0.5300369685767098
+    "timeSpent": "1046198301",
+    "timeSpentVideo": "182735994",
+    "submissions": 3910,
+    "submissionsCorrect": 2020,
+    "accuracy": 0.5166240409207161,
+    "difficulty": 0.733790523690773
   },
   "resources": [],
   "exam": {
-    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
     "number": 0,
-    "year": 2018,
-    "season": "SPRING",
+    "year": 2019,
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "5616732096",
-      "timeSpentVideo": "1076104380",
-      "submissions": 33390,
-      "submissionsCorrect": 19864,
-      "questions": 20,
-      "accuracy": 0.5949086552860138,
-      "difficulty": 0.6553747387279785
+      "timeSpent": "16241215552",
+      "timeSpentVideo": "3262111232",
+      "submissions": 81218,
+      "submissionsCorrect": 44085,
+      "questions": 25,
+      "accuracy": 0.5427983944445812,
+      "difficulty": 0.7072542364544135
     }
   },
   "explanation": {
-    "id": "8d7f84b0-d459-4dd5-9a9c-1fd0b35bba74",
+    "id": "29d563ee-e01d-4948-a440-769216351dc2",
     "body": "",
-    "questionId": "8d711c2a-8771-495b-8722-20a315b92355",
+    "questionId": "2f8280e5-1254-4d53-ab02-e666aa5d23d7",
     "resources": [
       {
-        "id": "1b9fa85c-7834-41cb-aa6b-84829251b099",
+        "id": "c57c8d2b-7b64-4fc8-8fc4-2db89f164815",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/1qA9exO23-k?t=2262\r"
+          "url": "https://youtu.be/sLKVGcS9aJ8?si=KXtALIj0rydrCx0t"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "8d7f84b0-d459-4dd5-9a9c-1fd0b35bba74",
+        "explanationId": "29d563ee-e01d-4948-a440-769216351dc2",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -124,18 +124,78 @@
   },
   "topics": [
     {
+      "id": "43755b3a-60cc-4166-900b-500ac2b1fe52",
+      "name": "Standard Matrix",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "12116347557",
+        "timeSpentVideo": "1232278905",
+        "submissions": 23925,
+        "submissionsCorrect": 13572,
+        "questions": 7,
+        "accuracy": 0.5672727272727273,
+        "difficulty": 0.6830072840790843
+      }
+    },
+    {
+      "id": "4a23b0c6-54c3-4e25-bf7d-dbd4418231d5",
+      "name": "One-To-One Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "29941001108",
+        "timeSpentVideo": "2911201595",
+        "submissions": 62399,
+        "submissionsCorrect": 36436,
+        "questions": 11,
+        "accuracy": 0.5839196140963797,
+        "difficulty": 0.6662146594345509
+      }
+    },
+    {
+      "id": "8e39155e-e6f2-40e0-8f19-8a84d7b742c5",
+      "name": "Onto Transformations",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "5016467304",
+        "timeSpentVideo": "437373181",
+        "submissions": 9089,
+        "submissionsCorrect": 5283,
+        "questions": 2,
+        "accuracy": 0.581252062933216,
+        "difficulty": 0.6696321688975949
+      }
+    },
+    {
+      "id": "aa4f4fe2-ac18-4620-96a7-f303fa0ab3d9",
+      "name": "Rank",
+      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
+      "stats": {
+        "count": 1,
+        "timeSpent": "42350010680",
+        "timeSpentVideo": "5142475438",
+        "submissions": 93016,
+        "submissionsCorrect": 53847,
+        "questions": 16,
+        "accuracy": 0.5789004042315301,
+        "difficulty": 0.6711843292237639
+      }
+    },
+    {
       "id": "d99fef25-19a8-4233-a070-ff92a7824447",
       "name": "Linear Transformations",
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "37440604043",
-        "timeSpentVideo": "4696417936",
-        "submissions": 81693,
-        "submissionsCorrect": 43910,
-        "questions": 28,
-        "accuracy": 0.5375001530118859,
-        "difficulty": 0.7125456946193439
+        "timeSpent": "60455662441",
+        "timeSpentVideo": "6686127388",
+        "submissions": 124916,
+        "submissionsCorrect": 65944,
+        "questions": 27,
+        "accuracy": 0.5279067533382433,
+        "difficulty": 0.7221155692071415
       }
     }
   ],

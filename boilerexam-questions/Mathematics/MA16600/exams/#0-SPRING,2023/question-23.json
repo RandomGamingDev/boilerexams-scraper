@@ -1,0 +1,143 @@
+{
+  "id": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "The Alternating Series Test shows that:\n$\\sum_{k=1}^{\\infty} (-1)^k\\dfrac{1}{\\sqrt{7k}}$\nconverges to a value $S$. \n\nSet\n$S_N=\\sum_{k=1}^{N} (-1)^k\\dfrac{1}{\\sqrt{7k}}$.\n\nFind the smallest N, using The Estimation Theorem for Alternating Series, such that we can conclude\n$|S-S_N| < \\dfrac{1}{10^2}$.",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "b4112f63-93ec-4540-9d6e-c9dffb6c9c8a",
+        "index": 0,
+        "body": "1427",
+        "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "8f67c2e8-26f3-4c5a-a947-06a813a84c29",
+        "index": 1,
+        "body": "1428",
+        "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+        "stats": {
+          "count": 36
+        },
+        "resources": []
+      },
+      {
+        "id": "1ae274ec-170e-4ac3-a877-243a83bee785",
+        "index": 2,
+        "body": "1429",
+        "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+        "stats": {
+          "count": 4
+        },
+        "resources": []
+      },
+      {
+        "id": "74c08e32-dd12-489e-9f91-d20fea2a8749",
+        "index": 3,
+        "body": "100",
+        "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "70a849c1-258f-4c45-aabc-7887055cb96d",
+        "index": 4,
+        "body": "101",
+        "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 23,
+  "disclaimer": null,
+  "examId": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "6353979",
+    "timeSpentVideo": "1348842",
+    "submissions": 54,
+    "submissionsCorrect": 36,
+    "accuracy": 0.6666666666666666,
+    "difficulty": 0.6915584415584416
+  },
+  "resources": [],
+  "exam": {
+    "id": "cec9d5c8-89f0-4b87-aea6-fe7ed26ea8e6",
+    "number": 0,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "417195741",
+      "timeSpentVideo": "60027705",
+      "submissions": 2142,
+      "submissionsCorrect": 1289,
+      "questions": 25,
+      "accuracy": 0.6017740429505135,
+      "difficulty": 0.6527653880463872
+    }
+  },
+  "explanation": {
+    "id": "fa58ddda-2f15-4209-a4a8-67a102f48810",
+    "body": null,
+    "questionId": "21402e2f-8cb2-4c57-81ce-0c734e4a2115",
+    "resources": [
+      {
+        "id": "57bd94ba-050e-4141-a43d-aa34f934ec4b",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/ihvDItUvg9Y?si=Di2G6jOo5n9txvfk&t=10857"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fa58ddda-2f15-4209-a4a8-67a102f48810",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "70f1454c-1bb9-4c00-8db5-5b6d86fe6a16",
+      "name": "Alternating Series Estimation ",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "546166393",
+        "timeSpentVideo": "24502887",
+        "submissions": 840,
+        "submissionsCorrect": 478,
+        "questions": 3,
+        "accuracy": 0.569047619047619,
+        "difficulty": 0.6882978723404255
+      }
+    }
+  ],
+  "children": []
+}

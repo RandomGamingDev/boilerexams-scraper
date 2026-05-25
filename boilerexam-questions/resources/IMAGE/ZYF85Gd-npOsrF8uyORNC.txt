@@ -1,0 +1,31 @@
+This is a Cartesian coordinate system with a grid displayed.
+
+### 1. Axes and Scale
+*   **Horizontal Axis:** Labeled "$x$" at the far right. The scale ranges from -5 to 5, marked in integer increments.
+*   **Vertical Axis:** Labeled "$y$" at the top left. The scale ranges from -4 to 4, marked in integer increments.
+*   **Grid:** The background features a grid with major lines at integer values and minor grid lines dividing each unit into four equal segments (0.25 intervals).
+
+### 2. Plot Details
+The graph shows a piecewise-defined function consisting of three distinct parts:
+
+*   **Part 1 (Left Branch):**
+    *   Starts from the left at $x = -5$, with $y$ slightly above 0. 
+    *   The curve is concave down, increasing gradually as $x$ increases from -5 toward -2.
+    *   Approaches a vertical asymptote at $x = -2$ as it curves sharply downward toward negative infinity.
+
+*   **Part 2 (Middle Branch):**
+    *   Emerges from the top (positive infinity) near $x = -1.8$.
+    *   Curves downward and to the right, passing through the $y$-axis at $y = 0.25$ (approx).
+    *   Ends at an **open circle** located at coordinate **(1, 0)**.
+
+*   **Part 3 (Right Branch):**
+    *   Starts at a **closed circle** at coordinate **(1, 2)**.
+    *   Curves upward and to the right in a parabolic-like arc, reaching a peak at a **closed circle** at coordinate **(3, 3)**.
+    *   From (3, 3), the graph transitions to a downward-sloping linear segment, passing through (4, 2) and ending at the right edge of the graph at coordinate (5, 1).
+
+### 3. Key Geometric Features
+*   **Discontinuity at $x = 1$:** 
+    *   There is an open circle at $(1, 0)$.
+    *   There is a closed circle at $(1, 2)$, which represents the function value at $x = 1$.
+*   **Local Maximum:** There is a distinct "sharp" peak at coordinate $(3, 3)$.
+*   **Vertical Asymptote:** Located at $x = -2$.

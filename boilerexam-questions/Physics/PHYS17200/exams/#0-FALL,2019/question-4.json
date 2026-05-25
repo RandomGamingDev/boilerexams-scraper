@@ -2,12 +2,12 @@
   "id": "dc2d6304-e2bd-4e51-990c-1f5bf35a1d71",
   "type": "PARENT",
   "data": {
-    "body": "$\\textbf{(2 Parts)}$ A rotating uniform-density disk of radius, $\\textbf{R = 1.5 m}$ is mounted in the vertical plane, as shown. The axle is held up by supports that are not shown, and the disk is free to rotate on the nearly frictionless axle. The disk has mass, $\\textbf{M = 10.0 kg}$. A lump of clay of mass $\\textbf{m = 3.0 kg}$ falls and sticks to the outer edge of the wheel at location $\\boldsymbol{r}$ = $\\boldsymbol{< -1.20, 0.90, 0 > m}$, relative to an origin at the center of the axle. Just before the impact the clay has velocity, $\\boldsymbol{v}$ = $\\boldsymbol{<-6.0, 0, 0> m/s}$ and the disk is rotating clockwise with angular speed, $\\omega$ = $\\textbf{2.0 rad/s.}$  [Moment of Inertia of a disk is $I_{\\text{disk}}$ = $(1/2)MR^2$.]",
+    "body": "$\\textbf{(2 Parts)}$ A rotating uniform-density disk of radius, $\\textbf{R = 1.5 m}$ is mounted in the vertical plane, as shown. The axle is held up by supports that are not shown, and the disk is free to rotate on the nearly frictionless axle. The disk has mass, $\\textbf{M = 10.0 kg}$. A lump of clay of mass $\\textbf{m = 3.0 kg}$ falls and sticks to the outer edge of the wheel at location $\\boldsymbol{r}$ = $\\boldsymbol{< -1.20, 0.90, 0 > m}$, relative to an origin at the center of the axle. Just before the impact the clay has velocity, $\\boldsymbol{v}$ = $\\boldsymbol{<0, -6.0, 0> m/s}$ and the disk is rotating clockwise with angular speed, $\\omega$ = $\\textbf{2.0 rad/s.}$  [Moment of Inertia of a disk is $I_{\\text{disk}}$ = $(1/2)MR^2$.]",
     "numberingType": "UPPERCASE",
     "answerChoices": []
   },
   "number": 4,
-  "disclaimer": null,
+  "disclaimer": "The exam shows velocity being -6.0 m/s in the x direction. It should be in the y-direction as reflected by the given diagram.",
   "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
   "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
   "parentId": null,
@@ -18,12 +18,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "1568165",
-    "timeSpentVideo": "214217",
-    "submissions": 6,
-    "submissionsCorrect": 3,
-    "accuracy": 0.5,
-    "difficulty": 0.75
+    "timeSpent": "174710402",
+    "timeSpentVideo": "19186831",
+    "submissions": 511,
+    "submissionsCorrect": 312,
+    "accuracy": 0.6105675146771037,
+    "difficulty": 0.6575286415711947
   },
   "resources": [
     {
@@ -55,13 +55,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "86592155",
-      "timeSpentVideo": "20844357",
-      "submissions": 672,
-      "submissionsCorrect": 302,
+      "timeSpent": "2057773217",
+      "timeSpentVideo": "248326587",
+      "submissions": 14070,
+      "submissionsCorrect": 9365,
       "questions": 37,
-      "accuracy": 0.4494047619047619,
-      "difficulty": 0.794041450777202
+      "accuracy": 0.6656005685856432,
+      "difficulty": 0.5855681016231475
     }
   },
   "explanation": {
@@ -92,13 +92,13 @@
       "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
       "stats": {
         "count": 1,
-        "timeSpent": "39697332",
-        "timeSpentVideo": "5675444",
-        "submissions": 128,
-        "submissionsCorrect": 37,
-        "questions": 6,
-        "accuracy": 0.2890625,
-        "difficulty": 0.868421052631579
+        "timeSpent": "1762812913",
+        "timeSpentVideo": "82874333",
+        "submissions": 2930,
+        "submissionsCorrect": 1800,
+        "questions": 9,
+        "accuracy": 0.6143344709897611,
+        "difficulty": 0.6394389438943895
       }
     },
     {
@@ -107,13 +107,13 @@
       "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
       "stats": {
         "count": 1,
-        "timeSpent": "7282446",
-        "timeSpentVideo": "3879233",
-        "submissions": 29,
-        "submissionsCorrect": 16,
-        "questions": 5,
-        "accuracy": 0.5517241379310345,
-        "difficulty": 0.7383720930232558
+        "timeSpent": "1406356527",
+        "timeSpentVideo": "70210859",
+        "submissions": 2366,
+        "submissionsCorrect": 1543,
+        "questions": 6,
+        "accuracy": 0.6521555367709214,
+        "difficulty": 0.6040145985401459
       }
     }
   ],
@@ -133,7 +133,7 @@
             "body": "$< 0, 0, -0.90 >$ $kg \u22c5 \\frac{m^2} {s}$ ",
             "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
             "stats": {
-              "count": 3
+              "count": 289
             },
             "resources": []
           },
@@ -143,7 +143,7 @@
             "body": "$< 0, 0, -21.60 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
             "stats": {
-              "count": 1
+              "count": 43
             },
             "resources": []
           },
@@ -153,7 +153,7 @@
             "body": "$< 0, 0, 0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
             "stats": {
-              "count": 0
+              "count": 29
             },
             "resources": []
           },
@@ -163,7 +163,7 @@
             "body": "$< 0, 0, -22.50 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
             "stats": {
-              "count": 0
+              "count": 88
             },
             "resources": []
           },
@@ -173,7 +173,7 @@
             "body": "$< 0, 0, -44.10 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "5b303eb6-79ea-4c34-ac4f-36ebe8e29d24",
             "stats": {
-              "count": 1
+              "count": 48
             },
             "resources": []
           }
@@ -191,12 +191,12 @@
       },
       "stats": {
         "count": 1,
-        "timeSpent": "0",
+        "timeSpent": "5776709",
         "timeSpentVideo": "0",
-        "submissions": 5,
-        "submissionsCorrect": 3,
-        "accuracy": 0.6,
-        "difficulty": 0.7452380952380953
+        "submissions": 504,
+        "submissionsCorrect": 289,
+        "accuracy": 0.5734126984126984,
+        "difficulty": 0.6887417218543046
       },
       "resources": [],
       "exam": {
@@ -212,13 +212,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "86592155",
-          "timeSpentVideo": "20844357",
-          "submissions": 672,
-          "submissionsCorrect": 302,
+          "timeSpent": "2057773217",
+          "timeSpentVideo": "248326587",
+          "submissions": 14070,
+          "submissionsCorrect": 9365,
           "questions": 37,
-          "accuracy": 0.4494047619047619,
-          "difficulty": 0.794041450777202
+          "accuracy": 0.6656005685856432,
+          "difficulty": 0.5855681016231475
         }
       },
       "explanation": {
@@ -244,7 +244,7 @@
             "body": "$< 0, 0, 0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
             "stats": {
-              "count": 0
+              "count": 38
             },
             "resources": []
           },
@@ -254,7 +254,7 @@
             "body": "$< 0, 0, -0.90 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
             "stats": {
-              "count": 2
+              "count": 250
             },
             "resources": []
           },
@@ -264,7 +264,7 @@
             "body": "$< 0, 0, -21.60 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
             "stats": {
-              "count": 2
+              "count": 52
             },
             "resources": []
           },
@@ -274,7 +274,7 @@
             "body": "$< 0, 0, -22.50 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
             "stats": {
-              "count": 0
+              "count": 21
             },
             "resources": []
           },
@@ -284,7 +284,7 @@
             "body": "$< 0, 0, -44.10 >$ $kg \u22c5 \\frac{m^2} {s}$",
             "questionId": "d09ec554-232c-43d3-93e9-d164fe072503",
             "stats": {
-              "count": 1
+              "count": 47
             },
             "resources": []
           }
@@ -302,12 +302,12 @@
       },
       "stats": {
         "count": 1,
-        "timeSpent": "0",
-        "timeSpentVideo": "0",
-        "submissions": 5,
-        "submissionsCorrect": 2,
-        "accuracy": 0.4,
-        "difficulty": 0.7547619047619047
+        "timeSpent": "5854",
+        "timeSpentVideo": "5614",
+        "submissions": 415,
+        "submissionsCorrect": 250,
+        "accuracy": 0.6024096385542169,
+        "difficulty": 0.6674757281553398
       },
       "resources": [],
       "exam": {
@@ -323,13 +323,13 @@
         },
         "stats": {
           "count": 1,
-          "timeSpent": "86592155",
-          "timeSpentVideo": "20844357",
-          "submissions": 672,
-          "submissionsCorrect": 302,
+          "timeSpent": "2057773217",
+          "timeSpentVideo": "248326587",
+          "submissions": 14070,
+          "submissionsCorrect": 9365,
           "questions": 37,
-          "accuracy": 0.4494047619047619,
-          "difficulty": 0.794041450777202
+          "accuracy": 0.6656005685856432,
+          "difficulty": 0.5855681016231475
         }
       },
       "explanation": {

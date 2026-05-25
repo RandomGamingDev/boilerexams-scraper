@@ -1,59 +1,59 @@
 {
-  "id": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+  "id": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Compute the determinant of $A$, where\n\n\\[\nA=\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n2 & 5 & 4 & 2 \\\\\n0 & 0 & 0 & 2 \\\\\n0 & -3 & 0 & -4 \\\\\n1 & 0 & -1 & 1\n\\end{array}\\right]\\left[\\begin{array}{rrrr}\n1 & -3 & 0 & 0 \\\\\n2 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 2 \\\\\n0 & 0 & 2 & 1\n\\end{array}\\right]^{-1}\n\\]\n\n",
+    "body": "Find all real numbers $k$ such that the parallelogram with vertices\n\n\n\\[\n\\left[\\begin{array}{l}\n0 \\\\\n0\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n2 \\\\\nk\n\\end{array}\\right], \\quad\\left[\\begin{array}{l}\n4 \\\\\n5\n\\end{array}\\right], \\quad\\left[\\begin{array}{c}\n6 \\\\\nk+5\n\\end{array}\\right]\n\\]\n\nhas area $6$.",
     "solution": [
       4
     ],
     "answerChoices": [
       {
-        "id": "40bbae82-61d2-4b34-9198-06682d8a67b8",
+        "id": "b47368ac-79f5-495e-8338-b821aa1fa98a",
         "index": 0,
-        "body": "$\\operatorname{det}(A)=-36$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$k=-1$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
         "stats": {
-          "count": 160
+          "count": 72
         },
         "resources": []
       },
       {
-        "id": "9b8f9df9-914c-4b33-8b78-d9262f473ccc",
+        "id": "1fa6adc9-b46d-4d8d-b66a-5c32f028361b",
         "index": 1,
-        "body": "$\\operatorname{det}(A)=5$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$k=-1$ or $4$",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
         "stats": {
-          "count": 15
+          "count": 105
         },
         "resources": []
       },
       {
-        "id": "99ac9fb1-02ae-4b75-bf02-84d7fe69b81b",
+        "id": "ab5f26a7-796b-4f4c-9ddd-8619351b1fe6",
         "index": 2,
-        "body": "$\\operatorname{det}(A)=0$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$k=1$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
         "stats": {
-          "count": 147
+          "count": 583
         },
         "resources": []
       },
       {
-        "id": "e2ce08e4-2369-45d6-bd3b-9450bc35e6a4",
+        "id": "e972b494-bc43-436b-9251-9a604fa0794f",
         "index": 3,
-        "body": "$\\operatorname{det}(A)=-13$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$k=4$ only",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
         "stats": {
-          "count": 20
+          "count": 122
         },
         "resources": []
       },
       {
-        "id": "a369583d-97fc-4043-9601-cb6d29b1b57f",
+        "id": "92b61841-7e72-44fa-bc52-a6c758f2cd2d",
         "index": 4,
-        "body": "$\\operatorname{det}(A)=36$",
-        "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+        "body": "$k=1$ or $4$",
+        "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
         "stats": {
-          "count": 755
+          "count": 1291
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 7,
   "disclaimer": "",
-  "examId": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+  "examId": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
   "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "236626886",
-    "timeSpentVideo": "45194178",
-    "submissions": 1432,
-    "submissionsCorrect": 755,
-    "accuracy": 0.5272346368715084,
-    "difficulty": 0.7245430809399478
+    "timeSpent": "419615594",
+    "timeSpentVideo": "101508910",
+    "submissions": 2746,
+    "submissionsCorrect": 1291,
+    "accuracy": 0.47013838310269485,
+    "difficulty": 0.7788123682361209
   },
   "resources": [],
   "exam": {
-    "id": "683670bd-ff30-4aae-8af2-4adbd303e5d5",
+    "id": "e2ecc2a3-9185-4639-a0cd-3392b9e458c3",
     "number": 0,
-    "year": 2018,
-    "season": "SPRING",
+    "year": 2019,
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "5616732096",
-      "timeSpentVideo": "1076104380",
-      "submissions": 33390,
-      "submissionsCorrect": 19864,
-      "questions": 20,
-      "accuracy": 0.5949086552860138,
-      "difficulty": 0.6553747387279785
+      "timeSpent": "16241215552",
+      "timeSpentVideo": "3262111232",
+      "submissions": 81218,
+      "submissionsCorrect": 44085,
+      "questions": 25,
+      "accuracy": 0.5427983944445812,
+      "difficulty": 0.7072542364544135
     }
   },
   "explanation": {
-    "id": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+    "id": "61b892dd-f24a-4843-8744-22e4d39ddba9",
     "body": "",
-    "questionId": "3a715215-4561-4b70-af4f-b7d96c18e9c6",
+    "questionId": "cc61c21c-8def-4d7b-9f3e-4db3ded4afee",
     "resources": [
       {
-        "id": "3d302321-1a67-46f5-9ec3-fa40793f82c8",
+        "id": "dca294bd-436f-415e-9d9c-a56d4fc6ca74",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/1qA9exO23-k?t=884\r"
+          "url": "https://youtu.be/iu5R6jrVJ8M?list=PLEI0ZEo--fLxnufrdHKvJKMUXYvbZIkMw&t=1476"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "18f42c92-4544-40af-a78c-2e78cf0b23db",
+        "explanationId": "61b892dd-f24a-4843-8744-22e4d39ddba9",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -124,33 +124,18 @@
   },
   "topics": [
     {
-      "id": "2419c80b-f1bd-4e90-8084-ff59f3b4837b",
-      "name": "Inverses",
-      "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
-      "stats": {
-        "count": 1,
-        "timeSpent": "19253059750",
-        "timeSpentVideo": "1812823806",
-        "submissions": 41193,
-        "submissionsCorrect": 22451,
-        "questions": 17,
-        "accuracy": 0.5450197849149128,
-        "difficulty": 0.7050892403070739
-      }
-    },
-    {
       "id": "aa9b68e6-0937-4990-bf34-a9a440ddda3b",
       "name": "Determinant",
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "20944052113",
-        "timeSpentVideo": "2769695136",
-        "submissions": 55682,
-        "submissionsCorrect": 32300,
-        "questions": 19,
-        "accuracy": 0.5800797385151395,
-        "difficulty": 0.670063819870209
+        "timeSpent": "27057068299",
+        "timeSpentVideo": "3095877999",
+        "submissions": 69712,
+        "submissionsCorrect": 40730,
+        "questions": 16,
+        "accuracy": 0.5842609593757172,
+        "difficulty": 0.6658597375809316
       }
     }
   ],

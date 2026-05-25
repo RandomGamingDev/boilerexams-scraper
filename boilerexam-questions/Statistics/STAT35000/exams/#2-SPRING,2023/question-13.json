@@ -1,0 +1,647 @@
+{
+  "id": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+  "type": "PARENT",
+  "data": {
+    "body": "A box of cereal produced by company A is labelled to contain 20 ounces (oz.) of cereal (567 grams). The manufacturing machinery used by company A is old and it is feared that the boxes were not being filled properly. To understand the situation better, the company took a random sample of 50 boxes. The sample mean and sample standard deviation was found to be 19.96 oz. and 0.0901 oz. respectively. The R output of various tests is provided. Note that more information is provided than is needed to answer the questions.",
+    "numberingType": "LOWERCASE",
+    "answerChoices": []
+  },
+  "number": 13,
+  "disclaimer": "",
+  "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+  "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": true,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "32473560",
+    "timeSpentVideo": "21613245",
+    "submissions": 117,
+    "submissionsCorrect": 3,
+    "accuracy": 0.02564102564102564,
+    "difficulty": 1.0057603686635945
+  },
+  "resources": [
+    {
+      "id": "0de30ad0-02b8-4d5d-89a6-71377f8ab0d8",
+      "type": "CODE",
+      "data": {
+        "content": "Output 1\nt.test(cereal_data, conf.level=??, alternative = \"two.sided\", mu = 0)\nt = 1566.9, df = ??, p-value < 2.2e-16\n\nOutput 2\nt.test(cereal_data, conf.level=??, alternative = \"less\", mu = 0)\nt = 1566.9, df = ??, p-value = 1\n\nOutput 3\nt.test(cereal_data, conf.level=??, alternative = \"greater\", mu = 0)\nt = 1566.9, df = ??, p-value < 2.2e-16\n\nOutput 4\nt.test(cereal_data, conf.level=??, alternative = \"two.sided\", mu = 20)\nt = -2.7893, df = ??, p-value = 0.007501\n\nOutput 5\nt.test(cereal_data, conf.level=??, alternative = \"less\", mu = 20)\nt = -2.7893, df = ??, p-value = 0.003751\n\nOutput 6\nt.test(cereal_data, conf.level=??, alternative = \"greater\", mu = 20)\nt = -2.7893, df = ??, p-value = 0.9962\n\nOutput 7\n\n> qnorm(0.08, lower.tail = TRUE)\n[1] -1.405072\n\n> qt(0.08, df, lower.tail = TRUE)\n[1] -1.426726\n\n> qnorm(0.08, lower.tail = FALSE)\n[1] 1.405072\n\n> qt(0.08, df, lower.tail = FALSE)\n[1] 1.426726\n\n> qnorm(0.08/2, lower.tail = TRUE)\n[1] -1.750686\n\n> qt(0.08/2, df, lower.tail = TRUE)\n[1] -1.787758\n\n> qnorm(0.08/2, lower.tail = FALSE)\n[1] 1.750686\n\n> qt(0.08/2, df, lower.tail = FALSE)\n[1] 1.787758",
+        "language": "TEXT"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+    "number": 2,
+    "year": 2023,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+    "flags": {
+      "published": true,
+      "practice": true
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "713748950",
+      "timeSpentVideo": "190935944",
+      "submissions": 6759,
+      "submissionsCorrect": 3746,
+      "questions": 38,
+      "accuracy": 0.554223997632786,
+      "difficulty": 0.6965665548913836
+    }
+  },
+  "explanation": {
+    "id": "37375566-3834-4ddb-87a7-8546c0ec21af",
+    "body": "",
+    "questionId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+    "resources": [
+      {
+        "id": "e7abb6ce-e09d-471f-a2ad-eee87fa101db",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/rRDuaKnGF94?t=1481"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "37375566-3834-4ddb-87a7-8546c0ec21af",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "edb216e8-1697-4437-970b-15e01fb51638",
+      "name": "Hypothesis Test",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "stats": {
+        "count": 1,
+        "timeSpent": "569658031",
+        "timeSpentVideo": "70353004",
+        "submissions": 2324,
+        "submissionsCorrect": 1136,
+        "questions": 13,
+        "accuracy": 0.48881239242685026,
+        "difficulty": 0.7607260726072607
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "723d2eac-0aaa-43ac-8a1c-a7389a62fca9",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "Does the data provide any evidence that the true mean weight of the cereal boxes produced by company A is not 20 oz.? Perform the 4-step hypothesis test with \u03b1 = 0.08 using the provided information. Be sure to use at least 4 non-zero digits in the p-value. State which output from the data you used.",
+        "solution": "<b>Step 1: Specify the parameter of interest</b>\nLet $\\mu$ denote the population (or true) mean (or average) weight of the box of cereal.\n\n<b>Step 2: Specify the hypotheses</b>\n$H_0: \\mu=20$\n$H_\\alpha:\\mu\\neq 20$\n\n<b>Step 3: Obtain test statistic, df, and p-value</b>\nt_ts $ = -2.7893$\ndf $ = 50 \u2013 1 = 49$\np-value $ = 0.007501$\n\n<b>Step 4: Conclusion</b>\nReject $H_0$ because $0.007501 \\leq 0.08$\nThe data does support ($p = 0.007501$) the claim that the true mean weight of the box of cereal is not 20.",
+        "answerChoices": []
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "2963c857-1dd8-49bf-a244-d98fea4c1004",
+        "body": null,
+        "questionId": "723d2eac-0aaa-43ac-8a1c-a7389a62fca9",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "a3c488a7-475c-4e3b-9577-f5fc188d9a2c",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Should you use a confidence interval, lower confidence bound, or upper confidence bound to be consistent with part a)? Please explain your answer.",
+        "solution": [
+          0
+        ],
+        "answerChoices": [
+          {
+            "id": "893422c9-e64f-409d-8446-ebf6e2c5ccce",
+            "index": 0,
+            "body": "Confidence interval",
+            "questionId": "a3c488a7-475c-4e3b-9577-f5fc188d9a2c",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "d2bf976a-d4e8-4cbb-87ba-0812e9f0e69b",
+            "index": 1,
+            "body": "Lower confidence bound",
+            "questionId": "a3c488a7-475c-4e3b-9577-f5fc188d9a2c",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "2f1b99b9-a797-4bab-a866-7eb0a8a897d4",
+            "index": 2,
+            "body": "Upper confidence bound",
+            "questionId": "a3c488a7-475c-4e3b-9577-f5fc188d9a2c",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "ffb8bbfc-ef64-409a-ad6d-3d15d9571625",
+        "body": null,
+        "questionId": "a3c488a7-475c-4e3b-9577-f5fc188d9a2c",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "45e77162-afab-475d-8985-3f76a0fba3bb",
+      "type": "SHORT_ANSWER",
+      "data": {
+        "body": "Calculate the appropriate confidence level of the interval or bound. (Please enter as a decimal)",
+        "solution": "0.92",
+        "answerChoices": []
+      },
+      "number": 3,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "7b4ef678-b17e-43b5-9afb-8feb82db59c3",
+        "body": null,
+        "questionId": "45e77162-afab-475d-8985-3f76a0fba3bb",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "1c8dc26c-6b92-4621-8d44-c469df0b7cdf",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "If you stated an interval in part b), would you predict that the null value would be inside or outside of the calculated interval? If you stated a bound in part b), would you predict that the null value would be greater than or less than the calculated value? Please explain your answer.",
+        "solution": "The null value should be outside of the interval because the result of the hypothesis test is reject [the hypothesis test says that the value $\\neq$ 20]",
+        "answerChoices": []
+      },
+      "number": 4,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "7383dbfd-4b94-4b2c-b857-f859314c17f8",
+        "body": null,
+        "questionId": "1c8dc26c-6b92-4621-8d44-c469df0b7cdf",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "e6a9290f-2d43-46f2-8142-833e4f57590e",
+      "type": "SHORT_ANSWER",
+      "data": {
+        "body": "Write down the correct critical value for the confidence interval or bound in part b). No explanation is required. Please round to 3 decimal places.",
+        "solution": "1.788",
+        "answerChoices": []
+      },
+      "number": 5,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "9c40f37f-3359-4a51-bcb5-86aca33b61dd",
+        "body": null,
+        "questionId": "e6a9290f-2d43-46f2-8142-833e4f57590e",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "86c25ffd-484d-478e-961d-4c69ab9f4ea1",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "A statistician associated with company A argued that instead of using the sample standard deviation, they should use the population standard deviation known to be 0.10. Will the critical value change? Please explain your answer. If you state yes, also provide the new critical value.",
+        "solution": "The distribution changes from a t-distribution (standard deviation not known) to a z-distribution (known).\nNew critical value: $1.751$",
+        "answerChoices": []
+      },
+      "number": 6,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "d31fa3ae-fdf4-41c6-bafa-035a9f760cfd",
+        "body": null,
+        "questionId": "86c25ffd-484d-478e-961d-4c69ab9f4ea1",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "a0192b98-ac80-4f17-97c1-c83091134bca",
+      "type": "FREE_RESPONSE",
+      "data": {
+        "body": "What practical answer would you give to the company about whether the weight of the boxes have changed from 20 oz.? Box weights more than 0.001 oz. (0.03 gram) different from the stated weight will cause a problem for the company. The appropriate value from the confidence interval or bound is 19.99 oz. The sample mean is 19.96 oz. and the sample standard deviation is 0.0901 oz.",
+        "solution": "The difference is $20 \u2013 19.99 = 0.01$\nThe effect size is $0.01/0.0901 = 0.11$\nThe difference is large based on company standards. The effect size is small. The results are not practically important. Even though statistical significance was obtained and the difference is large the effect size is small indicating that the measured difference is not large in comparison to the variability.",
+        "answerChoices": []
+      },
+      "number": 7,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "f98b252e-97a3-4f29-b6f8-c67676ada9ac",
+        "body": null,
+        "questionId": "a0192b98-ac80-4f17-97c1-c83091134bca",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "92887cfb-5210-4e22-beba-536611273d69",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "Company B also produces a box of cereal weighing 20 oz. If someone wants to determine if the mean weight of cereal boxes produced by company A and B are different, what type of inference would you need to perform? Please explain your answer.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "db8bd054-a17f-4737-8499-4a7f833b629b",
+            "index": 0,
+            "body": "One-sample",
+            "questionId": "92887cfb-5210-4e22-beba-536611273d69",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "588e5ab8-c724-4f87-ba51-1c97ec66171d",
+            "index": 1,
+            "body": "Two-sample independent",
+            "questionId": "92887cfb-5210-4e22-beba-536611273d69",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "b212741d-2649-4865-a949-bf8ee685cf1f",
+            "index": 2,
+            "body": "Two-sample matched pair",
+            "questionId": "92887cfb-5210-4e22-beba-536611273d69",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          },
+          {
+            "id": "e6cf9017-43d3-4f3a-9fcd-d8c7f8ab7c79",
+            "index": 3,
+            "body": "None of the above",
+            "questionId": "92887cfb-5210-4e22-beba-536611273d69",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 8,
+      "disclaimer": null,
+      "examId": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+      "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+      "parentId": "3bec9dd8-8f4c-42ca-b528-f0fe1bd6396e",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 0,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 0,
+        "submissionsCorrect": 0,
+        "accuracy": 0,
+        "difficulty": 0.75
+      },
+      "resources": [],
+      "exam": {
+        "id": "6af81495-2440-45ee-a1d7-bb3ccd1d8137",
+        "number": 2,
+        "year": 2023,
+        "season": "SPRING",
+        "disclaimer": "",
+        "courseId": "8daac4e7-67b2-43f1-a575-31cc651b64af",
+        "flags": {
+          "published": true,
+          "practice": true
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "713748950",
+          "timeSpentVideo": "190935944",
+          "submissions": 6759,
+          "submissionsCorrect": 3746,
+          "questions": 38,
+          "accuracy": 0.554223997632786,
+          "difficulty": 0.6965665548913836
+        }
+      },
+      "explanation": {
+        "id": "27c80f50-2d31-4042-8338-e67914cf80a7",
+        "body": null,
+        "questionId": "92887cfb-5210-4e22-beba-536611273d69",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

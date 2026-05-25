@@ -13,7 +13,7 @@
         "body": "Yes. In this example, you can push numbers onto the stack until the top of the stack is the next desired number, upon which you pop+return the number.",
         "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
         "stats": {
-          "count": 116
+          "count": 118
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Yes. Even with these constrants, any sequence of numbers can be printed.",
         "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
         "stats": {
-          "count": 6
+          "count": 7
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "No. Only a sequence of \\texttt{6 5 4 3 2 1} can be printed due to how stacks work.",
         "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
         "stats": {
-          "count": 69
+          "count": 73
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "No. Due to having to pop $5$ before $4$, you can't pop $3$ before $4$.",
         "questionId": "a7522d90-f405-4004-85f5-370d3e5786c9",
         "stats": {
-          "count": 1184
+          "count": 1276
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "90759286",
-    "timeSpentVideo": "2099669",
-    "submissions": 1425,
-    "submissionsCorrect": 1184,
-    "accuracy": 0.8308771929824561,
-    "difficulty": 0.4408196721311476
+    "timeSpent": "96092491",
+    "timeSpentVideo": "2177152",
+    "submissions": 1525,
+    "submissionsCorrect": 1276,
+    "accuracy": 0.8367213114754098,
+    "difficulty": 0.43400000000000005
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "3642246196",
-      "timeSpentVideo": "361200476",
-      "submissions": 24845,
-      "submissionsCorrect": 16750,
+      "timeSpent": "3861776371",
+      "timeSpentVideo": "386619392",
+      "submissions": 26432,
+      "submissionsCorrect": 17840,
       "questions": 17,
-      "accuracy": 0.6741799154759509,
-      "difficulty": 0.5765183403487673
+      "accuracy": 0.6749394673123487,
+      "difficulty": 0.575719885421378
     }
   },
   "explanation": {
@@ -119,13 +119,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "1151593501",
-        "timeSpentVideo": "11735290",
-        "submissions": 3978,
-        "submissionsCorrect": 3164,
+        "timeSpent": "1206352471",
+        "timeSpentVideo": "11994288",
+        "submissions": 4275,
+        "submissionsCorrect": 3421,
         "questions": 3,
-        "accuracy": 0.7953745600804424,
-        "difficulty": 0.4618685630210888
+        "accuracy": 0.800233918128655,
+        "difficulty": 0.4566285714285714
       }
     }
   ],

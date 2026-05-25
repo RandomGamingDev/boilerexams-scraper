@@ -1,0 +1,143 @@
+{
+  "id": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Suppose $f(x, y, z) = xy^2z^3$, then $\\text{div}(\\vec{\\nabla}f)$ at $(2, -1, 1)$ is equal to:",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "2c10ad13-597c-4a62-8425-f021a5f4ab31",
+        "index": 0,
+        "body": "$8$",
+        "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "90ef2348-e6f4-4d68-b61a-0424b54e10df",
+        "index": 1,
+        "body": "$14$",
+        "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "80d524bc-cc68-4b0f-b4ff-ce2147add148",
+        "index": 2,
+        "body": "$16$",
+        "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+        "stats": {
+          "count": 703
+        },
+        "resources": []
+      },
+      {
+        "id": "27e370ff-3109-4fdd-8b5b-738074213637",
+        "index": 3,
+        "body": "$10$",
+        "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "79718bd0-2ee8-42e2-bff2-a3b9bc3677ea",
+        "index": 4,
+        "body": "$12$",
+        "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+        "stats": {
+          "count": 24
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "e01bdb62-231a-4929-9024-429df01e359a",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "196031600",
+    "timeSpentVideo": "9578964",
+    "submissions": 998,
+    "submissionsCorrect": 703,
+    "accuracy": 0.7044088176352705,
+    "difficulty": 0.5642076502732241
+  },
+  "resources": [],
+  "exam": {
+    "id": "e01bdb62-231a-4929-9024-429df01e359a",
+    "number": 2,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3222120027",
+      "timeSpentVideo": "274371156",
+      "submissions": 12688,
+      "submissionsCorrect": 8147,
+      "questions": 12,
+      "accuracy": 0.6421027742749055,
+      "difficulty": 0.6090084454175789
+    }
+  },
+  "explanation": {
+    "id": "39640d70-0970-423d-bda9-43426b9f66fb",
+    "body": "The expression $\\text{div}(\\vec{\\nabla}f)$ is the Laplacian, denoted as $\\nabla^2 f$, which is the sum of the second partial derivatives:$$\\nabla^2 f = \\frac{\\partial^2 f}{\\partial x^2} + \\frac{\\partial^2 f}{\\partial y^2} + \\frac{\\partial^2 f}{\\partial z^2}$$",
+    "questionId": "e044bc47-4d0e-4cf9-a40c-580aabf4b76f",
+    "resources": [
+      {
+        "id": "2544d489-f5f9-4569-a2e0-1bf6deea64c4",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/Ok10cEt_Ses?t=1536"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "39640d70-0970-423d-bda9-43426b9f66fb",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e0bcaee-e681-4b2f-9f27-2b44a04fe888",
+      "name": "Divergence  and Curl",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "15699330134",
+        "timeSpentVideo": "1607506810",
+        "submissions": 42114,
+        "submissionsCorrect": 24202,
+        "questions": 8,
+        "accuracy": 0.5746782542622406,
+        "difficulty": 0.6754986497370541
+      }
+    }
+  ],
+  "children": []
+}

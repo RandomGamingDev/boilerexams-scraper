@@ -4,7 +4,8 @@
   "data": {
     "body": "In the following subquestions, we define the following to be true:\n\\[\nf(n) \\in O(g(n))\\\\\ng(n) \\in \\Omega(h(n))\\\\\nf(n) \\in \\Omega(h(n))\n\\]\nWhich of the following must necessarily also be true?\n",
     "solution": [
-      3
+      3,
+      2
     ],
     "answerChoices": [
       {
@@ -13,7 +14,7 @@
         "body": "$f(n) \\in \\Theta(h(n))$",
         "questionId": "9ba8969a-11cb-49a4-b2f3-d31eecf9e0ee",
         "stats": {
-          "count": 64
+          "count": 70
         },
         "resources": []
       },
@@ -23,7 +24,7 @@
         "body": "$g(n) \\in O(f(n))$",
         "questionId": "9ba8969a-11cb-49a4-b2f3-d31eecf9e0ee",
         "stats": {
-          "count": 44
+          "count": 51
         },
         "resources": []
       },
@@ -33,7 +34,7 @@
         "body": "$f(n) + g(n) + h(n) \\in \\Theta(g(n))$",
         "questionId": "9ba8969a-11cb-49a4-b2f3-d31eecf9e0ee",
         "stats": {
-          "count": 158
+          "count": 176
         },
         "resources": []
       },
@@ -43,7 +44,7 @@
         "body": "$g(n) \\in \\Omega(f(n))$",
         "questionId": "9ba8969a-11cb-49a4-b2f3-d31eecf9e0ee",
         "stats": {
-          "count": 768
+          "count": 836
         },
         "resources": []
       }
@@ -61,12 +62,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "126419062",
+    "timeSpent": "134258266",
     "timeSpentVideo": "0",
-    "submissions": 1091,
-    "submissionsCorrect": 802,
-    "accuracy": 0.7351054078826764,
-    "difficulty": 0.5346347607052897
+    "submissions": 1181,
+    "submissionsCorrect": 871,
+    "accuracy": 0.7375105842506351,
+    "difficulty": 0.5310304449648712
   },
   "resources": [],
   "exam": {
@@ -82,13 +83,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "2763789778",
+      "timeSpent": "3005239128",
       "timeSpentVideo": "0",
-      "submissions": 17474,
-      "submissionsCorrect": 15215,
+      "submissions": 19007,
+      "submissionsCorrect": 16607,
       "questions": 25,
-      "accuracy": 0.8707222158635687,
-      "difficulty": 0.3813872766587003
+      "accuracy": 0.8737307307833956,
+      "difficulty": 0.37822525775893656
     }
   },
   "explanation": {
@@ -104,13 +105,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "4563369111",
-        "timeSpentVideo": "88611608",
-        "submissions": 13895,
-        "submissionsCorrect": 10677,
+        "timeSpent": "4926925146",
+        "timeSpentVideo": "97528877",
+        "submissions": 15093,
+        "submissionsCorrect": 11595,
         "questions": 12,
-        "accuracy": 0.7684059014033825,
-        "difficulty": 0.48351196856020007
+        "accuracy": 0.7682369310276287,
+        "difficulty": 0.48352859869676823
       }
     },
     {
@@ -119,13 +120,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "10975892568",
-        "timeSpentVideo": "225763555",
-        "submissions": 30123,
-        "submissionsCorrect": 22481,
+        "timeSpent": "11688037899",
+        "timeSpentVideo": "244022207",
+        "submissions": 32930,
+        "submissionsCorrect": 24596,
         "questions": 22,
-        "accuracy": 0.7463068087507885,
-        "difficulty": 0.5045081560401019
+        "accuracy": 0.7469177042210751,
+        "difficulty": 0.5038298516500151
       }
     }
   ],

@@ -1,0 +1,153 @@
+{
+  "id": "f4fcb683-d795-44d6-9ac2-979454484e67",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Given $f(x)=\\begin{cases} \\sqrt{x-1} & \\space x<0 \\\\ x & \\space 0\\le x < 4 \\\\ x^2 - 9 \n& \\space x > 4 \\end{cases} \\\\ $ Find the domain of $f(x)$",
+    "solution": [
+      3
+    ],
+    "answerChoices": [
+      {
+        "id": "355e05f2-acea-4bd7-8c19-042f7f0994ee",
+        "index": 0,
+        "body": "[-1,1]",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 1
+        },
+        "resources": []
+      },
+      {
+        "id": "c3863537-0c58-41c2-bab0-ba5b25e74c41",
+        "index": 1,
+        "body": "$(-\\infty,0)\\cup(0,4)\\cup(4,\\infty)$",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "6ed1efa2-6530-4c9e-af50-1cbdb8c10af8",
+        "index": 2,
+        "body": "$[0,\\infty)$",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 9
+        },
+        "resources": []
+      },
+      {
+        "id": "d599deb3-b9b7-4b24-96a3-9b4f684911c2",
+        "index": 3,
+        "body": "$[0,4)\\cup(4,\\infty)$",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 62
+        },
+        "resources": []
+      },
+      {
+        "id": "ed4fde6b-50bc-4dd2-975e-3657b7962115",
+        "index": 4,
+        "body": "$[1,\\infty)$",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "51b767b9-98cd-47c4-95b0-f12084805725",
+        "index": 5,
+        "body": "$(-\\infty,\\infty)$",
+        "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 11,
+  "disclaimer": "There is a typo in the answer choices for this question. See explanation for more information.",
+  "examId": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+  "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "13083383",
+    "timeSpentVideo": "2859418",
+    "submissions": 159,
+    "submissionsCorrect": 62,
+    "accuracy": 0.389937106918239,
+    "difficulty": 0.8175675675675675
+  },
+  "resources": [],
+  "exam": {
+    "id": "d5543027-c406-4605-b2d9-cd43eecf6ae4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "380776244",
+      "timeSpentVideo": "45560993",
+      "submissions": 2520,
+      "submissionsCorrect": 1649,
+      "questions": 15,
+      "accuracy": 0.6543650793650794,
+      "difficulty": 0.601526717557252
+    }
+  },
+  "explanation": {
+    "id": "e2a9a43b-dc80-4009-855d-d9b65f8bacb9",
+    "body": "Dr. Chen has confirmed that there is a typo in the provided answer choices rendering this question impossible. While the answer is in fact answer choice D, the answer choice itself should be $[0,4)\\cup(4,\\infty)$. This correction has been applied to the answer choices on this question through Boilerexams.",
+    "questionId": "f4fcb683-d795-44d6-9ac2-979454484e67",
+    "resources": [
+      {
+        "id": "3fef53e8-8136-4f5a-8097-261b1db18a3e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=qxpSCDu5Yuo&t=2482s"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "e2a9a43b-dc80-4009-855d-d9b65f8bacb9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "79b190ac-ad34-4b96-9aed-84c13e8f64c7",
+      "name": "Piecewise-defined Functions",
+      "courseId": "cb59f0bd-bbc3-4d92-bd9c-6bae411f3fc4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "69361169",
+        "timeSpentVideo": "3852422",
+        "submissions": 298,
+        "submissionsCorrect": 180,
+        "questions": 2,
+        "accuracy": 0.6040268456375839,
+        "difficulty": 0.6721105527638191
+      }
+    }
+  ],
+  "children": []
+}

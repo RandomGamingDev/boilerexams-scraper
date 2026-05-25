@@ -1,67 +1,14 @@
 {
-  "id": "3bd06c6d-b426-470c-8b37-d6374872b770",
-  "type": "MULTIPLE_CHOICE",
+  "id": "98a85437-cdfd-418c-bf26-3982e52f39fa",
+  "type": "PARENT",
   "data": {
-    "body": "A disk of radius $\\textbf{R = 0.25 m}$ and mass $\\textbf{M = 100 kg}$ is mounted on a nearly frictionless axle. The disk is initially at rest. A string is wrapped lightly around the disk, and you pull on the string with a constant force $\\textbf{F = 100 N}$\n\nWhat is the $\\textbf{angular speed}$, $\\omega_f$ after a time interval $\\triangle t$ = $\\textbf{2.0 s}$? Note: Moment of inertia of a disk $I = (1/2)MR^2$.",
-    "solution": [
-      2
-    ],
-    "answerChoices": [
-      {
-        "id": "7230da4a-a353-4011-83ac-45d5e207b670",
-        "index": 0,
-        "body": "$8$ rad/s",
-        "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-        "stats": {
-          "count": 1
-        },
-        "resources": []
-      },
-      {
-        "id": "75837972-dd6b-429c-b133-ccd1c1581df8",
-        "index": 1,
-        "body": "$64$ rad/s",
-        "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-        "stats": {
-          "count": 3
-        },
-        "resources": []
-      },
-      {
-        "id": "c23144bb-dce1-4599-ae8c-78bfe22e14a0",
-        "index": 2,
-        "body": "$16$ rad/s",
-        "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-        "stats": {
-          "count": 6
-        },
-        "resources": []
-      },
-      {
-        "id": "765643e4-ce07-47c4-a4b9-fc6052c16ed5",
-        "index": 3,
-        "body": "$32$ rad/s",
-        "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-        "stats": {
-          "count": 2
-        },
-        "resources": []
-      },
-      {
-        "id": "e147a27b-de4b-4730-9d58-405d640d4b61",
-        "index": 4,
-        "body": "None of the above",
-        "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-        "stats": {
-          "count": 2
-        },
-        "resources": []
-      }
-    ]
+    "body": "Below we show a simplified model of a person's leg in cast that is pulled up by a sling. The leg and cast together is the system that is modeled as a rigid, uniform rod of mass \\textbf{m = 34 kg} and length \\textbf{L = 0.8 m} is attached to the body at a hinge at point \\textbf{A}. The leg and cast are lifted by the sling that exerts a vertical force of magnitude, \\textbf{F} which is applied at a distance, \\textbf{d = 0.56 m} from the 'hinge', to hold the leg at an angle $\\mathbf{\\theta}$ = $65^\\circ$ above the horizontal. Magnitude of acceleration due to gravity is $\\mathbf{g = 10   m/s^2}$.",
+    "numberingType": "NUMBER",
+    "answerChoices": []
   },
   "number": 16,
   "disclaimer": null,
-  "examId": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+  "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
   "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
   "parentId": null,
   "flags": {
@@ -71,24 +18,24 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "4101452",
-    "timeSpentVideo": "437848",
-    "submissions": 25,
-    "submissionsCorrect": 6,
-    "accuracy": 0.24,
-    "difficulty": 0.802
+    "timeSpent": "41200333",
+    "timeSpentVideo": "0",
+    "submissions": 95,
+    "submissionsCorrect": 59,
+    "accuracy": 0.6210526315789474,
+    "difficulty": 0.691025641025641
   },
   "resources": [
     {
-      "id": "2b2bdee4-3c18-4c39-bc1f-bd523857c9ec",
+      "id": "7e7f7ebe-7d66-4bc0-81a9-c6378d9956a9",
       "type": "IMAGE",
       "data": {
-        "key": "iSKYTVIK2uYdeAz9B9M27",
-        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/iSKYTVIK2uYdeAz9B9M27"
+        "key": "tYjLzZ1xycofly_Oq5zzU",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/tYjLzZ1xycofly_Oq5zzU"
       },
       "courseId": null,
       "examId": null,
-      "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
+      "questionId": "98a85437-cdfd-418c-bf26-3982e52f39fa",
       "explanationId": null,
       "applicationId": null,
       "answerChoiceId": null,
@@ -96,9 +43,9 @@
     }
   ],
   "exam": {
-    "id": "7771fd76-b4b9-4b37-8c96-c7963b167fdc",
+    "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
     "number": 0,
-    "year": 2019,
+    "year": 2023,
     "season": "FALL",
     "disclaimer": "",
     "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
@@ -108,65 +55,50 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "86592155",
-      "timeSpentVideo": "20844357",
-      "submissions": 672,
-      "submissionsCorrect": 302,
-      "questions": 37,
-      "accuracy": 0.4494047619047619,
-      "difficulty": 0.794041450777202
+      "timeSpent": "964550750",
+      "timeSpentVideo": "2649206",
+      "submissions": 6343,
+      "submissionsCorrect": 4188,
+      "questions": 43,
+      "accuracy": 0.6602553996531609,
+      "difficulty": 0.5922318795592115
     }
   },
   "explanation": {
-    "id": "7db93d55-7882-4395-87b8-557b2525229c",
+    "id": "c8c2b23f-4938-4e7c-a9ac-6d793e2e4be4",
     "body": null,
-    "questionId": "3bd06c6d-b426-470c-8b37-d6374872b770",
-    "resources": [
-      {
-        "id": "2c3fde8a-bc77-4007-a161-9ff42b1fac38",
-        "type": "VIDEO",
-        "data": {
-          "url": "https://youtu.be/lc0wYjy5LhA?t=4673"
-        },
-        "courseId": null,
-        "examId": null,
-        "questionId": null,
-        "explanationId": "7db93d55-7882-4395-87b8-557b2525229c",
-        "applicationId": null,
-        "answerChoiceId": null,
-        "customExamId": null
-      }
-    ]
+    "questionId": "98a85437-cdfd-418c-bf26-3982e52f39fa",
+    "resources": []
   },
   "topics": [
-    {
-      "id": "30e60c20-993c-45bc-9151-02ada3d512a7",
-      "name": "Time Update",
-      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
-      "stats": {
-        "count": 1,
-        "timeSpent": "6274328898",
-        "timeSpentVideo": "351357154",
-        "submissions": 18967,
-        "submissionsCorrect": 14125,
-        "questions": 9,
-        "accuracy": 0.7447145041387674,
-        "difficulty": 0.5065689411024282
-      }
-    },
     {
       "id": "c23bfd37-1f6d-43f8-97be-268b8541f2db",
       "name": "Angular acceleration",
       "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
       "stats": {
         "count": 1,
-        "timeSpent": "5520320",
-        "timeSpentVideo": "1236252",
-        "submissions": 41,
-        "submissionsCorrect": 15,
-        "questions": 5,
-        "accuracy": 0.36585365853658536,
-        "difficulty": 0.7890070921985816
+        "timeSpent": "1491423083",
+        "timeSpentVideo": "38174411",
+        "submissions": 2472,
+        "submissionsCorrect": 1658,
+        "questions": 10,
+        "accuracy": 0.6707119741100324,
+        "difficulty": 0.5859253499222395
+      }
+    },
+    {
+      "id": "cfd0b704-ab90-402e-97c3-9fb689e7e97f",
+      "name": "Static Equilibrium",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1466738255",
+        "timeSpentVideo": "60044980",
+        "submissions": 2662,
+        "submissionsCorrect": 1805,
+        "questions": 10,
+        "accuracy": 0.678061607813674,
+        "difficulty": 0.5783852280955829
       }
     },
     {
@@ -175,15 +107,238 @@
       "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
       "stats": {
         "count": 1,
-        "timeSpent": "25239851",
-        "timeSpentVideo": "6016165",
-        "submissions": 138,
-        "submissionsCorrect": 72,
-        "questions": 12,
-        "accuracy": 0.5217391304347826,
-        "difficulty": 0.7373949579831933
+        "timeSpent": "2682382939",
+        "timeSpentVideo": "101689315",
+        "submissions": 5032,
+        "submissionsCorrect": 3347,
+        "questions": 19,
+        "accuracy": 0.6651430842607313,
+        "difficulty": 0.588074824629774
       }
     }
   ],
-  "children": []
+  "children": [
+    {
+      "id": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part A:} What is the magnitude of the vertical force, \\textbf{F} that is required to maintain the leg in this position?",
+        "solution": [
+          4
+        ],
+        "answerChoices": [
+          {
+            "id": "755acff8-c137-4296-b5c9-7723b2407323",
+            "index": 0,
+            "body": "170.00 N",
+            "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+            "stats": {
+              "count": 1
+            },
+            "resources": []
+          },
+          {
+            "id": "6ff985bc-d21a-490d-9f31-0933f9ab262a",
+            "index": 1,
+            "body": "340.00 N",
+            "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+            "stats": {
+              "count": 9
+            },
+            "resources": []
+          },
+          {
+            "id": "6d66812e-c6a6-4237-834f-21249feb170d",
+            "index": 2,
+            "body": "145.06 N",
+            "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+            "stats": {
+              "count": 2
+            },
+            "resources": []
+          },
+          {
+            "id": "005564f2-d3de-49be-8428-aa8fad191399",
+            "index": 3,
+            "body": "307.50 N",
+            "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+            "stats": {
+              "count": 5
+            },
+            "resources": []
+          },
+          {
+            "id": "edebcb91-3985-43be-99dc-f8b2d4b27501",
+            "index": 4,
+            "body": "242.86 N",
+            "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+            "stats": {
+              "count": 85
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "98a85437-cdfd-418c-bf26-3982e52f39fa",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "32029",
+        "timeSpentVideo": "0",
+        "submissions": 104,
+        "submissionsCorrect": 85,
+        "accuracy": 0.8173076923076923,
+        "difficulty": 0.5882352941176471
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "f16bdd80-8f89-4326-99f7-04ec7e223c31",
+        "body": null,
+        "questionId": "55fda06a-2798-459f-a77f-b0da6cab3a23",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "\\textbf{Part B:} If the sling holding the leg up suddenly breaks, what will be the initial \\textbf{angular acceleration} of the system about the hinge at point \\textbf{A}? Note: The moment of inertia of a rod about it's center of mass $I = \\frac{1}{12}mL^2$. You may need to use the parallel axis theorem.",
+        "solution": [
+          4
+        ],
+        "answerChoices": [
+          {
+            "id": "0034cc5b-b94d-4b42-a625-24d0fa206cdc",
+            "index": 0,
+            "body": "$< 0, 0, -16.97>$ rad/s$^2$",
+            "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+            "stats": {
+              "count": 16
+            },
+            "resources": []
+          },
+          {
+            "id": "d5841e22-4546-4db2-b455-f5f423f7ee39",
+            "index": 1,
+            "body": "$< 0, 0, -16.01>$ rad/s$^2$",
+            "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "35374f9b-7ffa-4f79-be65-27a3e074c7ca",
+            "index": 2,
+            "body": "$< 0, 0, -75.14>$ rad/s$^2$",
+            "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "7f7c4dbe-a86e-4035-bf9d-dbf07aeba6c8",
+            "index": 3,
+            "body": "$< 0, 0, -32.06>$ rad/s$^2$",
+            "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+            "stats": {
+              "count": 7
+            },
+            "resources": []
+          },
+          {
+            "id": "a44335e1-942c-4cb8-a83e-130e7ce01bd5",
+            "index": 4,
+            "body": "$< 0, 0, -8.00>$ rad/s$^2$",
+            "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+            "stats": {
+              "count": 52
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "98a85437-cdfd-418c-bf26-3982e52f39fa",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "0",
+        "timeSpentVideo": "0",
+        "submissions": 87,
+        "submissionsCorrect": 52,
+        "accuracy": 0.5977011494252874,
+        "difficulty": 0.7045454545454546
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "32ae217f-1eb9-4337-8d89-b744484cc7ab",
+        "body": null,
+        "questionId": "58957385-c31d-4fe2-adb8-15aa6e852a5a",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
 }

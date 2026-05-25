@@ -1,0 +1,329 @@
+{
+  "id": "f6b33d09-f2d2-47af-b184-f80b26c8a8d8",
+  "type": "PARENT",
+  "data": {
+    "body": " A ball of mass, m = 2 kg is falling straight down. At the instant shown, it is at height, h = 8 m above the ground and has vertically downward speed, v = 5 m/s.\n",
+    "numberingType": "NUMBER",
+    "answerChoices": []
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+  "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "28189634",
+    "timeSpentVideo": "0",
+    "submissions": 102,
+    "submissionsCorrect": 61,
+    "accuracy": 0.5980392156862745,
+    "difficulty": 0.7004950495049505
+  },
+  "resources": [
+    {
+      "id": "2c5c37fc-0a1d-4b9d-b314-a4c7e942d87c",
+      "type": "IMAGE",
+      "data": {
+        "key": "1UPYRT_zWerMiKnqxqIPQ",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/1UPYRT_zWerMiKnqxqIPQ"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "f6b33d09-f2d2-47af-b184-f80b26c8a8d8",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+    "number": 0,
+    "year": 2023,
+    "season": "FALL",
+    "disclaimer": "",
+    "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "964550750",
+      "timeSpentVideo": "2649206",
+      "submissions": 6343,
+      "submissionsCorrect": 4188,
+      "questions": 43,
+      "accuracy": 0.6602553996531609,
+      "difficulty": 0.5922318795592115
+    }
+  },
+  "explanation": {
+    "id": "de511d7c-8ea8-4993-be77-2c66305668fc",
+    "body": null,
+    "questionId": "f6b33d09-f2d2-47af-b184-f80b26c8a8d8",
+    "resources": []
+  },
+  "topics": [
+    {
+      "id": "e0154279-7a84-44cb-9665-55f48e6e2730",
+      "name": "Angular Momentum",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1406356527",
+        "timeSpentVideo": "70210859",
+        "submissions": 2366,
+        "submissionsCorrect": 1543,
+        "questions": 6,
+        "accuracy": 0.6521555367709214,
+        "difficulty": 0.6040145985401459
+      }
+    },
+    {
+      "id": "f52077cb-e91a-4129-bdf2-adc24c6c8d58",
+      "name": "Torque",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "stats": {
+        "count": 1,
+        "timeSpent": "2682382939",
+        "timeSpentVideo": "101689315",
+        "submissions": 5032,
+        "submissionsCorrect": 3347,
+        "questions": 19,
+        "accuracy": 0.6651430842607313,
+        "difficulty": 0.588074824629774
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "31eb528a-e353-480b-81bb-c4bed0275c95",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "At the instant of time, what is the $\\textbf{translational angular momentum}$, $\\vec{L}_{trans, P}$ of the ball $\\textbf{relative to the point P}$ with the position vector, $\\vec{r}_{P}$ = $\\boldsymbol{<-4, 0, 0> m}$ as shown in the figure.",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "6256086b-859e-42c6-bdf2-10efe176e0bd",
+            "index": 0,
+            "body": "${< 0,0,-89.40> kg \u22c5 m^2 / s}$",
+            "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+            "stats": {
+              "count": 6
+            },
+            "resources": []
+          },
+          {
+            "id": "5f16c8a1-1f20-4b77-a577-d456aa5c9116",
+            "index": 1,
+            "body": "${< 0,0,-40.00> kg \u22c5 m^2 / s}$",
+            "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+            "stats": {
+              "count": 85
+            },
+            "resources": []
+          },
+          {
+            "id": "cf493c06-c318-4dc8-bb48-115681900a56",
+            "index": 2,
+            "body": "${< 0,0,40.00> kg \u22c5 m^2 / s}$",
+            "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+            "stats": {
+              "count": 19
+            },
+            "resources": []
+          },
+          {
+            "id": "8356b759-ea18-4d81-9615-56a7277e75a6",
+            "index": 3,
+            "body": "${< 0,0,-80.00> kg \u22c5 m^2 / s}$",
+            "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+            "stats": {
+              "count": 10
+            },
+            "resources": []
+          },
+          {
+            "id": "1696c7f4-d149-4fbd-8e5e-06d98c03b9de",
+            "index": 4,
+            "body": "None of these",
+            "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+            "stats": {
+              "count": 0
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 1,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "f6b33d09-f2d2-47af-b184-f80b26c8a8d8",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "591927",
+        "timeSpentVideo": "0",
+        "submissions": 121,
+        "submissionsCorrect": 85,
+        "accuracy": 0.7024793388429752,
+        "difficulty": 0.6391402714932126
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "570e68f0-8f66-4a58-adc2-0266e62cec6f",
+        "body": null,
+        "questionId": "31eb528a-e353-480b-81bb-c4bed0275c95",
+        "resources": []
+      },
+      "topics": []
+    },
+    {
+      "id": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+      "type": "MULTIPLE_CHOICE",
+      "data": {
+        "body": "At the instant considered in the preceding problem what is, $\\frac{\\vec{L}_{trans,P}} {dt}$, the $\\textbf{rate of change of the ball's translational angular momentum}$ about point $\\textbf{P}$?\n\n[Use acceleration due to gravity, $g = 10$ $m/s^2$]",
+        "solution": [
+          1
+        ],
+        "answerChoices": [
+          {
+            "id": "8d95dfad-770e-4e43-84ed-a46d0d598f68",
+            "index": 0,
+            "body": "${< 0,0, -178.80> kg \u22c5 m^2 / s}$",
+            "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "4db319cd-5f1e-4012-be31-d8aa1b309742",
+            "index": 1,
+            "body": "${< 0,0, -80.00> kg \u22c5 m^2 / s}$",
+            "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+            "stats": {
+              "count": 75
+            },
+            "resources": []
+          },
+          {
+            "id": "a5df8be9-3a84-4ae7-9c9c-74175acdfc45",
+            "index": 2,
+            "body": "${< 0,0, 80.00> kg \u22c5 m^2 / s}$",
+            "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+            "stats": {
+              "count": 19
+            },
+            "resources": []
+          },
+          {
+            "id": "cd60169e-e072-4a6d-b9d2-682bab675021",
+            "index": 3,
+            "body": "None of the above",
+            "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+            "stats": {
+              "count": 3
+            },
+            "resources": []
+          },
+          {
+            "id": "e514cf7c-10a0-4225-b64c-78b5e77fabab",
+            "index": 4,
+            "body": "${< 0,0, -160.00> kg \u22c5 m^2 / s}$",
+            "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+            "stats": {
+              "count": 5
+            },
+            "resources": []
+          }
+        ]
+      },
+      "number": 2,
+      "disclaimer": null,
+      "examId": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+      "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+      "parentId": "f6b33d09-f2d2-47af-b184-f80b26c8a8d8",
+      "flags": {
+        "published": true,
+        "disableRandomAnswers": false,
+        "answersStartHidden": false
+      },
+      "stats": {
+        "count": 1,
+        "timeSpent": "4019",
+        "timeSpentVideo": "0",
+        "submissions": 106,
+        "submissionsCorrect": 75,
+        "accuracy": 0.7075471698113207,
+        "difficulty": 0.6432038834951457
+      },
+      "resources": [],
+      "exam": {
+        "id": "c4abb6be-62c1-479e-aea4-b67c251dbf45",
+        "number": 0,
+        "year": 2023,
+        "season": "FALL",
+        "disclaimer": "",
+        "courseId": "3f668ccb-d36a-4244-84c6-dc211bb934d3",
+        "flags": {
+          "published": true,
+          "practice": false
+        },
+        "stats": {
+          "count": 1,
+          "timeSpent": "964550750",
+          "timeSpentVideo": "2649206",
+          "submissions": 6343,
+          "submissionsCorrect": 4188,
+          "questions": 43,
+          "accuracy": 0.6602553996531609,
+          "difficulty": 0.5922318795592115
+        }
+      },
+      "explanation": {
+        "id": "bcb1fd04-9d27-4269-8d83-dbf33cf07c84",
+        "body": null,
+        "questionId": "28c7c9de-18f6-4c72-afed-3c54f07d4a72",
+        "resources": []
+      },
+      "topics": []
+    }
+  ]
+}

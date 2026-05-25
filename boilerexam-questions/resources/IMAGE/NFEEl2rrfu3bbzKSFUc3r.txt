@@ -1,0 +1,20 @@
+The image displays a Cartesian coordinate system plotting a current waveform, $i_L$, versus time, $t$.
+
+### 1. Axes and Labels
+*   **Vertical Axis (y-axis):** Labeled $i_L$ (mA) at the top. The axis displays values at three specific points: $1$, $0$, and $-1$.
+*   **Horizontal Axis (x-axis):** Labeled $t$ (s) at the far right. The axis displays markings for specific time intervals: $0$, $1$, $2$, $3$, and $4$.
+*   **Origin:** The intersection of the two axes is at the point $(0, 0)$.
+
+### 2. Waveform Description
+The waveform is a periodic, half-rectified sine wave (or a series of positive-only sinusoidal pulses):
+*   **First pulse:** Starts at $t = 0$, rises to a peak value of $1\text{ mA}$ at $t = 0.5$, and returns to zero at $t = 1$.
+*   **Interval:** Between $t = 1$ and $t = 2$, the value is $0$.
+*   **Second pulse:** Starts at $t = 2$, rises to a peak value of $1\text{ mA}$ at $t = 2.5$, and returns to zero at $t = 3$.
+*   **Trailing interval:** From $t = 3$ to $t = 4$, the waveform remains at $0$.
+
+### 3. Geometric and Spatial Characteristics
+*   The pulses have a width of $1$ unit on the horizontal axis.
+*   The pulses have a height of $1$ unit on the vertical axis.
+*   The shapes of the pulses are symmetric about their midpoints ($t=0.5$ and $t=2.5$ respectively).
+*   The horizontal axis terminates with an arrow, indicating the direction of increasing time.
+*   The vertical axis has tick marks indicating the range from $-1$ to $1$, with the waveform strictly occupying the $[0, 1]$ range.

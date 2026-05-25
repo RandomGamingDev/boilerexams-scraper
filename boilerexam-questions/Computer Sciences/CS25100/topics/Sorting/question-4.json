@@ -13,7 +13,7 @@
         "body": "Bruno is wrong. \\verb|BrunoSort| takes a painfully long time to sort each element in the list of numbers, so we can fix this by just merge-sorting everything instead.",
         "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
         "stats": {
-          "count": 24
+          "count": 29
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Bruno is wrong. The outer \\verb|for| loop of \\verb|BrunoSort| is fine, but the use of Selection Sort is not, and wouldn't accurately sort the values of $L$.",
         "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
         "stats": {
-          "count": 70
+          "count": 78
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Bruno is wrong. \\verb|BrunoSort| sorts the $n$ numbers in reverse order. To fix this, just have the loop go from 9 to 0 instead of from 0 to 9.\n\nAdditionally substitute a stable sorting algorithm instead of selection sort",
         "questionId": "eac7a062-309f-4efd-a7c0-1dc6febbc2f5",
         "stats": {
-          "count": 756
+          "count": 813
         },
         "resources": []
       },
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "123488580",
+    "timeSpent": "133283245",
     "timeSpentVideo": "0",
-    "submissions": 946,
-    "submissionsCorrect": 756,
-    "accuracy": 0.7991543340380549,
-    "difficulty": 0.4794455066921606
+    "submissions": 1020,
+    "submissionsCorrect": 813,
+    "accuracy": 0.7970588235294118,
+    "difficulty": 0.4794642857142857
   },
   "resources": [
     {
@@ -98,13 +98,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "2297672348",
-      "timeSpentVideo": "21159737",
-      "submissions": 15182,
-      "submissionsCorrect": 11664,
+      "timeSpent": "2767042047",
+      "timeSpentVideo": "29207138",
+      "submissions": 17666,
+      "submissionsCorrect": 13598,
       "questions": 17,
-      "accuracy": 0.7682782242128837,
-      "difficulty": 0.483477293547965
+      "accuracy": 0.7697271595154535,
+      "difficulty": 0.48179106157829565
     }
   },
   "explanation": {
@@ -120,13 +120,13 @@
       "courseId": "27c7ff3a-c08b-432e-ac8d-19aff935e0fb",
       "stats": {
         "count": 1,
-        "timeSpent": "7769082597",
-        "timeSpentVideo": "22007056",
-        "submissions": 20957,
-        "submissionsCorrect": 14088,
+        "timeSpent": "8231010773",
+        "timeSpentVideo": "23675199",
+        "submissions": 22476,
+        "submissionsCorrect": 15045,
         "questions": 21,
-        "accuracy": 0.6722336212244119,
-        "difficulty": 0.5785843187538586
+        "accuracy": 0.6693806727175654,
+        "difficulty": 0.5813695960311835
       }
     }
   ],

@@ -1,60 +1,59 @@
 {
-  "id": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+  "id": "1490744e-31cd-49f1-adb6-bf450a145aee",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Evaluate $\\displaystyle \\iint_{R} \\frac{x^{2} y}{2+x^{3}} d A$ over the region $R=\\{(x, y): 1 \\leq x \\leq 2,0 \\leq y \\leq 4\\}$.",
+    "body": "Compute the double integral $\\iint_{R} \\cos (x+y) d A$, where $R$ is the rectangle $[0, \\pi] \\times[0, \\pi]$.",
     "solution": [
-      2,
-      4
+      0
     ],
     "answerChoices": [
       {
-        "id": "1052fa42-7124-45e5-94f3-3f830471d151",
+        "id": "d37db2f8-33b3-4b9c-b3da-ccef29e8a243",
         "index": 0,
-        "body": "$\\ln (33)$",
-        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "body": "$-4$",
+        "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
         "stats": {
-          "count": 38
+          "count": 4086
         },
         "resources": []
       },
       {
-        "id": "b65850ed-daa3-4939-9bb5-f665432f0cb2",
+        "id": "4b07c3bd-2a1e-4b87-8c7c-e38002125103",
         "index": 1,
-        "body": "$\\frac{8}{3}(\\arctan (5)-\\arctan (1.5))$",
-        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "body": "$-2$",
+        "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
         "stats": {
-          "count": 92
+          "count": 1019
         },
         "resources": []
       },
       {
-        "id": "0ca864b0-707e-410a-a887-8c5b85fd94b8",
+        "id": "b5d7aef4-3ecb-4903-8869-e410ed49998d",
         "index": 2,
-        "body": "$\\frac{8}{3}(\\ln (10)-\\ln (3))$",
-        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "body": "$0$",
+        "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
         "stats": {
-          "count": 3667
+          "count": 948
         },
         "resources": []
       },
       {
-        "id": "0c33a931-bd58-4d02-9b72-3229db22a8a8",
+        "id": "c2092fa9-2ea5-4088-a7a0-670fa915368c",
         "index": 3,
-        "body": "$8\\left(\\frac{7}{3}+\\ln (2)\\right)$",
-        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "body": "$2$",
+        "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
         "stats": {
-          "count": 104
+          "count": 193
         },
         "resources": []
       },
       {
-        "id": "36c3d14d-f72e-4b3d-8a54-24924754f4ad",
+        "id": "3c5434c6-c7bd-40a6-9009-9aefc3f738cd",
         "index": 4,
-        "body": "$\\frac{8}{3}\\left(\\ln(5)-\\ln (1.5)\\right)$",
-        "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+        "body": "$4$",
+        "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
         "stats": {
-          "count": 401
+          "count": 147
         },
         "resources": []
       }
@@ -62,7 +61,7 @@
   },
   "number": 2,
   "disclaimer": "",
-  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "examId": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -72,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "904537646",
-    "timeSpentVideo": "39529000",
-    "submissions": 4236,
-    "submissionsCorrect": 3536,
-    "accuracy": 0.8347497639282342,
-    "difficulty": 0.42297047970479706
+    "timeSpent": "1489892055",
+    "timeSpentVideo": "248127858",
+    "submissions": 7799,
+    "submissionsCorrect": 4086,
+    "accuracy": 0.5239133222207976,
+    "difficulty": 0.7263894163818205
   },
   "resources": [],
   "exam": {
-    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "id": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
     "number": 2,
-    "year": 2019,
-    "season": "FALL",
+    "year": 2018,
+    "season": "SPRING",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
@@ -93,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "9666474372",
-      "timeSpentVideo": "1253572331",
-      "submissions": 41215,
-      "submissionsCorrect": 25750,
+      "timeSpent": "14273919262",
+      "timeSpentVideo": "2614373621",
+      "submissions": 59462,
+      "submissionsCorrect": 32856,
       "questions": 11,
-      "accuracy": 0.6247725342715031,
-      "difficulty": 0.6255294687159627
+      "accuracy": 0.5525545726682587,
+      "difficulty": 0.6975336624022027
     }
   },
   "explanation": {
-    "id": "ccc0f765-2cc1-474d-86f2-dc56e67443f2",
+    "id": "ce59a90a-4d25-43e9-afde-ed313d22185f",
     "body": "",
-    "questionId": "0311402c-a982-4749-9ba2-680c6d73ca0a",
+    "questionId": "1490744e-31cd-49f1-adb6-bf450a145aee",
     "resources": [
       {
-        "id": "6aa33528-db53-4a88-9a58-5d65407dbe1a",
+        "id": "2500e11f-d2c0-4637-a2c6-f6dc9d9aea16",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/olxqgUNis3E?si=H6zGr6dbjDNCIktc&t=220"
+          "url": "https://youtu.be/tE3sxPzvjrQ?t=118\r"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "ccc0f765-2cc1-474d-86f2-dc56e67443f2",
+        "explanationId": "ce59a90a-4d25-43e9-afde-ed313d22185f",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -130,28 +129,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "9954348110",
-        "timeSpentVideo": "913817069",
-        "submissions": 26039,
-        "submissionsCorrect": 15760,
+        "timeSpent": "14104847304",
+        "timeSpentVideo": "1078065308",
+        "submissions": 33147,
+        "submissionsCorrect": 19273,
         "questions": 5,
-        "accuracy": 0.605245977188064,
-        "difficulty": 0.6451566624583955
-      }
-    },
-    {
-      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
-      "name": "Double Integrals",
-      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
-      "stats": {
-        "count": 1,
-        "timeSpent": "18404015194",
-        "timeSpentVideo": "954158868",
-        "submissions": 46608,
-        "submissionsCorrect": 31980,
-        "questions": 11,
-        "accuracy": 0.6861483007209063,
-        "difficulty": 0.564250235505695
+        "accuracy": 0.5814402510031074,
+        "difficulty": 0.6688047041838361
       }
     }
   ],

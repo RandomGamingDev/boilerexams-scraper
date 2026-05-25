@@ -13,7 +13,7 @@
         "body": "In the binary search the <font style=\"font-family:'Courier New'\">last</font> variable is only equal to the <font style=\"font-family:'Courier New'\">mid</font> variable when only a single location remains as possible location of the target value.",
         "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
         "stats": {
-          "count": 875
+          "count": 1269
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Due to the cost associated with sorting data the binary search should be used with large data sets WITHOUT considering the frequency at which the data is searched.",
         "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
         "stats": {
-          "count": 4569
+          "count": 6458
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "With each unsuccessful comparison the binary search will eliminate approximately half of the remaining elements in the array as potential locations for the target.",
         "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
         "stats": {
-          "count": 185
+          "count": 255
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "None of the above.",
         "questionId": "3b5de9cf-1856-4e09-960a-e72383645838",
         "stats": {
-          "count": 361
+          "count": 496
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "899078825",
+    "timeSpent": "1264263685",
     "timeSpentVideo": "0",
-    "submissions": 6030,
-    "submissionsCorrect": 4569,
-    "accuracy": 0.7577114427860696,
-    "difficulty": 0.49649265905383355
+    "submissions": 8532,
+    "submissionsCorrect": 6458,
+    "accuracy": 0.7569151429910923,
+    "difficulty": 0.49606116774791476
   },
   "resources": [],
   "exam": {
@@ -82,13 +82,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "23054309422",
+      "timeSpent": "31317388233",
       "timeSpentVideo": "0",
-      "submissions": 184081,
-      "submissionsCorrect": 126805,
+      "submissions": 250999,
+      "submissionsCorrect": 173166,
       "questions": 49,
-      "accuracy": 0.6888543630249727,
-      "difficulty": 0.5612481743502316
+      "accuracy": 0.689907131104108,
+      "difficulty": 0.5601684992771775
     }
   },
   "explanation": {
@@ -104,13 +104,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "94288252211",
+        "timeSpent": "144270609339",
         "timeSpentVideo": "0",
-        "submissions": 262463,
-        "submissionsCorrect": 174570,
+        "submissions": 410426,
+        "submissionsCorrect": 274382,
         "questions": 81,
-        "accuracy": 0.6651223220034824,
-        "difficulty": 0.5849405666449576
+        "accuracy": 0.6685297715057038,
+        "difficulty": 0.581511280649703
       }
     },
     {
@@ -119,13 +119,13 @@
       "courseId": "803cbab7-3f7d-4912-9bf1-9812e893d445",
       "stats": {
         "count": 1,
-        "timeSpent": "15505672589",
-        "timeSpentVideo": "84949438",
-        "submissions": 48121,
-        "submissionsCorrect": 34108,
+        "timeSpent": "22953658733",
+        "timeSpentVideo": "102038102",
+        "submissions": 72739,
+        "submissionsCorrect": 51576,
         "questions": 18,
-        "accuracy": 0.7087965752997651,
-        "difficulty": 0.5416364239646627
+        "accuracy": 0.7090556647740552,
+        "difficulty": 0.5412313458449457
       }
     }
   ],

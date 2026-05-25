@@ -1,0 +1,29 @@
+This image is a directed, weighted graph containing 6 nodes labeled 0 through 5. Each node is represented by a circle containing its corresponding integer label. Directed edges (represented by lines with arrows) connect these nodes, each associated with a numerical weight.
+
+### Nodes
+*   **0**: Located on the far left.
+*   **1**: Located at the upper-left area.
+*   **2**: Located centrally.
+*   **3**: Located at the bottom center.
+*   **4**: Located at the upper-right area.
+*   **5**: Located on the far right.
+
+### Edges (Directed, Weight)
+The following list describes the direction of the flow and the weight assigned to each edge:
+
+1.  **Node 0 → Node 1**: Weight = **3**
+2.  **Node 0 → Node 3**: Weight = **4**
+3.  **Node 3 → Node 1**: Weight = **2**
+4.  **Node 3 → Node 2**: Weight = **1**
+5.  **Node 3 → Node 5**: Weight = **3**
+6.  **Node 1 → Node 4**: Weight = **5**
+7.  **Node 4 → Node 2**: Weight = **5**
+8.  **Node 4 → Node 5**: Weight = **4**
+
+### Spatial Layout
+*   The graph is arranged roughly in a "hub-and-spoke" and tiered style.
+*   Node 0 is the leftmost node.
+*   Nodes 1 and 4 occupy an upper horizontal arc.
+*   Node 3 acts as a central bottom node, with edges branching upward to Nodes 1 and 2, and rightward to Node 5.
+*   Node 2 is situated between Node 3 (below it) and Node 4 (to its upper-right).
+*   Node 5 is the rightmost node, receiving edges from Node 4 and Node 3.

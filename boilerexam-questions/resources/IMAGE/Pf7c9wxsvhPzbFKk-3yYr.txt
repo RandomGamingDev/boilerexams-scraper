@@ -1,0 +1,25 @@
+The image displays a 6x6 matrix (including header row and column). The structure is represented as follows:
+
+**Structure:**
+*   A grid with 6 rows and 6 columns.
+*   The first row serves as column headers, and the first column serves as row headers.
+*   A double vertical line separates the row headers from the matrix body.
+*   A single horizontal line separates the column headers from the matrix body.
+
+**Content (Row by Row):**
+
+*   **Header row (Col 0-4):** [Empty], 0, 1, 2, 3, 4
+*   **Row 0:** 0, 1, 1, 1, 1, 1
+*   **Row 1:** 1, 1, 1, 1, 1, 1
+*   **Row 2:** 2, 0, 0, 0, 0, 0
+*   **Row 3:** 3, 0, 0, 1, 0, 0
+*   **Row 4:** 4, 1, 1, 1, 1, 1
+
+**Matrix Data Only (5x5 grid):**
+| | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| **0** | 1 | 1 | 1 | 1 | 1 |
+| **1** | 1 | 1 | 1 | 1 | 1 |
+| **2** | 0 | 0 | 0 | 0 | 0 |
+| **3** | 0 | 0 | 1 | 0 | 0 |
+| **4** | 1 | 1 | 1 | 1 | 1 |

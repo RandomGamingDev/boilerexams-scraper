@@ -13,7 +13,7 @@
         "body": "Correct. The constructor copies the content from the given dictionaries to the objects created using the Customer class.",
         "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
         "stats": {
-          "count": 36
+          "count": 41
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Wrong. The constructor copies the address in memory of the given customer dictionary but does not copy its actual content. So, a change in a dictionary will affect the correctness of the respective object\u2019s data.",
         "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
         "stats": {
-          "count": 346
+          "count": 362
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "Correct. By adding the balance and other attributes as keys in the attributes dictionary, the correctness of the objects\u2019 data is not compromised as intended with the original constructor.",
         "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
         "stats": {
-          "count": 104
+          "count": 111
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "Wrong. Balance is not a key in the customer's dictionary. So, line 5 will cause an error.",
         "questionId": "d3c0995f-88cc-4b7a-92bf-27e529e44bc6",
         "stats": {
-          "count": 119
+          "count": 126
         },
         "resources": []
       }
@@ -61,12 +61,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "46243606",
-    "timeSpentVideo": "8212323",
-    "submissions": 617,
-    "submissionsCorrect": 346,
-    "accuracy": 0.5607779578606159,
-    "difficulty": 0.6976987447698745
+    "timeSpent": "49434787",
+    "timeSpentVideo": "8789830",
+    "submissions": 654,
+    "submissionsCorrect": 362,
+    "accuracy": 0.5535168195718655,
+    "difficulty": 0.7035809018567639
   },
   "resources": [
     {
@@ -98,13 +98,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "967830168",
-      "timeSpentVideo": "171610350",
-      "submissions": 10305,
-      "submissionsCorrect": 6635,
+      "timeSpent": "1035094524",
+      "timeSpentVideo": "180683724",
+      "submissions": 10872,
+      "submissionsCorrect": 6965,
       "questions": 13,
-      "accuracy": 0.6438622028141678,
-      "difficulty": 0.6075204228736184
+      "accuracy": 0.6406364974245768,
+      "difficulty": 0.6106452788917244
     }
   },
   "explanation": {

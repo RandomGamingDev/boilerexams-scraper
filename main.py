@@ -45,7 +45,7 @@ def main():
         json.dump(subject, f, indent=JSON_INDENT)
 
       for course in subject["courses"]:
-        COURSE_OUT = SUBJECT_OUT / f"{course["abbreviation"]}{course["number"]}"
+        COURSE_OUT = SUBJECT_OUT / f"{course['abbreviation']}{course['number']}"
         os.mkdir(COURSE_OUT)
 
         with open(COURSE_OUT / "course.json", 'w') as f:
@@ -65,7 +65,7 @@ def main():
           STUDY_RESOURCES_OUT = COURSE_OUT / study_resource_type
           os.mkdir(STUDY_RESOURCES_OUT)
 
-          res = requests.get(f"https://api.boilerexams.com/courses/{course["id"]}/{study_resource_type}")
+          res = requests.get(f"https://api.boilerexams.com/courses/{course['id']}/{study_resource_type}")
           res.raise_for_status()
 
           study_resources = res.json()
@@ -77,15 +77,15 @@ def main():
             STUDY_RESOURCE_OUT = None
             match study_mode:
               case "EXAM":
-                STUDY_RESOURCE_OUT = STUDY_RESOURCES_OUT / f"#{study_resource["number"]}-{study_resource["season"]},{study_resource["year"]}"
+                STUDY_RESOURCE_OUT = STUDY_RESOURCES_OUT / f"#{study_resource['number']}-{study_resource['season']},{study_resource['year']}"
               case "TOPIC":
-                STUDY_RESOURCE_OUT = STUDY_RESOURCES_OUT / f"{study_resource["name"]}"
+                STUDY_RESOURCE_OUT = STUDY_RESOURCES_OUT / f"{study_resource['name']}"
               case _:
                 continue
             os.mkdir(STUDY_RESOURCE_OUT)
 
             for question in study_resource["questions"]:
-              res = requests.get(f"https://api.boilerexams.com/questions/{question["id"]}")
+              res = requests.get(f"https://api.boilerexams.com/questions/{question['id']}")
               res.raise_for_status()
               question_data = res.json()
 
@@ -98,11 +98,11 @@ def main():
                   img_res = requests.get(resource["data"]["url"], stream=True)
                   img_res.raise_for_status()
 
-                  with open(RESOURCE_IMAGE_OUT / f"{resource["data"]["key"]}.png", "wb") as f:
+                  with open(RESOURCE_IMAGE_OUT / f"{resource['data']['key']}.png", "wb") as f:
                     for chunk in img_res.iter_content(chunk_size=8192):
                       f.write(chunk)
 
-              with open(STUDY_RESOURCE_OUT / f"question-{question["number"]}.json", 'w') as f:
+              with open(STUDY_RESOURCE_OUT / f"question-{question['number']}.json", 'w') as f:
                 json.dump(question_data, f, indent=JSON_INDENT)
   except requests.exceptions.RequestException as e:
     print(e)

@@ -1,0 +1,19 @@
+This image is a phase portrait for a system of two first-order differential equations. Below is an exhaustive structural description:
+
+### 1. Axes and Coordinate System
+*   **Horizontal Axis:** Labeled "$x_1$" at the bottom center. The axis ranges from approximately -5 to +5. Major tick marks are present at integers -4, -2, 0, 2, 4.
+*   **Vertical Axis:** Labeled "$x_2$" on the left side, centered vertically. The axis ranges from approximately -5 to +5. Major tick marks are present at integers -4, -2, 0, 2, 4.
+*   **Origin:** The intersection of the axes occurs at (0, 0).
+*   **Orientation:** The top of the vertical axis is also labeled "$x_1$" (likely a typo in the original source, as standard conventions usually label this $x_2$). Based on the axis label $x_2$ on the left, the vertical axis represents the $x_2$ variable.
+
+### 2. Geometric Flow and Vector Field
+*   **General Shape:** The plot displays a spiral pattern (an unstable spiral source).
+*   **Directionality:** All flow lines are directed outward, moving away from the origin (0, 0) in a counter-clockwise, expanding spiral trajectory.
+*   **Arrows:** Every trajectory line is decorated with at least one arrowhead indicating the direction of flow, which is consistently pointed away from the origin toward the periphery of the plot.
+*   **Density:** Trajectories originate from the immediate vicinity of the origin (0, 0) and propagate outward toward the edges of the bounding box.
+*   **Symmetry:** The spiral exhibits rotational symmetry. The curvature of the lines becomes less sharp as they move further from the origin, approaching a more radial path as they reach the outer boundaries.
+
+### 3. Key Observations
+*   **Fixed Point:** The origin (0, 0) appears to be an unstable equilibrium point (a spiral source).
+*   **Boundary Constraints:** The plot is bounded by a square frame, roughly spanning $x_1 \in [-5, 5]$ and $x_2 \in [-5, 5]$.
+*   **Trajectory Characteristics:** The paths do not intersect each other. As the paths approach the outer limits of the graph, they maintain the counter-clockwise outward spiral orientation.

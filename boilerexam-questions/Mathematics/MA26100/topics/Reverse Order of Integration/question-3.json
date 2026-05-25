@@ -1,59 +1,59 @@
 {
-  "id": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+  "id": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "Evaluate $\\displaystyle I=\\int_{0}^{\\sqrt{2 \\pi}} \\int_{y^{2}}^{2 \\pi} y \\cos \\left(x^{2}\\right) d x d y$ by switching the order of integration.",
+    "body": "Compute $\\int_{0}^{1} \\int_{2 x}^{2} e^{y^{2}} d y d x$ by reversing the order of integration.",
     "solution": [
       3
     ],
     "answerChoices": [
       {
-        "id": "07bfea09-e0b8-4443-a19d-7a48cf60d351",
+        "id": "2a82d449-695b-47c4-bb9c-010600ae49e6",
         "index": 0,
-        "body": "$I=0$",
-        "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+        "body": "$e^{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
         "stats": {
-          "count": 658
+          "count": 37
         },
         "resources": []
       },
       {
-        "id": "8e140308-ed07-46ea-a618-baa341755ba6",
+        "id": "f0f1316e-5651-4573-98ed-c0c9a73733de",
         "index": 1,
-        "body": "$I=\\frac{\\pi}{2}$",
-        "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+        "body": "$\\frac{e^{4}}{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
         "stats": {
-          "count": 79
+          "count": 83
         },
         "resources": []
       },
       {
-        "id": "11cee6b1-770e-4eea-9020-05e53c8f3ad9",
+        "id": "297df266-10c7-4e29-bc09-468ae4999a0a",
         "index": 2,
-        "body": "$I=\\frac{\\pi^{2}}{4}$",
-        "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+        "body": "$e^{4}-1$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
         "stats": {
-          "count": 138
+          "count": 155
         },
         "resources": []
       },
       {
-        "id": "97505615-bc6c-42df-9098-73e4651d07d8",
+        "id": "aded4fe1-893b-401a-aafb-9225144cec94",
         "index": 3,
-        "body": "$I=\\frac{\\sin \\left(4 \\pi^{2}\\right)}{4}$",
-        "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+        "body": "$\\frac{e^{4}}{4}-\\frac{1}{4}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
         "stats": {
-          "count": 2786
+          "count": 2215
         },
         "resources": []
       },
       {
-        "id": "c03c1c48-a31f-4434-b439-288b20ee4049",
+        "id": "4a128481-e7f8-47fb-af1e-748c8d9453cf",
         "index": 4,
-        "body": "$I=1$",
-        "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+        "body": "$\\frac{e^{4}}{2}-\\frac{1}{2}$",
+        "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
         "stats": {
-          "count": 35
+          "count": 88
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 3,
   "disclaimer": "",
-  "examId": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+  "examId": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "1128736453",
-    "timeSpentVideo": "73874760",
-    "submissions": 4129,
-    "submissionsCorrect": 2786,
-    "accuracy": 0.6747396464034875,
-    "difficulty": 0.5793922913218255
+    "timeSpent": "590775077",
+    "timeSpentVideo": "64016333",
+    "submissions": 2829,
+    "submissionsCorrect": 2215,
+    "accuracy": 0.7829621774478615,
+    "difficulty": 0.4766985319221577
   },
   "resources": [],
   "exam": {
-    "id": "daffd745-4b00-4bb5-9faa-34e94e9048f6",
+    "id": "4e854feb-e2d6-4fec-97ed-2a2e4a98ba60",
     "number": 2,
-    "year": 2019,
-    "season": "FALL",
+    "year": 2018,
+    "season": "SPRING",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
@@ -92,30 +92,30 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "9666474372",
-      "timeSpentVideo": "1253572331",
-      "submissions": 41215,
-      "submissionsCorrect": 25750,
+      "timeSpent": "14273919262",
+      "timeSpentVideo": "2614373621",
+      "submissions": 59462,
+      "submissionsCorrect": 32856,
       "questions": 11,
-      "accuracy": 0.6247725342715031,
-      "difficulty": 0.6255294687159627
+      "accuracy": 0.5525545726682587,
+      "difficulty": 0.6975336624022027
     }
   },
   "explanation": {
-    "id": "a2f549e6-378c-47ba-ab93-dff2f6ce9690",
+    "id": "937da287-e7f8-4f46-a303-ed0de2a5ab78",
     "body": "",
-    "questionId": "b09e33fd-c365-4a01-ae8a-9b65e37fbe21",
+    "questionId": "a1ae4e18-870c-4b49-99e7-3867a90f809f",
     "resources": [
       {
-        "id": "644c7cdc-8c36-40d9-bf0a-94b1386bc2e6",
+        "id": "ef6229f5-8961-4d57-8758-9c918669545b",
         "type": "VIDEO",
         "data": {
-          "url": "https://youtu.be/olxqgUNis3E?si=D-I807SuWhHRQJD4&t=410"
+          "url": "https://youtu.be/tE3sxPzvjrQ?t=236\r"
         },
         "courseId": null,
         "examId": null,
         "questionId": null,
-        "explanationId": "a2f549e6-378c-47ba-ab93-dff2f6ce9690",
+        "explanationId": "937da287-e7f8-4f46-a303-ed0de2a5ab78",
         "applicationId": null,
         "answerChoiceId": null,
         "customExamId": null
@@ -124,33 +124,18 @@
   },
   "topics": [
     {
-      "id": "7b0651ae-377d-4129-8c88-4240f3fa8fbe",
-      "name": "Double Integrals",
-      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
-      "stats": {
-        "count": 1,
-        "timeSpent": "18404015194",
-        "timeSpentVideo": "954158868",
-        "submissions": 46608,
-        "submissionsCorrect": 31980,
-        "questions": 11,
-        "accuracy": 0.6861483007209063,
-        "difficulty": 0.564250235505695
-      }
-    },
-    {
       "id": "a43bee55-06a0-4f4c-a3fc-25709c8399a7",
       "name": "Reverse Order of Integration",
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "12744845674",
-        "timeSpentVideo": "1217317665",
-        "submissions": 31008,
-        "submissionsCorrect": 21321,
-        "questions": 9,
-        "accuracy": 0.6875967492260062,
-        "difficulty": 0.563006300630063
+        "timeSpent": "17152205794",
+        "timeSpentVideo": "1321597581",
+        "submissions": 41169,
+        "submissionsCorrect": 28885,
+        "questions": 10,
+        "accuracy": 0.7016201510845539,
+        "difficulty": 0.5488684000096925
       }
     }
   ],

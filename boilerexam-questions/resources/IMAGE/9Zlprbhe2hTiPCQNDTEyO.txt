@@ -1,0 +1,28 @@
+This image is a Pole-Zero plot on a complex s-plane.
+
+### 1. Coordinate System
+*   **Axes:** A standard Cartesian coordinate system.
+*   **Vertical Axis:** Labeled "**jω**" at the top with an upward-pointing arrow.
+*   **Horizontal Axis:** Labeled "**σ**" at the right with a rightward-pointing arrow.
+*   **Origin:** The intersection of the axes represents (0,0).
+
+### 2. Symbols and Markers
+There are a total of 5 markers plotted on the plane, all colored in red:
+
+*   **Poles (indicated by 'x'):**
+    *   There are 4 poles total, all located in the Left-Half Plane (LHP), where $\sigma < 0$.
+    *   **Upper-left pole:** Located at a negative $\sigma$ value and a positive $j\omega$ value (high magnitude).
+    *   **Inner-upper pole:** Located at a negative $\sigma$ value closer to the origin, and a positive $j\omega$ value.
+    *   **Inner-lower pole:** Located at a negative $\sigma$ value (aligned horizontally with the inner-upper pole) and a negative $j\omega$ value.
+    *   **Lower-left pole:** Located at a negative $\sigma$ value (aligned horizontally with the upper-left pole) and a negative $j\omega$ value (high magnitude).
+
+*   **Zeros (indicated by 'o'):**
+    *   There is 1 zero total.
+    *   Located on the horizontal axis ($\sigma$-axis) in the Right-Half Plane (RHP), where $\sigma > 0$.
+
+### 3. Spatial Arrangement
+*   **Symmetry:** The configuration of the 4 poles exhibits conjugate symmetry across the horizontal ($\sigma$) axis.
+*   **Relative Positions:** 
+    *   The two "inner" poles are closer to the $j\omega$-axis than the two "outer" poles.
+    *   The zero is located to the right of the $j\omega$-axis on the $\sigma$-axis.
+    *   All poles share negative real parts, while the single zero shares a positive real part.

@@ -1,0 +1,30 @@
+This is a technical description of the provided supply and demand graph.
+
+### 1. Axes and Scales
+*   **Vertical Axis:** Labeled "Price". The scale ranges from 0 to 26 in integer increments.
+*   **Horizontal Axis:** Labeled "Quantity". The scale ranges from 0 to 13 in integer increments.
+
+### 2. Plot Elements and Labels
+*   **Demand Curve ($D_1$):** A downward-sloping straight line. It intersects the vertical axis at a price of 22 and passes through the point (6, 16) and (7, 15).
+*   **Original Supply Curve ($S_1$):** An upward-sloping straight line. It intersects the vertical axis at a price of 1 and passes through the point (6, 13) and (7, 15).
+*   **Taxed Supply Curve ($S_t$):** An upward-sloping straight line parallel to $S_1$. It intersects the vertical axis at a price of 4 and passes through the point (6, 16) and (7, 18).
+
+### 3. Key Intersections and Coordinate Points
+The graph highlights specific equilibrium points with solid black dots and dashed lines:
+
+*   **Intersection of $D_1$ and $S_1$:**
+    *   Located at quantity $Q = 7$ and price $P = 15$.
+*   **Intersection of $D_1$ and $S_t$:**
+    *   Located at quantity $Q = 6$ and price $P = 16$.
+*   **Vertical Projections at $Q = 6$:**
+    *   At quantity 6, there are three marked points on the lines:
+        *   Point on $S_t$ and $D_1$: Price = 16.
+        *   Point on $S_1$: Price = 13.
+*   **Vertical Projections at $Q = 7$:**
+    *   At quantity 7, there are two marked points on the lines:
+        *   Point on $D_1$ and $S_1$: Price = 15.
+        *   Point on $S_t$: Price = 18.
+
+### 4. Ancillary Information
+*   **Figure Title:** "Figure 2.3: A market with a tax."
+*   **Formatting:** The plot features a grid-like structure where dashed lines connect points on the curves horizontally to the Price axis and vertically to the Quantity axis.

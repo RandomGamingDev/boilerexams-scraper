@@ -13,7 +13,7 @@
         "body": "Let $\\mathbf{x}, \\mathbf{y}, \\mathbf{z} \\in \\mathbb{R}^{3}$. If $\\mathbf{z}$ is not a multiple of $\\mathbf{y}$, and $\\mathbf{y}$ is not a multiple of $\\mathbf{x}$, then $\\{\\mathbf{x}, \\mathbf{y}, \\mathbf{z}\\}$ is linearly independent.",
         "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
         "stats": {
-          "count": 221
+          "count": 335
         },
         "resources": []
       },
@@ -23,7 +23,7 @@
         "body": "Let $T: \\mathbb{R}^{n} \\rightarrow \\mathbb{R}^{m}$ be a one-to-one linear transformation. If $\\{\\mathbf{x}, \\mathbf{y}\\}$ is a linearly independent set in $\\mathbb{R}^{n}$, then so is $\\{T(\\mathbf{x}), T(\\mathbf{y})\\}$ in $\\mathbb{R}^{m}$.",
         "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
         "stats": {
-          "count": 1925
+          "count": 2949
         },
         "resources": []
       },
@@ -33,7 +33,7 @@
         "body": "If $A$ is an $m \\times n$ matrix and $m \\geq n$, then $A$ has linearly independent columns.",
         "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
         "stats": {
-          "count": 169
+          "count": 270
         },
         "resources": []
       },
@@ -43,7 +43,7 @@
         "body": "If $A$ is an $m \\times n$ matrix and $A \\mathbf{x}=\\mathbf{b}$ is consistent for every $\\mathbf{b} \\in \\mathbb{R}^{m}$, then the columns of $A$ are linearly independent.",
         "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
         "stats": {
-          "count": 422
+          "count": 678
         },
         "resources": []
       },
@@ -53,7 +53,7 @@
         "body": "If the columns of a matrix $A$ are linearly independent, then the equation $A \\mathbf{x}=\\mathbf{b}$ has a unique solution for every $\\mathbf{b}$.",
         "questionId": "acbfad3a-c706-4cdc-ae68-387e6a9344b4",
         "stats": {
-          "count": 930
+          "count": 1336
         },
         "resources": []
       }
@@ -71,12 +71,12 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "634644159",
-    "timeSpentVideo": "197786192",
-    "submissions": 3879,
-    "submissionsCorrect": 1925,
-    "accuracy": 0.4962619231760763,
-    "difficulty": 0.7536441316913798
+    "timeSpent": "984701488",
+    "timeSpentVideo": "266404778",
+    "submissions": 5917,
+    "submissionsCorrect": 2949,
+    "accuracy": 0.49839445665032955,
+    "difficulty": 0.7515788598969586
   },
   "resources": [],
   "exam": {
@@ -92,13 +92,13 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12255330332",
-      "timeSpentVideo": "2782590356",
-      "submissions": 66612,
-      "submissionsCorrect": 37122,
+      "timeSpent": "19443736192",
+      "timeSpentVideo": "3842487418",
+      "submissions": 102800,
+      "submissionsCorrect": 58178,
       "questions": 25,
-      "accuracy": 0.5572869753197622,
-      "difficulty": 0.6927988967502099
+      "accuracy": 0.5659338521400779,
+      "difficulty": 0.6841302235179786
     }
   },
   "explanation": {
@@ -129,13 +129,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "38430916733",
-        "timeSpentVideo": "4797788342",
-        "submissions": 93356,
-        "submissionsCorrect": 55827,
-        "questions": 26,
-        "accuracy": 0.5980011997086422,
-        "difficulty": 0.6521036637562061
+        "timeSpent": "57019927809",
+        "timeSpentVideo": "6104797328",
+        "submissions": 129389,
+        "submissionsCorrect": 77647,
+        "questions": 24,
+        "accuracy": 0.6001051093987897,
+        "difficulty": 0.6499721984106758
       }
     },
     {
@@ -144,13 +144,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "20837099969",
-        "timeSpentVideo": "2264931816",
-        "submissions": 43742,
-        "submissionsCorrect": 25447,
+        "timeSpent": "29941001108",
+        "timeSpentVideo": "2911201595",
+        "submissions": 62399,
+        "submissionsCorrect": 36436,
         "questions": 11,
-        "accuracy": 0.581752091811074,
-        "difficulty": 0.6684343779937046
+        "accuracy": 0.5839196140963797,
+        "difficulty": 0.6662146594345509
       }
     },
     {
@@ -159,13 +159,13 @@
       "courseId": "b66f6a52-dcf1-4bd7-958c-5aa55993563c",
       "stats": {
         "count": 1,
-        "timeSpent": "22318099442",
-        "timeSpentVideo": "2567476807",
-        "submissions": 50248,
-        "submissionsCorrect": 27646,
-        "questions": 15,
-        "accuracy": 0.5501910523801943,
-        "difficulty": 0.6999086358941765
+        "timeSpent": "31029451104",
+        "timeSpentVideo": "3150318545",
+        "submissions": 67793,
+        "submissionsCorrect": 36982,
+        "questions": 13,
+        "accuracy": 0.5455135485964627,
+        "difficulty": 0.7045534885776148
       }
     }
   ],

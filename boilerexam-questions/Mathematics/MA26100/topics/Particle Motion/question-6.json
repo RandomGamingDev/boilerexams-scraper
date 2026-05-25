@@ -1,59 +1,59 @@
 {
-  "id": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+  "id": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
   "type": "MULTIPLE_CHOICE",
   "data": {
-    "body": "A particle has acceleration $\\mathbf{a}=\\left\\langle 6 t-2,-1 / t^{2}, 0\\right\\rangle$. It is known that the velocity at time $t=1$ is $\\mathbf{v}(1)=\\langle 1,1,1\\rangle$ and that the position vector at time $t=1$ is $\\mathbf{r}(1)=\\langle 0,0,3\\rangle$. Find the magnitude of the position vector at time $t=2$.",
+    "body": "A small metal ball is thrown vertically upward with a speed of $19.6 \\mathrm{~m} / \\mathrm{s}$, rises to a maximum height, and then falls, eventually striking the ground. How high does the ball rise measured from its point of release? (Recall that the gravitational acceleration is $9.8 \\mathrm{~m} / \\mathrm{s}^{2}$.)",
     "solution": [
-      2
+      1
     ],
     "answerChoices": [
       {
-        "id": "1209ee11-f225-4559-b4f2-1924bdf7a14b",
+        "id": "a3645c67-0b3b-46f6-8d59-22a8b9bbcff1",
         "index": 0,
-        "body": "$\\sqrt{16+\\ln 4}$",
-        "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+        "body": "$16 m$",
+        "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
         "stats": {
-          "count": 35
+          "count": 152
         },
         "resources": []
       },
       {
-        "id": "0f50cd51-8718-42cd-9950-2e8241a17491",
+        "id": "70a58203-d4f5-4d2c-8783-ff8c496c868b",
         "index": 1,
-        "body": "$\\sqrt{16+(\\ln 2)^{2}}$",
-        "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+        "body": "$19.6 m$",
+        "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
         "stats": {
-          "count": 275
+          "count": 5028
         },
         "resources": []
       },
       {
-        "id": "a19fe3c5-595e-42c7-a2d8-a467494d83a7",
+        "id": "9b04360e-db5f-461e-ba1f-0f7d2d2928e7",
         "index": 2,
-        "body": "$\\sqrt{32+(\\ln 2)^{2}}$",
-        "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+        "body": "$9.8 m$",
+        "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
         "stats": {
-          "count": 2319
+          "count": 402
         },
         "resources": []
       },
       {
-        "id": "53ba7617-7f52-4835-90ad-d2a0a56b9607",
+        "id": "0606b6d2-2958-4094-bbf2-6f55bb0786a4",
         "index": 3,
-        "body": "$4$",
-        "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+        "body": "$24 m$",
+        "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
         "stats": {
-          "count": 27
+          "count": 287
         },
         "resources": []
       },
       {
-        "id": "a6434870-1456-4b07-9117-fa0a95930dc9",
+        "id": "12b65a59-112b-4594-98a5-52dece6aadb6",
         "index": 4,
-        "body": "$\\sqrt{32+(\\ln4)^2}$",
-        "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
+        "body": "$12 m$",
+        "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
         "stats": {
-          "count": 76
+          "count": 120
         },
         "resources": []
       }
@@ -61,7 +61,7 @@
   },
   "number": 6,
   "disclaimer": "",
-  "examId": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+  "examId": "d33bb72a-691d-4862-a9ca-f2d579898b6b",
   "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
   "parentId": null,
   "flags": {
@@ -71,19 +71,19 @@
   },
   "stats": {
     "count": 1,
-    "timeSpent": "1058262433",
-    "timeSpentVideo": "45735820",
-    "submissions": 3163,
-    "submissionsCorrect": 2319,
-    "accuracy": 0.7331647170407841,
-    "difficulty": 0.5239809990806007
+    "timeSpent": "1526453983",
+    "timeSpentVideo": "80741825",
+    "submissions": 6275,
+    "submissionsCorrect": 5028,
+    "accuracy": 0.8012749003984063,
+    "difficulty": 0.4534509803921568
   },
   "resources": [],
   "exam": {
-    "id": "dd28cbf9-8a06-48f2-8a62-144cc9feab97",
+    "id": "d33bb72a-691d-4862-a9ca-f2d579898b6b",
     "number": 1,
     "year": 2019,
-    "season": "SPRING",
+    "season": "FALL",
     "disclaimer": "",
     "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
     "flags": {
@@ -92,35 +92,20 @@
     },
     "stats": {
       "count": 1,
-      "timeSpent": "12089540840",
-      "timeSpentVideo": "1355376322",
-      "submissions": 54414,
-      "submissionsCorrect": 32901,
+      "timeSpent": "23450797442",
+      "timeSpentVideo": "906858187",
+      "submissions": 94736,
+      "submissionsCorrect": 68557,
       "questions": 11,
-      "accuracy": 0.6046421876722902,
-      "difficulty": 0.6455497670323219
+      "accuracy": 0.7236636547880425,
+      "difficulty": 0.5265721877767936
     }
   },
   "explanation": {
-    "id": "55ee684b-8de8-4948-968b-61b34c8a263b",
+    "id": "157242f9-c73e-487b-8575-49ab6bf43d84",
     "body": "",
-    "questionId": "484f29c5-ea5f-47a4-94f5-301a1f3f673b",
-    "resources": [
-      {
-        "id": "45922852-57d1-4be6-bbd9-79d67200d680",
-        "type": "VIDEO",
-        "data": {
-          "url": "https://youtu.be/TA9-ezOW78k?feature=shared&t=795"
-        },
-        "courseId": null,
-        "examId": null,
-        "questionId": null,
-        "explanationId": "55ee684b-8de8-4948-968b-61b34c8a263b",
-        "applicationId": null,
-        "answerChoiceId": null,
-        "customExamId": null
-      }
-    ]
+    "questionId": "0c25ded2-aa96-4cce-8c1f-4b2306ea2b6a",
+    "resources": []
   },
   "topics": [
     {
@@ -129,13 +114,13 @@
       "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
       "stats": {
         "count": 1,
-        "timeSpent": "27634509693",
-        "timeSpentVideo": "1513885505",
-        "submissions": 59326,
-        "submissionsCorrect": 39646,
-        "questions": 15,
-        "accuracy": 0.6682736068502849,
-        "difficulty": 0.5820095581058796
+        "timeSpent": "30035519618",
+        "timeSpentVideo": "1547321611",
+        "submissions": 64748,
+        "submissionsCorrect": 43761,
+        "questions": 13,
+        "accuracy": 0.675866436028912,
+        "difficulty": 0.5744047619047619
       }
     }
   ],

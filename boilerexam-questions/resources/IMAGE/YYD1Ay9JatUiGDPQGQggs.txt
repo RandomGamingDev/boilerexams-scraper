@@ -1,0 +1,18 @@
+This image displays a data table structured with two columns and five rows, including the header.
+
+**Table Structure:**
+*   **Column 1 Header:** $n$
+*   **Column 2 Header:** $T(n)$
+*   **Border Style:** The table uses double vertical lines for the left and right boundaries and single horizontal lines to separate the rows.
+
+**Data Content (Row by Row):**
+*   **Row 1 (Headers):** "$n$" and "$T(n)$"
+*   **Row 2:** $n = 40$, $T(n) = 15$
+*   **Row 3:** $n = 80$, $T(n) = 60$
+*   **Row 4:** $n = 160$, $T(n) = 240$
+*   **Row 5:** $n = 320$, $T(n) = 960$
+
+**Spatial Relationships:**
+*   The table is formatted with four distinct data entries aligned in two columns.
+*   The values of $n$ increment by a factor of 2 in each subsequent row ($40, 80, 160, 320$).
+*   The values of $T(n)$ are vertically aligned with their corresponding $n$ values.

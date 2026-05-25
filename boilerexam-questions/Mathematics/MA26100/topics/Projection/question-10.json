@@ -1,0 +1,153 @@
+{
+  "id": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find $proj_{\\vec{v}}\\vec{u},$ the orthogonal projection of $\\vec{u}$ onto $\\vec{v}$ where $\\vec{u}=4\\vec{i}+\\vec{j}+2\\vec{k}$ and $\\vec{v}=\\vec{i}-\\vec{j}+\\vec{k}$.",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "b9d6abc5-35d8-4090-9049-bd378c9216d5",
+        "index": 0,
+        "body": "$\\frac{5}{21}(4\\vec{i}+\\vec{j}+2\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 41
+        },
+        "resources": []
+      },
+      {
+        "id": "673ef830-1489-4aa2-831a-eea0692f7018",
+        "index": 1,
+        "body": "$\\frac{5}{3}(4\\vec{i}+\\vec{j}+2\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 32
+        },
+        "resources": []
+      },
+      {
+        "id": "a085ad94-2181-40db-af49-ad4845016b16",
+        "index": 2,
+        "body": "$\\frac{5}{21}(\\vec{i}-\\vec{j}+\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 23
+        },
+        "resources": []
+      },
+      {
+        "id": "7ab0767d-ad45-40f4-84e2-46d328f17ed1",
+        "index": 3,
+        "body": "$\\frac{1}{\\sqrt{3}}(\\vec{i}-\\vec{j}+\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 19
+        },
+        "resources": []
+      },
+      {
+        "id": "c2eb2cb8-0b13-40e1-b70f-9f559db418c1",
+        "index": 4,
+        "body": "$\\frac{5}{3}(\\vec{i}-\\vec{j}+\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 635
+        },
+        "resources": []
+      },
+      {
+        "id": "1f88a43a-c996-499a-a2e3-49a58e559261",
+        "index": 5,
+        "body": "$\\frac{1}{\\sqrt{3}}(4\\vec{i}+\\vec{j}+2\\vec{k})$",
+        "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+        "stats": {
+          "count": 17
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 10,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "186993980",
+    "timeSpentVideo": "5387018",
+    "submissions": 876,
+    "submissionsCorrect": 635,
+    "accuracy": 0.7248858447488584,
+    "difficulty": 0.548155737704918
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "f8b02b44-56c7-4382-8db2-91961825f8e9",
+    "body": "Hint: Use the formula $proj_{\\vec{v}}\\vec{u} = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{v}|^2} \\vec{v}$. A common mistake is using the magnitude of $\\vec{u}$ or dividing by the wrong vector\u2014remember, you are projecting onto $\\vec{v}$, so $\\vec{v}$ is the \"base.\"",
+    "questionId": "290ea6a9-d367-46bf-bb45-9f87a9230eef",
+    "resources": [
+      {
+        "id": "519978d6-ed71-497e-b816-b82cf62284cd",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=3217"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "f8b02b44-56c7-4382-8db2-91961825f8e9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "b04d6587-e078-4b1a-9145-95be7711cdf5",
+      "name": "Projection",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "345010104",
+        "timeSpentVideo": "5387018",
+        "submissions": 876,
+        "submissionsCorrect": 635,
+        "questions": 1,
+        "accuracy": 0.7248858447488584,
+        "difficulty": 0.548155737704918
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "2f743115-120c-44cd-a671-9e2eb148f627",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find the plane tangent to the elliptic cone $$y^{2}+4z^{2}=x^{2}$$at $(5,3,-2)$.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "5b1226c1-0850-4422-a9b8-f69054067dc7",
+        "index": 0,
+        "body": "$5x-y-4z=30$",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "8087f824-0844-4412-b81a-1d66125a19b1",
+        "index": 1,
+        "body": "$5x-3y-8z=32$",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 82
+        },
+        "resources": []
+      },
+      {
+        "id": "70727140-51b4-46f4-9cb9-74551adbb066",
+        "index": 2,
+        "body": "$5x-3y+8z=0$",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 576
+        },
+        "resources": []
+      },
+      {
+        "id": "4feca95d-4349-4969-b981-376b2cceba6c",
+        "index": 3,
+        "body": "$5x+3y-2z=38$",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 44
+        },
+        "resources": []
+      },
+      {
+        "id": "862a20b5-dada-4f5f-a475-74ba6e364d7a",
+        "index": 4,
+        "body": "$x+3y-2z=18$",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 12
+        },
+        "resources": []
+      },
+      {
+        "id": "9a975f5f-e3dc-454c-b06e-066a7494d9d1",
+        "index": 5,
+        "body": "$x-y-4z=10$ ",
+        "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+        "stats": {
+          "count": 54
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 12,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "252154119",
+    "timeSpentVideo": "29482299",
+    "submissions": 1007,
+    "submissionsCorrect": 576,
+    "accuracy": 0.5719960278053625,
+    "difficulty": 0.6845076784101174
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "621f4970-9260-4e04-9f2e-b4d7351e41d9",
+    "body": "Hint: Treat the equation as a level surface $F(x,y,z) = 0$ by moving all terms to one side. The gradient $\\nabla F$ evaluated at the point $(5, 3, -2)$ will give you the normal vector $\\langle a, b, c \\rangle$ for your plane equation.",
+    "questionId": "2f743115-120c-44cd-a671-9e2eb148f627",
+    "resources": [
+      {
+        "id": "c4c7d7d3-ec6b-4387-a114-884c5e6274c2",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=3764"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "621f4970-9260-4e04-9f2e-b4d7351e41d9",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "17f66274-7291-47b6-bf3f-73094d8b3ecc",
+      "name": "Tangent Planes",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "34362531367",
+        "timeSpentVideo": "2872623562",
+        "submissions": 72552,
+        "submissionsCorrect": 41568,
+        "questions": 14,
+        "accuracy": 0.5729407872973867,
+        "difficulty": 0.6771596101965535
+      }
+    }
+  ],
+  "children": []
+}

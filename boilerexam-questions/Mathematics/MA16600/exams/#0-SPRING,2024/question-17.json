@@ -1,0 +1,158 @@
+{
+  "id": "d628fd68-e118-4996-931b-75da92e16126",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "For the integral $I = \\int \\frac{1}{x^4 \\sqrt{x^2 - 4}} \\,dx$, choose the right trigonometric substitution and find the resulting integral.",
+    "solution": [
+      2
+    ],
+    "answerChoices": [
+      {
+        "id": "492f16b9-8274-4322-8ca1-3d4605ae56f3",
+        "index": 0,
+        "body": "$x = 2 \\tan \\theta, \\quad\nI = \\frac{1}{16} \\int \\frac{\\tan \\theta}{\\sec^3 \\theta} \\, d\\theta$",
+        "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "0d759e93-ab55-42c4-b0dc-954b13c07654",
+        "index": 1,
+        "body": "$x = 4 \\tan \\theta, \\quad\nI = \\frac{1}{8} \\int \\frac{\\tan \\theta}{\\sec^2 \\theta} \\, d\\theta\n$",
+        "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+        "stats": {
+          "count": 5
+        },
+        "resources": []
+      },
+      {
+        "id": "cae7023c-3717-46f7-8665-491eb3f6b365",
+        "index": 2,
+        "body": "$x = 2 \\sec \\theta, \\quad\nI = \\frac{1}{16} \\int \\cos^3 \\theta \\, d\\theta\n$",
+        "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+        "stats": {
+          "count": 71
+        },
+        "resources": []
+      },
+      {
+        "id": "5763da80-715b-4c84-ae67-a84aadc19cfc",
+        "index": 3,
+        "body": "$x = 2 \\sec \\theta, \\quad I = \\frac{1}{16} \\int \\cos^4 \\theta \\tan \\theta \\, d\\theta$\n",
+        "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+        "stats": {
+          "count": 25
+        },
+        "resources": []
+      },
+      {
+        "id": "62af394c-2821-4599-9e67-dd79731c547a",
+        "index": 4,
+        "body": "$x = 4 \\sin \\theta, \\quad\nI = \\frac{1}{2} \\int \\sin^4 \\theta \\, d\\theta\n$",
+        "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 17,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "20282676",
+    "timeSpentVideo": "1574048",
+    "submissions": 131,
+    "submissionsCorrect": 71,
+    "accuracy": 0.5419847328244275,
+    "difficulty": 0.7261904761904762
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "fe1d20fb-b4e9-41c9-9768-36626dce7d9a",
+    "body": "In the beginning of the video, I state that I changed microphone setups for the first time, but in previous explanations, I will have used this microphone rig as well. This is because I recorded this specific problem first and then went back and rerecorded some problems with this new microphone rig afterwards. ",
+    "questionId": "d628fd68-e118-4996-931b-75da92e16126",
+    "resources": [
+      {
+        "id": "7be0487a-af53-483d-939e-f4f6fa813c7e",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=CN87v9JtZo3h7Gse&t=4219"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "fe1d20fb-b4e9-41c9-9768-36626dce7d9a",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "80bbc8a8-578e-492d-bced-e7762997d019",
+      "name": "Integration of Trig Functions",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1945683442",
+        "timeSpentVideo": "97153715",
+        "submissions": 3630,
+        "submissionsCorrect": 2115,
+        "questions": 11,
+        "accuracy": 0.5826446280991735,
+        "difficulty": 0.6695710455764075
+      }
+    },
+    {
+      "id": "85545940-0835-4dd3-98f0-4a85a04622e7",
+      "name": "Trig Substitution",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "1431709802",
+        "timeSpentVideo": "69451233",
+        "submissions": 2566,
+        "submissionsCorrect": 1481,
+        "questions": 18,
+        "accuracy": 0.5771628994544037,
+        "difficulty": 0.6757314328582146
+      }
+    }
+  ],
+  "children": []
+}

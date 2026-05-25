@@ -1,0 +1,30 @@
+This is a circuit diagram composed of a single mesh-loop-like structure with multiple branches connected between two common horizontal rails.
+
+### Circuit Topology:
+The circuit consists of four parallel branches connected across two horizontal wires (a top node path and a bottom reference rail). From left to right, the components are:
+
+1.  **Leftmost branch:** An independent current source.
+    *   The symbol is a circle containing an upward-pointing arrow.
+    *   To the left of the symbol is the text: $0.5u(-t)\text{A}$
+2.  **Second branch:** A resistor.
+    *   The symbol is a standard zigzag resistor.
+    *   To the right of the resistor is the text: $20\,\Omega$
+3.  **Third branch:** A capacitor.
+    *   The symbol consists of two parallel horizontal lines.
+    *   To the left of the capacitor is the label for the voltage across it: $v_c(t)$ with a plus sign ($+$) above the top line and a minus sign ($-$) below the bottom line.
+    *   To the right of the capacitor is the label: $C$
+4.  **Rightmost branch:** An independent voltage source in series with a resistor.
+    *   This branch consists of a resistor in the top wire, followed by a voltage source symbol.
+    *   **Resistor:** Located on the top horizontal wire between the capacitor branch and the voltage source. The symbol is a zigzag labeled $5\,\Omega$ above it.
+    *   **Voltage Source:** A circle containing a plus sign ($+$) at the top and a minus sign ($-$) at the bottom.
+    *   To the right of the voltage source is the text: $10u(t)\text{V}$
+
+### Summary of Text and Symbols:
+*   **Current Source:** $0.5u(-t)\text{A}$ (directed upward).
+*   **Resistor 1:** $20\,\Omega$
+*   **Voltage across Capacitor:** $v_c(t)$ (defined with polarity + on top, - on bottom).
+*   **Capacitor:** $C$
+*   **Resistor 2:** $5\,\Omega$
+*   **Voltage Source:** $10u(t)\text{V}$ (defined with polarity + on top, - on bottom).
+
+All horizontal segments are connected, forming a continuous rectangular loop path for the current sources and components.

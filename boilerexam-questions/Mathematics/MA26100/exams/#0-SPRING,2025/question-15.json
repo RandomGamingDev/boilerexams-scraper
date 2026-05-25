@@ -1,0 +1,169 @@
+{
+  "id": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Let $C$ be the boundary of the triangle formed by the portion of the plane $z=6-3x-y$ in the first octant, oriented as shown in the figure. Compute \n\n$\\oint_{C}\\vec{F}\\cdot d\\vec{r}$ \n\nfor the vector field $\\vec{F}=\\langle y+2z,-x,-2x \\rangle$. \n(Hint: use Stokes Theorem).",
+    "solution": [
+      4
+    ],
+    "answerChoices": [
+      {
+        "id": "f8aeaf58-e0da-4b53-9d62-7488ed3b4c7b",
+        "index": 0,
+        "body": "$6$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 28
+        },
+        "resources": []
+      },
+      {
+        "id": "054de85f-61c3-4d43-8c2d-ff87ad844630",
+        "index": 1,
+        "body": "$3$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 7
+        },
+        "resources": []
+      },
+      {
+        "id": "3f7cda05-0ab3-4164-adf3-ca7422b5aa3a",
+        "index": 2,
+        "body": "$18$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "4acfbe15-cb73-4399-8022-04c586ef4e85",
+        "index": 3,
+        "body": "$9$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 13
+        },
+        "resources": []
+      },
+      {
+        "id": "57085f3c-172e-46d2-9b2f-6a169b9ab64e",
+        "index": 4,
+        "body": "$12$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 550
+        },
+        "resources": []
+      },
+      {
+        "id": "c0ec2dba-c69f-427f-b198-5d402a95af49",
+        "index": 5,
+        "body": "$0$",
+        "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+        "stats": {
+          "count": 70
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 15,
+  "disclaimer": null,
+  "examId": "b0704490-71a5-423b-a7a7-b3a588285813",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "361898684",
+    "timeSpentVideo": "42413987",
+    "submissions": 965,
+    "submissionsCorrect": 550,
+    "accuracy": 0.5699481865284974,
+    "difficulty": 0.6866197183098591
+  },
+  "resources": [
+    {
+      "id": "a422a5ea-4e28-4d04-8a5f-68aa3a7d01c1",
+      "type": "IMAGE",
+      "data": {
+        "key": "GWyxZ1INH8tDYlYjq0AUi",
+        "url": "https://boilerexams-production.s3.us-east-2.amazonaws.com/GWyxZ1INH8tDYlYjq0AUi"
+      },
+      "courseId": null,
+      "examId": null,
+      "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+      "explanationId": null,
+      "applicationId": null,
+      "answerChoiceId": null,
+      "customExamId": null
+    }
+  ],
+  "exam": {
+    "id": "b0704490-71a5-423b-a7a7-b3a588285813",
+    "number": 0,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "4832862937",
+      "timeSpentVideo": "516570331",
+      "submissions": 19836,
+      "submissionsCorrect": 12706,
+      "questions": 20,
+      "accuracy": 0.6405525307521678,
+      "difficulty": 0.6101524879614767
+    }
+  },
+  "explanation": {
+    "id": "407d9da9-528a-496d-a1a8-b4bd90ec9205",
+    "body": null,
+    "questionId": "9a10bf39-a48f-49d1-abf7-b4c2554cde5d",
+    "resources": [
+      {
+        "id": "6ec0a224-4277-4835-89f9-5d222c94f8f0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/l0fbco_mhdE?t=4913"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "407d9da9-528a-496d-a1a8-b4bd90ec9205",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "1e3ab000-8306-4c54-b946-cf6e583d163a",
+      "name": "Stokes Theorem",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "28504246726",
+        "timeSpentVideo": "2383723439",
+        "submissions": 43281,
+        "submissionsCorrect": 19756,
+        "questions": 7,
+        "accuracy": 0.45645895427554817,
+        "difficulty": 0.7934406767939881
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "38251984-985e-4dd1-9e2d-322f413de332",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Find a parameterization of the line tangent to the graph of the vector-valued function $$\\vec{r}(t)=\\langle t \\cos(\\pi t), t \\sin(\\pi t), t^{2}\\rangle$$at the point $\\vec{r}(1)=\\langle-1,0,1\\rangle$",
+    "solution": [
+      5
+    ],
+    "answerChoices": [
+      {
+        "id": "d966eb5b-6a90-4ab8-b97e-ad141f857de4",
+        "index": 0,
+        "body": "$l(t)=\\langle-t,-\\pi t,2t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 50
+        },
+        "resources": []
+      },
+      {
+        "id": "bfee73a7-54e5-494f-bfda-ddcc3b9a929d",
+        "index": 1,
+        "body": "$l(t)=\\langle-1+\\pi t,-t,1+2t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 34
+        },
+        "resources": []
+      },
+      {
+        "id": "1aee0e7b-0e79-4cee-a2db-a507515cb10c",
+        "index": 2,
+        "body": "$l(t)=\\langle-1-t,-\\pi,2+t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 48
+        },
+        "resources": []
+      },
+      {
+        "id": "c87928ab-f12d-4685-a09b-3edcc05abe27",
+        "index": 3,
+        "body": " $l(t)=\\langle-1+\\pi t,-\\pi t,1+2t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 110
+        },
+        "resources": []
+      },
+      {
+        "id": "1fa21ad2-aa58-4491-8ee7-18546f018982",
+        "index": 4,
+        "body": "$l(t)=\\langle-\\pi t,0,2t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 45
+        },
+        "resources": []
+      },
+      {
+        "id": "d4e14bd4-12b2-46a6-bb90-17c8a1b33078",
+        "index": 5,
+        "body": "$l(t)=\\langle-1-t,-\\pi t,1+2t\\rangle$",
+        "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+        "stats": {
+          "count": 724
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 4,
+  "disclaimer": null,
+  "examId": "38520389-dae2-4616-a04b-ccce8b2266d4",
+  "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "438594030",
+    "timeSpentVideo": "53293400",
+    "submissions": 1367,
+    "submissionsCorrect": 724,
+    "accuracy": 0.5296269202633505,
+    "difficulty": 0.7223926380368099
+  },
+  "resources": [],
+  "exam": {
+    "id": "38520389-dae2-4616-a04b-ccce8b2266d4",
+    "number": 1,
+    "year": 2025,
+    "season": "SPRING",
+    "disclaimer": "I kept saying \"Fall 2025\", this is the Spring 2025 Exam 1",
+    "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "3380092233",
+      "timeSpentVideo": "385492291",
+      "submissions": 14316,
+      "submissionsCorrect": 8914,
+      "questions": 12,
+      "accuracy": 0.6226599608829282,
+      "difficulty": 0.6281908990011099
+    }
+  },
+  "explanation": {
+    "id": "89b4529f-331e-465b-aa51-6dae04f62fd3",
+    "body": "Hint: A line needs a point and a direction. You are given the point $\\vec{r}(1)$. To find the direction vector, compute the derivative $\\vec{r}'(t)$ and evaluate it at $t=1$. Remember to use the product rule for the $x$ and $y$ components.",
+    "questionId": "38251984-985e-4dd1-9e2d-322f413de332",
+    "resources": [
+      {
+        "id": "2bb18124-15d2-4c98-a242-15c26ed1d8a5",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/yMFTfGHSMb8?t=1084"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "89b4529f-331e-465b-aa51-6dae04f62fd3",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "4bdda272-bf22-4378-acf4-3b7a0f512f6c",
+      "name": "Line Parameterization",
+      "courseId": "847b72f2-2293-47ee-849a-94c79e4fab16",
+      "stats": {
+        "count": 1,
+        "timeSpent": "7102697667",
+        "timeSpentVideo": "414057994",
+        "submissions": 11966,
+        "submissionsCorrect": 7494,
+        "questions": 4,
+        "accuracy": 0.6262744442587331,
+        "difficulty": 0.6247720868556274
+      }
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,143 @@
+{
+  "id": "356267b9-b160-4214-8489-3c20e9e52ded",
+  "type": "MULTIPLE_CHOICE",
+  "data": {
+    "body": "Compute the value of the series: \n$\\sum_{k=0}^\\infty \\frac{k+1}{5^k}$\nHINT: Start from the power series of $f(x)=\\frac{1}{1-x}$. What is $f'(x)$, and how does it compare to the series above? ",
+    "solution": [
+      1
+    ],
+    "answerChoices": [
+      {
+        "id": "d2009cae-9d7d-452f-a3df-9cdb0404a4f9",
+        "index": 0,
+        "body": "$\\frac{3}{4}$",
+        "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "cea8e711-2a30-4801-8f91-f795d0fddb30",
+        "index": 1,
+        "body": "$\\frac{25}{16}$",
+        "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+        "stats": {
+          "count": 68
+        },
+        "resources": []
+      },
+      {
+        "id": "9a3fb383-f4f4-48ab-aa6a-937b27f91921",
+        "index": 2,
+        "body": "$\\frac{24}{5}$",
+        "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+        "stats": {
+          "count": 6
+        },
+        "resources": []
+      },
+      {
+        "id": "f93ec6e1-dca2-4518-8f69-e2292a54700f",
+        "index": 3,
+        "body": "2",
+        "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+        "stats": {
+          "count": 3
+        },
+        "resources": []
+      },
+      {
+        "id": "ab13d55a-07ce-4a72-908d-efcf187b1857",
+        "index": 4,
+        "body": "$\\frac{5}{4}$",
+        "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+        "stats": {
+          "count": 8
+        },
+        "resources": []
+      }
+    ]
+  },
+  "number": 21,
+  "disclaimer": null,
+  "examId": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+  "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+  "parentId": null,
+  "flags": {
+    "published": true,
+    "disableRandomAnswers": false,
+    "answersStartHidden": false
+  },
+  "stats": {
+    "count": 1,
+    "timeSpent": "25497267",
+    "timeSpentVideo": "2686075",
+    "submissions": 113,
+    "submissionsCorrect": 68,
+    "accuracy": 0.6017699115044248,
+    "difficulty": 0.6960093896713615
+  },
+  "resources": [],
+  "exam": {
+    "id": "1a8eda7e-7a66-4c49-bb7b-b019823a4fb1",
+    "number": 0,
+    "year": 2024,
+    "season": "SPRING",
+    "disclaimer": "",
+    "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+    "flags": {
+      "published": true,
+      "practice": false
+    },
+    "stats": {
+      "count": 1,
+      "timeSpent": "735286776",
+      "timeSpentVideo": "64003869",
+      "submissions": 3741,
+      "submissionsCorrect": 2162,
+      "questions": 25,
+      "accuracy": 0.5779203421545042,
+      "difficulty": 0.6741083051288727
+    }
+  },
+  "explanation": {
+    "id": "4ed88961-6c62-4121-b288-9c8a0623ac98",
+    "body": null,
+    "questionId": "356267b9-b160-4214-8489-3c20e9e52ded",
+    "resources": [
+      {
+        "id": "da09b8f2-bcbc-4925-b006-721ab902acd0",
+        "type": "VIDEO",
+        "data": {
+          "url": "https://youtu.be/L4T58sAlnYM?si=Qd9ZyvqAJSz8UrZ0&t=5586"
+        },
+        "courseId": null,
+        "examId": null,
+        "questionId": null,
+        "explanationId": "4ed88961-6c62-4121-b288-9c8a0623ac98",
+        "applicationId": null,
+        "answerChoiceId": null,
+        "customExamId": null
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "8d21f86c-b2f9-4de0-9a19-17b309493345",
+      "name": "Power Series",
+      "courseId": "24539138-2fa4-4a53-8976-88d5db5345a4",
+      "stats": {
+        "count": 1,
+        "timeSpent": "357438206",
+        "timeSpentVideo": "17527014",
+        "submissions": 662,
+        "submissionsCorrect": 409,
+        "questions": 3,
+        "accuracy": 0.6178247734138973,
+        "difficulty": 0.6476377952755905
+      }
+    }
+  ],
+  "children": []
+}
